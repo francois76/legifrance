@@ -1,0 +1,20 @@
+## Article L226-6
+
+Un service d'accueil téléphonique gratuit concourt, à l'échelon national, à la mission de protection
+des mineurs en danger prévue au présent chapitre. Ce service répond, à tout moment, aux demandes
+d'information ou de conseil concernant les situations de mineurs en danger ou présumés l'être. Il transmet
+immédiatement au président du conseil départemental, selon le dispositif mis en place en application de
+l'article L. 226-3, les informations qu'il recueille et les appréciations qu'il formule à propos de ces mineurs.
+A cette fin, le président du conseil départemental informe le groupement des modalités de fonctionnement
+permanent du dispositif départemental.
+
+L'Observatoire national de la protection de l'enfance contribue au recueil et à l'analyse des données et
+des études concernant la protection de l'enfance, en provenance de l'Etat, des collectivités territoriales,
+des établissements publics, des fondations et des associations oeuvrant en ce domaine. Il contribue à la
+mise en cohérence des différentes données et informations ainsi qu'à l'amélioration de la connaissance des
+phénomènes de mise en danger des mineurs et des questions d'adoption et d'accès aux origines personnelles.
+Il assure, dans le champ de compétence du groupement d'intérêt public mentionné à l'article L. 147-14, les
+missions de centre national de ressources, chargé de recenser les bonnes pratiques et de répertorier ou de
+concourir à l'élaboration d'outils et de référentiels. Il assure la diffusion de ces outils et référentiels auprès
+des acteurs de la protection de l'enfance et de l'adoption internationale.
+

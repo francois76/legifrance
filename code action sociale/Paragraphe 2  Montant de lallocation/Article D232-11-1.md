@@ -1,0 +1,34 @@
+## Article D232-11-1
+
+I.-La mise en œuvre des modalités de calcul de l'allocation et de la participation forfaitaires prévues
+au troisième alinéa de l'article L. 232-4 est précédée d'un réexamen des besoins d'aide à domicile des
+bénéficiaires de l'allocation personnalisée d'autonomie dont la fraction non utilisée de la partie du plan d'aide
+relative à l'aide à domicile excède 10 % en moyenne sur une période de trois mois et, le cas échéant, d'une
+révision de la décision d'attribution de l'allocation personnalisée d'autonomie par le président du conseil
+départemental. Celui-ci peut en réduire le taux.
+
+Lorsque l'allocation et la participation sont forfaitaires, le service d'aide et d'accompagnement à domicile
+assure, le cas échéant par un dispositif de télégestion, le suivi des heures d'aide à domicile réalisées. Il tient
+à la disposition du bénéficiaire et du président du conseil départemental les informations relatives à ce suivi,
+les transmet au moins chaque mois au bénéficiaire et les communique, sur sa demande, au président du
+conseil départemental.
+
+II.-Le bénéficiaire de la prestation peut, suivant des modalités fixées par le contrat pluriannuel d'objectifs
+et de moyens mentionné à l'article L. 313-11-1, bénéficier du report des heures d'aide à domicile non
+effectuées, ainsi que d'une suspension de sa participation forfaitaire en cas d'absence du domicile du fait
+d'une hospitalisation, d'un accueil temporaire ou pour convenance personnelle. En cas d'hospitalisation, le
+forfait est suspendu dans un délai qui ne peut excéder trente jours à compter du début de l'hospitalisation.
+
+
+L'interruption et la fin des droits à l'allocation personnalisée d'autonomie à domicile entraînent,
+respectivement, la suspension et l'arrêt de sa participation forfaitaire.
+
+III.-La participation forfaitaire afférente à la fraction non utilisée de la partie du plan d'aide relative à l'aide
+à domicile fait l'objet d'un remboursement au bénéficiaire pour la fraction qui excède 5 % en moyenne sur
+une période de six mois, dans un délai et selon des modalités fixés par le contrat pluriannuel d'objectifs de
+moyens mentionné à l'article L. 313-11-1. Le bénéficiaire fait l'objet, à sa demande ou à celle du service, d'un
+réexamen de ses besoins d'aide à domicile par le président du conseil départemental dans un délai qui ne peut
+excéder deux mois à compter du dépôt de la demande. Au terme de ce délai, à défaut d'une notification, son
+allocation personnalisée d'autonomie et sa participation sont réputées révisées sur la base de son plan d'aide
+diminué des heures d'aide à domicile non utilisées, jusqu'à ce que la décision le concernant lui soit notifiée.
+

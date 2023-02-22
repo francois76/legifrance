@@ -1,0 +1,17 @@
+## Article L314-4
+
+Le montant total annuel des dépenses des établissements et services mentionnés aux 8°, 13° et 14° du I de
+l'article L. 312-1, qui sont à la charge de l'Etat, et, corrélativement, le montant total annuel des dépenses
+prises en compte pour le calcul des dotations globales de fonctionnement de ces établissements et services
+sont déterminés par le total du montant limitatif inscrit à ce titre dans la loi de finances de l'année de
+l'exercice considéré.
+
+Ce montant total annuel est constitué en dotations régionales limitatives. Le montant de ces dotations
+régionales est fixé par le ministre chargé de l'action sociale, en fonction des besoins de la population, des
+priorités définies au niveau national en matière de politique médico-sociale, en tenant compte de l'activité
+et des coûts moyens des établissements et services et d'un objectif de réduction progressive des inégalités
+dans l'allocation des ressources entre régions. A cet effet, un arrêté interministériel fixe, annuellement, les
+tarifs plafonds ou les règles de calcul desdits tarifs plafonds pour les différentes catégories d'établissements
+sociaux et médico-sociaux mentionnés au premier alinéa, ainsi que les règles permettant de ramener les tarifs
+pratiqués au niveau des tarifs plafonds.
+

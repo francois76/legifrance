@@ -1,0 +1,44 @@
+## Article L146-8
+
+Une équipe pluridisciplinaire évalue les besoins de compensation de la personne handicapée et son
+incapacité permanente sur la base de son projet de vie et de références définies par voie réglementaire et
+propose un plan personnalisé de compensation du handicap. Elle entend, soit sur sa propre initiative, soit
+lorsqu'ils en font la demande, la personne handicapée, ses parents lorsqu'elle est mineure, et la personne
+chargée de la mesure de protection juridique s'il s'agit d'un majeur faisant l'objet d'une mesure de protection
+juridique avec représentation relative à la personne. Dès lors qu'il est capable de discernement, l'enfant
+handicapé lui-même est entendu par l'équipe pluridisciplinaire. L'équipe pluridisciplinaire se rend sur le
+lieu de vie de la personne soit sur sa propre initiative, soit à la demande de la personne handicapée. Lors de
+l'évaluation, la personne handicapée, ses parents s'il s'agit d'un mineur ou, s'il s'agit d'un majeur faisant l'objet
+d'une mesure de protection juridique avec représentation relative à la personne, la personne chargée de cette
+mesure peuvent être assistés par une personne de leur choix. La composition de l'équipe pluridisciplinaire
+peut varier en fonction de la nature du ou des handicaps de la personne handicapée dont elle évalue les
+besoins de compensation ou l'incapacité permanente.
+
+L'équipe pluridisciplinaire sollicite, en tant que de besoin et lorsque les personnes concernées, leurs
+représentants légaux s'il s'agit de mineurs ou, s'il s'agit de majeurs faisant l'objet d'une mesure de protection
+juridique avec représentation relative à la personne, les personnes chargées de ces mesures en font la
+demande, le concours des établissements ou services visés au 11° du I de l'article L. 312-1 ou des centres
+désignés en qualité de centres de référence pour une maladie rare ou un groupe de maladies rares.
+
+
+L'équipe pluridisciplinaire propose le plan personnalisé de compensation du handicap, comprenant le cas
+échéant un plan d'accompagnement global, à la commission des droits et de l'autonomie des personnes
+handicapées, afin de lui permettre de prendre les décisions mentionnées à l'article L. 241-6.
+
+En vue d'élaborer ou de modifier un plan d'accompagnement global, l'équipe pluridisciplinaire, sur
+convocation du directeur de la maison départementale des personnes handicapées, peut réunir en groupe
+opérationnel de synthèse les professionnels et les institutions ou services susceptibles d'intervenir dans la
+mise en œuvre du plan.
+
+La personne concernée, ou son représentant légal s'il s'agit d'un mineur, ainsi que la personne chargée de la
+mesure de protection juridique s'il s'agit d'un majeur faisant l'objet d'une mesure de protection juridique avec
+représentation relative à la personne, font partie du groupe opérationnel de synthèse et a la possibilité d'en
+demander la réunion. Ils peuvent être assistés par une personne de leur choix.
+
+Si la mise en œuvre du plan d'accompagnement global le requiert, et notamment lorsque l'équipe
+pluridisciplinaire ne peut pas proposer une solution en mesure de répondre aux besoins de la personne, la
+maison départementale des personnes handicapées demande à l'agence régionale de santé, aux collectivités
+territoriales, aux autres autorités compétentes de l'Etat ou aux organismes de protection sociale membres de
+la commission exécutive mentionnée à l'article L. 146-4 d'y apporter leur concours sous toute forme relevant
+de leur compétence.
+

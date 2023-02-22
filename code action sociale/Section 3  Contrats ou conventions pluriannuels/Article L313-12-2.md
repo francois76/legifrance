@@ -1,0 +1,39 @@
+## Article L313-12-2
+
+Les établissements et services mentionnés aux 2°, 3°, 5° et 7° du I de l'article L. 312-1 ainsi que les
+établissements et services mentionnés au 6° du même I, à l'exception des établissements d'hébergement
+pour personnes âgées dépendantes mentionnés aux I et II de l'article L. 313-12, relevant de la compétence
+tarifaire du directeur général de l'agence régionale de santé et de la compétence tarifaire conjointe de ce
+dernier et du président du conseil départemental, font l'objet d'un contrat pluriannuel d'objectifs et de moyens
+dans les conditions prévues à l'article L. 313-11. Ce contrat définit des objectifs en matière d'activité et de
+qualité de prise en charge. A l'exception des établissements d'hébergement pour personnes âgées dépendantes
+mentionnés aux I et II du même article L. 313-12, il peut inclure d'autres catégories d'établissements ou
+de services mentionnés au I de l'article L. 312-1 et relevant, pour leur autorisation, du président du conseil
+départemental ou du directeur général de l'agence régionale de santé, lorsque ces établissements ou services
+sont gérés par un même organisme gestionnaire et relèvent du même ressort territorial. La conclusion d'un
+
+
+contrat pluriannuel d'objectifs et de moyens entraîne l'application d'une tarification selon des modalités
+définies par décret en Conseil d'Etat. Il peut prévoir une modulation du tarif en fonction d'objectifs d'activité
+définis dans le contrat, selon des modalités fixées par décret en Conseil d'Etat, l'activité de l'établissement
+ou du service ne pouvant en aucun cas être appréciée exclusivement au regard du taux d'occupation. Ce
+contrat prévoit l'affectation des résultats d'exploitation des établissements et services par le gestionnaire dans
+des conditions précisées par décret en Conseil d'Etat. A l'occasion du renouvellement du contrat, il peut être
+tenu compte, pour fixer la tarification de l'établissement ou du service, de la part des reports à nouveau ou
+des réserves figurant dans son budget et qui ne sont pas justifiés par ses conditions d'exploitation. Au vu des
+résultats, le montant de ces reports ou de ces réserves peut être plafonné, selon des modalités définies par
+décret en Conseil d'Etat.
+
+Sans préjudice des articles L. 313-14-1 et L. 315-14, le contrat intègre, le cas échéant, un plan de retour à
+l'équilibre lorsque la situation financière de l'établissement l'exige.
+
+A compter de la conclusion du contrat pluriannuel d'objectifs et de moyens, les documents budgétaires
+mentionnés au 3° du I de l'article L. 314-7 sont remplacés par un état des prévisions de recettes et de
+dépenses dont le modèle est fixé par arrêté des ministres chargés des personnes handicapées et de la sécurité
+sociale.
+
+Les établissements et services, qui font l'objet d'un contrat pluriannuel d'objectifs et de moyens, peuvent
+disposer pour son élaboration et sa mise en œuvre des outils méthodologiques fournis par l'Agence nationale
+d'appui à la performance des établissements de santé et médico-sociaux et s'appuyer sur les recommandations
+de la Haute Autorité de santé.
+

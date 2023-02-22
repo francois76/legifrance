@@ -1,0 +1,18 @@
+## Article D443-5
+
+I. – Le président du conseil départemental peut dispenser de tout ou partie des formations initiale ou continue
+portant sur le domaine de formation prévu au 3° de l'article D. 443-4 les accueillants familiaux titulaires
+du diplôme d'Etat d'auxiliaire de vie sociale (DEAVS), du diplôme d'Etat d'aide médico-psychologique
+(DEAMP), du diplôme d'Etat d'accompagnement éducatif et social (DEAES) spécialités “ accompagnement
+de la vie à domicile ” ou “ accompagnement de la vie en structure collective ”, de la mention complémentaire
+aide à domicile (MCAD), du brevet d'études professionnelles (BEP) “ carrières sanitaires et sociales ” et de
+tout diplôme inscrit au répertoire national des certifications professionnelles et attestant des compétences
+nécessaires pour l'accompagnement de personnes âgées ou de personnes handicapées. Cette dispense fait
+l'objet d'une attestation délivrée par le président du conseil départemental à l'accueillant familial.
+
+II. – Le président du conseil départemental peut dispenser de l'initiation aux gestes de secourisme prévue à
+l'article L. 441-1 les accueillants familiaux ayant obtenu, dans les cinq années précédant la délivrance de leur
+agrément, une attestation de suivi de la formation de base mentionnée à l'article D. 443-1 ou d'une formation
+d'un niveau au moins équivalent. Cette dispense fait l'objet d'une attestation délivrée par le président du
+conseil départemental à l'accueillant familial.
+
