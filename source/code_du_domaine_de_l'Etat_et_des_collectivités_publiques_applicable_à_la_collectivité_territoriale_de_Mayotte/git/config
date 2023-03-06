@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://archeo-lex.fr/codes/code_du_domaine_de_l'Etat_et_des_collectivités_publiques_applicable_à_la_collectivité_territoriale_de_Mayotte
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "texte"]
+	remote = origin
+	merge = refs/heads/texte
