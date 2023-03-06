@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://archeo-lex.fr/codes/code_du_domaine_public_fluvial_et_de_la_navigation_intérieure
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "texte"]
+	remote = origin
+	merge = refs/heads/texte
