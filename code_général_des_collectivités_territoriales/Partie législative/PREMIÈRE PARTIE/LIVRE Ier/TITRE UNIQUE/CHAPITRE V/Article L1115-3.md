@@ -1,0 +1,4 @@
+###### Article L1115-3
+
+Les autorités organisatrices de la mobilité en application du I de l'article L. 1231-1 du code des transports, les communes continuant à organiser des services de mobilité en application du II du même article L. 1231-1 et l'établissement public “ Île-de-France Mobilités ” mentionné à l'article L. 1241-1 du même code peuvent, dans la limite de 1 % des ressources affectées aux budgets des services de mobilité, hors versement destiné au financement des services de mobilité, financer sur ces budgets des actions de coopération avec les collectivités territoriales étrangères et leurs groupements, dans le cadre des conventions prévues à l'article L. 1115-1 du présent code, des actions d'aide d'urgence au bénéfice de ces collectivités et groupements ainsi que des actions de solidarité internationale dans le domaine de la mobilité.
+

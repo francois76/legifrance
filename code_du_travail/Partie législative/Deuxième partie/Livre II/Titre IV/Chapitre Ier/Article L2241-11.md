@@ -1,0 +1,12 @@
+###### Article L2241-11
+
+Les organisations liées par une convention de branche ou, à défaut, par des accords professionnels se réunissent pour négocier tous les trois ans sur les mesures tendant à assurer l'égalité professionnelle entre les femmes et les hommes et sur les mesures de rattrapage tendant à remédier aux inégalités constatées. La mise en œuvre de ces mesures de rattrapage, lorsqu'elles portent sur des mesures salariales, est suivie dans le cadre de la négociation annuelle obligatoire sur les salaires prévue à l'article L. 2241-8.
+
+La négociation porte notamment sur :
+
+1° Les conditions d'accès à l'emploi, à la formation et à la promotion professionnelle ;
+
+2° Les conditions de travail et d'emploi et notamment celles des salariés à temps partiel.
+
+Les informations nécessaires à la négociation sont déterminées par voie réglementaire.
+

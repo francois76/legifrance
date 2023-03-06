@@ -1,0 +1,18 @@
+###### Article L356-4
+
+I.-Dans le cas prévu à l'article L. 356-3, l'Autorité de contrôle prudentiel et de résolution peut décider, après consultation du contrôleur du groupe et de l'entreprise mère supérieure au niveau de l'Union, d'appliquer également un contrôle de groupe au niveau de l'entreprise mère supérieure en France. Dans ce cas, l'autorité de contrôle prudentiel et de résolution notifie sa décision au contrôleur du groupe et à l'entreprise mère supérieure au niveau de l'Union.
+
+Lorsque, en tant que contrôleur de groupe l'Autorité de contrôle prudentiel et de résolution se voit notifier, par une autre autorité de contrôle, la décision de cette dernière d'appliquer également un contrôle de groupe au niveau de l'entreprise d'assurance ou de réassurance mère supérieure dans son Etat, l'autorité en informe le collège de contrôleurs.
+
+II.-Les dispositions des sections II, III, IV, V et VI du présent chapitre s'appliquent à l'entreprise mère supérieure en France, sous réserve des dispositions suivantes :
+
+a) L'Autorité de contrôle prudentiel et de résolution peut limiter le contrôle de groupe de l'entreprise mère supérieure en France à tout ou partie des dispositions des sections III, IV, V et VI du présent chapitre ;
+
+b) Lorsque l'Autorité de contrôle prudentiel et de résolution décide d'appliquer les dispositions de la section III du présent chapitre à l'entreprise mère supérieure en France, elle applique à cette dernière la méthode de calcul de la solvabilité retenue au niveau du groupe par le contrôleur du groupe en ce qui concerne l'entreprise mère supérieure au niveau de l'Union ;
+
+c) Lorsque l'Autorité de contrôle prudentiel et de résolution décide d'appliquer à l'entreprise mère supérieure en France les dispositions de la section II du présent chapitre et que l'entreprise mère supérieure au niveau de l'Union a obtenu l'autorisation de calculer, sur la base d'un modèle interne, le capital de solvabilité requis du groupe et le capital de solvabilité requis des entreprises d'assurance et de réassurance faisant partie du groupe, l'Autorité de contrôle prudentiel et de résolution applique cette même décision au niveau de l'entreprise mère supérieure en France ;
+
+d) Dans le cas prévu au c, lorsque l'Autorité de contrôle prudentiel et de résolution considère que le profil de risque de l'entreprise mère supérieure en France s'écarte significativement du modèle interne approuvé, elle peut décider d'imposer à cette entreprise, en conséquence de l'application de ce modèle et aussi longtemps que cette entreprise ne répond pas de manière satisfaisante aux demandes de l'Autorité de contrôle prudentiel et de résolution, une exigence de capital supplémentaire en ce qui concerne le capital de solvabilité requis du groupe au niveau de cette entreprise ou, dans des circonstances exceptionnelles, si cette exigence de capital supplémentaire s'avérait inappropriée, exiger de cette entreprise qu'elle calcule le capital de solvabilité requis du groupe à son niveau résultant de l'application de la formule standard. L'Autorité de contrôle prudentiel et de résolution notifie ces décisions à l'entreprise mère supérieure en France et au contrôleur du groupe.
+
+Lorsque, en tant que contrôleur de groupe, l'Autorité de contrôle prudentiel et de résolution se voit notifier, par une autorité de contrôle, la décision de cette dernière d'imposer une exigence de capital supplémentaire en ce qui concerne le capital de solvabilité requis du groupe au niveau de l'entreprise mère supérieure au niveau national ou d'exiger de cette entreprise qu'elle calcule le capital de solvabilité requis du groupe à son niveau résultant de l'application de la formule standard, l'Autorité en informe le collège de contrôleurs.
+

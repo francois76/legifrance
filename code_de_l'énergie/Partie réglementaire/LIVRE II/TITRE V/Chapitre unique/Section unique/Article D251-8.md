@@ -1,0 +1,6 @@
+###### Article D251-8
+
+Une entreprise qui acquiert ou qui prend en location un véhicule satisfaisant aux conditions définies aux articles D. 251-1, D. 251-1-1, D. 251-1-3, D. 251-1-4, D. 251-2 et D. 251-4 à D. 251-4-3 du présent code et le donne en location dans le cadre d'un contrat d'une durée supérieure ou égale à deux ans ne peut bénéficier des aides prévues à ces articles.
+
+Les concessionnaires et les agents de marques de véhicules ne peuvent bénéficier des aides instituées aux articles D. 251-1, D. 251-1-1, D. 251-1-3 et D. 251-4 à D. 251-4-3 du présent code pour l'acquisition ou la prise en location d'un véhicule qu'ils affectent à la démonstration. Par dérogation aux 2° des articles D. 251-1, D. 251-1-1, D. 251-1-3 du présent code, ces aides peuvent être attribuées à toute personne physique majeure justifiant d'un domicile en France ou à toute personne morale justifiant d'un établissement en France et à toute administration de l'Etat qui acquiert ou prend en location, dans le cadre d'un contrat d'une durée supérieure ou égale à deux ans, un véhicule précédemment affecté à la démonstration si la cession ou la prise en location intervient dans un délai compris entre trois et douze mois suivant sa première immatriculation.
+

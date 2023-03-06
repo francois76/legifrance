@@ -1,0 +1,6 @@
+###### Article R232-19
+
+I. – Les données à caractère personnel et les informations enregistrées dans le “ système API-PNR France ”, ainsi que le résultat du traitement de ces données, peuvent être transférées, au cas par cas et par tout moyen adapté et sécurisé, par l'agence nationale des données de voyage ou par les autorités mentionnées à l'article R. 232-15 à des Etats non membres de l'Union européenne, dans les conditions fixées aux articles 70-25 à 70-27 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, pour les seules finalités prévues au I de l'article L. 232-7, à l'exception des atteintes aux intérêts fondamentaux de la Nation, et sous réserve que les conditions prévues au 2° du I de l'article R. 232-17 soient remplies et, pour les transferts de données dont l'autorisation préalable ne peut pas être obtenue en temps utile, que ces transferts soient nécessaires pour répondre à une menace précise et réelle liée à une infraction terroriste ou à une forme grave de criminalité dans un Etat membre de l'Union européenne ou un Etat non membre de l'Union européenne.
+
+II. – Le délégué à la protection des données de l'agence nationale des données de voyage est informé de tous les transferts effectués en application du I.
+

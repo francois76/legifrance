@@ -1,0 +1,12 @@
+###### Article L201-13
+
+L'autorité administrative peut déléguer à des organismes à vocation sanitaire, à des organismes vétérinaires à vocation technique ou à des organismes ou catégories d'organismes présentant des garanties de compétence, d'indépendance et d'impartialité dont la liste est fixée par décret certaines tâches de contrôle officiel ou liées aux autres activités officielles conformément aux articles 28, 29 et 31 du règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux, ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, à l'exclusion de la recherche et de la constatation des infractions et du prononcé des décisions individuelles défavorables à leur destinataire.
+
+Peuvent notamment être déléguées les tâches consistant à réaliser ou faire réaliser des prélèvements et consigner des produits ou des animaux, des végétaux, des produits végétaux et autres objets susceptibles de présenter un danger sanitaire ou de ne pas être conformes aux normes en vigueur, dans l'attente de l'intervention de l'autorité administrative.
+
+Les employés des délégataires légalement désignés ont accès aux locaux, parcelles, terrains et jardins, clos ou non, à leurs alentours, aux installations, lieux, véhicules de transport à usage professionnel dans les mêmes conditions que les agents de l'Etat habilités à réaliser les contrôles et autres activités ainsi déléguées. Ils ont également accès aux données nécessaires à l'accomplissement de la mission qui leur a été déléguée, sans que puisse leur être opposé le secret professionnel. Ces données ne peuvent être utilisées que dans le cadre de la mission déléguée et ne peuvent être transmises qu'à l'autorité délégante.
+
+L'acte de délégation indique si le délégataire peut facturer aux personnes soumises aux contrôles et autres activités déléguées le montant des prestations effectuées à leur bénéfice.
+
+Un décret en Conseil d'Etat définit les conditions auxquelles doivent satisfaire les organismes délégataires, détermine la liste des actes qui peuvent être délégués et précise les conditions dans lesquelles les représentants des organismes délégataires exercent leurs missions. Il définit les modalités de ces délégations et de leur contrôle.
+

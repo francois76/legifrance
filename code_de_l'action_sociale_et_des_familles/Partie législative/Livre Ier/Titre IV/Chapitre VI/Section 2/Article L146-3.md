@@ -1,0 +1,18 @@
+###### Article L146-3
+
+Afin d'offrir un accès unique aux droits et prestations mentionnés aux articles L. 241-3 et L. 245-1 à L. 245-11 du présent code et aux articles L. 412-8-3, L. 432-9, L. 541-1, L. 821-1 et L. 821-2 du code de la sécurité sociale, à toutes les possibilités d'appui dans l'accès à la formation et à l'emploi et à l'orientation vers des établissements et services ainsi que de faciliter les démarches des personnes handicapées et de leur famille, il est créé dans chaque département une maison départementale des personnes handicapées.
+
+L'évaluation des demandes et l'attribution des droits et prestations mentionnés au premier alinéa relèvent de la compétence de la maison départementale des personnes handicapées du département où le demandeur réside, dès lors que cette résidence est acquisitive d'un domicile de secours, dans les conditions prévues aux articles L. 122-2 et L. 122-3 du présent code. Lorsqu'elle n'est pas acquisitive d'un domicile de secours, la maison départementale des personnes handicapées compétente est celle du département du domicile de secours du demandeur.
+
+Le cas échéant, lorsqu'une personne réside dans un département distinct de celui de son domicile de secours et que l'équipe pluridisciplinaire compétente n'est pas en mesure de procéder elle-même à l'évaluation de sa situation, le président du groupement d'intérêt public mentionné à l'article L. 146-4 peut déléguer cette évaluation à la maison départementale des personnes handicapées du département d'accueil selon des modalités définies par convention.
+
+Pour les Français établis hors de France, la maison départementale des personnes handicapées compétente pour instruire leurs demandes est celle par l'intermédiaire de laquelle un droit ou une prestation leur a été antérieurement attribué. En cas de première demande, les Français établis hors de France peuvent s'adresser à la maison départementale des personnes handicapées du département de leur choix.
+
+La maison départementale des personnes handicapées exerce une mission d'accueil, d'information, d'accompagnement et de conseil des personnes handicapées et de leur famille, ainsi que de sensibilisation de tous les citoyens au handicap. Elle met en place et organise le fonctionnement de l'équipe pluridisciplinaire mentionnée à l'article L. 146-8 de la commission des droits et de l'autonomie des personnes handicapées prévue à l'article L. 146-9, de la procédure de conciliation interne prévue à l'article L. 146-10 et désigne la personne référente mentionnée à l'article L. 146-13. La maison départementale des personnes handicapées assure à la personne handicapée et à sa famille l'aide nécessaire à la formulation de son projet de vie, l'aide nécessaire à la mise en oeuvre des décisions prises par la commission des droits et de l'autonomie des personnes handicapées, l'accompagnement et les médiations que cette mise en oeuvre peut requérir. Elle met en oeuvre l'accompagnement nécessaire aux personnes handicapées et à leur famille après l'annonce et lors de l'évolution de leur handicap.
+
+Pour l'exercice de ses missions, la maison départementale des personnes handicapées peut s'appuyer sur des centres communaux ou intercommunaux d'action sociale ou des organismes assurant des services d'évaluation et d'accompagnement des besoins des personnes handicapées avec lesquels elle passe convention.
+
+La maison départementale des personnes handicapées organise des actions de coordination avec les autres dispositifs sanitaires et médico-sociaux concernant les personnes handicapées.
+
+Un référent pour l'insertion professionnelle est désigné au sein de chaque maison départementale des personnes handicapées.
+

@@ -1,0 +1,4 @@
+###### Article R4341-20-1
+
+Les professionnels ayant obtenu une autorisation d'exercice partiel de la profession concernée figurent sur une liste distincte qui contient le titre professionnel sous lequel ils sont autorisés à exercer et le champ d'activités correspondant.
+

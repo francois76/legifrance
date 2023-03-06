@@ -1,0 +1,4 @@
+###### Article 916-30
+
+Le montant de l'aide ne peut excéder celui de la perte réelle de chiffre d'affaires constatée sur la période comprise entre le 1er janvier et le 31 mars 2021 par rapport au chiffre d'affaires moyen réalisé entre le 1er janvier et le 31 mars des années 2017, 2018 et 2019, diminué des montants des subventions destinées à compenser les pertes de chiffre d'affaires subies au cours des mois de janvier à mars 2021 en vertu du décret n° 2020-371 du 30 mars 2020 relatif au fonds de solidarité à destination des entreprises particulièrement touchées par les conséquences économiques, financières et sociales de la propagation de l'épidémie de covid-19 et des mesures prises pour limiter cette propagation et du décret n° 2021-310 du 24 mars 2021 instituant une aide visant à compenser les coûts fixes non couverts des entreprises dont l'activité est particulièrement affectée par l'épidémie de covid-19.
+

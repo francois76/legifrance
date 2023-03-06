@@ -1,0 +1,36 @@
+###### Article L162-16-6
+
+I.-Le tarif de responsabilité et le prix limite de vente aux établissements des spécialités pharmaceutiques mentionnées aux articles L. 162-22-7 et L. 162-23-6 sont fixés par convention entre l'entreprise titulaire des droits d'exploitation de ces spécialités, l'entreprise assurant leur importation parallèle ou l'entreprise assurant leur distribution parallèle et le Comité économique des produits de santé et publiés par ce dernier au plus tard dans un délai de cent quatre-vingts jours à compter de la réception de la demande d'inscription de l'entreprise sur la liste mentionnée aux mêmes articles ou, en cas d'inscription sur cette même liste à l'initiative des ministres chargés de la santé et de la sécurité sociale, dans un délai de quatre-vingt-dix jours à compter du jour où l'avis de la commission mentionnée à l'article L. 5123-3 du code de la santé publique a été rendu public. A défaut d'accord conventionnel au terme des délais mentionnés à la première phrase du présent alinéa, le tarif de responsabilité et le prix limite de vente aux établissements sont fixés et publiés par le comité dans les quinze jours suivant le terme de ces mêmes délais. Les ministres concernés peuvent faire opposition conjointe au tarif et au prix limite publiés par le comité et arrêtent dans ce cas le tarif de responsabilité et le prix limite de vente aux établissements dans un délai de quinze jours après cette publication.
+
+Ce tarif et ce prix limite sont fixés dans les conditions prévues au I de l'article L. 162-16-4. Ils peuvent être fixés à un niveau inférieur ou baissés dans les conditions prévues au II du même article L. 162-16-4.
+
+En aucun cas la différence entre le tarif de responsabilité et le prix de vente aux établissements ne peut être facturée aux patients.
+
+Sont constatées et poursuivies dans les conditions fixées aux articles L. 450-1 à L. 450-8 du code de commerce les infractions aux conventions et arrêtés mentionnés ci-dessus.
+
+II.-Le prix d'achat des spécialités acquitté par l'établissement ne peut être supérieur au prix limite de vente défini au I.
+
+III.-Les spécialités pharmaceutiques mentionnées au I sont remboursées en sus des prestations d'hospitalisation mentionnées au 1° des articles L. 162-22-6 et L. 162-23-1 dans les conditions fixées aux articles L. 162-22-7 et L. 162-23-6, sur la base du tarif de responsabilité mentionné au I. Lorsque le montant de la facture est inférieur à ce tarif, le remboursement à l'établissement s'effectue sur la base du montant de la facture majoré d'une partie de la différence entre ces deux éléments définie par arrêté conjoint des ministres chargés de la santé et de la sécurité sociale.
+
+IV.-La base de remboursement d'une spécialité peut faire l'objet d'un tarif unifié fixé par décision du Comité économique des produits de santé. Dans ce cas, ce tarif unifié est appliqué aux spécialités génériques et à leurs spécialités princeps, aux spécialités biologiques similaires et à leurs spécialités biologiques de référence, ainsi qu'à toute spécialité comparable en ce qui concerne les indications ou la visée thérapeutique. Le cas échéant, le tarif unifié peut être modulé au regard de différences de posologie ou du circuit de distribution de la spécialité, notamment l'importation prévue à l'article L. 5124-13 du code de la santé publique.
+
+Lorsqu'un tarif unifié a été fixé pour une spécialité, l'application du III du présent article est effectuée par rapport à ce seul tarif unifié.
+
+V.-A.-Lorsque le prix demandé par l'entreprise titulaire des droits d'exploitation d'une spécialité, l'entreprise assurant son importation parallèle ou l'entreprise assurant sa distribution parallèle au titre de l'inscription sur l'une des listes, mentionnées aux articles L. 162-22-7 et L. 162-23-6, de traitement par des médicaments de thérapie innovante définis à l'article 2 du règlement (CE) n° 1394/2007 du Parlement européen et du Conseil du 13 novembre 2007 concernant les médicaments de thérapie innovante et modifiant la directive 2001/83/ CE ainsi que le règlement (CE) n° 726/2004 est supérieur à un seuil fixé par arrêté des ministres chargés de la santé et de la sécurité sociale, le coût de ce traitement est fixé par convention ou, à défaut, par décision du Comité économique des produits de santé selon les modalités prévues au I du présent article.
+
+B.-Le médicament mentionné au A du présent V est remboursé aux établissements de santé mentionnés au I dans les conditions prévues au III, sous réserve des adaptations suivantes :
+
+1° Le tarif de responsabilité est fixé, selon les modalités prévues au I, de manière à ce que le montant correspondant au nombre d'unités de médicaments multiplié par leur tarif de responsabilité soit inférieur à un forfait de thérapie innovante fixé par arrêté des ministres chargés de la santé et de la sécurité sociale ;
+
+2° Le prix limite de vente mentionné au même I est égal au tarif de responsabilité.
+
+C.-Lorsque le montant du coût de traitement mentionné au A du présent V est supérieur au montant correspondant au nombre d'unités de médicaments multiplié par leur tarif de responsabilité, un ou plusieurs versements successifs sont réalisés annuellement pour le compte de l'assurance maladie, selon des modalités définies par décret, à l'entreprise assurant l'exploitation, l'importation parallèle ou la distribution parallèle du médicament.
+
+Le nombre, les montants, les conditions et les échéances de ces versements sont fixés par la convention et, le cas échéant, par la décision mentionnées au I et tiennent compte des données d'efficacité du médicament concerné, notamment celles mentionnées spécifiquement à cet effet dans l'avis de la commission mentionnée à l'article L. 5123-3 du code de la santé publique.
+
+En cas d'échec du traitement pour un patient, notamment en cas de décès, ou en cas d'administration concomitante ou séquentielle d'un autre traitement à même visée thérapeutique, les versements cessent. Le montant du coût de traitement, déduction faite des remises conventionnelles versées, le cas échéant, en application de l'article L. 162-18 du présent code, ne peut alors être supérieur au coût net des traitements à même visée thérapeutique, au sens du même article L. 162-18, sur la période considérée.
+
+L'entreprise titulaire des droits d'exploitation, l'entreprise assurant l'importation parallèle ou l'entreprise assurant la distribution parallèle du médicament assure à sa charge le recueil des données. Les prescripteurs lui transmettent à cette fin les données de suivi des patients traités, selon des modalités assurant le respect du secret médical.
+
+Lorsque le montant du coût du traitement mentionné au A du présent V est supérieur au montant correspondant au nombre d'unités de médicaments multiplié par leur tarif de responsabilité, la prise en charge du médicament par l'assurance maladie s'effectue, d'une part, par le remboursement de l'établissement de santé sur la base du tarif de responsabilité pour chaque unité de médicament selon les modalités prévues au B et, d'autre part, le cas échéant, par un ou plusieurs versements à l'entreprise assurant l'exploitation, l'importation parallèle ou la distribution parallèle du médicament selon les modalités prévues au présent C.
+

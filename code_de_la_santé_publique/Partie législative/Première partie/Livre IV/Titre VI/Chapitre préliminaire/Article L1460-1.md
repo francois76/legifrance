@@ -1,0 +1,6 @@
+###### Article L1460-1
+
+Les données de santé à caractère personnel destinées aux services ou aux établissements publics de l'Etat ou des collectivités territoriales, aux professionnels de santé ou aux organismes de sécurité sociale peuvent faire l'objet de traitements présentant un caractère d'intérêt public, dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Ces traitements ne peuvent avoir ni pour objet ni pour effet de porter atteinte à la vie privée des personnes concernées. Ils ne doivent en aucun cas avoir pour fin l'identification directe ou indirecte de ces personnes.
+
+Les citoyens, les usagers du système de santé, les professionnels de santé, les établissements de santé et leurs organisations représentatives ainsi que les organismes participant au financement de la couverture contre le risque maladie ou réalisant des traitements de données concernant la santé, les services de l'Etat, les institutions publiques compétentes en matière de santé et les organismes de presse ont accès aux données mentionnées au premier alinéa dans les conditions définies par la loi n° 78-17 du 6 janvier 1978 précitée et, le cas échéant, par les dispositions propres à ces traitements.
+

@@ -1,0 +1,6 @@
+###### Article R2142-4
+
+Lorsqu'il est fait application des dispositions du troisième alinéa de l'article L. 6122-10 relatives au renouvellement d'autorisation, la demande est déposée comme il est prévu à l'article R. 6122-28. Dans ce cas, le titulaire de l'autorisation adresse un exemplaire de sa demande au directeur général de l'Agence de la biomédecine.
+
+Lorsqu'il est fait application des dispositions du dernier alinéa de l'article L. 6122-13 relatives au maintien de la suspension ou de retrait de l'autorisation, le directeur général de l'agence régionale de santé recueille l'avis de l'agence de la biomédecine. L'absence d'avis de celle-ci dans les quinze jours qui suivent la consultation du directeur général de l'agence régionale de santé vaut acceptation de la mesure proposée par ce dernier.
+

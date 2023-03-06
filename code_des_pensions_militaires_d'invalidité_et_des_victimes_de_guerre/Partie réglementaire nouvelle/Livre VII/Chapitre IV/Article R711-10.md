@@ -1,0 +1,6 @@
+#### Article R711-10
+
+Dès réception du recours, le président de la commission en informe l'autorité dont émane la décision contestée. Le président de la commission transmet à l'autorité compétente les recours ne relevant pas de la compétence de la commission et en informe l'intéressé. Le président informe également le demandeur, par tout moyen conférant date certaine de réception, qu'il peut être auditionné par la commission s'il en formule la demande dans un délai d'un mois à compter de la date à laquelle il a reçu cette information. S'il ne manifeste pas son souhait d'être auditionné dans ce délai, la commission rend sa décision sur le fondement des éléments du dossier. Si le demandeur souhaite être auditionné, une convocation lui est adressée au moins un mois avant la séance, par tout moyen conférant date certaine de réception. Lorsque le demandeur, qui a fait part de son souhait d'être auditionné par la commission, justifie d'un motif légitime l'empêchant d'être présent lors de l'audition, le président ajourne l'examen du recours et reporte l'audition à une date ultérieure.
+
+Toute autorité recevant un recours dont l'examen relève de la compétence de la commission le transmet sans délai à cette commission et en avise l'auteur du recours.
+

@@ -1,0 +1,8 @@
+###### Article 50-0 M
+
+Pour les vins tranquilles et les vins mousseux (autres que ceux élaborés selon la méthode traditionnelle), et en lieu et place des taux cités aux articles 50-0 K et 50-0 L, l'entrepositaire agréé récoltant vinificateur ou négociant vinificateur, et la cave coopérative ayant le même type d'activité, peuvent opter pour un taux annuel de pertes global (comprenant l'élaboration, le stockage, le conditionnement et le stockage après conditionnement) de 3,5 % sur le stock moyen si le stockage s'effectue en cuves étanches ou de 6 % sur le stock moyen si le stockage s'effectue sous bois.
+
+Pour les vins doux naturels à appellation d'origine contrôlée et les vins de liqueur mentionnés à l'article 417 bis du code général des impôts, et en lieu et place des taux cités aux articles 50-0 K et 50-0 L, l'entrepositaire agréé récoltant vinificateur peut opter pour un taux annuel de pertes global (comprenant l'élaboration, le stockage, le conditionnement et le stockage après conditionnement) de 3,5 % sur le stock moyen si le stockage s'effectue en cuves étanches ou de 6 % sur le stock moyen si le stockage s'effectue sous bois.
+
+L'opérateur qui souhaite bénéficier de cette option, doit en faire la déclaration auprès de l'administration des douanes et droits indirects, avant le début de la campagne viticole. Cette déclaration se fait par voie informatique, mais il peut être accepté, à titre exceptionnel, qu'elle se fasse sur support papier si l'opérateur est dans l'incapacité de la dématérialiser. L'option sera renouvelée chaque année par tacite reconduction sauf si l'opérateur indique renoncer à cette option.
+

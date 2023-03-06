@@ -1,0 +1,4 @@
+###### Article R121-39
+
+En Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, et sauf lorsque l'institution de la servitude est le seul moyen d'assurer la continuité du cheminement des piétons ou leur libre accès au rivage de la mer, la servitude ne peut grever les terrains situés à moins de dix mètres des bâtiments à usage d'habitation édifiés avant le 1er août 2010, ni grever des terrains attenants à des maisons d'habitation et clos de murs au 1er août 2010. Ces dispositions ne sont toutefois applicables aux terrains situés dans la zone comprise entre la limite du rivage de la mer et la limite supérieure de la zone dite des cinquante pas géométriques définie par l'article L. 5111-2 du code général de la propriété des personnes publiques ou, à Mayotte, par l'article L. 5331-4 de ce code, que si les terrains ont été acquis de l'Etat avant le 1er août 2010 ou en vertu d'une demande déposée avant cette date.
+

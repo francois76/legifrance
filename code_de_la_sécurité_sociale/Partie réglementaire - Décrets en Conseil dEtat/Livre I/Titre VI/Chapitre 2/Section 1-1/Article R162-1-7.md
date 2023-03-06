@@ -1,0 +1,4 @@
+###### Article R162-1-7
+
+Pour l'application de l'article L. 162-4, les médecins signalent qu'une spécialité est prescrite en dehors des indications thérapeutiques retenues pour l'inscription sur la liste des médicaments remboursables en portant sur l'ordonnance, support de la prescription, la mention de son caractère non remboursable à côté de la dénomination de la spécialité. Cette disposition ne s'applique pas aux prescriptions de spécialités pharmaceutiques non conformes à leur autorisation de mise sur le marché. Dans ce cas, le prescripteur porte sur l'ordonnance, support de la prescription, la mention : " Prescription hors autorisation de mise sur le marché ” prévue à l'article L. 5121-12-1 du code de la santé publique.
+

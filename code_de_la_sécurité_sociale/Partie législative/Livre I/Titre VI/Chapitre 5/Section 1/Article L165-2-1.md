@@ -1,0 +1,10 @@
+###### Article L165-2-1
+
+Lorsque, dans le cadre de l'inscription ou du maintien de l'inscription, sous quelque forme que ce soit, de produits ou prestations sur la liste prévue à l'article L. 165-1, ou dans le cadre d'une négociation tarifaire, l'exploitant ou le distributeur au détail produit, à son initiative ou sur demande, des données manifestement erronées relatives aux conditions de prise en charge, aux volumes de vente ou aux montants remboursés par les régimes d'assurance maladie dans d'autres Etats membres de l'Union européenne, ainsi qu'aux conditions réelles ou prévisibles d'utilisation ou aux volumes de vente en France, le Comité économique des produits de santé peut prononcer, après que l'exploitant ou le distributeur au détail a été mis en mesure de présenter ses observations, une pénalité financière à la charge de cet exploitant ou de ce distributeur au détail.
+
+Le montant de la pénalité ne peut être supérieur à 10 % du chiffre d'affaires, hors taxes, réalisé en France par l'exploitant ou le distributeur au détail au titre du dernier exercice clos pour les produits ou prestations considérés. Dans le cas d'une première demande d'inscription de produits ou prestations sur la liste prévue à l'article L. 165-1, la pénalité ne peut être supérieure à 10 % du chiffre d'affaires annuel, hors taxes, pour la France, estimé sur la base de la population de patients ayant vocation à bénéficier du traitement correspondant aux produits ou prestations concernés. Le montant de la pénalité est fixé en fonction de la gravité du manquement constaté.
+
+La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale. Les articles L. 137-3 et L. 137-4 sont applicables au recouvrement de la pénalité. Son produit est affecté à la Caisse nationale de l'assurance maladie. Le recours présenté contre la décision prononçant cette pénalité est un recours de pleine juridiction.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+

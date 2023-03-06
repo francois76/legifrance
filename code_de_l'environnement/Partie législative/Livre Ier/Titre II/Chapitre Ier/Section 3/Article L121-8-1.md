@@ -1,0 +1,14 @@
+###### Article L121-8-1
+
+Lorsque le ministre chargé de l'énergie souhaite lancer une ou plusieurs procédures de mise en concurrence en application de l'article L. 311-10 du code de l'énergie pour la construction et l'exploitation d'installations de production d'énergie renouvelable en mer et de leurs ouvrages de raccordement aux réseaux publics d'électricité, il saisit la Commission nationale du débat public, qui détermine, dans les conditions prévues à la présente section, les modalités de la participation du public. A la demande du ministre chargé de l'énergie, l'objet de cette participation porte sur plusieurs procédures de mise en concurrence qu'il envisage de lancer sur une même façade maritime. Le public est notamment consulté sur le choix de la localisation de la ou des zones potentielles d'implantation des installations envisagées. La personne chargée de l'organisation de la procédure de participation du public, en application de l'article L. 121-9, invite les collectivités territoriales situées sur le littoral de la façade maritime à formuler un avis.
+
+Lorsque la Commission nationale du débat public estime qu'un débat public est nécessaire, sa durée ne peut pas excéder la durée mentionnée à l'article L. 121-11 du présent code pour les projets.
+
+Le ministre chargé de l'énergie peut lancer la ou les procédures de mise en concurrence mentionnées au premier alinéa du présent article avant la fin du débat public ou de la concertation préalable. La phase de dialogue concurrentiel de la ou des procédures de mise en concurrence ne peut démarrer avant la communication du bilan de la participation du public. Conformément, selon le cas, aux articles L. 121-13 ou L. 121-16, le ministre chargé de l'énergie décide, après communication du bilan de la participation du public, du principe et des conditions de la poursuite de la ou des procédures de mise en concurrence.
+
+Après la publication du bilan de la participation du public, et en tenant compte de ce bilan, le ministre chargé de l'énergie peut identifier les zones potentielles d'implantation des futures installations de production d'énergie renouvelable en mer et de leurs ouvrages de raccordement.
+
+Après la désignation du ou des lauréats de la ou des procédures de mise en concurrence, le ou les maîtres d'ouvrages du projet d'une installation de production d'énergie renouvelable en mer et de ses ouvrages de raccordement sont dispensés des obligations prévues à la présente section.
+
+Lorsque les procédures de mise en concurrence mentionnées au premier alinéa du présent article n'ont pas été lancées dans un délai de sept ans à compter de la publication du bilan du débat public ou de la concertation préalable, le ministre chargé de l'énergie saisit à nouveau la Commission nationale du débat public qui détermine si une nouvelle procédure de participation du public est nécessaire, dans les conditions prévues à la présente section.
+

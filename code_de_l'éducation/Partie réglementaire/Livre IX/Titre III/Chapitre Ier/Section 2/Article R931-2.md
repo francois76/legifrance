@@ -1,0 +1,4 @@
+###### Article R931-2
+
+Les fonctionnaires appartenant aux corps des chargés d'enseignement d'éducation physique et sportive, des professeurs d'enseignement général de collège, des conseillers d'orientation et directeurs de centre d'information et d'orientation, des conseillers principaux d'éducation, des professeurs agrégés de l'enseignement du second degré, des professeurs certifiés, des chargés d'enseignement, des adjoints d'enseignement, des professeurs adjoints d'éducation physique et sportive, des professeurs de lycée professionnel, des professeurs d'éducation physique et sportive, dont le poste a été supprimé ou transformé par décision rectorale prise en application des dispositions des articles D. 222-20, D. 222-27 et D. 222-28, reçoivent une affectation dans les conditions définies aux articles R. 931-3 à R. 931-5.
+

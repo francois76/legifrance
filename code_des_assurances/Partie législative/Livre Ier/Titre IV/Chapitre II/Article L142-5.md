@@ -1,0 +1,6 @@
+##### Article L142-5
+
+Sans préjudice des droits des titulaires de créances nées de la gestion de ces opérations, aucun créancier de l'entreprise d'assurance autre que les souscripteurs, adhérents, assurés ou bénéficiaires au titre des engagements relevant de la comptabilité auxiliaire d'affectation mentionnée à l'article L. 142-4 ne peut se prévaloir d'un quelconque droit sur les biens et droits résultant des enregistrements comptables de cette comptabilité sur le fondement des articles L. 310-25 et L. 326-1 à L. 327-6 du présent code, des articles 2331 et 2377 du code civil, du livre VI du code de commerce, des articles L. 222-1 et L. 212-23 du code de la mutualité ou de l'article L. 932-24 du code de la sécurité sociale.
+
+L'actif mobilier résultant des enregistrements comptables de la comptabilité auxiliaire d'affectation mentionnée à l'article L. 142-4 est affecté par privilège au paiement des créances détenues par les souscripteurs, adhérents, assurés ou bénéficiaires au titre des contrats faisant l'objet de cette comptabilité. Ce privilège prime le privilège général institué à l'article L. 327-2, ainsi que les privilèges prévus aux articles 2331 et 2377 du code civil, au livre VI du code de commerce, aux articles L. 222-1 et L. 212-23 du code de la mutualité et à l'article L. 932-24 du code de la sécurité sociale.
+

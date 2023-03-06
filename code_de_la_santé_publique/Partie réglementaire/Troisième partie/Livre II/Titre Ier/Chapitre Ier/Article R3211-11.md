@@ -1,0 +1,12 @@
+###### Article R3211-11
+
+Dès réception de la requête, le greffe l'enregistre et la communique :
+
+1° A la personne qui fait l'objet de soins psychiatriques, à moins qu'elle soit l'auteur de la requête, et, s'il y a lieu, à la personne chargée à son égard d'une mesure de protection juridique relative à la personne ou, si elle est mineure, à ses représentants légaux ;
+
+2° Au ministère public ;
+
+3° Au directeur de l'établissement, à moins qu'il ne l'ait lui-même transmise ou établie, à charge pour lui d'en remettre une copie à la personne concernée lorsqu'elle est hospitalisée dans son établissement ;
+
+4° Le cas échéant, au tiers qui a demandé l'admission en soins psychiatriques ou au préfet qui a ordonné ou maintenu la mesure de soins.
+

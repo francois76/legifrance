@@ -1,0 +1,8 @@
+###### Article L2122-4-2
+
+L'utilisation de l'infrastructure ferroviaire donne lieu à la perception, par le gestionnaire d'infrastructure, de redevances d'infrastructure qu'il affecte au financement de ses activités.
+
+Le gestionnaire d'infrastructure peut demander à l' Autorité de régulation des transports de se faire communiquer par les candidats les données techniques, statistiques, comptables, économiques et financières qui lui sont nécessaires pour déterminer le barème de ces redevances. Le niveau de précision des données demandées aux candidats ne peut excéder celui strictement nécessaire à l'établissement des redevances d'infrastructure au regard des segments de marché et des modulations tarifaires envisagées par le gestionnaire d'infrastructure. Ces données sont communiquées par les candidats à l' Autorité de régulation des transports, sans que le secret des affaires ne puisse faire obstacle à cette transmission. Les informations communiquées par les candidats à l' Autorité de régulation des transports sont transmises au gestionnaire d'infrastructure sous forme agrégée et anonymisée. Les données transmises dans ce cadre au gestionnaire d'infrastructure font partie de la liste des informations mentionnées à l'article L. 2122-4-4.
+
+Sans préjudice de l'article L. 2111-25, les principes et les procédures générales applicables à la tarification de l'infrastructure ferroviaire, notamment la liste des catégories de données pouvant être demandées par le gestionnaire d'infrastructure et les conditions et les délais de transmission de données par les candidats, sont fixés par décret en Conseil d'Etat, sous réserve des actes des commissions intergouvernementales compétentes.
+

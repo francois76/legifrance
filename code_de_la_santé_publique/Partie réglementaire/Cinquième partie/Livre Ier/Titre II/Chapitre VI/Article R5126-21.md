@@ -1,0 +1,6 @@
+###### Article R5126-21
+
+Une pharmacie à usage intérieur peut faire assurer certaines de ses opérations de contrôle relatives aux préparations mentionnées aux 1°, 2° et 3° de l'article L. 5121-1 par un laboratoire sous-traitant en vertu d'un contrat écrit. Dans ce cas, le pharmacien chargé de la gérance s'assure que le laboratoire sous-traitant possède la compétence et les moyens suffisants nécessaires à l'exécution des prestations. Il informe du recours à la sous-traitance le directeur général de l'agence régionale de santé territorialement compétente ou, si les prestations sont demandées par la pharmacie à usage intérieur d'un hôpital des armées, l'inspection technique des services pharmaceutiques des armées. Lorsque le laboratoire sous-traitant fait partie d'un établissement pharmaceutique de fabrication, l'activité de sous-traitance est autorisée par l'Agence nationale de sécurité du médicament et des produits de santé.
+
+Pour un hôpital des armées, lorsque le laboratoire sous-traitant de la pharmacie à usage intérieur fait partie de la Pharmacie centrale des armées, l'activité de sous-traitance est autorisée par le ministre de la défense, qui en informe l'Agence nationale de sécurité du médicament et des produits de santé.
+

@@ -1,0 +1,6 @@
+###### Article R6111-55
+
+En application de l'article L. 6111-1-5, les établissements titulaires d'une autorisation mentionnée au 3° de l'article R. 6122-25 proposent, pour le suivi de la grossesse dans de bonnes conditions, un hébergement temporaire non médicalisé aux femmes enceintes qui le sollicitent, dès lors qu'elles résident à plus de quarante-cinq minutes de trajet motorisé en conditions habituelles de l'établissement le plus proche, correspondant à leur situation de santé en adéquation avec la gradation des prises en charge définie aux articles R. 6123-39 à R. 6123-42. Un arrêté du ministre chargé de la santé et du ministre chargé de l'outre-mer définit les modalités de calcul de ce temps de trajet.
+
+Cet hébergement peut également être proposé aux femmes enceintes que des circonstances objectives, tenant notamment aux conditions climatiques ou de trafic routier, peuvent conduire à être éloignées de plus de quarante-cinq minutes de l'établissement mentionné à l'alinéa précédent à la date prévisionnelle d'accouchement. Le directeur de l'agence régionale de santé détermine la liste des établissements devant proposer cet hébergement ainsi que la liste des communes éligibles selon les critères du présent alinéa.
+

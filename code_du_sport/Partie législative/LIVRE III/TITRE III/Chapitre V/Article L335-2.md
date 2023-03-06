@@ -1,0 +1,6 @@
+##### Article L335-2
+
+Les membres de la plateforme nationale de lutte contre la manipulation des compétitions sportives peuvent se communiquer et échanger avec les acteurs nationaux et internationaux mentionnés au 2° du I de l'article L. 335-1, dans des conditions et selon des modalités prévues par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés, les informations et les documents utiles à la lutte contre la manipulation de compétitions sportives, y compris ceux couverts par le secret professionnel, sous réserve de l'article 11 du code de procédure pénale.
+
+Les membres de la plateforme nationale de lutte contre la manipulation des compétitions sportives et toutes les personnes physiques ou morales qui, à quelque titre que ce soit, participent, même occasionnellement, à l'activité de celle-ci sont tenus au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions. Le non-respect du secret professionnel, établi par une décision de justice devenue définitive, entraîne la cessation d'office des fonctions au sein de la plateforme. Ce secret n'est pas opposable à l'autorité judiciaire.
+

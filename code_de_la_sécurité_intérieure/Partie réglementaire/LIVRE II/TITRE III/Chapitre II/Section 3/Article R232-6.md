@@ -1,0 +1,6 @@
+###### Article R232-6
+
+Le ministre de l'intérieur et le ministre chargé de l'immigration sont autorisés à mettre en œuvre un traitement automatisé de données à caractère personnel dénommé " PARAFE " (passage rapide aux frontières extérieures) et destiné, pour les voyageurs aériens, maritimes et ferroviaires volontaires, à améliorer et faciliter les contrôles de police aux frontières extérieures.
+
+Peuvent bénéficier du traitement PARAFE les personnes majeures ou mineures âgées de douze ans révolus citoyens de l'Union européenne ou ressortissants d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou ressortissants américains, andorrans, australiens, britanniques, canadiens, sud-coréens, japonais, monégasques, néo-zélandais, saint-marinais et singapouriens. Le bénéfice du traitement PARAFE nécessite la détention d'un document de voyage comportant des données biométriques et doté d'une zone de lecture automatique au sens du document 9303 de l'Organisation de l'aviation civile internationale ou conforme au règlement (CE) n° 2252/2004 du Conseil du 13 décembre 2004 modifié établissant des normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les Etats membres, en cours de validité.
+

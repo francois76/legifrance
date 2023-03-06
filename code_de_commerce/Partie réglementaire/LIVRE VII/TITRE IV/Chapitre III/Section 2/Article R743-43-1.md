@@ -1,0 +1,6 @@
+###### Article R743-43-1
+
+Tout projet de cession de titres de capital ou parts sociales devant donner lieu à la nomination d'un greffier de tribunal de commerce exerçant au sein de la société, ainsi que la valeur des titres ou parts à céder, sont portés à la connaissance du garde des sceaux, ministre de la justice par téléprocédure sur le site internet du ministère de la justice. Il en est de même pour tout projet d'augmentation du capital de la société devant donner lieu à la nomination d'un greffier de tribunal de commerce exerçant au sein de la société ainsi que pour la valeur de l'apport en contrepartie duquel les parts sociales ou titres de capital sont émis.
+
+Sauf lorsque la valeur des titres ou parts à céder ou à émettre apparaît manifestement excessive, un arrêté du garde des sceaux, ministre de la justice, assure la publicité de cette annonce et précise la date limite de dépôt des candidatures. Le délai imparti aux candidats pour adresser leur candidature ne peut être inférieur à trente jours à compter de la publication de l'arrêté au Journal officiel de la République française. Les candidatures sont adressées, par lettre recommandée avec demande d'avis de réception ou tout autre moyen permettant d'en assurer la réception, à l'associé cédant ou à la société dont l'augmentation du capital est envisagée.
+

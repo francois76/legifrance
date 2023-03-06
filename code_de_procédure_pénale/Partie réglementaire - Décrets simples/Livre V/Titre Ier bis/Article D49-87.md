@@ -1,0 +1,6 @@
+#### Article D49-87
+
+Lorsque le condamné à la peine de détention à domicile sous surveillance électronique doit satisfaire à l'obligation de s'abstenir de paraître dans un lieu ou une zone spécialement désignés, afin d'éviter un contact avec la victime ou la partie civile, ou à l'obligation de s'abstenir d'entrer en relation avec la victime ou la partie civile, conformément aux 9°, 13° et 18° de l'article 132-45 du code pénal , le juge de l'application des peines peut décider d'aviser ou de faire aviser la victime ou la partie civile, directement ou par l'intermédiaire de son avocat, de la date de fin de la peine. Qu'elle se soit ou non constituée partie civile lors de la procédure, la victime peut demander à être informée de la fin de la peine.
+
+La victime peut, par lettre recommandée avec accusé de réception, faire connaître ses changements d'adresse auprès du procureur de la République ou du procureur général près la juridiction qui a prononcé la condamnation. Ces informations sont transmises par le ministère public au juge de l'application des peines dont relève le condamné pour être classées dans la cote “ victime ” du dossier individuel prévu par l'article D. 49-29. La victime ou la partie civile peut demander que ces informations demeurent confidentielles et qu'elles ne soient communiquées ni au condamné ni à son avocat.
+

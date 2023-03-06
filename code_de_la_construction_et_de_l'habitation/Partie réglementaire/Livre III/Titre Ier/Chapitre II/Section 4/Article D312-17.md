@@ -1,0 +1,4 @@
+###### Article D312-17
+
+La garantie des fonds prévue à l'article L. 312-8 peut être accordée à des prêts finançant des opérations de construction, d'acquisition ou d'amélioration pour lesquelles une des aides mentionnées à l'article D. 312-16 a été consentie aux propriétaires, aux titulaires d'un droit réel donnant l'usage de locaux pour des logements qu'ils occupent eux-mêmes, aux personnes qui assurent la charge effective des travaux dans des logements occupés par leurs ascendants ou descendants ou ceux de leur conjoint, de leur concubin au sens de l'article 515-8 du code civil ou du cosignataire d'un pacte civil de solidarité défini à l'article 515-1 du code civil lorsque ces derniers ont la qualité de propriétaires ou de titulaires d'un droit réel conférant l'usage des locaux pour des logements qu'ils occupent eux-mêmes, ou à tout accédant à la propriété ou au droit réel mentionné ci-dessus.
+

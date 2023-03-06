@@ -1,0 +1,4 @@
+###### Article D542-81
+
+Les détenteurs de combustibles usés élaborent des stratégies d'entreposage de leurs combustibles usés selon différents scénarios de politique énergétique définis par le plan national de gestion des matières et des déchets radioactifs. Ces stratégies portent sur une période de trente ans et intègrent l'étude des différentes technologies d'entreposage disponibles pour répondre aux besoins identifiés par le plan national de gestion des matières et des déchets radioactifs au regard des caractéristiques des combustibles usés devant être entreposés. Ces stratégies sont communiquées au ministre chargé de l'énergie dans les conditions fixées par l'arrêté mentionné à l'article D. 542-74. Les éventuelles objections à ces stratégies formulées par le ministre chargé de l'énergie sont prises en compte par les détenteurs. Le ministre chargé de l'énergie peut prescrire par arrêté des éléments de ces stratégies.
+

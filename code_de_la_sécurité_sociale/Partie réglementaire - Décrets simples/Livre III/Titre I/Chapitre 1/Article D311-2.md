@@ -1,0 +1,4 @@
+##### Article D311-2
+
+Les cotisations dues au titre des assurances sociales, des accidents du travail et des allocations familiales, les contributions mentionnées à l'article L. 834-1 et à l'article L. 137-40, et le versement mentionné aux articles L. 2333-64 et L. 2531-2 du code général des collectivités territoriales sont calculés sur les rémunérations versées aux personnes mentionnées à l'article D. 311-1 mensuellement ou pour chaque acte ou mission ou, le cas échéant, par nombre de personnes suivies annuellement. Le taux des accidents du travail et maladies professionnelles est celui applicable aux services extérieurs des administrations, aux collectivités territoriales, et à l'administration hospitalière, y compris leurs établissements publics et établissements publics médico-sociaux. Ce taux est également applicable lorsque la mission de service public constitue le prolongement d'une activité salariée dans le cas de l'accord mentionné à l'article D. 311-3.
+

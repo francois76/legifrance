@@ -1,0 +1,14 @@
+###### Article L426-5
+
+La fédération départementale des chasseurs instruit les demandes d'indemnisation et propose une indemnité aux réclamants selon un barème départemental d'indemnisation. Ce barème est fixé par la commission départementale compétente en matière de chasse et de faune sauvage qui fixe également le montant de l'indemnité en cas de désaccord entre le réclamant et la fédération départementale des chasseurs. Une Commission nationale d'indemnisation des dégâts de gibier fixe chaque année, pour les principales denrées, les valeurs minimale et maximale des prix à prendre en compte pour l'établissement des barèmes départementaux. Elle fixe également, chaque année, aux mêmes fins, les valeurs minimale et maximale des frais de remise en état. Lorsque le barème adopté par une commission départementale ne respecte pas les valeurs ainsi fixées, la Commission nationale d'indemnisation en est saisie et statue en dernier ressort. Elle peut être saisie en appel des décisions des commissions départementales.
+
+La composition de la Commission nationale d'indemnisation des dégâts de gibier et des commissions départementales compétentes en matière de chasse et de faune sauvage, assure la représentation de l'Etat, et notamment de l'Office français de la biodiversité, des chasseurs et des intérêts agricoles et forestiers dans des conditions déterminées par un décret en Conseil d'Etat.
+
+Dans le cadre du plan de chasse mentionné à l'article L. 425-6, il est institué, à la charge des chasseurs de cerfs, daims, mouflons, chevreuils et sangliers, mâles et femelles, jeunes et adultes, une contribution par animal à tirer destinée à financer l'indemnisation et la prévention des dégâts de grand gibier. Le montant de ces contributions est fixé par l'assemblée générale de la fédération départementale ou interdépartementale des chasseurs sur proposition du conseil d'administration.
+
+La fédération départementale ou interdépartementale des chasseurs prend à sa charge les dépenses liées à l'indemnisation et à la prévention des dégâts de grand gibier. Elle en répartit le montant entre ses adhérents ou certaines catégories d'adhérents. Elle exige une participation des territoires de chasse ; elle peut en complément exiger notamment une participation personnelle des chasseurs de grand gibier, y compris de sanglier, une participation pour chaque dispositif de marquage ou une combinaison de ces différents types de participation. Ces participations peuvent être modulées en fonction des espèces de gibier, du sexe, des catégories d'âge, des territoires de chasse ou unités de gestion.
+
+Tout adhérent chasseur ayant validé un permis de chasser national est dispensé de s'acquitter de la participation personnelle instaurée par la fédération dans laquelle il valide son permis.
+
+Un décret en Conseil d'Etat précise les conditions d'application des articles L. 426-1 à L. 426-4 et du présent article.
+

@@ -1,0 +1,4 @@
+###### Article A212-47-3
+
+La situation d'évaluation certificative des unités capitalisables transversales 1 (UC 1) et 2 (UC 2) est réalisée au moyen de la production d'un document écrit personnel et d'un entretien prévus au 1° de l'article D. 212-28. Dans les conditions fixées par le directeur régional de la jeunesse des sports et de la cohésion sociale ou par le directeur de la jeunesse, des sports et de la cohésion sociale, le candidat transmet au directeur ou à l'organisme de formation un document écrit personnel explicitant la conception, la mise en œuvre et la réalisation d'un projet d'animation dans la structure d'alternance pédagogique. Ce document constitue le support de l'entretien qui permet de vérifier l'acquisition des compétences. L'entretien se déroule sur une durée de 40 minutes au maximum comprenant une présentation orale par le candidat d'une durée de vingt minutes au maximum.
+

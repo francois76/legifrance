@@ -1,0 +1,6 @@
+###### Article R142-16-3
+
+Le greffe demande par tous moyens, selon le cas à l'organisme de sécurité sociale, au président du conseil départemental ou la maison départementale des personnes handicapées, de transmettre à l'expert ou au consultant désigné l'intégralité du rapport médical mentionné à l'article L. 142-6 et du rapport mentionné au premier alinéa de l'article L. 142-10 ou l'ensemble des éléments ou informations à caractère secret au sens du deuxième alinéa de l'article L. 142-10 ayant fondé sa décision.
+
+Dans le délai de dix jours à compter de la notification, à l'employeur de la victime de l'accident du travail ou de la maladie professionnelle, lorsque ce dernier est partie à l'instance, de la décision désignant l'expert, celui-ci peut demander, par tous moyens conférant date certaine, à l'organisme de sécurité sociale, de notifier au médecin, qu'il mandate à cet effet, l'intégralité des rapports précités. S'il n'a pas déjà notifié ces rapports au médecin ainsi mandaté, l'organisme de sécurité sociale procède à cette notification, dans le délai de vingt jours à compter de la réception de la demande de l'employeur. Dans le même délai, l'organisme de sécurité sociale informe la victime de l'accident du travail ou de la maladie professionnelle de la notification de l'intégralité de ces rapports au médecin mandaté par l'employeur.
+

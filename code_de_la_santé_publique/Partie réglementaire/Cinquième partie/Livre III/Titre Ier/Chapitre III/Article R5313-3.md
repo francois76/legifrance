@@ -1,0 +1,6 @@
+###### Article R5313-3
+
+Les informations recueillies dans le cadre de la mission d'inspection font l'objet d'un rapport transmis par l'inspecteur chargé de la mission au directeur général de l'agence. La forme et le contenu de ce rapport sont définis par le directeur général de l'agence et, pour les médicaments, en coopération avec l'Agence européenne des médicaments. Ce rapport est communiqué au pharmacien responsable de l'entreprise ou le cas échéant à la personne responsable de l'établissement ou du lieu inspecté en application des lois et règlements relatifs aux produits et aux activités mentionnés à l'article L. 5311-1. Cette personne peut faire valoir ses observations dans le délai fixé par l'Agence nationale de sécurité du médicament et des produits de santé, qui lui est notifié lors de la transmission du rapport et qui ne peut être inférieur à quinze jours.
+
+En ce qui concerne les recherches biomédicales, le rapport d'inspection est tenu à la disposition du promoteur à l'exception des éléments confidentiels et peut être communiqué sur demande motivée au comité de protection des personnes concerné par la recherche, et pour les recherches portant sur le médicament aux autres Etats membres et à l'Agence européenne des médicaments.
+

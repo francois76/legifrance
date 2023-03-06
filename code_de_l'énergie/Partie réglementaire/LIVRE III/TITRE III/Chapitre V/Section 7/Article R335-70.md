@@ -1,0 +1,6 @@
+###### Article R335-70
+
+Une entreprise locale de distribution mentionnée à l'article L. 111-54, pour transférer son obligation de capacité à une autre entreprise locale de distribution, comme prévu à l'article L. 335-5, conclut un contrat avec celle-ci. L'entreprise locale de distribution désignée remplit alors l'obligation de capacité pour ses clients propres et pour les clients de cette entreprise locale de distribution. Elle notifie au gestionnaire du réseau de transport français le transfert d'obligation.
+
+Les contrats d'approvisionnement d'électricité au tarif de cession mentionnés à l'article L. 337-10 dont bénéficient les entreprises locales de distribution mentionnées à l'article L. 111-54 sont réputés inclure la cession d'un montant de garanties de capacité. La Commission de régulation de l'énergie transmet aux ministres chargés de l'économie et de l'énergie ses propositions motivées concernant les conditions, notamment de prix et de montant, dans lesquelles les garanties de capacité sont prises en compte dans les tarifs de cession. La décision est réputée acquise en l'absence d'opposition de l'un des ministres dans un délai de trois mois suivant la réception de ces propositions.
+

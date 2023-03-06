@@ -1,0 +1,4 @@
+##### Article L452-1
+
+Le réexamen d'une décision civile définitive rendue en matière d'état des personnes peut être demandé au bénéfice de toute personne ayant été partie à l'instance et disposant d'un intérêt à le solliciter, lorsqu'il résulte d'un arrêt rendu par la Cour européenne des droits de l'homme que cette décision a été prononcée en violation de la convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales ou de ses protocoles additionnels, dès lors que, par sa nature et sa gravité, la violation constatée entraîne, pour cette personne, des conséquences dommageables auxquelles la satisfaction équitable accordée en application de l'article 41 de la même convention ne pourrait mettre un terme. Le réexamen peut être demandé dans un délai d'un an à compter de la décision de la Cour européenne des droits de l'homme. Le réexamen d'un pourvoi en cassation peut être demandé dans les mêmes conditions.
+

@@ -1,0 +1,20 @@
+###### Article L5125-23
+
+I.-Le pharmacien ne peut délivrer un médicament ou produit autre que celui qui a été prescrit, ou ayant une dénomination commune différente de la dénomination commune prescrite, qu'avec l'accord exprès et préalable du prescripteur, sauf en cas d'urgence et dans l'intérêt du patient.
+
+II.-Si la prescription libellée en dénomination commune peut être respectée par la délivrance d'une spécialité figurant dans un groupe générique ou hybride mentionné au 5° de l'article L. 5121-1, le pharmacien délivre une spécialité appartenant à ce groupe dans le respect des dispositions de l'article L. 162-16 du code de la sécurité sociale.
+
+Par dérogation au I, il peut délivrer par substitution à la spécialité prescrite une spécialité du même groupe générique ou du même groupe hybride, à condition que le prescripteur n'ait pas exclu cette possibilité par une mention expresse et justifiée portée sur l'ordonnance. Un arrêté des ministres chargés de la santé et de la sécurité sociale, pris après avis de l'Agence nationale de sécurité du médicament et des produits de santé, précise les situations médicales dans lesquelles cette exclusion peut être justifiée, notamment sur l'ordonnance, ainsi que, le cas échéant, les modalités de présentation de cette justification par le prescripteur. Parmi ces situations médicales, certaines peuvent en outre faire l'objet d'une exclusion de substitution par le pharmacien, même lorsque le prescripteur n'a pas exclu cette possibilité sur l'ordonnance. L'arrêté mentionné au présent alinéa peut également préciser les situations médicales dans lesquelles cette exclusion peut être justifiée par le pharmacien, notamment sur l'ordonnance, ainsi que, le cas échéant, les modalités de présentation de cette justification par le pharmacien et d'information du prescripteur. Pour les spécialités figurant sur l'une des listes mentionnées aux premier et deuxième alinéas de l'article L. 162-17 du code de la sécurité sociale, cette substitution s'effectue dans les conditions prévues à l'article L. 162-16 du même code.
+
+Un arrêté des ministres chargés de la santé et de la sécurité sociale précise, après avis de l'Agence nationale de sécurité du médicament et des produits de santé, les situations médicales dans lesquelles la substitution peut être effectuée par le pharmacien au sein d'un groupe hybride.
+
+III.-Lorsque le pharmacien délivre par substitution à la spécialité prescrite une spécialité du même groupe générique ou du même groupe hybride, il doit inscrire le nom de la spécialité qu'il a délivrée. Il en est de même lorsque le pharmacien délivre une spécialité au vu d'une prescription libellée en dénomination commune.
+
+La prescription libellée en dénomination commune est obligatoire pour les spécialités figurant dans un groupe générique mentionné au 5° de l'article L. 5121-1.
+
+IV.-Lorsqu'un traitement est prescrit pour une durée d'au moins trois mois, y compris au moyen du renouvellement multiple d'un traitement mensuel, et qu'un grand conditionnement est disponible pour le médicament concerné ou pour sa forme générique, le pharmacien doit délivrer ledit conditionnement.
+
+V.-Par dérogation au I, le pharmacien peut, en cas de rupture de stock d'un médicament d'intérêt thérapeutique majeur mentionné sur la liste prévue à l'article L. 5121-30, remplacer le médicament prescrit par un autre médicament conformément à la recommandation établie, après consultation des professionnels de santé et des associations d'usagers du système de santé agréées, par l'Agence nationale de sécurité du médicament et des produits de santé et publiée sur son site internet. L'agence informe sans délai les ministres chargés de la santé et de la sécurité sociale de la publication de chaque recommandation.
+
+Lorsque le pharmacien procède au remplacement du médicament prescrit dans les conditions prévues au premier alinéa du présent V, il inscrit le nom du médicament qu'il a délivré sur l'ordonnance et informe le prescripteur de ce remplacement.
+

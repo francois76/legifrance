@@ -1,0 +1,48 @@
+###### Article R417-10
+
+I.-Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à gêner le moins possible la circulation.
+
+II.-Est considéré comme gênant la circulation publique l'arrêt ou le stationnement d'un véhicule :
+
+1° Sur les trottoirs lorsqu'il s'agit d'une motocyclette, d'un tricycle à moteur ou d'un cyclomoteur à l'exception d'un cyclomobile léger ;
+
+1° bis Abrogé ;
+
+2° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de transport public de voyageurs, des taxis, des véhicules titulaires du label " autopartage prévu par le décret n° 2012-280 du 28 février 2012 relatif au label " autopartage " ou des véhicules affectés à un service public ; l'autorité investie du pouvoir de police peut toutefois définir par arrêté les horaires pendant lesquels le stationnement est autorisé ;
+
+3° Entre le bord de la chaussée et une ligne continue lorsque la largeur de la voie restant libre entre cette ligne et le véhicule ne permet pas à un autre véhicule de circuler sans franchir ou chevaucher la ligne ;
+
+4° Abrogé ;
+
+5° Sur les emplacements où le véhicule empêche soit l'accès à un autre véhicule à l'arrêt ou en stationnement, soit le dégagement de ce dernier ;
+
+6° Sur les ponts, dans les passages souterrains, tunnels et sous les passages supérieurs, sauf dispositions différentes prises par l'autorité investie du pouvoir de police ;
+
+7° Abrogé ;
+
+8° (abrogé) ;
+
+9° Sur les bandes d'arrêt d'urgence, sauf cas de nécessité absolue ;
+
+10° Sur une voie publique spécialement désignée par arrêté de l'autorité investie du pouvoir de police municipale.
+
+III.-Est également considéré comme gênant la circulation publique le stationnement d'un véhicule :
+
+1° Devant les entrées carrossables des immeubles riverains ;
+
+2° En double file, sauf en ce qui concerne les engins de déplacement personnel, les cycles à deux roues, les cyclomoteurs à deux roues et les motocyclettes sans side-car ;
+
+3° Devant les dispositifs destinés à la recharge en énergie des véhicules électriques ;
+
+4° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de livraison ; l'autorité investie du pouvoir de police peut toutefois définir par arrêté les horaires pendant lesquels le stationnement est autorisé ;
+
+5° Dans les zones de rencontre, en dehors des emplacements aménagés à cet effet ;
+
+6° Dans les aires piétonnes, à l'exception des engins de déplacement personnel, des cyclomobiles légers et des cycles sur les emplacements aménagés à cet effet ;
+
+7° Au-dessus des accès signalés à des installations souterraines.
+
+IV.-Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de la deuxième classe.
+
+V.-Lorsque le conducteur ou le propriétaire du véhicule est absent ou refuse, malgré l'injonction des agents, de faire cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+

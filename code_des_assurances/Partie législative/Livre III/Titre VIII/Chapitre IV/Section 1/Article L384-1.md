@@ -1,0 +1,8 @@
+###### Article L384-1
+
+Les entreprises d'assurance et leurs succursales mentionnées au 1° de l'article L. 310-2 ainsi que les succursales françaises d'entreprises d'assurance mentionnées au 4° du même article peuvent être autorisées, dans les conditions définies à l'article L. 324-1, à transférer tout ou partie de leur portefeuille de contrats offrant les prestations mentionnées à l'article L. 381-1 à un ou plusieurs fonds de retraite professionnelle supplémentaire, mutuelles ou unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 du code de la mutualité et institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la sécurité sociale.
+
+A compter de la date de publication au Journal officiel de l'avis prévu au deuxième alinéa de l'article L. 324-1, l'entreprise d'assurance concernée par cette demande de transfert, le ou les fonds de retraite professionnelle supplémentaire à qui le portefeuille de contrat concerné serait transféré et, pour les contrats mentionnés au 2° de l'article L. 143-1, l'ensemble des souscripteurs de contrats concernés par ce transfert font figurer cette demande de transfert de manière apparente et distincte sur leur site internet, jusqu'à la décision de l'Autorité de contrôle prudentiel et de résolution relative à cette demande.
+
+A compter du 1er janvier 2023, les possibilités de transfert prévues au précédent alinéa ne sont possibles que dans le cadre de réorganisations juridiques des groupes auxquels appartiennent les entreprises d'assurance, auprès de qui ont été souscrits ces contrats ou dans les cas de réorganisations juridiques des personnes morales souscriptrices de ces contrats.
+

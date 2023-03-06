@@ -1,0 +1,6 @@
+###### Article L1111-21
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés et des conseils nationaux des ordres des professions de santé, fixe les conditions d'application des articles de la présente section relatifs au dossier médical partagé.
+
+Il précise les conditions de création et de fermeture du dossier médical partagé prévu au premier alinéa de l'article L. 1111-14, les conditions de mise en œuvre de l'information des titulaires sur l'ouverture de leur dossier ainsi que sur les modalités d'exercice de leur droit d'opposition à cette ouverture et de leur droit de clôturer à tout moment leur dossier, la nature et le contenu des informations contenues dans le dossier, les modalités d'exercice des droits des titulaires sur les informations figurant dans leur dossier prévues aux I, II et IV de l'article L. 1111-17 ainsi qu'à l'article L. 1111-19, les conditions dans lesquelles certaines informations peuvent être rendues inaccessibles par le titulaire du dossier médical partagé en application du dernier alinéa de l'article L. 1111-15, les conditions d'utilisation par les professionnels de santé et les conditions particulières d'accès au dossier médical partagé prévu aux I, II et IV de l'article L. 1111-17.
+

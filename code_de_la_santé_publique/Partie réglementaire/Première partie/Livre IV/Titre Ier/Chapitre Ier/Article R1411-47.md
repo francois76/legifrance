@@ -1,0 +1,8 @@
+###### Article R1411-47
+
+Le collège est composé, outre le président et le vice-président élus dans les conditions prévues à l'article R. 1411-50 :
+
+1° En qualité de personnalités qualifiées, du président de chaque commission spécialisée et de chaque comité technique permanent, que ce comité soit rattaché au collège ou à une commission spécialisée, ainsi que de cinq personnes nommées par le ministre chargé de la santé pour leurs compétences dans les domaines d'expertise du Haut Conseil ;
+
+2° En qualité de membres de droit, du directeur général de la santé, du directeur général de l'offre de soins, du directeur général de la cohésion sociale, du directeur de la sécurité sociale, du directeur de la recherche, des études, de l'évaluation et des statistiques, du directeur de l'Union nationale des caisses d'assurance maladie, du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, du directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, du président de la Conférence nationale de santé, du président du collège de la Haute Autorité de santé, du président de l'Autorité de sûreté nucléaire, du directeur général de l'Agence nationale de santé publique, du président-directeur général de l'Institut national de la santé et de la recherche médicale, du président du Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur, du secrétaire général des ministères chargés des affaires sociales et d'un directeur général d'agence régionale de santé nommé par le ministre ainsi que son suppléant ; ces membres de droit autres que le directeur général d'agence régionale de santé peuvent se faire représenter.
+

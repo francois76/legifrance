@@ -1,0 +1,4 @@
+##### Article L421-9-1
+
+En cas de modification de la nature du gaz acheminé dans les réseaux de distribution et de transport de gaz naturel, pour des motifs tenant à la sécurité d'approvisionnement du territoire, les opérateurs de stockages souterrains de gaz naturel mettent en œuvre les dispositions nécessaires pour contribuer au bon fonctionnement et à l'équilibrage des réseaux, à la continuité du service d'acheminement et de livraison du gaz et à la sécurité des biens et des personnes. La décision et les modalités de mise en œuvre par les opérateurs d'une telle modification font l'objet d'un décret, pris après une évaluation économique et technique de la Commission de régulation de l'énergie permettant de s'assurer de l'adéquation des mesures envisagées au bon fonctionnement du marché du gaz naturel au bénéfice des consommateurs finals.
+

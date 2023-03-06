@@ -1,0 +1,8 @@
+###### Article L932-41-2
+
+La notice mentionnée à l'article L. 932-6 indique que le contrat souscrit est un contrat de retraite professionnelle supplémentaire relevant de la présente sous-section. Un arrêté du ministre chargé de la sécurité sociale fixe la liste des informations minimales que contient la notice remise dans la cadre d'un contrat de retraite professionnelle supplémentaire.
+
+Lors de la liquidation de ses droits, l'institution de retraite professionnelle supplémentaire informe chaque participant et bénéficiaire, dans des conditions définies par arrêté du ministre chargé de la sécurité sociale, du montant des prestations qui lui sont dues et des options de paiement correspondantes.
+
+L'institution de retraite professionnelle supplémentaire établit et révise au moins tous les trois ans, globalement pour les opérations relevant de la présente sous-section, un rapport indiquant sa politique de placement et les risques techniques et financiers correspondants. Elle précise également les méthodes d'évaluation des risques d'investissement, les techniques de gestion des risques mises en œuvre et la répartition stratégique des actifs eu égard à la nature et à la durée des engagements de retraite, ainsi que la manière dont la politique d'investissement prend en considération les facteurs environnementaux, sociaux et de gouvernance. Ce rapport est mis à jour dans un délai de trois mois après tout changement majeur de la politique de placement. Il est mis à la disposition du souscripteur, du participant et du bénéficiaire. Un arrêté du ministre chargé de la sécurité sociale précise le contenu du rapport et les autres informations qui, sur demande ou périodiquement, doivent être remises aux participants.
+

@@ -1,0 +1,4 @@
+###### Article R422-56
+
+Si l'acquéreur d'un terrain exclu du territoire de l'association communale de chasse agréée en application du 5° de l'article L. 422-10 n'a pas, dans les conditions prévues à l'article L. 422-19, notifié au président de la fédération départementale des chasseurs, par lettre recommandée avec demande d'avis de réception ou par un envoi recommandé électronique au sens de l'article L. 100 du code des postes et des communications électroniques, son intention de maintenir cette opposition, le terrain est, par décision du président de la fédération départementale des chasseurs, à la diligence du président de l'association communale de chasse agréée, incorporé dans le territoire de celle-ci. Le président de la fédération départementale des chasseurs informe préalablement le nouveau propriétaire de la demande du président de l'association communale de chasse agréée et recueille ses observations.
+

@@ -1,0 +1,4 @@
+##### Article 1210-9
+
+En l'absence d'exécution volontaire de la décision de retour, le procureur de la République compétent en application de l'article 34-1 de la loi n° 95-125 du 8 janvier 1995 pour requérir directement la force publique afin de faire exécuter la décision est celui près le tribunal judiciaire spécialement désigné en application de l'article L. 211-12 du code de l'organisation judiciaire, dans le ressort duquel se trouve l'enfant. Il informe, s'il y a lieu, le procureur de la République près le tribunal judiciaire dans le ressort duquel se trouve l'enfant de son intention de requérir la force publique pour faire exécuter la décision de retour et peut recueillir de ce dernier toutes informations utiles, notamment au regard des risques que l'exécution de la décision pourrait entraîner.
+

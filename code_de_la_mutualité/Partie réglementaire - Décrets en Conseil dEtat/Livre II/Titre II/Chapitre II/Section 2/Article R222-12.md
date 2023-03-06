@@ -1,0 +1,4 @@
+###### Article R222-12
+
+Pour chaque règlement relevant de l'article L. 222-1, il est tenu une comptabilité auxiliaire d'affectation. Il est établi, pour chaque règlement, un compte de résultat d'affectation et un compte de bilan d'affectation, où sont inscrits les actifs représentatifs des engagements du règlement et les provisions techniques mentionnées aux 1°, 2° et 3° de l'article R. 222-8, ainsi qu'un tableau des engagements reçus et donnés, une annexe comportant un inventaire des actifs représentatifs des engagements du règlement et un état récapitulatif des opérations mentionnées à l'article R. 222-8-1. Ces documents sont arrêtés par la mutuelle ou l'union à chaque fin d'exercice. Ils précisent que les informations qu'ils contiennent ont été ou non certifiées par les commissaires aux comptes de la mutuelle ou de l'union. Ils sont tenus à la disposition des membres participants qui en font la demande.
+

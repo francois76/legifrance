@@ -1,0 +1,6 @@
+###### Article 407
+
+Les déclarations de récolte, de production et de stock prévues respectivement aux articles 8, 9 et 11 du règlement (CE) n° 436/2009 de la Commission du 26 mai 2009 portant modalités d'application du règlement (CE) n° 479/2008 du Conseil en ce qui concerne le casier viticole, les déclarations obligatoires et l'établissement des informations pour le suivi du marché, les documents accompagnant les transports des produits et les registres à tenir dans le secteur vitivinicole sont souscrites auprès de l'autorité compétente par les personnes et dans les conditions prévues à ces articles, selon des modalités précisées par décret.
+
+A compter du 1er janvier 2017, les déclarations mentionnées au premier alinéa ainsi que les déclarations des opérations d'enrichissement, d'acidification, de désacidification ou de concentration des vins prévues au point 4 de la section D de la partie I de l'annexe VIII au règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72, (CEE) n° 234/79, (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil sont souscrites par voie électronique. ;
+

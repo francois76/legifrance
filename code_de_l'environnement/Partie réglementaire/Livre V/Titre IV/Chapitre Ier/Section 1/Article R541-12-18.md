@@ -1,0 +1,12 @@
+###### Article R541-12-18
+
+Tout éco-organisme mis en place en application de l'article L. 541-10 élabore, dans un délai de trois mois à compter de la date de son premier agrément, l'information mentionnée au deuxième alinéa de l'article L. 541-9-3, laquelle précise les modalités de tri ou d'apport du déchet issu du produit. Il transmet sa proposition motivée aux ministres chargés de l'environnement et de la consommation après consultation de son comité des parties prenantes. La proposition est réputée acquise à compter de son acceptation par les ministres ou, à défaut, si aucun des deux ministres ne s'y est opposé, à l'expiration d'un délai de deux mois à compter de la plus tardive des deux dates de réception. Dans le cas contraire, ou sur demande motivée de l'un au moins des ministres, l'éco-organisme transmet une proposition révisée prenant en compte leurs observations dans le délai d'un mois à compter de leur réception.
+
+Lorsque plusieurs éco-organismes sont agréés pour une même catégorie de produits, ils se coordonnent afin de formuler une proposition conjointe.
+
+Cette information peut être définie, en tant que de besoin, par un arrêté conjoint des ministres chargés de l'environnement et de la consommation après avis de la commission inter-filières de responsabilité élargie des producteurs. Le cas échéant, elle remplace l'information établie par l'éco-organisme.
+
+L'éco-organisme peut, sur son initiative, ou doit, lorsque c'est à la demande de l'un au moins des deux ministres, réviser cette information dans les conditions mentionnées au premier alinéa.
+
+L'éco-organisme publie cette information sur son site internet et en informe ses adhérents à compter de la date à laquelle celle-ci est acquise. Sous réserve qu'ils décident de l'appliquer avant cette échéance, les producteurs qui ont transféré l'obligation de responsabilité élargie à un éco-organisme appliquent la signalétique et cette information au plus tard douze mois après la date à laquelle celle-ci est acquise. Cette information peut également prévoir que les produits fabriqués ou importés avant cette échéance bénéficient d'un délai d'écoulement des stocks n'excédant pas six mois à compter de celle-ci. S'agissant des emballages mentionnés à l'article R. 543-43, le délai d'écoulement des stocks s'applique aux emballages fabriqués ou importés avant qu'ils n'aient été utilisés pour l'emballage des produits.
+

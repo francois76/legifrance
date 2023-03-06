@@ -1,0 +1,10 @@
+###### Article L302-7-1
+
+Les établissements publics fonciers, l'office foncier de la Corse et les établissements publics de coopération intercommunale à fiscalité propre mentionnés aux septième à neuvième alinéas de l'article L. 302-7 transmettent, avant le 31 mars, au représentant de l'Etat dans le département un rapport sur l'utilisation des sommes qui leur ont été reversées en application du même article L. 302-7 ainsi que sur les perspectives d'utilisation des sommes non utilisées.
+
+Lorsque le représentant de l'Etat dans le département constate une utilisation des sommes précitées non conforme au présent article par un bénéficiaire mentionné au septième alinéa de l'article L. 302-7, il informe de ses constats, dans un délai d'un mois à compter de la réception du rapport, le président de l'établissement public de coopération intercommunale à fiscalité propre ou de la métropole de Lyon et l'invite à présenter ses observations dans un délai de deux mois.
+
+Si, à l'expiration de ce délai, les indications fournies par le bénéficiaire du prélèvement ne permettent pas de justifier les faits constatés, le représentant de l'Etat dans le département peut, par un arrêté motivé, suspendre, pour une durée limitée à douze mois, le versement des sommes précitées au bénéficiaire concerné. Cet arrêté indique le montant des sommes qui ne seront pas versées au bénéficiaire ainsi que la durée correspondante. Ce montant ne peut excéder le montant des sommes dont l'utilisation a été considérée comme non conforme à la loi. Pendant la durée prévue par l'arrêté précité, les prélèvements sont versés, par dérogation au même septième alinéa, à l'établissement public foncier mentionné aux huitième ou neuvième alinéas du même article L. 302-7 ou, en Corse, à l'office foncier de la Corse mentionné à l'article L. 4424-26-1 du code général des collectivités territoriales ou, à défaut, au fonds national mentionné à l'article L. 435-1 du présent code.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+

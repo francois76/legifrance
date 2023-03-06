@@ -1,0 +1,4 @@
+###### Article L144-1
+
+Les ministres chargés de l'énergie et de la recherche arrêtent et rendent publique une stratégie nationale de la recherche énergétique, fondée sur les objectifs définis au titre préliminaire du présent livre Ier, qui constitue le volet énergie de la stratégie nationale de recherche prévue à l'article L. 111-6 du code de la recherche. La stratégie nationale de la recherche énergétique prend en compte les orientations de la politique énergétique et climatique définies par la stratégie bas-carbone mentionnée à l'article L. 222-1 B du code de l'environnement et la programmation pluriannuelle de l'énergie prévue à l'article L. 141-1 du présent code. Elle est élaborée en concertation avec les régions et soumise, pour consultation, au Conseil national de la transition écologique mentionné à l'article L. 133-1 du code de l'environnement.
+

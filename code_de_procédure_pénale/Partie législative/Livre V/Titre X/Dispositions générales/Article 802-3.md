@@ -1,0 +1,6 @@
+##### Article 802-3
+
+Lorsque l'une au moins des infractions poursuivies entre dans une catégorie d'infractions pour le jugement desquelles la juridiction dispose, en application des dispositions du présent code, d'une compétence territoriale concurrente et spécialisée s'étendant sur le ressort de plusieurs tribunaux judiciaires ou sur l'ensemble du territoire, le premier président de la cour d'appel peut décider, dans l'intérêt de la bonne administration de la justice, en raison de la disproportion entre, d'une part, les capacités d'accueil physique de la juridiction et, d'autre part, le nombre des parties civiles, que le déroulement de l'audience fera l'objet, selon des modalités précisées par arrêté du ministre de la justice, d'une captation sonore permettant sa diffusion en différé, par un moyen de télécommunication garantissant la confidentialité de la transmission, aux parties civiles qui en ont fait la demande. Le président de la juridiction pénale peut toutefois ordonner l'interdiction de la diffusion de tout ou partie des débats afin de garantir leur sérénité ou de prévenir un trouble à l'ordre public.
+
+Le fait d'enregistrer cette captation ou de la diffuser à des tiers est puni d'un an d'emprisonnement et 15 000 € d'amende.
+

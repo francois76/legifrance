@@ -1,0 +1,4 @@
+###### Article D732-11-22
+
+Les fonctionnalités déployées par le système d'information mentionné à l'article D. 732-11-21 répondent aux exigences de confidentialité, de protection des données et de sécurité définies notamment par le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, par la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, par le référentiel général de sécurité prévu à l'article 9 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ainsi que par la politique de sécurité des systèmes d'information de l'Etat.
+

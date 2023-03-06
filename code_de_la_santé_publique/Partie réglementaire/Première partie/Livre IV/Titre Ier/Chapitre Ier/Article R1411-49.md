@@ -1,0 +1,10 @@
+###### Article R1411-49
+
+Les personnalités qualifiées membres du collège ou d'une commission spécialisée du Haut Conseil de la santé publique ou d'un comité technique permanent sont nommées par le ministre chargé de la santé pour une durée de quatre ans renouvelable deux fois.
+
+Si une commission spécialisée nouvelle est créée en cours de mandat des personnalités qualifiées membres du Haut Conseil de la santé publique, les personnalités qualifiées qui en sont membres sont nommées pour la durée de ce mandat restant à courir.
+
+Si une personnalité qualifiée membre du Haut Conseil cesse ses fonctions avant le terme de son mandat, son remplaçant est nommé pour la durée du mandat restant à courir.
+
+Si une personnalité qualifiée membre du Haut Conseil s'abstient pendant six mois d'assister aux séances du collège ou de la commission spécialisée à laquelle elle appartient, elle peut, sur demande du président du Haut Conseil, être déclarée démissionnaire d'office par le ministre chargé de la santé.
+

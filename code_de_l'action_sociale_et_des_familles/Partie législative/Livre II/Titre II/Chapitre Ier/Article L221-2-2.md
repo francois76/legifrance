@@ -1,0 +1,4 @@
+##### Article L221-2-2
+
+Pour permettre l'application du troisième alinéa de l'article 375-5 du code civil, le président du conseil départemental transmet au ministre de la justice les informations dont il dispose sur le nombre de mineurs et de majeurs de moins de vingt et un ans privés temporairement ou définitivement de la protection de leur famille et pris en charge par l'aide sociale à l'enfance dans le département. Le ministre de la justice fixe les objectifs de répartition proportionnée des accueils de ces mineurs et de ces majeurs entre les départements, en fonction de critères démographiques, socio-économiques et d'éloignement géographique. Les modalités d'application du présent article, notamment la prise en compte de la situation particulière des collectivités relevant de l'article 73 de la Constitution, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon, sont définies par décret en Conseil d'Etat.
+

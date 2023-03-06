@@ -1,0 +1,4 @@
+###### Article R541-8-1
+
+Un combustible solide de récupération est un déchet non dangereux solide, composé de déchets qui ont été triés de manière à en extraire la fraction valorisable sous forme de matière dans les conditions technico-économiques du moment, préparé pour être utilisé comme combustible dans une installation relevant de la rubrique 2971 de la nomenclature des installations classées pour la protection de l'environnement. Reste un combustible solide de récupération, celui auquel sont associés des combustibles autorisés au B de la rubrique 2910. Un arrêté du ministre chargé de l'environnement fixe les caractéristiques de ces combustibles, la liste des installations où ils peuvent être préparés ainsi que les obligations auxquelles les exploitants de ces dernières installations sont soumis en vue de garantir la conformité des combustibles préparés à ces caractéristiques.
+

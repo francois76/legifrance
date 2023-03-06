@@ -1,0 +1,6 @@
+###### Article R512-69
+
+L'exploitant d'une installation soumise à autorisation, à enregistrement ou à déclaration est tenu de déclarer, dans les meilleurs délais, à l'inspection des installations classées les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article L. 511-1.
+
+Un rapport d'accident ou, sur demande de l'inspection des installations classées, un rapport d'incident est transmis par l'exploitant au préfet et à l'inspection des installations classées. Il précise, notamment, les circonstances et les causes de l'accident ou de l'incident, les substances dangereuses en cause, s'il y a lieu, les effets sur les personnes et l'environnement, les mesures d'urgence prises, les mesures prises ou envisagées pour éviter un accident ou un incident similaire et pour en pallier les effets à moyen ou à long terme. Si une enquête plus approfondie révèle des éléments nouveaux modifiant ou complétant ces informations ou les conclusions qui en ont été tirées, l'exploitant est tenu de mettre à jour les informations fournies et de transmettre ces mises à jour au préfet ainsi qu'à l'inspection des installations classées.
+

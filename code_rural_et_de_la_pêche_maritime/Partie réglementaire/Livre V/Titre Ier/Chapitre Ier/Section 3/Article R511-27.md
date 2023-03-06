@@ -1,0 +1,4 @@
+###### Article R511-27
+
+Avant le 1er juillet de l'année précédant celle des élections, le préfet invite, dans l'avis mentionné à l'article R. 511-15, les groupements visés au 5° de l'article R. 511-6, à adresser à la préfecture leurs demandes d'inscription avant le 1er octobre.
+

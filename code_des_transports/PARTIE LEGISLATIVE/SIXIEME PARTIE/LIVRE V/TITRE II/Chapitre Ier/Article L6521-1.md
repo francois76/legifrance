@@ -1,0 +1,8 @@
+###### Article L6521-1
+
+Est navigant professionnel de l'aéronautique civile toute personne qui remplit les deux conditions suivantes :
+
+1° Exercer de façon habituelle et principale, pour son propre compte ou pour le compte d'autrui, dans un but lucratif ou contre rémunération, la fonction de personnel navigant ;
+
+2° Être titulaire d'un titre aéronautique en état de validité ou relever du règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence de l'Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n° 2111/2005, (CE) n° 1008/2008, (UE) n° 996/2010, (UE) n° 376/2014 et les directives 2014/30/ UE et 2014/53/ UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n° 552/2004 et (CE) n° 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n° 3922/91 du Conseil ainsi que de ses règlements d'application.
+

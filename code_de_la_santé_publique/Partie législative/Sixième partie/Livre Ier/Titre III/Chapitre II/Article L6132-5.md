@@ -1,0 +1,6 @@
+###### Article L6132-5
+
+I.-Après avoir reçu les projets médicaux partagés des établissements souhaitant se regrouper au sein d'un groupement hospitalier de territoire ou en cas d'absence de transmission des projets médicaux partagés, les directeurs généraux des agences régionales de santé arrêtent le 1er juillet 2016, dans le respect du schéma régional de santé prévu à l'article L. 1434-3, la liste de ces groupements dans la ou les régions concernées et des établissements publics de santé susceptibles de les composer. La publication de cette liste entraîne la création du comité territorial des élus locaux de chaque groupement hospitalier de territoire. Il est composé des représentants des élus des collectivités territoriales aux conseils de surveillance des établissements parties au groupement.
+
+II.-L'attribution des dotations régionales de financement des missions d'intérêt général et d'aide à la contractualisation mentionnées à l'article L. 162-22-13 du code de la sécurité sociale à un établissement public de santé, lorsqu'il ne relève pas de la dérogation prévue au I de l'article L. 6132-1 du présent code, est subordonnée à la conclusion par cet établissement d'une convention de groupement hospitalier de territoire.
+

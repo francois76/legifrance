@@ -1,0 +1,4 @@
+##### Article L77-11-4
+
+L'action de groupe engagée en faveur de plusieurs candidats à un emploi, à un stage ou à une période de formation ou en faveur de plusieurs agents publics peut être introduite à l'expiration d'un délai de six mois à compter de la réception par l'autorité compétente d'une demande tendant à faire cesser la situation de discrimination ou à compter de la notification par l'employeur du rejet de la demande. Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment les modalités de transmission des réclamations préalables ainsi que les modalités de consultation des organisations syndicales disposant d'au moins un siège dans l'organisme consultatif compétent au niveau auquel la mesure tendant à faire cesser cette situation peut être prise.
+

@@ -1,0 +1,10 @@
+###### Article R5332-30
+
+L'exploitant de l'installation est responsable de la mise en œuvre du plan de sûreté de l'installation.
+
+Le ministre chargé des transports ou le représentant de l'Etat dans le département peut vérifier à tout moment la conformité du plan de sûreté de l'installation portuaire à la réglementation en vigueur ainsi que l'application effective des mesures qu'il contient et le degré de sûreté réellement assuré dans l'installation, au moyen d'un audit, éventuellement inopiné, réalisé par les services de l'Etat ou par un organisme de sûreté habilité. L'exploitant de l'installation portuaire autorise les personnes chargées de l'audit à accéder à tous les équipements intéressant la sûreté de l'installation ainsi qu'à l'ensemble des documents ayant trait, directement ou indirectement, à la sûreté de celle-ci. A l'issue de l'audit, l'exploitant soumet à l'approbation du représentant de l'Etat dans le département un plan comportant les actions correctrices nécessaires.
+
+Le représentant de l'Etat dans le département contrôle la mise en œuvre des dispositions contenues dans le plan. Les gendarmes, fonctionnaires et agents des services concourant à la sûreté des transports maritimes et des opérations portuaires l'informent des non-conformités constatées. Lorsqu'il est informé d'un défaut majeur de conformité par les services de l'Etat ou à l'issue d'un audit, le représentant de l'Etat dans le département peut, après une mise en demeure non suivie d'effet, prendre des sanctions à l'encontre de l'exploitant de l'installation portuaire ou imposer des mesures correctives à la charge de celui-ci, ou suspendre l'autorisation d'exploitation.
+
+En l'absence de plan de sûreté en cours de validité ou si celui-ci présente des insuffisances, l'exploitation est couverte par l'établissement de déclarations de sûreté telles que prévues par le code international pour la sûreté des navires et des installations portuaires (code ISPS) adopté par l'Organisation maritime internationale le 12 décembre 2002 entre l'exploitant et tout navire soumis au code précité y faisant escale.
+

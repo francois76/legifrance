@@ -1,0 +1,4 @@
+###### Article L131-9
+
+Les dispositions du plan local d'urbanisme tenant lieu de programme local de l'habitat prennent en compte toute nouvelle obligation applicable aux communes du territoire intercommunal en application des articles L. 302-5 et suivants du code de la construction et de l'habitation, dans un délai de deux ans, ou de trois ans si cette mise en compatibilité implique une révision du plan local d'urbanisme. Lorsque, dans ces délais, l'établissement public de coopération intercommunale n'a pas modifié ou révisé le plan local d'urbanisme tenant lieu de programme local de l'habitat, ou lorsqu'il a explicitement notifié au représentant de l'Etat sa volonté de ne pas procéder à cette modification ou révision, il est fait application du dernier alinéa du II de l'article L. 302-4 du même code, pour les prélèvements opérés sur les communes du territoire intercommunal en application de l'article L. 302-7 dudit code.
+

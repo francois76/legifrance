@@ -1,0 +1,10 @@
+###### Article L822-11
+
+I.-Il est interdit au commissaire aux comptes d'accepter une mission de certification auprès d'une entité d'intérêt public, lorsqu'au cours de l'exercice précédant celui dont les comptes doivent être certifiés, ce dernier ou tout membre du réseau auquel il appartient a fourni, directement ou indirectement, à l'entité d'intérêt public, ou aux personnes ou entités qui la contrôlent ou qui sont contrôlées par elle dans l'Union européenne, au sens des I et II de l'article L. 233-3, les services mentionnés au e du paragraphe 1 de l'article 5 du règlement (UE) n° 537/2014 du 16 avril 2014.
+
+II.-Il est interdit au commissaire aux comptes et aux membres du réseau auquel il appartient de fournir directement ou indirectement à l'entité d'intérêt public dont il certifie les comptes, et aux personnes ou entités qui la contrôlent ou qui sont contrôlées par elle au sens des I et II de l'article L. 233-3 et dont le siège social est situé dans l'Union européenne, les services mentionnés au paragraphe 1 de l'article 5 du règlement (UE) n° 537/2014 du 16 avril 2014.
+
+Par dérogation au premier alinéa du présent II, lorsqu'un membre du réseau auquel il appartient et qui est établi dans un Etat membre fournit à une personne ou entité qui contrôle ou qui est contrôlée par l'entité d'intérêt public, au sens des I et II de l'article L. 233-3, et dont le siège social est situé dans l'Union européenne des services mentionnés aux i et iv à vii du a et au f du 1 du même article 5 dans un Etat membre qui les autorise, le commissaire aux comptes analyse les risques pesant sur son indépendance et applique les mesures de sauvegarde appropriées.
+
+III.-Il est interdit au commissaire aux comptes d'accepter ou de poursuivre une mission de certification auprès d'une personne ou d'une entité qui n'est pas une entité d'intérêt public lorsqu'il existe un risque d'autorévision ou que son indépendance est compromise et que des mesures de sauvegarde appropriées ne peuvent être mises en œuvre.
+

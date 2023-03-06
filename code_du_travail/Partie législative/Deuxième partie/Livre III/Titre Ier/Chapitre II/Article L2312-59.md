@@ -1,0 +1,10 @@
+###### Article L2312-59
+
+Si un membre de la délégation du personnel au comité social et économique constate, notamment par l'intermédiaire d'un travailleur, qu'il existe une atteinte aux droits des personnes, à leur santé physique et mentale ou aux libertés individuelles dans l'entreprise qui ne serait pas justifiée par la nature de la tâche à accomplir, ni proportionnée au but recherché, il en saisit immédiatement l'employeur. Cette atteinte peut notamment résulter de faits de harcèlement sexuel ou moral ou de toute mesure discriminatoire en matière d'embauche, de rémunération, de formation, de reclassement, d'affectation, de classification, de qualification, de promotion professionnelle, de mutation, de renouvellement de contrat, de sanction ou de licenciement.
+
+L'employeur procède sans délai à une enquête avec le membre de la délégation du personnel du comité et prend les dispositions nécessaires pour remédier à cette situation.
+
+En cas de carence de l'employeur ou de divergence sur la réalité de cette atteinte, et à défaut de solution trouvée avec l'employeur, le salarié, ou le membre de la délégation du personnel au comité social et économique si le salarié intéressé averti par écrit ne s'y oppose pas, saisit le bureau de jugement du conseil de prud'hommes qui statue selon la procédure accélérée au fond.
+
+Le juge peut ordonner toutes mesures propres à faire cesser cette atteinte et assortir sa décision d'une astreinte qui sera liquidée au profit du Trésor.
+

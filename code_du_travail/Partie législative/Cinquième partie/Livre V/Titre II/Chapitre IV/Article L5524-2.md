@@ -1,0 +1,4 @@
+###### Article L5524-2
+
+Pour l'application à Mayotte de l'article L. 5421-4, les mots : “ à l'article L. 161-17-2 du code de la sécurité sociale ” sont remplacés par les mots : “ au premier alinéa de l'article 6 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte ”, les mots : “ au deuxième alinéa de l'article L. 351-1 du code de la sécurité sociale ” sont remplacés par les mots : “ au même alinéa ” et les mots : “ attribuée en application des articles L. 161-17-4, L. 351-1-1, L. 351-1-3 et L. 351-1-4 du code de la sécurité sociale et des troisième et septième alinéas du I de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) ” sont remplacés par les mots : “ anticipée attribuée en application de la législation sociale applicable à Mayotte ”.
+

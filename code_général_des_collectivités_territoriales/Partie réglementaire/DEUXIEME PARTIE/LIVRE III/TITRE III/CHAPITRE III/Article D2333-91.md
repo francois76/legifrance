@@ -1,0 +1,4 @@
+###### Article D2333-91
+
+Pour l'application du deuxième alinéa du II de l'article R. 130-1 du code de la sécurité sociale aux entreprises de travail temporaire, il est tenu compte du nombre des salariés permanents et des salariés intérimaires qui ont été liés à l'entreprise par des contrats de mission pendant une durée totale d'au moins trois mois au cours de l'année de décompte des effectifs mentionnée au I de l'article L. 130-1 du code de la sécurité sociale employés dans chaque zone au sens de l'article D. 2333-87. Pour établir l'assiette du versement destiné au financement des services de mobilité, il est tenu compte des rémunérations dues au titre de l'ensemble des salariés intérimaires employés par les entreprises redevables dans chaque zone au cours de l'année d'assujettissement au versement mobilité à compter du premier jour de leur mission et quelle que soit la durée de celle-ci.
+

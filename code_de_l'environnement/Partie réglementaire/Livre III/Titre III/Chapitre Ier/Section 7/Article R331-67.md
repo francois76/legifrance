@@ -1,0 +1,16 @@
+###### Article R331-67
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait, en infraction à la réglementation applicable au coeur du parc :
+
+1° D'abandonner, déposer, jeter, déverser ou rejeter des ordures, déchets, matériaux ou tout autre objet de quelque nature que ce soit à l'aide d'un véhicule ;
+
+2° De circuler ou, le cas échéant, de stationner avec tout type de véhicule terrestre ou maritime à moteur, y compris un véhicule nautique à moteur au sens du décret n° 96-611 du 4 juillet 1996 relatif à la mise sur le marché des bateaux de plaisance et des pièces et éléments d'équipement ;
+
+3° D'emporter en dehors du coeur de parc national, mettre en vente, vendre ou acheter des animaux non domestiques, des végétaux non cultivés, quel que soit leur stade de développement, ou des parties de ceux-ci, des minéraux ou des fossiles, des éléments de constructions ou des objets appartenant ou susceptibles d'appartenir au patrimoine historique, architectural ou archéologique en provenance du coeur du parc national ;
+
+4° De chasser ou détenir une arme pouvant être utilisée pour la chasse ;
+
+5° De porter ou d'allumer du feu, notamment de fumer ;
+
+6° De ne pas respecter les prescriptions dont peuvent être assorties les autorisations délivrées pour des travaux, constructions, installations ou aménagements.
+

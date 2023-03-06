@@ -1,0 +1,6 @@
+##### Article L234-9
+
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents soit sur l'instruction du procureur de la République, soit à leur initiative peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des vérifications destinées à établir l'état alcoolique, qui sont soit réalisées immédiatement et sur les lieux, soit précédées d'épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. Sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré.
+
+En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 et L. 234-5.
+

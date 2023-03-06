@@ -1,0 +1,6 @@
+###### Article L1411-6-2
+
+Tous les adultes de dix-huit ans ou plus bénéficient de mesures de prévention sanitaire et sociale, qui comportent notamment des rendez-vous de prévention proposés aux assurés à certains âges. Ces rendez-vous de prévention peuvent donner lieu à des consultations de prévention et à des séances d'information, d'éducation pour la santé, de promotion de la santé et de prévention. Ces rendez-vous de prévention doivent aussi être le lieu de repérage des violences sexistes et sexuelles et des risques liés à la situation de proche aidant.
+
+Ils ont notamment pour objectifs, en fonction des besoins, de promouvoir l'activité physique et sportive et une alimentation favorable à la santé, de prévenir les cancers, les addictions et l'infertilité et de promouvoir la santé mentale et la santé sexuelle. Ils sont adaptés aux besoins de chaque individu et prennent notamment en compte les besoins de santé des femmes et la détection des premières fragilités liées à l'âge en vue de prévenir la perte d'autonomie. Les conditions dans lesquelles, à titre exceptionnel et lorsque l'assuré est dans l'impossibilité de se rendre à un rendez-vous physiquement, la télémédecine peut être utilisée pour faciliter l'accès à ces rendez-vous de prévention sont définies par voie réglementaire.
+

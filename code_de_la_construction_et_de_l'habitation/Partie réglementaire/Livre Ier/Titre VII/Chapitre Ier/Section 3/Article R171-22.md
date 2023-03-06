@@ -1,0 +1,8 @@
+###### Article R171-22
+
+Des contrôles, portant sur le contenu de la déclaration environnementale précisé à l'article R. 171-17 et sur la vérification effectuée par la tierce partie indépendante sont mis en œuvre par le ministre chargé de la construction.
+
+Dans le cadre de ces contrôles, le ministre peut confier au Centre scientifique et technique du bâtiment ou à une tierce partie indépendante disposant d'une attestation de reconnaissance d'aptitude mentionnée à l'article R. 171-18, la réalisation d'une vérification approfondie du contenu d'une déclaration environnementale. Dans ce cas, le déclarant tient à disposition du Centre scientifique et technique du bâtiment ou de la tierce partie indépendante missionné par le ministre chargé de la construction, l'ensemble des éléments permettant de justifier les informations contenues dans la déclaration environnementale.
+
+Lorsqu'une déclaration environnementale bénéficiant d'une attestation de vérification mentionnée à l'article R. 171-18 ne respecte pas les exigences fixées à l'article R. 171-17, le ministre chargé de la construction, après mise en demeure du déclarant et de la tierce partie indépendante concernés, demande au déclarant de régulariser la déclaration environnementale dans un délai qui ne peut excéder une durée d'un an. Il peut, par le même acte ou par un acte distinct, suspendre la déclaration environnementale de la ou des bases de données indiquées dans la convention signée avec la personne morale représentant le programme de déclarations environnementales. S'il n'a pas été déféré à la mise en demeure à l'expiration du délai imparti, le ministre ordonne le retrait de la déclaration environnementale de la ou des bases de données.
+

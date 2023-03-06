@@ -1,0 +1,23 @@
+###### Article D5771-2
+
+Sont applicables en Polynésie française, sous réserve des compétences dévolues à cette collectivité par la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française dans les eaux intérieures et en matière de sécurité des navires de moins de 160 tonneaux de jauge brute qui ne sont pas destinés au transport de passagers et des dispositions d'adaptations prévues au présent chapitre, les dispositions du livre Ier de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+
+<table border="1"><tbody>
+ <tr>
+  <th>DISPOSITIONS APPLICABLES</th>
+  <th>DANS LEUR RÉDACTION</th>
+ </tr>
+ <tr>
+  <td>D. 5111-1, D. 5111-3, D. 5111-6 à D. 5111-8</td>
+  <td>Résultant du décret n° 2016-1893 du 28 décembre 2016</td>
+ </tr>
+ <tr>
+  <td>D. 5111-2, D. 5111-4, D. 5111-5, D. 5112-1 à D. 5112-2-6</td>
+  <td>Résultant du décret n° 2021-1914 du 30 décembre 2021</td>
+ </tr>
+ <tr>
+  <td>D. 5113-1 à D. 5113-4</td>
+  <td>Résultant du décret n° 2016-1893 du 28 décembre 2016</td>
+ </tr>
+</tbody></table>
+

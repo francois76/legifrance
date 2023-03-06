@@ -1,0 +1,10 @@
+###### Article L181-30
+
+Les permis et les décisions de non-opposition à déclaration préalable requis en application des articles L. 421-1 à L. 421-4 du code de l'urbanisme ne peuvent pas recevoir exécution avant la délivrance de l'autorisation environnementale régie par le présent titre.
+
+Toutefois, les permis de démolir peuvent recevoir exécution avant la délivrance de l'autorisation environnementale prévue par le présent titre, si la démolition ne porte pas atteinte aux intérêts mentionnés à l'article L. 181-3.
+
+Par dérogation au premier alinéa du présent article, les permis et décisions mentionnés au même premier alinéa peuvent, à la demande du pétitionnaire et à ses frais et risques, recevoir exécution avant la délivrance de l'autorisation environnementale prévue au présent titre lorsque l'autorité administrative compétente pour délivrer l'autorisation environnementale le permet par décision spéciale motivée, à condition que la possibilité de commencer certains travaux avant la délivrance de l'autorisation environnementale ait été préalablement portée à la connaissance du public. Cette décision ne peut concerner que les travaux dont la réalisation ne nécessite pas l'une des décisions mentionnées au I de l'article L. 181-2 ou au I de l'article L. 214-3.
+
+Cette décision spéciale, notifiée au pétitionnaire et soumise aux mêmes modalités de publicité que l'autorisation environnementale, ne peut intervenir qu'après que l'autorité administrative compétente a eu connaissance de l'autorisation d'urbanisme. Elle ne peut être délivrée avant l'expiration d'un délai, fixé par voie réglementaire, courant à partir de la fin de la consultation du public incluant une information sur la possibilité de commencer les travaux par anticipation. Cette consultation est soit celle prévue à l'article L. 181-9, soit la consultation du public propre à l'autorisation d'urbanisme lorsqu'elle est anticipée pour favoriser la bonne réalisation du projet en application du I de l'article L. 181-10. La décision spéciale désigne les travaux dont l'exécution peut être anticipée.
+

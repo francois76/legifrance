@@ -1,0 +1,10 @@
+###### Article R1245-15
+
+I. – La demande d'autorisation prévue au deuxième alinéa du I de l'article L. 1245-5 pour les produits en provenance des Etats membres de l'Union européenne ou partie à l'accord sur l'Espace économique européen ne disposant pas de l'autorisation prévue au 2 de l'article 6 de la directive 2004/23/CE relative à l'établissement de normes de qualité et de sécurité pour le don, l'obtention, le contrôle, la transformation, la conservation, le stockage et la distribution des tissus et cellules humains est adressée au directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, accompagnée d'un dossier justificatif, par l'établissement ou l'organisme autorisé au titre de l'article L. 1243-2 qui sollicite cette autorisation par tout moyen permettant de donner date certaine à la demande d'autorisation.
+
+II. – Ce dossier comporte la copie de l'autorisation délivrée au titre du 1 de l'article 6 de la directive 2004/23/CE par les autorités compétentes des fournisseurs, accompagnée de sa traduction en français, ainsi que les éléments mentionnés aux 1°, 6° et 7° du II de l'article R. 1245-5. Sa forme et son contenu sont précisés par décision du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, après avis du directeur général de l'Agence de la biomédecine, publiée sur le site internet de l'Agence nationale de sécurité du médicament et des produits de santé.
+
+III. – Le dossier est réputé complet si, dans un délai d'un mois à compter de sa réception, le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé n'a pas fait connaître au demandeur, par tout moyen permettant de donner date certaine à cette démarche, les informations manquantes ou incomplètes et mentionnant le délai imparti pour les fournir.
+
+IV. – Le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé transmet un exemplaire du dossier au directeur général de l'Agence de la biomédecine qui fait connaître son avis dans un délai d'un mois. L'absence de réponse dans ce délai vaut avis favorable.
+

@@ -1,0 +1,4 @@
+###### Article L131-15-2
+
+Les fédérations délégataires, le cas échéant en coordination avec les ligues professionnelles qu'elles ont créées, et dans le cadre des orientations fixées par le ministre chargé des sports, élaborent une stratégie nationale visant à promouvoir les principes du contrat d'engagement républicain mentionnés à l'article 10-1 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations et au I de l'article L. 131-8 du présent code, qu'elles mettent en œuvre dans l'exercice de leurs prérogatives et missions, notamment celles mentionnées à l'article L. 131-15. Dans le cadre de cette stratégie nationale, les fédérations délégataires sont encouragées à intégrer un ou plusieurs modules de formation obligatoires sur les politiques publiques de promotion des valeurs de la République dans toutes leurs formations.
+

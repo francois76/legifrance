@@ -1,0 +1,16 @@
+##### Article 371 M
+
+Pour bénéficier de l'agrément prévu à l'article 1649 quater F du code général des impôts, les associations de membres de professions libérales et de titulaires de charges et offices doivent être légalement constituées. Leurs membres fondateurs sont exclusivement soit des ordres professionnels ou des organisations professionnelles légalement constituées de membres de professions libérales ou de titulaires de charges et offices, soit des experts comptables ou des sociétés d'expertise comptable.
+
+Les organisations professionnelles mentionnées au premier alinéa comprennent les organismes professionnels dont l'existence est prévue par la législation relative aux professions ci-dessus désignées, les syndicats professionnels et leurs unions institués conformément aux dispositions des articles L. 2111-1 et suivants du code du travail, et les associations professionnelles de personnes exerçant la même profession ainsi que leurs unions.
+
+Les unions ou fédérations d'associations professionnelles regroupant des professions différentes sont également autorisées à prendre l'initiative de la création d'une association agréée lorsque chacune des associations qui les composent peut être regardée individuellement comme ayant vocation à créer une telle association.
+
+Les associations doivent avoir pour objet de développer chez leurs membres l'usage de la comptabilité, sous réserve des dispositions de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable, de faciliter à ces derniers l'accomplissement de leurs obligations administratives et fiscales et de leur fournir une assistance en matière de gestion. Elles fournissent à leurs membres une analyse des informations économiques, comptables et financières en matière de prévention des difficultés économiques et financières. Ces services sont réservés aux seuls adhérents de l'association exerçant une profession libérale ou titulaires de charges et offices. Les formations proposées par l'organisme agréé ont trait au droit, à la fiscalité, à la comptabilité ou à la gestion et sont également offertes au représentant de l'adhérent.
+
+Elles ne peuvent agir en qualité de mandataires de leurs membres.
+
+Toutefois, les associations doivent recevoir mandat de leurs membres en vue de la télétransmission des déclarations de résultats, de leurs annexes et des autres documents les accompagnant selon la procédure prévue par le système de transfert des données fiscales et comptables.
+
+Les associations peuvent fournir à des professionnels non adhérents des services de dématérialisation et de télétransmission de leurs déclarations fiscales, à l'occasion de leur première déclaration par cette voie.
+

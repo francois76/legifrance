@@ -1,0 +1,4 @@
+###### Article D421-13
+
+Lorsqu'il est fait application de l'article D. 421-12, les opérateurs des infrastructures de stockage mentionnées à l'article L. 421-3-1 offrent aux fournisseurs de gaz naturel, en complément des enchères publiques mentionnées à l'article L. 421-5-1, la possibilité de souscrire pour la période comprise entre le 1er novembre et le 31 mars de l'année suivante les capacités disponibles de ces infrastructures à un tarif correspondant au prix maximum issu des enchères publiques réalisées avant la publication de l'arrêté mentionné à l'article D. 421-12 pour des capacités équivalentes, ou le cas échéant au prix de réserve minimum utilisé pour la commercialisation aux enchères de ces capacités, auquel est ajouté un complément de tarif fixé par la Commission de régulation de l'énergie.
+

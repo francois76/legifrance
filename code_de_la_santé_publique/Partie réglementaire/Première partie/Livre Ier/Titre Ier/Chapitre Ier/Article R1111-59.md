@@ -1,0 +1,4 @@
+###### Article R1111-59
+
+Le patient titulaire du dossier médical partagé est informé de la demande mentionnée à l'article R. 1111-57 par la Caisse nationale de l'assurance maladie et invité par elle à indiquer s'il consent à la consultation de ses données de santé mentionnées à l'article R. 1111-55 qui proviennent d'un point de contact national. Afin de sécuriser le recueil de ce consentement, un dispositif de validation de la demande d'accès formulée par ce professionnel de santé, qui peut consister dans l'envoi d'un code à usage unique par voie électronique, doit être mis à la disposition du titulaire du dossier médical partagé par la Caisse nationale de l'assurance maladie. L'absence de consentement exprès entraîne le rejet de la demande d'accès par le point de contact national pour la santé en ligne.
+

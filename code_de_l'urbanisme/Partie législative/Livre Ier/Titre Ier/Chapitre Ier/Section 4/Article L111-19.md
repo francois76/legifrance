@@ -1,0 +1,4 @@
+###### Article L111-19
+
+Nonobstant toute disposition contraire du plan local d'urbanisme, l'emprise au sol des surfaces, bâties ou non, affectées aux aires de stationnement annexes d'un commerce soumis à l'autorisation d'exploitation commerciale prévue aux 1° et 4° du I de l'article L. 752-1 du code de commerce et à l'autorisation prévue au 1° de l'article L. 212-7 du code du cinéma et de l'image animée, ne peut excéder un plafond correspondant aux trois quarts de la surface de plancher des bâtiments affectés au commerce. Les espaces paysagers en pleine terre, les surfaces des aménagements relevant de l'article L. 3114-1 du code des transports, les surfaces réservées à l'auto-partage et les places de stationnement destinées à l'alimentation des véhicules électriques ou hybrides rechargeables sont déduits de l'emprise au sol des surfaces affectées au stationnement. La surface des places de stationnement non imperméabilisées compte pour la moitié de leur surface.
+

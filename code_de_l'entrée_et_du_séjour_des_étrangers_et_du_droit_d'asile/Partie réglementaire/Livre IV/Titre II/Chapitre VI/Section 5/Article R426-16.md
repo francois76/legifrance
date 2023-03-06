@@ -1,0 +1,10 @@
+###### Article R426-16
+
+Pour l'obtention de la carte de séjour temporaire portant la mention " stagiaire " prévue à l'article L. 426-23, est considéré comme stagiaire l'étranger qui vient en France pour l'une des raisons suivantes :
+
+1° Effectuer un stage en entreprise, dans le cadre d'une formation organisée dans son pays de résidence qui conduit à la délivrance d'un diplôme ou d'un titre ou à la reconnaissance d'un niveau de qualification professionnelle et qui relève d'un cursus scolaire ou universitaire, d'une formation professionnelle ou d'un programme de coopération de l'Union européenne ou intergouvernemental dans les domaines de l'éducation, de la formation, de la jeunesse ou de la culture ;
+
+2° En tant que salarié d'une entreprise établie à l'étranger, sous réserve des dispositions des articles L. 421-30 et L. 421-31, pour suivre une formation dispensée par un organisme mentionné à l'article L. 6351-1 du code du travail, et, le cas échéant, effectuer un stage dans une entreprise avec laquelle son employeur entretient des relations commerciales ;
+
+3° Effectuer un stage dans un établissement de santé public ou privé à but non lucratif en vue de bénéficier d'une formation complémentaire conduisant à la reconnaissance d'un niveau de qualification professionnelle, dans le cadre de la convention de coopération prévue à l'article R. 6134-2 du code de la santé publique.
+

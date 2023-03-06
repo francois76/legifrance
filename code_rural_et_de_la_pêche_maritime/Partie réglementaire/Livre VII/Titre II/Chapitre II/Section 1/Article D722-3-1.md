@@ -1,0 +1,10 @@
+###### Article D722-3-1
+
+Pour l'application de l'article L. 154-2 du code forestier, et aux fins d'information de leurs donneurs d'ordre, les personnes pour lesquelles la présomption de salariat a été levée en application de l'article D. 722-3 du présent code doivent être en possession d'une attestation certifiant qu'elles répondent aux conditions de la levée de présomption de salariat. Pour la première année, cette attestation est établie par la caisse de mutualité sociale agricole et transmise spontanément à la personne intéressée. Pour les exploitants agricoles mentionnés au deuxième alinéa de l'article L. 722-23, pour la première année, cette attestation est transmise sur demande à la personne intéressée.
+
+Pour les années suivantes, cette attestation est renouvelée de façon automatique par la caisse de mutualité sociale agricole qui la transmet à la personne intéressée. Elle est établie dans la limite maximum d'une attestation par année civile et fait foi jusqu'au terme de cette année, sous réserve des dispositions du troisième alinéa du présent article.
+
+Lorsque les personnes mentionnées au premier alinéa ne satisfont plus aux conditions de la levée de présomption de salariat et de ce fait ne relèvent plus du régime de protection sociale des personnes non salariées des professions agricoles, la caisse de mutualité sociale agricole le leur notifie par lettre recommandée avec avis de réception. La notification précise que ces personnes doivent retourner sans délai leur attestation à la caisse qui la leur a délivrée et qu'elles informent sans délai leurs donneurs d'ordre de leur nouvelle situation par lettre recommandée avec accusé de réception.
+
+Si cette information n'a pas été notifiée aux donneurs d'ordre par la personne qui ne bénéficie plus de la levée de présomption de salariat, les contrats entre cette personne et ses donneurs d'ordre ne peuvent être poursuivis au-delà du terme de l'année civile en cours.
+

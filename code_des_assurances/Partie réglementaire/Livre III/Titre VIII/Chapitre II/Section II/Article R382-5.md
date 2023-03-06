@@ -1,0 +1,6 @@
+###### Article R382-5
+
+I.-Lorsque l'autorité compétente de l'Etat membre d'accueil communique à l'Autorité de contrôle prudentiel et de résolution, à la fois, les dispositions de la législation de cet Etat membre en matière de droit social et de droit du travail relatives aux régimes de retraite professionnelle, les règles de gestion de ces régimes ainsi que les exigences en matière d'information de la clientèle qui s'appliquent à l'activité transfrontalière, l'Autorité de contrôle prudentiel et de résolution transmet ces informations au fonds de retraite professionnelle supplémentaire dans un délai qui n'excède pas six semaines à partir de la communication mentionnée au dernier alinéa du I de l'article R. 382-4. Si, à l'expiration de ce délai, l'Autorité de contrôle prudentiel et de résolution n'a pas reçu de l'Etat membre d'accueil l'information mentionnée au présent alinéa, elle en informe le fonds de retraite professionnelle supplémentaire concerné.
+
+II.-Lorsqu'une autorité compétente d'un autre Etat membre informe l'Autorité de contrôle prudentiel et de résolution d'une modification importante des informations mentionnées au I, l'Autorité communique cette modification au fonds de retraite professionnelle supplémentaire concerné.
+

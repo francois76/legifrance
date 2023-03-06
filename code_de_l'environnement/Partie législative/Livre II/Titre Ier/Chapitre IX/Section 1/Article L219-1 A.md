@@ -1,0 +1,10 @@
+###### Article L219-1 A
+
+Il est créé un conseil national pour l'aménagement, la protection et la mise en valeur de la mer et des littoraux et la gestion intégrée des zones côtières, dénommé Conseil national de la mer et des littoraux. Il est présidé par le Premier ministre ou, en son absence, par le ministre chargé de la mer. Sa composition et son fonctionnement sont fixés par décret. Sa composition tient compte de l'importance des espaces maritimes de l'outre-mer. Il comprend à parité, d'une part, des membres du Parlement, à raison de deux députés et deux sénateurs, dont un député et un sénateur élus dans les collectivités mentionnées à l'article 72-3 de la Constitution, un représentant au Parlement européen élu en France et des représentants des collectivités territoriales des façades maritimes de métropole et d'outre-mer et, d'autre part, des représentants des établissements publics intéressés, des milieux socio-professionnels et de la société civile représentatifs des activités et des usages du littoral.
+
+Le conseil peut être consulté dans le cadre de la rédaction des textes législatifs ou réglementaires relatifs à la mer et aux littoraux. Il est consulté sur les priorités d'intervention et les conditions générales d'attribution des aides de l'Etat. Il peut être consulté sur les projets définis en application des contrats passés entre l'Etat et les régions.
+
+Le conseil a un rôle de proposition auprès du Gouvernement, qui peut le saisir pour avis de tout sujet relatif à la mer et aux littoraux. Il contribue par ses avis et propositions à la coordination des actions publiques en mer et dans les territoires littoraux. Il est associé au suivi de la mise en œuvre de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la mise en valeur du littoral et des textes pris pour son application ainsi que des contrats initiés par l'Union européenne et intéressant le littoral. Il assure le suivi de la mise en œuvre de la stratégie nationale de la mer et des littoraux.
+
+Il participe aux travaux de prospective, d'observation et d'évaluation conduits sur le littoral aux niveaux européen, national et interrégional.
+

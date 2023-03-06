@@ -1,0 +1,12 @@
+###### Article R6152-50-5
+
+Le praticien hospitalier peut postuler aux emplois dont la vacance est publiée.
+
+Au cours de la période de recherche d'affectation, le directeur général du Centre national de gestion adresse au praticien hospitalier des propositions d'offres d'emploi public fermes et précises, correspondant à son projet personnalisé d'évolution professionnelle et tenant compte de sa situation de famille et de son lieu de résidence habituel. A cet effet, il adresse le curriculum vitae du praticien ainsi que son projet personnalisé d'évolution professionnelle aux chefs des établissements mentionnés à l'article R. 6152-1 dont les postes de praticiens hospitaliers vacants ou susceptibles de le devenir n'ont pas encore fait l'objet d'une publication ou n'ont pas été pourvus après publication. Le chef d'établissement transmet sa réponse, assortie de la proposition du chef de pôle ou, à défaut, du chef de service ou du responsable de la structure interne, et de l'avis du président de la commission médicale d'établissement, dans le délai d'un mois suivant la notification de ces documents. En cas de refus, celui-ci est motivé.
+
+Le directeur général du Centre national de gestion adresse au praticien les propositions d'emploi ainsi transmises par les établissements. Si l'intéressé ne fait pas connaître sa réponse dans le délai de dix jours suivant la date de notification de ces propositions, son silence est considéré comme un refus. En cas d'acceptation de l'une des propositions qui lui ont été adressées, le directeur général du Centre national de gestion nomme le praticien sur l'emploi considéré, sans publication de la vacance du poste ni consultation de la commission statutaire nationale.
+
+Le praticien qui refuse successivement trois offres d'emploi formulées dans les conditions définies ci-dessus est placé en position de disponibilité d'office, dans les conditions prévues à l'article R. 6152-62, ou admis à la retraite s'il remplit les conditions nécessaires.
+
+Le praticien hospitalier peut démissionner durant la période de recherche d'affectation, conformément aux dispositions de l'article R. 6152-97, sans qu'il puisse lui être imposé de poursuivre ses fonctions pendant une période de six mois au plus à compter de la date de notification de l'acceptation de sa démission.
+

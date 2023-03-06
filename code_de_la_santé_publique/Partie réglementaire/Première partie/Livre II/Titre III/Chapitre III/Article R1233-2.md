@@ -1,0 +1,4 @@
+###### Article R1233-2
+
+L'autorisation d'effectuer des prélèvements d'organes à des fins thérapeutiques est délivrée pour cinq ans par le directeur général de l'agence régionale de santé, après avis du directeur général de l'agence de la biomédecine. Elle précise le type d'organes que l'établissement est autorisé à prélever. Elle est renouvelable dans les mêmes conditions.
+

@@ -1,0 +1,4 @@
+###### Article R543-11
+
+Lorsqu'il contribue financièrement à la gestion des déchets, l'éco-organisme supporte également les coûts de la régénération et du recyclage des huiles usagées auprès de tout opérateur de régénération ou de recyclage qui en fait la demande, selon des modalités précisées par un contrat type établi dans les conditions prévues à l'article R. 541-104. L'éco-organisme contribue, dans les mêmes conditions, aux coûts de transport des huiles usagées entre l'installation mentionnée au III de l'article R. 543-5 et l'installation de régénération ou de recyclage. Le montant des soutiens financiers prévu par ce contrat type en application du 2° du même article est au moins égal aux coûts supportés par l'éco-organisme pour les opérations équivalentes qu'il assure dans le cadre des marchés passés en application de l'article R. 543-9.
+

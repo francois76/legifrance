@@ -1,0 +1,14 @@
+###### Article L7221-2
+
+Sont seules applicables au salarié défini à l'article L. 7221-1 les dispositions relatives :
+
+1° Au harcèlement moral, prévues aux articles L. 1152-1 et suivants, au harcèlement sexuel, prévues aux articles L. 1153-1 et suivants ainsi qu'à l'exercice en justice par les organisations syndicales des actions qui naissent du harcèlement en application de l'article L. 1154-2 ;
+
+2° A la journée du 1er mai, prévues par les articles L. 3133-4 à L. 3133-6 ;
+
+3° Aux congés payés, prévues aux articles L. 3141-1 à L. 3141-33, sous réserve d'adaptation par décret en Conseil d'Etat ;
+
+4° Aux congés pour événements familiaux, prévues à la sous-section 1 de la section 1 du chapitre II du titre IV du livre Ier de la troisième partie ;
+
+5° A la surveillance médicale définie au titre II du livre VI de la quatrième partie.
+

@@ -1,0 +1,4 @@
+#### Article L110-5
+
+Les mutuelles qui gèrent des régimes obligatoires de sécurité sociale en application du code de la sécurité sociale et du code rural et de pêche maritime sont régies par le code de la mutualité, sous réserve des dispositions législatives, réglementaires et statutaires qui sont propres à la gestion de ces régimes.
+

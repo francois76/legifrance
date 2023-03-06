@@ -1,0 +1,6 @@
+###### Article L6331-69
+
+Les entreprises de travail temporaire, quel que soit leur effectif, s'acquittent d'une contribution conventionnelle, dont le taux est au moins égal à 0,30 % du montant du revenu d'activité mentionné au premier alinéa de l'article L. 6331-3, définie par un accord de branche étendu conclu entre les organisations syndicales de salariés et les organisations professionnelles d'employeurs concernées, qui en détermine les modalités d'utilisation, en tenant compte notamment des besoins des publics prioritaires au titre de la politique de l'emploi. Cette contribution est calculée sur la même assiette que la contribution légale. Ses conditions de recouvrement et de reversement sont précisées par l'accord de branche.
+
+En l'absence d'accord étendu, une contribution supplémentaire égale à 0,30 % du montant du revenu d'activité mentionné au premier alinéa de l'article L. 6331-3 est versée au titre de l'obligation de financement. Ses modalités d'utilisation sont définies par décision de l'opérateur gestionnaire des fonds de la formation professionnelle continue. Cette contribution est calculée sur la même assiette que la contribution légale et recouvrée par l'opérateur de compétences.
+

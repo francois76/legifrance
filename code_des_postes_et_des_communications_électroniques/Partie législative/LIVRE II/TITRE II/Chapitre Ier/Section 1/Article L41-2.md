@@ -1,0 +1,8 @@
+###### Article L41-2
+
+Sans préjudice du deuxième alinéa du IV de l'article 30-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, les titulaires des autorisations mentionnées à l'article L. 41-1 supportent l'intégralité du coût des réaménagements nécessaires à la mise à disposition des fréquences qui leur sont assignées. Le préfinancement d'une partie de cette dépense peut être assuré par le fonds de réaménagement du spectre géré par l'Agence nationale des fréquences.
+
+Le montant et les modalités de répartition des contributions mentionnées à l'alinéa précédent sont fixés par l'Agence nationale des fréquences dans les conditions précisées par un décret en Conseil d'Etat.
+
+Par dérogation aux deux premiers alinéas du présent article et au second alinéa du IV de l'article 30-1 de la loi n° 86-1067 du 30 septembre 1986 précitée, les titulaires d'une autorisation d'utilisation de fréquences dans la bande de fréquences 694-790 mégahertz pour l'établissement et l'exploitation d'un réseau radioélectrique mobile ouvert au public supportent le coût des réaménagements des fréquences nécessaires à la libération de la bande par les titulaires d'une autorisation d'usage de la ressource radioélectrique délivrée en application des articles 30-1,30-2,30-3 et 30-5 de la même loi, ou d'un droit d'usage en vertu de l'article 26 de ladite loi, et les coûts des réaménagements des fréquences nécessaires au respect des accords internationaux relatifs à ces fréquences. Le préfinancement de tout ou partie de cette dépense peut être assuré par le fonds de réaménagement du spectre géré par l'Agence nationale des fréquences. Un décret en Conseil d'Etat précise les conditions d'application du présent alinéa.
+

@@ -1,0 +1,6 @@
+###### Article R214-119-3
+
+Lorsqu'une demande d'autorisation au titre des articles L. 214-3 et R. 214-1 d'un système d'endiguement est déposée postérieurement au 1er janvier 2020 pour une zone qui ne bénéficiait avant cette date d'aucune protection contre les inondations et submersions, les ouvrages qui sont compris dans ce système d'endiguement sont conçus, entretenus et surveillés de telle sorte que le risque de rupture soit minime en cas de crue ou de submersion d'une probabilité d'occurrence inférieure à 1/200 s'agissant d'un système d'endiguement de classe A, à 1/100 s'agissant d'un système d'endiguement de classe B, ou à 1/50 pour un système d'endiguement de classe C. Toutefois, dans le but de limiter la probabilité résiduelle de rupture d'ouvrages provoquant une inondation ou une submersion dangereuse pour la population présente dans la zone protégée, il est admissible que des portions d'ouvrages du système d'endiguement qui sont localisées à des endroits adéquats présentent ponctuellement des risques de rupture plus élevés dès lors que ces ruptures sont elles-mêmes sans danger pour la population présente dans la zone protégée.
+
+La justification de la capacité du système d'endiguement à satisfaire à cette exigence est apportée par l'étude de danger.
+

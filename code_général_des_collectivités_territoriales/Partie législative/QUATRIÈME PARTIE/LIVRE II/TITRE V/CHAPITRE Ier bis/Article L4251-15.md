@@ -1,0 +1,4 @@
+###### Article L4251-15
+
+Les orientations du schéma régional de développement économique, d'innovation et d'internationalisation applicables sur le territoire d'une métropole mentionnée au chapitre VII du titre Ier du livre II de la cinquième partie, de la métropole d'Aix-Marseille-Provence ou de la métropole de Lyon sont élaborées et adoptées conjointement par le conseil de la métropole concerné et le conseil régional. A défaut d'accord, la métropole élabore un document d'orientations stratégiques qui prend en compte le schéma régional. Ce document tient lieu, pour la métropole, d'orientations au sens du deuxième alinéa de l'article L. 4251-13. Il n'autorise pas la métropole à définir des aides ou ses propres régimes d'aides, au sens de l'article L. 1511-2. Ce document est adressé à la région dans les six mois qui suivent l'adoption du schéma régional.
+

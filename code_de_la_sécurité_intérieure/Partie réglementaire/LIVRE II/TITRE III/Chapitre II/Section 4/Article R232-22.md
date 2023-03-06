@@ -1,0 +1,10 @@
+###### Article R232-22
+
+I. – Conformément aux articles 70-19 et 70-20 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, les droits d'accès, de rectification et d'effacement des données mentionnées à l'article R. 232-14 s'exercent directement auprès du directeur de l'agence nationale des données de voyage ou de son adjoint.
+
+En application du I de l'article 70-21 de la même loi, le directeur de l'agence nationale des données de voyage peut, aux fins de protéger la sécurité publique ou la sécurité nationale ou d'éviter de nuire à la prévention et la constatation des infractions mentionnées au I de l'article L. 232-7, du rassemblement des preuves de ces atteintes et de la recherche de leurs auteurs, refuser le droit d'accès et ne pas informer la personne concernée du refus de rectifier, d'effacer ou de limiter les données à caractère personnel relatives à la mention “ connu ” ou “ inconnu ” au fichier des personnes recherchées, dans le système d'information Schengen de deuxième génération, le fichier des objets et des véhicules signalés, le système informatisé concourant au dispositif de lutte contre les fraudes et le fichier des documents de voyage volés et perdus d'Interpol et aux résultats des requêtes formulées par les autorités énumérées aux articles R. 232-15 et R. 232-16. La personne concernée par ces restrictions exerce ses droits auprès de la Commission nationale de l'informatique et des libertés en application de l'article 70-22 de la même loi.
+
+II. – Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au présent traitement.
+
+III. – Lorsqu'une violation de données à caractère personnel est susceptible d'entraîner un risque élevé pour la protection des données à caractère personnel ou d'affecter négativement la vie privée de la personne concernée, l'agence nationale des données de voyage notifie cette violation à la personne concernée et à la Commission nationale de l'informatique et des libertés dans les conditions et sous réserve des restrictions prévues à l' article 70-16 de la loi du 6 janvier 1978 précitée .
+

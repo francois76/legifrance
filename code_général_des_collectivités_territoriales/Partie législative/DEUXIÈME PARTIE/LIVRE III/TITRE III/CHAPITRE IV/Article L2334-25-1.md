@@ -1,0 +1,8 @@
+###### Article L2334-25-1
+
+Les pertes nettes de recettes résultant des I à V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles sont compensées pour l'Etat et pour les collectivités territoriales de moins de 10 000 habitants définies au 2° de l'article R. 2334-10.
+
+A compter du 1er janvier 2019, les sommes allouées en application du second alinéa de l'article R. 2334-11 sont, pour chaque département, au moins égales à la moyenne des sommes allouées au titre des trois derniers exercices. Pour les départements d'Ile-de-France, des prélèvements fixés respectivement à 50 % et 25 % des sommes calculées conformément à l'article R. 2334-10 en 2018 sont opérés au bénéfice d'Ile-de-France Mobilités et de la région d'Ile-de-France. Si, pour un département, la minoration excède le montant perçu au titre du second alinéa de l'article R. 2334-11, la différence est prélevée sur le produit des amendes mentionnées au a du 1° du B du I de l'article 49 de la loi n° 2005-1719 du 30 décembre 2005 précitée.
+
+A compter du 1er janvier 2019, pour les communes et les groupements de la région d'Ile-de-France mentionnés au 1° de l'article R. 2334-10, des prélèvements fixés respectivement à 50 % et 25 % des sommes calculées conformément au même article R. 2334-10 en 2018 sont opérés au bénéfice d'Ile-de-France Mobilités et de la région d'Ile-de-France. Si, pour une commune ou un groupement, la minoration excède le montant perçu au titre du premier alinéa de l'article R. 2334-11, la différence est prélevée sur les douzièmes prévus à l'article L. 2332-2.
+

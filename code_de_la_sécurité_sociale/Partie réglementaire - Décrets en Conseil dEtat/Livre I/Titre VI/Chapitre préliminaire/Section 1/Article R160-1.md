@@ -1,0 +1,4 @@
+###### Article R160-1
+
+Les soins dispensés aux personnes bénéficiaires de la prise en charge des frais de santé au titre des articles L. 160-1 et L. 160-2 et aux personnes qui leur sont rattachées au sens des règlements européens qui s'avèrent médicalement nécessaires au cours d'un séjour temporaire dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ou en Suisse font l'objet, en cas d'avance de frais, d'un remboursement par les caisses d'assurance maladie dans les conditions prévues dans l'Etat de séjour ou, en cas d'accord de l'assuré social, dans les conditions prévues par la législation française, sans que le montant du remboursement puisse excéder le montant des dépenses engagées par l'assuré et sous réserve des adaptations prévues aux articles R. 160-2, R. 160-3 et R. 160-3-1.
+

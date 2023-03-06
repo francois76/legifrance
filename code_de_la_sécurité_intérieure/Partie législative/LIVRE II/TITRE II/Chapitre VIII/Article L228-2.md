@@ -1,0 +1,22 @@
+##### Article L228-2
+
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République antiterroriste et le procureur de la République territorialement compétent, faire obligation à la personne mentionnée à l'article L. 228-1 de :
+
+1° Ne pas se déplacer à l'extérieur d'un périmètre géographique déterminé, qui ne peut être inférieur au territoire de la commune. La délimitation de ce périmètre permet à l'intéressé de poursuivre une vie familiale et professionnelle et s'étend, le cas échéant, aux territoires d'autres communes ou d'autres départements que ceux de son lieu habituel de résidence ;
+
+2° Se présenter périodiquement aux services de police ou aux unités de gendarmerie, dans la limite d'une fois par jour, en précisant si cette obligation s'applique les dimanches et jours fériés ou chômés ;
+
+3° Déclarer et justifier de son lieu d'habitation ainsi que de tout changement de lieu d'habitation.
+
+L'obligation prévue au 1° du présent article peut être assortie d'une interdiction de paraître dans un ou plusieurs lieux déterminés se trouvant à l'intérieur du périmètre géographique mentionné au même 1° et dans lesquels se tient un événement exposé, par son ampleur ou ses circonstances particulières, à un risque de menace terroriste. Cette interdiction tient compte de la vie familiale et professionnelle de la personne concernée. Sa durée est strictement limitée à celle de l'événement, dans la limite de trente jours. Sauf urgence dûment justifiée, elle doit être notifiée à la personne concernée au moins quarante-huit heures avant son entrée en vigueur.
+
+Les obligations prévues aux 1° à 3° du présent article sont prononcées pour une durée maximale de trois mois à compter de la notification de la décision du ministre. Elles peuvent être renouvelées par décision motivée, pour une durée maximale de trois mois, lorsque les conditions prévues à l'article L. 228-1 continuent d'être réunies. Au-delà d'une durée cumulée de six mois, chaque renouvellement est subordonné à l'existence d'éléments nouveaux ou complémentaires. La durée totale cumulée des obligations prévues aux 1° à 3° du présent article ne peut excéder douze mois. Les mesures sont levées dès que les conditions prévues à l'article L. 228-1 ne sont plus satisfaites.
+
+Toute décision de renouvellement des obligations prévues aux 1° à 3° du présent article est notifiée à la personne concernée au plus tard cinq jours avant son entrée en vigueur. La personne concernée peut demander au président du tribunal administratif ou au magistrat qu'il délègue l'annulation de la décision dans un délai de quarante-huit heures à compter de sa notification. Il est statué sur la légalité de la décision au plus tard dans un délai de soixante-douze heures à compter de la saisine du tribunal. Dans ce cas, la mesure ne peut entrer en vigueur avant que le juge ait statué sur la demande.
+
+En cas de saisine d'un tribunal territorialement incompétent, le délai de jugement de soixante-douze heures court à compter de l'enregistrement de la requête par le tribunal auquel celle-ci a été renvoyée. La mesure en cours demeure en vigueur jusqu'à l'expiration de ce délai, pour une durée maximale de sept jours à compter de son terme initial. La décision de renouvellement ne peut entrer en vigueur avant que le juge ait statué sur la demande.
+
+L'audience est publique. Elle se déroule sans conclusions du rapporteur public. Lorsque la présence du requérant à l'audience est susceptible de méconnaître les obligations résultant de la mesure de surveillance, le requérant peut solliciter un sauf-conduit pour s'y rendre. Le sauf-conduit n'est pas délivré si le déplacement du requérant constitue une menace pour la sécurité et l'ordre publics.
+
+La personne soumise aux obligations prévues aux 1° à 3° du présent article peut, dans un délai de deux mois à compter de la notification de la décision, ou à compter de la notification de chaque renouvellement lorsqu'il n'a pas été fait préalablement usage de la faculté prévue au huitième alinéa, demander au tribunal administratif l'annulation de cette décision. Le tribunal administratif statue dans un délai de quinze jours à compter de sa saisine. Ces recours, dont les modalités sont fixées au chapitre III ter du titre VII du livre VII du code de justice administrative, s'exercent sans préjudice des procédures prévues au huitième alinéa du présent article ainsi qu'aux articles L. 521-1 et L. 521-2 du même code.
+

@@ -1,0 +1,4 @@
+###### Article R1232-10
+
+Les comités locaux de cohésion territoriale mentionnés à l'article L. 1232-2 comprennent des représentants de l'Etat et de ses établissements publics dont les représentants des établissements membres du comité national de coordination, des représentants des collectivités territoriales et des représentants des institutions, structures ou opérateurs, rattachés ou non à une collectivité territoriale intervenant dans le champ de l'ingénierie au profit des collectivités territoriales et de leurs groupements. La composition de chaque comité est définie par arrêté du préfet de département. Ils se réunissent autant que de besoin et au moins deux fois par an dans chaque département. Le délégué territorial de l'agence en assure le secrétariat. Le comité peut procéder à toute audition qu'il estime nécessaire au bon accomplissement de ses missions.
+

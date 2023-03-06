@@ -1,0 +1,6 @@
+###### Article L314-6-1
+
+A l'exception des contrats concernant des installations situées dans les zones non interconnectées, l'autorité administrative peut agréer des organismes qui, lorsqu'un producteur en fait la demande après la signature d'un contrat d'achat conclu en application de l'article L. 314-1 et du 1° de l'article L. 311-12 avec Electricité de France ou des entreprises locales de distribution, peuvent se voir céder ce contrat. Cette cession ne peut prendre effet qu'au 1er janvier suivant la demande de cession par le producteur. Toute cession est définitive et n'emporte aucune modification des droits et obligations des parties. Le décret en Conseil d'Etat mentionné à l'article L. 314-13 précise les conditions de l'agrément et les modalités de cession. Pour la cession de contrats d'achat signés avant le 1er janvier 2017, il prévoit également les modalités de calcul des frais exposés, par l'acheteur cédant, pour la signature et la gestion d'un tel contrat jusqu'au 31 décembre 2016 et devant être remboursés par l'organisme agréé cessionnaire.
+
+Le contrôle, à la demande du ministre chargé de l'énergie, du respect des engagements pris par un organisme pour l'obtention de l'agrément prévu au premier alinéa est réalisé aux frais de celui-ci.
+

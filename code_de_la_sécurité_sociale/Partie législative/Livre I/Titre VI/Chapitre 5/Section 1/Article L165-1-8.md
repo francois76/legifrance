@@ -1,0 +1,14 @@
+###### Article L165-1-8
+
+I.-Les règles de distribution mentionnées au premier alinéa de l'article L. 165-1 peuvent comporter l'obligation, pour le distributeur au détail de dispositifs médicaux inscrits sur la liste mentionnée au même premier alinéa et pouvant faire l'objet d'une remise en bon état d'usage conformément à l'article L. 5212-1-1 du code de la santé publique, d'informer le patient de l'existence de la possibilité d'acquisition d'un dispositif conforme à sa prescription et remis en bon état d'usage ainsi que des modalités d'acquisition et de prise en charge associées.
+
+En cas de méconnaissance de ces obligations, le directeur de l'organisme d'assurance maladie compétent peut prononcer à l'encontre du distributeur au détail, après que celui-ci a été mis en mesure de présenter ses observations, une pénalité financière d'un montant maximal de 5 % du chiffre d'affaires hors taxes total réalisé en France. Le montant de la pénalité est fixé en fonction de la gravité, de la durée et de la réitération éventuelle des manquements. Cette pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1 du présent code désignés par le directeur de l'Agence centrale des organismes de sécurité sociale. Les deux premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont applicables à son recouvrement. Le produit de la pénalité est affecté à la Caisse nationale de l'assurance maladie. Le recours formé contre la décision prononçant cette pénalité est un recours de pleine juridiction.
+
+II.-Lorsque la liste mentionnée à l'article L. 165-1 prévoit la prise en charge d'un dispositif médical remis en bon état d'usage ou pouvant faire l'objet d'une remise en bon état d'usage dans les conditions prévues à l'article L. 5212-1-1 du code de la santé publique, les ministres chargés de la santé et la sécurité sociale peuvent, dans l'arrêté pris pour l'élaboration de ladite liste, subordonner la prise en charge de l'assuré à son engagement de restituer le dispositif médical concerné à un centre homologué pouvant réaliser une remise en bon état d'usage, lorsque l'assuré n'en a plus l'usage ou lorsque le dispositif médical ne correspond plus à son besoin médical.
+
+III.-La prise en charge des produits mentionnés au I et des prestations éventuellement associées peut être subordonnée à l'identification de chacun d'entre eux à l'aide de codes qui leur sont propres et à la transmission d'informations relatives à la mise en circulation du produit, à l'identification du patient en bénéficiant ainsi qu'aux opérations de réparation et de maintenance.
+
+Ces informations sont collectées au sein d'un système d'information dénommé “ Enregistrement relatif à la circulation officielle des dispositifs médicaux ”, mis en œuvre par l'agence en charge des systèmes d'information mentionnés à l'article L. 6113-7 du code de la santé publique.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+

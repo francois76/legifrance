@@ -1,0 +1,18 @@
+###### Article R512-39-2
+
+I.-Lorsque l'exploitant initie une cessation d'activité telle que définie à l'article R. 512-75-1 et que le ou les usages des terrains concernés ne sont pas déterminés par l'arrêté d'autorisation, le ou les usages à considérer sont déterminés conformément aux dispositions du présent article et à la typologie des usages définie au I de l'article D. 556-1 A.
+
+II.-Au moment de la notification prévue au I de l'article R. 512-39-1, l'exploitant transmet au maire ou au président de l'établissement public de coopération intercommunale compétent en matière d'urbanisme et aux propriétaires des terrains d'assiette des installations classées concernées par la cessation d'activité les plans du site et les études et rapports communiqués à l'administration sur la situation environnementale et sur les usages successifs du site, ainsi que ses propositions sur le ou les usages futurs qu'il envisage pour ces terrains. Il transmet dans le même temps au préfet une copie de ses propositions.
+
+Les personnes consultées notifient au préfet et à l'exploitant leur accord ou désaccord sur ces propositions dans un délai de trois mois à compter de la réception des propositions de l'exploitant. En l'absence d'observations dans ce délai, leur avis est réputé favorable.
+
+En cas d'avis favorable de l'ensemble des personnes consultées, l'exploitant informe le préfet et les personnes consultées du ou des usages futurs retenus pour les terrains concernés.
+
+III.-A défaut d'accord entre l'exploitant, le maire ou le président de l'établissement public de coopération intercommunale compétent et les propriétaires des terrains d'assiette concernés, l'usage retenu pour les terrains concernés est un usage comparable à celui de la dernière période d'exploitation des installations mises à l'arrêt définitif, sauf s'il est fait application des IV et V.
+
+IV.-Dans les cas prévus au troisième alinéa de l'article L. 512-6-1, le maire ou le président de l'établissement public de coopération intercommunale peuvent transmettre au préfet, à l'exploitant et aux propriétaires des terrains, dans un délai de deux mois à compter de la notification du désaccord mentionnée au deuxième alinéa du II, un mémoire sur une éventuelle incompatibilité manifeste de l'usage comparable à celui de la dernière période d'exploitation des installations mises à l'arrêt définitif avec l'usage futur de la zone et des terrains voisins tel qu'il résulte des documents d'urbanisme. Le mémoire comprend également une ou plusieurs propositions d'usage pour le site.
+
+V.-Dans un délai de deux mois après réception du mémoire et après avoir sollicité l'avis de l'exploitant et des propriétaires des terrains d'assiette concernés, le préfet se prononce sur l'éventuelle incompatibilité manifeste appréciée au regard des documents d'urbanisme en vigueur à la date de la notification prévue au I de l'article R. 512-39-1 et de l'utilisation des terrains situés au voisinage des terrains concernés. Il fixe le ou les usages à prendre en compte pour déterminer les mesures de gestion à mettre en œuvre dans le cadre de la réhabilitation et les communique au maire ou au président de l'établissement public de coopération intercommunale compétent en matière d'urbanisme et aux propriétaires des terrains d'assiette concernés.
+
+A défaut de décision du préfet dans ce délai de deux mois ou en l'absence de transmission du mémoire, l'usage retenu est un usage appartenant à la même catégorie de la typologie des usages prévue par le I de l'article D. 556-1 A que celui de la dernière période d'exploitation des installations mises à l'arrêt définitif.
+

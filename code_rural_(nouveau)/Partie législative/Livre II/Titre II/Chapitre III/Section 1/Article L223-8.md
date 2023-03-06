@@ -1,0 +1,44 @@
+###### Article L223-8
+
+Après la constatation d'une maladie mentionnée à l'article L. 221-1, le préfet statue sur les mesures à mettre en exécution dans le cas particulier.
+
+Il prend, s'il est nécessaire, un arrêté portant déclaration d'infection remplaçant éventuellement un arrêté de mise sous surveillance.
+
+Cette déclaration peut entraîner, dans le périmètre qu'elle détermine, sans préjudice des mesures que requiert l'application du règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et des actes délégués et d'exécution qu'il prévoit, l'application des mesures suivantes :
+
+1° L'isolement, la séquestration, la visite, le recensement et la marque des animaux et troupeaux dans ce périmètre ;
+
+2° La mise en interdit de ce même périmètre ;
+
+3° L'interdiction momentanée ou la réglementation des foires et marchés, du transport et de la circulation de tous les animaux d'espèces susceptibles de contamination ;
+
+4° Les prélèvements nécessaires au diagnostic ou aux enquêtes épidémiologiques ;
+
+4° bis La réalisation d'enquêtes épidémiologiques ;
+
+5° La désinfection et la désinsectisation des écuries, étables, voitures ou autres moyens de transport, la désinfection ou la destruction des objets, des produits animaux ou d'origine animale susceptibles d'avoir été contaminés et de tout vecteur animé ou inanimé pouvant servir de véhicules à la contagion ;
+
+6° L'obligation de détruire les cadavres, denrées et produits ;
+
+7° L'interdiction de vendre ou de céder les animaux ;
+
+8° L'abattage des animaux malades ou contaminés ou des animaux ayant été exposés à la contagion, ainsi que des animaux suspects d'être infectés ou en lien avec des animaux infectés dans les conditions prévues par l'article L. 223-6 ;
+
+9° Le traitement ou la vaccination des animaux ;
+
+10° La limitation ou l'interdiction de la chasse ou de la pêche, la modification des plans de chasse, de gestion cynégétique et de prélèvement maximal autorisé ou la destruction ou le prélèvement d'animaux de la faune sauvage, sous réserve des articles L. 411-1 et L. 411-2 du code de l'environnement ;
+
+11° La désinfection, l'aménagement ou la mise en œuvre de modalités particulières d'entretien du couvert végétal et des zones fréquentées par la faune sauvage sensible, sans préjudice de l'attribution d'aides publiques.
+
+Les mesures prévues aux 10° et 11° s'appliquent aux personnes mentionnées au dernier alinéa de l'article L. 201-2 du présent code.
+
+Le ministre chargé de l'agriculture détermine par arrêté celles de ces mesures qui sont applicables aux maladies mentionnées à l'article L. 221-1.
+
+Par dérogation au premier alinéa, le préfet, sans attendre la constatation de la maladie et sur instruction du ministre chargé de l'agriculture, prend un arrêté portant déclaration d'infection qui prescrit l'application de tout ou partie des mesures prévues aux 1° à 11° du présent article lorsqu'est remplie l'une des conditions suivantes :
+
+a) Les symptômes ou lésions observés sur les animaux de l'exploitation suspecte entraînent une forte présomption de survenue d'une maladie mentionnées à l'article L. 221-1 ;
+
+b) Un lien est établi entre l'exploitation suspecte et un pays, une zone ou une exploitation reconnu infecté par une maladie mentionnées à l'article L. 221-1 ;
+
+c) Des résultats d'analyses de laboratoire permettent de suspecter l'infection par une maladie mentionnées à l'article L. 221-1.
+

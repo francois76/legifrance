@@ -1,0 +1,12 @@
+###### Article L6161-2-2
+
+I.-La conférence et la commission mentionnées, respectivement, aux articles L. 6161-2 et L. 6161-2-1 sont chargées de veiller à l'indépendance professionnelle des praticiens et de participer à l'évaluation des soins. Elles donnent leur avis sur la politique médicale de l'établissement et sur l'élaboration des prévisions annuelles d'activité de l'établissement. Ces prévisions d'activité sont communiquées à l'agence régionale de santé selon les modalités définies par le contrat prévu aux articles L. 6114-1 et L. 6114-3. Elles contribuent à la définition de la politique médicale de l'établissement et à l'élaboration de la politique d'amélioration continue de la qualité et de la sécurité des soins ainsi que des conditions d'accueil et de prise en charge des usagers. Elles proposent au responsable de l'établissement un programme d'action assorti d'indicateurs de suivi prenant en compte les informations contenues dans le rapport de la commission des usagers. Elles sont consultées sur toute demande de l'établissement tendant à être habilité à assurer le service public hospitalier.
+
+La conférence et la commission mentionnées, respectivement, aux articles L. 6161-2 et L. 6161-2-1 sont consultées sur les matières relevant de leurs attributions, dans des conditions fixées par le décret en Conseil d'Etat mentionné à l'article L. 6161-11.
+
+Lorsque la consultation préalable est prévue par des dispositions légales ou réglementaires, l'avis de la conférence et de la commission mentionnées, respectivement, aux articles L. 6161-2 et L. 6161-2-1 est joint à toute demande d'autorisation ou d'agrément formée par un établissement de santé privé et annexé à toutes les conventions conclues par ce dernier.
+
+II.-Les établissements de santé rendent publics, chaque année, les résultats des indicateurs de qualité et de sécurité des soins, dans des conditions définies par arrêté du ministre chargé de la santé.
+
+Lorsque le directeur général de l'agence régionale de santé constate le non-respect de l'obligation prévue au premier alinéa du présent II, il peut prendre les mesures appropriées, notamment une modulation des dotations régionales de financement des missions d'intérêt général et d'aide à la contractualisation mentionnées à l'article L. 162-22-13 du code de la sécurité sociale, dans des conditions définies par le décret en Conseil d'Etat mentionné à l'article L. 6161-11.
+

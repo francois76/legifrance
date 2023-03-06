@@ -1,0 +1,4 @@
+###### Article D262-48
+
+L'autorité compétente de l'Etat notifie aux comptables par voie électronique ou, par exception, tout autre moyen probant, les arrêtés pris sur les comptes des communes et autres organismes dont elle assure l'apurement administratif. L'acte par lequel le procureur financier près la chambre territoriale des comptes décide qu'il n'y a pas lieu d'exercer l'action publique après réception d'un arrêté de l'autorité compétente de l'Etat énonçant des observations tendant à la mise en jeu de la responsabilité personnelle et pécuniaire du comptable, est joint à l'arrêté de décharge que prend l'autorité compétente de l'Etat à la suite de cette décision. L'autorité compétente de l'Etat adresse au ministère public près la chambre territoriale des comptes les arrêtés et les justificatifs de notification.
+

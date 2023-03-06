@@ -1,0 +1,10 @@
+###### Article L2141-3
+
+Un embryon ne peut être conçu in vitro que dans le cadre et selon les objectifs d'une assistance médicale à la procréation définie à l'article L. 2141-1.
+
+Compte tenu de l'état des techniques médicales, les membres du couple ou la femme non mariée peuvent consentir par écrit à ce que soit tentée la fécondation d'un nombre d'ovocytes pouvant rendre nécessaire la conservation d'embryons, dans l'intention de réaliser ultérieurement leur projet parental. Dans ce cas, ce nombre est limité à ce qui est strictement nécessaire à la réussite de l'assistance médicale à la procréation compte tenu du procédé mis en œuvre. Une information détaillée est remise aux membres du couple ou à la femme non mariée sur les possibilités de devenir de leurs embryons conservés qui ne feraient plus l'objet d'un projet parental ou en cas de décès de l'un des membres du couple.
+
+Les deux membres du couple ou la femme non mariée peuvent consentir par écrit à ce que les embryons non susceptibles d'être transférés ou conservés fassent l'objet d'une recherche dans les conditions prévues à l'article L. 2151-5.
+
+Un couple ou une femme non mariée dont des embryons ont été conservés ne peut bénéficier d'une nouvelle tentative de fécondation in vitro avant le transfert de ceux-ci, sauf si un problème de qualité affecte ces embryons.
+

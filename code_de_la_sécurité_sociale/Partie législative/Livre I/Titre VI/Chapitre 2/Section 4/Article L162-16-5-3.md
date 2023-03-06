@@ -1,0 +1,6 @@
+###### Article L162-16-5-3
+
+La prescription d'une spécialité faisant l'objet d'une autorisation ou d'un cadre de prescription compassionnelle mentionnés aux articles L. 5121-12 et L. 5121-12-1 du code de la santé publique et de la prise en charge correspondante en application des articles L. 162-16-5-1 ou L. 162-16-5-2 du présent code ou bénéficiant d'une prise en charge au titre des continuités de traitement mentionnée au 2° du I bis de l'article L. 162-16-5-4 pour au moins l'une de ses indications doit contenir l'indication pour laquelle le produit est prescrit. La prise en charge au titre de cette autorisation ou de ce cadre de prescription compassionnelle ou de cette continuité de traitement est conditionnée à la transmission, lors de la facturation, de l'indication pour laquelle la spécialité a été prescrite. Les conditions d'application du présent alinéa sont précisées par décret.
+
+Le non-respect de ces obligations et de celles concernant le recueil d'information ou de transmission des données de suivi des patients traités mentionnées aux articles L. 5121-12 et L. 5121-12-1 du code de la santé publique peut donner lieu à une procédure de recouvrement de l'indu selon les modalités prévues à l'article L. 133-4 du présent code.
+

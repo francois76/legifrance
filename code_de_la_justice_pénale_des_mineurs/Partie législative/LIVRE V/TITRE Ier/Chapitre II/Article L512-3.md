@@ -1,0 +1,8 @@
+##### Article L512-3
+
+Après avoir déclaré le mineur coupable des faits qui lui sont reprochés et statué, le cas échéant, sur la sanction, le juge des enfants ou le tribunal pour enfants peut, d'office ou à la demande du procureur de la République ou des parties, renvoyer l'affaire à une date ultérieure pour statuer sur l'action civile, même s'il n'ordonne pas de mesure d'instruction, afin de permettre à la partie civile d'apporter les justificatifs de ses demandes. Ce renvoi est de droit lorsqu'il est demandé par la partie civile. La juridiction doit alors fixer la date de l'audience à laquelle il sera statué sur l'action civile. La présence du ministère public à cette audience n'est pas obligatoire.
+
+L'audience mentionnée au premier alinéa a lieu soit devant le juge des enfants statuant en chambre du conseil, soit, au regard de la gravité du préjudice susceptible d'être invoqué par la partie civile et de la complexité de son évaluation et de sa liquidation, devant le tribunal correctionnel composé conformément aux dispositions du quatrième alinéa de l'article 464 du code de procédure pénale lorsqu'une ou plusieurs chambres de la juridiction, en application de l'article L. 121-3 du code de l'organisation judiciaire, connaissent spécifiquement des actions sur intérêts civils.
+
+Lorsque l'affaire est renvoyée devant le tribunal correctionnel, le mineur ne comparaît pas à l'audience, mais seulement ses représentants légaux. A défaut de choix d'un avocat par le mineur ou ses représentants légaux, il en est désigné un d'office. Les dispositions des articles L. 513-2 à L. 513-4 du présent code sont applicables.
+

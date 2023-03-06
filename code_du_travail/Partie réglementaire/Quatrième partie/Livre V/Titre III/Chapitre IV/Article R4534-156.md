@@ -1,0 +1,8 @@
+###### Article R4534-156
+
+Les ministres chargés du travail et de l'agriculture peuvent, par décision prise sur le rapport de l'agent de contrôle de l'inspection du travail, et après avis du Conseil d'orientation des conditions de travail, autoriser pour un ou des chantiers déterminés et, le cas échéant, pour une certaine nature de travaux, des dérogations temporaires et limitées à certaines dispositions du présent chapitre.
+
+Ils peuvent également autoriser par arrêté, pour une durée déterminée, des dérogations de portée générale à certaines dispositions.
+
+Ces décisions et arrêtés ne peuvent intervenir que sous réserve de prévoir des mesures compensatrices de sécurité.
+

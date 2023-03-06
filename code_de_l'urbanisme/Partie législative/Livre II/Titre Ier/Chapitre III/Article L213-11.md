@@ -1,0 +1,18 @@
+##### Article L213-11
+
+Les biens acquis par exercice du droit de préemption doivent être utilisés ou aliénés pour l'un des objets mentionnés au premier alinéa de l'article L. 210-1, qui peut être différent de celui mentionné dans la décision de préemption. L'utilisation ou l'aliénation d'un bien au profit d'une personne privée autre que le concessionnaire d'une opération d'aménagement ou qu'une société d'habitations à loyer modéré doit faire l'objet d'une délibération motivée du conseil municipal ou, le cas échéant, d'une décision motivée du délégataire du droit de préemption.
+
+Les cinq premiers alinéas de l'article L. 145-46-1 du code de commerce ne sont pas applicables à l'occasion de l'aliénation d'un bien en application du premier alinéa du présent article.
+
+Si le titulaire du droit de préemption décide d'utiliser ou d'aliéner pour d'autres objets que ceux mentionnés au premier alinéa de l'article L. 210-1 un bien acquis depuis moins de cinq ans par exercice de ce droit, il doit informer de sa décision les anciens propriétaires ou leurs ayants cause universels ou à titre universel et leur proposer l'acquisition de ce bien en priorité.
+
+Tout changement d'affectation du bien acquis par l'exercice du droit de préemption, dans la limite des objets prévus à l'article L. 210-1, doit faire l'objet d'une décision de l'organe délibérant de la collectivité.
+
+A défaut d'accord amiable, le prix est fixé par la juridiction compétente en matière d'expropriation, conformément aux règles mentionnées par l'article L. 213-4.
+
+A défaut d'acceptation dans le délai de trois mois à compter de la notification de la décision juridictionnelle devenue définitive, les anciens propriétaires ou leurs ayants cause universels ou à titre universel sont réputés avoir renoncé à l'acquisition.
+
+Dans le cas où les anciens propriétaires ou leurs ayants cause universels ou à titre universel ont renoncé expressément ou tacitement à l'acquisition dans les conditions visées aux alinéas précédents, le titulaire du droit de préemption doit également proposer l'acquisition à la personne qui avait l'intention d'acquérir le bien.
+
+Le titulaire du droit de préemption n'est tenu de respecter cette procédure que lorsque le nom de l'acquéreur était inscrit dans la déclaration mentionnée à l'article L. 213-2.
+

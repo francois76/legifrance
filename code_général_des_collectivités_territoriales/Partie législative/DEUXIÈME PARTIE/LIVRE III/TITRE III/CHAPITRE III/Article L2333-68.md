@@ -1,0 +1,4 @@
+###### Article L2333-68
+
+Sous réserve des dispositions des articles L. 2333-70 et L. 5722-7-1, le versement est affecté au financement des dépenses d'investissement et de fonctionnement des transports publics urbains et non urbains exécutés dans le ressort territorial de l'autorité organisatrice de la mobilité et organisés par cette autorité et des autres services de transports publics qui, sans être effectués entièrement dans le ressort territorial de l'autorité organisatrice de la mobilité, concourent à la desserte du territoire dans le cadre d'un contrat passé avec l'autorité responsable de l'organisation de la mobilité. Le versement est également affecté au financement des dépenses d'investissement et de fonctionnement de toute action relevant des compétences des autorités organisatrices de la mobilité au sens des articles L. 1231-1 et L. 1231-1-1 du code des transports.
+

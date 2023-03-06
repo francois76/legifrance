@@ -1,0 +1,4 @@
+###### Article R5213-1-1
+
+Toute demande de renouvellement de la reconnaissance de la qualité de travailleur handicapé, formée auprès de la maison départementale des personnes handicapées, proroge les effets du bénéfice de la reconnaissance de cette qualité délivrée au titre de la précédente décision par la commission des droits et de l'autonomie des personnes handicapées jusqu'à ce qu'il soit statué à nouveau sur son renouvellement avant l'expiration du délai mentionné à l'article R. 241-33 du code de l'action sociale et des familles, dès lors qu'elle a été déposée avant l'échéance du droit en cours par tout moyen permettant de conférer date certaine à la réception de cette demande. Le bénéfice de cette prorogation demeure acquis indépendamment du sort de la demande en cours d'instruction.
+

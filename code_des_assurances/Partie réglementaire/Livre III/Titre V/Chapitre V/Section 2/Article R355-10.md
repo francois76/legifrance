@@ -1,0 +1,14 @@
+###### Article R355-10
+
+Sont au moins considérés comme des événements majeurs, au sens de l'article L. 355-5, les événements présentant l'une des caractéristiques suivantes :
+
+a) Lorsqu'un écart par rapport au minimum de capital requis est observé et que l'Autorité de contrôle prudentiel et de résolution considère que l'entreprise ne sera pas en mesure de lui soumettre un plan réaliste de financement à court terme mentionné à l'article L. 352-8 ou que l'Autorité n'obtient pas ce plan dans un délai d'un mois à compter de la date à laquelle l'écart a été observé ;
+
+b) Lorsqu'un écart important par rapport au capital de solvabilité requis est observé et que l'Autorité de contrôle prudentiel et de résolution n'obtient pas de plan réaliste de rétablissement mentionné à l'article L. 352-7 dans un délai de deux mois à compter de la date à laquelle l'écart a été observé.
+
+En ce qui concerne le cas mentionné au a, l'Autorité de contrôle prudentiel et de résolution exige de l'entreprise concernée qu'elle publie sans délai le montant de l'écart constaté, assorti d'une explication sur son origine et ses conséquences ainsi que sur toute mesure corrective qui aurait été prise. Si, en dépit de la présentation d'un plan de financement à court terme initialement considéré comme réaliste par l'Autorité de contrôle prudentiel et de résolution, un écart par rapport au minimum de capital requis n'a pas été corrigé trois mois après qu'il a été constaté, cet écart fait l'objet d'une publication à l'expiration de ce délai, assortie d'une explication sur son origine et ses conséquences ainsi que sur les mesures correctives déjà prises et sur toute nouvelle mesure corrective prévue.
+
+En ce qui concerne le cas mentionné au b, l'Autorité de contrôle prudentiel et de résolution exige de l'entreprise concernée qu'elle publie sans délai le montant de l'écart constaté, assorti d'une explication sur son origine et ses conséquences ainsi que sur toute mesure corrective qui aurait été prise. Si, en dépit de la présentation d'un plan de rétablissement initialement considéré comme réaliste par l'Autorité de contrôle prudentiel et de résolution, un écart important par rapport au capital de solvabilité requis n'a pas été corrigé six mois après qu'il a été constaté, cet écart fait l'objet d'une publication à l'expiration de ce délai, avec une explication sur son origine et ses conséquences ainsi que sur les mesures correctives prises et sur toute nouvelle mesure corrective prévue.
+
+L'article 302 du règlement délégué (UE) n° 2015/35 de la Commission du 10 octobre 2014 précise les modalités des publications incombant aux entreprises dans les cas prévus au présent article.
+

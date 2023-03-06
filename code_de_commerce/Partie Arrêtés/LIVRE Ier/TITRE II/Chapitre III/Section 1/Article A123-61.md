@@ -1,0 +1,4 @@
+###### Article A123-61
+
+Pour effectuer la transmission électronique des documents comptables prévue au second alinéa de l'article R. 123-111, accompagnés le cas échéant de la déclaration de confidentialité des comptes annuels, la société a recours au service informatique mentionné à l'article R. 123-2. Une convention établie par le directeur des services judiciaires, le président du Conseil national des greffiers des tribunaux de commerce et le directeur général de l'Institut national de la propriété industrielle détermine les formats d'échange et l'ordre de transmission des documents aux greffes. La réception des documents, la demande de compléments et la validation du dépôt sont effectuées par l'intermédiaire du guichet susmentionné, dans les conditions prévues aux articles R. 123-6 et R. 123-7.
+

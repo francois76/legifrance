@@ -1,0 +1,8 @@
+###### Article L222-9
+
+Afin d'améliorer la qualité de l'air et de réduire l'exposition des populations aux pollutions atmosphériques, des objectifs nationaux de réduction des émissions de polluants atmosphériques anthropiques, à l'exclusion des émissions de méthane entérique naturellement produites par l'élevage de ruminants, sont fixés par décret pour les périodes allant de 2020 à 2024, de 2025 à 2029 et à partir de 2030.
+
+Un plan national de réduction des émissions de polluants atmosphériques, arrêté par le ministre chargé de l'environnement, fixe notamment les actions à mettre en œuvre afin d'atteindre ces objectifs, en prenant en compte les enjeux sanitaires et économiques. Ce plan est réévalué tous les quatre ans et, si nécessaire, révisé. Il est mis à jour dans un délai de dix-huit mois à compter de la présentation du dernier inventaire national des émissions ou des dernières projections nationales des émissions lorsque, selon les données présentées, les objectifs ne sont pas respectés ou risquent de ne pas l'être.
+
+Les objectifs nationaux et les actions du plan national de réduction des émissions de polluants atmosphériques sont pris en compte dans les schémas d'aménagement régionaux, de développement durable et d'égalité des territoires prévus à l'article L. 4251-1 du code général des collectivités territoriales, dans les schémas d'aménagement régional prévus à l'article L. 4433-7 du même code, dans les schémas régionaux du climat, de l'air et de l'énergie prévus à l'article L. 222-1 du présent code et dans les plans de protection de l'atmosphère prévus à l'article L. 222-4.
+

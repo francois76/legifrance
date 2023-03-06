@@ -1,0 +1,10 @@
+###### Article R333-3
+
+Le titulaire d'une autorisation d'exercer l'activité d'achat d'électricité pour revente communique au ministre chargé de l'énergie, chaque année avant le 30 septembre ou sur demande motivée de ce dernier, une mise à jour des données relatives à son activité de fourniture, en particulier le nombre de clients finals approvisionnés, les modes d'approvisionnement effectivement mis en œuvre, le plan prévisionnel mentionné au 3° c de l'article R. 333-1, les données financières, ainsi que toute information modifiant le contenu du dossier d'autorisation prévu au même article.
+
+Les titulaires d'une autorisation d'exercer l'activité d'achat d'électricité pour revente sont tenus d'informer le ministre chargé de l'énergie de toute modification substantielle des conditions de leur activité. En particulier, ils doivent l'informer de la modification de la composition de leur actionnariat de référence, dès qu'ils en sont informés, de leur raison sociale ou de leur adresse, au plus tard lors de l'entrée en vigueur de cette modification. Tout changement de responsable d'équilibre, ou de responsable de périmètre de certification est notifié sans délai au ministre en charge de l'énergie.
+
+Le titulaire d'une autorisation d'exercer l'activité d'achat d'électricité pour revente est tenu, dès qu'elle est notifiée aux intéressés, d'informer le ministre chargé de l'énergie de toute sanction, temporaire ou définitive, limitant ou interdisant l'exercice d'une activité de fourniture d'électricité par ses actionnaires ou toute personne morale contrôlée par son dirigeant, prise à raison d'autorisations de fourniture obtenues dans un autre Etat membre de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ou à tout autre accord d'effet équivalent ou à tout autre accord prévoyant la fourniture d'énergie.
+
+A la demande de la Commission de régulation de l'énergie et pour l'exercice de sa mission de contrôle, ces éléments lui sont transmis par le ministre chargé de l'énergie.
+

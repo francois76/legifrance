@@ -1,0 +1,6 @@
+###### Article L532-3
+
+La Cour nationale du droit d'asile ne peut annuler une décision de l'Office français de protection des réfugiés et apatrides et lui renvoyer l'examen de la demande d'asile que lorsqu'elle juge que l'office a pris cette décision sans procéder à un examen individuel de la demande ou en se dispensant, en dehors des cas prévus par la loi, d'un entretien personnel avec le demandeur et qu'elle n'est pas en mesure de prendre immédiatement une décision positive sur la demande de protection au vu des éléments établis devant elle.
+
+Il en va de même lorsque la cour estime que le requérant a été dans l'impossibilité de se faire comprendre lors de l'entretien, faute d'avoir pu bénéficier du concours d'un interprète dans la langue qu'il a indiquée dans sa demande d'asile ou dans une autre langue dont il a une connaissance suffisante, et que ce défaut d'interprétariat est imputable à l'office. Le requérant ne peut se prévaloir de ce défaut d'interprétariat que dans le délai de recours et doit indiquer la langue dans laquelle il souhaite être entendu en audience. Si la cour ne peut désigner un interprète dans la langue demandée, l'intéressé est entendu dans une langue dont il est raisonnable de penser qu'il la comprend.
+

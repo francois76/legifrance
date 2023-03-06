@@ -1,0 +1,6 @@
+##### Article D113-1
+
+Les enfants qui ont atteint l'âge de deux ans au jour de la rentrée scolaire peuvent être admis dans les écoles et les classes maternelles dans la limite des places disponibles. Ils y sont scolarisés jusqu'à la rentrée scolaire de l'année civile au cours de laquelle ils atteignent l'âge de six ans.
+
+L'accueil des enfants de moins de trois ans est assuré en priorité dans les écoles et classes maternelles situées dans un environnement social défavorisé, que ce soit dans les zones urbaines, rurales ou de montagne et dans les régions d'outre-mer, et particulièrement en zone d'éducation prioritaire.
+

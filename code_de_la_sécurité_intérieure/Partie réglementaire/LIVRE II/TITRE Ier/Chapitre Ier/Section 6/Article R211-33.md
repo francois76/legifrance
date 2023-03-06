@@ -1,0 +1,4 @@
+###### Article R211-33
+
+La procédure prévue à l'article R. 211-32 s'applique à toute personne accédant à un autre titre que celui de spectateur ou de participant à tout ou partie d'un établissement ou d'une installation délimité par le décret prévu au premier alinéa de l'article L. 211-11-1 du code de la sécurité intérieure, et notamment aux personnes contribuant au soutien technique ou logistique et à l'approvisionnement de l'évènement, assurant le fonctionnement, l'entretien, la maintenance ou la surveillance des installations et espaces concernés ou exerçant une activité quelconque, occasionnelle ou permanente, professionnelle ou bénévole, même sans rapport avec le grand évènement, notamment commerciale, au sein des établissements et installations concernés ; la qualité de résident dans la zone concernée ne fait pas obstacle à la mise en œuvre de la procédure.
+

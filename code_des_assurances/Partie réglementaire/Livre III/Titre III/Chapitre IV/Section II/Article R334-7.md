@@ -1,0 +1,6 @@
+###### Article R334-7
+
+Le fonds de garantie des entreprises mentionnées à l'article L. 310-3-2 agréées pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 18 des articles R. 321-1 du présent code, R. 211-2 du code de la mutualité et R. 931-2-1 du code de la sécurité sociale est égal au tiers de l'exigence minimale de marge de solvabilité définie à l'article R. 334-5.
+
+Ce fonds ne peut être inférieur à 2 500 000 euros. Toutefois, il ne peut être inférieur à 3 700 000 euros pour les entreprises pratiquant tout ou partie des risques compris dans l'une des branches mentionnées aux 10 à 15 des articles R. 321-1 du présent code et R. 211-2 du code de la mutualité. Pour les entreprises constituées sous la forme de sociétés d'assurance mutuelle, ainsi que pour leurs unions, pour les mutuelles et unions régies par le livre II du code de la mutualité, et pour les institutions de prévoyance et unions régies par le titre 3 du livre 9 du code de la sécurité sociale, ces derniers montants sont respectivement fixés à 1 900 000 et 2 800 000 euros. Lorsqu'une entreprise est agréée pour pratiquer des opérations entrant dans plusieurs branches, seule est prise en considération pour le calcul du fonds de garantie la branche à laquelle correspond le montant le plus élevé.
+

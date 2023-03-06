@@ -1,0 +1,6 @@
+###### Article L141-5-1
+
+Des objectifs régionaux de développement des énergies renouvelables sont établis par décret pour le territoire métropolitain continental, après concertation avec les conseils régionaux concernés, pour contribuer aux objectifs mentionnés à l'article L. 100-4, dans la loi mentionnée au I de l'article L. 100-1 A ainsi que dans la programmation pluriannuelle de l'énergie mentionnée à l'article L. 141-3. Ces objectifs prennent en compte les potentiels énergétiques, renouvelables et de récupération, régionaux mobilisables.
+
+Une méthode et des indicateurs communs permettant de suivre, de façon partagée entre les régions et l'Etat ainsi qu'entre les collectivités territoriales d'une même région, le déploiement et la mise en œuvre des objectifs régionaux de développement des énergies renouvelables sont définis selon des modalités fixées par décret.
+

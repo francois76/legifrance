@@ -1,0 +1,6 @@
+###### Article L311-16
+
+Pour chacune des personnes mentionnées à l'article L. 311-1, les modalités selon lesquelles est fixée la rémunération des dirigeants effectifs, au sens des articles L. 322-3-2 du présent code, L. 211-13 du code de la mutualité et L. 931-7-1 du code de la sécurité sociale, et des catégories de personnel dont les activités professionnelles ont une incidence significative sur le profil de risque de l'organisme ou du groupe, y compris les preneurs de risques, les personnes exerçant une fonction de contrôle ainsi que tout salarié qui, au vu de ses revenus professionnels globaux, se trouve dans la même tranche de rémunération, prévoient les conditions dans lesquelles les éléments de rémunération variable, y compris les éléments de rémunération attribués mais non versés, et les indemnités ou avantages dus ou susceptibles d'être dus en raison de la cessation ou du changement de fonctions de ces personnes, peuvent être réduits ou annulés en cas de mise en œuvre de l'une ou plusieurs des mesures de résolution prévues à la section 6.
+
+Le collège de résolution s'assure que ces modalités sont de nature à garantir une participation financière effective des personnes concernées à la résolution.
+

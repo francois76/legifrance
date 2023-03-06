@@ -1,0 +1,4 @@
+###### Article R722-5
+
+La lettre notifiant la décision de recevabilité rappelle qu'elle a pour effets de suspendre et d'interdire les procédures d'exécution diligentées à l'encontre des biens du débiteur ainsi que des cessions de rémunération qu'il a consenties et portant sur des dettes autres qu'alimentaires. Elle précise que la suspension ou l'interdiction produit effet, selon les cas, jusqu'à l'approbation du plan conventionnel de redressement prévu à l'article L. 732-1, jusqu'à la décision imposant les mesures prévues aux articles L. 733-1, L. 733-4, L. 733-7 et L. 741-1, jusqu'au jugement prononçant un rétablissement personnel sans liquidation judiciaire ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire, sans pouvoir excéder deux ans. Elle reproduit les dispositions de l'article L. 722-5.
+

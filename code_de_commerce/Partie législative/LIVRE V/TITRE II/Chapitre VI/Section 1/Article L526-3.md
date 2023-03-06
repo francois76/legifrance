@@ -1,0 +1,8 @@
+###### Article L526-3
+
+En cas de cession des droits immobiliers sur la résidence principale, le prix obtenu demeure insaisissable, sous la condition du remploi dans le délai d'un an des sommes à l'acquisition par la personne mentionnée au premier alinéa de l'article L. 526-1 d'un immeuble où est fixée sa résidence principale.
+
+L'insaisissabilité des droits sur la résidence principale et la déclaration d'insaisissabilité portant sur tout bien foncier, bâti ou non bâti, non affecté à l'usage professionnel peuvent, à tout moment, faire l'objet d'une renonciation soumise aux conditions de validité et d'opposabilité prévues à l'article L. 526-2. La renonciation peut porter sur tout ou partie des biens ; elle peut être faite au bénéfice d'un ou de plusieurs créanciers mentionnés à l'article L. 526-1 désignés par l'acte authentique de renonciation. Lorsque le bénéficiaire de cette renonciation cède sa créance, le cessionnaire peut se prévaloir de celle-ci. La renonciation peut, à tout moment, être révoquée dans les conditions de validité et d'opposabilité prévues à l'article L. 526-2. Cette révocation n'a d'effet qu'à l'égard des créanciers mentionnés à l'article L. 526-1 dont les droits naissent postérieurement à sa publication.
+
+Les effets de l'insaisissabilité et ceux de la déclaration subsistent après la dissolution du régime matrimonial lorsque la personne mentionnée au premier alinéa de l'article L. 526-1 ou le déclarant mentionné au deuxième alinéa du même article L. 526-1 est attributaire du bien. Ils subsistent également en cas de décès de la personne mentionnée au premier alinéa dudit article L. 526-1 ou du déclarant mentionné au deuxième alinéa du même article L. 526-1 jusqu'à la liquidation de la succession.
+

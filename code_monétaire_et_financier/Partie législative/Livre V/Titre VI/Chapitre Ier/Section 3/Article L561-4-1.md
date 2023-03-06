@@ -1,0 +1,10 @@
+###### Article L561-4-1
+
+Les personnes mentionnées à l'article L. 561-2 appliquent les mesures de vigilance destinées à mettre en œuvre les obligations qu'elles tiennent du présent chapitre en fonction de l'évaluation des risques présentés par leurs activités en matière de blanchiment de capitaux et de financement du terrorisme.
+
+A cette fin, elles définissent et mettent en place des dispositifs d'identification et d'évaluation des risques de blanchiment des capitaux et de financement du terrorisme auxquels elles sont exposées ainsi qu'une politique adaptée à ces risques. Elles élaborent en particulier une classification des risques en question en fonction de la nature des produits ou services offerts, des conditions de transaction proposées, des canaux de distribution utilisés, des caractéristiques des clients, ainsi que du pays ou du territoire d'origine ou de destination des fonds.
+
+Lorsqu'elles appartiennent à un groupe au sens de l'article L. 561-33, et que l'entreprise mère du groupe a son siège social en France, elles mettent en place un dispositif d'identification et d'évaluation des risques existant au niveau du groupe ainsi qu'une politique adaptée, définis par celle-ci.
+
+Pour l'identification et l'évaluation des risques de blanchiment des capitaux et de financement du terrorisme auxquels elles sont exposées, les personnes mentionnées ci-dessus tiennent compte des facteurs inhérents aux clients, aux produits, services, transactions et canaux de distribution, ainsi qu'aux facteurs géographiques, précisés par arrêté du ministre chargé de l'économie, ainsi que des recommandations de la Commission européenne issues du rapport prévu par l'article 6 et des facteurs de risque mentionnés aux annexes II et III de la directive 2015/849 du Parlement européen et du Conseil du 20 mai 2015 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme, ainsi que de l'analyse des risques effectuée au plan national dans des conditions fixées par décret.
+

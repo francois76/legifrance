@@ -1,0 +1,4 @@
+##### Article L141-4
+
+Pour financer les actions des communes forestières figurant dans la liste mentionnée à l'article L. 221-11, ainsi que les actions de formation destinées aux élus de celles-ci, les chambres d'agriculture sont tenues de verser une cotisation aux organisations représentatives de communes forestières par l'intermédiaire du Fonds national de péréquation et d'action professionnelle des chambres d'agriculture. Cette cotisation est fixée annuellement par arrêté ministériel sur avis de l'assemblée permanente des chambres d'agriculture à 5 % maximum du montant des taxes perçues par l'ensemble des chambres d'agriculture sur tous les immeubles classés au cadastre en nature de bois. Elle est mise en oeuvre progressivement sur trois ans. Un décret fixe les conditions de versement par les chambres d'agriculture et de répartition entre les organisations représentatives de communes forestières des sommes mentionnées ci-dessus.
+

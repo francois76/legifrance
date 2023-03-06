@@ -1,0 +1,8 @@
+###### Article R1621-26-2
+
+L'enquête diligentée à la suite d'un accident ou d'un incident ferroviaire est menée de manière aussi ouverte que possible, en permettant à toutes les parties d'être entendues et en mettant les résultats en commun. Le gestionnaire de l'infrastructure et les entreprises ferroviaires concernés, l'EPSF, l'Agence de l'Union européenne pour les chemins de fer, les victimes et leurs proches, les propriétaires de biens endommagés, les fabricants, les services de secours concernés et les représentants du personnel et des usagers ont la possibilité de présenter des informations techniques pertinentes destinées à améliorer la qualité du rapport d'enquête. Le BEA-TT tient également compte des besoins raisonnables des victimes et de leurs proches et les tient au courant des progrès de l'enquête.
+
+Le rapport d'enquête final est publié dans les meilleurs délais et normalement au plus tard douze mois à compter du jour de l'accident. Si ce délai ne peut pas être respecté, une déclaration intermédiaire est faite dans ce délai par le BEA-TT, puis au moins à chaque date anniversaire de l'accident ou de l'incident, détaillant les progrès de l'enquête et toutes les questions de sécurité qui auront été soulevées.
+
+Ce rapport final, y compris les recommandations de sécurité, est communiqué au gestionnaire de l'infrastructure et aux entreprises ferroviaires concernés, à l'EPSF et à l'Agence de l'Union européenne pour les chemins de fer, aux victimes et à leurs proches, aux propriétaires de biens endommagés, aux fabricants, aux services de secours concernés, aux représentants du personnel et des usagers, ainsi qu'aux organismes intéressés dans d'autres Etats membres.
+

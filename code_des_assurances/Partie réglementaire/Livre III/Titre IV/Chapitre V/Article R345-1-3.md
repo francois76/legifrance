@@ -1,0 +1,4 @@
+##### Article R345-1-3
+
+Lorsque l'entité désignée conformément aux dispositions du premier alinéa de l'article R. 345-1-2 est une entreprise mentionné aux articles L. 310-1 ou L. 310-1-1, une société de groupe d'assurance mentionnée à l'article L 322-1-2, une mutuelle ou union régie par le livre II du code de la mutualité, une union mutualiste de groupe mentionnée à l'article L. 111-4-2 du même code, une institution de prévoyance ou union régie par le titre 3 du livre 9 du code de la sécurité sociale, une société de groupe assurantiel de protection sociale définie à l'article L. 931-2-2 du même code, l'accord est transmis à l'Autorité de contrôle prudentiel et de résolution dans un délai de quinze jours à compter de sa signature. Il est porté dans le même délai à la connaissance des commissaires aux comptes de toutes les entités incluses dans le périmètre de la combinaison.
+

@@ -1,0 +1,15 @@
+###### Article R441-14-1
+
+La commission, saisie sur le fondement du II ou du III de l'article L. 441-2-3, se prononce sur le caractère prioritaire de la demande et sur l'urgence qu'il y a à attribuer au demandeur un logement ou à l'accueillir dans une structure d'hébergement, en tenant compte notamment des démarches précédemment effectuées dans le département ou en Ile-de-France dans la région.
+
+Peuvent être désignées par la commission comme prioritaires et devant être logées d'urgence en application du II de l'article L. 441-2-3 les personnes de bonne foi qui satisfont aux conditions réglementaires d'accès au logement social qui se trouvent dans l'une des situations prévues au même article et qui répondent aux caractéristiques suivantes :
+
+- ne pas avoir reçu de proposition adaptée à leur demande dans le délai fixé en application de l'article L. 441-1-4 ;
+- être dépourvues de logement. Le cas échéant, la commission apprécie la situation du demandeur logé ou hébergé par ses ascendants en tenant notamment compte de son degré d'autonomie, de son âge, de sa situation familiale et des conditions de fait de la cohabitation portées à sa connaissance ;
+- être logées dans des locaux impropres à l'habitation, ou présentant un caractère insalubre ou dangereux. Le cas échéant, la commission tient compte des droits à hébergement ou à relogement auxquels le demandeur peut prétendre en application des dispositions des articles L. 521-1 et suivants, des articles L. 314-1 et suivants du code de l'urbanisme ou de toute autre disposition ouvrant au demandeur un droit à relogement ;
+- avoir fait l'objet d'une décision de justice prononçant l'expulsion du logement ;
+- être hébergées dans une structure d'hébergement ou une résidence hôtelière à vocation sociale de façon continue depuis plus de six mois ou logées temporairement dans un logement de transition ou un logement-foyer depuis plus de dix-huit mois, sans préjudice, le cas échéant, des dispositions du IV de l'article L. 441-2-3 ;
+- être handicapées, ou avoir à leur charge une personne en situation de handicap, ou avoir à leur charge au moins un enfant mineur, et occuper un logement soit présentant au moins un des risques pour la sécurité ou la santé énumérés à l'article 2 du décret du 30 janvier 2002 ou auquel font défaut au moins deux des éléments d'équipement et de confort mentionnés à l'article 3 du même décret, soit d'une surface habitable inférieure aux surfaces mentionnées à l'article R. 822-25, ou, pour une personne seule, d'une surface inférieure à celle mentionnée au premier alinéa de l'article 4 du même décret.
+
+La commission peut, par décision spécialement motivée, désigner comme prioritaire et devant être logée en urgence une personne qui, se trouvant dans l'une des situations prévues à l'article L. 441-2-3, ne répond qu'incomplètement aux caractéristiques définies ci-dessus.
+

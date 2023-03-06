@@ -1,0 +1,4 @@
+###### Article D932-1
+
+Les dispositions relatives aux maximums de services hebdomadaires que sont tenus de fournir les membres du personnel enseignant sont déterminées par le décret n° 2014-940 du 20 août 2014 relatif aux obligations de service et aux missions des personnels enseignants exerçant dans les établissements publics d'enseignement du second degré, le décret n° 92-1189 du 6 novembre 1992 relatif au statut particulier des professeurs de lycée professionnel, le décret n° 86-492 du 14 mars 1986 relatif au statut particulier des professeurs d'enseignement général des collèges, le décret n° 50-581 du 25 mai 1950 portant fixation des maximums de service hebdomadaire du personnel enseignant des établissements d'enseignement du second degré et le décret n° 50-582 du 25 mai 1950 portant fixation des maximums de service hebdomadaire du personnel des établissements publics d'enseignement technique.
+

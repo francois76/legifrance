@@ -1,0 +1,4 @@
+###### Article R219-1-11
+
+Les ministres chargés de l'environnement et de la mer veillent, à l'occasion des consultations sur les parties du document stratégique de façade, à ce que celui-ci respecte les principes et orientations de la stratégie nationale pour la mer et le littoral, qu'il s'avère compatible avec les autres documents stratégiques de façade et qu'il soit cohérent et coordonné avec les stratégies marines et les planifications de l'espace maritime adoptées par les autres Etats membres, pour la région marine concernée, pour la mise en œuvre de la directive 2008/56/CE du Parlement européen et du Conseil du 17 juin 2008 établissant un cadre d'action communautaire dans le domaine de la politique pour le milieu marin et de la directive 2014/89/UE du Parlement européen et du Conseil du 23 juillet 2014 établissant un cadre pour la planification de l'espace maritime.
+

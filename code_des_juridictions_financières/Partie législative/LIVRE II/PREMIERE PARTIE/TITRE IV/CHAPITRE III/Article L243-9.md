@@ -1,0 +1,4 @@
+###### Article L243-9
+
+Dans un délai d'un an à compter de la présentation du rapport d'observations définitives à l'assemblée délibérante, l'ordonnateur de la collectivité territoriale ou le président de l'établissement public de coopération intercommunale à fiscalité propre présente, dans un rapport devant cette même assemblée, les actions qu'il a entreprises à la suite des observations de la chambre régionale des comptes. Ce rapport est communiqué à la chambre régionale des comptes, qui fait une synthèse annuelle des rapports qui lui sont communiqués. Cette synthèse est présentée par le président de la chambre régionale des comptes devant la conférence territoriale de l'action publique. Chaque chambre régionale des comptes transmet cette synthèse à la Cour des comptes en vue de la présentation prescrite à l'article L. 143-9.
+

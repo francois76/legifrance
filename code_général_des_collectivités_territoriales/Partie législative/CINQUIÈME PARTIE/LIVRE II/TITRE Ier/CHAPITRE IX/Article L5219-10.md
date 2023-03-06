@@ -1,0 +1,22 @@
+###### Article L5219-10
+
+I. – Les services ou parties de service des communes ou des établissements publics de coopération intercommunale à fiscalité propre existant au 31 décembre 2014 qui participent à l'exercice des compétences de la métropole du Grand Paris sont transférés à la métropole du Grand Paris, selon les modalités prévues à l'article L. 5211-4-1.
+
+II. – Les services ou parties de service des communes ou des établissements publics de coopération intercommunale à fiscalité propre existant au 31 décembre 2014 qui participent à l'exercice des compétences des établissements publics territoriaux sont transférés à l'établissement public territorial, selon les modalités prévues au même article L. 5211-4-1. Pour les établissements publics territoriaux dont le périmètre correspond à un établissement public de coopération intercommunale à fiscalité propre existant au 31 décembre 2015, le schéma de mutualisation des services approuvé dans les conditions prévues à l'article L. 5211-39-1 reste en vigueur jusqu'au prochain renouvellement général des conseils municipaux des communes membres.
+
+III. – Les agents non titulaires de droit public des communes ou des établissements publics de coopération intercommunale mentionnés aux I et II du présent article conservent, à titre individuel, le bénéfice des stipulations de leur contrat. Les services antérieurement accomplis en qualité d'agent non titulaire de droit public d'une commune ou d'un établissement public de coopération intercommunale sont assimilés à des services accomplis dans la métropole ou dans l'établissement public territorial.
+
+IV. – A la date de création de chaque établissement public territorial, les personnels occupant un emploi fonctionnel de directeur général des services relevant des mêmes articles 47 ou 53 au sein de l'ancien établissement public de coopération intercommunale compris dans son périmètre et regroupant le plus grand nombre d'habitants sont maintenus dans leurs fonctions jusqu'à la date de la délibération créant les emplois fonctionnels de l'établissement public territorial, et au plus tard six mois après sa création.
+
+A cette même date, les personnels occupant un emploi fonctionnel de directeur général des services relevant desdits articles 47 ou 53 au sein d'un ancien établissement public de coopération intercommunale compris dans son périmètre autre que celui cité au deuxième alinéa du présent IV sont maintenus en qualité de directeur général adjoint jusqu'à la date de la délibération créant les emplois fonctionnels de l'établissement public territorial, et au plus tard six mois après sa création.
+
+A cette même date, les personnels occupant un emploi fonctionnel de directeur général adjoint ou de directeur général des services techniques relevant des mêmes articles 47 ou 53 au sein d'un ancien établissement public de coopération intercommunale compris dans son périmètre sont maintenus en qualité de directeur général adjoint jusqu'à la date de la délibération créant les emplois fonctionnels de l'établissement public territorial, et au plus tard six mois après sa création.
+
+A la date de la délibération créant les emplois fonctionnels de l'établissement public territorial, l'article 53 de la loi n° 84-53 du 26 janvier 1984 précitée, à l'exception des exigences de délai prévues à la première phrase de son dixième alinéa, est applicable aux fonctionnaires relevant des quatre premiers alinéas du présent IV.
+
+A la même date, il est mis fin aux fonctions des agents occupant, dans les anciens établissements publics de coopération intercommunale à fiscalité propre compris dans son périmètre, les emplois mentionnés à l'article 47 de la même loi. La cessation des fonctions donne lieu à l'indemnisation des intéressés pour rupture anticipée de leur contrat, qui s'effectue selon les modalités de droit commun.
+
+V. – Les services ou parties de service de l'Etat qui participent à l'exercice des compétences mentionnées aux VI et VII de l'article L. 5219-1 sont mis à disposition de la métropole du Grand Paris par la convention prévue au même article L. 5219-1.
+
+VI. – Les I à V du présent article ne s'appliquent pas aux services ou parties de service, aux fonctionnaires et aux agents non titulaires des administrations parisiennes régis par l'article 13 de la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles.
+

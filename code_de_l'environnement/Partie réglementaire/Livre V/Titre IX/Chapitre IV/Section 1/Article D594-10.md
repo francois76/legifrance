@@ -1,0 +1,8 @@
+###### Article D594-10
+
+L'exploitant réalise et documente une évaluation interne des risques au moins tous les trois ans et lors de tout changement significatif du profil des risques relatifs à la sécurisation du financement des charges nucléaires, et ce de manière proportionnée au montant de la base de dispersion et à la taille de l'exploitant. Elle comporte une appréciation des risques nouveaux ou en émergence, une revue des risques identifiés et de leurs moyens de maîtrise ainsi qu'un test de résistance consistant en une projection des provisions et des actifs mentionnés à l'article L. 594-2 au moins sur les dix années suivantes. La projection est réalisée selon un scénario de référence, des scénarios dégradés représentant des conditions détériorées de marché et des scénarios dégradés portant sur le montant ou l'échéancier des charges nucléaires.
+
+Au titre de la revue des risques identifiés prévue au premier alinéa, en ce qui concerne les risques relatifs à des événements ou conditions susceptibles d'affecter le montant ou l'échéancier des charges nucléaires correspondant à un groupe d'opérations donné, l'exploitant peut s'appuyer sur la réalisation d'une revue dédiée à ces risques durant les trois précédentes années à condition qu'il n'y ait pas eu de changement significatif de ces risques depuis ladite revue dédiée. Dans ce cas, l'exploitant réalise néanmoins une revue des risques identifiés associés aux interdépendances avec ce groupe d'opérations.
+
+A l'issue de l'évaluation interne des risques, l'exploitant analyse ses résultats, détermine et programme les actions appropriées pour améliorer la maîtrise des risques et les met en œuvre.
+

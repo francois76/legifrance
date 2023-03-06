@@ -1,0 +1,8 @@
+###### Article R4127-367
+
+Toutes les décisions prises par l'ordre des sages-femmes en application du présent code de déontologie doivent être motivées.
+
+Sauf dispositions contraires, les décisions prises par les conseils départementaux peuvent faire l'objet d'un recours hiérarchique devant le conseil national.
+
+Ce recours hiérarchique doit être exercé avant tout recours contentieux.
+

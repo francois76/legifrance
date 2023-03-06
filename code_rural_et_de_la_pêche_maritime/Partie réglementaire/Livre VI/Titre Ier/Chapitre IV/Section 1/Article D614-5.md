@@ -1,0 +1,4 @@
+###### Article D614-5
+
+Pour l'application des régimes d'aide relevant de la politique agricole commune, est considérée comme surface agricole toute surface comprenant des terres arables au sens du a du paragraphe 3 de l'article 4 du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021, des cultures permanentes au sens du b de ce paragraphe 3 ou des prairies permanentes au sens du c du même paragraphe 3, y compris dans le cas de l'agroforesterie lorsqu'elles forment des systèmes d'utilisation des terres et des pratiques dans lesquels des plantes ligneuses pérennes sont volontairement intégrées à des cultures ou des surfaces pâturées sur la même unité de gestion. Les arbres peuvent être isolés, en ligne ou en groupes à l'intérieur de parcelles de cultures ou de prairies ou sur les limites entre les parcelles.
+

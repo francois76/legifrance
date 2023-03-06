@@ -1,0 +1,18 @@
+###### Article R1614-79
+
+Les investissements ayant pour objet la construction, la rénovation, la restructuration ou la mise en accessibilité prévu par les articles L. 111-7 à L. 111-7-4 du code de la construction et de l'habitation au profit des bibliothèques municipales et intercommunales principales ou de secteur ne peuvent être pris en compte que si la surface construite, la surface rénovée ou la surface totale après travaux atteint 100 mètres carrés et si elle est au moins égale à une surface déterminée de la manière suivante :
+
+a) Lorsque la population de la commune ou de l'établissement public de coopération intercommunale n'excède pas 25 000 habitants, la surface minimale est égale à 0,07 mètre carré par habitant ;
+
+b) Lorsque la population de la commune ou de l'établissement public de coopération intercommunale est supérieure à 25 000 habitants, la surface minimale résulte de la somme du produit de la fraction de la population inférieure ou égale à 25 000 habitants par le coefficient 0,07, et du produit de la fraction de la population supérieure à 25 000 habitants par le coefficient 0,015 ;
+
+c) Pour les communes et les établissements publics de coopération intercommunale des départements d'outre-mer et de Saint-Pierre-et-Miquelon, le coefficient 0,07 prévu aux a et b est ramené à 0,05 ;
+
+d) Lorsque les investissements de construction ou de restructuration ont une surface supérieure à 8 000 mètres carrés, elles peuvent être retenues quelle que soit la population de la commune ou de l'établissement public de coopération intercommunale ;
+
+e) Pour les communes de Paris, de Lyon et de Marseille, la population à prendre en compte pour l'application du présent article est celle du ou des arrondissements desservis ;
+
+f) Lorsque l'opération est assurée par un établissement public de coopération intercommunale, la population à prendre en compte pour l'application du présent article est celle de la zone desservie par la bibliothèque, définie par l'organe délibérant de la collectivité.
+
+Les investissements d'extension de bibliothèques municipales et intercommunales principales ou de secteur ne sont soumises qu'à la condition que la surface totale de la bibliothèque après extension soit au moins égale à la surface minimale déterminée dans les conditions prévues au présent article.
+

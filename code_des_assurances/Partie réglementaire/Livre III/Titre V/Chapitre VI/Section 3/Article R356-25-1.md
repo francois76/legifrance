@@ -1,0 +1,12 @@
+###### Article R356-25-1
+
+I.-Lorsque l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe est informée par une autorité de contrôle d'un autre Etat membre d'une demande d'assujettissement d'une filiale ayant son siège social dans cet Etat membre, aux règles énoncées aux articles R. 356-26 et R. 356-27, elle se concerte avec cette autorité de contrôle en vue de décider s'il convient ou non d'accorder l'autorisation demandée et, le cas échéant, d'en définir les conditions. Elle s'efforce de parvenir avec l'autorité de contrôle concernée à une décision conjointe sur la demande dans un délai de trois mois suivant la communication de la demande complète au collège des contrôleurs.
+
+Cette décision conjointe s'impose à l'Autorité de contrôle prudentiel et de résolution.
+
+II.-L'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe diffère sa décision si, au cours de la période de trois mois mentionnée au I, elle ou l'autre autorité de contrôle concernée saisit l'Autorité européenne des assurances et des pensions professionnelles conformément à l'article 19 du règlement (UE) n° 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010. La décision finale prise par l'Autorité européenne des assurances et des pensions professionnelles s'impose à l'Autorité de contrôle prudentiel et de résolution. En cas de rejet par le conseil des autorités de surveillance de la décision proposée par le groupe d'experts de l'Autorité européenne des assurances et des pensions professionnelles en application de l'article 44 du règlement (UE) n° 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010, l'Autorité de contrôle prudentiel et de résolution prend une décision définitive.
+
+III.-A défaut de décision conjointe de l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe et de l'autre autorité de contrôle concernée au cours de la période de trois mois mentionnée au I, l'Autorité de contrôle prudentiel et de résolution se prononce elle-même sur la demande, en prenant dûment en compte au cours de cette période l'avis et les réserves exprimés par l'autorité de contrôle concernée ainsi que les réserves exprimées par les autres autorités de contrôle au sein du collège des contrôleurs.
+
+L'Autorité explique, dans sa décision, toute divergence importante par rapport aux réserves exprimées par l'autorité de contrôle concernée. Elle transmet une copie de cette décision à la filiale et à l'autre autorité de contrôle concernée.
+

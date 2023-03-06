@@ -1,0 +1,4 @@
+###### Article L352-2
+
+Les gestionnaires de réseaux publics d'électricité et les gestionnaires des réseaux fermés de distribution ne peuvent pas posséder, développer ou exploiter des installations de stockage d'énergie dans le système électrique. La Commission de régulation de l'énergie peut accorder des dérogations à ce principe si ces installations de stockage constituent des composants pleinement intégrés aux réseaux ou si sont remplies les autres conditions prévues par l'article 36, paragraphe 2, ou l'article 54, paragraphe 2, de la directive (UE) 2019/944 du Parlement européen et du Conseil du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité. Les modalités d'application du présent article sont prévues par décret en Conseil d'Etat, pris après avis de la Commission de régulation de l'énergie.
+

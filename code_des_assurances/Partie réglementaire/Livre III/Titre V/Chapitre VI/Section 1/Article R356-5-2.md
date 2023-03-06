@@ -1,0 +1,4 @@
+###### Article R356-5-2
+
+Lorsqu'une demande de l'Autorité de contrôle prudentiel et de résolution à une autorité compétente d'un autre Etat membre de procéder, en application du premier alinéa de l'article L. 632-12 du code monétaire et financer, à des contrôles sur place d'une entreprise d'assurance ou de réassurance ou d'une personne qui lui est liée selon l'une des modalités prévues à l'article L. 612-26 du même code n'a pas été suivie d'effets dans un délai de deux semaines suivant cette demande, ou lorsque l'Autorité se voit, en pratique, empêchée d'exercer son droit de participer à cette vérification, elle peut saisir l'Autorité européenne des assurances et des pensions professionnelles conformément à l'article 19 du règlement (UE) n° 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010.
+

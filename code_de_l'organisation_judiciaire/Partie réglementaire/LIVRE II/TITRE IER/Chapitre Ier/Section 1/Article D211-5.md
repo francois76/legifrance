@@ -1,0 +1,4 @@
+###### Article D211-5
+
+Le siège et le ressort des tribunaux judiciaires compétents pour connaître des actions en matière d'obtentions végétales, dans les cas et conditions prévus par le code de la propriété intellectuelle, sont fixés conformément au tableau V annexé au présent code.
+

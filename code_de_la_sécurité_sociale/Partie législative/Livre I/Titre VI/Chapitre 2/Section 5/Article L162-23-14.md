@@ -1,0 +1,12 @@
+###### Article L162-23-14
+
+Le Gouvernement présente au Parlement, avant le 15 septembre de chaque année, un rapport sur les actions menées sur le champ du financement des établissements de santé incluant un bilan rétrospectif et présentant les évolutions envisagées. Ce rapport précise notamment les dispositions prises sur :
+
+1° La tarification à l'activité des établissements de santé et ses conséquences sur l'activité et l'équilibre financier des établissements publics et privés. Le rapport souligne les actions engagées afin de mesurer et prévenir les conséquences de la tarification à l'activité sur le nombre des actes, la qualité des soins, les activités de santé publique et la prise en charge des pathologies chroniques. Enfin, le rapport souligne les dispositions prises pour tenir compte du cas particulier des établissements situés dans les zones de faible densité démographique, zones de revitalisation rurale ou zones de montagne ;
+
+1° bis Le financement des activités de soins de suite et de réadaptation et ses conséquences sur l'activité et l'équilibre financier des établissements publics et privés ;
+
+2° Les dotations finançant les missions d'intérêt général et d'aide à la contractualisation telles que mentionnées aux articles L. 162-22-13 et L. 162-23-8. A ce titre, le rapport contient une analyse du bien-fondé du périmètre des missions d'intérêt général et d'aide à la contractualisation des établissements de santé, de l'évolution du montant annuel de la dotation nationale de financement de ces missions, de celle du montant des dotations régionales et de celle du montant des dotations attribuées à chaque établissement ainsi que des critères d'attribution de ces dernières aux établissements ;
+
+3° La valorisation des mises à disposition sans remboursement d'agents publics à des établissements publics de santé effectuées dans le cadre du II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, du II de l'article 61-1 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale ou du II de l'article 49 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière. Est également détaillé le coût de ce dispositif pour les personnes publiques ayant mis ces agents à disposition des établissements publics de santé.
+

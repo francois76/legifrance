@@ -1,0 +1,8 @@
+###### Article L1131-1-1
+
+I.-Lorsqu'est diagnostiquée chez un tiers donneur, au sens de l'article L. 2143-1, une anomalie génétique pouvant être responsable d'une affection grave justifiant de mesures de prévention, y compris de conseil génétique, ou de soins, le médecin prescripteur saisit le responsable du centre d'assistance médicale à la procréation afin qu'il procède à l'information, dans les conditions prévues au II de l'article L. 1131-1, des personnes issues du don, des parents investis de l'exercice de l'autorité parentale ou, le cas échéant, du tuteur, si ces personnes sont mineures.
+
+II.-Lorsqu'est diagnostiquée chez une personne issue d'un don de gamètes ou d'un accueil d'embryon une anomalie génétique pouvant être responsable d'une affection grave justifiant de mesures de prévention, y compris de conseil génétique, ou de soins, le médecin prescripteur saisit le responsable du centre d'assistance médicale à la procréation afin qu'il procède à l'information du tiers donneur dans les conditions prévues au II de l'article L. 1131-1.
+
+III.-Lorsque le responsable d'un centre d'assistance médicale à la procréation informe, en application des I et II du présent article, un tiers donneur, une personne issue d'un don ou le représentant légal de cette dernière si elle est mineure de l'existence d'une information médicale à caractère génétique susceptible de les concerner, il transmet au médecin consulté par la personne ainsi informée les coordonnées du médecin prescripteur pour la communication de l'anomalie génétique en cause. Aucune autre information n'est transmise par le médecin prescripteur.
+

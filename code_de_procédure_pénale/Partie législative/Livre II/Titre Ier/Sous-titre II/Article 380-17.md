@@ -1,0 +1,4 @@
+##### Article 380-17
+
+La cour criminelle départementale, qui siège au même lieu que la cour d'assises ou, par exception et dans les conditions prévues à l'article 235, dans un autre tribunal judiciaire du même département, est composée d'un président et de quatre assesseurs, choisis par le premier président de la cour d'appel, pour le président, parmi les présidents de chambre et les conseillers du ressort de la cour d'appel exerçant ou ayant exercé les fonctions de président de la cour d'assises et, pour les assesseurs, parmi les conseillers et les juges de ce ressort. Le premier président de la cour d'appel peut désigner deux assesseurs au plus parmi les magistrats exerçant à titre temporaire ou les magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.
+

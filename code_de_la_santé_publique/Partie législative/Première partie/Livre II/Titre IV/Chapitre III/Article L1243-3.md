@@ -1,0 +1,16 @@
+###### Article L1243-3
+
+Tout organisme qui en a fait la déclaration préalable auprès du ministre chargé de la recherche peut, pour les besoins de ses propres programmes de recherche, assurer la conservation et la préparation à des fins scientifiques de tissus et de cellules issus du corps humain ainsi que la préparation et la conservation des organes, du sang, de ses composants et de ses produits dérivés. Ces activités incluent la constitution et l'utilisation de collections d'échantillons biologiques humains. Lorsque l'organisme est un établissement de santé, la déclaration est faite conjointement au ministre chargé de la recherche et au directeur général de l'agence régionale de santé territorialement compétent.
+
+Le terme “ programme de recherche ” désigne un ensemble d'activités de recherche organisées en vue de faciliter et d'accélérer les découvertes dans un domaine scientifique déterminé, défini par un organisme exerçant des activités de recherche ou en assurant la promotion. ;
+
+Le terme “ collection d'échantillons biologiques humains ” désigne la réunion, à des fins scientifiques, de prélèvements biologiques effectués sur un groupe de personnes identifiées et sélectionnées en fonction des caractéristiques cliniques ou biologiques d'un ou plusieurs membres du groupe, ainsi que des dérivés de ces prélèvements.
+
+Le ministre chargé de la recherche et, le cas échéant, le directeur général de l'agence régionale de santé territorialement compétent peuvent s'opposer, dans un délai fixé par voie réglementaire, à l'exercice des activités ainsi déclarées si la finalité scientifique de l'activité n'est pas établie, si les conditions d'approvisionnement, de conservation et d'utilisation des tissus et cellules issus du corps humain ne présentent pas les garanties suffisantes pour assurer le respect soit des dispositions du titre Ier du présent livre, soit des règles en vigueur en matière de sécurité des personnes exerçant une activité professionnelle sur le site, soit des dispositions applicables en matière de protection de l'environnement.
+
+Le ministre chargé de la recherche et, pour les organismes relevant de sa compétence, le directeur général de l'agence régionale de santé peuvent demander à l'organisme, à tout moment, des informations leur permettant de s'assurer que les activités sont bien poursuivies dans le respect du présent article et des articles L. 1211-2 et L. 1130-5. Ils peuvent également à tout moment suspendre ou interdire les activités qui ne répondent plus à ces exigences.
+
+Les activités prévues au premier alinéa exercées dans le cadre d'une recherche impliquant la personne humaine sont régies par les dispositions spécifiques à ces recherches.
+
+L'Agence nationale de sécurité du médicament et des produits de santé est informée des activités de conservation ou de préparation à des fins scientifiques de tissus et cellules du corps humain réalisées sur le même site que des activités de même nature exercées à des fins thérapeutiques. Dans ce cas, la suspension ou l'interdiction de l'exercice des activités déclarées est de droit quand elle est demandée par l'Agence nationale de sécurité du médicament et des produits de santé pour des raisons de sécurité sanitaire.
+

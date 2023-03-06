@@ -1,0 +1,10 @@
+###### Article L252-9-4
+
+Lorsque des établissements, sociétés, groupements et organismes, quel que soit leur statut juridique, auxquels les personnes morales relevant de la compétence de la chambre territoriale des comptes apportent un concours financier supérieur à 1 500 euros ou dans lesquels elles détiennent, séparément ou ensemble, plus de la moitié du capital ou des voix dans les organes délibérants, ou sur lesquels elles exercent, directement ou indirectement, un pouvoir prépondérant de décision ou de gestion relèvent du contrôle de plusieurs chambres régionales ou territoriales des comptes, la Cour des comptes est compétente pour assurer leur contrôle.
+
+La Cour des comptes est également compétente pour assurer le contrôle des établissements, sociétés, groupements et organismes, quel que soit leur statut juridique, auxquels les personnes morales relevant de la compétence d'une ou plusieurs chambres régionales ou territoriales des comptes et de la Cour des comptes apportent, ensemble, un concours financier supérieur à 1 500 euros ou dans lesquels elles détiennent, ensemble, plus de la moitié du capital ou des voix dans les organes délibérants, ou sur lesquels elles exercent, ensemble, directement ou indirectement, un pouvoir prépondérant de décision ou de gestion, dans des conditions telles que ni la Cour des comptes ni aucune des chambres régionales ou territoriales des comptes concernées n'est seule compétente.
+
+Toutefois, les contrôles des collectivités et organismes mentionnés aux deux alinéas précédents peuvent être confiés à la chambre territoriale des comptes dès lors qu'elle est concernée, par arrêté du premier président de la Cour des comptes pris après avis du procureur général près la Cour des comptes et des présidents des chambres des comptes concernées.
+
+Les dispositions des trois alinéas précédents s'appliquent aux filiales des établissements, sociétés, groupements et organismes visés aux mêmes alinéas lorsque ces organismes détiennent dans lesdites filiales, séparément ou ensemble, plus de la moitié du capital ou des voix dans les organes délibérants, ou exercent un pouvoir prépondérant de décision ou de gestion.
+

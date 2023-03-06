@@ -1,0 +1,4 @@
+###### Article L142-5
+
+Il peut être dérogé à l'article L. 142-4 avec l'accord de l'autorité administrative compétente de l'Etat après avis de la commission départementale de la préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime et, le cas échéant, de l'établissement public prévu à l'article L. 143-16. La dérogation ne peut être accordée que si l'urbanisation envisagée ne nuit pas à la protection des espaces naturels, agricoles et forestiers ou à la préservation et à la remise en bon état des continuités écologiques, ne conduit pas à une consommation excessive de l'espace, ne génère pas d'impact excessif sur les flux de déplacements et ne nuit pas à une répartition équilibrée entre emploi, habitat, commerces et services.
+

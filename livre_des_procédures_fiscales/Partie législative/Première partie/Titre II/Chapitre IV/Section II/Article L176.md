@@ -1,0 +1,14 @@
+###### Article L176
+
+Pour les taxes sur le chiffre d'affaires, le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de l'article 269 du code général des impôts.
+
+Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de l'article 269 du code général des impôts lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le contribuable exerce une activité occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à l'organisme mentionné au deuxième alinéa de l'article L. 123-33 du code de commerce, soit s'est livré à une activité illicite.
+
+Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la troisième année suivant celle au cours de laquelle se termine cette période.
+
+Dans les cas prévus aux II, II bis et III de l'article 284 du code général des impôts, le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles est subordonné l'octroi des taux réduits mentionnés au même article 284.
+
+La taxe mentionnée sur les déclarations souscrites par les assujettis membres d'un groupe mentionné à l'article 1693 ter du code général des impôts qui a concouru à la détermination du crédit dont bénéficie le redevable mentionné au 1 du même article en application du b du 3 dudit article peut être remise en cause à hauteur du montant de ce crédit, nonobstant les dispositions prévues aux premier et deuxième alinéas du présent article.
+
+Si le groupe a cessé d'exister, les règles définies au cinquième alinéa demeurent applicables pour le contrôle du crédit de taxe mentionné au second alinéa du même article 1693 ter A.
+

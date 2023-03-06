@@ -1,0 +1,6 @@
+###### Article L3313-5
+
+Conformément au dernier alinéa du 8 bis de l'article 8 du règlement (CE) n° 561/2006 du Parlement européen et du Conseil du 15 mars 2006 relatif à l'harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements (CEE) n° 3821/85 et (CE) n° 2135/98 du Conseil et abrogeant le règlement (CEE) n° 3820/85 du Conseil, l'entreprise de transport documente la manière dont elle s'acquitte de l'obligation d'organiser le travail de tout conducteur routier qu'elle emploie ou qui est mis à sa disposition de manière à ce qu'il soit en mesure de retourner au centre opérationnel situé dans l'Etat membre d'établissement de son employeur ou à son lieu de résidence pour y prendre un temps de repos hebdomadaire, dans les conditions prévues aux deux premiers alinéas du même 8 bis. Elle conserve cette documentation dans ses locaux pendant une durée fixée par voie réglementaire, afin de la présenter, sur demande, aux autorités de contrôle.
+
+L'entreprise met le conducteur en mesure d'apporter, par tout moyen, aux agents mentionnés à l'article L. 3315-1 du présent code, la preuve qu'elle s'acquitte de cette obligation à son égard, lors des contrôles opérés en bord de route.
+

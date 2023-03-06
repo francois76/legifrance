@@ -1,0 +1,58 @@
+###### Article D1432-15
+
+I. - Outre le représentant de l'Etat dans la région qui le préside, le conseil de surveillance comprend les membres suivants qui ont voix délibérative :
+
+1° Trois représentants de l'Etat :
+
+a) Le recteur de région académique ou son représentant ;
+
+b) Le directeur régional de la jeunesse, des sports et de la cohésion sociale ou, le cas échéant, le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale ou leur représentant ;
+
+c) Un préfet de département ou un chef des services déconcentrés de l'Etat désigné par le préfet de région ou son représentant ;
+
+Pour la région Ile-de-France, à ces trois représentants s'ajoute le préfet de police ou son représentant ;
+
+2° Neuf membres des conseils ou conseils d'administration des organismes locaux d'assurance maladie de son ressort :
+
+a) Cinq membres des conseils des organismes locaux d'assurance maladie relevant du régime général désignés par les représentants nationaux des organisations syndicales de salariés représentatives au niveau national et interprofessionnel ;
+
+b) Trois membres des conseils des organismes locaux d'assurance maladie relevant du régime général désignés par les représentants nationaux des organisations d'employeurs représentatives au niveau national et interprofessionnel ;
+
+c) Le président de la caisse régionale de mutualité sociale agricole ou le président d'une des caisses situées dans le ressort de l'agence régionale de santé, désigné par l'association régionale des caisses de mutualité sociale agricole ou, à défaut, conjointement par les présidents des caisses de mutualité sociale agricole du ressort de l'agence ;
+
+3° Quatre ou cinq représentants des collectivités territoriales du ressort géographique de l'agence, dont :
+
+a) Un conseiller régional désigné par le président du conseil régional et, en Corse, deux conseillers à l'assemblée de Corse, désignés par cette assemblée ;
+
+b) Trois conseillers départementaux pour les régions comprenant de neuf à treize départements et deux conseillers pour les autres régions, désignés par l'Assemblée des départements de France et, en Corse, un conseiller exécutif, désigné par le président du conseil exécutif ;
+
+c) Le maire d'une commune ou le président d'un groupement de communes désigné par l'Association des maires de France ;
+
+4° Trois représentants d'associations de patients, de personnes âgées et de personnes handicapées, désignés par le collège de la conférence régionale de la santé et de l'autonomie réunissant les associations œuvrant dans les domaines de compétences de l'agence régionale de santé :
+
+a) Un représentant d'une association de patients œuvrant dans le domaine de la qualité des soins et de la prise en charge des malades et agréée au niveau national ou régional en application de l'article L. 1114-1 du présent code ;
+
+b) Un représentant d'une association œuvrant en faveur des personnes handicapées ;
+
+c) Un représentant d'une association œuvrant en faveur des personnes âgées ;
+
+5° Quatre personnalités qualifiées dans les domaines de compétence de l'agence, désignées par les ministres chargés de la santé, de l'assurance maladie, des personnes âgées et des personnes handicapées.
+
+II.-Un suppléant est désigné pour chaque membre titulaire mentionné aux 2° du I dans les mêmes conditions que celui-ci, à l'exception :
+
+1° Du suppléant du membre titulaire au titre du régime social des indépendants, qui est désigné par le président de la caisse de base concernée ou par le président de la caisse nationale quand plusieurs caisses sont situées dans la circonscription de l'agence régionale de santé ;
+
+2° Du suppléant du membre titulaire au titre de la mutualité sociale agricole, qui est, selon les cas prévus au c du 2° du I du présent article, soit le premier vice-président de la caisse concernée, soit le premier vice-président d'une des caisses situées dans le ressort de l'agence, désigné par l'association régionale des caisses de mutualité sociale agricole.
+
+Chaque membre titulaire mentionné au 3° et 4° du I dispose de deux suppléants, qui sont désignés dans les mêmes conditions que celui-ci.
+
+Le membre suppléant remplace le membre titulaire lorsque ce dernier se trouve dans l'empêchement de siéger. Lorsque le membre titulaire cesse de faire partie du conseil de surveillance où il siégeait, il est remplacé par le membre suppléant jusqu'à la désignation d'un nouveau membre titulaire dans les conditions prévues à l'article D. 1432-19.
+
+III.-Les personnes physiques ou morales, mentionnées aux 2°, 3° et 4° du I du présent article, chargées de désigner des représentants titulaires et suppléants communiquent leurs noms aux ministres chargés de la santé, de l'assurance maladie, des personnes âgées et handicapées dans un délai de deux mois précédant l'expiration des mandats.
+
+IV.-Siègent avec voix consultative au conseil de surveillance :
+
+1° Deux représentants du personnel élus par leurs pairs au sein du comité d'agence prévu à l'article L. 1432-10 du code de la santé publique ; chaque représentant du personnel dispose d'un suppléant qui est désigné dans les mêmes conditions que celui-ci et qui ne peut siéger qu'en cas d'absence ou d'empêchement du titulaire ;
+
+2° Le directeur général, celui-ci peut se faire assister des personnes de son choix.
+

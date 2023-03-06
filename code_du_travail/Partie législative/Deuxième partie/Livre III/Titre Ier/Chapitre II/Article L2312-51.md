@@ -1,0 +1,4 @@
+###### Article L2312-51
+
+Si, à l'issue de l'offre publique, l'auteur de l'offre a acquis le contrôle de l'entreprise faisant l'objet de l'offre au sens des articles L. 233-1, L. 233-3 et L. 233-16 du code de commerce, il rend compte au comité social et économique de cette société, au cours du sixième, du douzième et du vingt-quatrième mois suivant la clôture de l'offre, de la manière dont il a mis en œuvre les déclarations d'intention et, le cas échéant, les engagements qu'il a pris auprès du comité social et économique, dans le cadre des auditions prévues aux articles L. 2312-43 et L. 2312-46 du présent code, en matière d'emploi, de maintien des sites d'activité et de localisation des centres de décision exprimés dans la note d'information mentionnée au III de l'article L. 621-8 du code monétaire et financier.
+

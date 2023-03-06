@@ -1,0 +1,24 @@
+###### Article L5144-1
+
+Sans préjudice des dispositions des articles 94 et 95 du règlement (UE) 2019/6 du 11 décembre 2018, des obligations particulières sont édictées par voie réglementaire pour l'importation, la fabrication, l'acquisition, la détention, la vente ou la cession à titre gratuit des substances ne constituant pas des médicaments vétérinaires, mais susceptibles d'entrer dans leur fabrication :
+
+a) Matières virulentes et produits d'origine microbienne destinés au diagnostic, à la prévention et au traitement des maladies des animaux ;
+
+b) Substances d'origine organique destinées aux mêmes fins à l'exception de celles qui ne renferment que des principes chimiquement connus ;
+
+c) Substances à activité anabolisante, anticatabolisante ou bêta-agoniste ;
+
+d) Substances vénéneuses ;
+
+e) Substances pharmacologiquement actives susceptibles de demeurer à l'état de résidus toxiques ou dangereux dans les denrées alimentaires d'origine animale et pour lesquelles une limite maximale de résidus est fixée dans le tableau 1 de l'annexe du règlement (UE) n° 37/2010 de la Commission du 22 décembre 2009 relatif aux substances pharmacologiquement actives et à leur classification en ce qui concerne les limites maximales de résidus dans les aliments d'origine animale ;
+
+f) Produits dont les effets sont susceptibles d'être à l'origine d'une contravention à la législation sur les fraudes ;
+
+g) Produits susceptibles d'entraver le contrôle sanitaire des denrées provenant des animaux auxquels ils ont été administrés.
+
+Un arrêté conjoint des ministres chargés de l'agriculture et de la santé fixe la liste des produits mentionnés aux f et g.
+
+Ces substances ne peuvent être délivrées en l'état aux éleveurs ou groupements agricoles visés à l'article L. 5143-6, ou détenues ou possédées par ces éleveurs ou groupements, sauf si elles sont destinées à être employées pour des usages agricoles ou phytosanitaires autorisés.
+
+Un décret pris après avis de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail fixe la liste et les conditions particulières de délivrance des substances ou des catégories de substances pouvant être utilisées pour fabriquer des médicaments vétérinaires faisant l'objet d'un temps d'attente.
+

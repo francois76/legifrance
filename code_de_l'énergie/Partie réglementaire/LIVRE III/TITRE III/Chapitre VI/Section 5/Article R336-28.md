@@ -1,0 +1,16 @@
+###### Article R336-28
+
+Chaque année, au plus tard à la fin du mois d'avril, le gestionnaire du réseau public de transport calcule et transmet à la Commission de régulation de l'énergie, pour chaque fournisseur, la consommation constatée demi-heure par demi-heure pour chaque sous-catégorie de consommateurs pendant l'année calendaire écoulée.
+
+Les données de consommation des petits et grands consommateurs sont issues des systèmes de comptage des gestionnaires de réseaux publics de transport et de distribution d'électricité.
+
+Afin de permettre au gestionnaire du réseau public de transport d'exercer les missions qui lui sont confiées dans le présent article et à l'article R. 336-29, les gestionnaires des réseaux publics de distribution lui transmettent la consommation constatée des consommateurs finals raccordés à leurs réseaux, par responsable d'équilibre, demi-heure par demi-heure, pendant chaque période de livraison et par sous-catégorie de consommateurs, corrigée conformément à l'article R. 336-29. Les gestionnaires des réseaux publics de distribution transmettent également au gestionnaire du réseau public de transport les données, par fournisseur, de consommation constatée pour les pertes conformément à l'article R. 336-30.
+
+Tout responsable d'équilibre prenant en charge les écarts entre injections et soutirages d'autres consommateurs finals que les clients finals d'un fournisseur bénéficiaire de l'ARENH ou d'une partie de ces derniers transmet au gestionnaire du réseau public de transport, sur habilitation de ce fournisseur, la consommation constatée des clients de celui-ci, demi-heure par demi-heure pendant chaque période de livraison et pour chaque sous-catégorie de consommateurs, corrigée conformément à l'article R. 336-29. Il transmet également au gestionnaire du réseau public de transport les données de consommation constatée des clients des autres fournisseurs n'ayant pas bénéficié de l'ARENH pendant la période de livraison considérée dont il prend en charge les écarts entre injections et soutirages. Ces dernières données sont transmises par sous-catégorie de consommateurs, sans indication des fournisseurs concernés.
+
+Les méthodes utilisées par le responsable d'équilibre pour le calcul de la consommation constatée sont approuvées par la Commission de régulation de l'énergie dans un délai de deux mois à compter du dépôt de la demande complète d'approbation. L'emploi de ces méthodes est certifié par l'organisme indépendant du fournisseur et du responsable d'équilibre mentionné à l'article R. 336-8.
+
+Les modalités de transmission des données sont précisées par voie de conventions conclues entre le gestionnaire du réseau public de transport et les gestionnaires des réseaux publics de distribution d'électricité ainsi que, le cas échéant, le responsable d'équilibre. Ces conventions sont approuvées par la Commission de régulation de l'énergie dans un délai de deux mois à compter du dépôt de la demande complète d'approbation.
+
+Les méthodes de calcul et les modalités de transmission des consommations constatées que met en œuvre le gestionnaire du réseau public de transport sont définies par la Commission de régulation de l'énergie, sur proposition de celui-ci.
+

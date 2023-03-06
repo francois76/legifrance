@@ -1,0 +1,4 @@
+###### Article R351-14
+
+Entre le 1er octobre et le 31 décembre de chaque année, les sportifs de haut niveau inscrits sur la liste mentionnée au premier alinéa de l'article L. 221-2 du code du sport au cours de l'année civile précédente et qui sont susceptibles d'obtenir la validation d'au moins un trimestre au titre de cette même année civile en application des dispositions du 9° de l'article R. 351-12 du présent code déposent une demande auprès de la Caisse nationale d'assurance vieillesse. La demande de l'intéressé est accompagnée de pièces justificatives dont la liste est fixée par arrêté du ministre chargé de la sécurité sociale et du ministre chargé des sports. La Caisse nationale d'assurance vieillesse procède à l'instruction des demandes et informe les intéressés de sa décision avant le 30 avril de l'année suivante.
+

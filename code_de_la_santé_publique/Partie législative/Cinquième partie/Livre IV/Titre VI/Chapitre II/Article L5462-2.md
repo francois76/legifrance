@@ -1,0 +1,8 @@
+###### Article L5462-2
+
+I.-Le fait, pour le fabricant d'un dispositif mentionné à l'article premier du règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 ou, le cas échéant, pour son mandataire, ayant eu connaissance d'un incident grave survenu sur le territoire français, concernant ce dispositif, de s'abstenir de le notifier à l'Agence nationale de sécurité du médicament et des produits de santé selon les modalités et les délais prévus à l'article 82 de ce règlement est puni de deux ans d'emprisonnement et de 150 000 euros d'amende.
+
+II.-Le fait, pour le fabricant d'un dispositif mentionné à l'article premier du règlement (UE) 2017/746, mis à disposition sur le territoire français, de s'abstenir d'informer immédiatement l'Agence nationale de sécurité du médicament et des produits de santé que ce dispositif présente un risque grave, en méconnaissance du deuxième alinéa du paragraphe 11 de l'article 10 du règlement précité, est puni de deux ans d'emprisonnement et de 150 000 euros d'amende.
+
+III.-Le fait, pour le fabricant d'un dispositif mentionné à l'article premier du règlement (UE) 2017/746 ou, le cas échéant, pour son mandataire, de ne pas notifier toute mesure corrective de sécurité relative à un dispositif mis à disposition sur le territoire français, ou toute mesure corrective de sécurité prise dans un pays tiers concernant un dispositif qui est légalement mis à disposition sur le territoire français, dans les conditions prévues au paragraphe 8 de l'article 82 de ce règlement est puni de deux ans d'emprisonnement et de 150 000 euros d'amende.
+

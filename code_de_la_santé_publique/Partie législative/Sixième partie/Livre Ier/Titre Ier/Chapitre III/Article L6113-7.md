@@ -1,0 +1,18 @@
+###### Article L6113-7
+
+Les établissements de santé, publics ou privés, procèdent à l'analyse de leur activité.
+
+Dans le respect du secret médical et des droits des malades, ils mettent en oeuvre des systèmes d'information qui tiennent compte notamment des pathologies et des modes de prise en charge en vue d'améliorer la connaissance et l'évaluation de l'activité et des coûts et de favoriser l'optimisation de l'offre de soins.
+
+Les praticiens exerçant dans les établissements de santé publics et privés transmettent les données médicales nominatives nécessaires à l'analyse de l'activité et à la facturation de celle-ci au médecin responsable de l'information médicale pour l'établissement dans des conditions déterminées par voie réglementaire après consultation du Conseil national de l'ordre des médecins.
+
+Les praticiens transmettent les données mentionnées au troisième alinéa dans un délai compatible avec celui imposé à l'établissement.
+
+Sous l'autorité des chefs de pôle, les praticiens sont tenus, dans le cadre de l'organisation de l'établissement, de transmettre toutes données concernant la disponibilité effective des capacités d'accueil et notamment des lits.A la demande du directeur, ce signalement peut se faire en temps réel.
+
+Le praticien responsable de l'information médicale est un médecin désigné par le directeur d'un établissement public de santé ou l'organe délibérant d'un établissement de santé privé s'il existe, après avis de la commission médicale ou de la conférence médicale. Les conditions de cette désignation et les modes d'organisation de la fonction d'information médicale, en particulier les conditions dans lesquelles des personnels placés sous l'autorité du praticien responsable ou des commissaires aux comptes intervenant au titre de la mission légale de certification des comptes mentionnée à l'article L. 6145-16 peuvent contribuer au traitement de données, sont fixés par décret.
+
+Lorsque les praticiens appartenant au personnel des établissements publics de santé ne satisfont pas aux obligations qui leur incombent en vertu des troisième et quatrième alinéas, leur rémunération fait l'objet de la retenue prévue à l'article 4 de la loi de finances rectificative pour 1961 (n° 61-825 du 29 juillet 1961).
+
+Les modalités selon lesquelles les dispositions de cet article sont applicables aux hôpitaux des armées sont fixées par décret en Conseil d'Etat.
+

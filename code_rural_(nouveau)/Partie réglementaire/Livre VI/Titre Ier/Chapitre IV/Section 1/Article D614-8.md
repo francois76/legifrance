@@ -1,0 +1,10 @@
+###### Article D614-8
+
+I.-Pour l'application du premier alinéa du c du paragraphe 3 de l'article 4 du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021, l'herbe et les plantes fourragères herbacées sont les plantes herbacées se trouvant traditionnellement en France dans les pâturages naturels ou normalement comprises dans les mélanges de semences pour pâturages ou prés, qu'ils soient ou non utilisés pour faire paître les animaux. Sont exclues de cette définition les graminées non prairiales et les surfaces de légumineuses pures.
+
+II.-Pour l'application du premier alinéa du c du paragraphe 3 du même article, le fait d'être compris dans la rotation est déterminé par la nature du couvert, sans tenir compte de la date du dernier labour. Une surface dont le couvert reste herbacé pendant cinq années révolues devient une prairie permanente même si elle est labourée ou travaillée ou réensemencée dans la période, à l'exception des surfaces qui ont été mises en jachère conformément à l'article 31 ou à l'article 70 ou à la norme BCAE 8 figurant à l'annexe III du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021, ou à l'article 22,23 ou 24 du règlement (CE) n° 1257/1999 du Conseil du 17 mai 1999, ou à l'article 39 du règlement (CE) n° 1698/2005 du Conseil du 20 septembre 2005, ou à l'article 28 du règlement (UE) n° 1305/2013 du Parlement européen et du Conseil du 17 décembre 2013, pour lesquelles les années d'engagement ne sont pas comptabilisées pour déterminer la durée d'implantation de la prairie.
+
+III.-Pour l'application du deuxième alinéa du c du paragraphe 3 du même article, un arrêté du ministre chargé de l'agriculture fixe la liste des espèces adaptées à la production d'aliments pour animaux qui peuvent être présentes dans les prairies permanentes.
+
+IV.-Un arrêté du ministre chargé de l'agriculture définit les territoires dans lesquels les terres répondant aux conditions mentionnées aux i et ii du c du paragraphe 3 du même article sont considérées comme des prairies permanentes et, le cas échéant, les pratiques locales établies mentionnées au i.
+

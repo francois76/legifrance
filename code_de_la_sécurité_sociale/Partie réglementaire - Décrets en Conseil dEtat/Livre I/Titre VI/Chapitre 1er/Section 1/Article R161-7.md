@@ -1,0 +1,6 @@
+###### Article R161-7
+
+Pour l'application des dispositions de l'article L. 161-6, la période d'indemnisation est partagée par les deux parents, selon leur choix, dans la limite pour chacun des parents de la durée maximale d'indemnisation ou de maintien de traitement prévue par le régime dont il relève, déduction faite de la durée prise par l'autre. En cas de désaccord entre les parents, la période est partagée entre eux de la manière suivante : le parent dont le régime garantit la durée d'indemnisation ou de maintien de traitement la moins élevée a droit à la moitié de cette durée, arrondie au jour entier supérieur. La différence entre cette durée et la période d'indemnisation est attribuée à l'autre parent.
+
+Pour l'application des dispositions qui précèdent, chacun des parents adresse une demande établie au moyen d'un formulaire homologué, à l'organisme compétent pour le service des prestations en espèces, des allocations, des indemnités ou pour maintenir le traitement, dont ils relèvent. Cette demande comporte notamment les informations permettant d'identifier les deux parents, de connaître les modalités de répartition de la période d'indemnisation ou de maintien de traitement et de s'assurer de leur accord.
+

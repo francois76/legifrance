@@ -1,0 +1,14 @@
+#### Article L130-9
+
+Lorsqu'elles sont effectuées par ou à partir des appareils de contrôle automatique ayant fait l'objet d'une homologation, les constatations relatives aux infractions dont la liste est fixée par décret en Conseil d'Etat font foi jusqu'à preuve du contraire. Ces constatations peuvent faire l'objet d'un procès-verbal revêtu d'une signature manuelle numérisée.
+
+Lorsque ces constatations font l'objet d'un traitement automatisé de données à caractère personnel mis en oeuvre conformément aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, la durée maximale de conservation de ces données ne peut excéder dix ans, sans préjudice de la possibilité pour le conducteur du véhicule ayant fait l'objet du contrôle de demander au procureur de la République territorialement compétent d'ordonner l'effacement des données le concernant lorsqu'il a récupéré le nombre de points ayant été retirés de son permis de conduire ou lorsque la procédure le concernant a donné lieu à une décision définitive de relaxe.
+
+Pour l'application des dispositions relatives à l'amende forfaitaire, le lieu du traitement automatisé des données à caractère personnel concernant les constatations effectuées par ou à partir des appareils de contrôle automatisé est considéré comme le lieu de constatation de l'infraction.
+
+Lorsque l'excès de vitesse est constaté par le relevé d'une vitesse moyenne, entre deux points d'une voie de circulation, supérieure à la vitesse maximale autorisée entre ces deux points, le lieu de commission de l'infraction est celui où a été réalisée la deuxième constatation, sans préjudice des dispositions du précédent alinéa.
+
+Les collectivités territoriales et leurs groupements gestionnaires de voirie peuvent installer les appareils mentionnés au premier alinéa du présent article servant au contrôle des règles de sécurité routière, sur avis favorable du représentant de l'Etat dans le département et après consultation de la commission départementale de la sécurité routière, sur la base d'une étude d'accidentalité portant sur les sections de route concernées et en tenant compte des appareils de contrôle automatiques déjà installés. Les constatations effectuées par les appareils installés par les collectivités territoriales et leurs groupements sont traitées dans les mêmes conditions que celles effectuées par les appareils installés par les services de l'Etat. Les modalités de dépôt et d'instruction des demandes d'avis sont fixées par décret.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article ainsi que la procédure pour l'expérimentation de la constatation des niveaux d'émissions sonores des véhicules par des appareils de contrôle automatique fixes et mobiles. Cette expérimentation est de deux ans.
+

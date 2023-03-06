@@ -1,0 +1,4 @@
+#### Article R*111-1
+
+Tous les Français sont tenus, entre la date à laquelle ils atteignent l'âge de seize ans et la fin du troisième mois suivant, d'effectuer à la mairie de leur domicile ou de la commune où est situé l'organisme auprès duquel ils ont fait élection de domicile dans les conditions prévues à l' article L. 264-1 du code de l'action sociale et des familles , une déclaration mentionnant leur état civil, leurs domicile et résidence ou le lieu où ils ont fait élection de domicile, leur situation familiale, scolaire, universitaire ou professionnelle, notamment en vue de leur participation à la journée défense et citoyenneté et, le cas échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer personnellement cette démarche, elle peut l'être par leur représentant légal.
+

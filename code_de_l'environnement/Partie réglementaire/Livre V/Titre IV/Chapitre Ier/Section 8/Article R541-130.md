@@ -1,0 +1,8 @@
+###### Article R541-130
+
+Chaque éco-organisme élabore le plan prévu au VII de l'article L. 541-10 dans un délai de six mois à compter de la date de son agrément. Il transmet le projet de plan pour accord à l'autorité administrative, après consultation de son comité des parties prenantes et des collectivités d'outre-mer compétentes en matière de planification ou de gestion des déchets concernées. L'accord de l'autorité administrative est réputé acquis en l'absence d'opposition dans un délai de deux mois suivant la réception du projet de plan.
+
+Dans les trois ans qui suivent la mise en œuvre du plan, l'éco-organisme élabore un bilan de sa mise en œuvre et évalue les progrès en matière de collecte et de traitement des déchets dans chacun des territoires concernés. Lorsque la performance reste inférieure à celle atteinte, en moyenne, sur le territoire métropolitain, l'éco-organisme révise les mesures du plan dans les conditions prévues au II de l'article L. 541-9-6, après consultation de son comité des parties prenantes et des collectivités qui sont compétentes en matière de planification ou de gestion des déchets.
+
+L'éco-organisme peut déroger aux dispositions du présent article pour ceux des territoires d'outre-mer mentionnés au VII de l'article L. 541-10 dont il justifie que les performances de collecte et de traitement des déchets issus des produits relevant de son agrément sont au moins égales à celles atteintes, en moyenne, sur le territoire métropolitain. Dans ce cas, il présente ces éléments à l'autorité administrative dans les conditions mentionnées au premier alinéa.
+

@@ -1,0 +1,8 @@
+###### Article L114-16-1
+
+Les agents de l'Etat ou des organismes de protection sociale, mentionnés à l'article L. 114-16-3, sont habilités à s'échanger tous renseignements et tous documents utiles à l'accomplissement des missions de recherche et de constatation des fraudes en matière sociale énumérées à l'article L. 114-16-2, ainsi qu'au recouvrement des cotisations et contributions dues et des prestations sociales versées indûment.
+
+Les agents des services préfectoraux désignés par arrêté préfectoral sont habilités à transmettre aux agents mentionnés à l'article L. 114-16-3 tous renseignements et tous documents utiles à l'accomplissement par ceux-ci de leur mission de recherche et de constatation des fraudes en matière sociale visées à l'article L. 114-16-2, ainsi qu'au recouvrement des cotisations et contributions dues et des prestations sociales versées indûment.
+
+Sans préjudice des facultés d'échange d'informations dont ils disposent avec les agents des autorités administratives mentionnées à l'article 1er de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives, les agents des services mentionnés à l'article L. 811-2 du code de la sécurité intérieure ou des services désignés par le décret en Conseil d'Etat prévu à l'article L. 811-4 du même code sont habilités à transmettre aux agents mentionnés à l'article L. 114-16-3 du présent code les informations strictement utiles à l'accomplissement de leurs missions, lorsque la transmission de ces informations participe directement à la poursuite de l'une des finalités prévues à l'article L. 811-3 du code de la sécurité intérieure.
+

@@ -1,0 +1,12 @@
+###### Article R356-28-2
+
+Lorsque, conformément à l'article R. 356-26-1, une filiale ayant son siège social dans un autre Etat membre a été autorisée à être assujettie à des règles similaires à celles mentionnées aux articles R. 356-26 et R. 356-27, l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe informe immédiatement l'autorité de contrôle de cet Etat membre de sa décision éventuelle de ne plus inclure cette entreprise dans le contrôle du groupe, après consultation du collège des contrôleurs. Elle notifie cette décision à l'entreprise mentionnée au premier alinéa de l'article R. 356-8.
+
+Lorsque, conformément à l'article R. 356-26-1, une filiale ayant son siège social dans un autre Etat membre a été autorisée à être assujettie à des règles similaires à celles mentionnées aux articles R. 356-26 et R. 356-27, il incombe à l'entreprise mentionnée au premier alinéa de l'article R. 356-8 de veiller à ce que les conditions mentionnées aux b, c et d du I de l'article R. 356-24 soient respectées en permanence. Si ce n'est pas le cas, cette entreprise en informe sans délai l'Autorité de contrôle prudentiel et de résolution et l'autorité de contrôle de l'Etat membre concerné. L'entreprise concernée présente un plan visant à rétablir le respect de la ou les conditions dans un délai approprié.
+
+L'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe vérifie au moins une fois par an, que les conditions mentionnées aux b, c et d du I de l'article R. 356-24 continuent d'être respectées. Elle procède également à cette vérification à la demande de l'autorité de contrôle concernée, lorsque cette dernière a de sérieux doutes concernant le respect permanent de ces conditions.
+
+Lorsque la vérification fait apparaître des déficiences, l'Autorité de contrôle prudentiel et de résolution, en tant que contrôleur de groupe, impose à l'entreprise mentionnée au premier alinéa de l'article R. 356-8 de présenter un plan visant à rétablir le respect de la ou les conditions concernées dans un délai approprié.
+
+Lorsque, après avoir consulté le collège des contrôleurs, l'Autorité de contrôle prudentiel et de résolution en tant que contrôleur de groupe estime que le plan visé au deuxième ou au quatrième alinéa est insuffisant ou qu'il s'avère qu'il n'est pas mis en œuvre dans le délai convenu, elle en conclut que les conditions visées aux b, c et d de l'article R. 356-24 ne sont plus respectées. Elle en informe sans délai l'autorité de contrôle concernée.
+

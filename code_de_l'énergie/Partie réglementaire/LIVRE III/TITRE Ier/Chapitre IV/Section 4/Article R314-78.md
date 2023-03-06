@@ -1,0 +1,6 @@
+###### Article R314-78
+
+Avant une date limite fixée dans le cahier des charges, chaque candidat peut adresser, par voie électronique, des demandes d'informations à la Commission de régulation de l'énergie.
+
+La commission les transmet au ministre chargé de l'énergie et lui fixe un délai pour y répondre. Elle publie, sur le site de dépôt en ligne des candidatures, les réponses qui y sont apportées.
+

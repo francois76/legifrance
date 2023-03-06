@@ -1,0 +1,18 @@
+##### Article L452-1
+
+Les tarifs d'utilisation des réseaux de transport, les conditions commerciales d'utilisation de ces réseaux, ainsi que les tarifs des prestations annexes réalisées par les gestionnaires de ces réseaux ou par les opérateurs des infrastructures de stockage mentionnées à l'article L. 421-3-1, sont établis de manière transparente et non discriminatoire afin de couvrir l'ensemble des coûts supportés par les gestionnaires des réseaux de transport et les opérateurs des infrastructures de stockage mentionnées au même article L. 421-3-1, dans la mesure où ces coûts correspondent à ceux d'opérateurs efficaces. Ces coûts tiennent compte des caractéristiques du service rendu et des coûts liés à ce service, y compris des obligations fixées par la loi et les règlements ainsi que des coûts résultant de l'exécution des missions de service public et des contrats mentionnés au I de l'article L. 121-46.
+
+Figurent notamment parmi les coûts supportés par les gestionnaires des réseaux de transport les dépenses d'exploitation, de recherche et de développement nécessaires à la sécurité du réseau et à la maîtrise de la qualité du gaz naturel injecté ou soutiré ainsi que la partie du coût des renforcements des réseaux mentionnés à l'article L. 453-9 restant à la charge des gestionnaires de réseaux de transport.
+
+Pour les tarifs d'utilisation des réseaux de transport de gaz, ces coûts comprennent également une partie des coûts de raccordement à ces réseaux des installations de production de biogaz. Le niveau de prise en charge, arrêté par l'autorité administrative après avis de la Commission de régulation de l'énergie, ne peut excéder 60 % du coût du raccordement.
+
+Figurent notamment parmi les coûts supportés par les opérateurs des infrastructures de stockage mentionnées à l'article L. 421-3-1 une rémunération normale des capitaux investis, les coûts mentionnés au dernier alinéa de l'article L. 421-6, les dépenses de recherche et développement nécessaires à la sécurité de ces infrastructures et les coûts supportés par ces opérateurs au titre de la modification de la nature ou des caractéristiques du gaz acheminé dans les réseaux de gaz naturel.
+
+Les tarifs d'utilisation des réseaux de transport de gaz naturel peuvent comporter une part fixe, une part proportionnelle à la capacité souscrite et une part proportionnelle à la différence entre la capacité ferme souscrite en hiver et l'utilisation annuelle moyenne de cette capacité.
+
+Les tarifs d'utilisation des réseaux de transport de gaz naturel sont recouvrés par les gestionnaires de ces réseaux. Les gestionnaires de réseaux de transport reversent aux opérateurs de stockage souterrain de gaz naturel mentionnés à l'article L. 421-3-1 une part du montant recouvré selon des modalités fixées par la Commission de régulation de l'énergie.
+
+Lorsque les recettes d'un opérateur de stockage issues de l'exploitation des infrastructures de stockage mentionnées au même article L. 421-3-1 sont supérieures aux coûts associés à l'obligation de service public définie audit article L. 421-3-1, l'excédent de recettes est reversé par l'opérateur aux gestionnaires de réseaux de transport de gaz naturel selon des modalités fixées par la Commission de régulation de l'énergie.
+
+Les gestionnaires des réseaux de transport de gaz naturel et les opérateurs des infrastructures de stockage mentionnées au même article L. 421-3-1 sont tenus de publier, de tenir à la disposition des utilisateurs et de communiquer à la Commission de régulation de l'énergie les conditions commerciales générales d'utilisation de leurs ouvrages et de leurs installations.
+

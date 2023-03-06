@@ -1,0 +1,6 @@
+###### Article L162-26-1
+
+Par dérogation aux dispositions de l'article L. 162-2 du présent code et de l'article L. 4113-5 du code de la santé publique, lorsqu'un établissement de santé prévu au d de l'article L. 162-22-6 du présent code emploie des médecins qui choisissent le mode d'exercice salarié, les honoraires liés à l'activité réalisée au sein de l'établissement par ces praticiens peuvent être facturés par l'établissement dans les conditions prévues aux articles L. 162-1-7 et L. 162-14-1 et dans la limite des tarifs fixés en application de ces articles.
+
+Lorsqu'un établissement de santé mentionné au d de l'article L. 162-22-6 emploie des infirmiers exerçant en pratique avancée, les honoraires liés à l'activité réalisée par ces professionnels pour le compte de l'établissement, hors prestations d'hospitalisation, peuvent être facturés par l'établissement dans les conditions prévues aux articles L. 162-1-7 et L. 162-14-1, dans la limite des tarifs fixés en application des mêmes articles L. 162-1-7 et L. 162-14-1.
+

@@ -1,0 +1,10 @@
+###### Article R625-17
+
+Le nombre d'armes pouvant être acquises par le prestataire de formation sur le fondement de l'article R. 625-2, pour chacun des types d'armes mentionnées aux II et III de l'article R. 613-3, ainsi que les munitions correspondantes et les systèmes d'alimentation mentionnés à l'article R. 613-3-1 sont fixés par arrêté du ministre de l'intérieur en tenant compte notamment du nombre de stagiaires susceptibles d'être accueillis dans le centre de formation et du nombre de formateurs encadrant la formation.
+
+Seules les personnes responsables désignées par le prestataire de formation ont accès aux armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 613-3 et, le cas échéant, à leurs éléments et munitions ainsi qu'aux systèmes d'alimentation mentionnés à l'article R. 613-3-1. Le prestataire de formation tient un registre d'inventaire des armes, éléments d'armes, munitions et, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 permettant leur identification ainsi qu'un état journalier retraçant les sorties et les réintégrations des armes et munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 figurant au registre d'inventaire dans les conditions fixées par arrêté du ministre de l'intérieur.
+
+Les états journaliers sont conservés pendant un délai de trois ans par le prestataire de formation.
+
+Les documents mentionnés au présent article sont tenus à la disposition des agents mentionnés aux articles L. 611-2 et L. 634-1.
+

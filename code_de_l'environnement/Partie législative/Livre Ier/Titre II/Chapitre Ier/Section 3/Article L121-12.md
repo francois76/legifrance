@@ -1,0 +1,4 @@
+###### Article L121-12
+
+L'ouverture de l'enquête publique prévue à l'article L. 123-1 ou de la participation du public prévue à l'article L. 123-19 relative à un projet, plan ou programme relevant de l'article L. 121-8 ne peut être décidée qu'à compter, soit de la date à partir de laquelle un débat public ou la concertation préalable prévus à l'article L. 121-8 ne peut plus être organisé (e), soit de la date de publication du bilan ou à l'expiration du délai imparti au président de la commission pour procéder à cette publication et au plus tard dans le délai de huit ans qui suit ces dates. Au-delà de ce délai, la commission ne peut décider de relancer la participation du public que si les circonstances de fait ou de droit justifiant le projet, plan ou programme ont subi des modifications substantielles.
+

@@ -1,0 +1,10 @@
+###### Article L5211-6
+
+Les métropoles, communautés urbaines, communautés d'agglomération et communautés de communes sont administrées par un organe délibérant composé de représentants des communes membres désignés dans les conditions prévues au titre V du livre Ier du code électoral.
+
+Après le renouvellement général des conseils municipaux, l'organe délibérant se réunit au plus tard le vendredi de la quatrième semaine qui suit l'élection des maires.
+
+Lors de la première réunion de l'organe délibérant, immédiatement après l'élection du président, des vice-présidents et des autres membres du bureau, le président donne lecture de la charte de l'élu local prévue à l'article L. 1111-1-1. Le président remet aux conseillers communautaires une copie de la charte de l'élu local et des dispositions de la sous-section 1 de la section 2 du chapitre IV du présent titre dans les communautés de communes, de la section 3 du chapitre VI du présent titre dans les communautés d'agglomération, de la sous-section 4 de la section 2 du chapitre V du présent titre dans les communautés urbaines et les métropoles, ainsi que des articles auxquels il est fait référence dans ces dispositions.
+
+Lorsqu'une commune ne dispose que d'un seul conseiller communautaire, le conseiller municipal appelé à le remplacer en application de l'article L. 273-10 ou du I de l'article L. 273-12 exerce les fonctions de conseiller communautaire suppléant et peut participer avec voix délibérative aux réunions de l'organe délibérant en cas d'absence du conseiller titulaire dès lors que ce dernier en a avisé le président de l'établissement public. Le conseiller suppléant est destinataire des convocations aux réunions de l'organe délibérant, ainsi que des documents annexés à celles-ci. L'article L. 273-5 du code électoral est applicable au conseiller communautaire suppléant.
+

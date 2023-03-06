@@ -1,0 +1,8 @@
+###### Article R335-18
+
+Si les contributions européennes à la sécurité d'approvisionnement en France transitant sur une interconnexion dérogatoire ont été prises en compte dans le volume de tickets d'accès au mécanisme de capacité français émis sur une frontière donnée, alors une partie des revenus perçus par le gestionnaire du réseau de transport français correspondant aux contributions transitant sur l'interconnexion dérogatoire est reversée par le gestionnaire du réseau de transport français au gestionnaire d'interconnexion dérogatoire concerné. Les règles du mécanisme de capacité fixent la méthodologie de calcul permettant de déterminer la part des revenus de la vente des tickets d'accès au mécanisme qui doit revenir aux gestionnaires d'interconnexion dérogatoire.
+
+Les autres revenus perçus par le gestionnaire du réseau de transport français lors de la vente des tickets d'accès au mécanisme de capacité relatifs à un Etat participant interconnecté donné sont partagés avec le ou les gestionnaires de réseau de transport de cet Etat uniquement dans le cas où cet Etat a également mis en place un mécanisme de capacité valorisant l'ensemble des contributions à sa sécurité d'approvisionnement, et notamment les contributions françaises, et procède à un partage des revenus capacitaires liés à l'interconnexion sur des principes similaires.
+
+La part des revenus revenant au gestionnaire du réseau de transport français lors de la vente des tickets d'accès au mécanisme de capacité relatifs à un Etat participant interconnecté donné est utilisée par le gestionnaire du réseau de transport français selon des modalités définies par la Commission de régulation de l'énergie.
+

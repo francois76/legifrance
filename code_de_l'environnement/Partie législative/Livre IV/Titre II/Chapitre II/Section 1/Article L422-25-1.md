@@ -1,0 +1,4 @@
+###### Article L422-25-1
+
+En cas d'atteinte aux propriétés, aux récoltes ou aux libertés publiques ou de manquement grave aux dispositions du schéma départemental de gestion cynégétique causés par une association communale ou intercommunale de chasse agréée, de violation grave de ses statuts ou de son règlement de chasse ou de dysfonctionnement grave et continu de l'association, le préfet peut, par arrêté, pris après avis du président de la fédération départementale des chasseurs, décider de mesures provisoires, telle que la suspension de l'exercice de la chasse sur tout ou partie du territoire, ainsi que de la dissolution et du remplacement du conseil d'administration par un comité de gestion nommé par arrêté pour une période maximale d'un an, pendant laquelle de nouvelles élections doivent avoir lieu.
+

@@ -1,0 +1,6 @@
+###### Article L251-14
+
+En application du règlement (UE) 2016/2031 du 26 octobre 2016, dans le cadre des contrôles officiels sur les végétaux, produits végétaux et autres objets introduits ou mis en circulation sur le territoire de l'Union, lorsqu'est constatée ou suspectée la présence d'un organisme nuisible réglementé conformément aux 1°, 2°, 3°, 4° ou 5° de l'article L. 251-3 du présent code, ou susceptible de l'être conformément à l'article 29 de ce règlement, ou lorsque des végétaux, produits végétaux ou autres objets ne respectent pas les exigences fixées par le même règlement ou les actes délégués, actes d'exécution ou dispositions nationales pris pour son application, les agents habilités par l'autorité administrative peuvent ordonner la destruction, la consignation, le retrait ou le rappel de tout ou partie du lot ou toutes autres mesures qu'ils jugent appropriées pour s'assurer du respect de ces exigences dans un délai qu'ils déterminent. Le cas échéant, ils peuvent annuler et retirer le passeport phytosanitaire de l'unité commerciale concernée.
+
+En cas d'inexécution des mesures dans les délais prescrits, les agents habilités font procéder à la destruction d'office du lot aux frais du propriétaire ou du détenteur.
+

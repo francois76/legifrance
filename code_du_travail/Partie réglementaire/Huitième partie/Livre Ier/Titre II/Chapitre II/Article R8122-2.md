@@ -1,0 +1,10 @@
+###### Article R8122-2
+
+I. - Le directeur régional de l'économie, de l'emploi, du travail et des solidarités a autorité sur les directeurs départementaux de l'emploi, du travail et des solidarités et les directeurs départementaux de l'emploi, du travail, des solidarités et de la protection des populations pour l'exercice des missions relevant des actions d'inspection de la législation du travail.
+
+Les directeurs départementaux de l'emploi, du travail et des solidarités, les directeurs départementaux de l'emploi, du travail, des solidarités et de la protection des populations et, en Ile-de-France, les directeurs d'unités départementales exercent, au nom du directeur régional et sous son autorité, et dans le cadre des directives et instructions de la direction générale du travail, le pouvoir hiérarchique sur les agents du système d'inspection du travail affectés dans les directions départementales de l'emploi, du travail et des solidarités, les directions départementales de l'emploi, du travail, des solidarités et de la protection des populations et les unités départementales.
+
+II. - Pour l'exercice des compétences en matière d'actions d'inspection de la législation du travail, le directeur régional de l'économie, de l'emploi, du travail et des solidarités peut déléguer sa signature au chef du pôle en charge des questions de travail aux directeurs départementaux de l'emploi, du travail et des solidarités, aux directeurs départementaux de l'emploi, du travail, des solidarités et de la protection des populations et, en Ile-de-France, aux directeurs d'unités départementales.
+
+En accord avec le délégant, ceux-ci peuvent subdéléguer la signature des actes pour lesquels ils ont eux-mêmes reçu délégation aux agents du corps de l'inspection du travail placés sous leur autorité. Le directeur régional peut mettre fin à tout ou partie de cette délégation. Il peut également fixer la liste des compétences qu'il souhaite exclure de la délégation que peuvent consentir ces chefs de service aux agents du corps de l'inspection du travail placés sous leur autorité.
+

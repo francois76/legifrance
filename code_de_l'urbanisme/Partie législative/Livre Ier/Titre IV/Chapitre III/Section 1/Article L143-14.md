@@ -1,0 +1,4 @@
+###### Article L143-14
+
+En cas de fusion d'établissements publics prévus aux 1° et 2° de l'article L. 143-16, l'établissement public issu de la fusion est compétent dans les conditions définies par le code général des collectivités territoriales et son nouveau périmètre devient le périmètre de schéma de cohérence territoriale. Le nouvel établissement public assure le suivi du ou des schémas antérieurement existants. Dans ce cas, il peut achever les procédures d'élaboration et d'évolution en cours, lorsque le débat prévu à l'article L. 143-18, s'il est requis, a eu lieu avant la fusion. Il peut engager les procédures de modification ou de mise en compatibilité des schémas approuvés. Il prescrit, au plus tard lors de la délibération qui suit l'analyse des résultats de l'application du premier schéma en vigueur, prévue à l'article L. 143-28, l'élaboration d'un schéma couvrant l'intégralité de son périmètre.
+

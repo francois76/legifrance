@@ -1,0 +1,6 @@
+###### Article R446-16-3
+
+Lorsqu'un manquement aux dispositions des articles R. 446-15 et R. 446-16-1 est constaté ou lorsqu'il est informé de la non-conformité d'une installation par les fonctionnaires et agents mentionnés à l'article R. 446-16, par un organisme agréé en application des articles R. 446-16-18 à R. 446-16-20, par le cocontractant en application de l'article R. 446-16-2 ou par un organisme à l'égard duquel le producteur a, en vertu des dispositions du présent chapitre, des obligations, le préfet de région peut engager à l'encontre du producteur une procédure de sanction.
+
+A cette fin, il met en demeure le producteur concerné de régulariser sa situation dans un délai qu'il fixe. Il lui demande l'identité de son cocontractant et l'informe que les manquements qui lui sont reprochés sont susceptibles d'entraîner la suspension du contrat conclu, selon le cas, en application des articles D. 446-8, R. 446-12-19, R. 446-12-52, R. 446-12-57 ou à la sous-section 3 de la section 8 du présent chapitre, ainsi que du versement des sommes qu'il prévoit, et sa résiliation, en application des dispositions de l'article R. 446-16-6. Enfin, il l'invite à présenter ses observations dans un délai qu'il fixe, qui ne peut être inférieur à un mois.
+

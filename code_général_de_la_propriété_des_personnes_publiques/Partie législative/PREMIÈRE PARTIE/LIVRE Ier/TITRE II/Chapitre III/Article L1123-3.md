@@ -1,0 +1,16 @@
+###### Article L1123-3
+
+I.-L'acquisition des immeubles mentionnés au 2° de l'article L. 1123-1 est opérée selon les modalités suivantes.
+
+Un arrêté du maire ou du président de l'établissement public de coopération intercommunale à fiscalité propre pris dans les conditions fixées par décret en Conseil d'Etat constate que l'immeuble satisfait aux conditions mentionnées au 2° de l'article L. 1123-1. Il est procédé par les soins du maire ou du président de l'établissement public de coopération intercommunale à fiscalité propre à une publication et à un affichage de cet arrêté et, s'il y a lieu, à une notification aux derniers domicile et résidence du dernier propriétaire connu. Une notification est également adressée, si l'immeuble est habité ou exploité, à l'habitant ou à l'exploitant ainsi qu'au tiers qui aurait acquitté les taxes foncières. Cet arrêté est, dans tous les cas, notifié au représentant de l'Etat dans le département.
+
+Les dispositions du deuxième alinéa du présent I sont applicables lorsque les taxes foncières font l'objet d'une exonération ou ne sont pas mises en recouvrement conformément aux dispositions de l'article 1657 du code général des impôts.
+
+Dans le cas où un propriétaire ne s'est pas fait connaître dans un délai de six mois à dater de l'accomplissement de la dernière des mesures de publicité mentionnées au deuxième alinéa du présent I, l'immeuble est présumé sans maître. La commune ou l'établissement public de coopération intercommunale à fiscalité propre peut, par délibération de son organe délibérant, l'incorporer dans son domaine. Cette incorporation est constatée par arrêté du maire ou du président de l'établissement public de coopération intercommunale à fiscalité propre.
+
+A défaut de délibération prise dans un délai de six mois à compter de la vacance présumée du bien, la propriété de celui-ci est attribuée à l'Etat. Toutefois, lorsque le bien est situé dans l'une des zones définies à l'article L. 322-1 du code de l'environnement, la propriété est transférée au Conservatoire de l'espace littoral et des rivages lacustres lorsqu'il en fait la demande ou, à défaut, au conservatoire régional d'espaces naturels agréé au titre de l'article L. 414-11 du même code lorsqu'il en fait la demande. Lorsque le bien est situé en dehors de ces zones, la propriété peut également être transférée, après accord du représentant de l'Etat dans la région, au conservatoire régional d'espaces naturels agréé au titre du même article L. 414-11 lorsqu'il en fait la demande. Le transfert du bien est constaté par un acte administratif ou notarié.
+
+Les bois et forêts acquis dans les conditions prévues au présent article sont soumis au régime forestier prévu à l'article L. 211-1 du code forestier à l'expiration d'un délai de cinq ans à compter de l'incorporation au domaine communal ou du transfert dans le domaine de l'Etat. Au cours de cette période, il peut être procédé à toute opération foncière.
+
+II.-L'administration fiscale transmet au maire ou au président de l'établissement public de coopération intercommunale à fiscalité propre, à leur demande, les informations nécessaires à la mise en œuvre de la procédure d'acquisition prévue au I du présent article.
+

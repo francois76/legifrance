@@ -1,0 +1,12 @@
+###### Article L521-21
+
+Lorsque le juge des enfants décide, d'office ou sur réquisitions du procureur de la République, de convoquer le mineur à un débat contradictoire en vue de la révocation du contrôle judiciaire ou de l'assignation à résidence avec surveillance électronique et du placement en détention provisoire en application des dispositions des articles L. 334-4 et L. 334-5, il convoque également l'avocat du mineur, ses représentants légaux et le service auquel la mesure de contrôle judiciaire ou d'assignation à résidence avec surveillance électronique est confiée et en avise le procureur de la République.
+
+Le mineur est informé que la décision ne pourra intervenir qu'à l'issue d'un débat contradictoire et qu'il a le droit de demander un délai pour préparer sa défense.
+
+Si le mineur ou son avocat sollicite un délai pour préparer sa défense, le juge des enfants, après avoir recueilli les observations du procureur de la République, du mineur, de son avocat et, le cas échéant, de ses représentants légaux, ordonne le renvoi à une prochaine audience qui doit avoir lieu dans un délai qui ne peut excéder quatre jours et à laquelle les représentants légaux sont convoqués s'ils n'étaient pas présents lors de l'audience à l'issue de laquelle le renvoi a été décidé. Dans l'attente, le juge des enfants peut, par ordonnance motivée et non susceptible d'appel, prescrire l'incarcération du mineur dans l'établissement pénitentiaire spécialisé pour mineurs ou l'établissement pénitentiaire doté d'un quartier des mineurs le plus proche, pour une durée déterminée, qui ne peut en aucun cas excéder quatre jours ouvrables. A défaut de débat contradictoire dans le délai de quatre jours suivant l'incarcération du mineur, celui-ci est remis en liberté s'il n'est pas détenu pour une autre cause.
+
+Au cours du débat contradictoire et du débat différé, le juge des enfants statue sur le placement en détention provisoire du mineur après avoir recueilli l'avis du service de la protection judiciaire de la jeunesse et entendu les réquisitions du procureur de la République et les observations du mineur et de son avocat ainsi que celles de ses représentants légaux dûment convoqués. Sa décision est exécutoire par provision et susceptible d'appel.
+
+La durée de l'incarcération provisoire prononcée dans l'attente du débat contradictoire s'impute sur la durée totale de la détention provisoire.
+

@@ -1,0 +1,4 @@
+###### Article L123-5-2
+
+Lorsque les dirigeants d'une société commerciale transformant des produits agricoles, commercialisant des produits alimentaires, exploitant, directement ou indirectement, un ou plusieurs magasins de commerce de détail de produits de grande consommation ou intervenant dans le secteur de la distribution comme centrale de référencement ou d'achat d'entreprises de commerce de détail ne procèdent pas au dépôt des comptes dans les conditions et délais prévus aux articles L. 232-21 à L. 232-23, le président du tribunal de commerce peut adresser à cette société une injonction de le faire à bref délai sous astreinte. Le montant de cette astreinte ne peut excéder 2 % du chiffre d'affaires journalier moyen hors taxes réalisé en France par la société au titre de cette activité, par jour de retard à compter de la date fixée par l'injonction.
+

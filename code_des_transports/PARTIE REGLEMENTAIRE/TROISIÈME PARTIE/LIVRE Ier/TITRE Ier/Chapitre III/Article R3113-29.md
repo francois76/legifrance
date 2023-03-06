@@ -1,0 +1,4 @@
+###### Article R3113-29
+
+Lorsque le préfet de région est informé d'une condamnation pénale ou d'une sanction prononcée dans un ou plusieurs Etats membres de l'Union européenne autres que la France à l'encontre d'un gestionnaire de transport ou d'une entreprise de transport en raison d'une ou plusieurs infractions mentionnées dans la liste visée à l'annexe IV au règlement (CE) n° 1071/2009 du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/ CE du Conseil ou dans la liste des autres infractions graves aux règles communautaires établie par la Commission européenne en application du point b, paragraphe 2, de l'article 6, de ce règlement, il engage la procédure administrative prévue à l'article R. 3113-30 et au point a du paragraphe 2 de l'article 6 de ce même règlement.
+

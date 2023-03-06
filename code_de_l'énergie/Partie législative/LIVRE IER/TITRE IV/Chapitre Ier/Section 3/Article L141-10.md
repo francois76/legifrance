@@ -1,0 +1,10 @@
+###### Article L141-10
+
+Les gestionnaires de réseaux de transport de gaz naturel établissent chaque année, sous le contrôle de l'Etat, un bilan gazier national, deux bilans prévisionnels saisonniers et un bilan prévisionnel pluriannuel afin d'évaluer le risque de défaillance du système gazier. Le bilan gazier national couvre l'année précédant la date de sa publication, le bilan prévisionnel hivernal couvre la période d'octobre à mars, le bilan prévisionnel estival couvre la période d'avril à septembre et le bilan prévisionnel pluriannuel couvre une période minimale de dix ans à compter de la date de sa publication. Ces bilans prennent en compte les évolutions de la consommation en fonction notamment des actions de sobriété, d'efficacité et de substitution d'usages, des capacités de transport, de distribution, de stockage, de regazéification, de production renouvelable, d'effacement et d'interruptibilité, ainsi que des échanges avec les réseaux gaziers étrangers.
+
+Les éléments figurant dans ces bilans et leurs modalités d'élaboration sont définis par voie réglementaire.
+
+Afin d'établir ces bilans, les gestionnaires de réseaux de transport de gaz naturel ont accès à toutes les informations utiles auprès des gestionnaires de réseaux de distribution de gaz naturel, des exploitants d'installations de gaz naturel liquéfié, des opérateurs de stockage souterrain de gaz naturel, des producteurs, des fournisseurs et des consommateurs. Ils préservent la confidentialité des informations ainsi recueillies, dans les conditions prévues à l'article L. 142-1.
+
+Afin d'établir ces bilans, les gestionnaires de réseaux de distribution de gaz naturel établissent des prévisions de la consommation de gaz naturel et de la production renouvelable, au périmètre les concernant. Les gestionnaires de réseaux de distribution ont accès à toutes les informations utiles auprès des gestionnaires de réseaux de distribution situés en aval, des producteurs, des fournisseurs et des consommateurs. Ils préservent la confidentialité des informations ainsi recueillies.
+

@@ -1,0 +1,8 @@
+###### Article L2251-4-2
+
+I.-Dans le cadre de leurs missions de prévention des atteintes à l'ordre public et de protection de la sécurité des personnes et des biens, les agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens mentionnés à l'article L. 2251-1 peuvent, lorsqu'ils sont affectés au sein de salles d'information et de commandement relevant de l'Etat et sous l'autorité et en présence des agents de la police nationale ou des militaires de la gendarmerie nationale, visionner les images des systèmes de vidéoprotection transmises en temps réel dans ces salles depuis les véhicules et emprises immobilières des transports publics de voyageurs relevant respectivement de leur compétence, aux seules fins de faciliter la coordination avec ces derniers lors des interventions de leurs services au sein desdits véhicules et emprises.
+
+II.-Afin de visionner les images dans les conditions prévues au I, les agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens doivent être individuellement désignés et dûment habilités par le représentant de l'Etat dans le département.
+
+III.-Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat. Ce dernier précise les conditions d'exercice des agents affectés au sein de la salle de commandement, ainsi que les exigences de formation et de mise à jour régulière des connaissances en matière de protection des données à caractère personnel auxquelles ils doivent satisfaire pour être habilités. Il précise également les mesures techniques mises en œuvre pour garantir la sécurité des enregistrements et assurer la traçabilité des accès.
+

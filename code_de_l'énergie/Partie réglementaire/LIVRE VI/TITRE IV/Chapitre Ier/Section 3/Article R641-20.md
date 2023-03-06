@@ -1,0 +1,4 @@
+###### Article R641-20
+
+Sans préjudice des dispositions particulières résultant de la réglementation applicable aux installations classées pour la protection de l'environnement, et notamment aux installations de remplissage de réservoirs alimentant des moteurs mentionnées aux rubriques 1413,1414 et 1416 de la nomenclature annexée à l'article R. 511-9 du code de l'environnement, ainsi qu'aux substances et mélanges dangereux mentionnés aux rubriques 4310,4715 et 4718 de la même nomenclature, les dispositions de cette sous-section ne s'appliquent qu'aux équipements des points de ravitaillement fixes ouverts au public qui délivrent de l'hydrogène ou du GNC à destination des véhicules routiers, ainsi qu'aux équipements des points de ravitaillement fixes ouverts au public qui délivrent du GNL à destination des véhicules routiers.
+

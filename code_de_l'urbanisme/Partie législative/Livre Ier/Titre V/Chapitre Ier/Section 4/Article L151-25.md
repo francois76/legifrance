@@ -1,0 +1,10 @@
+###### Article L151-25
+
+Dans les zones à protéger en raison de la qualité de leurs paysages, le règlement peut déterminer les conditions dans lesquelles les possibilités de construction résultant des règles qu'il fixe pour l'ensemble de la zone pourront être transférées en vue de favoriser un regroupement des constructions sur d'autres terrains situés dans un ou plusieurs secteurs de la même zone.
+
+Dans ces secteurs, les constructions ne sont autorisées qu'après de tels transferts, les possibilités de construire propres aux terrains situés dans ces secteurs s'ajoutant alors aux possibilités transférées.
+
+Le règlement fixe la densité maximale de construction dans ces secteurs.
+
+En cas de transfert, la totalité du terrain dont les possibilités de construction sont transférées est frappée de plein droit d'une servitude administrative d'interdiction de construire constatée par un acte authentique publié au fichier immobilier. Cette servitude ne peut être levée que par décret pris sur avis conforme du Conseil d'Etat.
+

@@ -1,0 +1,6 @@
+###### Article L134-10
+
+La Commission de régulation de l'énergie est préalablement consultée sur les projets de dispositions à caractère réglementaire relatifs à l'accès aux réseaux publics de transport et de distribution d'électricité, aux ouvrages de transport et de distribution de gaz naturel et aux installations de gaz naturel liquéfié et à leur utilisation, ainsi qu'à l'utilisation des installations de stockage souterrain de gaz naturel. Elle est également consultée sur le projet de décret en Conseil d'Etat fixant les obligations d'Electricité de France et des fournisseurs bénéficiant de l'électricité nucléaire historique et les conditions de calcul des volumes et conditions d'achat de cette dernière prévu à l'article L. 336-10.
+
+La commission est consultée sur les projets de contrats de concession faisant l'objet d'une intervention financière de l'Etat mentionnés à l'article L. 111-111. Elle émet un avis sur tout projet d'avenant à ces contrats modifiant les clauses relatives à la conversion, le montant des subventions versées au concessionnaire ou le partage des risques entre la commune et le concessionnaire. Elle communique ses avis aux communes concernées et aux autorités compétentes de l'Etat.
+

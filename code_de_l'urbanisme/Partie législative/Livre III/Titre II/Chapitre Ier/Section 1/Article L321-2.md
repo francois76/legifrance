@@ -1,0 +1,14 @@
+###### Article L321-2
+
+I. - Sous réserve de l'accord prévu au premier alinéa de l'article L. 321-1, les établissements publics fonciers de l'Etat sont créés par décret en Conseil d'Etat après avis des conseils régionaux, des conseils départementaux, des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre compétents en matière de plan local d'urbanisme ainsi que des conseils municipaux des communes de 20 000 habitants et plus non membres de ces établissements, situés dans leur périmètre de compétence, et des comités régionaux de l'habitat et de l'hébergement compétents. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.
+
+Les statuts et le périmètre d'un établissement public foncier de l'Etat sont modifiés dans les mêmes formes.
+
+II. - Par dérogation au I, dans le cadre d'un projet partenarial d'aménagement ou d'une opération de revitalisation de territoire, le périmètre d'un établissement public foncier de l'Etat peut être étendu par décret au territoire d'une collectivité territoriale ou d'un établissement public de coopération intercommunale ayant signé un contrat mentionné à l'article L. 312-1 du présent code ou la convention mentionnée à l'article L. 303-2 du code de la construction et de l'habitation, situé dans une région dans laquelle l'établissement public foncier intervient, lorsque cette collectivité territoriale ou cet établissement public de coopération intercommunale n'est pas déjà membre d'un établissement public foncier local, au sens de l'article L. 324-1 du présent code, et en fait la demande.
+
+Une telle modification simplifiée du périmètre fait l'objet d'un accord préalable de l'organe délibérant de la collectivité territoriale ou de l'établissement public de coopération intercommunale et du conseil d'administration de l'établissement public foncier de l'Etat, sur avis conforme des communes membres dudit établissement public de coopération intercommunale cocontractant si celui-ci n'est pas compétent en matière de document d'urbanisme. Cet avis est réputé favorable s'il n'est pas intervenu dans un délai de deux mois.
+
+L'inclusion d'une collectivité territoriale ou d'un établissement public de coopération intercommunale dans le périmètre d'un établissement public foncier de l'Etat décidée en application du présent II n'emporte pas de modification de la composition du conseil d'administration. La représentation de la collectivité territoriale ou de l'établissement public de coopération intercommunale est organisée lors de la prochaine modification de la composition du conseil d'administration, en application de l'article L. 321-9.
+
+Après une telle inclusion, la collectivité territoriale ou l'établissement public de coopération intercommunale concerné peut également intégrer le périmètre d'un établissement public foncier local mentionné à l'article L. 324-1.
+

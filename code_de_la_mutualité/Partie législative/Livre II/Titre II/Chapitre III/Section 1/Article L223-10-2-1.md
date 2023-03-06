@@ -1,0 +1,4 @@
+###### Article L223-10-2-1
+
+I. - Les mutuelles et les unions publient, chaque année, chacune pour ce qui la concerne, le nombre et l'encours des contrats non réglés. Elles précisent les démarches, le nombre de recherches et le nombre et l'encours des contrats correspondants qu'elles ont effectuées au cours de l'année au titre des deux derniers alinéas de l'article L. 223-10-1 et de l'article L. 223-10-2, ainsi que les sommes dont le versement au bénéficiaire résulte de ces démarches. Elles établissent chaque année, chacune pour ce qui la concerne, un rapport, adressé à leur demande à l'Autorité de contrôle prudentiel et de résolution et au ministre chargé de l'économie, précisant le nombre et l'encours des contrats d'assurance sur la vie et des bons et contrats de capitalisation répondant à des critères fixés par arrêté du ministre chargé de l'économie, dont les capitaux ou les rentes dus n'ont pas été versés au bénéficiaire.
+

@@ -1,0 +1,10 @@
+###### Article L431-6-3
+
+En complément des capacités interruptibles mentionnées à l'article L. 431-6-2 relatives à des consommateurs finals interruptibles bénéficiant d'une compensation pour la sujétion imposée, les gestionnaires de réseaux de transport et de distribution peuvent contractualiser des capacités interruptibles en dernier recours avec des consommateurs finals agréés raccordés à leur réseau, sans compensation.
+
+Lorsque le fonctionnement normal des réseaux de transport de gaz naturel est menacé de manière exceptionnellement grave et ne peut plus être préservé par des appels au marché pour l'équilibrage et la continuité d'acheminement ni par l'interruption des capacités interruptibles mentionnées à l'article L. 431-6-2, le gestionnaire de réseau de transport concerné procède, à son initiative, à l'interruption, au niveau nécessaire, de la consommation des consommateurs finals agréés raccordés au réseau de transport qui ne bénéficient pas d'une compensation ou demande à un gestionnaire de réseau de distribution alimenté par le réseau de transport de procéder à l'interruption nécessaire de la consommation des consommateurs finals agréés raccordés à ce réseau de distribution qui ne bénéficient pas d'une compensation.
+
+Le gestionnaire de réseau de distribution peut également procéder, à son initiative, à l'interruption de la consommation des consommateurs finals agréés raccordés à son réseau qui ne bénéficient pas d'une compensation lorsque le fonctionnement du réseau est menacé de manière exceptionnellement grave.
+
+Les conditions d'agrément des consommateurs finals interruptibles qui ne bénéficient pas d'une compensation dont la consommation peut être interrompue, les modalités de notification des conditions exceptionnellement graves justifiant la mise en œuvre de ces interruptions et les modalités techniques générales de l'interruption sont fixées par arrêté conjoint des ministres chargés de l'économie et de l'énergie, après avis de la Commission de régulation de l'énergie.
+

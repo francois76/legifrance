@@ -1,0 +1,10 @@
+###### Article R236-1
+
+Pour l'application de l'article L. 236-1, le régime d'autorisations d'absence et d'indemnisation dont bénéficient les représentants des parents d'élèves est régi :
+
+1° Lorsqu'ils sont salariés, par les dispositions relatives au congé de représentation prévu par les articles L. 3142-60 à L. 3142-63 et R. 3142-27 à R. 3142-33 du code du travail ;
+
+2° Lorsqu'ils sont agents publics, selon leur situation, par les dispositions du 10° de l'article 34 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, du 11° de l'article 57 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, ou du 10° de l'article 41 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, ou par celles de l'article 11 du décret n° 86-83 du 17 janvier 1986 relatif aux dispositions applicables aux agents contractuels de l'Etat pris pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, de l'article 6 du décret n° 88-145 du 15 février 1988 pris pour l'application de l'article 136 de la loi du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique territoriale et relatif aux agents contractuels de la fonction publique territoriale, ou de l'article 9 du décret n° 91-155 du 6 février 1991 relatif aux dispositions générales applicables aux agents contractuels des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière, ainsi que par celles du décret n° 2005-1237 du 28 septembre 2005 relatif aux modalités d'attribution aux fonctionnaires et aux agents non titulaires du congé de représentation ;
+
+3° Dans les autres cas, par les dispositions des articles R. 236-2 et R. 236-4.
+

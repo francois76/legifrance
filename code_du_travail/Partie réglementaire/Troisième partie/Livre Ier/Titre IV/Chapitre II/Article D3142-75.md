@@ -1,0 +1,4 @@
+###### Article D3142-75
+
+A défaut de convention ou d'accord mentionné à l'article L 3142-117, le départ en congé peut être différé par l'employeur dans les conditions mentionnées à l'article L. 3142-114, de telle sorte que le pourcentage des salariés simultanément absents de l'entreprise au titre du congé pour la création d'entreprise, pour l'exercice de responsabilités de direction au sein d'une entreprise répondant aux critères de jeune entreprise innovante et au titre du congé sabbatique ne dépasse pas 2 % de l'effectif de cette entreprise, jusqu'à la date à laquelle cette condition de taux est remplie ou que le nombre de jours d'absence prévu au titre de ces congés ne dépasse pas 2 % du nombre total des jours de travail effectués dans les douze mois précédant le départ en congé. Pour permettre le départ en congé d'un salarié, cette période de douze mois est prolongée dans la limite de quarante-huit mois.
+

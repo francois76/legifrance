@@ -1,0 +1,18 @@
+###### Article L34-16
+
+I.-Les opérateurs titulaires d'autorisations d'utilisation de fréquences pour établir et exploiter un réseau radioélectrique ouvert au public garantissent la continuité et la permanence des communications mobiles critiques à très haut débit destinées à des missions de sécurité et de secours, de protection des populations et de gestion des crises et des catastrophes entre les services de l'Etat, les collectivités territoriales ou leurs groupements, les services d'incendie et de secours, les services d'aide médicale urgente et tout autre organisme public ou privé chargé d'une mission de service public dans les domaines de la sécurité et du secours.
+
+Les opérateurs titulaires d'autorisations d'utilisation de fréquences pour établir et exploiter un réseau radioélectrique ouvert au public font droit aux demandes d'itinérance, sur leurs réseaux, de l'opérateur du réseau de communications électroniques des services de secours et de sécurité. Cette prestation fait l'objet d'une convention communiquée à l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse.
+
+La convention mentionnée au deuxième alinéa du présent I détermine les conditions techniques et tarifaires de fourniture de la prestation d'itinérance.
+
+Les différends relatifs aux conditions techniques et tarifaires de la convention mentionnée au présent I sont soumis à l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse, dans les conditions prévues à l'article L. 36-8.
+
+II.-En cas de congestion, afin de garantir l'acheminement des communications mobiles critiques à très haut débit, les opérateurs retenus dans le cadre du marché public visant à répondre aux besoins de l'opérateur de réseau de communications électroniques des services de secours et de sécurité font droit aux demandes d'accès prioritaires de celui-ci aux réseaux ouverts au public interconnectés fondées sur des impératifs de sécurité publique, conformément au règlement (UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l'accès à un internet ouvert et aux prix de détail pour les communications à l'intérieur de l'Union européenne réglementées et modifiant la directive 2002/22/ CE et le règlement (UE) n° 531/2012.
+
+III.-Un décret en Conseil d'Etat détermine les modalités de compensation des investissements identifiables et spécifiques mis en œuvre en application du I du présent article, à la demande de l'Etat, par les opérateurs titulaires d'autorisations d'utilisation de fréquences pour établir et exploiter un réseau radioélectrique ouvert au public, sauf dans les cas où ces prestations ont fait l'objet d'un marché public.
+
+IV.-L'opérateur mentionné au 15° ter de l'article L. 32 et le réseau de communications électroniques des services de secours et de sécurité mentionné au 2° ter du même article L. 32 sont soumis au respect des règles applicables à l'établissement et à l'exploitation des réseaux ouverts au public et à la fourniture au public de services de communications électroniques, à l'exception des règles prévues aux f, f bis, f ter, g, h, j, k, n, n bis, n ter et p du I et aux II, V et VI de l'article L. 33-1 et aux articles L. 33-7, L. 33-9, L. 33-12, L. 33-12-1, L. 34 et L. 35 à L. 35-7.
+
+V.-Le I, à l'exception du dernier alinéa, et le III du présent article ainsi que les définitions utiles à leur application prévues à l'article L. 32 sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur.
+

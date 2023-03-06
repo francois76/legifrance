@@ -1,0 +1,8 @@
+###### Article A343-5
+
+Les entreprises qui participent à des groupements de coassurance ou de coréassurance doivent établir, pour chacun de ces groupements, un document facilement accessible indiquant de manière détaillée le fonctionnement du groupement et le mode de traitement comptable des opérations effectuées par l'entreprise dans le cadre du groupement.
+
+L'entreprise doit être en mesure de justifier de toutes les écritures comptables relatives aux opérations effectuées dans le cadre du groupement, notamment du calcul des provisions.
+
+Toutefois, si le groupement s'engage, à l'égard de l'Autorité de contrôle prudentiel et de résolution et à l'égard de ses adhérents, à tenir sa comptabilité et à évaluer les provisions techniques conformément aux règles applicables aux entreprises d'assurance, et à se soumettre au contrôle de l'Autorité de contrôle prudentiel et de résolution, les chiffres transmis à l'entreprise par le groupement constituent une justification suffisante. L'Autorité de contrôle prudentiel et de résolution peut à tout moment retirer le bénéfice de cette disposition aux entreprises adhérentes à un groupement, notamment lorsque celui-ci n'a pas respecté ses engagements.
+

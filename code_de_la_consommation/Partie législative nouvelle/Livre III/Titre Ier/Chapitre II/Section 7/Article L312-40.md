@@ -1,0 +1,4 @@
+###### Article L312-40
+
+En cas de défaillance dans l'exécution par l'emprunteur d'un contrat de location assorti d'une promesse de vente ou d'un contrat de location-vente, le prêteur est en droit d'exiger, outre la restitution du bien et le paiement des loyers échus et non réglés, une indemnité qui, dépendant de la durée restant à courir du contrat et sans préjudice de l'application de l'article 1231-5 du code civil, est fixée suivant un barème déterminé par décret.
+

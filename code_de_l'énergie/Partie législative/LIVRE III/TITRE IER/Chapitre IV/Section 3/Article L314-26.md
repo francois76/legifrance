@@ -1,0 +1,4 @@
+###### Article L314-26
+
+Par exception à l'article L. 314-18, l'autorité administrative peut désigner, par une procédure transparente, un acheteur en dernier recours tenu de conclure un contrat d'achat de l'électricité produite par les installations bénéficiant d'un contrat de complément de rémunération au titre du même article L. 314-18 ou du 2° de l'article L. 311-12 avec tout producteur qui en fait la demande et qui justifie l'impossibilité de vendre son électricité. Ce contrat se substitue au contrat de complément de rémunération susmentionné. L'achat de cette électricité ne peut engendrer un niveau de rémunération supérieur à 80 % de la rémunération totale qui aurait été tirée de la vente de l'électricité produite sur le marché et du versement du complément de rémunération. Les modalités d'application du présent article sont définies par le décret mentionné à l'article L. 314-27.
+

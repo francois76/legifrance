@@ -1,0 +1,6 @@
+###### Article L5211-4-4
+
+I.-Lorsqu'un groupement de commandes est constitué entre des communes membres d'un même établissement public de coopération intercommunale à fiscalité propre ou entre ces communes et cet établissement public, les communes peuvent confier à titre gratuit à cet établissement public, par convention, si les statuts de l'établissement public le prévoient expressément, indépendamment des fonctions de coordonnateur du groupement de commandes et quelles que soient les compétences qui lui ont été transférées, la charge de mener tout ou partie de la procédure de passation ou de l'exécution d'un ou de plusieurs marchés publics au nom et pour le compte des membres du groupement.
+
+II.-Lorsqu'un groupement de commandes est constitué entre des communes situées sur le territoire de la métropole de Lyon ou entre ces communes et cette métropole, les communes peuvent confier à cette dernière, à titre gratuit, par convention, indépendamment des fonctions de coordonnateur du groupement de commandes et quelles que soient les compétences dont la métropole dispose, la charge de mener tout ou partie de la procédure de passation ou de l'exécution d'un ou de plusieurs marchés publics au nom et pour le compte des communes membres du groupement.
+

@@ -1,0 +1,18 @@
+###### Article L233-10
+
+I.-Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir, de céder ou d'exercer des droits de vote, pour mettre en œuvre une politique commune vis-à-vis de la société ou pour obtenir le contrôle de cette société.
+
+II.-Un tel accord est présumé exister :
+
+1° Entre une société, le président de son conseil d'administration et ses directeurs généraux ou les membres de son directoire ou ses gérants ;
+
+2° Entre une société et les sociétés qu'elle contrôle au sens de l'article L. 233-3 ;
+
+3° Entre des sociétés contrôlées par la même ou les mêmes personnes ;
+
+4° Entre les associés d'une société par actions simplifiée à l'égard des sociétés que celle-ci contrôle ;
+
+5° Entre le fiduciaire et le bénéficiaire d'un contrat de fiducie, si ce bénéficiaire est le constituant.
+
+III.-Les personnes agissant de concert sont tenues solidairement aux obligations qui leur sont faites par les lois et règlements.
+

@@ -1,0 +1,8 @@
+###### Article R6153-1-1
+
+Lorsqu'il a validé l'ensemble des connaissances et compétences nécessaires à la validation de la phase 2 de la spécialité suivie, soutenu avec succès la thèse mentionnée aux articles R. 632-23 et R. 634-17 du code de l'éducation respectivement pour les études de médecine et d'odontologie et obtenu le diplôme d'Etat de docteur en médecine, en pharmacie pour les étudiants inscrits en biologie médicale ou en pharmacie hospitalière ou en chirurgie dentaire pour les étudiants inscrits en chirurgie orale, l'étudiant de troisième cycle des études de médecine, de pharmacie inscrit en biologie médicale ou en pharmacie hospitalière ou d'odontologie inscrit en chirurgie orale, est nommé en qualité de docteur junior par le directeur général du centre hospitalier universitaire de rattachement mentionné à l'article R. 6153-9 du présent code.
+
+Dans les trois mois qui suivent sa nomination, le docteur junior demande à être inscrit, pour la durée de la phase 3 restant à accomplir, sur un tableau spécial établi et tenu à jour par le conseil départemental de l'ordre des médecins du département du centre hospitalier universitaire de rattachement, ou par le conseil national de l'ordre des pharmaciens pour les étudiants en pharmacie inscrits en biologie médicale et en pharmacie hospitalière, ou par le conseil national de l'ordre des chirurgiens-dentistes pour les étudiants en odontologie inscrits en chirurgie orale.
+
+Le docteur junior est affecté par le directeur général de l'agence régionale de santé dans les lieux de stage fixés au deuxième alinéa de l'article L. 632-5 du code de l'éducation.
+

@@ -1,0 +1,12 @@
+#### Article L821-5-1
+
+Tout paiement indu de prestations mentionnées au présent titre est, sous réserve des dispositions des quatrième à neuvième alinéas de l'article L. 133-4-1, récupéré sur l'allocation à venir ou par remboursement intégral de la dette en un seul versement si l'allocataire opte pour cette solution. A défaut, l'organisme payeur peut, dans des conditions fixées par décret, procéder à la récupération de l'indu par retenues sur les échéances à venir dues, soit au titre de l'allocation mentionnée à l'article L. 168-8, soit au titre des prestations familiales mentionnées à l'article L. 511-1, soit au titre de la prime d'activité mentionnée à l'article L. 841-1, soit au titre de l'aide personnalisée au logement ou des allocations de logement mentionnées à l'article L. 821-1, soit au titre du revenu de solidarité active mentionné à l'article L. 262-1 du code de l'action sociale et des familles.
+
+Par dérogation aux dispositions précédentes, lorsqu'un indu a été constitué sur une prestation versée en tiers payant, l'organisme peut, si d'autres prestations sont versées directement à l'allocataire, recouvrer l'indu sur ces prestations selon des modalités et des conditions précisées par décret.
+
+Les retenues mentionnées au premier alinéa sont déterminées en application des règles prévues au troisième alinéa de l'article L. 553-2 du présent code.
+
+Lorsque l'indu notifié ne peut être recouvré sur les prestations mentionnées au premier alinéa du présent article, la récupération peut être opérée, sous réserve des dispositions des quatrième à neuvième alinéas de l'article L. 133-4-1 et si l'assuré n'opte pas pour le remboursement en un seul versement, par retenue sur les prestations en espèces gérées par les organismes mentionnés à l'article L. 133-4-1 ou sur les prestations mentionnées aux titres IV et V du livre III et au titre Ier du présent livre, par l'organisme gestionnaire de ces prestations et avec son accord. Toutefois, suite à cet accord, le recouvrement ne peut être effectué que si l'assuré n'est débiteur d'aucun indu sur ces mêmes prestations. Ce recouvrement est opéré selon les modalités applicables aux prestations sur lesquelles les retenues sont effectuées. Un décret fixe les modalités d'application et le traitement comptable afférant à ces opérations.
+
+Les dispositions des quatrième à dernier alinéas de l'article L. 133-4-1 sont applicables au recouvrement des indus mentionnés au présent article.
+

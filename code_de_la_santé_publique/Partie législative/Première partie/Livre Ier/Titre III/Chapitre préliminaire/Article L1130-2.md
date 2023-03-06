@@ -1,0 +1,4 @@
+###### Article L1130-2
+
+L'examen des caractéristiques génétiques somatiques consiste à rechercher et à analyser les caractéristiques génétiques dont le caractère hérité ou transmissible est en première intention inconnu. Lorsque les résultats des examens des caractéristiques génétiques somatiques sont susceptibles de révéler des caractéristiques mentionnées à l'article L. 1130-1 ou rendent nécessaire la réalisation d'examens mentionnés au même article, la personne est invitée à se rendre à une consultation chez un médecin qualifié en génétique pour une prise en charge réalisée dans les conditions fixées au chapitre Ier du présent titre. La personne est informée de la possibilité d'une telle orientation avant la réalisation d'un examen destiné à analyser ses caractéristiques génétiques somatiques et susceptible de révéler des caractéristiques génétiques constitutionnelles.
+

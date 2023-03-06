@@ -1,0 +1,4 @@
+###### Article L218-81
+
+Les autorités françaises exercent dans la zone économique exclusive, dans une zone de protection écologique ou sur le plateau continental, les compétences reconnues par le droit international, relatives à la construction, la mise en place, l'exploitation et l'utilisation d'îles artificielles, d'installations ou d'ouvrages, à la protection et la préservation du milieu marin, à la recherche scientifique marine, et à l'agrément du tracé de tout pipeline, et du tracé des câbles installés ou utilisés dans le cadre de l'exploration de son plateau continental ou de l'exploitation de ses ressources, dans les conditions prévues aux articles 12 à 15 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française.
+

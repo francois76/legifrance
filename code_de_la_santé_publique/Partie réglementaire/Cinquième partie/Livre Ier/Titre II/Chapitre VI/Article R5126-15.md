@@ -1,0 +1,4 @@
+###### Article R5126-15
+
+Les locaux sont installés et équipés de façon à assurer la bonne conservation, le suivi et, s'il y a lieu, le retrait des médicaments, produits ou objets mentionnés aux articles L. 4211-1 et L. 5137-2 ainsi que des dispositifs médicaux stériles détenus à la pharmacie, de même que leur sécurité et celle du personnel concerné.
+

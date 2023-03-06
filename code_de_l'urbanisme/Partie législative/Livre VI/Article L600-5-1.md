@@ -1,0 +1,4 @@
+### Article L600-5-1
+
+Sans préjudice de la mise en œuvre de l'article L. 600-5, le juge administratif qui, saisi de conclusions dirigées contre un permis de construire, de démolir ou d'aménager ou contre une décision de non-opposition à déclaration préalable estime, après avoir constaté que les autres moyens ne sont pas fondés, qu'un vice entraînant l'illégalité de cet acte est susceptible d'être régularisé, sursoit à statuer, après avoir invité les parties à présenter leurs observations, jusqu'à l'expiration du délai qu'il fixe pour cette régularisation, même après l'achèvement des travaux. Si une mesure de régularisation est notifiée dans ce délai au juge, celui-ci statue après avoir invité les parties à présenter leurs observations. Le refus par le juge de faire droit à une demande de sursis à statuer est motivé.
+

@@ -1,0 +1,6 @@
+###### Article R361-50
+
+Pour l'application de l'article L. 361-3, les fonds de mutualisation sont créés et gérés par une personne morale à but non lucratif ayant pour objet de contribuer à l'indemnisation des pertes économiques subies par les agriculteurs en raison d'une maladie animale ou d'organismes nuisibles aux végétaux ou d'un incident environnemental et, le cas échéant, de participer à la collecte et à la gestion des fonds versés aux réseaux sanitaires reconnus en application de l'article L. 201-10.
+
+Les fonds de mutualisation exercent leur activité soit sur l'ensemble des parties du territoire national dans lesquelles la politique agricole commune est applicable, soit sur l'ensemble du territoire métropolitain, soit sur l'ensemble formé par la Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte et Saint-Martin. Dans tous les cas, ils sont compétents pour l'ensemble des activités agricoles au sens du point c du paragraphe 1 de l'article 4 du règlement (UE) n° 1307/2013 du Parlement européen et du Conseil du 17 décembre 2013 établissant les règles relatives aux paiements directs en faveur des agriculteurs au titre des régimes de soutien relevant de la politique agricole commune.
+

@@ -1,0 +1,4 @@
+###### Article R724-7
+
+Les dispositions de l'article R. 114-18 du code de la sécurité sociale, à l'exception du III de cet article, sont applicables aux contrôles effectués en application de l'article L. 724-7 du présent code auprès des bénéficiaires de prestations, assurés sociaux et ayants droit mentionnés à l'article L. 724-11. Les prestations et aides pouvant donner lieu aux contrôles sont celles servies au titre des différentes branches des régimes de protection sociale des non-salariés et des salariés agricoles mentionnées aux articles L. 722-8 et L. 722-27, du régime d'assurance vieillesse complémentaire obligatoire prévu à l'article L. 732-56, de la protection complémentaire en matière de santé, de l'aide au paiement d'une assurance complémentaire de santé ou de l'action sanitaire et sociale prévue au chapitre VI du présent titre.
+

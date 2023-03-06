@@ -1,0 +1,32 @@
+###### Article L1618-2
+
+I. – Les collectivités territoriales et les établissements publics entrant dans le champ défini à l'article L. 1618-1 peuvent déroger à l'obligation de dépôt auprès de l'Etat pour les fonds qui proviennent :
+
+1° De libéralités ;
+
+2° De l'aliénation d'un élément de leur patrimoine ;
+
+3° D'emprunts dont l'emploi est différé pour des raisons indépendantes de la volonté de la collectivité ou de l'établissement public ;
+
+4° De recettes exceptionnelles dont la liste est fixée par décret en Conseil d'Etat.
+
+II. – Les fonds dont l'origine est mentionnée au I ne peuvent être placés qu'en titres émis ou garantis par les Etats membres de la Communauté européenne ou les autres Etats parties à l'accord sur l'Espace économique européen, ou en parts ou actions d'organismes de placement collectif en valeurs mobilières ou de placements collectifs relevant des paragraphes 1,2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier gérant exclusivement des titres émis ou garantis par les Etats membres de la Communauté européenne ou les autres Etats parties à l'accord sur l'Espace économique européen, libellés en euros.
+
+Les collectivités territoriales et leurs établissements publics peuvent aussi déposer ces fonds sur un compte à terme ouvert auprès de l'Etat.
+
+Ils peuvent détenir des valeurs mobilières autres que celles mentionnées au premier alinéa lorsque celles-ci proviennent de libéralités. Ils sont autorisés à les conserver jusqu'à leur réalisation ou leur échéance.
+
+Les valeurs mobilières détenues par les collectivités territoriales et leurs établissements publics sont déposées exclusivement auprès de l'Etat.
+
+III. – Les décisions de déroger à l'obligation de dépôt des fonds auprès de l'Etat, en application des I et II, relèvent de la compétence de l'organe délibérant. Toutefois, l'exécutif de la collectivité territoriale ou de l'établissement public local peut bénéficier d'une délégation dans les conditions prévues aux articles L. 1424-30, L. 2122-22, L. 3211-2 et L. 4221-5.
+
+IV. – Les collectivités territoriales et leurs établissements publics peuvent, sur autorisation du ministre chargé du budget, déposer les fonds de leurs régies de recettes, d'avances et de recettes et d'avances sur un compte ouvert à La Poste ou dans un établissement de crédit ayant obtenu un agrément en vertu des dispositions applicables dans les Etats membres de la Communauté européenne ou les autres Etats parties à l'accord sur l'Espace économique européen.
+
+V. – Les collectivités territoriales, les syndicats intercommunaux de gestion forestière, les syndicats mixtes de gestion forestière, les groupements syndicaux forestiers et les sections de communes peuvent déposer des ressources de ventes de bois ou d'autres produits de leurs forêts sur un compte individualisé ouvert dans le Fonds d'épargne forestière créé en vertu du VI de l'article 9 de la loi n° 2001-602 du 9 juillet 2001 d'orientation sur la forêt.
+
+VI.-Par dérogation aux I et II du présent article, les entités de rattachement des offices publics de l'habitat mentionnées aux articles L. 421-6 et L. 421-6-1 du code de la construction et de l'habitation et les entités actionnaires de référence des sociétés anonymes d'habitations à loyer modéré mentionnées à l'article L. 422-2-1 du même code ainsi que toute entité associée d'un collège disposant d'au moins 30 % des droits de vote en assemblée générale d'une société anonyme coopérative d'habitations à loyer modéré mentionnée aux articles L. 422-3 et L. 422-3-2 dudit code, peuvent déroger à l'obligation de dépôt auprès de l'Etat, quelle que soit la nature ou l'origine des fonds, pour souscrire des titres participatifs émis par ces organismes en application de l'article L. 213-32 du code monétaire et financier.
+
+Les membres des syndicats mixtes mentionnés à l'article L. 421-6 du code de la construction et de l'habitation peuvent également, dans les mêmes conditions, souscrire aux titres participatifs émis par les offices qui sont rattachés à ces syndicats.
+
+Par dérogation à l'article L. 228-36 du code de commerce, la rémunération annuelle fixe et variable des titres souscrits par les entités mentionnées aux premier et deuxième alinéas du présent IV ne peut être supérieure au montant nominal de l'émission multiplié par le taux d'intérêt servi au détenteur d'un premier livret d'une caisse d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point.
+

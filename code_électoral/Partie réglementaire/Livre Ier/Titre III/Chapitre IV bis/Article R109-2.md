@@ -1,0 +1,26 @@
+##### Article R109-2
+
+A la déclaration de candidature, il est joint pour chaque membre du binôme de candidats et son remplaçant :
+
+I.-Une attestation d'inscription sur une liste électorale comportant nom, prénoms, date de naissance, sexe et lieu de vote de l'intéressé, délivrée par le maire de la commune d'inscription ou générée par la télé-procédure mentionnée à l'article 5 du décret n° 2018-343 du 9 mai 2018 dans les trente jours précédant le dépôt de la candidature, ou une copie de la décision de justice ordonnant l'inscription de l'intéressé, ou, à défaut, un certificat de nationalité, le passeport ou la carte nationale d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois.
+
+II.-Si l'intéressé n'est pas domicilié dans le département ou que les pièces mentionnées au I n'établissent pas son domicile dans le département :
+
+a) Soit un avis d'imposition ou un extrait de rôle, qui établissent que l'intéressé est inscrit au rôle des contributions directes d'une commune du département au 1er janvier de l'année de l'élection ;
+
+b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection, propriétaire d'un immeuble dans le département ou d'un acte enregistré au cours de la même année établissant que l'intéressé est devenu locataire d'un immeuble dans le département ;
+
+c) Soit une attestation notariée établissant que l'intéressé est devenu propriétaire par voie successorale d'une propriété foncière dans le département depuis le 1er janvier de l'année de l'élection ;
+
+d) Soit une attestation du directeur départemental ou, le cas échéant régional des finances publiques établissant que l'intéressé, au vu notamment des rôles de l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de sa situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes dans le département au 1er janvier de l'année de l'élection.
+
+III.-La déclaration de candidature est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de l'article R. 99.
+
+En cas de second tour, les membres du binôme de candidat sont dispensés de produire à nouveau l'acceptation de leurs remplaçants et les pièces prévues au présent article, fournies à l'occasion du premier tour.
+
+Un récépissé attestant de l'enregistrement de la candidature est délivré dans les quatre jours du dépôt de la déclaration, si celle-ci est conforme aux prescriptions en vigueur. En cas de second tour, ce récépissé est délivré immédiatement après le dépôt de la déclaration de candidature.
+
+La liste des binômes de candidats dont la déclaration de candidature a été définitivement enregistrée et de leurs remplaçants est arrêtée et publiée par le préfet, au plus tard le quatrième jour suivant la date limite de dépôt des candidatures.
+
+La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité d'un membre du binôme ou de son remplaçant puisse être contestée devant le juge de l'élection.
+

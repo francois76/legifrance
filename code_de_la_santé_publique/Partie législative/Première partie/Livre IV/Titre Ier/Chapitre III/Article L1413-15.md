@@ -1,0 +1,4 @@
+###### Article L1413-15
+
+Les services de l'Etat et les collectivités territoriales, leurs établissements publics, les établissements de santé publics et privés, le service de santé des armées, les établissements et services sociaux et médico-sociaux, les services de secours ainsi que tout professionnel de santé sont tenus de signaler sans délai au directeur général de l'agence régionale de santé les menaces imminentes pour la santé de la population dont ils ont connaissance ainsi que les situations dans lesquelles une présomption sérieuse de menace sanitaire grave leur paraît constituée. Le directeur général de l'agence porte immédiatement ce signalement à la connaissance de l' Agence nationale de santé publique et au représentant de l'Etat dans le département.
+

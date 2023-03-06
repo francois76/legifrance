@@ -1,0 +1,6 @@
+###### Article L162-2-3
+
+Dans le cadre des actions de prévention ou participant à la pertinence de soins identifiés, mises en œuvre dans le cadre des missions mentionnées au 3° de l'article L. 221-1 et aux III bis et IV de l'article L. 315-1, l'assurance maladie peut transmettre aux médecins et aux pharmaciens certaines données personnelles des patients traités par ces professionnels, sauf opposition des patients dûment informés par ces professionnels ou par l'assurance maladie, dans le respect des dispositions du chapitre IX de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Les informations transmises ont un lien direct avec l'objet des actions mentionnées au premier alinéa du présent article et sont nécessaires à une meilleure prise en charge du patient, en termes de qualité ou de pertinence. Elles peuvent comprendre des données administratives relatives aux patients, des données liées au remboursement par l'assurance maladie ou encore des données à caractère médical dont dispose l'assurance maladie. L'information peut être transmise aux professionnels à l'aide de services dématérialisés par l'assurance maladie, directement par ses agents dûment habilités, ou à l'aide du système d'information prévu à l'article L. 6113-7 du code de la santé publique.
+

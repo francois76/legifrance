@@ -1,0 +1,8 @@
+###### Article R555-23
+
+I. – Les canalisations existantes à la date de publication du décret n° 2012-615 du 2 mai 2012 relevant des dispositions du II de l'article L. 555-14 peuvent continuer de fonctionner sans l'autorisation prévue à l'article R. 555-2 à condition que le transporteur se fasse connaître du préfet dans les douze mois suivant cette même date. Il lui adresse dans les mêmes délais un dossier comprenant les pièces prévues aux 1° et 3° à 5° de l'article R. 555-8, le plan de sécurité et d'intervention défini à l'article R. 554-47 et le programme de surveillance et de maintenance défini à l'article R. 554-48. Ces canalisations sont soumises aux actions de renforcement de la sécurité et de la protection de l'environnement applicables aux canalisations existantes prescrites par un arrêté pris en application de l'article R. 554-43 et, le cas échéant, aux prescriptions nécessaires pour assurer la protection des intérêts mentionnés à l'article L. 554-5 fixées par un arrêté pris dans les formes prévues par l'article R. 555-22.
+
+II. – L'arrêté visé au I ci-dessus pris dans les formes prévues par l'article R. 555-22 comprend notamment les largeurs des bandes définies au b de l'article R. 555-30.
+
+III.-Pour toute canalisation mentionnée aux articles L. 153-8 et L. 153-15 du code minier, implantée à l'extérieur du périmètre défini par le titre minier, et existante au 1er janvier 2018, les dispositions du I s'appliquent en remplaçant la date à partir de laquelle est compté le délai maximal de 12 mois par le 1er janvier 2018. Toutefois, lorsque la canalisation concernée n'était pas soumise à étude de dangers dans son régime antérieur, le délai de fourniture de l'étude de dangers et du plan de sécurité et d'intervention est porté à 3 ans.
+

@@ -1,0 +1,18 @@
+###### Article D331-12
+
+Les subventions ou prêts prévus à l'article D. 331-1 sont attribués pour des logements destinés à être occupés par des personnes dont l'ensemble des ressources, à la date d'entrée dans les lieux, est au plus égal à un montant déterminé par un arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances. Toutefois, pour les logements mentionnés au II de l'article D. 331-1, le plafond de ressources à l'entrée dans les lieux ne peut excéder 60 % du montant déterminé par l'arrêté précité, sauf dérogation accordée par le représentant de l'Etat dans le département. Ce plafond est fixé par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances.
+
+Pour les opérations financées dans les conditions de l'article D. 331-14 autres que celles prévues au II de l'article D. 331-1 :
+
+I.-30 % au moins des logements sont obligatoirement attribués à des personnes dont l'ensemble des ressources est inférieur ou égal à 60 % du montant déterminé par l'arrêté précité ; toutefois, cette obligation n'est pas applicable aux opérations comportant un seul logement et, pour les autres opérations comportant moins de 10 logements, le nombre minimal de logements obligatoirement attribués à ces personnes s'obtient en arrondissant à l'unité la plus proche le résultat de l'application du pourcentage de 30 % ;
+
+II.-10 % au plus des logements des opérations ainsi financées par un même maître d'ouvrage peuvent être attribués à des personnes dont l'ensemble des ressources est supérieur de 20 % au plus au montant déterminé par l'arrêté précité ; pour les opérations comportant moins de 10 logements, le nombre de logements susceptible d'être attribués à ces personnes s'obtient en arrondissant à l'unité la plus proche le résultat de l'application du pourcentage de 10 %.
+
+Pour les opérations ne bénéficiant pas de subventions prévues à l'article R. 331-15 et réalisées par les maîtres d'ouvrage mentionnés aux 1° et 2° de l'article D. 331-14 à l'aide de prêts mentionnés audit article, le représentant de l'Etat dans le département peut accorder une dérogation aux plafonds de ressources prévus à la première phrase du présent article dans les conditions fixées par l'arrêté précité. La dérogation est inscrite dans la convention conclue entre l'Etat et le bailleur en application de l'article L. 831-1.
+
+Les bailleurs doivent être en mesure de justifier du respect des règles découlant du présent article.
+
+Les modalités de détermination et de contrôle des ressources sont également fixées par l'arrêté précité.
+
+Les dispositions prévues à la deuxième phrase du premier alinéa et aux alinéas suivants du présent article ne s'appliquent pas aux logements dont le loyer est fixé en application des dispositions du 5° de l'article D. 353-16 et de celles de l'article D. 353-70-1.
+

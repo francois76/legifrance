@@ -1,0 +1,6 @@
+###### Article L5421-3
+
+La condition de recherche d'emploi requise pour bénéficier d'un revenu de remplacement est satisfaite dès lors que les intéressés sont inscrits comme demandeurs d'emploi et accomplissent, à leur initiative ou sur proposition de l'un des organismes mentionnés à l'article L. 5311-2, des actes positifs et répétés en vue de retrouver un emploi, de créer, reprendre ou développer une entreprise.
+
+Un décret en Conseil d'Etat détermine les mesures d'application du présent article.
+

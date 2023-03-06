@@ -1,0 +1,10 @@
+###### Article L8221-3
+
+Est réputé travail dissimulé par dissimulation d'activité, l'exercice à but lucratif d'une activité de production, de transformation, de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne qui, se soustrayant intentionnellement à ses obligations :
+
+1° Soit n'a pas demandé son immatriculation au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat ou au registre du commerce et des sociétés, lorsque celle-ci est obligatoire, ou a poursuivi son activité après refus d'immatriculation, ou postérieurement à une radiation ;
+
+2° Soit n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale en vertu des dispositions légales en vigueur. Cette situation peut notamment résulter de la non-déclaration d'une partie de son chiffre d'affaires ou de ses revenus ou de la continuation d'activité après avoir été radié par les organismes de protection sociale en application de l'article L. 613-4 du code de la sécurité sociale ;
+
+3° Soit s'est prévalue des dispositions applicables au détachement de salariés lorsque l'employeur de ces derniers exerce dans l'Etat sur le territoire duquel il est établi des activités relevant uniquement de la gestion interne ou administrative, ou lorsque son activité est réalisée sur le territoire national de façon habituelle, stable et continue.
+

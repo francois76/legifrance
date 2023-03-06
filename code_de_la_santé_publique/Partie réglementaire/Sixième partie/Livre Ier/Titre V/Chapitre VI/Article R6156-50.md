@@ -1,0 +1,14 @@
+###### Article R6156-50
+
+Lorsque l'administration constate que la liste ne satisfait pas aux conditions fixées à l'article L. 6156-3, elle remet au délégué de liste une décision motivée déclarant l'irrecevabilité de la liste. Cette décision est remise par tout moyen conférant date certaine et au plus tard le jour suivant la date limite de dépôt des listes de candidatures.
+
+Si, dans un délai de trois jours suivant la date limite de dépôt des listes, un ou plusieurs candidats inscrits sur une liste sont reconnus inéligibles, l'administration informe sans délai le délégué de liste. Celui-ci peut alors transmettre, dans un délai de trois jours à compter de l'expiration du délai de trois jours susmentionné, les rectifications nécessaires. Chaque candidat inéligible est remplacé par un candidat désigné dans le respect des conditions fixées au troisième alinéa de l'article R. 6156-48. A défaut de rectification, la liste est considérée comme n'ayant présenté aucun candidat dans la section correspondante.
+
+Lorsque le tribunal administratif est saisi d'une contestation de la décision d'irrecevabilité, en application du dernier alinéa du I de l'article 9 bis de la loi du 13 juillet 1983 précitée, le délai de rectification de trois jours prévu à l'alinéa précédent ne court qu'à compter de la notification du jugement.
+
+Si le fait motivant l'inéligibilité est intervenu après la date de limite de dépôt des listes, le candidat défaillant peut être également remplacé, sans qu'il y ait lieu de modifier la date des élections.
+
+Aucun autre retrait de candidature ne peut être opéré après le dépôt des listes de candidature.
+
+Les listes établies dans les conditions fixées par les articles R. 6156-48 et R. 6156-49 sont mises en ligne sans délai sur le site internet du Centre national de gestion et, en tout état de cause, avant l'envoi du matériel électoral aux électeurs. Le directeur général du Centre national de gestion prend les mesures nécessaires pour que la page internet soit protégée de toute indexation par les moteurs de recherche.
+

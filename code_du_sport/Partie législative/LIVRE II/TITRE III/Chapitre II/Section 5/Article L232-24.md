@@ -1,0 +1,4 @@
+###### Article L232-24
+
+Les parties intéressées, telles que l'intéressé, le président de l'Agence française de lutte contre le dopage, la fédération internationale compétente, l'agence mondiale antidopage et le cas échéant, l'organisation nationale antidopage du pays où réside l'intéressé, dont il est ressortissant ou dans lequel il détient une licence sportive, le comité international olympique ou le comité international paralympique lorsque la décision peut avoir un effet en rapport avec les Jeux olympiques ou paralympiques, notamment les décisions affectant la possibilité d'y participer, peuvent former un recours de pleine juridiction contre les décisions du collège et de la commission des sanctions de l'Agence française de lutte contre le dopage prises en application des articles L. 232-21-1 à L. 232-23-6 à l'exclusion des actes pris en application du 16° du I de l'article L. 232-5 et des accords conclus en application du IV de l'article L. 232-23-3-10.
+

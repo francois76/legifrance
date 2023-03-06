@@ -1,0 +1,4 @@
+###### Article R112-17
+
+Lorsqu'une administration souhaite recourir à un procédé électronique, prévu au deuxième alinéa de l'article L. 112-15 et ne relevant pas de l'article L. 100 du code des postes et des communications électroniques, elle informe les personnes intéressées, dont il lui appartient de recueillir l'accord exprès, des caractéristiques du procédé utilisé, conforme aux règles fixées par le référentiel général de sécurité prévu à l'article 9 de l'ordonnance du 8 décembre 2005 précitée, ainsi que des conditions de mise à disposition du document notifié, de garantie de l'identité de son destinataire et de prise de connaissance par ce dernier. Elle leur indique également les modalités de mise à jour des coordonnées et le délai de préavis prévu à l'article R. 112-18 ainsi que le délai, fixé à l'article R. 112-20, au terme duquel, faute de consultation du document par le destinataire, celui-ci est réputé lui avoir été remis.
+

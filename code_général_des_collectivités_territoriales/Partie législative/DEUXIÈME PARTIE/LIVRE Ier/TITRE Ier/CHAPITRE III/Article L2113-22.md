@@ -1,0 +1,14 @@
+###### Article L2113-22
+
+Les communes nouvelles sont éligibles aux dotations de péréquation communale dans les conditions de droit commun, sous réserve de l'article L. 2334-22-2.
+
+Les communes nouvelles qui ont bénéficié des dispositions du deuxième alinéa du présent article dans sa rédaction résultant de la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales et antérieure à la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018 perçoivent en 2020, 2021 et 2022 des attributions au titre des trois fractions de la dotation de solidarité rurale au moins égales aux attributions perçues en 2019 au titre de chacune de ces trois fractions.
+
+Au cours des trois années suivant le 1er janvier de l'année de leur création, les communes nouvelles dont l'arrêté de création a été pris entre le 2 janvier 2019 et le 1er janvier 2020 et regroupant une population inférieure ou égale à 150 000 habitants perçoivent des attributions au titre des deux parts de la dotation nationale de péréquation, de la dotation de solidarité urbaine et de cohésion sociale et des trois fractions de la dotation de solidarité rurale au moins égales aux attributions perçues au titre de chacune de ces dotations par les anciennes communes l'année précédant la création de la commune nouvelle.
+
+Au cours des trois années suivant leur création, les communes nouvelles dont l'arrêté de création a été pris à compter du prochain renouvellement général des conseils municipaux suivant la promulgation de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020 et regroupant une population inférieure ou égale à 150 000 habitants perçoivent des attributions au titre des deux parts de la dotation nationale de péréquation, de la dotation de solidarité urbaine et de cohésion sociale et des trois fractions de la dotation de solidarité rurale au moins égales aux attributions perçues au titre de chacune de ces dotations par les anciennes communes l'année précédant la création de la commune nouvelle.
+
+Au cours des trois années suivant leur création, les communes nouvelles des départements d'outre-mer dont l'arrêté de création a été pris à compter du 2 janvier 2021 et qui regroupent une population inférieure ou égale à 150 000 habitants perçoivent une attribution au titre de la somme des dotations mentionnées aux II et III de l'article L. 2334-23-1 au moins égale aux attributions perçues par les anciennes communes l'année précédant la création de la commune nouvelle au titre de la somme de ces deux dotations. Le cas échéant, l'ajustement est opéré dans les conditions prévues à la seconde phrase de l'avant-dernier alinéa de l'article L. 2334-23-2.
+
+Pour l'application des plafonnements prévus aux articles L. 2334-14-1, L. 2334-21 et L. 2334-22, le montant perçu l'année précédant la création de la commune nouvelle correspond à la somme des attributions perçues par les anciennes communes.
+

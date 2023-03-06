@@ -1,0 +1,4 @@
+###### Article R343-4
+
+Les provisions techniques mentionnées au 1° de l'article R. 343-1, correspondant aux opérations mentionnées aux articles L. 143-1 du présent code, L. 222-3 du code de la mutualité ou L. 932-40 du code de la sécurité sociale, sont évaluées chaque année par un actuaire et revues par la fonction actuarielle qui vérifie que les provisions respectent les dispositions du présent code qui sont applicables à celles-ci, qu'elles sont constituées de façon suffisamment prudente, en tenant compte, le cas échéant, d'une marge adéquate pour les écarts défavorables, et que les méthodes et les bases de calcul de ces provisions techniques restent de façon générale constantes d'un exercice à l'autre. Une modification de ces méthodes peut toutefois être justifiée, dans le respect des dispositions du présent code, par un changement des données juridiques, démographiques ou économiques sur lesquelles se fondent ces hypothèses.
+

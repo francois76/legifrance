@@ -1,0 +1,4 @@
+###### Article L225-145
+
+Pour les sociétés procédant, pour le placement de leurs actions, à une offre au public autre que l'une de celles mentionnées au 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code, l'augmentation de capital est réputée réalisée lorsqu'un ou plusieurs prestataires de services d'investissement autres que des sociétés de gestion de portefeuille agréés pour fournir le service d'investissement mentionné au 6° de l'article L. 321-1 du code monétaire et financier, ou personnes mentionnées à l'article L. 532-18 de ce code et autorisées à fournir le même service sur le territoire de leur Etat d'origine, ont garanti de manière irrévocable sa bonne fin. Le versement de la fraction libérée de la valeur nominale et de la totalité de la prime d'émission doit intervenir au plus tard le trente-cinquième jour qui suit la clôture du délai de souscription.
+

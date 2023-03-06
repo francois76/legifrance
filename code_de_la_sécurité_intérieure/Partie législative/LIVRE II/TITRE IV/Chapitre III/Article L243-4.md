@@ -1,0 +1,6 @@
+##### Article L243-4
+
+Hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, les enregistrements comportant des données à caractère personnel sont conservés sous la responsabilité du chef du service dont relève le dispositif embarqué, pendant une durée maximale de sept jours à compter de la fin du déploiement du dispositif, sans que nul ne puisse y avoir accès, sauf pour les besoins d'un signalement dans ce délai à l'autorité judiciaire, sur le fondement de l'article 40 du code de procédure pénale.
+
+Les caméras embarquées sont employées de telle sorte qu'elles ne visent pas à recueillir les images de l'intérieur des domiciles ni, de façon spécifique, celles de leurs entrées. Lorsque l'emploi de ces caméras conduit à visualiser de tels lieux, l'enregistrement est immédiatement interrompu. Toutefois, lorsqu'une telle interruption n'a pu avoir lieu compte tenu des circonstances de l'intervention, les images enregistrées sont supprimées dans un délai de quarante-huit heures à compter de la fin du déploiement du dispositif, sauf transmission dans ce délai dans le cadre d'un signalement à l'autorité judiciaire, sur le fondement du même article 40.
+

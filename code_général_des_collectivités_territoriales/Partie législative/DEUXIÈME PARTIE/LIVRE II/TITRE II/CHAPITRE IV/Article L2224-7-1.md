@@ -1,0 +1,10 @@
+###### Article L2224-7-1
+
+Les communes sont compétentes en matière de distribution d'eau potable. Dans ce cadre, elles arrêtent un schéma de distribution d'eau potable déterminant les zones desservies par le réseau de distribution. Elles peuvent également assurer la production d'eau potable, ainsi que son transport et son stockage. Toutefois, les compétences en matière d'eau potable assurées à la date du 31 décembre 2006 par des départements ou des associations syndicales créées avant cette date ne peuvent être exercées par les communes sans l'accord des personnes concernées.
+
+Le schéma mentionné au premier alinéa comprend un descriptif détaillé et un diagnostic des ouvrages et équipements nécessaires à la distribution d'eau potable et, le cas échéant, à sa production, à son transport et à son stockage. Il comprend également un programme d'actions chiffrées et hiérarchisées visant à améliorer l'état et le fonctionnement de ces ouvrages et équipements. Ce schéma tient compte de l'évolution de la population et des ressources en eau disponibles. Lorsque le taux de perte en eau du réseau s'avère supérieur à un taux fixé par décret selon les caractéristiques du service et de la ressource, ce schéma est complété, avant la fin du second exercice suivant l'exercice pour lequel le dépassement a été constaté, par un plan d'actions comprenant, s'il y a lieu, un projet de programme pluriannuel de travaux d'amélioration du réseau.
+
+Le schéma de distribution d'eau potable est établi au plus tard le 31 décembre 2024 ou dans les deux années suivant la prise de compétence à titre obligatoire par la communauté de communes, si cette prise de compétence intervient après le 1er janvier 2023. Il est mis à jour selon une périodicité fixée par décret afin de prendre en compte l'évolution du taux de perte visé à l'alinéa précédent ainsi que les travaux réalisés sur ces ouvrages.
+
+Les schémas mentionnés au premier alinéa définissent des zones dans lesquelles il est pertinent d'installer des fontaines d'eau potable ou d'autres équipements nécessaires à la mise en œuvre des solutions mentionnées au 2° de l'article L. 2224-7-3.
+

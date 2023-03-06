@@ -1,0 +1,4 @@
+###### Article 54-15
+
+Lorsque les manquements ou changements de circonstance mentionnés à l'article R. 54-14 sont liés à des vulnérabilités permettant d'usurper ou d'altérer l'identité des utilisateurs du moyen d'identification électronique, connues publiquement ou dont l'exploitation, suspectée ou avérée, entraîne des conséquences graves pour l'utilisateur ou les fournisseurs de services, le directeur général de l'Agence nationale de la sécurité des systèmes d'information peut suspendre la certification du moyen d'identification électronique concerné. Cette suspension est prononcée jusqu'à l'intervention d'une décision d'abrogation de la certification ou de levée de la suspension prise par le directeur général de l'Agence nationale de la sécurité des systèmes d'information, dans un délai qui ne peut excéder cinq mois, dans les conditions prévues à l'article R. 54-14.
+

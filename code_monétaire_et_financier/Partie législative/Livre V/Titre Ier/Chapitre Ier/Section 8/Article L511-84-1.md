@@ -1,0 +1,4 @@
+###### Article L511-84-1
+
+Pour l'application des articles L. 1226-15, L. 1234-9, L. 1235-3, L. 1235-3-1, L. 1235-11 et L. 1235-16 du code du travail, la détermination de l'indemnité à la charge de l'employeur ne prend pas en compte, pour les preneurs de risques au sens des articles 3 et 4 du règlement délégué (UE) n° 604/2014 de la Commission du 4 mars 2014 complétant la directive 2013/36/ UE du Parlement européen et du Conseil par des normes techniques de réglementation en ce qui concerne les critères qualitatifs et quantitatifs appropriés permettant de recenser les catégories de personnel dont les activités professionnelles ont une incidence significative sur le profil de risque d'un établissement, la partie de la part variable de la rémunération dont le versement peut être réduit ou donner lieu à restitution en application de l'article L. 511-84 du présent code.
+

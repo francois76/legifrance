@@ -1,0 +1,10 @@
+###### Article R229-52
+
+Pour la réalisation du diagnostic et l'élaboration des objectifs du plan climat-air-énergie territorial, les émissions de gaz à effet de serre et de polluants atmosphériques sont comptabilisées selon une méthode prenant en compte les émissions directes produites sur l'ensemble du territoire par tous les secteurs d'activités, en distinguant les contributions respectives de ces différents secteurs.
+
+Pour les gaz à effet de serre, sont soustraites de ces émissions directes les émissions liées aux installations de production d'électricité, de chaleur et de froid du territoire et sont ajoutées, pour chacun des secteurs d'activité, les émissions liées à la production nationale d'électricité et à la production de chaleur et de froid des réseaux considérés, à proportion de leur consommation finale d'électricité, de chaleur et de froid. L'ensemble du diagnostic et des objectifs portant sur les émissions de gaz à effet de serre est quantifié selon cette méthode.
+
+En complément, certains éléments du diagnostic ou des objectifs portant sur les gaz à effet de serre peuvent faire l'objet d'une seconde quantification sur la base d'une méthode incluant non seulement l'ajustement des émissions mentionné à l'alinéa précédent mais prenant encore plus largement en compte des effets indirects, y compris lorsque ces effets indirects n'interviennent pas sur le territoire considéré ou qu'ils ne sont pas immédiats. Il peut, notamment, s'agir des émissions associées à la fabrication des produits achetés par les acteurs du territoire ou à l'utilisation des produits vendus par les acteurs du territoire, ainsi que de la demande en transport induite par les activités du territoire. Lorsque des éléments du diagnostic ou des objectifs font l'objet d'une telle quantification complémentaire, la méthode correspondante est explicitée et la présentation permet d'identifier aisément à quelle méthode se réfère chacun des chiffres cités.
+
+Le ministre chargé de l'environnement précise par arrêté la liste des polluants atmosphériques pris en compte, la décomposition en secteurs d'activité et les unités à utiliser.
+

@@ -1,0 +1,4 @@
+###### Article L532-6
+
+La Cour nationale du droit d'asile statue en formation collégiale, dans un délai de cinq mois à compter de sa saisine. Toutefois, sans préjudice de l'application de l'article L. 532-8, lorsque la décision de l'Office français de protection des réfugiés et apatrides a été prise selon la procédure accélérée, en application des articles L. 531-24, L. 531-26 ou L. 531-27, ou constitue une décision d'irrecevabilité prise en application de l'article L. 531-32, le président de la cour ou le président de formation de jugement qu'il désigne à cette fin statue dans un délai de cinq semaines à compter de sa saisine. Il en est de même lorsque l'office prend une décision mettant fin au statut de réfugié en application de l'article L. 511-7 ou au bénéfice de la protection subsidiaire en application des 1° ou 3° de l'article L. 512-3 pour le motif prévu au 4° de l'article L. 512-2.
+

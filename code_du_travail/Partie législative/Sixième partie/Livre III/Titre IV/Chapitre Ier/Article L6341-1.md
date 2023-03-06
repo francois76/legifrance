@@ -1,0 +1,6 @@
+###### Article L6341-1
+
+L'Etat, les régions, les employeurs et les opérateurs de compétences concourent au financement de la rémunération des stagiaires de la formation professionnelle.
+
+L'institution mentionnée à l'article L. 5312-1 y concourt également, le cas échéant pour le compte de l'organisme mentionné à l'article L. 5427-1, notamment dans les conditions prévues à l'article L. 1233-68.
+

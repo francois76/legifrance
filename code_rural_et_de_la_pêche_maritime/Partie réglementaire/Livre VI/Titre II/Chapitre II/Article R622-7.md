@@ -1,0 +1,4 @@
+##### Article R622-7
+
+Lorsque les agents de l'établissement mentionné à l'article L. 313-1 procèdent au contrôle de l'identification et de l'enregistrement des animaux en vue du paiement des primes mentionnées à l'article 63 du règlement (CE) n° 1122/2009 de la Commission du 30 novembre 2009 fixant les modalités d'application du règlement (CE) n° 73/2009 du Conseil en ce qui concerne la conditionnalité, la modulation et le système intégré de gestion et de contrôle dans le cadre des régimes de soutien direct en faveur des agriculteurs prévus par ce règlement ainsi que les modalités d'application du règlement (CE) n° 1234/2007 du Conseil en ce qui concerne la conditionnalité dans le cadre du régime d'aide prévu pour le secteur vitivinicole, ils transmettent leurs constatations au préfet, qui décide des suites à donner à ces contrôles.
+

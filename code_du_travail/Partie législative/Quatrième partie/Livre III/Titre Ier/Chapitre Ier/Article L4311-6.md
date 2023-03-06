@@ -1,0 +1,6 @@
+###### Article L4311-6
+
+Outre les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1, les agents des douanes, les agents de la concurrence, de la consommation et de la répression des fraudes, les ingénieurs des mines, les ingénieurs de l'industrie et des mines sont compétents pour rechercher et constater les manquements et infractions aux dispositions du présent titre et des textes pris pour son application, aux dispositions du règlement (UE) 2016/425 du Parlement européen et du Conseil du 9 mars 2016 relatif aux équipements de protection individuelle et abrogeant la directive 89/686/ CEE du Conseil et aux dispositions des articles 4 et 7 du règlement (UE) 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 sur la surveillance du marché et la conformité des produits, et modifiant la directive 2004/42/ CE et les règlements (CE) n° 765/2008 et (UE) n° 305/2011, en ce qui concerne les équipements de travail et les moyens de protection. Les agents habilités en application de l'article L. 4314-1 du présent code sont également compétents pour rechercher et constater les manquements à ces dispositions.
+
+Les agents de la concurrence, de la consommation et de la répression des fraudes disposent à cet effet des pouvoirs prévus au I de l'article L. 511-22 du code de la consommation.
+

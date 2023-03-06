@@ -1,0 +1,4 @@
+###### Article L3421-9
+
+Le contrôle de l'activité de cabotage routier prévue aux articles L. 3421-1 et L. 3421-3 à L. 3421-8-1 s'effectue notamment au regard des données d'activité enregistrées par l'appareil de contrôle prévu par le règlement (UE) n° 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers, abrogeant le règlement (CEE) n° 3821/85 du Conseil concernant l'appareil de contrôle dans le domaine des transports par route et modifiant le règlement (CE) n° 561/2006 du Parlement européen et du Conseil relatif à l'harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route et par l'accord européen relatif au travail des équipages des véhicules effectuant des transports internationaux par route du 1er juillet 1970.
+

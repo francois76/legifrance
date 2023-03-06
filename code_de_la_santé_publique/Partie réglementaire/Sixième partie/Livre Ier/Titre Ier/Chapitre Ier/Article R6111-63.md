@@ -1,0 +1,10 @@
+###### Article R6111-63
+
+Lorsqu'il a connaissance de faits pouvant être regardés comme susceptibles de compromettre la santé et la sécurité des personnes hébergées, du public et du personnel, le directeur général de l'agence régionale de santé territorialement compétente peut prononcer la suspension de l'exercice de la prestation d'hébergement mentionnée à la présente section dans les locaux considérés, après avoir notifié son intention, par tout moyen donnant date certaine à cette notification, à l'établissement mentionné à l'article R. 6111-55 et l'avoir invité à présenter des observations dans un délai de huit jours à compter de la réception de la notification. Si la prestation d'hébergement temporaire a été déléguée à un tiers par voie de convention en application de l'article R. 6111-60, l'établissement prescripteur informe son prestataire, sans délai et par tout moyen donnant date certaine à cette information, de la mise en œuvre de cette procédure.
+
+Le directeur général de l'agence régionale de santé met fin à la suspension prévue au premier alinéa lorsqu'il dispose d'éléments nouveaux établissant que les faits qui l'avaient justifiée ont cessé.
+
+Si, à l'expiration d'un délai de trois mois, l'établissement mentionné à l'article R. 6111-55 n'a pas pris les mesures permettant de mettre fin aux faits ayant justifié la suspension, le directeur général de l'agence régionale de santé peut prononcer l'arrêt de la prestation d'hébergement temporaire non médicalisé après avoir informé l'établissement de santé de son intention par tout moyen donnant date certaine à cette information et l'avoir invité à présenter des observations dans un délai de huit jours à compter de cette notification. Si la prestation d'hébergement a été déléguée à un tiers par voie de convention en application de l'article R. 6111-60, l'établissement prescripteur informe son prestataire, sans délai et par tout moyen donnant date certaine à cette information, de cette décision.
+
+En cas de recours aux dispositions mentionnées au présent article, l'établissement concerné reloge sans délai dans un autre hébergement la femme enceinte concernée.
+

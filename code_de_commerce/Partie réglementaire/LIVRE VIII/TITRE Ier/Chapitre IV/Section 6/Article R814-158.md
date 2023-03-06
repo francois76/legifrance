@@ -1,0 +1,4 @@
+###### Article R814-158
+
+Les sociétés de participations financières de professions libérales constituées, en application du titre IV de la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé et aux sociétés de participations financières de professions libérales, en vue de la détention de parts sociales ou d'action dans des sociétés exerçant la profession d'administrateur judiciaire ou celle de mandataire judicaire sont régies par les dispositions du livre II, à l'exception de celles qui attribuent compétence au tribunal de commerce, sous réserve des dispositions de la présente section. Ces sociétés sont dénommées respectivement " société de participation financière de profession libérale d'administrateur judiciaire " et " société de participation financière de profession libérale de mandataire judiciaire ".
+

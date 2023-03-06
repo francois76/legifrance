@@ -1,0 +1,8 @@
+###### Article R325-2
+
+Lorsque l'agrément est retiré en vertu des dispositions de l'article L. 325-1 ou des 6° ou 7° de l'article L. 612-39 du code monétaire et financier ou lorsque l'Autorité de contrôle prudentiel et de résolution a constaté la caducité des agréments en application de l'article L. 321-10-2, elle informe sans délai les autorités compétentes concernées des autres Etats membres.
+
+Lorsque l'Autorité de contrôle prudentiel et de résolution est informée par une autorité de contrôle d'un Etat membre de la caducité ou du de retrait de l'agrément d'une entreprise d'assurance ou de réassurance, elle prend les mesures appropriées pour empêcher l'entreprise concernée de commencer de nouvelles opérations sur le territoire français.
+
+Lorsqu'une entreprise fait l'objet d'une mesure de résolution, dans les conditions prévues à la section VI du chapitre II du titre Ier du livre III du présent code, ou d'un retrait d'agrément prononcé par l'Autorité de contrôle prudentiel et de résolution, en application des dispositions de l'article L. 311-19 ou L. 325-1 du présent code ou de l'article L. 612-39 du code monétaire et financier, ou par l'autorité de contrôle d'un autre Etat membre, l'Autorité de contrôle prudentiel et de résolution en informe dans les meilleurs délais et avec les précisions appropriées le fonds de garantie des assurances obligatoires de dommages mentionné à l'article L. 421-1 du présent code ou le fonds de garantie des dommages consécutifs à des actes de prévention, de diagnostic ou de soins dispensés par les professionnels de santé mentionné à l'article L. 426-1 du présent code.
+

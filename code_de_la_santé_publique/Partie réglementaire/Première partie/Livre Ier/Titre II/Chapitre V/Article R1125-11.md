@@ -1,0 +1,4 @@
+###### Article R1125-11
+
+Le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé peut notifier par lettre motivée au promoteur ses objections à la mise en œuvre de la recherche. Il en informe le comité de protection des personnes concerné. Il fixe un délai au promoteur pour lui adresser son projet modifié. Le promoteur peut modifier le contenu de son projet de recherche et l'adresser au directeur général de l'Agence dans le délai imparti. Ce délai ne suspend pas le délai dont dispose le directeur général pour se prononcer sur la demande d'autorisation en application de l'article R. 1125-10. Cette procédure de modification ne peut être appliquée qu'une seule fois à chaque projet de recherche. Le promoteur qui ne produit pas un projet modifié dans les délais impartis est réputé avoir renoncé à sa demande.
+

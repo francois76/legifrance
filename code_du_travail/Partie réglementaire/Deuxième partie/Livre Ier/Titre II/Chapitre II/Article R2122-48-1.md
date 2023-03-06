@@ -1,0 +1,4 @@
+###### Article R2122-48-1
+
+L'autorité administrative consulte la commission des opérations de vote compétente sur la conformité des documents de propagande aux conditions de présentation prévues au dernier alinéa de l'article R. 2122-52 et à l'article R. 2122-52-1. Elle notifie aux organisations syndicales candidates dont elle a examiné les documents de propagande sa décision de valider ou de refuser les documents dans un délai fixé par arrêté du ministre chargé du travail. Pour les documents de propagande mentionnés au 1° de l'article R. 2122-44, la décision est prise par le directeur général du travail. Pour les autres documents de propagande, elle est prise par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi auprès duquel siège la commission régionale des opérations de vote concernée.
+

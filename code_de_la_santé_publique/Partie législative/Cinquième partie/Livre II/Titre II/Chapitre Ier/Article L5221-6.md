@@ -1,0 +1,4 @@
+###### Article L5221-6
+
+Compte tenu des précautions d'utilisation et d'interprétation qu'ils exigent, certains dispositifs d'autodiagnostic mentionnés au paragraphe 5 de l'article 2 du règlement (UE) 2017/746 et figurant sur une liste fixée par arrêté du ministre chargé de la santé pris sur proposition du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé ne peuvent être délivrés que sur prescription médicale.
+

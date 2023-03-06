@@ -1,0 +1,12 @@
+###### Article L5553-11
+
+Les entreprises d'armement maritime peuvent être exonérées de la contribution patronale mentionnée à l'article L. 5553-1 du présent code, de la cotisation d'allocations familiales mentionnée à l'article L. 241-6 du code de la sécurité sociale et de la contribution à l'allocation d'assurance contre le risque de privation d'emploi mentionnée au 1° de l'article L. 5422-9 du code du travail dues par les employeurs, pour les équipages et les gens de mer que ces entreprises emploient, qui sont affiliés au régime d'assurance vieillesse des marins et qui sont embarqués à bord des navires de commerce dirigés et contrôlés à partir d'un établissement stable situé sur le territoire français, battant pavillon français ou d'un autre Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, et affectés à des activités de transport ou à des activités de services maritimes soumises aux orientations de l'Union européenne sur les aides d'Etat au transport maritime, soumises à titre principal à une concurrence internationale.
+
+L'exonération de la contribution d'assurance contre le risque de privation d'emploi prévue au premier alinéa du présent article s'applique sur la base du taux de cette contribution ne tenant pas compte des dispositions prévues aux deuxième à dernier alinéas de l'article L. 5422-12 du code du travail.
+
+Le bénéfice des exonérations prévues au premier alinéa est conditionné au fait que les membres de l'équipage des navires sur lesquels des marins sont concernés par l'exonération sont, dans une proportion d'au moins 25 %, des ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse. Cette proportion est calculée sur la base de la fiche d'effectif et s'apprécie sur l'ensemble de la flotte composée des navires embarquant au moins un marin pour lequel l'employeur bénéficie de l'exonération prévue au présent article.
+
+Le bénéfice de l'exonération prévue au premier alinéa est subordonné à une autorisation préalable délivrée, après vérification du respect des conditions prévues au présent article, par décision de l'autorité compétente de l'Etat. L'autorité compétente de l'Etat s'assure du respect des conditions mentionnées aux premier et troisième alinéas.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+

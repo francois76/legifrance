@@ -1,0 +1,4 @@
+###### Article R352-11
+
+Lorsque le calcul du capital de solvabilité requis selon la formule standard s'avère inapproprié pour une entreprise d'assurance ou de réassurance, parce que le profil de risque de cette entreprise s'écarte significativement des hypothèses qui sous-tendent cette formule de calcul, l'Autorité de contrôle prudentiel et de résolution peut, par décision motivée, exiger de cette entreprise qu'elle remplace un sous-ensemble de paramètres utilisés dans le calcul selon la formule standard par des paramètres propres à cette entreprise au moment de calculer, conformément au V de l'article R. 352-5, les modules " risque de souscription en vie ", " risque de souscription en non-vie " et " risque de souscription en santé ". Ces paramètres propres sont calculés de façon à garantir que l'entreprise se conforme au 2° de l'article R. 352-2.
+

@@ -1,0 +1,12 @@
+###### Article R162-31-4
+
+I.-La dotation relative aux activités spécifiques mentionnée au 3° de l'article R. 162-31-1 est répartie entre les établissements qui réalisent une ou plusieurs activités relatives à des catégories de patients ou des lieux d'exercice figurant sur une liste arrêtée par les ministres chargés de la santé et de la sécurité sociale.
+
+II.-La dotation relative à la structuration de la recherche mentionnée au 5° de l'article R. 162-31-1 est répartie entre les régions en fonction notamment du nombre d'établissements de santé autorisés à exercer l'activité de psychiatrie. Elle vise à structurer, soutenir et développer l'activité de recherche, d'enseignement et d'innovation dans la région.
+
+III.-La dotation relative aux nouvelles activités mentionnée au 6° de l'article R. 162-31-1 est allouée chaque année aux établissements de santé sur la base d'appels à projets nationaux ou régionaux visant à financer le développement de nouvelles activités conformément aux orientations régionales et nationales en termes de psychiatrie et de santé mentale. La section mentionnée au 2° de l'article R. 162-29 est consultée par le directeur général de l'agence régionale de santé sur les domaines et les modalités de choix des nouvelles activités pour lesquelles l'agence régionale de santé souhaite procéder à des appels à projet. Les projets retenus font l'objet d'une évaluation au plus tard cinq ans après leur mise en œuvre.
+
+IV.-La dotation d'accompagnement à la transformation mentionnée au 8° de l'article R. 162-31-1 est répartie entre régions en tenant compte notamment des objectifs de transformation de l'offre de soins en psychiatrie fixés dans le contrat pluriannuel d'objectifs et de moyens prévu à l'article L. 1433-2 du code de la santé publique conclu entre le directeur général de l'agence régionale de santé et les ministres chargés de la santé et de la sécurité sociale. La section mentionnée au 2° de l'article R. 162-29 du présent code est consultée par le directeur général de l'agence régionale de santé sur les objectifs de transformation de l'offre de soins en psychiatrie envisagés.
+
+V.-Chaque année, dans un délai de quinze jours suivant la publication de l'arrêté mentionné à l'article R. 162-31-1, les ministres chargés de la santé et de la sécurité sociale arrêtent le montant des dotations mentionnées aux I à IV du présent article allouées aux agences régionales de santé.
+

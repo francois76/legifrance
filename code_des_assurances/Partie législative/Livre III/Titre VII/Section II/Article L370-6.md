@@ -1,0 +1,6 @@
+##### Article L370-6
+
+Les institutions de retraite professionnelle ayant leur siège social ou leur administration principale dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen peuvent être autorisées, dans les conditions définies à la présente section, à transférer tout ou partie de leur portefeuille de contrats, couvrant des risques ou des engagements situés sur le territoire d'un Etat membre de l'Union européenne, avec les droits et obligations qui y sont attachés, à un ou plusieurs fonds de retraite professionnelle supplémentaire mentionnés à l'article L. 381-1.
+
+Les fonds de retraite professionnelle supplémentaire peuvent être autorisés, dans les conditions définies à la présente section, à transférer tout ou partie de leur portefeuille de contrats, couvrant des risques ou des engagements situés sur le territoire d'un Etat membre de l'Union européenne, avec les droits et obligations qui y sont attachés, à une ou plusieurs institutions de retraite professionnelle ayant leur siège social ou leur administration principale dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
+

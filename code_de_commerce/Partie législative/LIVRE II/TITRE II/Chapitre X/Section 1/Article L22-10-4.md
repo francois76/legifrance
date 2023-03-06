@@ -1,0 +1,4 @@
+###### Article L22-10-4
+
+Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, en cas de nomination aux fonctions de président, de directeur général ou de directeur général délégué d'une personne liée par un contrat de travail à la société ou à toute société contrôlée ou qui la contrôle au sens des II et III de l'article L. 233-16, les dispositions dudit contrat correspondant, le cas échéant, à des éléments de rémunération, des indemnités ou des avantages dus ou susceptibles d'être dus à raison de la cessation ou du changement de ces fonctions, ou postérieurement à celles-ci, ou des engagements de retraite à prestations définies répondant aux caractéristiques des régimes mentionnés à l'article L. 137-11 et à l'article L. 137-11-2 du code de la sécurité sociale pour la période d'exercice du mandat social, sont soumises au régime prévu au IV de l'article L. 22-10-8 du présent code.
+

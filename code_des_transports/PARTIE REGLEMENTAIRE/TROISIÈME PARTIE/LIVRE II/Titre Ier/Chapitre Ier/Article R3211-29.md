@@ -1,0 +1,4 @@
+###### Article R3211-29
+
+Les personnes physiques mentionnées à l'article R. 3211-24 qui ne résident pas en France ou qui résident en France depuis moins de cinq ans apportent la preuve qu'elles satisfont dans leur Etat de résidence habituelle, ou dans l'Etat de la résidence habituelle précédente, à la condition d'honorabilité professionnelle définie par cet Etat pour l'accès à la profession de transporteur par route, selon les modalités prévues à l'article 19 du règlement (CE) n° 1071/2009 du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/ CE du Conseil. Cette disposition s'applique également lorsque l'Etat de résidence habituelle est partie à l'accord sur l'Espace économique européen.
+

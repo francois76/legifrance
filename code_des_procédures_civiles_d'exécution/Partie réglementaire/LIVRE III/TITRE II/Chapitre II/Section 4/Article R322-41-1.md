@@ -1,0 +1,6 @@
+###### Article R322-41-1
+
+Avant de porter les enchères, lorsque l'immeuble saisi est un immeuble à usage d'habitation ou un fonds de commerce d'un établissement recevant du public à usage total ou partiel d'hébergement, l'avocat se fait en outre remettre par son mandant une attestation sur l'honneur indiquant s'il fait l'objet ou non d'une condamnation à l'une des peines mentionnées à l'article L. 322-7-1 et, lorsque le mandant est une personne physique, si le bien est destiné ou non à son occupation personnelle. Si le mandant est une société civile immobilière ou en nom collectif, il indique également si ses associés et mandataires sociaux font l'objet ou non d'une condamnation à l'une de ces peines.
+
+Lorsque le mandant est une personne physique, l'attestation mentionne ses nom, prénoms, date et lieu de naissance et domicile, ainsi que, lorsqu'il est né à l'étranger, les nom et prénoms de ses parents. Lorsque le mandant est une personne morale, l'attestation mentionne sa dénomination et son numéro SIREN. S'il s'agit d'une société civile immobilière ou en nom collectif, l'attestation mentionne également pour ses associés et mandataires sociaux, l'ensemble des informations requises, tant pour les personnes physiques que morales. L'attestation est datée et signée par le mandant.
+

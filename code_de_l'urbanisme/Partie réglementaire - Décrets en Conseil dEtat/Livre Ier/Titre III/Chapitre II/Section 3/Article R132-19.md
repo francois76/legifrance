@@ -1,0 +1,8 @@
+###### Article R132-19
+
+Les propositions de la commission, formulées dans le délai de deux mois à compter de sa saisine, sont notifiées, à la diligence de son président, à la personne publique chargée de l'élaboration du document d'urbanisme faisant l'objet de la procédure de conciliation, ainsi qu'à la personne publique qui a saisi la commission.
+
+Elles sont affichées et tenues à la disposition du public à la préfecture, à la ou aux mairies ou au siège de l'établissement public chargé de l'élaboration du document et, dans ce cas, aux mairies des communes membres concernées.
+
+Ces propositions sont également jointes au document d'urbanisme soumis à l'enquête publique.
+

@@ -1,0 +1,8 @@
+###### Article 302 M
+
+I. - Pour l'application de l'article 302 L, les produits en suspension de droits en France métropolitaine et dans les échanges intracommunautaires circulent sous couvert du document administratif électronique établi par l'expéditeur dans les conditions prévues par le règlement d'exécution (UE) n° 1221/2012 de la Commission du 12 décembre 2012 portant modification du règlement (CE) n° 684/2009 en ce qui concerne les données à fournir dans le cadre de la procédure informatisée applicable aux mouvements en suspension de droits des produits soumis à accise et selon des modalités fixées par décret.
+
+Les vins en provenance de ceux des autres Etats membres de l'Union européenne ayant utilisé la faculté de dispense au profit de leurs petits producteurs prévue à l'article 40 de la directive 2008/118/CE du Conseil du 16 décembre 2008 relative au régime général d'accise et abrogeant la directive 92/12/CEE et expédiés à destination de personnes mentionnées aux articles 302 G et 302 H ter circulent en France métropolitaine sous couvert d'un des documents d'accompagnement prévus au iii du a du 1 de l'article 24 du règlement (CE) n° 436/2009 de la Commission du 26 mai 2009 portant modalités d'application du règlement (CE) n° 479/2008 du Conseil en ce qui concerne le casier viticole, les déclarations obligatoires et l'établissement des informations pour le suivi du marché, les documents accompagnant les transports des produits et les registres à tenir dans le secteur vitivinicole.
+
+II. - Pour l'application de l'article 302 L, les produits en suspension de droits circulent dans les territoires ultramarins sous couvert d'un document administratif électronique et selon des modalités définis par décret.
+

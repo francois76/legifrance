@@ -1,0 +1,4 @@
+###### Article R385-21
+
+Les fonds de retraite professionnelle supplémentaire peuvent décider de publier dans le rapport sur la solvabilité et la situation financière mentionné à l'article L. 385-7 toutes informations ou explications relatives à leur solvabilité et à leur situation financière autres que celles dont la publication est déjà exigée en application des articles L. 385-7 et R. 385-18 à R. 385-20, dans des conditions précisées par l'article 298 du règlement délégué (UE) 2015/35 de la Commission du 10 octobre 2014 complétant la directive 2009/138/CE du Parlement européen et du Conseil sur l'accès aux activités de l'assurance et de la réassurance et leur exercice (Solvabilité II) dans sa rédaction en vigueur à la date de publication du décret n° 2017-1171 du 18 juillet 2017 fixant les règles applicables aux fonds de retraite professionnelle supplémentaire.
+

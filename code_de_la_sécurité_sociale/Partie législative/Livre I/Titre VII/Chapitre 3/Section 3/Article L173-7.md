@@ -1,0 +1,4 @@
+###### Article L173-7
+
+Les versements mentionnés aux articles L. 351-14-1, L. 351-17, L. 643-2 et L. 653-5 du présent code, à l'article L. 732-27-1 du code rural et de la pêche maritime et à l'article L. 9 bis du code des pensions civiles et militaires de retraite, ainsi que ceux prévus par des dispositions réglementaires ayant le même objet, ne sont pas pris en compte pour le bénéfice des dispositions des articles L. 351-1-1, L. 351-1-3, des II et III des articles L. 643-3 et L. 653-2 du présent code, des articles L. 732-18-1 et L. 732-18-2 du code rural et de la pêche maritime, du 5° du I de l'article L. 24 et de l'article L. 25 bis du code des pensions civiles, militaires de retraite et de l'article 57 de la loi n° 2004-1370 du 20 décembre 2004 de financement de la sécurité sociale pour 2005 et du I de l'article 108 de la loi n° 2021-1754 du 23 décembre 2021 de financement de la sécurité sociale pour 2022.
+

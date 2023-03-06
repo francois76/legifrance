@@ -1,0 +1,4 @@
+###### Article 15-3-2
+
+En cas de plainte déposée pour une infraction punie d'au moins trois ans d'emprisonnement commise par le conjoint de la victime, son concubin ou le partenaire lié à elle par un pacte civil de solidarité, y compris lorsqu'ils ne cohabitent pas, ou commise par l'ancien conjoint ou concubin de la victime ou par le partenaire ayant été lié à elle par un pacte civil de solidarité, l'officier ou l'agent de police judiciaire qui reçoit la plainte informe la victime, oralement et par la remise d'un document, qu'elle peut demander ou consentir à bénéficier du dispositif électronique mobile anti-rapprochement prévu à l'article 138-3 du présent code, l'article 132-45-1 du code pénal ou l'article 515-11-1 du code civil, qui est susceptible d'être ordonné par la juridiction compétente.
+

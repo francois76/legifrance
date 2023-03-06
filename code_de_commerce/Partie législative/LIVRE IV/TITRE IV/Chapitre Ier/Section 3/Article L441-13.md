@@ -1,0 +1,4 @@
+###### Article L441-13
+
+Pour les livraisons de marchandises qui font l'objet d'une importation dans le territoire fiscal des départements de la Guadeloupe, de la Martinique, de la Guyane, de La Réunion et de Mayotte ainsi que des collectivités d'outre-mer de Saint-Barthélemy, de Saint-Martin, des îles Wallis et Futuna et de Saint-Pierre-et-Miquelon, les délais de paiement prévus au I de l'article L. 441-10 et aux 1° à 4° du II de l'article L. 441-11 ne sont décomptés qu'à partir de la date de dédouanement de la marchandise au port de destination finale. Lorsque la marchandise est mise à la disposition de l'acheteur, ou de son représentant, en métropole, le délai n'est décompté qu'à partir du vingt et unième jour suivant la date de cette mise à disposition ou à partir de la date du dédouanement si celle-ci est antérieure.
+

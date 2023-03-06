@@ -1,0 +1,4 @@
+###### Article L1143-13
+
+Le règlement amiable qui intervient entre le responsable et le demandeur ou ses ayants droit, y compris en application de la convention mentionnée à l'article L. 1143-9 du présent code, et le jugement statuant sur les droits à indemnisation du demandeur ou de ses ayants droit sont soumis, selon le cas, au chapitre VI du titre VII du livre III du code de la sécurité sociale, au chapitre IV du titre V du livre IV du même code, à l'article L. 752-23 du code rural et de la pêche maritime, à l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques ou au chapitre II et à l'article 44 de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation.
+

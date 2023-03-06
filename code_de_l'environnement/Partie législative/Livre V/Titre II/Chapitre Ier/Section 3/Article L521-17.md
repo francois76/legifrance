@@ -1,0 +1,6 @@
+###### Article L521-17
+
+Sans préjudice de l'application aux contrôles et à la constatation des infractions des articles 4, 12 et 17 de la convention n° 81 de l'OIT concernant l'inspection du travail dans l'industrie et le commerce, les agents procédant à un contrôle et constatant un manquement aux obligations du présent chapitre ou à celles des règlements (CE) n° 1005/2009, (UE) n° 649/2012, (UE) n° 2019/1021, (UE) n° 517/2014, (CE) n° 1907/2006, (CE) n° 1272/2008 et (UE) n° 2017/852 établissent un rapport qu'ils transmettent à l'autorité administrative compétente.
+
+Au plus tard six mois après la constatation d'un manquement, à l'exception d'un manquement aux obligations relatives au respect des quotas alloués prévu à l'article 15 du règlement (UE) n° 517/2014 du Parlement européen et du Conseil du 16 avril 2014 précité, l'autorité administrative compétente, après avoir invité la personne concernée à prendre connaissance du dossier et à présenter ses observations dans un délai n'excédant pas trois mois, peut mettre en demeure le fabricant ou importateur ou l'utilisateur industriel ou professionnel des substances, mélanges, articles, produits ou équipements de satisfaire, dans un délai donné, aux obligations du présent chapitre.
+

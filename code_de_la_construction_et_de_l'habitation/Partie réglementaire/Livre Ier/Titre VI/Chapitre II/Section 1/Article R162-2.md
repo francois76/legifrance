@@ -1,0 +1,4 @@
+###### Article R162-2
+
+Le ministre chargé de la construction fixe, par arrêté, les obligations auxquelles doivent satisfaire les constructions et les aménagements propres à assurer l'accessibilité des bâtiments d'habitation collectif et de leurs abords en ce qui concerne les cheminements extérieurs, le stationnement des véhicules, les conditions d'accès aux bâtiments, les circulations intérieures horizontales et verticales des parties communes, les portes et les sas des parties communes, les revêtements des parois des parties communes, les locaux collectifs, celliers et caves, ainsi que les équipements susceptibles d'être installés dans les parties communes, notamment les dispositifs d'éclairage et d'information des usagers. Cet arrêté prévoit la possibilité pour le maître d'ouvrage de satisfaire à ces obligations par des solutions d'accessibilité équivalente aux dispositions techniques de l'arrêté dès lors que celles-ci répondent aux objectifs poursuivis.
+

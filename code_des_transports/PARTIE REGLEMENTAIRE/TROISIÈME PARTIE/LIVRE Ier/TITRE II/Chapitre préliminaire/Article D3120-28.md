@@ -1,0 +1,10 @@
+###### Article D3120-28
+
+I. - Les membres du collège des représentants des collectivités territoriales siégeant au titre de la compétence d'autorité organisatrice sont des représentants des autorités organisatrices de transport, au sens des articles L. 1221-1 et L. 1241-1, organisant des services de transport dans le ressort géographique de la commission. Lorsque ces autorités ont délégué l'organisation de tels services de transport à d'autres collectivités, ou leurs établissements publics, situées dans le ressort de la commission, des représentants de ces autorités déléguées peuvent également siéger dans le collège.
+
+Les membres du collège des représentants des collectivités territoriales siégeant au titre de la compétence d'autorité organisatrice sont désignés par le président de la commission sur proposition desdites autorités organisatrices et des collectivités auxquelles elles ont donné délégation en tenant compte de leur nombre d'habitants.
+
+II. - Les membres du collège des représentants des collectivités territoriales siégeant au titre de la compétence d'autorité chargée de délivrer les autorisations de stationnement sont des représentants des autorités énumérées à l'article R. 3121-4, à l'exclusion, le cas échéant, des représentants de l'Etat. Pour la commission unique prévue au second alinéa de l'article D. 3120-21, le collège de représentants des collectivités territoriales siégeant au titre de la compétence d'autorité chargée de délivrer les autorisations de stationnement est composé pour partie de représentants des communes sur le territoire desquelles le préfet de police exerce les attributions d'autorité délivrant les autorisations de stationnement.
+
+Les membres du collège des collectivités territoriales siégeant au titre de la compétence d'autorité chargée de délivrer les autorisations de stationnement sont désignés par le président de la commission sur proposition desdites autorités et, le cas échéant, desdites communes en tenant compte de leur nombre d'habitants.
+

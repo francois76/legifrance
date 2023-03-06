@@ -1,0 +1,4 @@
+###### Article R861-22
+
+Pour les organismes mentionnés au a de l'article L. 861-4, il est fait application de la procédure mentionnée à l'article R. 133-9-2 pour le remboursement des prestations versées à tort et le paiement des participations financières mentionnés au IV de l'article L. 861-10. Lorsque la mise en demeure reste sans effet, ils peuvent mettre en œuvre la procédure d'injonction de payer mentionnée à l'article R. 142-10-8. Outre les mentions prévues au premier alinéa de l'article R. 133-9-2, la notification de payer doit informer le débiteur qu'il peut demander la remise ou la réduction de sa dette, dans un délai de deux mois à compter de cette notification. Cette demande est déposée auprès de l'organisme qui a émis la notification. Le recouvrement de la somme due ne peut intervenir pendant ce délai.
+

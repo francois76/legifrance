@@ -1,0 +1,4 @@
+###### Article R3411-16
+
+Pour répondre à l'obligation fixée au g du paragraphe 2 de l'article 16 du règlement (CE) 1071/2009, l'entreprise titulaire d'une autorisation d'exercer la profession de transporteur public routier de personnes ou d'une autorisation d'exercer la profession de transporteur public routier de marchandises informe le préfet de région de tous les changements intervenant dans la flotte des véhicules qu'elle exploite avec une copie conforme de licence communautaire mentionnée aux 1° et 3° de l'article R. 3211-12 et 1° de l'article R. 3113-8, y compris s'agissant des véhicules qu'elle prend en location en France ou à l'étranger. A cette fin, elle communique avant le début de leur utilisation, le numéro d'immatriculation de ces véhicules. Elle est également tenue de l'informer de leur fin d'utilisation.
+

@@ -1,0 +1,12 @@
+##### Article L511-14
+
+I.-Sans préjudice de la section 1 du chapitre III du titre III du livre Ier du code de l'urbanisme et de la seconde phrase du 2° du I de l'article L. 131-9 du code de l'environnement, il est institué un portail national de l'hydroélectricité.
+
+Ce portail constitue, pour l'ensemble du territoire, le site national pour l'accès dématérialisé, à partir d'un point d'entrée unique, aux schémas directeurs d'aménagement et de gestion des eaux mentionnés à l'article L. 212-1 du même code, aux schémas d'aménagement et de gestion des eaux définis à l'article L. 212-3 dudit code, aux listes de cours d'eau, parties de cours d'eau ou canaux établies en application des 1° et 2° du I de l'article L. 214-17 du même code, aux schémas régionaux d'aménagement, de développement durable et d'égalité des territoires mentionnés à l'article L. 4251-1 du code général des collectivités territoriales, aux schémas régionaux de raccordement au réseau des énergies renouvelables mentionnés à l'article L. 321-7 du présent code, aux classements des cours d'eau et lacs établis en application de l'article L. 2111-7 du code général de la propriété des personnes publiques, aux évaluations et identifications prévues pour l'électricité d'origine hydraulique dans la programmation pluriannuelle de l'énergie en application des 3° et 4° de l'article L. 141-2 du présent code ainsi qu'aux éléments d'information figurant dans l'évaluation prévue au d du 6° de l'article 179 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020.
+
+II.-Pour l'application du I du présent article, les communes ou les établissements publics de coopération intercommunale compétents qui le souhaitent peuvent transmettre, sous format électronique et à mesure des modifications de leurs dispositions, la version en vigueur des classements des cours d'eau et lacs pris en application de l'article L. 2111-7 du code général de la propriété des personnes publiques incluant les délibérations les ayant approuvés.
+
+Pour l'application du I du présent article, les régions qui le souhaitent peuvent transmettre, sous format électronique et à mesure des modifications de leurs dispositions, la version en vigueur des schémas régionaux d'aménagement, de développement durable et d'égalité des territoires mentionnés à l'article L. 4251-1 du code général des collectivités territoriales incluant les délibérations les ayant approuvés.
+
+III.-Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+

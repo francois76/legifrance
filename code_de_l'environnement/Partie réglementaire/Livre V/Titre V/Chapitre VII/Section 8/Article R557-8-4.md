@@ -1,0 +1,6 @@
+###### Article R557-8-4
+
+Peuvent continuer à être, dans la limite du territoire national, mis à disposition sur le marché, stockés en vue de leur mise à disposition sur le marché, installés, mis en service, utilisés, importés ou transférés, sans avoir satisfait aux dispositions des articles L. 557-4, L. 557-5, R. 557-8-3 et R. 557-8-4, les matériels ayant été régulièrement autorisés en application de l'arrêté du 2 août 1977 relatif aux règles techniques et de sécurité applicables aux installations de gaz combustible et d'hydrocarbures liquéfiés situées à l'intérieur des bâtiments d'habitation ou de leurs dépendances, de l'arrêté du 15 juillet 1980 rendant obligatoires des spécifications techniques relatives à la réalisation et à la mise en œuvre des canalisations de gaz à l'intérieur des bâtiments d'habitation ou de leurs dépendances, ou de l'arrêté du 4 mars 1996 portant codification des règles de conformité des matériels à gaz aux normes les concernant lorsqu'ils sont situés à l'intérieur des bâtiments d'habitation et de leurs dépendances, ainsi que dans les caravanes, autocaravanes et fourgons aménagés.
+
+Les attestations et certificats délivrés au titre d'une des réglementations précitées demeurent valables.
+

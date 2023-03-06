@@ -1,0 +1,22 @@
+###### Article L3131-12
+
+I.-Les mesures ayant pour objet la mise en quarantaine des personnes susceptibles d'être affectées ne peuvent viser que les personnes qui, ayant séjourné au cours du mois précédent dans une zone de circulation de l'infection, entrent sur le territoire hexagonal, arrivent en Corse ou dans l'une des collectivités mentionnées à l'article 72-3 de la Constitution. La liste des zones de circulation de l'infection est fixée par arrêté du ministre chargé de la santé. Elle fait l'objet d'une information publique régulière pendant toute la durée de la menace sanitaire. Les mesures ayant pour objet le placement et le maintien en isolement des personnes affectées ne peuvent s'appliquer qu'à des personnes ayant fait l'objet d'un examen de dépistage virologique ou de tout examen médical concluant à une contamination.
+
+Aux seules fins d'assurer la mise en œuvre des mesures mentionnées au premier alinéa du présent I, les entreprises de transport ferroviaire, maritime ou aérien communiquent au représentant de l'Etat dans le département qui en fait la demande les données relatives aux passagers concernant les déplacements mentionnés au même premier alinéa, dans les conditions prévues à l'article L. 232-4 du code de la sécurité intérieure.
+
+Les mesures de mise en quarantaine, de placement et de maintien en isolement peuvent se dérouler, au choix des personnes qui en font l'objet, à leur domicile ou dans un autre lieu d'hébergement. Le représentant de l'Etat dans le département peut s'opposer au choix du lieu retenu par l'intéressé s'il apparaît que ce lieu ne répond pas aux exigences visant à garantir l'effectivité de ces mesures et à permettre le contrôle de leur application. Dans ce cas, le représentant de l'Etat dans le département détermine le lieu de leur déroulement.
+
+Leur durée initiale ne peut excéder quatorze jours. Les mesures peuvent être renouvelées, dans les conditions prévues au II de l'article L. 3131-13 du présent code, dans la limite d'une durée maximale d'un mois. Il est mis fin aux mesures de placement et de maintien en isolement avant leur terme lorsque l'état de santé de l'intéressé le permet.
+
+Dans le cadre des mesures de mise en quarantaine, de placement et de maintien en isolement, il peut être fait obligation à la personne qui en fait l'objet de :
+
+1° Ne pas sortir de son domicile ou du lieu d'hébergement où elle exécute la mesure, sous réserve des déplacements qui lui sont spécifiquement autorisés par l'autorité administrative. Dans le cas où un isolement complet de la personne est prononcé, il lui est garanti un accès aux biens et services de première nécessité ainsi qu'à des moyens de communication téléphonique et électronique lui permettant de communiquer librement avec l'extérieur ;
+
+2° Ne pas fréquenter certains lieux ou catégories de lieux.
+
+Les personnes et enfants victimes des violences mentionnées à l'article 515-9 du code civil ne peuvent être mis en quarantaine, placés et maintenus en isolement dans le même logement ou lieu d'hébergement que l'auteur des violences, ou être amenés à cohabiter lorsque celui-ci est mis en quarantaine, placé ou maintenu en isolement, y compris si les violences sont alléguées. Lorsqu'il ne peut être procédé à l'éviction de l'auteur des violences du logement conjugal ou dans l'attente d'une décision judiciaire statuant sur les faits de violence allégués et, le cas échéant, prévoyant cette éviction, il est assuré leur relogement dans un lieu d'hébergement adapté. Lorsqu'une décision de mise en quarantaine, de placement et de maintien en isolement est susceptible de mettre en danger une ou plusieurs personnes, le préfet en informe sans délai le procureur de la République.
+
+Les conditions d'application du présent I sont fixées par décret, en fonction de la nature et des modes de propagation du virus, après avis de la Haute Autorité de santé. Ce décret précise également les conditions dans lesquelles sont assurés l'information régulière de la personne qui fait l'objet de ces mesures, la poursuite de la vie familiale, la prise en compte de la situation des mineurs, le suivi médical qui accompagne ces mesures et les caractéristiques des lieux d'hébergement.
+
+II.-Les mesures prescrites en application du présent article sont strictement proportionnées aux risques sanitaires encourus et appropriées aux circonstances de temps et de lieu. Il y est mis fin sans délai lorsqu'elles ne sont plus nécessaires.
+

@@ -1,0 +1,14 @@
+###### Article L3512-24
+
+I.-Les fabricants et les importateurs de produits du tabac concluent un contrat de stockage des données accessibles grâce à l'identifiant unique avec un tiers indépendant, dans le but d'héberger l'installation de stockage des données dans le respect des dispositions prévues par le règlement délégué (UE) 2018/573 de la Commission du 15 décembre 2017 relatif aux éléments essentiels des contrats de stockage de données devant être conclus dans le cadre d'un système de traçabilité des produits du tabac et le règlement d'exécution (UE) 2018/574 de la Commission du 15 décembre 2017 relatif aux normes techniques pour la mise en place et le fonctionnement d'un système de traçabilité des produits du tabac.
+
+Ce tiers indépendant est agréé par la Commission européenne, au regard notamment de son indépendance et ses capacités techniques. Il en va de même pour le contrat de stockage de données.
+
+II.-Les informations mentionnées au I sont enregistrées dans des traitements automatisés de données à caractère personnel dans les conditions prévues par le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE. Elles ne peuvent pas être modifiées ou effacées par une personne concernée par le commerce des produits du tabac.
+
+III.-L'installation de stockage de données est physiquement située sur le territoire de l'Union européenne. La Commission européenne a pleinement accès à cette installation. Les agents habilités des ministères chargés de la santé et chargés des douanes ont pleinement accès aux composantes de cette installation situées sur le territoire français. Ils ont accès électroniquement aux informations mentionnées au I, au moyen d'un lien vers l'identifiant unique.
+
+Un fournisseur, désigné par la Commission européenne conformément à la partie B de l'annexe I au règlement d'exécution (UE) 2018/574 de la Commission du 15 décembre 2017 précité parmi les fournisseurs des entrepôts primaires de stockage des données qui ont été approuvés conformément à la partie A de la même annexe I, est chargé de la gestion de l'entrepôt secondaire de stockage des données aux fins de l'exécution des services prévus au chapitre V du même règlement.
+
+IV.-Les activités du tiers indépendant sont contrôlées par un auditeur externe, proposé et rémunéré par le fabricant ou l'importateur, et agréé par la Commission européenne. L'auditeur externe soumet au ministre chargé de la santé, au ministre chargé des douanes et à la Commission européenne un rapport annuel dans lequel sont en particulier évaluées les irrégularités éventuelles liées à l'accès aux données stockées par le tiers indépendant.
+

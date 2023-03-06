@@ -1,0 +1,12 @@
+##### Article R354-2-1
+
+I.-En ce qui concerne la gestion des actifs et des passifs, les entreprises d'assurance et de réassurance évaluent régulièrement la sensibilité de leurs provisions techniques prudentielles et de leurs fonds propres aux hypothèses sous-tendant l'extrapolation de la courbe des taux d'intérêt sans risque pertinente mentionnée à l'article R. 351-3.
+
+II.-En cas d'application de l'ajustement égalisateur mentionné à l'article R. 351-4, les entreprises évaluent régulièrement la sensibilité de leurs provisions techniques prudentielles et de leurs fonds propres éligibles aux hypothèses sous-tendant le calcul de l'ajustement égalisateur, y compris le calcul de la marge fondamentale mentionné à l'article R. 351-5, et les effets potentiels d'une vente forcée d'actifs sur leurs fonds propres éligibles. Elles évaluent également la sensibilité de leurs provisions techniques prudentielles et de leurs fonds propres éligibles aux modifications de la composition du portefeuille assigné d'actifs ainsi que les conséquences d'une réduction de l'ajustement égalisateur à zéro.
+
+III.-En cas d'application de la correction pour volatilité mentionnée à l'article R. 351-6, les entreprises évaluent régulièrement la sensibilité de leurs provisions techniques prudentielles et de leurs fonds propres éligibles aux hypothèses sous-tendant le calcul de la correction pour volatilité et les conséquences potentielles d'une vente forcée d'actifs sur leurs fonds propres éligibles ainsi que les conséquences d'une réduction de la correction pour volatilité à zéro.
+
+IV.-Les entreprises soumettent chaque année les évaluations mentionnées aux I, II et III à l'Autorité de contrôle prudentiel et de résolution dans le cadre de la communication d'informations mentionnée à l'article L. 355-1. Dans le cas où la réduction de l'ajustement égalisateur ou de la correction pour volatilité à zéro aurait pour effet le défaut de couverture du capital de solvabilité requis, l'entreprise soumet également une analyse des mesures qu'elle pourrait prendre en vue de rétablir le niveau de fonds propres éligibles correspondant au capital de solvabilité requis ou de réduire le profil de risque afin de garantir la conformité du capital de solvabilité requis.
+
+V.-Lorsque la correction pour volatilité mentionnée à l'article R. 351-6 est appliquée, la politique écrite en matière de gestion du risque mentionnée à l'article L. 354-1 définit les critères d'application de la correction pour volatilité.
+

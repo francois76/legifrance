@@ -1,0 +1,4 @@
+###### Article L3212-4
+
+Les documents appartenant aux bibliothèques de l'Etat, de ses établissements publics, des collectivités territoriales et de leurs groupements ne relevant pas de l'article L. 2112-1 et dont ces bibliothèques n'ont plus l'usage peuvent être cédés à titre gratuit à des fondations, à des associations relevant de la loi du 1er juillet 1901 relative au contrat d'association mentionnées au a du 1 de l'article 238 bis du code général des impôts et dont les ressources sont affectées à des œuvres d'assistance ou à des organisations mentionnées au II de l'article 1er de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire. Par dérogation aux articles L. 3212-2 et L. 3212-3 du présent code, ces documents peuvent être cédés à titre onéreux par ces fondations, associations et organisations.
+

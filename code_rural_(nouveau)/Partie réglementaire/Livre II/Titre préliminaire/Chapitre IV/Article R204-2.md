@@ -1,0 +1,6 @@
+##### Article R204-2
+
+Pour les professions auxquelles l'accès ou dont l'exercice est réglementé par le présent code, les professionnels ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, autres que ceux mentionnés aux articles L. 204-1 et R. 204-1, justifient auprès de l'autorité compétente de la possession d'un titre de formation ou d'une attestation de compétence requis par un autre Etat membre pour accéder à la même profession sur son territoire ou pour l'y exercer.
+
+Les professionnels mentionnés au premier alinéa peuvent également accéder aux mêmes professions s'ils disposent d'attestations de compétence ou de preuves de titre de formation délivré par un autre Etat membre qui ne réglemente pas la profession et justifient avoir exercé cette profession dans un Etat membre à temps plein pendant une année ou à temps partiel pendant une durée totale équivalente au cours des dix années précédentes. Cette justification n'est toutefois pas requise lorsque la formation conduisant à cette activité et possédée par le demandeur est réglementée dans l'Etat membre ou partie à l'accord sur l'Espace économique européen dans lequel elle a été validée.
+

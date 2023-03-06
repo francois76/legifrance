@@ -1,0 +1,6 @@
+###### Article L143-11
+
+Lorsqu'une commune ou un établissement public de coopération intercommunale se retire de l'établissement public prévu à l'article L. 143-16 dans les conditions définies par le code général des collectivités territoriales, aux articles 35 et 40 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République ou aux articles L. 143-12 ou L. 143-13 du présent code, la décision de retrait emporte réduction du périmètre du schéma de cohérence territoriale et abrogation des dispositions du schéma sur la commune ou l'établissement public de coopération intercommunale retiré.
+
+Toutefois, par dérogation aux dispositions des articles L. 5215-22, L. 5216-7 et L. 5217-7 du code général des collectivités territoriales, lorsque le périmètre d'un établissement public de coopération intercommunale à fiscalité propre est entièrement compris dans celui d'un schéma de cohérence territoriale, cet établissement public de coopération intercommunale à fiscalité propre est substitué de plein droit à ses communes membres ou à l'établissement dont il est issu dans l'établissement public prévu à l'article L. 143-16. Ni les attributions de l'établissement public ni le périmètre dans lequel il exerce ses compétences ne sont modifiés.
+

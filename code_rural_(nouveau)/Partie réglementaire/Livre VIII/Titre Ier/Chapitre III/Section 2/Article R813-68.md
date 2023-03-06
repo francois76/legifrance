@@ -1,0 +1,4 @@
+###### Article R813-68
+
+Le contrôle pédagogique des établissements d'enseignement supérieur agricole privés sous contrat appartient au ministre de l'agriculture ; il a pour objet de vérifier la conformité de la répartition des différentes disciplines avec les objectifs de formation qui ont servi de références à la commission des titres d'ingénieur pour l'habilitation de chaque établissement à la délivrance de ces titres ou à l'agrément délivré pour assurer une formation préparant au diplôme d'Etat de docteur vétérinaire. Ce contrôle s'exerce sans préjudice des inspections qui incombent aux chargés de mission de la commission des titres d'ingénieur ou aux experts mandatés par le système européen d'évaluation des formations vétérinaires désigné par arrêté du ministre chargé de l'agriculture.
+

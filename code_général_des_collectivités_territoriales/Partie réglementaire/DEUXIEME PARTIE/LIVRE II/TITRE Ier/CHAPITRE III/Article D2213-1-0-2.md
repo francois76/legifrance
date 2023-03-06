@@ -1,0 +1,14 @@
+###### Article D2213-1-0-2
+
+I.-Pour l'application du deuxième alinéa du I de l'article L. 2213-4-1, sont considérées comme ne respectant pas de manière régulière les normes de qualité de l'air les zones administratives de surveillance de la qualité de l'air, définies en application de l'article R. 221-3 du code de l'environnement, dans lesquelles l'une des valeurs limites relatives au dioxyde d'azote (NO2), aux particules PM10 ou aux particules PM2, 5 mentionnées à l'article R. 221-1 du code de l'environnement n'est pas respectée au moins trois années sur les cinq dernières.
+
+II.-Les communes ou les établissements publics de coopération intercommunale à fiscalité propre dont le président dispose du pouvoir de police de la circulation sont considérés comme ne respectant pas de manière régulière les valeurs limites de qualité de l'air lorsque leur territoire est inclus en tout ou partie dans une zone administrative de surveillance de la qualité de l'air mentionnée au I.
+
+L'obligation d'instaurer une zone à faibles émissions mobilité prévue au deuxième alinéa du I de l'article L. 2213-4-1 est satisfaite sur le territoire de l'établissement public de coopération intercommunale à fiscalité propre concerné lorsqu'est mise en œuvre la zone à faibles émissions mobilité étudiée en application du deuxième alinéa du 3° du II de l'article L. 229-26 du code de l'environnement.
+
+III.-Ne sont pas regardés comme dépassant de façon régulière les normes de qualité de l'air les communes ou les établissements publics de coopération intercommunale à fiscalité propre dont le président dispose du pouvoir de police de la circulation qui démontrent, par de la modélisation ou par des mesures réalisées conformément à l'article R. 221-3 du code de l'environnement, que les valeurs limites mentionnées au I sont respectées pour au moins 95 % de la population de chaque commune concernée.
+
+IV.-Sans préjudice du III, ne sont pas regardés comme dépassant de façon régulière les normes de qualité de l'air les communes ou les établissements publics de coopération intercommunale à fiscalité propre dont le président dispose du pouvoir de police de la circulation qui démontrent que les actions mises en place, notamment celles prévues dans le cadre d'un plan de protection de l'atmosphère élaboré en application de l'article L. 222-4 du code de l'environnement, permettent d'atteindre les valeurs limites mentionnées au I pour l'ensemble de la population de chaque commune concernée, dans des délais plus courts que ceux procédant de la mise en place d'une zone à faibles émissions mobilité.
+
+V.-Les dispositions du III et du IV ne sont pas applicables aux métropoles au sens de l'article L. 5217-1, à la métropole d'Aix-Marseille-Provence, à la métropole du Grand Paris, à la métropole de Lyon ainsi qu'aux communes situées sur leur territoire.
+

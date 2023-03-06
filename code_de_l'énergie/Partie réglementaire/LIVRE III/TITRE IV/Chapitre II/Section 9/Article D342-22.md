@@ -1,0 +1,10 @@
+###### Article D342-22
+
+A compter de la publication de la décision d'approbation de la quote-part unitaire mentionnée à l'article D. 321-19, le producteur pour lequel aucune capacité n'a été réservée avant cette publication en application des documentations techniques de référence des gestionnaires des réseaux publics d'électricité est redevable :
+
+1° Du coût des ouvrages propres destinés à assurer le raccordement de son installation de production aux réseaux publics d'électricité ; les ouvrages propres sont constitués par les ouvrages électriques nouvellement créés ou créés en remplacement d'ouvrages existants dans le domaine de tension de raccordement ainsi que par ceux créés au niveau de tension supérieure et situés à l'amont des bornes de sortie du disjoncteur équipant le point de raccordement d'un producteur au réseau public et à l'aval des ouvrages des réseaux publics relevant de ce schéma qui permettent de desservir d'autres installations ; le cas échéant, le gestionnaire de réseau anticipe la réalisation des ouvrages propres afin de diminuer les coûts et les délais de raccordement.
+
+2° D'une quote-part égale au produit de la puissance à raccorder de l'installation de production par la quote-part unitaire du schéma ou du volet géographique particulier définie à l'article D. 342-22-1. Les installations dont la puissance de raccordement est inférieure à 250 kilovoltampères, ainsi que les installations groupées dont la somme des puissances de raccordement est inférieure à 250 kilovoltampères sont exonérées du paiement de la quote-part.
+
+Pour l'application du précédent alinéa, une installation est considérée comme faisant partie d'un groupe dès lors que d'autres installations utilisant le même type d'énergie appartenant à la même société ou à des sociétés qui lui sont liées au sens de l'article L. 336-4 sont déjà raccordées ou entrées en file d'attente en vue de leur raccordement sur un poste dont le niveau de tension primaire est immédiatement supérieur à leur tension de raccordement de référence.
+

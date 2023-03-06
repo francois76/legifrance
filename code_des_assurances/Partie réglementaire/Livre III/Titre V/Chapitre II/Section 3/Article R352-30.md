@@ -1,0 +1,8 @@
+###### Article R352-30
+
+Lorsque l'Autorité de contrôle prudentiel et de résolution suspend, restreint ou interdit temporairement la libre disposition de tout ou partie des actifs d'une entreprise en application du 4 de l'article L. 612-33 du code monétaire et financier, et que cette mesure est prise parce que l'entreprise d'assurance ou de réassurance ne se conforme pas aux dispositions de la section 2 du chapitre Ier du présent titre, elle en informe au préalable les autorités de contrôle des Etats membres d'accueil concernées.
+
+Lorsque l'Autorité de contrôle prudentiel et de résolution suspend, restreint ou interdit temporairement la libre disposition de tout ou partie des actifs d'une entreprise en application du 4 de l'article L. 612-33 du code monétaire et financier, et que cette mesure est prise parce que, dans des circonstances exceptionnelles, l'Autorité estime que la situation financière de l'entreprise concernée va continuer à se détériorer en dépit des mesures visées au troisième alinéa de l'article L. 352-7, elle en informe au préalable les autorités de contrôle des Etats membres d'accueil concernées et leur demande de prendre les mêmes mesures.
+
+Lorsque l'Autorité de contrôle prudentiel et de résolution suspend, restreint ou interdit temporairement la libre disposition de tout ou partie des actifs d'une entreprise en application du 4 de l'article L. 612-33 du code monétaire et financier, et que cette mesure est prise lorsque le minimum de capital requis n'est plus conforme aux dispositions de l'article L. 352-5, ou lorsqu'il risque de ne plus l'être dans les trois prochains mois, elle en informe au préalable les autorités de contrôle des Etats membres d'accueil concernées et leur demande de prendre les mêmes mesures.
+

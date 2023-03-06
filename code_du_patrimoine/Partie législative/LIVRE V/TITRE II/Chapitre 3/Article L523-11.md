@@ -1,0 +1,6 @@
+##### Article L523-11
+
+Les conditions de l'exploitation scientifique des résultats des opérations d'archéologie préventive sont définies par décret en Conseil d'Etat.
+
+Lorsque les opérations d'archéologie préventive sont réalisées par un opérateur autre que l'établissement public mentionné à l'article L. 523-1, cet opérateur est tenu de remettre à l'Etat et à l'établissement public un exemplaire du rapport d'opération. Lorsque les opérations d'archéologie préventive sont réalisées sur le territoire d'une collectivité territoriale disposant d'un service archéologique, l'Etat remet à la collectivité territoriale dont relève le service un exemplaire du rapport d'opération. L'auteur du rapport ne peut s'opposer à son utilisation par l'Etat, par l'établissement public, par les personnes morales dotées de services de recherche archéologique avec lesquelles il est associé en application du quatrième alinéa de l'article L. 523-1 ou par des organismes de recherche et des établissements d'enseignement supérieur ou par les services de collectivités territoriales mentionnés à l'article L. 522-8 et par tout autre opérateur agréé mentionné à l'article L. 523-8, à des fins d'étude et de diffusion scientifiques à l'exclusion de toute exploitation commerciale. Ce rapport d'opération est communicable selon les règles applicables aux documents administratifs.
+

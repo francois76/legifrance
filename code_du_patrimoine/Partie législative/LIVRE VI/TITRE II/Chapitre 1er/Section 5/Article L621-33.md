@@ -1,0 +1,10 @@
+###### Article L621-33
+
+Lorsqu'un immeuble ou une partie d'immeuble protégé au titre des monuments historiques a été morcelé ou lorsqu'un effet mobilier qui lui était attaché à perpétuelle demeure a été détaché d'un immeuble protégé au titre des monuments historiques en violation des articles L. 621-9 ou L. 621-27, l'autorité administrative peut mettre en demeure l'auteur du morcellement ou du détachement illicite de procéder, dans un délai qu'elle détermine, à la remise en place, sous sa direction et sa surveillance, aux frais des auteurs des faits, vendeurs et acheteurs pris solidairement.
+
+En cas d'urgence, l'autorité administrative met en demeure l'auteur du morcellement ou du détachement illicite de prendre, dans un délai qu'elle détermine, les mesures nécessaires pour prévenir la détérioration, la dégradation et la destruction des biens concernés.
+
+L'acquisition d'un fragment d'immeuble protégé au titre des monuments historiques ou d'un effet mobilier détaché en violation des mêmes articles L. 621-9 ou L. 621-27 est nulle. L'autorité administrative et le propriétaire originaire peuvent exercer les actions en nullité ou en revendication dans un délai de cinq ans à compter de la date à laquelle ils ont eu connaissance de l'acquisition. Elles s'exercent sans préjudice des demandes en dommages-intérêts qui peuvent être dirigées soit contre les parties contractantes solidairement responsables, soit contre l'officier public qui a prêté son concours à l'aliénation. Lorsque l'aliénation illicite a été consentie par une personne publique ou par un établissement d'utilité publique, cette action en dommages-intérêts est exercée par l'autorité administrative au nom et au profit de l'Etat.
+
+L'acquéreur ou le sous-acquéreur de bonne foi entre les mains duquel l'objet est revendiqué a droit au remboursement de son prix d'acquisition. Si la revendication est exercée par l'autorité administrative, celle-ci a recours contre le vendeur originaire pour le montant intégral de l'indemnité qu'elle aura dû payer à l'acquéreur ou au sous-acquéreur.
+

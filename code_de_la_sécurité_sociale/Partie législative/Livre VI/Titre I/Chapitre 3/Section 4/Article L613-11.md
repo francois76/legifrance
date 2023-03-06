@@ -1,0 +1,4 @@
+###### Article L613-11
+
+Sauf demande contraire de la part des travailleurs indépendants effectuée dans des conditions fixées par décret, les montants minimaux de cotisations prévus aux articles L. 621-1 et L. 633-1, à l'avant-dernier alinéa de l'article L. 635-1 et au dernier alinéa de l'article L. 632-1 et, pour les professions libérales, à l'avant-dernier alinéa de l'article L. 642-1 et, le cas échéant, aux articles L. 644-1 et L. 644-2 ne sont pas applicables, sous certaines conditions déterminées par décret, aux cotisations et aux contributions de sécurité sociale dues par les personnes mentionnées à l'article L. 262-2 du code de l'action sociale et des familles et à l'article L. 842-1 du présent code ainsi qu'aux cotisations et aux contributions de sécurité sociale dues par les personnes au titre des activités accessoires saisonnières qu'elles exercent.
+

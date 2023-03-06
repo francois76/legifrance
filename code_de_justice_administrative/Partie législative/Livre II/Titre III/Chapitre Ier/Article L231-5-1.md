@@ -1,0 +1,6 @@
+##### Article L231-5-1
+
+Un magistrat ayant exercé les fonctions de délégué du préfet dans un arrondissement, une fonction de directeur départemental ou régional d'une administration de l'Etat ou une fonction de direction dans l'administration d'une collectivité territoriale ne peut, pendant une durée de trois ans, participer au jugement des affaires concernant les décisions prises par les services au sein desquels il exerçait ses fonctions ou sur lesquels il avait autorité.
+
+Lorsqu'il est envisagé d'affecter un magistrat dans un tribunal administratif ou une cour administrative d'appel dont le ressort comprend un département sur le territoire duquel le magistrat a exercé, au cours des trois années précédentes, l'une des fonctions mentionnées à l'article L. 231-5 ou toute autre fonction placée sous l'autorité directe du représentant de l'Etat dans le département ou dans la région, le collège de déontologie de la juridiction administrative se prononce préalablement sur la compatibilité de cette affectation avec le respect des principes d'impartialité et d'indépendance et précise, en cas d'avis favorable, les obligations d'abstention à respecter et leur durée, eu égard à la nature des fonctions précédemment exercées et au ressort de la juridiction.
+

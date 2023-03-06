@@ -1,0 +1,6 @@
+###### Article R4122-39
+
+Afin de garantir la confidentialité et l'intégrité des éléments contenus dans ces déclarations, l'autorité hiérarchique prend les mesures nécessaires pour restreindre l'accès aux seules personnes autorisées que sont l'autorité de nomination, l'autorité hiérarchique, dans le cas mentionné au deuxième alinéa du II de l'article L. 4122-6 le référent déontologue, le militaire et, en tant que de besoin, l'autorité investie du pouvoir disciplinaire.
+
+L'autorité hiérarchique ou, le cas échéant, l'autorité de nomination, est responsable du versement, en annexe du dossier individuel du militaire, de ces déclarations ainsi que, le cas échéant, de la recommandation adressée par le référent déontologue en application du III de l'article L. 4122-6. Ces documents sont conservés sous double pli cacheté. L'enveloppe extérieure est revêtue d'une mention relative à son caractère confidentiel et de la mention “ Déclaration d'intérêts ” suivie du nom, du prénom et du grade du militaire. L'enveloppe intérieure comporte les mêmes mentions, ainsi qu'un bordereau d'émargement des personnes habilitées à y accéder mentionnées à l'alinéa précédent. Cette enveloppe est revêtue de la signature, du nom et du prénom apposés par la dernière personne ayant accédé à la déclaration.
+

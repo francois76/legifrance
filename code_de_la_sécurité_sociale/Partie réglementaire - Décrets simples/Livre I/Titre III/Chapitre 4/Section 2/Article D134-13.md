@@ -1,0 +1,6 @@
+###### Article D134-13
+
+Pour les organismes qui ne sont pas régis par les dispositions de l'article D. 225-2-1, les règlements à effectuer pour assurer l'équilibre financier des branches mentionnées aux 1° à 4° de l'article L. 134-4 sont imputés sur les comptes ouverts en application du premier alinéa de l'article D. 225-2 selon des modalités fixées par convention entre la Caisse nationale de l'assurance maladie, l'Agence centrale des organismes de sécurité sociale et les organismes gestionnaires des risques et branches respectivement concernés. Ces conventions sont soumises à l'approbation de l'autorité de tutelle compétente.
+
+Ces règlements peuvent donner lieu en cours d'exercice à des acomptes dont les montants sont fixés par des échéanciers annuels, annexés aux conventions mentionnées au premier alinéa, déterminés par l'Agence centrale des organismes de sécurité sociale et les caisses concernées sur la base des prévisions retenues dans le cadre de la loi de financement de la sécurité sociale de l'année considérée s'agissant des produits et charges mentionnés au premier alinéa de l'article D. 134-12. Un règlement définitif intervient une fois les comptes mentionnés au troisième alinéa de l'article D. 134-12 clôturés.
+

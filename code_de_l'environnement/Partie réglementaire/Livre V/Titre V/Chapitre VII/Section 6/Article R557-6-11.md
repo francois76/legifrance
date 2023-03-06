@@ -1,0 +1,10 @@
+###### Article R557-6-11
+
+I. – Les produits explosifs ayant satisfait, dans un des Etats membres de l'Union européenne autre que la France, aux procédures d'évaluation prévues par les réglementations transposant, dans le droit interne de l'Etat où elles ont été accomplies, les dispositions de la directive 2014/28/UE du 26 février 2014 susmentionnée ou de la directive 2013/29/UE du 12 juin 2013 susmentionnée, sont présumés conformes aux exigences de la présente section.
+
+II. – Peuvent continuer à être mis à disposition sur le marché, stockés en vue de leur mise à disposition sur le marché, installés, mis en service, utilisés, importés ou transférés, sans avoir satisfait aux dispositions des articles L. 557-4, L. 557-5 et R. 557-6-4 à R. 557-6-8, les produits explosifs qui ont satisfait, dans un des Etats membres de l'Union européenne, aux procédures d'évaluation prévues par les réglementations transposant, dans le droit interne de l'Etat où elles ont été accomplies, les dispositions de la directive 2007/23/CE du Parlement européen et du Conseil du 23 mai 2007 relative à la mise sur le marché d'articles pyrotechniques ou de la directive 93/15/CEE du Conseil du 5 avril 1993 relative à l'harmonisation des dispositions concernant la mise sur le marché et le contrôle des explosifs à usage civil, et qui ont été mis sur le marché respectivement avant le 1er juillet 2015 ou le 20 avril 2016.
+
+III. – Il en est de même pour les articles pyrotechniques qui ont été régulièrement agréés en application du décret n° 2010-455 du 4 mai 2010 relatif à la mise sur le marché et au contrôle des produits explosifs, en particulier des dispositions du dernier alinéa de son article 47, jusqu'au terme de leur agrément, sans toutefois dépasser le 4 juillet 2017 ou, pour les articles pyrotechniques destinés aux véhicules, y compris en tant que pièces détachées, le 4 juillet 2028.
+
+IV. – Les attestations et certificats délivrés au titre d'une de ces réglementations sont valables en vertu de la présente section.
+

@@ -1,0 +1,6 @@
+###### Article L1214-24-1
+
+I.-Lorsque Ile-de-France Mobilités envisage d'apporter aux dispositions du plan mentionné à l'article L. 1214-24 relatives, d'une part, au stationnement, à l'exception de celles relevant de l'article L. 1214-4 et de celles régissant le stationnement des résidents hors voirie, et, d'autre part, à la circulation et à l'usage partagé de la voirie des modifications qui ne portent pas atteinte à l'économie générale de ce plan, en particulier au regard des objectifs énoncés aux 4° à 8° de l'article L. 1214-2, Ile-de-France Mobilités peut décider de mettre en œuvre, pour l'adoption de ces modifications, la procédure prévue au II du présent article.
+
+II.-Le projet de modification, élaboré en concertation avec les autorités détentrices des pouvoirs de police de la circulation et du stationnement, est ensuite soumis pour avis à ces dernières ainsi qu'aux conseils municipaux, aux conseils départementaux, aux organes délibérants des groupements de collectivités territoriales compétents en matière de déplacements et à la métropole du Grand Paris. Le projet est, en outre, soumis à une procédure de participation du public, conformément au II de l'article L. 123-19-1 du code de l'environnement. Les modifications sont arrêtées par l'organe délibérant du conseil régional d'Ile-de-France.
+

@@ -1,0 +1,6 @@
+###### Article L6225-8
+
+Lorsque les épreuves de dépistage mentionnées à l'article L. 6225-7 se révèlent positives ou lorsque la personne mentionnée à l'article L. 6225-1 refuse ou est dans l'impossibilité de les subir, les officiers ou agents de police judiciaire font procéder à des vérifications consistant en des analyses ou examens médicaux, cliniques et biologiques, en vue d'établir si la personne exerçait ses fonctions après avoir fait usage de substances ou plantes classées comme stupéfiants. A cette fin, l'officier ou l'agent de police judiciaire peut requérir un médecin, un interne en médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou un infirmier pour effectuer une prise de sang.
+
+Lorsque la constatation est faite par un agent de police judiciaire adjoint mentionné aux 1° bis, 1° ter, 1° quater ou 2° de l'article 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un usage de substances ou plantes classées comme stupéfiants ou du refus de la personne mentionnée à l'article L. 6225-1 de subir les épreuves de dépistage à tout officier de police judiciaire de la police ou de la gendarmerie nationales territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée.
+

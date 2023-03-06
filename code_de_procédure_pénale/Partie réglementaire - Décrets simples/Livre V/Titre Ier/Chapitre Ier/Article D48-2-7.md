@@ -1,0 +1,6 @@
+##### Article D48-2-7
+
+Si la personne à l'encontre de laquelle a été décerné un mandat de dépôt à effet différé ne se présente pas, sans motif légitime, à la convocation devant le procureur de la République ou à l'établissement pénitentiaire à la date fixée pour son incarcération, le ministère public pourra mettre la peine à exécution en recourant, s'il y a lieu, à la force publique, lorsque la condamnation est exécutoire ou, sauf en cas d'opposition formée contre une condamnation par défaut, lorsque le mandat a été assorti de l'exécution provisoire. Il peut à cette fin diffuser une note de recherche en application du 1° de l'article 230-19.
+
+Lorsqu'a été décerné un mandat de dépôt à effet différé et que la condamnation est exécutoire ou que le mandat a été assorti de l'exécution provisoire, le ministère public peut également mettre la peine à exécution à tout moment, notamment sans attendre la date ayant été fixée ou devant être fixée pour l'incarcération, si la personne est incarcérée dans le cadre d'une autre procédure, ou en cas d'urgence résultant soit d'un risque de danger pour les personnes ou les biens établi par la survenance d'un fait nouveau, soit d'un risque avéré de fuite du condamné.
+

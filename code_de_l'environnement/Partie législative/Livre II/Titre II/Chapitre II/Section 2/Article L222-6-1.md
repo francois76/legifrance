@@ -1,0 +1,4 @@
+###### Article L222-6-1
+
+Dans les agglomérations mentionnées à l'article L. 222-4, après avis des conseils municipaux des communes et des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre intéressés, le représentant de l'Etat dans le département prend, d'ici le 1er janvier 2023, les mesures nécessaires pour améliorer la performance énergétique du parc d'appareils de chauffage au bois et atteindre une réduction de 50 % des émissions de particules fines PM2. 5 issues de la combustion du bois à l'horizon 2030 par rapport à la référence de 2020. Afin d'assurer l'atteinte de ces objectifs, une évaluation de l'efficacité des mesures sur les émissions de PM2. 5 et la qualité de l'air dans les territoires concernés est réalisée au minimum tous les deux ans.
+

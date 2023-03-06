@@ -1,0 +1,4 @@
+##### Article L226-3
+
+Les détenteurs ou propriétaires d'animaux d'élevage au sens de l'article 3 du règlement (CE) n° 1069/2009 du 21 octobre 2009 précité, à l'exception des détenteurs ou propriétaires non professionnels d'équidés, doivent être en mesure de présenter à tout moment aux agents habilités à rechercher et constater les infractions et manquements aux dispositions du présent chapitre, aux textes réglementaires pris pour son application et aux dispositions du droit de l'Union européenne ayant le même objet les documents attestant qu'ils ont conclu un contrat ou cotisent à une structure ayant conclu un contrat leur garantissant, pendant une période d'au moins un an, la collecte et le traitement, dans les conditions prévues par le présent chapitre, des animaux d'élevage morts dans leur exploitation ou de justifier qu'ils disposent d'un outil de traitement agréé.
+

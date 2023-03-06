@@ -1,0 +1,4 @@
+###### Article D615-3
+
+Le préfet est chargé, pour le compte de l'organisme payeur au sens de l'article 7 du règlement (UE) n° 1306/2013 du Parlement européen et du Conseil du 17 décembre 2013, de l'instruction des demandes d'aides et de l'application, lors du calcul du montant des aides à verser, des réductions et des sanctions administratives prévues par les articles 63, 64, 77, 97 et 99 du même règlement, et les articles 15, 16, 19, 21, 24, 25, 26, 27, 28, 31, 32 et 33 du règlement délégué (UE) n° 640/2014 de la Commission du 11 mars 2014 complétant le règlement (UE) n° 1306/2013 du Parlement européen et du Conseil en ce qui concerne le système intégré de gestion et de contrôle, les conditions relatives au refus ou au retrait des paiements et les sanctions administratives applicables aux paiements directs, au soutien au développement rural et à la conditionnalité.
+

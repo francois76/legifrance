@@ -1,0 +1,4 @@
+###### Article R142-19
+
+Les données à caractère personnel et informations enregistrées dans le traitement mentionné à l'article R. 142-11 et dans le composant électronique prévu aux articles R. 414-5 et R. 431-1 peuvent être communiquées, aux fins notamment d'identification, aux agents d'organismes de coopération internationale en matière de lutte contre l'immigration irrégulière dans les conditions prévues par tout engagement liant la France à des organismes internationaux ou à des Etats étrangers ; lorsque ces organismes et ces Etats n'appartiennent pas à l'Union européenne, le transfert des données n'est possible que s'ils assurent à la vie privée, aux libertés et aux droits fondamentaux des personnes à l'égard de données à caractère personnel un niveau de protection suffisant au sens du chapitre V du règlement 2016/679 du 27 avril 2016.
+

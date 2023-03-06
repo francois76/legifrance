@@ -1,0 +1,4 @@
+###### Article L1111-22
+
+La collecte, l'échange ou le partage des données de santé à caractère personnel nécessaires à la prise en charge du patient à l'occasion de soins délivrés lors de sa présence sur le territoire d'un autre Etat membre de l'Union européenne peuvent être réalisés au moyen du dossier médical partagé rendu accessible aux professionnels intervenant dans le cadre de ces soins, dans des conditions définies par décret. Ce décret détermine également les modalités d'échange de données de santé à caractère personnel nécessaires à la prise en charge transfrontalière ainsi que les exigences d'identification et d'authentification des professionnels habilités et de consentement du patient. Un arrêté du ministre chargé de la santé établit la liste des Etats remplissant les conditions prévues par ce décret.
+

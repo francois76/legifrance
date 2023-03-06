@@ -1,0 +1,4 @@
+###### Article L2221-6-1
+
+Pour la mise en œuvre des dispositions de l'article L. 2131-8 et sans que lui soit opposable le secret professionnel mentionné à l'article L. 2221-4, l'Etablissement public de sécurité ferroviaire peut communiquer à l'Autorité de régulation des transports les informations recueillies dans l'exercice de ses missions sur les aspects susceptibles de nuire à la concurrence. Il peut également communiquer celles relatives à la sécurité à l'autorité responsable de la délivrance des licences et, sous réserve du respect du secret des affaires, à la commission intergouvernementale instituée par le traité entre la République française et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord concernant la construction et l'exploitation par des sociétés privées concessionnaires d'une liaison fixe transmanche, signé le 12 février 1986.
+

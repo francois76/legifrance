@@ -1,0 +1,6 @@
+###### Article L236-7
+
+Lorsque des marchandises provenant de l'Union européenne mentionnées à l'article L. 236-5 sont introduites, à l'occasion d'échanges au sein de l'Union, sur le territoire métropolitain ou en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Saint-Barthélemy ou à Saint-Martin par des postes d'inspection frontaliers, leur détenteur doit présenter au service des douanes les documents relatifs à ces marchandises. Des contrôles documentaires sont réalisés par les agents des douanes afin de déterminer leur origine et leur statut. Les infractions au présent alinéa sont constatées par les agents des douanes et sanctionnées conformément à l'article 410 du code des douanes.
+
+Cette mesure ne s'applique pas aux animaux vivants aux produits d'origine animale, aux sous-produits animaux et aux produits dérivés de ces derniers, aux aliments pour animaux, aux micro-organismes pathogènes pour les animaux et aux produits susceptibles de les véhiculer, transportés par des moyens de transport reliant de manière régulière et directe deux points géographiques de l'Union européenne.
+

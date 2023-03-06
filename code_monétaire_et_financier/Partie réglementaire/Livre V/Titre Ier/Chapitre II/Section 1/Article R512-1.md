@@ -1,0 +1,6 @@
+###### Article R512-1
+
+Les banques mutualistes et coopératives, les sociétés locales d'épargne ainsi que les sociétés de caution mutuelle garantissant les prêts consentis par une banque populaire, régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération sont tenues de se soumettre à la révision coopérative mentionnée aux articles 25-1 à 25-5 de ce texte lorsque le nombre moyen de salariés employés à chaque clôture de deux exercices consécutifs est supérieur à cinquante ; le nombre moyen de salariés employés au cours de l'exercice est égal à la moyenne arithmétique des effectifs à la fin de chaque trimestre de l'année civile ou de l'exercice comptable lorsque celui-ci ne coïncide pas avec l'année civile, liés à l'entreprise par un contrat de travail.
+
+Lorsqu'il existe un ensemble formé soit par une caisse régionale ou fédérale avec les caisses locales agréées collectivement avec elle ou les sociétés locales d'épargne qui lui sont affiliées, soit par une banque populaire avec les sociétés de caution mutuelle garantissant les prêts consentis par elle, le seuil de cinquante salariés mentionné ci-dessus s'apprécie au niveau de cet ensemble et la révision coopérative porte sur l'ensemble ainsi constitué.
+

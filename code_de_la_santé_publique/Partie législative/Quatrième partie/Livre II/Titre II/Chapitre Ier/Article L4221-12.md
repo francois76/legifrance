@@ -1,0 +1,16 @@
+###### Article L4221-12
+
+Le ministre chargé de la santé ou, sur délégation, le directeur général du Centre national de gestion peut, après avis d'une commission, composée notamment de professionnels de santé, autoriser individuellement, le cas échéant, dans la spécialité correspondant à la demande d'autorisation, à exercer la pharmacie les personnes titulaires d'un diplôme, certificat ou autre titre permettant l'exercice de la profession de pharmacien dans le pays d'obtention de ce diplôme, certificat ou titre, le cas échéant dans la spécialité correspondant à la demande d'autorisation.
+
+Ces personnes doivent avoir satisfait à des épreuves anonymes de vérification des connaissances, organisées le cas échéant par spécialité, et justifier d'un niveau suffisant de maîtrise de la langue française. Des dispositions réglementaires fixent les conditions d'organisation de ces épreuves et de vérification du niveau de maîtrise de la langue française. Le nombre maximum de candidats susceptibles d'être reçus à ces épreuves est fixé par arrêté du ministre chargé de la santé en tenant compte notamment de l'évolution du nombre d'étudiants déterminé en application de l'article L. 633-3 du code de l'éducation.
+
+Les pharmaciens titulaires d'un diplôme d'études spécialisées obtenu dans le cadre de l'internat à titre étranger sont réputés avoir satisfait aux épreuves de vérification des connaissances précitées.
+
+Le nombre maximum mentionné au deuxième alinéa du présent article n'est pas opposable aux réfugiés, apatrides, bénéficiaires de l'asile territorial et bénéficiaires de la protection subsidiaire et aux Français ayant regagné le territoire national à la demande des autorités françaises.
+
+Les personnes mentionnées au quatrième alinéa titulaires d'un diplôme, d'un certificat ou d'un autre titre permettant l'exercice dans le pays d'obtention de ce diplôme, de ce certificat ou de ce titre se voient délivrer une attestation permettant un exercice temporaire, sous réserve du dépôt d'un dossier auprès du directeur général de l'agence régionale de santé de leur lieu de résidence, lequel peut, après examen de ce dossier, prendre une décision d'affectation temporaire du candidat dans un établissement de santé. Le candidat s'engage en contrepartie à passer les épreuves de vérification des connaissances mentionnées au deuxième alinéa. Un décret en Conseil d'Etat fixe les conditions de mise en œuvre du présent alinéa.
+
+Les lauréats candidats à la profession de pharmacien doivent, en outre, justifier d'un parcours de consolidation de compétences de deux ans, le cas échéant dans leur spécialité, accompli après leur réussite aux épreuves de vérification des connaissances. Ils sont pour cela affectés sur un poste par décision du ministre chargé de la santé ou, sur délégation, du directeur général du Centre national de gestion. Le choix de ce poste est effectué par chaque lauréat, au sein d'une liste arrêtée par le ministre chargé de la santé, et subordonné au rang de classement aux épreuves de vérification des connaissances. Un décret en Conseil d'Etat fixe les modalités de mise en œuvre du présent alinéa.
+
+Nul ne peut être candidat plus de quatre fois aux épreuves de vérification des connaissances et à l'autorisation d'exercice telles que prévues par le présent article.
+

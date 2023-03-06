@@ -1,0 +1,6 @@
+###### Article R1613-5
+
+Seuls les travaux de réparation des dégâts causés aux biens énumérés à l'article R. 1613-4 et les travaux urgents de restauration des capacités d'écoulement des cours d'eau, dont la maîtrise d'ouvrage est assurée par la collectivité ou le groupement intéressé, peuvent donner lieu à l'attribution de subvention par la dotation.
+
+L'assiette de la subvention est égale au montant hors taxes des travaux de réparation des dégâts sur les biens énumérés à l'article R. 1613-4, en tenant compte de leur état et de leur niveau d'entretien à la date de l'événement, et, le cas échéant, des travaux urgents de restauration des capacités d'écoulement des cours d'eau. Dans le cas de travaux de réparation intégrant une modification de la consistance du bien, le montant de la subvention prend en compte les seules dépenses correspondant à la reconstruction à l'identique du bien à la date de l'événement, à l'exclusion de toute dépense d'extension ou d'amélioration. Par dérogation à cette règle, lorsque le coût total des travaux de réparation intégrant des dépenses d'extension ou d'amélioration du bien est inférieur à celui de la reconstruction à l'identique à la date de l'événement, l'assiette de la subvention est égale au montant total de ces travaux.
+

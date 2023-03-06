@@ -1,0 +1,6 @@
+##### Article R74-1-1
+
+Le fonctionnaire détaché qui a souscrit à l'option prévue au premier alinéa de l'article R. 74-1 peut, à compter de la date à laquelle l'administration ou l'organisme de détachement lui a notifié, au moyen d'un document dont le modèle est fixé par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé du budget, qu'il remplit les conditions pour bénéficier d'une pension au titre du régime dont relève la fonction de détachement, et au plus tard à la date à laquelle il adresse sa demande de pension civile ou militaire de retraite, solliciter, auprès de son administration d'origine, le remboursement des cotisations versées à l'Etat au titre de la période du détachement. Sa demande de remboursement est accompagnée de tout justificatif permettant d'attester la période de son détachement.
+
+L'administration d'origine adresse l'attestation de remboursement qui lui a été transmise par le comptable mentionné au troisième alinéa de l'article R. 74-1 ou, à défaut, la copie de la demande de remboursement effectuée par le fonctionnaire, au service des retraites de l'Etat au moment où elle communique à celui-ci la décision de radiation des cadres de l'intéressé.
+

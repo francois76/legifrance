@@ -1,0 +1,12 @@
+###### Article R1322-71
+
+I. - L'eau de mer propre produite doit satisfaire à des limites et références de qualité, portant sur des paramètres microbiologiques et physico-chimiques, fixées par arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'agriculture, pris après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
+
+L'arrêté ministériel mentionné au premier alinéa définit également les limites et références de qualité complémentaires dont le préfet peut, dans le cadre de l'arrêté d'autorisation de production d'eau de mer propre, imposer le respect, si la situation locale le justifie.
+
+II. - Le responsable de la production d'eau de mer propre met en place, lorsque la qualité de l'eau de mer le nécessite, un système de traitement approprié, surveille en permanence la qualité de l'eau de mer propre et vérifie régulièrement le bon fonctionnement des installations au moyen d'un programme de tests et d'analyses effectués sur des points de surveillance déterminés en fonction des dangers identifiés. Un arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'agriculture précise, selon les caractéristiques des installations de production d'eau de mer propre, la nature des analyses, les fréquences minimales de prélèvements et d'analyses et leurs modalités de réalisation.
+
+Le responsable de la production adresse chaque année au directeur général de l'agence régionale de santé et au préfet un bilan des résultats de la surveillance de la qualité de l'eau de mer propre et tient à leur disposition les résultats de la surveillance de la qualité de l'eau de mer propre ainsi que toute information en relation avec cette qualité.
+
+III. - Le directeur général de l'agence régionale de santé, de sa propre initiative ou sur demande du préfet ou du responsable de la production, peut renforcer ou alléger pour un producteur les obligations relatives au contenu et à la fréquence des analyses d'échantillons d'eau de mer propre prévues par l'arrêté ministériel mentionné au premier alinéa du I si les conditions de protection de la zone de prélèvement de l'eau de mer, les conditions de fonctionnement des installations, les vérifications effectuées ou la qualité de l'eau prélevée ou de l'eau de mer propre le nécessitent ou le permettent. Le directeur général peut aussi diligenter des inspections et faire procéder par le responsable de la production à des prélèvements et à des analyses supplémentaires dont le coût incombe au producteur.
+

@@ -1,0 +1,6 @@
+###### Article L423-14
+
+S'il apparaît au juge des enfants ou au juge des libertés et de la détention saisi en application de l'article L. 423-9 que la personne présentée devant lui est majeure, il renvoie le dossier au procureur de la République.
+
+Le juge des enfants ou le juge des libertés et de la détention statue au préalable, après avoir entendu les réquisitions du procureur de la République et les observations de la personne et de son avocat, sur le placement ou le maintien de la personne en détention provisoire jusqu'à sa comparution devant le tribunal correctionnel, devant le juge des libertés et de la détention saisi en application de l'article 396 du code de procédure pénale ou devant le juge d'instruction. Cette comparution doit avoir lieu dans un délai de vingt-quatre heures, à défaut de quoi la personne est remise en liberté d'office. Toutefois, si les faits relèvent de la compétence d'un pôle de l'instruction et qu'il n'existe pas de pôle au sein du tribunal judiciaire, cette comparution doit intervenir devant le juge d'instruction du pôle territorialement compétent dans un délai de quarante-huit heures au plus, à défaut de quoi la personne est remise en liberté d'office.
+

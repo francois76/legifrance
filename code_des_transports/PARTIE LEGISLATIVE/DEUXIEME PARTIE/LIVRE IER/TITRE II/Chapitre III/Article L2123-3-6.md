@@ -1,0 +1,4 @@
+###### Article L2123-3-6
+
+Si une installation de service mentionnée à l'article L. 2123-1 n'a pas été utilisée pendant au moins deux années consécutives et si un candidat s'est déclaré intéressé par un accès à cette installation auprès de l'exploitant de cette installation sur la base de besoins avérés, son propriétaire annonce publiquement que son exploitation est disponible à la location ou au crédit-bail en tant qu'installation de service ferroviaire, en totalité ou en partie, à moins que l'exploitant de cette installation de service ne démontre qu'un processus de reconversion en cours empêche son utilisation par une entreprise ferroviaire, dans les conditions prévues à l'article 15 du règlement d'exécution (UE) 2017/2177 de la Commission du 22 novembre 2017 concernant l'accès aux installations de service et aux services associés au transport ferroviaire.
+

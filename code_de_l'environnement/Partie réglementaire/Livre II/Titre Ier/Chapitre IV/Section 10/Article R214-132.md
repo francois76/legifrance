@@ -1,0 +1,6 @@
+###### Article R214-132
+
+L'agrément peut être suspendu pour une durée maximale d'un an par arrêté motivé du ministre chargé de l'environnement, après que le représentant de l'organisme a eu la possibilité d'être entendu, si l'organisme ne respecte pas les obligations qui découlent de son agrément ou cesse de remplir l'une des conditions qui ont conduit à sa délivrance. Avant la fin de la période de suspension, le représentant de l'organisme transmet tout élément de nature à garantir le respect de ces obligations ou conditions au ministre chargé de l'environnement. Celui-ci peut décider de lever la suspension avant son terme s'il estime que les éléments transmis sont suffisants. Si tel n'est pas le cas, il peut retirer l'agrément, par arrêté motivé, à l'issue de la période de suspension. A défaut d'une telle décision ou lorsque le ministre décide de lever la suspension, l'agrément est rétabli pour sa durée résiduelle.
+
+En cas de manquement particulièrement grave de l'organisme aux obligations ou conditions mentionnées à l'alinéa précédent, l'agrément est retiré sans délai par arrêté motivé du ministre chargé de l'environnement après que le représentant de l'organisme a été invité à présenter ses observations.
+

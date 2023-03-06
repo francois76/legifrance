@@ -1,0 +1,16 @@
+###### Article R162-36
+
+Les établissements de santé exerçant les activités mentionnées aux 1° à 4° de l'article L. 162-22 procèdent au recueil des indicateurs liés à la qualité et à la sécurité des soins mentionnés aux articles L. 6144-1 et L. 6161-2-2 du code de la santé publique, et fixés par arrêté des ministres chargés de la santé et de la sécurité sociale. Pour certains de ces indicateurs, ce recueil n'est obligatoire qu'au-delà d'un seuil d'activité fixé par arrêté des mêmes ministres.
+
+Les établissements exerçant les activités mentionnées aux 1°, 2° et 4° de l'article L. 162-22 peuvent bénéficier de la dotation complémentaire mentionnée à l'article L. 162-23-15 et faire l'objet d'une pénalité financière dans les conditions définies au même article. La liste des indicateurs qui, parmi les indicateurs précités, sont retenus pour le calcul de cette dotation complémentaire est fixée par arrêté pris, après avis de la Haute Autorité de Santé, avant le 31 décembre précédant l'année civile considérée.
+
+Lorsqu'un établissement ne satisfait pas à l'obligation de recueil d'un indicateur ou que ce recueil fait l'objet d'une invalidation par l'autorité administrative dans le cadre du contrôle de la qualité des données déclarées par l'établissement de santé, cet établissement ne perçoit pas de dotation complémentaire au titre du ou des indicateurs concernés pour l'année considérée. Dans le cas où, pour le ou les indicateurs concernés, un seuil minimal de résultat a été défini, alors ce dernier est réputé non atteint pour les établissements qui n'ont pas procédé au recueil alors qu'ils en avaient l'obligation ou qui ont vu leurs résultats invalidés lors du contrôle sur place.
+
+A l'issue du contrôle du recueil des indicateurs de qualité et de sécurité des soins mentionné au deuxième alinéa de l'article L. 1435-7 du code de la santé publique, l'autorité en charge du contrôle procède à la rédaction d'un rapport mentionnant : la période du contrôle, son objet, sa durée ainsi que les résultats de ce contrôle. Ces résultats font apparaître les indicateurs pour lesquels le recueil a été invalidé et les motifs de cette invalidation. Ce rapport est daté, signé et transmis sans délai au directeur d'établissement ou son représentant légal par l'autorité en charge du contrôle.
+
+A compter de la date de réception de ce rapport, l'établissement de santé dispose d'un délai de huit jours ouvrés pour faire connaître, le cas échéant, ses observations. A l'expiration de ce délai, l'autorité en charge du contrôle transmet au directeur général de l'agence régionale de santé le rapport de contrôle accompagné, s'il y a lieu, des observations de l'établissement.
+
+Le cas échéant, lorsque des modifications sont apportées au rapport de contrôle, le directeur général de l'agence régionale de santé adresse à l'établissement de santé concerné une copie du rapport modifié, et des précisions quant aux motifs ayant présidé à ces modifications.
+
+Le délai entre la réalisation du contrôle sur place et l'adoption par le directeur général de l'agence régionale de santé du rapport, le cas échéant, modifié à la suite des observations de l'établissement, ne peut excéder quinze jours ouvrés.
+

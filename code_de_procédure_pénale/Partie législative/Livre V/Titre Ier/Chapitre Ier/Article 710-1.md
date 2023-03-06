@@ -1,0 +1,4 @@
+##### Article 710-1
+
+Lorsqu'une personne condamnée demande, en application de l'article 132-4 du code pénal, la confusion de peines prononcées contre elle après que les condamnations sont devenues définitives, sa demande est portée devant le tribunal correctionnel, dont la décision peut faire l'objet d'un appel devant la chambre des appels correctionnels. Sont compétents le ou les tribunaux correctionnels ayant prononcé les peines ou se trouvant au siège d'une des juridictions ayant prononcé les peines. Les deux derniers alinéas de l'article 710 du présent code sont alors applicables. Si l'une ou plusieurs des peines prononcées sont des peines criminelles, le renvoi à la formation collégiale du tribunal ou de la chambre des appels correctionnels est de droit s'il est demandé par le condamné ou le ministère public.
+

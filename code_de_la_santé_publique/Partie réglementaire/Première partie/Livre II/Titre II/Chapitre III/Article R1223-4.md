@@ -1,0 +1,6 @@
+###### Article R1223-4
+
+I. – Lorsque l'un des plasmas mentionnés à l'article L. 1223-3 fait l'objet d'une réévaluation mentionnée au deuxième alinéa de l'article L. 1221-8-2, le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé en informe sans délai l'établissement préparant le produit. Il l'informe également sans délai du résultat de cette réévaluation.
+
+II. – Si la réévaluation impose une modification des mentions figurant dans une communication à caractère promotionnel qui bénéficiait précédemment d'une autorisation mentionnée à l'article L. 1223-4, l'établissement préparant le produit ne peut reprendre cette communication, interrompue en application du deuxième alinéa de l'article L. 1223-3, qu'après avoir obtenu une nouvelle autorisation. Dans ce cas, par dérogation aux dispositions mentionnées à l'article R. 1223-8, la demande d'autorisation peut être déposée en dehors des périodes de dépôt déterminées par décision du directeur général de l'agence. Cette demande d'autorisation est réputée acceptée en l'absence de décision du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé dans un délai de deux mois à compter de la date de réception de la demande.
+

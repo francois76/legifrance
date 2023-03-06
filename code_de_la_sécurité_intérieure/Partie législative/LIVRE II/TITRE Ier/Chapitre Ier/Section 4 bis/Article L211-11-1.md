@@ -1,0 +1,8 @@
+###### Article L211-11-1
+
+Les grands événements exposés, par leur ampleur ou leurs circonstances particulières, à un risque exceptionnel de menace terroriste sont désignés par décret. Ce décret désigne également les établissements et les installations qui accueillent ces grands événements ainsi que leur organisateur.
+
+L'accès de toute personne, à un autre titre que celui de spectateur ou de participant, à tout ou partie des établissements et installations désignés par le décret mentionné au premier alinéa est soumis à autorisation de l'organisateur pendant la durée de cet événement et de sa préparation. L'organisateur recueille au préalable l'avis de l'autorité administrative rendu à la suite d'une enquête administrative qui peut donner lieu à la consultation, selon les règles propres à chacun d'eux, de certains traitements automatisés de données à caractère personnel relevant de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. Un avis défavorable ne peut être émis que s'il ressort de l'enquête administrative que le comportement ou les agissements de la personne sont de nature à porter atteinte à la sécurité des personnes, à la sécurité publique ou à la sûreté de l'Etat.
+
+Un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés fixe les modalités d'application du présent article, notamment la liste des fichiers mentionnés au deuxième alinéa pouvant faire l'objet d'une consultation, les catégories de personnes concernées et les garanties d'information ouvertes à ces personnes.
+

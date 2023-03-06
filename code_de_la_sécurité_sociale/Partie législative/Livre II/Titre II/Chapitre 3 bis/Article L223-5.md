@@ -1,0 +1,18 @@
+##### Article L223-5
+
+La Caisse nationale de solidarité pour l'autonomie gère la branche mentionnée au 5° de l'article L. 200-2 et, à cet effet, a pour rôle :
+
+1° De veiller à l'équilibre financier de cette branche. A ce titre, elle établit les comptes de celle-ci et effectue le règlement et la comptabilisation de toute opération relevant de cette branche. Elle est chargée de la gestion du risque ;
+
+2° De piloter et d'assurer l'animation et la coordination, dans le champ des politiques de soutien à l'autonomie des personnes âgées et des personnes handicapées, des acteurs participant à leur mise en œuvre en vue de garantir l'équité, notamment territoriale, la qualité et l'efficience de l'accompagnement des personnes concernées. A ce titre, elle assure la collecte et la valorisation des données relatives aux besoins et à l'offre de services et de prestations. Elle conçoit et met en œuvre des systèmes d'information pouvant comporter l'hébergement de données de santé en lien avec le groupement public prévu à l'article L. 1111-24 du code de la santé publique et du système d'information commun mentionné à l'article L. 247-2 du code de l'action sociale et des familles. Elle met son expertise technique à la disposition des personnes publiques et des professionnels de l'aide à l'autonomie et soutient le développement de la formation dans ce domaine. Elle assure, notamment en vue de garantir la qualité de service et de veiller à l'équité du traitement des demandes de compensation du handicap et d'aide à l'autonomie, un rôle d'accompagnement et d'appui aux maisons départementales de l'autonomie mentionnées à l'article L. 149-4 du code de l'action sociale et des familles et aux maisons départementales des personnes handicapées mentionnées à l'article L. 146-3 du même code ainsi qu'un rôle d'évaluation de leur contribution à la politique de l'autonomie des personnes handicapées et des personnes âgées ;
+
+3° De contribuer, en assurant une répartition équitable sur le territoire national, au financement et au pilotage d'une politique de prévention de la perte d'autonomie et de lutte contre l'isolement, des établissements et services sociaux et médico-sociaux, des prestations individuelles d'aide à l'autonomie et des dispositifs mis en place aux niveaux national ou local en faveur de l'autonomie et des proches aidants et de contribuer au financement de l'investissement dans le champ du soutien à l'autonomie. Pour l'exercice de ces missions, la Caisse nationale de solidarité pour l'autonomie peut confier la réalisation d'opérations aux organismes des régimes obligatoires de sécurité sociale, dans des conditions faisant l'objet de conventions entre la caisse et ces organismes ;
+
+4° De contribuer à l'information des personnes âgées, des personnes handicapées et de leurs proches aidants, notamment en créant des services numériques et en favorisant la mise en place de guichets uniques au niveau départemental permettant de faciliter leurs démarches administratives et le suivi personnalisé de leurs parcours ;
+
+5° De contribuer à la recherche et à l'innovation dans le champ du soutien à l'autonomie des personnes âgées et des personnes handicapées ;
+
+6° De contribuer à la réflexion prospective sur les politiques de l'autonomie, leurs possibles adaptations territoriales et de proposer toute mesure visant à améliorer la couverture du risque, en prenant notamment en considération les inégalités liées au sexe afin d'élaborer des mesures correctives ;
+
+7° De contribuer à l'attractivité des métiers participant à l'accompagnement et au soutien à l'autonomie des personnes âgées et des personnes handicapées, notamment au travers de ses actions en faveur de la formation et de la professionnalisation des professionnels.
+

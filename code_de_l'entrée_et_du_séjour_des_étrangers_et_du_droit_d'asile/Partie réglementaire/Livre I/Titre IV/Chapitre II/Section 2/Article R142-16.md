@@ -1,0 +1,62 @@
+###### Article R142-16
+
+Peuvent êtres destinataires des données à caractère personnel et informations enregistrées dans le traitement automatisé mentionné à l'article R. 142-11 et dans le composant électronique prévu aux articles R. 414-5 et R. 431-1, à l'exclusion des images numérisées des empreintes digitales, à raison de leurs attributions et dans la limite du besoin d'en connaître :
+
+1° Au titre de la délivrance des autorisations de travail, les agents des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi individuellement désignés et spécialement habilités par le directeur régional ;
+
+2° Au titre de la lutte contre le travail illégal, et notamment de l'interdiction de l'emploi d'étrangers sans titre de travail prévue à l'article L. 8251-1 du code du travail, et en application de l'article L. 8271-19 du même code, les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 du code du travail et fonctionnaires de contrôle assimilés mentionnés à l'article L. 8113-7 de ce code, individuellement désignés et spécialement habilités par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, ainsi qu'en application de l'article L. 8271-17 du même code, les officiers et agents de police judiciaire de la police nationale et de la gendarmerie nationale, et les agents des douanes, individuellement désignés et spécialement habilités respectivement par le directeur général de la police nationale, le directeur général de la gendarmerie nationale et le directeur régional des douanes ou, le cas échéant, le directeur général des douanes et droits indirects ;
+
+3° Au titre de l'accueil des étrangers, de l'intégration, de l'aide au retour et en matière de contribution spéciale et de contribution forfaitaire représentative des frais de réacheminement, les agents de l'Office français de l'immigration et de l'intégration, individuellement désignés et spécialement habilités par leur directeur général ;
+
+4° Au titre du traitement des demandes d'asile ou du statut d'apatride et de la protection des réfugiés, les agents de l'Office français de protection des réfugiés et apatrides, individuellement désignés et spécialement habilités par leur directeur général ;
+
+5° Au titre des avis rendus dans les procédures de déchéance de la nationalité ou de demande de naturalisation, les personnels de la direction des libertés publiques et des affaires juridiques individuellement désignés et spécialement habilités par leur directeur ;
+
+6° Au titre de la lutte contre la fraude documentaire :
+
+a) les personnels de la mission " délivrance sécurisée des titres " au sein du secrétariat général du ministère de l'intérieur, individuellement désignés et spécialement habilités par le secrétaire général ;
+
+b) les agents des préfectures et sous-préfectures compétents en matière de prévention et de lutte contre la fraude documentaire individuellement désignés et spécialement habilités par le préfet ;
+
+c) les personnels des laboratoires du service national de police scientifique, de l'identité judiciaire de la police nationale et de l'institut de recherche criminelle de la gendarmerie nationale et les personnels du bureau de la fraude documentaire de la direction centrale de la police aux frontières, individuellement désignés et spécialement habilités, respectivement, par le directeur général de la police nationale et le directeur général de la gendarmerie nationale ou par les personnels appartenant à la catégorie A ou ayant le rang d'officier sur lesquels ces directeurs généraux ont autorité et auxquels ils ont donné délégation ;
+
+7° Au titre :
+
+a) du contrôle et de la vérification de l'identité des personnes et de la vérification de la validité et de l'authenticité du titre de séjour, dans les conditions prévues aux articles L. 812-1 et L. 813-1 et aux articles 78-2 et 78-3 du code de procédure pénale, les officiers de police judiciaire de la police nationale et de la gendarmerie nationale et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints mentionnés à l'article 20 et au 1° de l'article 21 du code de procédure pénale, les agents spécialisés, techniciens ou ingénieurs de police technique et scientifique, les agents des douanes dans les conditions prévues à l'article 67 quater du code des douanes ainsi que les agents des services fiscaux et les agents des douanes habilités à effectuer des missions de police judiciaire, individuellement désignés et spécialement habilités, respectivement, par le directeur général de la police nationale, le directeur général de la gendarmerie nationale, ou par les personnels appartenant à la catégorie A ou ayant le rang d'officier sur lesquels ces directeurs ont autorité et auxquels ils ont donné délégation, le directeur régional des douanes ou, le cas échéant, le directeur général des douanes et droits indirects et par le magistrat mentionné à l'article 28-2 du code de procédure pénale ou par le magistrat délégué aux missions judiciaires de la douane ;
+
+b) des enquêtes ou des procédures confiées par l'autorité judiciaire, les officiers de police judiciaire de la police ou de la gendarmerie nationales et, sous l'ordre et la responsabilité de ceux-ci, les agents de police judiciaire individuellement désignés et spécialement habilités par leur supérieur hiérarchique ;
+
+c) des procédures confiées par l'autorité judiciaire, d'une part, pour les infractions prévues à l'article 28-1 du code de procédure pénale, les agents des douanes habilités à effectuer des missions de police judiciaire, individuellement désignés et spécialement habilités par le magistrat délégué aux missions judiciaires de la douane ou, le cas échéant, par le directeur général des douanes et droits indirects, et, d'autre part, pour les infractions prévues à l'article 28-2 du même code, les agents des services fiscaux habilités à effectuer des missions de police judiciaire, individuellement désignés et spécialement habilités par les magistrats mentionnés à cet article ;
+
+d) de la lutte contre l'aide à l'entrée et au séjour irréguliers, les officiers de police judiciaire de l'office de lutte contre le trafic illicite de migrants et des brigades mobiles de recherche de la direction centrale de la police aux frontières, ainsi que les officiers de police judiciaire des sections de recherche de la gendarmerie nationale, individuellement désignés et spécialement habilités, respectivement, par le directeur central de la police aux frontières et le directeur général de la gendarmerie nationale ;
+
+8° Aux seules fins de l'accomplissement des vérifications prévues ci-après :
+
+a) les agents des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale, assurant l'affiliation, le versement des prestations ou le recouvrement des cotisations, individuellement désignés et spécialement habilités respectivement par les directeurs de ces organismes, à la seule fin de vérifier que les assurés étrangers satisfont à la condition de régularité de leur situation en France prévue par les articles L. 115-6, L. 114-10-2, L. 161-16-1, L. 161-18-1, L. 161-25-1, L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par l'article L. 262-4 du code de l'action sociale et des familles et par le 2° du I de l'article L. 822-2 du code de la construction et de l'habitation ;
+
+b) les agents de Pôle emploi, individuellement désignés et spécialement habilités par leur directeur, à la seule fin de vérifier, en application de l'article L. 5411-4 du code du travail, la validité des titres de séjour et de travail des étrangers tant pour leur inscription que pour leur maintien sur la liste des demandeurs d'emploi ;
+
+c) les agents des préfectures et sous-préfectures compétents, individuellement désignés et spécialement habilités par le préfet et, à Paris, par le préfet de police, à la seule fin d'instruire les demandes de délivrance ou d'échange des permis de conduire ;
+
+9° Dans les conditions fixées par l'article L. 222-1 du code de la sécurité intérieure :
+
+a) les agents des services de la police nationale et les militaires des unités de la gendarmerie nationale chargés des missions de prévention et de répression des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme, individuellement désignés et spécialement habilités par le directeur général dont ils relèvent ;
+
+b) les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure, individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme ;
+
+10° A des fins exclusives d'établissement de statistiques pour la consultation d'éléments anonymisés obtenus à partir du traitement automatisé :
+
+a) les agents de l'Institut national d'études démographiques, individuellement désignés par leur directeur ;
+
+b) les agents de l'Institut national de la statistique et des études économiques et des services statistiques ministériels, dans le respect de l'article 7 bis de la loi n° 51-711 du 7 juin 1951 modifiée sur l'obligation, la coordination et le secret en matière de statistiques ;
+
+11° Au titre de la délivrance des agréments des exploitants individuels et des dirigeants et gérants de personne morale ou de la délivrance des autorisations d'exercice des employés exerçant des activités privées de sécurité, les agents du Conseil national des activités privées de sécurité, individuellement désignés par son directeur et spécialement habilités par le préfet ;
+
+12° Pour les besoins exclusifs de l'évaluation prévue par l'article R. 221-11 du code de l'action sociale et des familles, les agents chargés de la mise en œuvre de la protection de l'enfance, individuellement désignés et spécialement habilités par le président du conseil départemental ;
+
+13° Aux seules fins d'obtenir confirmation de l'acquittement des taxes dont il est redevable et de l'accomplissement des formalités prévues à l'article R. 431-17, le ressortissant étranger concerné par cette procédure ;
+
+14° Aux seules fins d'accompagner les ressortissants étrangers dans leurs démarches en ligne de demande de titre de séjour ou de document de voyage, les agents de l'Agence nationale des titres sécurisés chargés de cette mission d'accompagnement, individuellement désignés et spécialement habilités par leur directeur général ;
+
+15° Aux seules fins d'échanger les documents et informations nécessaires à l'instruction de leur demande de titre de séjour ou de document de voyage et d'être informés de la décision prise sur cette dernière et pour les seules données les concernant, les ressortissants étrangers ayant déposé cette demande sur le téléservice mentionné à l'article R. 431-2.
+

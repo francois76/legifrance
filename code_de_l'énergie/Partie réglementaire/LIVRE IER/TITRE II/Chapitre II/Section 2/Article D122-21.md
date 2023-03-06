@@ -1,0 +1,10 @@
+###### Article D122-21
+
+Les entreprises mentionnées à l'article D. 122-19 transmettent, avant le 30 novembre de l'année au cours de laquelle elles ont présenté leur audit ou leur revue, au préfet de région où leur site est implanté, ou au préfet de région de leur siège social si elles possèdent plusieurs sites éligibles, ou au préfet de la région Ile-de-France si elles possèdent plusieurs sites éligibles et si leur siège social est situé hors de France, un plan de performance énergétique qu'elles s'engagent à mettre en œuvre. Un auditeur énergétique ou de certification du système de management au sens de la norme mentionnée à l'article D. 122-20 atteste du respect des obligations mentionnées aux troisième et quatrième alinéas du présent article. Le préfet informe l'Agence de services et de paiement de la transmission de ce plan.
+
+Par dérogation à l'alinéa précédent, les entreprises qui demandent le bénéfice de l'aide pour les coûts supportés au titre de tout ou partie des années 2021 à 2024 transmettent leur plan de performance énergétique avant le 30 novembre 2023. Ce plan s'appuie sur l'audit ou la revue énergétique mentionnés au premier alinéa de l'article D. 122-20, réalisé postérieurement au 1er janvier 2021.
+
+Les entreprises mentionnées aux deux alinéas précédents incluent dans leur plan de performance énergétique les investissements d'efficacité énergétique identifiés dans leur audit ou leur revue dont le temps de retour sur investissement ne dépasse pas trois ans et dont les montants cumulés sont proportionnés à l'aide versée.
+
+Les montants cumulés mentionnés à l'alinéa précédent sont présumés proportionnés à l'aide versée lorsqu'ils ne dépassent pas le montant de l'aide versée durant l'année au cours de laquelle l'audit ou la revue est présenté, multiplié par le nombre d'années pendant lesquelles des coûts mentionnés au 1 du III de l'article L. 122-8 sont supportés sur la période de référence définie au I de l'article D. 122-23 à laquelle se rapporte le plan.
+

@@ -1,0 +1,8 @@
+###### Article R1121-13
+
+L'autorisation mentionnée à l'article L. 1121-13 est délivrée après enquête effectuée par un médecin inspecteur de santé publique ou un inspecteur de l'agence régionale de santé ayant la qualité de médecin et, lorsque les recherches impliquent l'emploi de médicaments ou de dispositifs médicaux stériles, un pharmacien inspecteur de santé publique ou un inspecteur de l'agence régionale de santé ayant la qualité de pharmacien. Le ministre de la défense est préalablement averti de leur visite lorsque la recherche est réalisée dans un lieu relevant de son autorité.
+
+En tant que de besoin, ces inspecteurs vérifient que les conditions d'aménagement, d'équipements, d'hygiène, de fonctionnement et d'entretien des lieux autorisés sont conformes aux dispositions du présent livre et des livres I et II de la cinquième partie du présent code.
+
+Cette autorisation est délivrée pour une durée de sept ans. Toutefois, lorsque des essais cliniques de première administration à l'homme d'un médicament doivent se dérouler dans ce lieu, cette autorisation est délivrée pour une durée de trois ans. Les agences régionales de santé rendent publiques les autorisations qu'elles délivrent sur leur site internet.
+

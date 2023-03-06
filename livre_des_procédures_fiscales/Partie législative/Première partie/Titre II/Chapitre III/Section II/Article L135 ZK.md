@@ -1,0 +1,4 @@
+###### Article L135 ZK
+
+Pour les besoins de l'accomplissement de leurs missions de contrôle et de recouvrement portant sur les infractions prévues à l'article L. 8211-1 du code du travail, les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 du même code, les agents des organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale et ceux mentionnés à l'article L. 724-7 du code rural et de la pêche maritime, individuellement désignés et dûment habilités selon des modalités fixées par décret, disposent d'un droit d'accès direct aux informations contenues dans les fichiers tenus en application des articles 1649 A et 1649 ter du code général des impôts, aux données relatives aux mutations à titre onéreux ou gratuit et aux actes relatifs aux sociétés ainsi qu'aux informations mentionnées à l'article L. 107 B du présent livre.
+

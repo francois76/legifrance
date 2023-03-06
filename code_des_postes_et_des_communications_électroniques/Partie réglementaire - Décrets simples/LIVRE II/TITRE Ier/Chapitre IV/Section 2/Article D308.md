@@ -1,0 +1,6 @@
+###### Article D308
+
+Lorsqu'un opérateur est tenu de faire droit aux demandes raisonnables d'accès à des infrastructures de réseaux en application de l'article D. 310, il publie une offre technique et tarifaire pour l'accès aux infrastructures de réseaux. Cette offre contient une description des prestations liées à l'accès aux infrastructures de réseaux ainsi que des modalités, conditions et prix qui y sont associés. Elle inclut en outre les prestations associées à l'accès aux infrastructures de réseaux, notamment la fourniture des informations nécessaires à sa mise en œuvre et, le cas échéant, une offre de colocalisation des équipements.
+
+L'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse veille à ce que l'offre mentionnée à l'alinéa précédent tienne le plus grand compte des lignes directrices de l'ORECE sur les critères minimaux auxquels doit satisfaire une offre de référence. L'Autorité veille à ce que les indicateurs de performance clés soient précisés, en cas de besoin, ainsi que les niveaux de service correspondants, et contrôle leur respect. En outre, l'Autorité peut déterminer les sanctions financières afférentes à l'offre de référence.
+

@@ -1,0 +1,4 @@
+###### Article L731-14-1
+
+Pour les chefs d'exploitation ou d'entreprise agricole qui relèvent des articles L. 526-22 et suivants du code de commerce et qui sont assujettis à l'impôt sur les sociétés, les revenus professionnels mentionnés à l'article L. 731-14 du présent code intègrent également la part des revenus mentionnés aux articles 108 à 115 du code général des impôts qui excède 10 % du montant du bénéfice net au sens de l'article 38 du même code ou, lorsque ces chefs d'exploitation ou d'entreprise agricole font application de la section 2 du chapitre VI du titre II du livre V du code de commerce et si ce montant est supérieur, la part de ces revenus qui excède 10 % du montant de la valeur des biens du patrimoine affecté constaté en fin d'exercice. Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+

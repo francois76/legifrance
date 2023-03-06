@@ -1,0 +1,14 @@
+###### Article R581-41
+
+Une publicité numérique ne peut avoir une surface unitaire supérieure à 8 mètres carrés ni s'élever à plus de 6 mètres au-dessus du niveau du sol. Toutefois, lorsque la consommation électrique du dispositif publicitaire numérique excède les niveaux définis par arrêté ministériel, la publicité numérique ne peut avoir une surface unitaire supérieure à 2,1 mètres carrés ni s'élever à plus de 3 mètres au-dessus du niveau du sol.
+
+Par dérogation à l'alinéa précédent, une publicité numérique peut avoir une surface unitaire maximale égale à 50 mètres carrés et s'élever jusqu'à 10 mètres au-dessus du niveau du sol lorsqu'elle est installée sur l'emprise d'un aéroport dont le flux annuel de passagers dépasse trois millions de personnes. Dans ce cas, le dispositif publicitaire numérique est apposé conformément aux prescriptions de l'autorité compétente en matière de police et respecte les prescriptions du quatrième alinéa de l'article R. 581-34 et celles de l'article R. 581-35.
+
+Sur l'emprise des équipements sportifs mentionnés aux articles L. 581-7 et L. 581-10, la publicité numérique peut s'élever jusqu'à 10 m au-dessus du niveau du sol et avoir une surface unitaire d'une limite maximale de 50 m <sup>2</sup>. Une élévation supérieure à 10 m peut être autorisée, pour la publicité apposée sur un mur, une façade ou une clôture, compte tenu notamment de la durée d'installation de la publicité, de sa surface, des procédés utilisés, des caractéristiques des supports, de son insertion architecturale et paysagère, de son impact sur le cadre de vie environnant et de ses incidences éventuelles sur la sécurité routière :
+
+a) Pour les dispositifs publicitaires installés sur l'emprise des équipements sportifs mentionnés à l'article L. 581-7, par l'autorité compétente en matière de police de la publicité en vertu de l'article L. 581-14-2. La demande de dérogation est instruite dans un délai de quinze jours à compter de la date de réception de la déclaration préalable prévue à l'article R. 581-8. La décision est notifiée au demandeur. A défaut de notification dans ce délai, la demande est réputée acceptée ;
+
+b) Pour les dispositifs publicitaires installés sur l'emprise des équipements sportifs mentionnés à l'article L. 581-10, par l'autorité compétente pour délivrer les autorisations d'installation en vertu de ce même article. La demande de dérogation est instruite selon les mêmes modalités que l'autorisation préalable prévue à l'article R. 581-21-1.
+
+Afin d'éviter les éblouissements, les dispositifs publicitaires numériques situés à l'intérieur des agglomérations et, en dehors des agglomérations, sur l'emprise des aéroports et des gares ferroviaires et routières ainsi que des équipements sportifs mentionnés à l'article L. 581-7, sont équipés d'un système de gradation permettant d'adapter l'éclairage à la luminosité ambiante.
+

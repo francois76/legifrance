@@ -1,0 +1,6 @@
+###### Article L5141-14-1
+
+I.-Les titulaires d'autorisation de mise sur le marché de médicaments vétérinaires mentionnée à l'article L. 5141-1 ainsi que les entreprises assurant la fabrication et la distribution d'aliments médicamenteux déclarent à l'autorité administrative compétente les médicaments vétérinaires comportant une ou plusieurs substances antimicrobiennes qu'ils cèdent ou qui sont cédés pour leur compte sur le territoire national. Les fabricants et distributeurs d'aliments médicamenteux mentionnent, en outre, le vétérinaire prescripteur et les détenteurs d'animaux auxquels ces médicaments sont destinés.
+
+II.-Les professionnels mentionnés à l'article L. 5143-2 déclarent à l'autorité administrative les médicaments vétérinaires comportant une ou plusieurs substances antimicrobiennes qu'ils prescrivent, cèdent ou utilisent ainsi que les médicaments à usage humain cédés, prescrits ou utilisés en application de l'article L. 5143-4. La déclaration mentionne l'identité des détenteurs d'animaux auxquels ces médicaments sont destinés, appartenant à des espèces dont la chair ou les produits sont destinés à la consommation humaine. La déclaration mentionne le vétérinaire prescripteur.
+

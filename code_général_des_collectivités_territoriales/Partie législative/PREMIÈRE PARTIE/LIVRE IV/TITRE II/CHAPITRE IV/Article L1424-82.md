@@ -1,0 +1,22 @@
+###### Article L1424-82
+
+La contribution de la collectivité de Corse au budget de chaque service d'incendie et de secours en Corse est fixée, chaque année, par une délibération de l'Assemblée de Corse au vu des rapports sur l'évolution des ressources et des charges prévisibles des services au cours de l'année à venir, adoptés par les conseils d'administration de ceux-ci.
+
+Les relations entre la collectivité de Corse et les services d'incendie et de secours en Corse et, notamment, la contribution de la collectivité de Corse, font l'objet d'une convention pluriannuelle.
+
+Les modalités de calcul et de répartition des contributions des communes et des établissements publics de coopération intercommunale compétents pour la gestion des services d'incendie et de secours au financement du service d'incendie et de secours dont ils relèvent sont fixées par le conseil d'administration de celui-ci. Le conseil d'administration peut, à cet effet, prendre en compte au profit des communes et des établissements publics de coopération intercommunale la présence dans leur effectif d'agents publics titulaires ou non titulaires ayant la qualité de sapeur-pompier volontaire, la disponibilité qui leur est accordée pendant le temps de travail ou les mesures sociales prises en faveur du volontariat. Le conseil d'administration peut, en outre, prendre en compte la situation des communes et des établissements publics de coopération intercommunale situés dans les zones rurales ou comptant moins de 5 000 habitants.
+
+Les contributions des communes, des établissements publics de coopération intercommunale et de la collectivité de Corse au budget du service d'incendie et de secours dont ils relèvent constituent des dépenses obligatoires.
+
+Par dérogation au quatrième alinéa du présent article, les contributions au budget du service d'incendie et de secours des communes membres d'un établissement public de coopération intercommunale à fiscalité propre créé après le 3 mai 1996 peuvent faire l'objet d'un transfert à cet établissement, dans les conditions prévues à l'article L. 5211-17. Dans ce cas, la contribution de cet établissement public de coopération intercommunale est déterminée en prenant en compte l'addition des contributions des communes concernées pour l'exercice précédant le transfert de ces contributions à l'établissement public de coopération intercommunale.
+
+La présence d'agents publics titulaires ou non titulaires ayant la qualité de sapeur-pompier volontaire parmi les effectifs des communes membres de cet établissement peut être prise en compte pour le calcul du montant global de la contribution qu'il verse.
+
+Avant le 1er janvier de l'année en cause, le montant prévisionnel des contributions mentionnées aux quatrième et cinquième alinéas, arrêté par chaque conseil d'administration des services d'incendie et de secours en Corse, est notifié aux maires et aux présidents des établissements publics de coopération intercommunale de leur ressort respectif.
+
+Le montant global des contributions des communes et des établissements publics de coopération intercommunale ne pourra excéder le montant global des contributions des communes et des établissements publics de coopération intercommunale de l'exercice précédent, augmenté de l'indice des prix à la consommation et, le cas échéant, du montant des contributions de transfert à verser par les communes et les établissements publics de coopération intercommunale sollicitant le rattachement de leurs centres de secours et d'incendie au service dont ils relèvent.
+
+Dans les six mois suivant le renouvellement prévu au dernier alinéa de l'article L. 1424-81, le conseil d'administration de chaque service d'incendie et de secours en Corse organise un débat portant sur la répartition des contributions entre les communes et les établissements publics de coopération intercommunale de son ressort.
+
+Si aucune délibération n'est prise dans les conditions prévues au troisième alinéa, la contribution de chaque commune et de chaque établissement public de coopération intercommunale est calculée, dans des conditions fixées par décret, en fonction de l'importance de sa population, de son potentiel fiscal par habitant ainsi que de la part de sa contribution dans le total des contributions des communes et des établissements publics de coopération intercommunale constatée dans le dernier compte administratif connu.
+

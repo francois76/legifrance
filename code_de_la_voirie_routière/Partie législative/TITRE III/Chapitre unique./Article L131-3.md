@@ -1,0 +1,4 @@
+#### Article L131-3
+
+Le président du conseil départemental exerce sur la voirie départementale les attributions mentionnées à l'article L. 3221-4 du code général des collectivités territoriales.
+

@@ -1,0 +1,14 @@
+###### Article R341-10
+
+L'autorisation spéciale prévue aux articles L. 341-7 et L. 341-10 du présent code est délivrée par le préfet lorsqu'elle est demandée pour les modifications à l'état des lieux ou à leur aspect résultant :
+
+1° des ouvrages mentionnés aux articles R. 421-2 à R. 421-8 du code de l'urbanisme à l'exception de ceux prévus par l'article R. 421-3 ;
+
+2° des constructions, travaux ou ouvrages soumis à déclaration préalable en application des articles R. 421-9 à R. 421-12 et R. 421-17 et R. 421-23 du code de l'urbanisme ;
+
+3° de l'édification ou de la modification de clôtures.
+
+Si le monument naturel ou le site classé ou dont le classement est envisagé est situé en dehors des espaces urbanisés du cœur d'un parc national délimités par le décret de création de ce parc et que les modifications projetées figurent sur la liste prévue par l'article R. 331-18 du code de l'environnement, cette autorisation est délivrée par le directeur de l'établissement public du parc national.
+
+Lorsque l'autorisation spéciale est sollicitée pour un projet entrant dans le champ d'application de l'article L. 181-1, l'autorisation environnementale prévue par cet article tient lieu de l'autorisation requise par les articles L. 341-7 et L. 341-10. La demande est alors instruite et délivrée dans les conditions prévues par le chapitre unique du titre VIII du livre Ier pour l'autorisation environnementale et les dispositions du présent paragraphe ne sont pas applicables.
+

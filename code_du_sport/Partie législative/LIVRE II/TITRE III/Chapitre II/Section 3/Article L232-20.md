@@ -1,0 +1,4 @@
+###### Article L232-20
+
+Par dérogation à leurs obligations de secret professionnel, les agents des douanes, les agents de la concurrence, de la consommation et de la répression des fraudes, les agents relevant du ministre chargé des sports, les agents de l'Agence nationale du sport, les agents de l'administration des impôts, les agents de l'Agence française de lutte contre le dopage, les magistrats du parquet, les officiers et agents de police judiciaire, les agents de l'autorité nationale des jeux, les agents des agences régionales de santé et les agents des organismes de sécurité sociale sont habilités à se communiquer entre eux tous renseignements, y compris nominatifs, obtenus dans l'accomplissement de leur mission respective et relatifs à des faits susceptibles de constituer des violations et infractions pénales prévues au présent chapitre.
+

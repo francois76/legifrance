@@ -1,0 +1,8 @@
+###### Article R165-75
+
+I.-L'avis de la Haute Autorité de santé mentionné au premier alinéa de l'article L. 165-1-3 est rendu dans un délai de quarante-cinq jours à compter de la saisine de la Haute Autorité.
+
+II.-L'avis de la Commission nationale d'évaluation des dispositifs médicaux et des technologies de santé mentionné au quatrième alinéa de l'article L. 165-1-3 peut notamment porter, le cas échéant indication par indication, sur les conditions d'utilisation du dispositif médical concerné et de ses accessoires correspondant à un bon usage du dispositif médical, notamment au regard des connaissances médicales avérées, telles qu'elles résultent, le cas échéant, de références médicales ou de recommandations de bonne pratique. Dans ce cadre, et au regard des données collectées, la commission peut recommander un seuil minimal ou une durée minimale d'utilisation du dispositif médical.
+
+III.-Pour l'application de la modulation du tarif de responsabilité ou du prix prévue au quatrième alinéa de l'article L. 165-1-3, le comité économique des produits de santé peut définir, par convention ou à défaut par décision, un tarif de responsabilité de référence ou un prix de référence servant de base à la fixation de décotes sur ces tarifs ou ces prix en fonction du niveau d'utilisation constatée du dispositif médical. Ce tarif de responsabilité de référence ou ce prix de référence est égal au tarif de responsabilité ou au prix retenu par le comité dans le cas d'un bon usage du dispositif médical. Les décotes appliquées ne peuvent conduire à une augmentation de la participation à la charge de l'assuré, par rapport à la participation à sa charge qu'entraîne l'application du tarif de responsabilité de référence et du prix de référence.
+

@@ -1,0 +1,4 @@
+##### Article L243-1
+
+Dans l'exercice de leurs missions de prévention des atteintes à l'ordre public et de protection des personnes et des biens, et aux seules fins d'assurer la sécurité de leurs interventions, les agents de la police nationale, les agents des douanes, les militaires de la gendarmerie nationale, les sapeurs-pompiers professionnels et volontaires des services d'incendie et de secours ainsi que les personnels des services de l'Etat et les militaires des unités investis à titre permanent de missions de sécurité civile peuvent procéder, au moyen de caméras embarquées dans leurs véhicules, embarcations et autres moyens de transport fournis par le service, à un enregistrement de leurs interventions dans des lieux publics lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances ou au comportement des personnes concernées.
+

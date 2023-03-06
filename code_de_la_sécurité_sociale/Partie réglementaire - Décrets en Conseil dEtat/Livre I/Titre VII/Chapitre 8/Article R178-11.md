@@ -1,0 +1,4 @@
+##### Article R178-11
+
+La première part, mentionnée au 1° du I de l'article L. 223-11, du concours mentionné au a du 3° de l'article L. 223-8 fait l'objet d'acomptes mensuels versés aux départements au plus tard le dixième jour du mois suivant. Ils sont calculés sur la base de la répartition définie à l'article R. 178-7. Cette répartition est opérée par la Caisse nationale de solidarité pour l'autonomie pour l'année au titre de laquelle les acomptes sont versés en utilisant les données départementales annuelles disponibles au 31 décembre de l'année précédente relatives au nombre de personnes âgées de soixante quinze ans ou plus, à la dépense d'allocation personnalisée d'autonomie, au potentiel fiscal et au nombre de foyers bénéficiaires du revenu de solidarité active, à l'exception de ceux ouvrant droit à la majoration prévue à l'article L. 262-9 du code de l'action sociale et des familles.
+

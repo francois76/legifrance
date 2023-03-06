@@ -1,0 +1,6 @@
+###### Article R122-22
+
+Le préfet approuve le plan de performance énergétique dès lors que celui-ci inclut les investissements d'efficacité énergétique mentionnés au troisième alinéa de l'article D. 122-21. A défaut d'une décision expresse du préfet dans un délai de trois mois suivant la présentation du plan, celui-ci est réputé approuvé. Le préfet peut demander à l'entreprise des éléments de justification complémentaires et fixe le délai dans lequel ces éléments doivent être fournis. Dans ce cas, le plan est réputé approuvé à l'issue d'un délai de trois mois suivant la réponse de l'entreprise à la demande de justification et, au plus tard, le 31 mars de l'année civile suivant celle de sa présentation, à défaut de décision expresse du préfet. Il peut toutefois être dérogé à ce dernier délai dans les conditions prévues au troisième alinéa de l'article R. 122-27.
+
+Le préfet adresse à l'Agence de services et de paiement une copie de sa décision, lorsqu'elle existe, ou de toute demande de compléments ou de modifications dont il fait part à l'entreprise. En l'absence de telles communications, l'Agence de services et de paiement considère que le plan est réputé approuvé une fois passés les délais mentionnés au précédent alinéa.
+

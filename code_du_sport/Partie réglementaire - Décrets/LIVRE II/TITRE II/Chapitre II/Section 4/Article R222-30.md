@@ -1,0 +1,6 @@
+###### Article R222-30
+
+Lorsque l'intéressé a adressé à la fédération délégataire compétente une déclaration conforme aux dispositions de l'article R. 222-29, la commission des agents sportifs lui délivre une attestation mentionnant un exercice temporaire ou occasionnel de l'activité d'agent sportif sur le territoire national dans un délai d'un mois.
+
+Si la commission des agents sportifs de la fédération délégataire estime, dans un délai d'un mois, qu'il existe une différence substantielle de nature à nuire au respect des obligations auxquelles sont soumis les agents sportifs dans la conduite des opérations visées à l'article L. 222-7, une notification motivée est adressée au prestataire. La commission peut vérifier si les qualifications, aptitudes et connaissances du prestataire qu'il a acquises au cours de son expérience professionnelle à temps plein ou à temps partiel ou tout au long de la vie sont de nature à couvrir cette différence. Lorsque celles-ci couvrent la différence, la commission des agents sportifs de la fédération délégataire délivre une attestation selon les modalités visées au premier alinéa. Dans le cas contraire, une épreuve d'aptitude pourra être proposée au prestataire.
+

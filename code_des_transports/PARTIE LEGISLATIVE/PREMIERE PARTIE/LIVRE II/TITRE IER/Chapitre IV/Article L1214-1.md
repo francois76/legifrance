@@ -1,0 +1,4 @@
+###### Article L1214-1
+
+Le plan de mobilité détermine les principes régissant l'organisation de la mobilité des personnes et du transport des marchandises, la circulation et le stationnement dans le ressort territorial de l'autorité organisatrice de la mobilité. Il est élaboré par cette dernière en tenant compte de la diversité des composantes du territoire ainsi que des besoins de la population, en lien avec les collectivités territoriales limitrophes. Le plan de mobilité vise à contribuer à la diminution des émissions de gaz à effet de serre liées au secteur des transports, selon une trajectoire cohérente avec les engagements de la France en matière de lutte contre le changement climatique, à la lutte contre la pollution de l'air et la pollution sonore ainsi qu'à la préservation de la biodiversité.
+

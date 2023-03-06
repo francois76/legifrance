@@ -1,0 +1,4 @@
+#### Article L871-3
+
+Dans le cadre des attributions qui lui sont conférées par le livre II du code des postes et des communications électroniques, le ministre chargé des communications électroniques veille notamment à ce que les exploitants de réseaux ouverts au public de communications électroniques et les fournisseurs de services de communications électroniques au public prennent les mesures nécessaires pour assurer l'application, dans le respect du secret de la défense nationale, des dispositions du présent livre, de la section 3 du chapitre Ier du titre III du livre Ier du code de procédure pénale relatives aux interceptions de correspondances émises par la voie des télécommunications ordonnées par l'autorité judiciaire et des sections 5 et 6 du chapitre II du titre XXV du livre IV du même code.
+

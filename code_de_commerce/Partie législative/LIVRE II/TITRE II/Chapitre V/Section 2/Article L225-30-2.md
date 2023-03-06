@@ -1,0 +1,4 @@
+###### Article L225-30-2
+
+Les administrateurs élus par les salariés ou désignés en application de l'article L. 225-27-1 bénéficient à leur demande d'une formation adaptée à l'exercice de leur mandat, à la charge de la société, dans des conditions définies par décret en Conseil d'Etat. Ce temps de formation, dont la durée ne peut être inférieure à quarante heures par an, n'est pas imputable sur le crédit d'heures prévu à l'article L. 225-30-1. Une fraction de ce temps de formation est effectuée au sein de la société ou d'une société qu'elle contrôle ou qui est contrôlée par elle au sens de l'article L. 233-3. Pour les administrateurs élus par les salariés ou désignés en application de l'article L. 225-27-1 et n'ayant jamais exercé un mandat, cette formation doit avoir débuté dans les quatre mois qui suivent leur élection ou leur désignation.
+

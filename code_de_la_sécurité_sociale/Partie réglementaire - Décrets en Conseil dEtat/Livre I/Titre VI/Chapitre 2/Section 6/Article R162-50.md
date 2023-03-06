@@ -1,0 +1,8 @@
+###### Article R162-50
+
+Il est procédé une fois par an à l'évaluation des résultats des actions expérimentales, de leur coût et de leurs modalités de réalisation.
+
+Un rapport annuel d'activité est établi par la personne physique ou morale titulaire de l'agrément et remis, avant le 1er octobre, directeur général de l'agence régionale de santé de la région où se déroule l'action expérimentale. Ce dernier le transmet au président du conseil départemental, ainsi qu'aux maires des communes du lieu de l'expérience pour être soumis au conseil départemental et aux conseils municipaux intéressés, aux organismes d'assurance maladie signataires de la convention et aux syndicats représentatifs sur le plan local des professions de santé associés aux expériences qui lui font connaître leurs observations éventuelles dans le délai de deux mois suivant la réception du rapport. Ce rapport est également adressé au directeur de l'agence régionale de santé compétente.
+
+Le rapport d'activité accompagné des observations mentionnées à l'alinéa précédent est adressé par le directeur général de l'agence régionale de santé au ministre chargé de la sécurité sociale, au ministre chargé de la santé et au ministre chargé de l'agriculture qui consultent soit la caisse nationale de l'assurance maladie et la caisse centrale de la mutualité sociale agricole, soit l'une d'entre elles, en fonction du champ d'application de l'action agréée.
+

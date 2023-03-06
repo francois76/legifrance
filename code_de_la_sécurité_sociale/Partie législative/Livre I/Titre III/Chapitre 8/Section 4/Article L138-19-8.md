@@ -1,0 +1,6 @@
+###### Article L138-19-8
+
+Lorsque le montant remboursé par l'assurance maladie au cours de l'année civile en France métropolitaine, en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Saint-Barthélemy et à Saint-Martin au titre des produits et prestations mentionnés à l'article L. 165-1 et pris en charge en sus des prestations d'hospitalisation conformément à l'article L. 162-22-7 ainsi qu'au titre des produits et prestations bénéficiant de la prise en charge transitoire mentionnée à l'article L. 165-1-5, minoré des remises mentionnées aux articles L. 162-17-5 , L. 165-1-5 et L. 165-4 et des majorations prévues à l'article L. 165-7, est supérieur à un montant Z déterminé par la loi afin d'assurer le respect de l'objectif national de dépenses d'assurance maladie, les entreprises exploitant ces produits ou prestations au sens de l'article L. 165-1-1-1 sont assujetties à une contribution.
+
+La prise en charge des produits et prestations mentionnés à l'article L. 165-1 en sus des prestations d'hospitalisation conformément à l'article L. 162-22-7 et la prise en charge transitoire mentionnée à l'article L. 165-1-5 sont subordonnées à l'assujettissement des dépenses remboursées afférentes à ces produits et prestations à la contribution prévue au présent article.
+

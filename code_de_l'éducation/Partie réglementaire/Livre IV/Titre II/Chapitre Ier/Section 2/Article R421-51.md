@@ -1,0 +1,8 @@
+###### Article R421-51
+
+Le conseil de classe est chargé du suivi des élèves, il examine toutes les questions pédagogiques intéressant le suivi des acquis des élèves et la vie de la classe, notamment les modalités d'organisation du travail personnel des élèves et de l'évaluation progressive de leurs acquis, en cohérence avec le volet pédagogique du projet d'établissement. Il se réunit au moins trois fois par an, et chaque fois que le chef d'établissement le juge utile. A titre dérogatoire, les lycées professionnels peuvent limiter à deux fois par an le nombre de réunions du conseil de classe.
+
+Le professeur principal qui exerce les activités de coordination et de suivi mentionnées à l'article 3 du décret n° 93-55 du 15 janvier 1993 instituant une indemnité de suivi et d'orientation des élèves, ou un représentant de l'équipe pédagogique, expose au conseil de classe les résultats obtenus par les élèves et présente ses observations sur les conseils en orientation formulés par l'équipe. Sur ces bases et en prenant en compte l'ensemble des éléments d'ordre éducatif, médical et social apporté par ses membres, le conseil de classe examine le déroulement de la scolarité de chaque élève afin de mieux l'accompagner dans son parcours scolaire, à la fois dans la progression de ses apprentissages à l'intérieur d'un cycle, dans son passage d'un cycle à l'autre et dans la construction de son projet personnel.
+
+En classe terminale des lycées, le conseil de classe se prononce sur les vœux de poursuite d'études de l'élève dans l'enseignement supérieur afin d'éclairer le chef d'établissement appelé à émettre un avis sur chacun de ces vœux conformément à l'article D. 331-64-1.
+

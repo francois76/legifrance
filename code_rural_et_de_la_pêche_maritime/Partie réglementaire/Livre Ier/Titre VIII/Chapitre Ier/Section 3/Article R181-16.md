@@ -1,0 +1,6 @@
+###### Article R181-16
+
+Pendant le délai d'un mois de publication en mairie prévu au troisième alinéa de l'article R. 181-14, une enquête publique administrative est diligentée dans les conditions fixées par le chapitre IV du titre III du livre Ier du code des relations entre le public et l'administration. Par exception aux dispositions de l'article R. 134-15 de ce code, le commissaire enquêteur est désigné par le président de la commission départementale d'aménagement foncier.
+
+A l'issue de l'enquête, et après la publication, le cas échéant par voie électronique, de la note prévue à l'article L. 181-16, la commission départementale d'aménagement foncier prend connaissance des réclamations et des observations ainsi que de l'avis du commissaire enquêteur. Elle entend les intéressés s'ils l'ont demandé par lettre adressée à son président, ainsi que le préfet ou son représentant. Elle donne son avis sur la liste des terres incultes ou manifestement sous-exploitées, sur l'opportunité de mettre en œuvre la procédure définie aux articles L. 181-15 à L. 181-25 et sur les projets de cahiers des charges. Elle transmet ses avis accompagnés de l'ensemble du dossier au préfet et adresse copie de ses avis au président du conseil départemental.
+

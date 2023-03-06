@@ -1,0 +1,6 @@
+###### Article 764-20
+
+Lorsque, avant de transmettre la condamnation ou la décision de probation et le certificat, l'autorité compétente de l'Etat de condamnation consulte le procureur de la République dans le cas où, en application du 2° de l'article 764-5, la reconnaissance de la condamnation ou de la décision est subordonnée au consentement de l'Etat d'exécution, le procureur de la République consent à la transmission de la condamnation ou de la décision de probation si la personne concernée a la nationalité française. Dans les autres cas, il saisit sans délai le ministre de la justice. Le ministre peut consentir à la transmission de la condamnation ou de la décision si la personne concernée a la nationalité d'un Etat membre de l'Union européenne autre que la France et s'il existe des motifs exceptionnels justifiant l'exécution de la décision en France. Il tient compte notamment de l'intérêt de sa décision pour la bonne administration de la justice, de l'existence de liens personnels et familiaux en France et de l'absence de risque de trouble à l'ordre public.
+
+Le procureur de la République informe l'autorité compétente de l'Etat de condamnation de la décision de consentir ou non à la transmission de la demande de reconnaissance de la condamnation ou de la décision de probation.
+

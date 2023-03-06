@@ -1,0 +1,4 @@
+###### Article R412-43
+
+Constituent les mesures d'exécution prévues à l'article L. 412-1 les dispositions des articles 1er et 2, des paragraphes 1 et 2 de l'article 4, des articles 6 et 7, des paragraphes 1 et 2 de l'article 8, de l'article 9 et des articles 11 à 16 du règlement (UE) n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011 modifié établissant des conditions harmonisées de commercialisation pour les produits de construction. Il en est de même des dispositions des points a) et b) du paragraphe 3 et celles du paragraphe 4 de l'article 4 du règlement (UE) 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 sur la surveillance du marché et la conformité des produits en ce qui concerne les prestataires de services d'exécution de commandes, tels que définis à l'article 3 du même règlement.
+

@@ -1,0 +1,4 @@
+###### Article R642-57
+
+L'Institut national de l'origine et de la qualité confie à des organismes d'inspection les tâches de contrôle du respect du cahier des charges des produits bénéficiant d'une appellation d'origine ou d'une indication géographique au sens du règlement (CE) n° 110/2008 du Parlement européen et du Conseil du 15 janvier 2008, pour les boissons spiritueuses bénéficiant d'une indication géographique, du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013, pour des vins bénéficiant d'une appellation d'origine ou d'une indication géographique , du règlement (UE) n° 251/2014 du Parlement européen et du Conseil du 26 février 2014, pour des produits vinicoles aromatisés bénéficiant d'une indication géographique, si ce contrôle n'est pas effectué par un organisme certificateur.
+

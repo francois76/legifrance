@@ -1,0 +1,4 @@
+###### Article L522-1
+
+En sus des obligations qui s'imposent à lui ou à elle en application des dispositions des articles L. 521-1, L. 521-2 et L. 521-3 et du règlement délégué (UE) 2017/2359 de la Commission du 21 septembre 2017, l'intermédiaire ou l'entreprise d'assurance qui exerce des activités de distribution des contrats d'assurance vie individuel comportant des valeurs de rachat, la souscription d'un contrat de capitalisation ou l'adhésion à un contrat mentionné à l'article L. 132-5-3 ou à l'article L. 441-1, met en œuvre des dispositifs organisationnels et administratifs efficaces en vue de prendre toutes les mesures appropriées destinées à empêcher que des conflits d'intérêts définis à l'article L. 522-2 ne portent atteinte aux intérêts de ses souscripteurs ou adhérents. Ces dispositifs sont proportionnés aux activités exercées, aux produits d'assurance vendus et adaptés aux types de distributeurs.
+

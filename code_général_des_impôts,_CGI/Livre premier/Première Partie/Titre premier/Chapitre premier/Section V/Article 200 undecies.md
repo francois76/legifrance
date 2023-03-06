@@ -1,0 +1,14 @@
+###### Article 200 undecies
+
+I. – Les contribuables, personnes physiques, qui ont leur domicile fiscal en France au sens de l'article 4 B et qui exercent une activité dont les revenus sont imposés dans la catégorie des bénéfices agricoles bénéficient d'un crédit d'impôt au titre des dépenses engagées pour assurer leur remplacement pour congé entre le 1er janvier 2006 et le 31 décembre 2022 par l'emploi direct de salariés ou par le recours à des personnes mises à disposition par un tiers. Le bénéfice du crédit d'impôt est subordonné à la condition que l'activité exercée requière la présence du contribuable sur l'exploitation chaque jour de l'année et que son remplacement ne fasse pas l'objet d'une prise en charge au titre d'une autre législation.
+
+Le crédit d'impôt est accordé, sous les mêmes conditions et à proportion des droits qu'ils détiennent, aux associés personnes physiques non salariés de sociétés ou de groupements, au sein desquels ils exercent effectivement et régulièrement une activité agricole qui requiert leur présence sur l'exploitation chaque jour de l'année et sous réserve que leur remplacement ne soit pas assuré par une personne ayant la qualité d'associé de la société ou du groupement.
+
+II. – Le crédit d'impôt est égal à 50 % des dépenses mentionnées au I et effectivement supportées, dans la limite par an de quatorze jours de remplacement pour congé. Pour ce calcul, le coût d'une journée de remplacement est plafonné à quarante-deux fois le taux horaire du minimum garanti mentionné à l'article L. 3231-12 du code du travail. Le crédit d'impôt est accordé au titre de l'année au cours de laquelle les dépenses ont été engagées.
+
+Lorsque l'activité dont les revenus sont imposés dans la catégorie des bénéfices agricoles est exercée dans un groupement agricole d'exploitation en commun, le plafond du crédit d'impôt est multiplié par le nombre d'associés que compte le groupement, dans la limite de quatre. Le plafond du crédit d'impôt dont bénéficie un associé de groupement agricole d'exploitation en commun ne peut toutefois pas excéder le plafond du crédit d'impôt bénéficiant à un exploitant individuel.
+
+III. – Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+
+IV. – Le bénéfice du crédit d'impôt au titre des dépenses engagées entre le 1er janvier 2011 et le 31 décembre 2022 est subordonné au respect du règlement (UE) n° 1408/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture.
+

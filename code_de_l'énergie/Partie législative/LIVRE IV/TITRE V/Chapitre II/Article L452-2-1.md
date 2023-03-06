@@ -1,0 +1,6 @@
+##### Article L452-2-1
+
+Les gestionnaires des réseaux de transport et de distribution de gaz naturel peuvent mettre en œuvre des dispositifs incitant les utilisateurs des réseaux à limiter leur consommation, notamment pendant les périodes où la consommation de l'ensemble des consommateurs est la plus élevée. Les modalités de mise en œuvre de ces dispositifs ainsi que les catégories d'utilisateurs des réseaux concernés sont précisées par décret.
+
+La structure et le niveau des tarifs d'utilisation des réseaux de transport et de distribution de gaz naturel sont fixés afin d'inciter les utilisateurs des réseaux mentionnés au premier alinéa du présent article à limiter leur consommation aux périodes où la consommation de l'ensemble des consommateurs est la plus élevée au niveau national. Ils peuvent également inciter les utilisateurs des réseaux mentionnés au même premier alinéa à limiter leur consommation aux périodes de pointe au niveau local. A cet effet, la structure et le niveau des tarifs d'utilisation des réseaux de transport et de distribution peuvent, sous réserve d'assurer la couverture de l'ensemble des coûts prévue aux articles L. 452-1 et L. 452-1-1 et de manière proportionnée à l'objectif de maîtrise des pointes gazières, s'écarter pour un consommateur de la stricte couverture des coûts de réseau qu'il engendre.
+

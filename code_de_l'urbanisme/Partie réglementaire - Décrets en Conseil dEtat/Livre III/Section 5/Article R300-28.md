@@ -1,0 +1,8 @@
+#### Article R300-28
+
+La mise en demeure de procéder à la réhabilitation d'un ensemble commercial dans un quartier prioritaire de la politique de la ville, mentionnée à l'article L. 300-7, ou de locaux, terrains ou équipements dans une zone d'activité économique, mentionnée à l'article L. 300-8, est adressée aux propriétaires de cet ensemble commercial ou de ces locaux, terrains ou équipements par lettre recommandée avec demande d'avis de réception. Elle est portée à la connaissance des exploitants et occupants concernés par tout moyen.
+
+Elle définit le programme des travaux de réhabilitation à réaliser en précisant, le cas échéant, le délai maximal d'exécution à prévoir au regard du calendrier retenu pour l'opération de rénovation urbaine du quartier prioritaire de la politique de la ville ou pour l'opération d'aménagement ou de restructuration de la zone d'activité économique faisant l'objet d'un projet partenarial d'aménagement ou d'une opération de revitalisation de territoire.
+
+Elle indique qu'en application du deuxième alinéa de l'article L. 300-7 ou de l'article L. 300-8, si le ou les propriétaires n'ont pas manifesté dans un délai de trois mois la volonté de se conformer à la mise en demeure ou si les travaux de réhabilitation n'ont pas débuté dans un délai d'un an, l'expropriation peut être engagée dans les conditions prévues par le code de l'expropriation pour cause d'utilité publique au profit de l'Etat, de la commune, de l'établissement public de coopération intercommunale ou d'un établissement public d'aménagement créé en application des articles L. 321-14 ou L. 326-1.
+

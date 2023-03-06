@@ -1,0 +1,4 @@
+###### Article L1111-5-1
+
+Par dérogation à l'article 371-1 du code civil, l'infirmier peut se dispenser d'obtenir le consentement du ou des titulaires de l'autorité parentale sur les décisions à prendre lorsque l'action de prévention, le dépistage ou le traitement s'impose pour sauvegarder la santé sexuelle et reproductive d'une personne mineure, dans le cas où cette dernière s'oppose expressément à la consultation du ou des titulaires de l'autorité parentale afin de garder le secret sur son état de santé. Toutefois, l'infirmier doit, dans un premier temps, s'efforcer d'obtenir le consentement du mineur à cette consultation. Dans le cas où le mineur maintient son opposition, l'infirmier peut mettre en œuvre l'action de prévention, le dépistage ou le traitement. Dans ce cas, le mineur se fait accompagner d'une personne majeure de son choix.
+

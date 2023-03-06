@@ -1,0 +1,12 @@
+###### Article L141-5-2
+
+I.-Dans chaque région située sur le territoire métropolitain continental, le comité régional de l'énergie est chargé de favoriser la concertation, en particulier avec les collectivités territoriales, sur les questions relatives à l'énergie au sein de la région. Il est associé à la fixation ainsi qu'au suivi et à l'évaluation de la mise en œuvre des objectifs de développement des énergies renouvelables et de récupération du schéma régional d'aménagement, de développement durable et d'égalité des territoires prévu à l'article L. 4251-1 du code général des collectivités territoriales ou, en Île-de-France, du schéma régional du climat, de l'air et de l'énergie et de son schéma régional éolien prévus à l'article L. 222-1 du code de l'environnement.
+
+Le comité régional de l'énergie peut débattre et rendre des avis sur tous les sujets relatifs à l'énergie ayant un impact sur la région.
+
+En vue de définir les objectifs de développement des énergies renouvelables prévus à l'article L. 141-5-1 du présent code, le ministre chargé de l'énergie demande au comité régional de l'énergie de chaque région située sur le territoire métropolitain continental d'élaborer une proposition d'objectifs régionaux de développement des énergies renouvelables de la région. A l'expiration d'un délai de deux mois à compter de la demande, la proposition du comité régional est réputée élaborée.
+
+II.-Le comité régional de l'énergie est coprésidé par le président du conseil régional et le représentant de l'Etat dans la région.
+
+III.-La composition et les modalités de fonctionnement du comité régional de l'énergie sont précisées par décret. Il associe les communes ou groupements de communes, les départements, les autorités organisatrices de la distribution d'énergie, mentionnées à l'article L. 2224-31 du code général des collectivités territoriales, et les gestionnaires des réseaux publics de distribution ou de transport intéressés.
+

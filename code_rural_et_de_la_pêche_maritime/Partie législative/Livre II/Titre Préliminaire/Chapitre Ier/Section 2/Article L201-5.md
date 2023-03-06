@@ -1,0 +1,6 @@
+###### Article L201-5
+
+Les maladies animales mentionnées à l'article 6 et au point a du paragraphe 1 de l'article 9 du règlement (UE) 2016/429 du 9 mars 2016 ou figurant sur une liste établie par décret et les organismes de quarantaine prioritaires au sens de l'article 6 du règlement (UE) 2016/2031 du 26 octobre 2016 donnent lieu à l'établissement d'un plan d'intervention sanitaire d'urgence. Le plan arrêté par l'autorité administrative définit les principes d'organisation et les moyens à mobiliser pour faire face à ces dangers sanitaires et prévoit les mesures à prendre en cas de suspicion ou de confirmation d'un foyer en application du présent article et des articles L. 223-5, L. 223-6-1, L. 223-8 et L. 201-4.
+
+Sous réserve, pour les dangers phytosanitaires, des dispositions de l'article 25 du règlement (UE) 2016/2031 du 26 octobre 2016 et, pour les maladies animales mentionnées à l'article 6 et au point a du paragraphe 1 de l'article 9 du règlement (UE) 2016/429 du 9 mars 2016, des dispositions de l'article 43 du même règlement, un décret détermine les conditions d'élaboration et d'adoption du plan ainsi que les conditions selon lesquelles il est mis en œuvre et adapté dans chaque département dans le cadre du plan ORSEC prévu aux articles L. 741-1 à L. 741-5 du code de la sécurité intérieure.
+

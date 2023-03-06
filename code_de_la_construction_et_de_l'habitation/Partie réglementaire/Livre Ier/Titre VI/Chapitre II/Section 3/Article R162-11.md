@@ -1,0 +1,4 @@
+###### Article R162-11
+
+Le ministre chargé de la construction, le ministre chargé des personnes handicapées et, le cas échéant, le ou les ministres intéressés fixent, par arrêté, les obligations particulières auxquelles doivent satisfaire, dans le but d'assurer leur accessibilité, les établissements et installations recevant du public assis, les établissements disposant de locaux d'hébergement ouverts au public, les établissements et installations comportant des douches, des cabines d'essayage, d'habillage ou de déshabillage et les établissements et installations comportant des caisses de paiement disposées en batterie. Cet arrêté prévoit la possibilité pour le maître d'ouvrage de satisfaire à ces obligations par des solutions d'accessibilité équivalentes aux dispositions techniques de l'arrêté dès lors que ces solutions répondent aux objectifs poursuivis.
+

@@ -1,0 +1,4 @@
+###### Article R314-104
+
+Lorsque le contrat a été suspendu du fait d'un non-respect des critères de durabilité et de réduction des émissions de gaz à effet de serre, et lorsque le préfet de région a donné acte de la régularisation dans les conditions prévues à de l'article R. 314-101, il indique, par lettre recommandée avec demande d'avis de réception, au producteur concerné et au cocontractant la date à laquelle la levée de la suspension du contrat doit intervenir. La durée de la suspension est proportionnée à la durée de non-respect des critères de durabilité et de réduction des émissions de gaz à effet de serre constatée avant la date de la mise en demeure prévue au deuxième alinéa de l'article R. 314-100. Le cocontractant lève la suspension du contrat à la date de levée de suspension fixée par le préfet de région.
+

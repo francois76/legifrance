@@ -1,0 +1,4 @@
+###### Article L255-3
+
+Par dérogation à l'article L. 255-2, la détention en vue de la vente, la mise en vente, la vente, la distribution à titre gratuit ou l'utilisation, sur le territoire national, d'un des produits mentionnés à ce même article provenant d'un Etat membre de l'Union européenne, sur le territoire duquel il est légalement mis sur le marché, n'est subordonnée, dès lors que ce produit est identique à un produit dit " de référence " bénéficiant déjà d'une autorisation de mise sur le marché en France, qu'à l'obtention d'un permis délivré selon les conditions posées à l'article L. 255-7. Le permis ainsi délivré au produit introduit sur le territoire national n'ouvre droit qu'aux mêmes conditions de mise sur le marché et d'utilisation que celles applicables au produit de référence autorisé en France.
+

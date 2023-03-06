@@ -1,0 +1,8 @@
+###### Article R165-93
+
+Des arrêtés des ministres chargés de la santé et de la sécurité sociale fixent les produits et prestations pris en charge au titre du I et du III de l'article L. 165-1-5, les indications dans lesquelles la prise en charge transitoire est autorisée, ou le cas échéant renouvelée, et les conditions particulières de cette prise en charge. Ces arrêtés précisent le cas échéant les établissements de santé pouvant prescrire et délivrer ces produits et prestations en vue de leur prise en charge ou les conditions et critères permettant à certains établissements de santé de le faire, au regard d'éléments relatifs à l'organisation ou à la dispensation des soins, à la réalisation technique de la prise en charge du patient ou à son suivi.
+
+Ces arrêtés peuvent également modifier les conditions de distribution de ces produits et prestations, notamment le fait que la distribution soit effectuée par des pharmacies d'officine, par des prestataires de services et distributeurs de matériels, ou par les pharmacies à usage intérieur de certains établissements de santé.
+
+L'acte prévoyant la prise en charge d'un produit ou prestation au titre de l'article L. 165-1-5 ou au titre de la continuité de cette prise en charge en application de l'article L. 165-1-6 peut être assorti, par la décision initiale ou par une décision ultérieure, d'une mention prévoyant que le produit ou la prestation n'est pris en charge par l'assurance maladie que si, conformément à l'article L. 162-19-1, le prescripteur mentionne sur l'ordonnance des éléments relatifs aux circonstances et aux indications de la prescription. Cette mention précise la nature de ces éléments et les motifs pour lesquels ils doivent figurer sur l'ordonnance.
+

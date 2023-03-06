@@ -1,0 +1,4 @@
+###### Article D781-1
+
+Les dispositions du présent livre (partie réglementaire) s'appliquent en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy et à Saint-Martin sous réserve des exceptions et adaptations prévues au présent titre.
+

@@ -1,0 +1,8 @@
+###### Article L1435-6
+
+L'agence régionale de santé a accès aux données nécessaires à l'exercice de ses missions contenues dans les systèmes d'information des établissements de santé et des établissements et services médico-sociaux ainsi que, dans les conditions prévues à l'article L. 1461-2, aux données des organismes d'assurance maladie et de la Caisse nationale de solidarité pour l'autonomie. Elle a également accès, dans les conditions définies au III de l'article L. 1461-3, aux données du système national des données de santé.
+
+L'agence régionale de santé est tenue informée par les organismes situés dans son ressort de tout projet concernant l'organisation et le fonctionnement de leurs systèmes d'information. Le directeur général de l'agence détermine, en fonction de la situation sanitaire, pour chaque établissement, service et organisme, les données utiles que celui-ci doit transmettre de façon régulière, notamment les disponibilités en lits et places. Le directeur général de l'agence décide également de la fréquence de mise à jour et de transmission des données issues des établissements de soins et des établissements et services médico-sociaux.
+
+Les agents de l'agence régionale de santé n'ont accès aux données de santé à caractère personnel que si elles sont strictement nécessaires à l'accomplissement de leurs missions. Ils sont tenus au secret professionnel. Lorsque ces données sont utilisées à des fins d'étude, elles ne comportent ni le nom, ni le numéro d'inscription au répertoire national d'identification des personnes physiques et des précautions sont prises pour assurer la traçabilité des accès, dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+

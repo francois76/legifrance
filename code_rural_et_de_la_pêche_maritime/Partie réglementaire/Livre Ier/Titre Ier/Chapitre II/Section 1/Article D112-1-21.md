@@ -1,0 +1,14 @@
+###### Article D112-1-21
+
+I.-L'étude préalable est adressée par le maître d'ouvrage au préfet par tout moyen permettant de rapporter la preuve de sa date de réception.
+
+Le préfet transmet l'étude préalable, y compris lorsqu'elle est établie sous la forme mentionnée à l'article D. 112-1-20, à la commission prévue aux articles L. 112-1-1, L. 112-1-2 et L. 181-10 qui émet un avis motivé sur l'existence d'effets négatifs notables du projet sur l'économie agricole, sur la nécessité de mesures de compensation collective et sur la pertinence et la proportionnalité des mesures proposées par le maître d'ouvrage. Le cas échéant, la commission propose des adaptations ou des compléments à ces mesures et émet des recommandations sur les modalités de leur mise en œuvre. A l'expiration d'un délai de deux mois à compter de sa saisine, l'absence d'avis sur les mesures de compensation proposées vaut absence d'observation.
+
+II.-Lorsque les conséquences négatives des projets de travaux, ouvrages ou aménagements publics et privés sont susceptibles d'affecter l'économie agricole de plusieurs départements, le maître d'ouvrage adresse l'étude préalable au préfet du département dans lequel se situent la majorité des surfaces prélevées, qui procède à la consultation des préfets des autres départements concernés par le projet et recueille leurs avis, rendus après consultation dans chaque département de la commission prévue aux articles L. 112-1-1, L. 112-1-2 et L. 181-10. Il peut prolonger le délai prévu à l'alinéa précédent d'un mois en cas de besoin.
+
+III.-Le préfet notifie au maître d'ouvrage son avis motivé sur l'étude préalable dans un délai de quatre mois à compter de la réception du dossier ainsi que, le cas échéant, à l'autorité décisionnaire du projet. Lorsque l'avis de plusieurs préfets est requis en application du II du présent article, le préfet du département dans lequel se situe la majorité des surfaces prélevées est chargé de la notification de ces avis dans les mêmes conditions.
+
+A défaut d'avis formulé dans ce délai, le préfet est réputé n'avoir aucune observation à formuler sur l'étude préalable.
+
+Lorsque le préfet estime que l'importance des conséquences négatives du projet sur l'économie agricole impose la réalisation de mesures de compensation collective, son avis et l'étude préalable sont publiés sur le site internet de la préfecture. Lorsque l'avis de plusieurs préfets est requis en application du II du présent article, les avis des préfets des départements et l'étude préalable sont publiés sur le site internet de chacune des préfectures des départements concernés par le projet dès lors que l'un des préfets consultés estime que l'importance des conséquences négatives du projet sur l'économie agricole impose la réalisation de mesures de compensation collective.
+

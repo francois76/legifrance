@@ -1,0 +1,6 @@
+###### Article R511-11
+
+Lorsque l'inexécution de l'arrêté de mise en sécurité ou de traitement de l'insalubrité résulte de la défaillance de certains copropriétaires, le syndic en informe l'autorité compétente en lui indiquant les démarches entreprises pour faire réaliser les travaux prescrits en application de l'article L. 511-11 et en lui fournissant une attestation de défaillance. Sont réputés défaillants les copropriétaires qui, après avoir été mis en demeure de le faire par le syndic, n'ont pas répondu ou n'ont répondu que partiellement aux appels de fonds destinés à financer les travaux prescrits dans le délai de quinze jours à compter de la sommation de payer.
+
+L'autorité compétente dispose alors d'un délai d'un mois pour décider de se substituer aux copropriétaires défaillants conformément à l'article L. 511-16. En ce cas, sa décision est notifiée au syndicat des copropriétaires, pris en la personne du syndic, ainsi qu'aux copropriétaires défaillants, auxquels sont également notifiées les sommes versées pour leur compte. Lorsque tous les copropriétaires sont défaillants, l'autorité compétente ne peut recourir à la procédure de substitution mais peut faire procéder à l'exécution d'office des mesures prescrites.
+

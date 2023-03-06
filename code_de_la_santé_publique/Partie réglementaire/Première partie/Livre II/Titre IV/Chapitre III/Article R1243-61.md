@@ -1,0 +1,6 @@
+###### Article R1243-61
+
+Le dossier est réputé complet si, dans le délai d'un mois à compter de sa réception, le ministre chargé de la recherche ou, le cas échéant, le directeur général de l'agence régionale de santé, n'ont pas fait connaître au demandeur les informations manquantes ou incomplètes en indiquant le délai imparti pour les fournir.
+
+Ces autorités s'informent mutuellement des demandes d'informations complémentaires qu'elles adressent à l'établissement ou organisme demandeur.
+

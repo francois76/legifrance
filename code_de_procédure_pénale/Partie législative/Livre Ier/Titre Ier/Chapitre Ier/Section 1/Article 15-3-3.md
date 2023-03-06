@@ -1,0 +1,4 @@
+###### Article 15-3-3
+
+Un tribunal judiciaire désigné par décret exerce une compétence concurrente à celle qui résulte de l'application des articles 43,52 et 382 du présent code pour l'enquête, la poursuite, l'instruction et le jugement des délits prévus au 6° du III de l'article 222-33 du code pénal, lorsqu'ils sont commis avec la circonstance aggravante prévue à l'article 132-76 du même code, au 4° de l'article 222-33-2-2 dudit code, lorsqu'ils sont commis avec la circonstance aggravante prévue à l'article 132-76 ou 132-77 du même code, [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2020-801 DC du 18 juin 2020] lorsqu'ils ont fait l'objet d'une plainte adressée par voie électronique en application de l'article 15-3-1 du présent code.
+

@@ -1,0 +1,6 @@
+###### Article L1127-3
+
+Ne peuvent être mises en oeuvre qu'après autorisation expresse de l'autorité compétente les recherches mentionnées au 1° de l'article L. 1121-1 portant sur des dispositifs incorporant des produits d'origine humaine ou animale, ou dans la fabrication desquels interviennent des produits d'origine humaine ou animale ne relevant pas du champ du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 tel que défini en son article premier, sur des produits cosmétiques contenant des ingrédients d'origine animale dont la liste est fixée par voie réglementaire sur proposition de l'Agence nationale de sécurité du médicament et des produits de santé ou sur les produits qui ne sont pas des médicaments ou sur des plantes, substances ou préparations classées comme stupéfiants ou comme psychotropes en application de l'article L. 5132-7 contenant des organismes génétiquement modifiés.
+
+Ne peuvent également être mises en œuvre qu'après autorisation expresse de l'autorité compétente mentionnée à l'article L. 1123-12 les recherches impliquant la personne humaine menées dans le cadre de l'assistance médicale à la procréation mentionnées à l'article L. 2141-3-1.
+

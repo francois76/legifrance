@@ -1,0 +1,6 @@
+###### Article 696-68
+
+Lorsque, avant de transmettre la décision de placement sous contrôle judiciaire et le certificat, l'autorité compétente de l'Etat d'émission consulte le procureur de la République dans le cas où, en application du 2° de l'article 696-52, la reconnaissance de la décision est subordonnée au consentement de l'Etat d'exécution, le procureur consent à la transmission de la décision de placement sous contrôle judiciaire si la personne concernée a la nationalité française. Dans les autres cas, il saisit sans délai le ministre de la justice. Le ministre peut consentir à la transmission de la décision si la personne concernée a la nationalité d'un Etat membre de l'Union européenne autre que la France et s'il existe des motifs exceptionnels justifiant l'exécution de la décision en France. Il tient compte notamment de l'intérêt de sa décision pour la bonne administration de la justice, de l'existence de liens personnels et familiaux en France et de l'absence de risque de troubles à l'ordre public.
+
+Le procureur de la République informe l'autorité compétente de l'Etat d'émission de la décision de consentir ou non à la transmission de la demande de reconnaissance de la décision de placement sous contrôle judiciaire.
+

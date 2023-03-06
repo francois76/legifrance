@@ -1,0 +1,4 @@
+###### Article R112-27
+
+Avant d'engager l'action en revendication ou en nullité prévue par l'article L. 112-22 ou, pour les archives, l'action en nullité ou en restitution prévue au troisième alinéa de l'article L. 212-1, le propriétaire, l'affectataire ou, pour les archives publiques, l'une des personnes mentionnées au troisième alinéa de l'article L. 212-1 adresse, par lettre recommandée avec demande d'avis de réception, une mise en demeure au détenteur du bien culturel appartenant au domaine public mobilier ou au détenteur d'archives publiques. Lorsque la personne mise en demeure a remis le bien à un tiers, elle est tenue d'informer l'auteur de la mise en demeure de l'identité du nouveau détenteur. Lorsque les biens sont mis en vente, la mise en demeure est adressée à la personne qui procède à la vente si l'identité du vendeur n'est pas connue.
+

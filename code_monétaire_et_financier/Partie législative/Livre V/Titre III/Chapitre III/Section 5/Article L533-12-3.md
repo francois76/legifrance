@@ -1,0 +1,4 @@
+###### Article L533-12-3
+
+Les prestataires de services d'investissement autres que les sociétés de gestion de portefeuille qui fournissent le service d'investissement mentionné au 4 de l'article L. 321-1 n'acceptent pas, sauf à les restituer intégralement aux clients, des rémunérations, commissions ou autres avantages monétaires ou non monétaires en rapport avec la fourniture du service aux clients, versés ou fournis par un tiers ou par une personne agissant pour le compte d'un tiers. Les avantages non monétaires mineurs susceptibles d'améliorer la qualité du service fourni à un client et dont l'importance et la nature sont telles qu'ils ne peuvent pas être considérés comme de nature à nuire au respect par le prestataire de son devoir d'agir au mieux des intérêts du client sont clairement divulgués et ne sont pas soumis aux exigences du présent article et de l'article L. 533-12-4.
+

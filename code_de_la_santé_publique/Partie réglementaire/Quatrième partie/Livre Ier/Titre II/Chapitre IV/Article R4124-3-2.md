@@ -1,0 +1,12 @@
+###### Article R4124-3-2
+
+La décision du conseil régional ou interrégional est notifiée par lettre recommandée avec demande d'avis de réception au praticien intéressé, au conseil départemental, au conseil national, au directeur général de l'agence régionale de santé et, pour les praticiens relevant de l'une des situations statutaires mentionnées à l'article L. 4061-3, au service de santé des armées.
+
+La notification mentionne que la décision est susceptible de recours devant le conseil national, dans le délai de dix jours, sur la requête du praticien intéressé, du conseil départemental ou du directeur général de l'agence régionale de santé et que le recours n'a pas d'effet suspensif.
+
+Les organismes d'assurance maladie du régime général et de la mutualité sociale agricole ayant compétence dans le département dans lequel le praticien est inscrit au tableau sont informés des décisions de suspension d'exercice prises par le conseil régional ou interrégional. Lorsque le praticien exerce dans un établissement de santé, le directeur général de l'agence régionale de santé communique la décision de suspension au directeur de l'établissement.
+
+Lorsque le praticien est ressortissant de l'un des Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, la décision de suspension est, en outre, notifiée à l'autorité compétente de l'Etat membre ou partie d'origine et à l'Etat membre ou partie de provenance ainsi que, le cas échéant, à l'Etat membre ou partie d'accueil connu à la date de la notification.
+
+L'ensemble des conseils départementaux sont informés par le conseil national des décisions de suspension prises par les conseils régionaux et interrégionaux et le conseil national.
+

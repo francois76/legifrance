@@ -1,0 +1,6 @@
+###### Article R446-3-4
+
+Les contrats mentionnés à l'article R. 446-2 précisent les modalités relatives aux indemnités dues en cas de résiliation par le producteur avant le terme prévu. Ces indemnités sont égales aux sommes actualisées perçues et versées au titre de l'obligation d'achat depuis la date de prise d'effet du contrat jusqu'à sa résiliation, dans la limite du surcoût mentionné au 3° de l'article L. 121-36 en résultant.
+
+Le producteur qui demande la résiliation de son contrat à la suite de l'arrêt définitif de son installation de production indépendant de sa volonté ou dans les cas prévus par les arrêtés pris en application de l'article D. 446-12 ou les cahiers des charges élaborés en application de l'article R. 446-12-3, n'est pas tenu de verser les indemnités de résiliation prévues au premier alinéa, sous réserve qu'il respecte les prescriptions relatives à la mise à l'arrêt définitif ou au démantèlement de son installation de production ou toute autre condition spécifique prévue par ces arrêtés ou cahiers des charges. Le préfet de région, dès qu'il est informé par le producteur de la mise en œuvre de ces prescriptions ou conditions et, s'il l'estime nécessaire, après s'être assuré de leur correcte application, informe le cocontractant que le producteur est dispensé du versement de ces indemnités.
+

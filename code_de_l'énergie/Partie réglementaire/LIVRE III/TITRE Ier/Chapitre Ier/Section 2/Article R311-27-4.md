@@ -1,0 +1,8 @@
+###### Article R311-27-4
+
+Electricité de France et les entreprises locales de distribution transmettent au ministre chargé de l'énergie et au préfet, sur leur demande, les informations concernant les caractéristiques des installations pour lesquelles un contrat conclu en application du 1° ou du 2° de l'article L. 311-12 est signé. Ces informations ne sont accessibles qu'aux agents dûment habilités mentionnés à l'article L. 142-21.
+
+Electricité de France et les entreprises locales de distribution transmettent trimestriellement, au ministre chargé de l'énergie et au préfet, un bilan par filière des contrats conclus en application du 1° ou du 2° de l'article L. 311-12 ainsi que les capacités correspondantes en mégawatt, sur l'année écoulée à l'échelle départementale pour le préfet et à l'échelle nationale pour le ministre.
+
+Electricité de France et les entreprises locales de distribution préservent la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont le service chargé de la négociation et de la conclusion du contrat d'achat d'électricité ou du contrat de complément de rémunération a connaissance dans l'accomplissement de ses missions et dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination. En particulier, ce service prend les mesures nécessaires pour que ces informations ne soient pas divulguées en dehors de lui. Il peut toutefois transmettre au ministre chargé de l'énergie ou au préfet, à leur demande, les informations nécessaires à l'exercice de leurs missions. Le ministre ou le préfet préservent, dans les mêmes conditions, la confidentialité de ces informations.
+

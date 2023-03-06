@@ -1,0 +1,8 @@
+###### Article R1511-5
+
+Afin de favoriser la création ou l'extension d'activités économiques dans les zones d'aide à l'investissement des petites et moyennes entreprises pour la période 2022-2027 mentionnées à l'article 3 du décret n° 2022-968 du 30 juin 2022 relatif aux zones d'aide à finalité régionale et aux zones d'aide à l'investissement des petites et moyennes entreprises, les collectivités territoriales ou leurs groupements peuvent, seuls ou conjointement, accorder, sous réserve des dispositions du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aide compatibles avec le marché intérieur en application des articles 107 et 108 du traité, les aides mentionnées à l'article L. 1511-3 dans les conditions définies ci-après.
+
+Dans ces zones, des aides à l'investissement immobilier ou à la location de terrains ou de bâtiments peuvent être accordées, conformément aux dispositions du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 ci-dessus mentionné, aux petites et moyennes entreprises telles que définies à l'annexe 1 à ce règlement et dans les limites et conditions d'application fixées aux paragraphes 2 à 5 de l'article 1er de ce règlement.
+
+Dans ces zones, des aides à l'investissement immobilier ou à la location de terrains ou de bâtiments peuvent être accordées, conformément aux dispositions du règlement n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis, aux entreprises autres que les petites et moyennes entreprises au sens de l'annexe 1 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 ci-dessus mentionné.
+

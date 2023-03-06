@@ -1,0 +1,10 @@
+###### Article L1511-9
+
+I.-Les collectivités territoriales ou leurs groupements peuvent attribuer des aides aux vétérinaires contribuant à la protection de la santé publique et assurant la continuité et la permanence des soins aux animaux d'élevage. A cette fin, des conventions, pouvant prévoir une obligation d'installation ou de maintien, sont passées entre les collectivités territoriales ou les groupements qui attribuent l'aide et les vétérinaires ou leurs sociétés d'exercice intéressés. Les conventions signées sont transmises par les collectivités territoriales et groupements concernés au représentant de l'Etat dans le département et au conseil régional de l'ordre des vétérinaires compétent. La nature, les conditions d'attribution de ces aides et leur montant maximal sont fixés par décret en Conseil d'Etat.
+
+II.-Une indemnité d'étude et de projet professionnel vétérinaire peut être attribuée par les collectivités territoriales ou leurs groupements à tout étudiant régulièrement inscrit dans des études conduisant à la délivrance d'un diplôme ou d'un titre de formation vétérinaire mentionné au 1° de l'article L. 241-2 du code rural et de la pêche maritime, s'il s'engage à exercer en tant que vétérinaire en contribuant à la protection de la santé publique et en assurant la continuité et la permanence des soins aux animaux d'élevage pendant au moins cinq années consécutives. Pour bénéficier de cette aide, l'étudiant signe un contrat, qui peut prévoir une obligation d'installation, avec la collectivité territoriale ou le groupement qui attribue l'aide.
+
+Les collectivités territoriales ou leurs groupements peuvent également accorder des indemnités de logement et de déplacement aux élèves et aux étudiants mentionnés au 2° de l'article L. 243-3 dudit code lorsqu'ils effectuent leurs stages comprenant des mises en situation professionnelle de soins aux animaux d'élevage.
+
+Les conditions générales d'attribution des indemnités prévues aux deux premiers alinéas du présent II, leurs montants maximaux ainsi que, le cas échéant, les modalités de leur remboursement total ou partiel et de leur réévaluation sont déterminés par décret.
+

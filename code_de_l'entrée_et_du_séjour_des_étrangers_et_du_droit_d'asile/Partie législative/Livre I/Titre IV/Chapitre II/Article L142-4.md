@@ -1,0 +1,6 @@
+##### Article L142-4
+
+Dans le cadre de sa mission de coordination de la gestion de l'hébergement dans les lieux d'hébergement, prévue à l'article L. 121-1, l'Office français de l'immigration et de l'intégration conçoit, met en œuvre et gère, dans les conditions prévues par le règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard des traitements des données à caractère personnel et à la libre circulation de ces données et par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, un traitement automatisé de données relatives aux capacités des lieux d'hébergement, à l'utilisation de ces capacités et aux demandeurs d'asile qui y sont accueillis.
+
+Les personnes morales chargées de la gestion des lieux d'hébergement mentionnés à l'article L. 552-1 sont tenues de déclarer à l'office, dans le cadre du traitement automatisé de données, les places disponibles dans les lieux d'hébergement. Ces personnes morales sont tenues d'alerter l'autorité administrative compétente en cas d'absence injustifiée et prolongée des personnes qui y ont été orientées pour la durée de la procédure et en cas de comportement violent ou de manquement grave au règlement du lieu d'hébergement.
+

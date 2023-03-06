@@ -1,0 +1,6 @@
+###### Article L224-30
+
+I.-Lorsque des services d'accès à l'internet ou des services de communications interpersonnelles accessibles au public sont facturés en fonction de la durée ou du volume de consommation, leurs fournisseurs mettent à disposition du consommateur une fonctionnalité gratuite permettant de surveiller et de maîtriser l'usage de chacun de ces services. Cette fonctionnalité permet d'informer le consommateur des niveaux de consommation atteints, notamment en indiquant le volume ou la durée d'usage de ces services en fonction du type d'offre choisie par le consommateur ainsi, le cas échéant, les consommations hors forfait ou associées à des services à valeur ajoutée. Cette information, actualisée en temps utile, est facilement accessible.
+
+II.-Les fournisseurs informent le consommateur par une notification lorsqu'un service compris dans son offre de services de communications électroniques est entièrement consommé. Ils l'informent également, de la même manière, avant que ne soit atteint tout plafond de consommation compris dans son offre de services de communications électroniques. Un arrêté du ministre chargé de la consommation, pris après avis du Conseil national de la consommation, précise les modalités de ces notifications.
+

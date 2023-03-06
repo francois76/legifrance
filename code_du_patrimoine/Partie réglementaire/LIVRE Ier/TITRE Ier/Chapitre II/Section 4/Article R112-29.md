@@ -1,0 +1,4 @@
+###### Article R112-29
+
+Sans préjudice de l'application du règlement (UE) n° 1024/2012 du Parlement européen et du Conseil du 25 octobre 2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur et abrogeant la décision 2008/49/ CE de la Commission (" règlement IMI "), la transmission des actes, demandes, attestations, certificats et toutes autres pièces entre la direction générale des patrimoines et de l'architecture du ministère chargé de la culture ou l'Office central de lutte contre le trafic des biens culturels et les autorités centrales des autres Etats membres peut être effectuée par tout moyen approprié sous réserve que le contenu du document reçu soit fidèle et conforme à celui du document expédié et que toutes les mentions qu'il comporte soient lisibles sans difficulté.
+

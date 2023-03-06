@@ -1,0 +1,8 @@
+###### Article R813-18
+
+I.-Sous réserve des dispositions de l'article R. 813-19, les enseignants et les formateurs permanents qui assurent l'enseignement dans les formations sous contrat doivent, sans préjudice des dispositions des articles 12 et 13 du décret n° 89-406 du 20 juin 1989 relatif aux contrats liant l'Etat et les enseignants des établissements d'enseignement agricole privés mentionnés à l'article L. 813-8, détenir un master ou un titre ou diplôme reconnu équivalent.
+
+II.-60 % au moins des heures d'enseignement doivent être dispensées par des enseignants ou des formateurs remplissant les conditions prévues par le paragraphe I. Les autres heures peuvent être assurées par des enseignants ou formateurs détenant un diplôme sanctionnant un cycle d'études d'au moins deux années après le baccalauréat ou un titre de niveau III inscrit au répertoire national des certifications professionnelles.
+
+III.-Les enseignants et formateurs permanents en fonction au 1er septembre 2015 demeurent habilités à assurer l'enseignement au niveau de formation pour lesquels ils étaient qualifiés. Ceux dont les heures sont comptabilisées dans le pourcentage prévu à la première phrase du II ci-dessus en application du I, dans la rédaction de ce dernier en vigueur antérieurement à sa modification par le décret n° 2010-958 du 25 août 2010, continuent à avoir leurs heures comptabilisées dans ce pourcentage après ladite modification.
+

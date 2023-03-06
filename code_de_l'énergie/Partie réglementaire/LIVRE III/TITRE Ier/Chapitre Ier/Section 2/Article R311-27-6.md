@@ -1,0 +1,8 @@
+###### Article R311-27-6
+
+Le producteur qui a conclu le contrat mentionné à l'article R. 311-12 tient à disposition du préfet les documents relatifs aux caractéristiques de l'installation de production, à ses performances et aux résultats des contrôles mentionnés à l'article L. 311-13-5 ainsi que les documents relatifs aux autres contrôles réalisés sur l'installation le cas échéant. Le préfet adresse ces documents à la Commission de régulation de l'énergie sur demande de celle-ci.
+
+Le producteur transmet chaque année à la Commission de régulation de l'énergie et tient à disposition du ministre chargé de l'énergie le détail des coûts et des recettes relatifs à son installation dans les conditions et dans un format proposés par la Commission de régulation de l'énergie et approuvés par le ministre chargé de l'énergie. Il tient à disposition de la Commission de régulation de l'énergie les documents contractuels et comptables justifiant ces données, qu'il lui transmet sur demande dans un délai d'un mois.
+
+Le producteur ayant conclu un contrat de complément de rémunération en application du 2° de l'article L. 311-12 autorise les gestionnaires des réseaux publics de distribution ou de transport à transmettre à Electricité de France les données de production nécessaire au calcul et à la facturation du complément de rémunération. Le cas échéant, les gestionnaires du réseau public de distribution peuvent transmettre au gestionnaire du réseau public de transport les données de comptage. Les formats de transmission de données sont élaborés conjointement par les gestionnaires des réseaux publics de distribution et de transport et Electricité de France et approuvés par le ministre chargé de l'énergie.
+

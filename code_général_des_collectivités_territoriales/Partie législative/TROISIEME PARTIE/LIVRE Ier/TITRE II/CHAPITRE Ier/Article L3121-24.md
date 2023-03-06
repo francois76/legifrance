@@ -1,0 +1,14 @@
+###### Article L3121-24
+
+Dans les conseils départementaux, le fonctionnement des groupes d'élus peut faire l'objet de délibérations sans que puissent être modifiées, à cette occasion, les décisions relatives au régime indemnitaire des élus.
+
+Dans ces mêmes conseils départementaux, les groupes d'élus se constituent par la remise au président du conseil départemental d'une déclaration, signée de leurs membres, accompagnée de la liste de ceux-ci et de leur représentant. Ils peuvent se déclarer d'opposition. Sont considérés comme groupes minoritaires ceux qui ne se sont pas déclarés d'opposition, à l'exception de celui dont l'effectif est le plus élevé.
+
+Dans les conditions qu'il définit, le conseil départemental peut affecter aux groupes d'élus, pour leur usage propre ou pour un usage commun, un local administratif, du matériel de bureau et prendre en charge leurs frais de documentation, de courrier et de télécommunications.
+
+Le président du conseil départemental peut, dans les conditions fixées par le conseil départemental et sur proposition des représentants de chaque groupe, affecter aux groupes d'élus une ou plusieurs personnes. Le conseil départemental ouvre au budget du département, sur un chapitre spécialement créé à cet effet, les crédits nécessaires à ces dépenses, sans qu'ils puissent excéder 30 % du montant total des indemnités versées chaque année aux membres du conseil départemental, charges sociales incluses.
+
+Le président du conseil départemental est l'ordonnateur des dépenses susmentionnées.
+
+L'élu responsable de chaque groupe d'élus décide des conditions et des modalités d'exécution du service confié que ces collaborateurs accomplissent auprès de ces groupes au sein de l'organe délibérant.
+

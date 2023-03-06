@@ -1,0 +1,18 @@
+###### Article L2121-24
+
+I.-Le cédant informe, individuellement et par tout moyen conférant date certaine, le salarié dont le contrat de travail doit être transféré au plus tard douze mois avant la date prévue pour le changement effectif d'attributaire. Le cédant indique les conditions du transfert du contrat de travail ainsi que les conséquences de son refus pour le salarié.
+
+II.-Le salarié dont le contrat de travail doit être transféré peut faire connaître son refus par écrit à son employeur dans un délai de deux mois. À défaut de réponse dans ce délai, le salarié est réputé avoir accepté le transfert de son contrat de travail.
+
+III.-Le refus du salarié mentionné au I, dont le taux moyen d'affectation au service concerné sur les douze derniers mois est supérieur à 50 %, constitue le motif de la rupture de son contrat de travail, qui est prononcée par le cessionnaire et prend effet à la date effective du changement d'attributaire. Le cessionnaire notifie au salarié la rupture de son contrat de travail et son motif par tout moyen conférant date certaine dans un délai d'un mois à compter de la date effective du changement d'attributaire. Le salarié a droit à une indemnité versée par le cessionnaire dont le taux et les modalités de calcul sont déterminés par décret en Conseil d'État. Les articles L. 1234-19 et L. 1234-20 du code du travail s'appliquent.
+
+IV.-Lorsque le salarié mentionné au I dont le taux moyen d'affectation au service concerné sur les douze derniers mois est inférieur à 50 % refuse le transfert de son contrat de travail, le cédant lui présente dans un délai d'un mois à compter de son refus une offre d'emploi disponible situé dans la même région ou, à défaut, situé sur le territoire national dans l'entreprise, relevant de la même catégorie que celui qu'il occupe ou sur un emploi équivalent, par tout moyen conférant date certaine. Le salarié peut faire connaître son refus par écrit au cédant dans un délai d'un mois à compter de la date à laquelle l'offre lui a été présentée. L'absence de réponse au cédant dans ce délai vaut acceptation de l'offre proposée. Le refus du salarié constitue le motif de la rupture de son contrat de travail, qui est prononcée par le cédant et prend effet à la date effective du changement d'attributaire. Le cédant notifie au salarié la rupture de son contrat de travail et son motif par tout moyen conférant date certaine dans un délai d'un mois à compter de la date effective du changement d'attributaire. Le salarié a droit à une indemnité versée par le cédant dont le taux et les modalités de calcul sont déterminés par décret en Conseil d'État. Les articles L. 1234-19 et L. 1234-20 du code du travail s'appliquent.
+
+V.-La rupture du contrat de travail des salariés mentionnés au chapitre Ier du titre Ier du livre IV de la deuxième partie du code du travail est en outre soumise aux règles procédurales spécifiques prévues à la section 1 du chapitre Ier du titre II de ce livre.
+
+VI.-Lorsque le transfert du contrat de travail entraîne pour le salarié mentionné au I le déplacement de son lieu principal d'affectation dans une autre région, celui-ci peut refuser le transfert. Par dérogation au II, il est tenu d'informer son employeur de son refus dans un délai d'un mois. À défaut, il est réputé avoir accepté le transfert. Le refus du salarié n'emporte aucune conséquence sur la poursuite de son contrat de travail par dérogation aux III et IV.
+
+VII.-Le cédant est tenu d'informer sans délai le cessionnaire, par tout moyen conférant date certaine, de la décision des salariés mentionnés au I.
+
+Un décret en Conseil d'État précise les modalités d'application du présent article.
+

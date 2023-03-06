@@ -1,0 +1,18 @@
+###### Article L521-6
+
+I. - Les ministres chargés de l'environnement, de la santé et du travail prennent par arrêté conjoint les mesures d'application nécessaires pour mettre en œuvre les articles 49, alinéa b, et 129 du règlement (CE) n° 1907/2006.
+
+II. - Lorsque des substances, telles quelles ou contenues dans des mélanges, des articles, des produits ou des équipements, présentent des dangers graves ou des risques non valablement maîtrisés pour les travailleurs, la santé humaine ou l'environnement, les ministres chargés de l'environnement, de la santé et du travail peuvent par arrêté conjoint :
+
+1° Lorsque les règlements (CE) n° 1005/2009, (UE) n° 649/2012, (UE) n° 2019/1021, (UE) n° 517/2014, (CE) n° 1907/2006, (CE) n° 1272/2008 et (UE) n° 2017/852 n'harmonisent pas les exigences en matière de fabrication, de mise sur le marché ou d'utilisation de substances, telles quelles ou contenues dans des mélanges, des articles, des produits ou des équipements :
+
+a) Interdire de façon provisoire ou permanente, totale ou partielle leur fabrication, leur importation, leur exportation, leur mise sur le marché, leur détention en vue de la vente ou certains de leurs usages, ou ordonner leur retrait ou leur rappel ;
+
+b) Imposer des prescriptions relatives à la fabrication, l'importation, l'exportation, la mise sur le marché, l'emploi pour certains usages, la composition, l'étiquetage, l'emballage, la dénomination commerciale, la publicité, le stockage, la récupération, la régénération, le recyclage, et la destruction, ainsi que toute autre condition nécessaire à la préservation de la santé humaine ou de l'environnement ;
+
+2° Lorsque des substances, telles quelles ou contenues dans des mélanges, des articles, des produits ou des équipements sont transportées par voie ferrée, routière, fluviale, maritime ou aérienne :
+
+a) Interdire de façon provisoire ou permanente, totale ou partielle leur transport ;
+
+b) Imposer des prescriptions relatives à leur transport.
+

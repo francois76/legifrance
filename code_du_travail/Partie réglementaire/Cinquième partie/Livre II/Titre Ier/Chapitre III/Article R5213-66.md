@@ -1,0 +1,4 @@
+###### Article R5213-66
+
+Afin de favoriser la réalisation des projets professionnels des salariés ou des personnes détenues ayant signé un contrat d'emploi pénitentiaire, la valorisation de leurs compétences et leur mobilité professionnelle au sein de l'entreprise adaptée elle-même ou vers d'autres employeurs, l'entreprise adaptée met en œuvre, au titre de l'accompagnement spécifique, un parcours d'accompagnement individualisé qui tient compte des besoins et capacités des travailleurs handicapés qu'elle emploie ou des personnes détenues reconnues travailleurs handicapés ayant signé un contrat d'emploi pénitentiaire. Cet accompagnement peut comprendre, notamment, une aide à la définition du projet professionnel, des actions de formation professionnelle et des actions d'évaluation des compétences.
+

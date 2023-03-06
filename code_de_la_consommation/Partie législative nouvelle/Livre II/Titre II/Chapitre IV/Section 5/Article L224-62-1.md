@@ -1,0 +1,4 @@
+###### Article L224-62-1
+
+Lorsqu'une foire, un salon ou une autre manifestation commerciale relevant du chapitre II du titre VI du livre VII du code de commerce se déroule sur le territoire d'un groupement européen de coopération territoriale, le représentant de l'Etat dans le département peut, par dérogation à l'article 2 de la loi n° 94-665 du 4 août 1994 relative à l'emploi de la langue française, autoriser l'usage, sans traduction, de la langue du pays frontalier pour les documents commerciaux ou à destination du public relatifs à un produit ou à un service, dès lors que l'absence de traduction en langue française de ces documents ne peut constituer un risque pour la sécurité ou la santé des consommateurs et que l'achat de ce produit ou de ce service a préalablement fait l'objet du consentement écrit du consommateur au fait que ces documents ne soient pas traduits.
+

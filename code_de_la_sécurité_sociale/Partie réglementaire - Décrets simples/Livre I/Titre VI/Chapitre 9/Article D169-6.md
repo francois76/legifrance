@@ -1,0 +1,4 @@
+##### Article D169-6
+
+Pour les frais de santé n'ayant pas donné lieu au versement direct prévu à l'article L. 169-8, les personnes mentionnées à l'article L. 169-1 par dérogation à l'article D. 169-2-2 et celles mentionnées à l'article L. 169-7 adressent à leur organisme d'assurance maladie leurs demandes de remboursement des dépenses mentionnées aux articles L. 169-2-1 et L. 169-3 et intervenues postérieurement au 14 juillet 2016. L'organisme d'assurance maladie assure à ces personnes le versement de la différence entre les frais réellement engagés et le montant remboursé par la mutuelle, l'institution de prévoyance ou l'entreprise d'assurance mentionnée au premier alinéa de l'article L. 182-3. Ces dépenses sont remboursées à l'assurance maladie selon les modalités prévues au dernier alinéa de l'article D. 169-5.
+

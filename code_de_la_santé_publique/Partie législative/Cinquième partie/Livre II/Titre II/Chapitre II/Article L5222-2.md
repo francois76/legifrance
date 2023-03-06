@@ -1,0 +1,4 @@
+###### Article L5222-2
+
+La personne physique ou morale responsable de la cession à titre onéreux ou à titre gratuit d'un dispositif d'occasion figurant sur une liste fixée par décision du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, établit, selon des modalités fixées par décret en Conseil d'Etat, une attestation justifiant de la maintenance régulière et du maintien des performances du dispositif concerné.
+

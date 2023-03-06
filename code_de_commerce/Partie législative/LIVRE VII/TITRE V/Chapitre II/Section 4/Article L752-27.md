@@ -1,0 +1,12 @@
+###### Article L752-27
+
+I.-Dans les collectivités relevant de l'article 73 de la Constitution et dans les collectivités d'outre-mer de Saint-Barthélemy, de Saint-Martin, de Wallis-et-Futuna et de Saint-Pierre-et-Miquelon, en cas d'existence d'une position dominante, détenue par une entreprise ou un groupe d'entreprises exerçant une activité de commerce de gros ou de détail, l'Autorité de la concurrence peut, eu égard aux contraintes particulières de ces territoires découlant notamment de leurs caractéristiques géographiques et économiques, adresser un rapport motivé à l'entreprise ou au groupe d'entreprises en cause si elle constate que cette position dominante soulève des préoccupations de concurrence du fait de prix ou de marges élevés pratiqués par l'entreprise ou le groupe d'entreprises en comparaison des moyennes habituellement constatées dans le secteur concerné.
+
+L'entreprise ou le groupe d'entreprises peut, dans un délai de deux mois, lui proposer des engagements, dans les conditions prévues à l'article L. 464-2.
+
+II.-Si l'entreprise ou le groupe d'entreprises conteste le constat établi dans les conditions prévues au I ou ne propose pas d'engagements ou si les engagements proposés ne lui paraissent pas de nature à mettre un terme à ses préoccupations de concurrence, un rapport est notifié par l'Autorité de la concurrence à l'entreprise ou au groupe d'entreprises, qui peut présenter ses observations dans un délai de deux mois.
+
+L'Autorité de la concurrence peut, par une décision motivée, prise après réception des observations de l'entreprise ou du groupe d'entreprises en cause et à l'issue d'une séance devant le collège, lui enjoindre de modifier, de compléter ou de résilier, dans un délai déterminé qui ne peut excéder six mois, tous accords et tous actes par lesquels s'est constituée la puissance économique qui permet les prix ou les marges élevés constatés. Elle peut, dans les mêmes conditions, lui enjoindre de procéder, dans un délai qui ne peut être inférieur à six mois, à la cession d'actifs, y compris de terrains, bâtis ou non, si cette cession constitue le seul moyen permettant de garantir une concurrence effective. L'Autorité de la concurrence peut sanctionner l'inexécution de ces injonctions dans les conditions prévues à l'article L. 464-2.
+
+Dans le cadre des procédures définies aux I et II du présent article, l'Autorité de la concurrence peut demander communication de toute information dans les conditions prévues aux articles L. 450-3, L. 450-7 et L. 450-8 et entendre tout tiers intéressé.
+

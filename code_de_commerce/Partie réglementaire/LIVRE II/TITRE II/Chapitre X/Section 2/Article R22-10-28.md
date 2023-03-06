@@ -1,0 +1,14 @@
+###### Article R22-10-28
+
+I.-Par dérogation aux dispositions de l'article R. 225-86, dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé ou aux opérations d'un dépositaire central, il est justifié du droit de participer aux assemblées générales par l'inscription en compte des titres au nom de l'actionnaire ou de l'intermédiaire inscrit pour son compte en application du septième alinéa de l'article L. 228-1, au deuxième jour ouvré précédant l'assemblée à zéro heure, heure de Paris, soit dans les comptes de titres nominatifs tenus par la société, soit dans les comptes de titres au porteur tenus par un intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier.
+
+II.-L'inscription des titres dans les comptes de titres au porteur tenus par un intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier est constatée par une attestation de participation délivrée par ce dernier, le cas échéant par voie électronique dans les conditions prévues à l'article R. 225-61, en annexe au formulaire de vote à distance ou de procuration ou à la demande de carte d'admission établis au nom de l'actionnaire ou pour le compte de l'actionnaire représenté par l'intermédiaire inscrit. Une attestation est également délivrée à l'actionnaire souhaitant participer physiquement à l'assemblée et qui n'a pas reçu sa carte d'admission le deuxième jour ouvré précédant l'assemblée à zéro heure, heure de Paris.
+
+III.-Lorsque l'actionnaire a déjà exprimé son vote à distance, envoyé un pouvoir ou demandé sa carte d'admission ou une attestation de participation dans les conditions prévues à la dernière phrase du II, il ne peut plus choisir un autre mode de participation à l'assemblée, sauf disposition contraire des statuts.
+
+IV.-L'actionnaire qui a déjà exprimé son vote à distance, envoyé un pouvoir ou demandé sa carte d'admission ou une attestation de participation dans les conditions prévues à la dernière phrase du II peut à tout moment céder tout ou partie de ses actions.
+
+Cependant, si le transfert de propriété intervient avant le deuxième jour ouvré précédant l'assemblée à zéro heure, heure de Paris, la société invalide ou modifie en conséquence, selon le cas, le vote exprimé à distance, le pouvoir, la carte d'admission ou l'attestation de participation. A cette fin, l'intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier notifie le transfert de propriété à la société ou à son mandataire et lui transmet les informations nécessaires.
+
+Aucun transfert de propriété réalisé après le deuxième jour ouvré précédant l'assemblée à zéro heure, heure de Paris, quel que soit le moyen utilisé, n'est notifié par l'intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier ou prise en considération par la société, nonobstant toute convention contraire.
+

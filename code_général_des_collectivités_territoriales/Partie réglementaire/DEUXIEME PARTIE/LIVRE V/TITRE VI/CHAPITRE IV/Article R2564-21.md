@@ -1,0 +1,6 @@
+###### Article R2564-21
+
+Les exigences de l'article R. 2224-11 doivent être satisfaites, à Mayotte :
+- au plus tard le 31 décembre 2020 pour les agglomérations d'assainissement dont la population et les activités économiques produisent des eaux usées dont la charge brute de pollution organique est supérieure à 900 kg par jour ;
+- au plus tard le 31 décembre 2027 pour les agglomérations d'assainissement dont la population et les activités économiques produisent des eaux usées dont la charge brute de pollution organique est supérieure à 120 kg par jour.
+

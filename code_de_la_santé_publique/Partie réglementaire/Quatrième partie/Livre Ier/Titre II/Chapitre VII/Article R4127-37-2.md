@@ -1,0 +1,12 @@
+###### Article R4127-37-2
+
+I. - La décision de limitation ou d'arrêt de traitement respecte la volonté du patient antérieurement exprimée dans des directives anticipées. Lorsque le patient est hors d'état d'exprimer sa volonté, la décision de limiter ou d'arrêter les traitements dispensés, au titre du refus d'une obstination déraisonnable, ne peut être prise qu'à l'issue de la procédure collégiale prévue à l'article L. 1110-5-1 et dans le respect des directives anticipées et, en leur absence, après qu'a été recueilli auprès de la personne de confiance ou, à défaut, auprès de la famille ou de l'un des proches le témoignage de la volonté exprimée par le patient.
+
+II. - Le médecin en charge du patient peut engager la procédure collégiale de sa propre initiative. Il est tenu de le faire à la demande de la personne de confiance, ou, à défaut, de la famille ou de l'un des proches. La personne de confiance ou, à défaut, la famille ou l'un des proches est informé, dès qu'elle a été prise, de la décision de mettre en œuvre la procédure collégiale.
+
+III. - La décision de limitation ou d'arrêt de traitement est prise par le médecin en charge du patient à l'issue de la procédure collégiale. Cette procédure collégiale prend la forme d'une concertation avec les membres présents de l'équipe de soins, si elle existe, et de l'avis motivé d'au moins un médecin, appelé en qualité de consultant. Il ne doit exister aucun lien de nature hiérarchique entre le médecin en charge du patient et le consultant. L'avis motivé d'un deuxième consultant est recueilli par ces médecins si l'un d'eux l'estime utile.
+
+Lorsque la décision de limitation ou d'arrêt de traitement concerne un mineur ou une personne faisant l'objet d'une mesure de protection juridique avec représentation relative à la personne, le médecin recueille en outre l'avis des titulaires de l'autorité parentale ou de la personne chargée de la mesure, selon les cas, hormis les situations où l'urgence rend impossible cette consultation.
+
+IV. - La décision de limitation ou d'arrêt de traitement est motivée. La personne de confiance, ou, à défaut, la famille, ou l'un des proches du patient est informé de la nature et des motifs de la décision de limitation ou d'arrêt de traitement. La volonté de limitation ou d'arrêt de traitement exprimée dans les directives anticipées ou, à défaut, le témoignage de la personne de confiance, ou de la famille ou de l'un des proches de la volonté exprimée par le patient, les avis recueillis et les motifs de la décision sont inscrits dans le dossier du patient.
+

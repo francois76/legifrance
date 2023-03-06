@@ -1,0 +1,6 @@
+###### Article R141-38-9
+
+Les carrières souterraines de gypse, autorisées au titre de la nomenclature mentionnée à l'article R. 511-9 du code de l'environnement avant l'entrée en vigueur d'un classement comme forêt de protection, peuvent continuer à être exploitées sans l'autorisation prévue à l'article R. 141-38-8. Dans les six mois suivant cette entrée en vigueur, les exploitants se font connaître du préfet et lui transmettent les éléments permettant d'apprécier les incidences de leur exploitation sur la conservation et la protection des boisements faisant l'objet du classement.
+
+Le préfet examine si les modes d'occupation du sol générés par l'exploitation des carrières mentionnées au premier alinéa sont de nature à porter atteinte aux intérêts mentionnés aux 1° et 2° du II de l'article R. 141-38-5. Dans l'affirmative, il impose, après avoir porté le projet d'arrêté à la connaissance de l'exploitant en lui laissant quinze jours pour présenter ses observations éventuelles par écrit, toutes prescriptions complémentaires qu'il estime nécessaires en vue de limiter les incidences des travaux sur la stabilité des sols, la végétation forestière et les écosystèmes forestiers. Ces prescriptions sont proportionnées afin de ne pas compromettre l'exploitation de la carrière
+

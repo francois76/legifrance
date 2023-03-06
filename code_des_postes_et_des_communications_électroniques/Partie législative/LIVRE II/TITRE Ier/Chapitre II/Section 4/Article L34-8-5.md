@@ -1,0 +1,8 @@
+###### Article L34-8-5
+
+Dans un délai de trois mois à compter de la promulgation de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques, l'Etat, les représentants des collectivités territoriales et les opérateurs de communications électroniques titulaires d'une autorisation d'utilisation de fréquences radioélectriques pour l'exploitation d'un réseau mobile ouvert au public concluent une convention définissant les conditions dans lesquelles la couverture des zones où aucun service mobile n'est disponible à la date de publication de la même loi est assurée, à l'exception des zones identifiées en application du III de l'article 52 ou des articles 52-1 et 52-2 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ou des articles 119, 119-1 et 119-2 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie.
+
+Elle prévoit notamment les conditions dans lesquelles les collectivités territoriales et leurs groupements peuvent, après avoir constaté une carence d'initiative privée, mettre à disposition des exploitants une infrastructure comprenant un point haut support d'antenne, un raccordement à un réseau d'énergie et un raccordement à un réseau fixe ouvert au public, permettant d'assurer la couverture de la zone en cause en services mobiles de troisième génération au minimum, dans des conditions techniques et tarifaires raisonnables.
+
+Les opérateurs informent conjointement l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse des obligations individuelles qu'ils ont respectivement contractées dans le cadre de la mise en œuvre de la convention mentionnée au premier alinéa du présent article.
+

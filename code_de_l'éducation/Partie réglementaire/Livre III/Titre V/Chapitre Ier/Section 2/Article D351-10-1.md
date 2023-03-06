@@ -1,0 +1,6 @@
+###### Article D351-10-1
+
+Lorsque, en application d'une décision de la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 146-9 du code de l'action sociale et des familles, un élève a été orienté et pris en charge par un dispositif intégré mentionné à l'article L. 312-7-1 du même code, l'équipe de suivi de la scolarisation est autorisée à modifier le projet personnalisé de scolarisation de l'élève, sous réserve de son accord si l'élève est majeur ou, s'il est mineur, de l'accord de ses parents ou de son représentant légal, et sous réserve de l'accord du représentant du dispositif intégré, d'un enseignant, membre de l'équipe de suivi de la scolarisation, désigné par le directeur académique des services de l'éducation nationale ou le directeur régional de l'alimentation, de l'agriculture et de la forêt et ayant une connaissance approfondie de la situation particulière de l'élève et de son parcours scolaire.
+
+L'élève majeur ou, s'il est mineur, ses parents ou son représentant légal disposent d'un délai de rétractation de quinze jours francs à compter de la date à laquelle ils ont signé la fiche de liaison mentionnée à l'article D. 351-10-2 afin, le cas échéant, de revenir sur leur accord.
+

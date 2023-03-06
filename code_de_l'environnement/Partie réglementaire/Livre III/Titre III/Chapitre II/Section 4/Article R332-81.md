@@ -1,0 +1,4 @@
+###### Article R332-81
+
+Le recouvrement des dommages-intérêts qui seront accordés à l'Etat, à la région, à la collectivité de Corse ou au gestionnaire de la réserve naturelle est effectué sans frais à leur profit par le comptable de la direction générale des finances publiques.
+

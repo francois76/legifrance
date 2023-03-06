@@ -1,0 +1,4 @@
+###### Article R5524-39
+
+Le ministre compétent statue dans un délai de vingt jours à compter de la réception de l'avis du conseil de discipline. Il ne peut prononcer de sanction plus sévère que celle proposée par le conseil de discipline. Sa décision est notifiée à l'intéressé par tout moyen permettant de conférer date certaine à la réception de cette notification. Le ministre compétent en informe l'autorité administrative en charge du registre mentionné à l'article 26 du décret n° 2015-723 du 24 juin 2015 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires armés au commerce, à la plaisance, à la pêche et aux cultures marines, si la sanction prononcée justifie la mise à jour de la validité des mentions qui y figurent.
+

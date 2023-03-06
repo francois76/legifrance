@@ -1,0 +1,4 @@
+##### Article D175-3
+
+Pour assurer le suivi prévu au premier alinéa de l'article R. 175-1 et à l'article D. 175-1, la Caisse nationale de l'assurance maladie retrace dans une gestion comptable dédiée les opérations découlant des dépenses afférentes aux soins dispensés dans les établissements et services mentionnés à l'article L. 312-1 du code de l'action sociale et des familles qui sont liquidées, pour le compte de la branche autonomie, par les organismes de la branche mentionnée au 1° de l'article L. 200-2 ou par d'autres organismes d'assurance maladie remplissant le rôle de caisse de rattachement en application de l'article L. 174-8. Les flux afférents ainsi que les écritures d'inventaire à inscrire dans les comptes de l'exercice clos sont comptabilisés en charges et en produits dans cette gestion dédiée. Cette gestion est exclue du périmètre de combinaison des comptes de la branche mentionnée au 1° de l'article L. 200-2.
+

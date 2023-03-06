@@ -1,0 +1,4 @@
+##### Article L453-9
+
+Lorsqu'une installation de production de biogaz est située à proximité d'un réseau de gaz naturel, les gestionnaires des réseaux de gaz naturel effectuent les renforcements nécessaires pour permettre l'injection dans le réseau du biogaz produit, dans les conditions et limites permettant de s'assurer de la pertinence technico-économique des investissements définies par décret pris après avis de la Commission de régulation de l'énergie. Ce décret précise la partie du coût des renforcements des réseaux à la charge du ou des gestionnaires des réseaux et celle restant à la charge du ou des producteurs ainsi que la répartition de cette dernière entre les différents producteurs concernés. Ce même décret prévoit l'association des autorités concédantes de la distribution publique de gaz mentionnées au I de l'article L. 2224-31 du code général des collectivités territoriales.
+

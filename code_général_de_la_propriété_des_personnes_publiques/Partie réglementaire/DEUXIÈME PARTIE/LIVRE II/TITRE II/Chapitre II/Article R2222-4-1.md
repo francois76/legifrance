@@ -1,0 +1,6 @@
+###### Article R2222-4-1
+
+Sans préjudice des dispositions de l'article R. 2222-18, les immeubles du domaine privé de l'Etat peuvent faire l'objet de baux en vue de fournir un logement à ses agents civils et militaires sans que l'occupation de ce logement ne soit liée à des considérations de service. Dans ce cas, un loyer est mis à la charge de l'agent. Il est égal, sauf disposition spéciale liée à l'usage social de l'immeuble, à la valeur locative réelle des locaux occupés, déduction faite d'un abattement de 15 % destiné à tenir compte de la précarité de l'occupation mentionnée dans le bail.
+
+Le taux de l'abattement mentionné à l'alinéa précédent peut être porté jusqu'à 50 % pour les militaires ainsi que pour les agents civils en activité au sein du ministère de la défense et des établissements publics placés sous sa tutelle, occupant un immeuble mis à disposition du ministère de la défense. Un arrêté conjoint du ministre de la défense et du ministre chargé du domaine établit un classement du territoire national en zones géographiques en tenant compte du déséquilibre entre l'offre et la demande de logements et définit le taux d'abattement applicable à chacune de ces zones. Pour l'application du présent alinéa, la valeur locative réelle des locaux occupés est fixée par l'autorité militaire, par dérogation à l'article R. 2222-1.
+

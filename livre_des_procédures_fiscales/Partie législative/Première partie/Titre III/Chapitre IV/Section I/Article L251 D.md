@@ -1,0 +1,8 @@
+###### Article L251 D
+
+La procédure de règlement des différends peut être engagée par tout contribuable résident de France ou d'un autre Etat membre de l'Union européenne au sens de la convention fiscale applicable conclue entre la France et cet autre Etat membre dès lors qu'il est soumis à une imposition qui donne lieu à un différend défini à l'article L. 251 B.
+
+La demande d'ouverture de la procédure de règlement des différends doit être introduite simultanément auprès de l'administration fiscale française et de celles des autres Etats membres concernés dans un délai de trois ans à compter de la réception de la première mesure administrative qui peut entraîner une imposition immédiate ou future déterminée dans son principe et dans son montant.
+
+Par dérogation aux dispositions du deuxième alinéa du présent article, le contribuable résident de France au sens de la convention fiscale applicable peut s'adresser durant toute la procédure de règlement des différends à l'administration fiscale française lorsqu'il est un particulier ou lorsqu'il n'est pas une grande entreprise et ne fait pas partie d'un grand groupe au sens de la directive 2013/34/ UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/ CE du Parlement européen et du Conseil et abrogeant les directives 78/660/ CEE et 83/349/ CEE du Conseil. Dans ce cas, l'administration fiscale française se charge de toutes les communications à effectuer aux administrations des autres Etats membres concernés.
+

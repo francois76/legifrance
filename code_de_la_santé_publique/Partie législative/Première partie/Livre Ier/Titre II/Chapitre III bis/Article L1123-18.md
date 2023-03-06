@@ -1,0 +1,4 @@
+###### Article L1123-18
+
+Toute modification substantielle à l'initiative du promoteur d'une recherche, d'une investigation clinique ou d'une étude des performances relevant du secret de la défense nationale doit obtenir, préalablement à sa mise en œuvre, un avis favorable du comité de protection des personnes-défense et sécurité nationale mentionné au I de l'article L. 1123-16 et, dans le cas de recherches mentionnées au 1° de l'article L. 1121-1, d'investigations cliniques mentionnées au II de l'article L. 1125-1, ou d'études des performances mentionnées au II de l'article L. 1126-1, une autorisation de l'autorité compétente. Dans ce cas, le comité s'assure qu'un nouveau consentement des personnes participant à la recherche, à l'investigation clinique ou à l'étude des performances est recueilli.
+

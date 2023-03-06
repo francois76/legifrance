@@ -1,0 +1,4 @@
+###### Article L34-8-2-1-1
+
+L'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse publie périodiquement des indicateurs sur le taux de pénétration des réseaux ouverts au public à très haut débit en fibre optique permettant de desservir un utilisateur final, établis ou exploités par les collectivités territoriales et leurs groupements en application de l'article L. 1425-1 du code général des collectivités territoriales. Ces indicateurs permettent d'évaluer l'intensité de la concurrence dans les territoires, en particulier dans les zones rurales ou de montagne, et de proposer des solutions pour assurer que les taux de pénétration constatés au sein des zones d'initiative publique ne s'éloignent pas durablement des taux constatés dans les zones d'initiative privée.
+

@@ -1,0 +1,4 @@
+###### Article L531-15
+
+Le demandeur d'asile peut se présenter à l'entretien personnel accompagné soit d'un avocat, soit d'un représentant d'une association de défense des droits de l'homme, d'une association de défense des droits des étrangers ou des demandeurs d'asile, d'une association de défense des droits des femmes ou des enfants ou d'une association de lutte contre les persécutions fondées sur l'identité de genre ou l'orientation sexuelle. Les conditions d'habilitation des associations et les modalités d'agrément de leurs représentants par l'Office français de protection des réfugiés et apatrides sont fixées par décret en Conseil d'Etat. Seules peuvent être habilitées les associations indépendantes à l'égard des autorités des pays d'origine des demandeurs d'asile et apportant une aide à tous les demandeurs. L'avocat ou le représentant de l'association ne peut intervenir que pour formuler des observations à l'issue de l'entretien.
+

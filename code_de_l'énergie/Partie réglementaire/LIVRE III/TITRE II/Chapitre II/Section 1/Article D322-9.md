@@ -1,0 +1,8 @@
+###### Article D322-9
+
+Lorsqu'elle constate que la tension délivrée à un utilisateur du réseau, autre qu'un producteur d'électricité, n'est pas maintenue dans les limites de la plage de variation fixée par l'arrêté prévu à l'article D. 322-2 ou subit un nombre de coupures excédant dans l'année un seuil fixé par le même arrêté, l'autorité organisatrice demande au gestionnaire du réseau public de distribution de procéder à une analyse des causes du dysfonctionnement constaté et de lui en transmettre les résultats dans un délai qu'elle fixe.
+
+Au vu des résultats de cette analyse, l'autorité organisatrice demande, le cas échéant, au gestionnaire du réseau de prendre les mesures permettant de remédier à ce dysfonctionnement. A compter de cette demande, le gestionnaire du réseau dispose d'un mois pour faire part à l'autorité organisatrice de ses observations éventuelles, lui communiquer un programme d'actions correctives et soumettre à son approbation les délais prévisionnels de mise en œuvre de ce programme.
+
+Dans le cas prévu à l'article L. 322-6, le gestionnaire du réseau public de distribution d'électricité en informe l'autorité organisatrice et transmet aux maîtres d'ouvrage concernés les données nécessaires pour la réalisation des travaux, y compris son analyse du dysfonctionnement constaté. Le cas échéant, le gestionnaire du réseau informe l'autorité organisatrice des situations où la mise en œuvre des mesures mentionnées au deuxième alinéa du présent article incombe à un autre gestionnaire de réseau public de distribution d'électricité, notamment dans les cas où ce second gestionnaire contribue à l'alimentation en énergie électrique du réseau géré par le premier, ou incombe au gestionnaire du réseau public de transport d'électricité.
+

@@ -1,0 +1,4 @@
+##### Article R345-1-4
+
+Lorsque le commissaire aux comptes d'une entreprise mentionné aux articles L. 310-1 ou L. 310-1-1, d'une société de groupe d'assurance mentionnée à l'article L. 322-1-2, d'une mutuelle ou d'une union régie par le livre II du code de la mutualité, d'une union mutualiste de groupe mentionnée à l'article L. 111-4-2 du même code, d'une institution de prévoyance ou d'une union régie par le titre 3 du livre 9 du code de la sécurité sociale, ou d'une société de groupe assurantiel de protection sociale définie à l'article L. 931-2-2 du même code constate, d'une part, l'existence d'éléments constitutifs d'une obligation d'établissement et de publication de comptes combinés, d'autre part, l'absence de mise en œuvre de cette obligation, il saisit l'Autorité de contrôle prudentiel et de résolution conformément aux dispositions de l'article L. 612-44 du code monétaire et financier.
+

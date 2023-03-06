@@ -1,0 +1,14 @@
+###### Article D612-31
+
+L'admission dans une section de techniciens supérieurs de l'enseignement public est organisée sous l'autorité du recteur de région académique qui définit, avec les chefs d'établissements d'accueil, les conditions de la mise en place et du déroulement de la procédure d'admission. Le recteur de région académique associe les recteurs d'académie de la région à la définition de cette organisation.
+
+Elle est prononcée par le chef de l'établissement d'accueil, après qu'une commission d'admission formée principalement des professeurs de la section demandée a apprécié la candidature de chaque étudiant postulant.
+
+L'admission des bacheliers professionnels dans une section de techniciens supérieurs fait l'objet d'un examen prioritaire. Lorsque le dossier d'un bachelier professionnel ou technologique est en cohérence avec la spécialité demandée et n'a pas fait l'objet d'une proposition d'admission, le recteur peut, à la demande du candidat, prononcer son affectation dans la section demandée ou dans une autre section du même champ professionnel ou d'un champ professionnel voisin.
+
+L'admission est de droit pour les élèves et les apprentis qui, ayant préalablement fait acte de candidature dans les formes et délais prévus par le recteur, obtiennent la même année une mention "très bien" ou "bien" au baccalauréat professionnel ou technologique dont le champ professionnel correspond à celui de la section de techniciens supérieurs demandée. Pour les élèves ou les apprentis qui obtiennent une mention "très bien" ou "bien" au baccalauréat professionnel ou technologique et qui ont été préalablement inscrits en liste supplémentaire ou refusés dans la section de techniciens supérieurs demandée, le recteur prononce l'affectation dans la section demandée ou dans une autre section du même champ professionnel.
+
+L'admission des bacheliers généraux est prononcée sous réserve de l'application des dispositions des alinéas précédents.
+
+Par dérogation au deuxième alinéa, l'admission des bacheliers professionnels ou technologiques ayant suivi une formation complémentaire leur permettant d'acquérir les connaissances et compétences attendues pour la réussite dans la spécialité de section de techniciens supérieurs demandée par le candidat est de droit si, sur proposition de l'équipe pédagogique, l'avis du chef de l'établissement où cette formation a été suivie est favorable. Toutefois, à titre exceptionnel, lorsque l'avis ne tient pas compte des caractéristiques de la formation demandée ou ne permet pas d'apprécier les acquis et compétences du bachelier, le recteur de région académique peut ne pas en tenir compte. Lorsqu'il est procédé à cette admission, celle-ci peut être prononcée au cours du premier trimestre de l'année de formation complémentaire, lorsque l'équipe pédagogique de celle-ci considère que l'élève a atteint le niveau lui permettant de réussir en section de techniciens supérieurs.
+

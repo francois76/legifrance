@@ -1,0 +1,4 @@
+###### Article R335-39
+
+A la suite de la notification mentionnée à l'article R. 335-37, dans le cas d'un rééquilibrage à la hausse, le le gestionnaire du réseau de transport français transmet à l'exploitant de capacité concernée ou au gestionnaire de l'interconnexion dérogatoire concernée, pour signature, le nouveau contrat de certification, qui annule et remplace le précédent. Lorsque la capacité est raccordée au réseau public de distribution d'électricité, le gestionnaire du réseau de transport français transmet un exemplaire du contrat de certification au gestionnaire de réseau public de distribution d'électricité concerné. Les garanties de capacité correspondant au volume de rééquilibrage retenu sont délivrées à l'exploitant de capacité concernée ou au gestionnaire de l'interconnexion dérogatoire concernée.
+

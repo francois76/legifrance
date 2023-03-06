@@ -1,0 +1,6 @@
+###### Article R2241-5
+
+Lorsque le prix d'une des acquisitions mentionnées à l'article R. 2241-4 donne lieu à remploi en valeurs mobilières, les comptables publics remettent les fonds au prestataire de service d'investissement autre qu'une société de gestion de portefeuille désigné par le vendeur, par contrat ou par autorité de justice, pour procéder à l'achat et requérir l'immatriculation des titres acquis en remploi.
+
+La remise des fonds a lieu sur production d'une attestation du prestataire de service d'investissement certifiant l'accomplissement de la mission de remploi qui lui a été confiée.
+

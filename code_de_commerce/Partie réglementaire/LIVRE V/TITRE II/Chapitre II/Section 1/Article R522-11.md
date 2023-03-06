@@ -1,0 +1,8 @@
+###### Article R522-11
+
+Le cautionnement peut être fourni en totalité ou en partie en argent, en rentes, en valeurs admises à la négociation sur un marché réglementé, ou par une première hypothèque sur des immeubles d'une valeur double de la somme garantie. Il peut également être fourni en totalité par l'un des établissements de crédit ou l'une des sociétés de financement habilités à cet effet ou l'une des institutions ou l'un des établissements mentionnés à l'article L. 518-1 du code monétaire et financier.
+
+Si le cautionnement est représenté par une hypothèque, la valeur des immeubles est estimée par le directeur départemental ou, le cas échéant, régional des finances publiques sur les bases établies pour la perception des droits de mutation en cas de décès.
+
+Pour la conservation de cette garantie, une inscription est prise, dans l'intérêt des tiers, à la diligence et au nom du directeur départemental ou, le cas échéant, régional des finances publiques.
+

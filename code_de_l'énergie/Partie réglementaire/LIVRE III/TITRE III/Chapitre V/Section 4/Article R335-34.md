@@ -1,0 +1,4 @@
+###### Article R335-34
+
+Lorsque l'exploitant d'une capacité située sur le territoire continental de la France, qui existe mais n'a pas encore été certifiée pour une année de livraison donnée n'a ni fait de demande de certification à la date limite prévue à l'article R. 335-47, ni envoyé l'avis de fermeture de capacité mentionné à l'article R. 335-33, le gestionnaire du réseau public de transport ou de distribution d'électricité auquel est raccordée la capacité l'invite à faire sa demande de certification dans un délai de dix jours ouvrés à compter de la date limite de demande de certification. Si, à l'issue de ce délai, aucune demande n'a été reçue par le gestionnaire du réseau public de transport ou de distribution d'électricité concerné, celui-ci en informe la Commission de régulation de l'énergie.
+

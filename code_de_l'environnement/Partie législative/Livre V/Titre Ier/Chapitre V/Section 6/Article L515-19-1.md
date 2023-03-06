@@ -1,0 +1,16 @@
+###### Article L515-19-1
+
+I. – Le financement des délaissements et expropriations mis en œuvre en application des articles L. 515-16-3 et L. 515-16-4 est assuré par l'Etat, les exploitants des installations à l'origine du risque et les collectivités territoriales ou les établissements publics de coopération intercommunale percevant tout ou partie de la contribution économique territoriale au titre de l'année d'approbation du plan de prévention des risques technologiques dans le périmètre qu'il couvre.
+
+Le montant de ce financement couvre le prix d'acquisition des biens, y compris les indemnités accessoires éventuelles, ainsi que les frais annexes et les dépenses liées à la limitation de l'accès ou à la démolition de ces biens.
+
+II. – Les personnes et organismes mentionnés au premier alinéa du I concluent une convention fixant leurs contributions respectives, couvrant les dépenses mentionnées à l'alinéa précédent, estimées à la date de la signature de cette convention, pour les expropriations et les délaissements possibles, prévus par le plan de prévention des risques technologiques. A défaut de convention, les contributions de chacun sont fixées suivant les modalités fixées à l'article L. 515-19-2.
+
+Les dépenses mentionnées au deuxième alinéa du I et non prévues par la convention ou excédant les montants qu'elle prévoit font l'objet d'un avenant. A défaut d'un tel avenant dans les six mois suivant la demande de la collectivité territoriale ou de l'établissement public de coopération intercommunale compétent en matière d'urbanisme, les modalités de répartition fixées au I de l'article L. 515-19-2 s'appliquent.
+
+III. – Les mesures prescrites en application de l'article L. 515-16-6, ainsi que les études préalables, bénéficient d'un financement dans les mêmes conditions que celles mentionnées au I et prévues par la convention ou la répartition par défaut des contributions mentionnées au II pour les biens concernés. Ce financement ne peut toutefois excéder le montant des dépenses mentionnées au deuxième alinéa du présent article qui seraient engagées en cas de mise en œuvre du délaissement ou de l'expropriation pour ces biens.
+
+IV. – Les acquisitions par exercice du droit de préemption urbain mentionnées à l'article L. 515-16-5, ainsi que les frais annexes et les dépenses liées à la limitation de l'accès et à la démolition éventuelle de ces biens, bénéficient d'un financement assuré dans les mêmes conditions que celles mentionnées au I et prévues par la convention ou la répartition par défaut des contributions mentionnées au II pour les biens concernés. Ce financement ne peut toutefois excéder le montant des dépenses mentionnées au deuxième alinéa du présent article qui seraient engagées en cas de mise en œuvre du délaissement ou de l'expropriation pour ces biens.
+
+V. – Si des travaux de protection prescrits ont été réalisés et bénéficient de tout ou partie des financements mentionnés à l'article L. 515-19 ou du crédit d'impôt mentionné au 1 bis de l'article 200 quater A du code général des impôts, l'indemnité versée au titre du délaissement ou de l'expropriation, ainsi que le plafond de financement mentionné au IV du présent article, sont diminués du montant des financements perçus ou à percevoir.
+

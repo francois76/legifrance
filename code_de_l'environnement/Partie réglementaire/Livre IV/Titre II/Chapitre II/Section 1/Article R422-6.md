@@ -1,0 +1,4 @@
+###### Article R422-6
+
+Le préfet transmet au conseil départemental les avis motivés de la fédération départementale des chasseurs, de la délégation régionale du Centre national de la propriété forestière et de la chambre d'agriculture. Le conseil départemental émet son avis lors de sa séance ordinaire la plus proche ou lors d'une séance extraordinaire.
+

@@ -1,0 +1,4 @@
+##### Article L123-4
+
+Des juristes assistants sont institués auprès des juridictions. Peuvent être nommées en qualité de juristes assistants auprès des magistrats des tribunaux judiciaires et des tribunaux de première instance, des cours d'appel ainsi qu'à la Cour de cassation les personnes titulaires d'un diplôme de doctorat en droit ou sanctionnant une formation juridique au moins égale à cinq années d'études supérieures après le baccalauréat avec une année d'expérience professionnelle dans le domaine juridique et que leur compétence qualifie particulièrement pour exercer ces fonctions. Ces juristes assistants sont nommés, à temps partiel ou complet, pour une durée maximale de trois années, renouvelable une fois. Ils sont tenus au secret professionnel et peuvent accéder aux dossiers de procédure pour l'exercice des tâches qui leur sont confiées. Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+

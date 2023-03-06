@@ -1,0 +1,4 @@
+#### Article 2-25
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits et dont l'objet statutaire comporte la lutte contre les violences, les injures, les diffamations, le harcèlement moral, les discours de haine ou la divulgation d'informations dont sont victimes les agents chargés d'une mission de service public peut exercer les droits reconnus à la partie civile en ce qui concerne les atteintes volontaires à la vie et à l'intégrité de la personne et les agressions et autres atteintes, enlèvements et séquestrations réprimés par les articles 221-1 à 221-5-5,222-1 à 222-18-3,222-22 à 222-33-1,223-1-1 et 224-1 à 224-5-2 du code pénal, si elle justifie avoir reçu l'accord de la victime ou, si cette dernière est un majeur sous tutelle, de son représentant légal.
+

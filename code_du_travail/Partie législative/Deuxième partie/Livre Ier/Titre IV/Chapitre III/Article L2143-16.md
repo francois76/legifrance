@@ -1,0 +1,8 @@
+###### Article L2143-16
+
+Chaque section syndicale dispose, au profit de son ou ses délégués syndicaux et des salariés de l'entreprise appelés à négocier la convention ou l'accord d'entreprise, en vue de la préparation de la négociation de cette convention ou de cet accord, d'un crédit global supplémentaire dans la limite d'une durée qui ne peut excéder :
+
+1° Douze heures par an dans les entreprises d'au moins cinq cents salariés ;
+
+2° Dix-huit heures par an dans celles d'au moins mille salariés.
+

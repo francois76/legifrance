@@ -1,0 +1,6 @@
+###### Article L143-13
+
+Lorsque le périmètre d'un établissement public de coopération intercommunale à fiscalité propre comprend des communes appartenant à plusieurs périmètres de schémas de cohérence territoriale, cet établissement devient, au terme d'un délai de trois mois, membre de plein droit de l'établissement public prévu à l'article L. 143-16 sur le territoire duquel est comprise la majeure partie de sa population, sauf lorsque son organe délibérant s'est prononcé dans ce délai contre son appartenance à cet établissement public ou pour son appartenance à l'établissement public d'un des autres schémas. Les communes appartenant à l'établissement public de coopération intercommunale à fiscalité propre sont retirées des établissements publics prévus au même article L. 143-16 dont celui-ci n'est pas devenu membre. Ce retrait emporte réduction du périmètre des schémas de cohérence territoriale correspondants.
+
+L'établissement public de coopération intercommunale à fiscalité propre peut se prononcer pour son appartenance à l'établissement public prévu à l'article L. 143-16 sur le territoire duquel est comprise la majeure partie de sa population avant le terme du délai de trois mois. Dans ce cas, sa délibération emporte extension du périmètre du schéma de cohérence territoriale.
+

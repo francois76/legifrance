@@ -1,0 +1,6 @@
+###### Article R442-44
+
+En ce qui concerne les classes élémentaires et préélémentaires, les communes de résidence sont tenues de prendre en charge, pour les élèves domiciliés sur leur territoire et dans les mêmes conditions que pour les classes correspondantes de l'enseignement public, les dépenses de fonctionnement des classes sous contrat, sous réserve des charges afférentes aux personnels enseignants rémunérés directement par l'Etat.
+
+La commune siège de l'établissement peut donner son accord à la prise en charge des dépenses de fonctionnement correspondant à la scolarisation d'enfants de moins de trois ans dans des classes maternelles sous contrat. Dans ce cas, elle est tenue de prendre en charge, pour les élèves domiciliés dans la commune et dans les mêmes conditions que pour les enfants de moins de trois ans scolarisés dans des classes maternelles publiques, les dépenses de fonctionnement de ces classes, sous réserve des charges afférentes aux personnels enseignants rémunérés directement par l'Etat. Pour les élèves de moins de trois ans non domiciliés dans la commune siège de l'établissement, leurs communes de résidence peuvent également participer, par convention, aux dépenses de fonctionnement de ces classes, sous réserve des dispositions de l'article R. 442-47.
+

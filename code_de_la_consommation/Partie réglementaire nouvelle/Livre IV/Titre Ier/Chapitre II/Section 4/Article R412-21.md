@@ -1,0 +1,20 @@
+###### Article R412-21
+
+Constituent les mesures d'exécution prévues à l'article L. 412-1 :
+
+1° Les dispositions des articles 1er à 7,9 à 18,21,22,29,36,38,45 et 48 du règlement (UE) 2019/787 du Parlement européen et du Conseil du 17 avril 2019 concernant la définition, la désignation, la présentation et l'étiquetage des boissons spiritueuses, l'utilisation des noms de boissons spiritueuses dans la présentation et l'étiquetage d'autres denrées alimentaires, la protection des indications géographiques relatives aux boissons spiritueuses, ainsi que l'utilisation de l'alcool éthylique et des distillats d'origine agricole dans les boissons alcoolisées ;
+
+2° Les dispositions des articles 1er, 2,8 à 11,15,18,28 à 35,38,47 et 48 du règlement délégué (UE) 2018/273 de la Commission du 11 décembre 2017 complétant le règlement (UE) n° 1308/2013 du Parlement européen et du Conseil en ce qui concerne le régime d'autorisations de plantations de vigne, le casier viticole, les documents d'accompagnement et la certification, le registre des entrées et des sorties, les déclarations obligatoires, les notifications et la publication des informations notifiées ;
+
+3° Les dispositions des articles 1er, 13 à 25 et 35 du règlement d'exécution (UE) 2018/274 de la Commission du 11 décembre 2017 portant modalités d'application du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil en ce qui concerne le régime d'autorisations de plantations de vigne, la certification, le registre des entrées et des sorties, les déclarations et les notifications obligatoires, et du règlement (UE) n° 1306/2013 du Parlement européen et du Conseil en ce qui concerne les contrôles y relatifs ;
+
+4° a) Les dispositions des articles 1er, 40 à 58 et des annexes I à VII du règlement délégué (UE) 2019/33 de la Commission du 17 octobre 2018 complétant le règlement (UE) n° 1308/2013 du Parlement européen et du Conseil en ce qui concerne les demandes de protection des appellations d'origine, des indications géographiques et des mentions traditionnelles dans le secteur vitivinicole, la procédure d'opposition, les restrictions d'utilisation, les modifications du cahier des charges, l'annulation de la protection, l'étiquetage et la présentation ;
+
+b) Les dispositions de l'article 14 du règlement d'exécution (UE) 2019/34 de la Commission du 17 octobre 2018 portant modalités d'application du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil en ce qui concerne les demandes de protection des appellations d'origine, des indications géographiques et des mentions traditionnelles dans le secteur vitivinicole, la procédure d'opposition, les modifications du cahier des charges, le registre des dénominations protégées, l'annulation de la protection et l'utilisation des symboles, et du règlement (UE) n° 1306/2013 du Parlement européen et du Conseil en ce qui concerne un système de contrôle approprié ;
+
+5° Les dispositions des articles 1er à 14 et des annexes I à III du règlement délégué (UE) 2019/934 de la Commission du 12 mars 2019 complétant le règlement (UE) n° 1308/2013 du Parlement européen et du Conseil en ce qui concerne les zones viticoles où le titre alcoométrique peut être augmenté, les pratiques œnologiques autorisées et les restrictions applicables à la production et à la conservation de produits de la vigne, le pourcentage minimal d'alcool pour les sous-produits et leur élimination, et la publication des fiches de l'OIV ;
+
+6° Les dispositions des articles 78,80,81,82,90,92,93,103,112,113,117 à 121,147,223 et des annexes VII et VIII du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 modifié portant organisation commune des marchés des produits agricoles pour les produits définis à la partie XII de l'annexe I de ce règlement ;
+
+7° Les dispositions des articles 1 à 8 et de l'article 20 du règlement (UE) n° 251/2014 du Parlement européen et du Conseil du 26 février 2014 concernant la définition, la description, la présentation, l'étiquetage et la protection des indications géographiques des produits vinicoles aromatisés et ses annexes.
+

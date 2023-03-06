@@ -1,0 +1,10 @@
+###### Article R2152-6-1
+
+Pour l'application des dispositions du premier alinéa de l'article R. 2152-6, sont pris en compte les salariés des entreprises adhérentes titulaires d'un contrat de travail au cours du mois de décembre de l'année précédant l'année de prise en compte des entreprises adhérentes et figurant sur les déclarations sociales des entreprises, mentionnées à l'article L. 2122-10-3.
+
+Dans les entreprises mentionnées au cinquième alinéa de l'article R. 2152-1 et constituées sous la forme des sociétés civiles de moyens définies aux articles 1832 et suivants du code civil, les associés peuvent se prévaloir des salariés employés par ces sociétés au bénéfice, le cas échéant, de l'organisation professionnelle d'employeurs à laquelle ils adhèrent. Chaque associé peut se prévaloir du nombre de salariés employés par la société civile de moyens, divisé par le nombre d'associés dans cette société.
+
+Dans les entreprises mentionnées au cinquième alinéa de l'article R. 2152-1 au sein desquelles des associés se regroupent pour l'exercice-même de la profession libérale concernée, la répartition des salariés est effectuée en application de stipulations conventionnelles liant les associés. A défaut, chaque associé exerçant l'activité professionnelle concernée peut se prévaloir du nombre de salariés de l'entreprise, divisé par le nombre de ces associés qui exercent au sein de l'entreprise.
+
+Dans les entreprises et exploitations mentionnées au sixième alinéa de l'article R. 2152-1 constituées sous la forme d'un groupement d'employeurs ou d'une société, les membres du groupement ou les associés qui participent à l'activité de l'entreprise ou de l'exploitation peuvent se prévaloir des salariés employés par le groupement ou la société au bénéfice, le cas échéant, de l'organisation professionnelle d'employeurs à laquelle ils adhèrent. Chaque associé peut se prévaloir du nombre de salariés employés par le groupement d'employeurs ou la société, divisé par le nombre d'associés qui participent à l'activité de l'entreprise ou de l'exploitation.
+

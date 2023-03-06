@@ -1,0 +1,12 @@
+##### Article L651-2
+
+Lorsque la liquidation judiciaire d'une personne morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance d'actif sera supporté, en tout ou en partie, par tous les dirigeants de droit ou de fait, ou par certains d'entre eux, ayant contribué à la faute de gestion. En cas de pluralité de dirigeants, le tribunal peut, par décision motivée, les déclarer solidairement responsables. Toutefois, en cas de simple négligence du dirigeant de droit ou de fait dans la gestion de la personne morale, sa responsabilité au titre de l'insuffisance d'actif ne peut être engagée. Lorsque la liquidation judiciaire concerne une association régie par la loi du 1er juillet 1901 relative au contrat d'association ou, le cas échéant, par le code civil applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle et non assujettie à l'impôt sur les sociétés dans les conditions prévues au 1 bis de l'article 206 du code général des impôts, le tribunal apprécie l'existence d'une faute de gestion au regard de la qualité de bénévole du dirigeant.
+
+Lorsque la liquidation judiciaire a été ouverte ou prononcée à raison de l'activité d'un entrepreneur individuel à responsabilité limitée à laquelle un patrimoine est affecté, le tribunal peut, dans les mêmes conditions, condamner cet entrepreneur à payer tout ou partie de l'insuffisance d'actif. La somme mise à sa charge s'impute sur son patrimoine non affecté.
+
+Lorsque la liquidation judiciaire a été ouverte ou prononcée à l'égard d'un entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V du présent code, le tribunal peut également, dans les mêmes conditions, condamner cet entrepreneur à payer tout ou partie de l'insuffisance d'actif. La somme mise à sa charge s'impute sur son patrimoine personnel.
+
+L'action se prescrit par trois ans à compter du jugement qui prononce la liquidation judiciaire.
+
+Les sommes versées par les dirigeants ou l'entrepreneur individuel à responsabilité limitée entrent dans le patrimoine du débiteur. Elles sont réparties au marc le franc entre tous les créanciers. Les dirigeants ou l'entrepreneur individuel à responsabilité limitée ne peuvent pas participer aux répartitions à concurrence des sommes au versement desquelles ils ont été condamnés.
+

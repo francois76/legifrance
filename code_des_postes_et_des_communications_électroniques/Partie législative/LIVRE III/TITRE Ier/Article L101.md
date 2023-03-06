@@ -1,0 +1,4 @@
+#### Article L101
+
+La personne qui propose ou fournit un service d'envoi électronique en le présentant comme un service de lettre recommandée électronique ou en le présentant sous toute autre dénomination susceptible de prêter à confusion, alors qu'elle n'a pas reçu le statut de prestataire de service d'envoi recommandé électronique qualifié par un organe de contrôle désigné en application de l'article 17 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/ CE, est passible d'une amende administrative dont le montant ne peut excéder 75 000 € pour une personne physique et 375 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V du code de la consommation.
+

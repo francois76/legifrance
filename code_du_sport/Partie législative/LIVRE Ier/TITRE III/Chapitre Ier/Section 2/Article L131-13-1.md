@@ -1,0 +1,6 @@
+###### Article L131-13-1
+
+Dans les collectivités régies par les articles 73 et 74 de la Constitution et en Nouvelle-Calédonie, les statuts mentionnés au I de l'article L. 131-8 du présent code peuvent permettre l'affiliation de toute ligue ou de tout comité sportif à la fédération régionale de la même discipline, sous réserve que la fédération régionale soit elle-même reconnue par la fédération internationale et avec l'accord préalable de la fédération sportive à laquelle il est affilié.
+
+Les ligues et comités sportifs affiliés à une fédération régionale peuvent organiser des compétitions ou des manifestations sportives internationales à caractère régional, constituer des équipes en vue de participer à de telles compétitions ou manifestations et intégrer les organisations internationales, dès lors que leurs statuts le permettent et que la fédération sportive nationale à laquelle ils sont affiliés ne s'y oppose pas par une décision motivée, valable pour une durée maximale de trois mois. Ils veillent au respect des dispositions du présent code en matière de participation à des compétitions internationales. Les sportifs concourent au nom de la France et, éventuellement, du territoire ou de la collectivité dont relève la ligue ou le comité sportif dont ils sont licenciés.
+

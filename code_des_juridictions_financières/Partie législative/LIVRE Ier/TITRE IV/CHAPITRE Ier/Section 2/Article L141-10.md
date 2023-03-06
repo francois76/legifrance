@@ -1,0 +1,14 @@
+###### Article L141-10
+
+Les membres et personnels de la Cour des comptes mentionnés aux sections 1 à 5 du chapitre II du titre Ier du présent livre peuvent demander aux commissaires aux comptes, y compris les commissaires aux apports et les commissaires à la fusion, tous renseignements sur les organismes, sociétés et comptes qu'ils contrôlent ; ils peuvent en particulier se faire communiquer les dossiers et documents établis en application des dispositions législatives et réglementaires relatives à la profession et au statut des commissaires aux comptes de sociétés.
+
+Les commissaires aux comptes des organismes contrôlés sont déliés du secret professionnel à l'égard des membres et personnels de la Cour des comptes mentionnés aux sections 1 à 5 du chapitre II du titre Ier du présent livre, à l'occasion des contrôles que ceux-ci effectuent dans le cadre de leurs attributions.
+
+Pour l'application de l'article LO 132-2-1 du présent code, les membres et personnels de la Cour des comptes mentionnés au premier alinéa :
+
+- peuvent examiner les opérations qu'effectuent les organismes et régimes de sécurité sociale visés par l'article L. 114-8 du code de la sécurité sociale et l'organisme visé par l'article L. 135-6 du même code pour le compte des organismes, branches ou activités mentionnés à l'article LO 132-2-1 ;
+- peuvent demander aux commissaires aux comptes des organismes et régimes cités à l'alinéa précédent tous renseignements sur les entités dont ces derniers assurent la mission de certification des comptes ; ils peuvent en particulier se faire communiquer, pour l'exercice comptable sous revue, les dossiers et documents établis en application des dispositions législatives et réglementaires relatives à la profession et au statut des commissaires aux comptes. Ils disposent d'une faculté identique à l'égard des commissaires aux comptes des entités qui gèrent des opérations dont l'examen est nécessaire pour apprécier la régularité, la sincérité et l'image fidèle des comptes des organismes, branches ou activités mentionnés à l'article LO 132-2-1 du présent code (1) ;
+- sont habilités à communiquer aux commissaires aux comptes des organismes et régimes de sécurité sociale visés par l'article L. 114-8 du code de la sécurité sociale tous renseignements sur les opérations effectuées pour le compte de ces derniers par les organismes, branches ou activités visés par l'article LO 132-2-1, et sur les vérifications qu'ils ont opérées, en tant qu'ils sont utiles à leur mission légale de certification des comptes de l'exercice sous revue et sous réserve des dispositions de l'article L. 120-3 du présent code. Ils disposent d'une faculté identique à l'égard des commissaires aux comptes d'autres entités dont une partie des opérations est gérée par les organismes, branches ou activités visés par l'article LO 132-2-1 du même code.
+
+Les conditions d'application du troisième au sixième alinéas sont fixées par décret en Conseil d'Etat.
+

@@ -1,0 +1,8 @@
+###### Article L432-3
+
+La garantie de l'Etat est accordée par le ministre chargé de l'économie, après avis de la commission des garanties et du crédit au commerce extérieur, instituée par l'article 15 de la loi n° 49-874 du 5 juillet 1949. La garantie de l'Etat peut également être accordée par le directeur général de l'organisme mentionné au premier alinéa de l'article L. 432-2 du présent code, au nom et pour le compte de l'Etat. Celui-ci, en vue d'accorder cette garantie, peut déléguer sa signature à certains salariés exerçant leurs fonctions sous son autorité, dans des conditions définies par décret en Conseil d'Etat.
+
+Les dirigeants, les mandataires sociaux et les membres du conseil d'administration, du conseil de surveillance ou de l'organe délibérant en tenant lieu de la personne morale susceptible de détenir l'organisme mentionné au premier alinéa de l'article L. 432-2 ne peuvent pas intervenir dans le processus d'octroi des garanties publiques prévues au présent chapitre. Cette interdiction s'applique également aux dirigeants, aux mandataires sociaux et aux membres du conseil d'administration, du conseil de surveillance ou de l'organe délibérant en tenant lieu des filiales détenues, au sens de l'article L. 233-1 du code de commerce, par la personne morale précitée, à l'exclusion du directeur général de l'organisme mentionné au premier alinéa de l'article L. 432-2 du présent code.
+
+L'organisme mentionné au premier alinéa de l'article L. 432-2 met en œuvre les mesures nécessaires à la protection du secret de la défense nationale et des autres secrets dont il est dépositaire au titre des missions qui lui sont confiées par l'Etat et en contrôle l'application.
+

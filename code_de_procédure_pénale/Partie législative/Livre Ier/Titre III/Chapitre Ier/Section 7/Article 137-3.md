@@ -1,0 +1,6 @@
+###### Article 137-3
+
+Le juge des libertés et de la détention statue par ordonnance motivée. Lorsqu'il ordonne ou prolonge une détention provisoire ou qu'il rejette une demande de mise en liberté, l'ordonnance doit comporter l'énoncé des considérations de droit et de fait sur le caractère insuffisant des obligations du contrôle judiciaire ou de l'assignation à résidence avec surveillance électronique et le motif de la détention par référence aux seules dispositions des articles 143-1 et 144. En matière correctionnelle, les décisions prolongeant la détention provisoire au-delà de huit mois ou rejetant une demande de mise en liberté concernant une détention de plus de huit mois doivent également comporter l'énoncé des considérations de fait sur le caractère insuffisant des obligations de l'assignation à résidence avec surveillance électronique mobile, prévue au troisième alinéa de l'article 142-5 et à l'article 142-12-1, ou du dispositif électronique prévu à l'article 138-3, lorsque cette mesure peut être ordonnée au regard de la nature des faits reprochés.
+
+Dans tous les cas, l'ordonnance est notifiée à la personne mise en examen qui en reçoit copie intégrale contre émargement au dossier de la procédure.
+

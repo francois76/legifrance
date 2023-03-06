@@ -1,0 +1,4 @@
+###### Article L4126-6
+
+Les statuts ou l'activité d'une association professionnelle nationale de militaires ne peuvent porter atteinte aux valeurs républicaines ou aux principes fondamentaux de l'état militaire mentionnés aux deux premiers alinéas de l'article L. 4111-1 ni aux obligations énoncées aux articles L. 4121-1 à L. 4121-5 et L. 4122-1. Son activité doit s'exercer dans des conditions compatibles avec l'exécution des missions et du service des forces armées et formations rattachées et ne pas interférer avec la préparation et la conduite des opérations. Les associations sont soumises à une stricte obligation d'indépendance, notamment à l'égard du commandement, des partis politiques, des groupements à caractère confessionnel, des organisations syndicales de salariés et des organisations professionnelles d'employeurs, des entreprises, ainsi que des Etats. Elles ne peuvent constituer d'unions ou de fédérations qu'entre elles.
+

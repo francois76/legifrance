@@ -1,0 +1,6 @@
+###### Article L111-15
+
+Le contrôle des comptes et de la gestion de tout ou partie des organismes relevant d'une même catégorie peut être délégué aux chambres régionales des comptes par arrêté du premier président de la Cour des comptes pris après avis du procureur général près la Cour des comptes et des présidents des chambres régionales des comptes concernées. Un décret en Conseil d'Etat définit les catégories d'organismes et la durée de la délégation. Il fixe, le cas échéant, le montant des recettes ordinaires en deçà duquel le contrôle des comptes et de la gestion des organismes relevant d'une même catégorie peut être délégué.
+
+Dans les conditions définies au premier alinéa, le contrôle des comptes et de la gestion de tout ou partie des établissements publics nationaux relevant d'une même catégorie et ayant leur siège en Polynésie française, en Nouvelle-Calédonie, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon peut être délégué aux chambres territoriales des comptes de Polynésie française, de Nouvelle-Calédonie, de Saint-Barthélemy, de Saint-Martin ou de Saint-Pierre-et-Miquelon par arrêté du premier président de la Cour des comptes pris après avis du procureur général près la Cour des comptes et du président de la chambre territoriale des comptes.
+

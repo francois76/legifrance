@@ -1,0 +1,6 @@
+###### Article R513-31
+
+L'Autorité de contrôle prudentiel et de résolution informe sans délai le public du retrait d'agrément par voie de communiqué mis en ligne sur son site internet. Elle en informe également sans délai l'organisme mentionné à l'article L. 512-1, lequel publie cette information sur son site internet.
+
+L'association concernée informe ses membres de son retrait d'agrément par tout moyen dès réception de sa notification. Elle leur indique qu'ils disposent du délai de trois mois mentionné à l'article R. 513-2 pour adhérer à une autre association professionnelle agréée.
+

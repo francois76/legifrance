@@ -1,0 +1,8 @@
+###### Article R1111-8-6
+
+Des téléservices permettent aux professionnels, établissements, services ou organismes mentionnés à l'article R. 1111-8-3 d'accéder au numéro d'inscription au répertoire national des personnes physiques et de vérifier son exactitude dans le respect du référentiel mentionné à l'article R. 1111-8-7. Ils sont mis en œuvre par la Caisse nationale de l'assurance maladie.
+
+Le référencement des données de santé nécessite l'association de l'identifiant national de santé et d'éléments d'identité provenant du répertoire national d'identification des personnes physiques. Ces éléments d'identité sont précisés par le référentiel mentionné à l'article R. 1111-8-7. La bonne association entre l'identifiant national de santé et les éléments d'identité est effectuée par les personnes chargées du référencement en application du premier alinéa à l'aide des téléservices d'accès ou de vérification, sauf en cas d'indisponibilité des téléservices ou motif légitime invoqué par ces personnes faisant obstacle à une association immédiate. Les téléservices comprennent plusieurs modalités d'accès, dont l'accès par lecture électronique de la carte Vitale mentionnée à l'article R. 161-33-1 du code de la sécurité sociale, ou d'autres modalités présentant des garanties équivalentes, définies dans le référentiel mentionné à l'article R. 1111-8-7.
+
+Le recours aux téléservices n'exonère pas les personnes susmentionnées de mettre en place toute procédure de surveillance, de correction et de prévention des erreurs relevant de l'organisation de la prise en charge des personnes et concourant à la maîtrise du risque d'erreur dans l'identification des personnes.
+

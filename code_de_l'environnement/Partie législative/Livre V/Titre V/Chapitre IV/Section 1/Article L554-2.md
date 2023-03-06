@@ -1,0 +1,4 @@
+###### Article L554-2
+
+Il est instauré, au sein de l'Institut national de l'environnement industriel et des risques, dans le cadre d'une mission de service public qui lui est confiée pour contribuer à la préservation de la sécurité des ouvrages mentionnés au I de l'article L. 554-1, un guichet unique rassemblant les éléments nécessaires à l'identification des exploitants de ces ouvrages et mettant à la disposition du public et des collectivités territoriales des informations et moyens électroniques permettant de remplir les obligations prévues par le présent chapitre ou nécessaires à l'exercice de missions de service public. Les exploitants de ces ouvrages communiquent à l'Institut national de l'environnement industriel et des risques les informations nécessaires à la préservation de leurs ouvrages suivant des modalités définies par décret en Conseil d'Etat.
+

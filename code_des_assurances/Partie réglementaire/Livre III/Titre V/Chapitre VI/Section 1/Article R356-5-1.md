@@ -1,0 +1,4 @@
+###### Article R356-5-1
+
+Lorsque l'Autorité de contrôle prudentiel et de résolution demande à une autorité compétente d'un autre Etat membre de procéder, en application du premier alinéa de l'article L. 632-12 du code monétaire et financier, à des contrôles sur place d'une entreprise d'assurance ou de réassurance ou d'une personne qui lui est liée selon l'une des modalités prévues à l'article L. 612-26 du même code, ou lorsque l'Autorité répond à la demande d'une autorité compétente d'un autre Etat membre de procéder, en application du troisième alinéa de l'article L. 632-12 du même code à des contrôles sur place d'une entreprise d'assurance ou de réassurance ou d'une personne qui lui est liée selon les modalités prévues à l'article L. 612-26 du même code, elle informe des mesures prises le contrôleur de groupe, lorsque cette fonction est exercée par une autre autorité compétente.
+

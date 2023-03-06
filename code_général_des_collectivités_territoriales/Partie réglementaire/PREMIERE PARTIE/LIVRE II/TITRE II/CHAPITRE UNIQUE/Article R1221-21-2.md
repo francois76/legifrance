@@ -1,0 +1,8 @@
+###### Article R1221-21-2
+
+Lorsqu'il constate une ou plusieurs situations susceptibles d'entraîner la suspension à titre conservatoire de l'agrément d'un organisme de formation en application de l'article L. 1221-3 du présent code, le ministre chargé des collectivités territoriales notifie à l'organisme les faits relevés et le met en demeure de faire cesser ces dysfonctionnements dans un délai de trente jours. Il invite l'organisme mis en cause à présenter ses observations écrites ou, à sa demande, orales, dans le même délai.
+
+A l'issue de ce délai, en l'absence de transmission par l'organisme de formation d'éléments démontrant l'absence des faits relevés, la décision de suspension à titre conservatoire de l'agrément, d'une durée maximale de quatre mois, est notifiée à l'organisme par lettre recommandée avec demande d'avis de réception. Elle est motivée et mentionne les voies et délais de recours. Elle est transmise sans délai au conseil national de la formation des élus locaux et au gestionnaire du fonds du droit individuel à la formation des élus locaux mentionné à l'article L. 1621-4.
+
+Après avis du conseil national de la formation des élus locaux et avant l'expiration de la mesure de suspension conservatoire de l'agrément prévue au premier alinéa, le ministre chargé des collectivités territoriales peut prononcer l'abrogation de l'agrément, notifiée dans les mêmes formes. Cette décision entraîne l'impossibilité, pour l'organisme concerné, de détenir un agrément à la formation des élus locaux pour une durée d'un an. Elle peut faire l'objet d'une publication électronique.
+

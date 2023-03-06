@@ -1,0 +1,10 @@
+###### Article L1445-1
+
+I. – Pour l'application des dispositions du présent code en Martinique, la mention de la conférence régionale de la santé et de l'autonomie de Martinique se substitue à la mention du conseil territorial de santé.
+
+II. – La conférence régionale de la santé et de l'autonomie de la Martinique exerce les compétences dévolues au conseil territorial de santé prévue à l'article L. 1434-10.
+
+III. – Les territoires de démocratie sanitaire prévus à l'article L. 1434-9 sont définis par l'agence régionale de santé de la Martinique à l'échelle de la collectivité territoriale de Martinique de manière à couvrir l'intégralité du territoire.
+
+IV. – Au I de l'article L. 1434-10, le premier alinéa, ainsi que la première, la troisième et la quatrième phrase du second alinéa ne sont pas applicables en Martinique. Un décret en Conseil d'Etat détermine la composition de la commission spécialisée en santé mentale, ses modalités de fonctionnement et de désignation de ses membres.
+

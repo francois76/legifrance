@@ -1,0 +1,10 @@
+###### Article R431-15-1
+
+Le dépôt d'une demande présentée au moyen du téléservice mentionné à l'article R. 431-2 donne lieu à la délivrance immédiate d'une attestation dématérialisée de dépôt en ligne. Ce document ne justifie pas de la régularité du séjour de son titulaire.
+
+Lorsque l'instruction d'une demande complète et déposée dans le respect des délais mentionnés à l'article R. 431-5 se poursuit au-delà de la date de validité du document de séjour détenu, le préfet est tenu de mettre à la disposition du demandeur via le téléservice mentionné au premier alinéa une attestation de prolongation de l'instruction de sa demande dont la durée de validité ne peut être supérieure à trois mois. Ce document, accompagné du document de séjour expiré, lui permet de justifier de la régularité de son séjour pendant la durée qu'il précise. Lorsque l'instruction se prolonge, en raison de circonstances particulières, au-delà de la date d'expiration de l'attestation, celle-ci est renouvelée aussi longtemps que le préfet n'a pas statué sur la demande.
+
+Lorsque l'étranger mentionné aux 2°, 3° ou 4° de l'article R. 431-5 a déposé une demande complète dans le respect du délai auquel il est soumis, le préfet est tenu de mettre à sa disposition via le téléservice mentionné au premier alinéa une attestation de prolongation de l'instruction de sa demande dont la durée de validité ne peut être supérieure à trois mois. Ce document lui permet de justifier de la régularité de son séjour pendant la durée qu'il précise. Lorsque l'instruction se prolonge, en raison de circonstances particulières, au-delà de la date d'expiration de l'attestation, celle-ci est renouvelée aussi longtemps que le préfet n'a pas statué sur la demande.
+
+Lorsque le préfet prend une décision favorable sur la demande présentée, une attestation dématérialisée est mise à la disposition du demandeur via le téléservice mentionné au premier alinéa qui lui permet de justifier de la régularité de son séjour, dans l'attente de la remise du titre.
+

@@ -1,0 +1,8 @@
+###### Article L424-3
+
+I.-Les terrains attenant à une habitation et entourés d'une clôture continue et constante faisant obstacle à toute communication avec les héritages voisins et empêchant complètement le passage des animaux non domestiques et celui de l'homme réalisée plus de trente ans avant la promulgation de la loi n° 2023-54 du 2 février 2023 visant à limiter l'engrillagement des espaces naturels et à protéger la propriété privée font l'objet, dans des conditions définies par décret en Conseil d'État, d'un plan de gestion annuel contrôlé par la fédération départementale des chasseurs et garantissant la prévention de la diffusion des dangers sanitaires entre les animaux non domestiques, les animaux domestiques et l'homme ainsi que la préservation de la biodiversité et des continuités écologiques.
+
+II.-Les établissements professionnels de chasse à caractère commercial peuvent être formés de territoires ouverts ou de terrains clos au sens du I du présent article ou clôturés dans les conditions prévues à l'article L. 372-1. Ils possèdent cette qualité par l'inscription au registre du commerce ou au régime agricole. Leur activité est soumise à déclaration auprès du préfet du département et donne lieu à la tenue d'un registre. L'article L. 425-15 ne s'applique pas à la pratique de la chasse d'oiseaux issus de lâchers dans les établissements de chasse à caractère commercial.
+
+Dans ces établissements, les dates d'ouverture et de fermeture de la chasse des perdrix grises, perdrix rouges et faisans de chasse, issus d'élevage sont les dates d'ouverture générale et de clôture générale de la chasse dans le département.
+

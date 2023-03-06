@@ -1,0 +1,8 @@
+###### Article R1114-9
+
+Peuvent faire l'objet d'un agrément national, délivré par le ministre chargé de la santé, les associations qui justifient soit d'au moins 5 000 membres cotisant individuellement, soit de membres cotisant individuellement répartis sur au moins quatre régions, dont aucune ne représente plus de 50 % du nombre total de membres. Mayotte, la Guyane et la Martinique sont considérées comme des régions pour l'application de ces dispositions. Dans le cas des unions d'associations, il est tenu compte du nombre de membres des associations qui les composent.
+
+Peuvent également faire l'objet d'un agrément national les associations qui démontrent le caractère national de leur activité.
+
+Les associations qui ne remplissent pas les conditions mentionnées aux deux premiers alinéas peuvent être agréées au niveau régional par le directeur général de l'agence régionale de santé de chaque région dans laquelle elles exercent leur activité.
+

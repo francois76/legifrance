@@ -1,0 +1,6 @@
+###### Article D353-6-1
+
+Les informations mentionnées à l'article D. 353-6 sont fournies sous forme électronique, dans un standard ouvert aisément réutilisable et exploitable par un système de traitement automatisé, dans un délai d'un mois à compter de la formulation de la demande par le représentant de la collectivité territoriale ou de l'établissement public chargé de l'élaboration du schéma directeur ou d'un tiers désigné par lui. La demande comporte la liste des codes commune de l'Institut national de la statistique et des études économiques des communes incluses dans le territoire couvert par le schéma directeur.
+
+Si l'opérateur d'une station de recharge mentionnée au deuxième alinéa de l'article 11 du décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/ UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs n'est pas en capacité de fournir la totalité des informations demandées, il en informe le demandeur et fournit les informations dont il dispose sur l'usage de la station de recharge, y compris des estimations.
+

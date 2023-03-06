@@ -1,0 +1,4 @@
+###### Article D1511-61
+
+Le montant annuel de l'indemnité d'étude et de projet professionnel, prévue au II de l'article L. 1511-9 du présent code, attribuée aux étudiants régulièrement inscrits dans des études conduisant à la délivrance d'un diplôme ou d'un titre de formation vétérinaire mentionné au 1° de l'article L. 241-2 du code rural et de la pêche maritime, par les collectivités territoriales ou leurs groupements, seuls ou conjointement, ne peut excéder le montant du salaire brut annuel du premier échelon (élève non cadre) de la convention collective nationale des vétérinaires praticiens salariés, auxquels s'ajoutent la possibilité de prise en charge des droits de scolarité ou des frais d'inscription acquittés chaque année par l'étudiant auprès de l'organisme de formation qui prépare au diplôme.
+

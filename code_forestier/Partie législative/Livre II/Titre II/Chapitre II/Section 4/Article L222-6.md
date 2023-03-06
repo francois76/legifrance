@@ -1,0 +1,6 @@
+###### Article L222-6
+
+I. - Le règlement type de gestion prévu au II de l'article L. 8 a pour objet de définir des modalités d'exploitation de la forêt, adaptées aux grands types de peuplements forestiers identifiés régionalement. Ce document est élaboré par un organisme de gestion en commun agréé, un expert forestier agréé ou l'Office national des forêts et soumis à l'approbation du Centre national de la propriété forestière selon les modalités prévues pour les plans simples de gestion. Un règlement type de gestion peut être élaboré et présenté à l'approbation par plusieurs organismes de gestion en commun ou par plusieurs experts forestiers agréés.
+
+II. - Le code des bonnes pratiques sylvicoles prévu au III de l'article L. 8 comprend, par région naturelle ou groupe de régions naturelles, des recommandations essentielles conformes à une gestion durable en prenant en compte les usages locaux et portant tant sur la conduite des grands types de peuplements que sur les conditions que doit remplir une parcelle forestière pour que sa gestion durable soit possible. Ce document est élaboré par le Centre national de la propriété forestière et approuvé par le représentant de l'Etat dans la région après avis de la commission régionale de la forêt et des produits forestiers.
+

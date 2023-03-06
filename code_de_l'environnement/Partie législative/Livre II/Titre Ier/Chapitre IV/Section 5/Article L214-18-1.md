@@ -1,0 +1,4 @@
+###### Article L214-18-1
+
+Les moulins à eau équipés par leurs propriétaires, par des tiers délégués ou par des collectivités territoriales pour produire de l'électricité, régulièrement installés sur les cours d'eau, parties de cours d'eau ou canaux mentionnés au 2° du I de l'article L. 214-17, ne sont pas soumis aux règles définies par l'autorité administrative mentionnées au même 2°. Le présent article ne s'applique qu'aux moulins existant à la date de publication de la loi n° 2017-227 du 24 février 2017 ratifiant les ordonnances n° 2016-1019 du 27 juillet 2016 relative à l'autoconsommation d'électricité et n° 2016-1059 du 3 août 2016 relative à la production d'électricité à partir d'énergies renouvelables et visant à adapter certaines dispositions relatives aux réseaux d'électricité et de gaz et aux énergies renouvelables.
+

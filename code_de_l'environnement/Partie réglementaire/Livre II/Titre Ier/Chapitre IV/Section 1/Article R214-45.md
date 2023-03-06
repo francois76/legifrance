@@ -1,0 +1,6 @@
+###### Article R214-45
+
+La cessation définitive, ou pour une période supérieure à deux ans, de l'exploitation ou de l'affectation indiquée dans l'autorisation ou la déclaration d'un ouvrage ou d'une installation fait l'objet d'une déclaration par l'exploitant, ou, à défaut, par le propriétaire, auprès du préfet dans le mois qui suit la cessation définitive ou le changement d'affectation et au plus tard un mois avant que l'arrêt de plus de deux ans ne soit effectif. En cas de cessation définitive ou d'arrêt de plus de deux ans, il est fait application des dispositions de l'article R. 214-48.
+
+En cas de cessation définitive, il est fait application des dispositions prévues à l'article L. 181-23 pour les autorisations et à l'article L. 214-3-1. La déclaration d'arrêt d'exploitation de plus de deux ans est accompagnée d'une note expliquant les raisons de cet arrêt et la date prévisionnelle de reprise de cette exploitation. Le préfet peut émettre toutes prescriptions conservatoires afin de protéger les intérêts énoncés à l'article L. 211-1 pendant cette période d'arrêt. Si l'exploitation n'est pas reprise à la date prévisionnelle déclarée, le préfet peut, l'exploitant ou le propriétaire entendu, considérer l'exploitation comme définitivement arrêtée et fixer les prescriptions relatives à l'arrêt définitif de cette exploitation et à la remise en état du site.
+

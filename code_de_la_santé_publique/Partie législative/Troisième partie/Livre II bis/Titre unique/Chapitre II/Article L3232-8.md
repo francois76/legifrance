@@ -1,0 +1,6 @@
+###### Article L3232-8
+
+Afin de faciliter le choix du consommateur au regard de l'apport en énergie et en nutriments à son régime alimentaire, sans préjudice des articles 9,16 et 30 du règlement (UE) n° 1169/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l'information des consommateurs sur les denrées alimentaires, modifiant les règlements (CE) n° 1924/2006 et (CE) n° 1925/2006 du Parlement européen et du Conseil et abrogeant la directive 87/250/CEE de la Commission, la directive 90/496/CEE du Conseil, la directive 1999/10/CE de la Commission, la directive 2000/13/ CE du Parlement européen et du Conseil, les directives 2002/67/CE et 2008/5/CE de la Commission et le règlement (CE) n° 608/2004 de la Commission, la déclaration nutritionnelle obligatoire prévue par le même règlement peut être accompagnée d'une présentation ou d'une expression complémentaire au moyen de graphiques ou de symboles, dans les conditions prévues à l'article 35 dudit règlement.
+
+Les modalités selon lesquelles les recommandations de l'autorité administrative prévues au 2 du même article 35 sont établies et font l'objet d'une évaluation sont définies, après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, par décret en Conseil d'Etat.
+

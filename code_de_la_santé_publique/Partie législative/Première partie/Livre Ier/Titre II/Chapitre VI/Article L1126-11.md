@@ -1,0 +1,6 @@
+###### Article L1126-11
+
+Les études des performances ne peuvent être réalisées que dans un lieu disposant des moyens humains, matériels et techniques adaptés à l'étude des performances et compatibles avec les impératifs de sécurité des personnes qui s'y prêtent.
+
+Ce lieu doit être autorisé, à cet effet, pour une durée déterminée, lorsqu'il s'agit d'études des performances comportant une intervention sur la personne non justifiée par sa prise en charge habituelle et lui faisant encourir des risques et des contraintes non minimes réalisées en dehors des lieux de soins, ainsi que dans des services hospitaliers et dans tout autre lieu d'exercice des professionnels de santé lorsque ces études nécessitent des actes autres que ceux qu'ils pratiquent usuellement dans le cadre de leur activité ou lorsque ces études sont réalisées sur des personnes présentant une condition clinique distincte de celle pour laquelle le service a compétence. Cette autorisation est accordée par le directeur général de l'agence régionale de santé ou par le ministre de la défense, si le lieu relève de son autorité. Toutefois l'autorisation est accordée par le ministre chargé des anciens combattants pour les lieux situés au sein de l'Institution nationale des invalides.
+

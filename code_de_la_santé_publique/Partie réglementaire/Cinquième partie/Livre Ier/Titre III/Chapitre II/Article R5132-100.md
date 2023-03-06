@@ -1,0 +1,4 @@
+###### Article R5132-100
+
+Les personnes fabriquant ou commercialisant des substances, plantes, médicaments et autres produits mentionnés à l'article R. 5132-98 fournissent, à sa demande, au directeur général de l'Agence nationale de sécurité du médicament et des produits de santé toutes informations relatives à la pharmacodépendance et aux abus concernant leurs produits, ainsi que celles concernant leur vente.
+

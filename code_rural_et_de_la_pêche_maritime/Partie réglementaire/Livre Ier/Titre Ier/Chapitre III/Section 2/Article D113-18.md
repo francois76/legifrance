@@ -1,0 +1,4 @@
+###### Article D113-18
+
+Peuvent bénéficier des aides compensatoires de handicaps naturels et spécifiques, dans les conditions prévues par le cadre national ou les programmes de développement rural régionaux de la France prévus aux 2 et 3 de l'article 6 du règlement (UE) n° 1305/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au soutien au développement rural par le Fonds européen agricole pour le développement rural (FEADER) pour la période 2015-2020 et approuvés par la Commission européenne, les agriculteurs actifs au sens de l'article 9 du règlement (UE) n° 1307/2013 du Parlement européen et du Conseil du 17 décembre 2013 établissant les règles relatives aux paiements directs en faveur des agriculteurs au titre des régimes de soutien relevant de la politique commune et de l'article D. 615-18.
+

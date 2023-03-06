@@ -1,0 +1,6 @@
+###### Article L313-26-2
+
+Un quart des attributions annuelles de logements mentionnés à l'article L. 441-1 pour lesquels la société mentionnée à l'article L. 313-19 dispose de contrats de réservation est réservé aux salariés et aux demandeurs d'emploi bénéficiant d'une décision favorable mentionnée à l'article L. 441-2-3 ou, à défaut, prioritaires en application de l'article L. 441-1. Un accord passé avec le représentant de l'Etat dans le département ou, en Ile-de-France, dans la région, fixe les modalités d'application du présent alinéa. En cas de manquement de la société mentionnée à l'article L. 313-19 à l'obligation mentionnée à la première phrase du présent alinéa, le représentant de l'Etat dans le département procède à l'attribution aux publics concernés d'un nombre de logements équivalent au nombre de logements restant à attribuer. Ces attributions s'imputent sur les logements réservés par la société.
+
+Les personnes recevant une information concernant les salariés ou les demandeurs d'emploi désignés comme prioritaires au sein de la société mentionnée à l'article L. 313-19 sont préalablement habilitées à cet effet, par décision du représentant de l'Etat dans la région de la demande d'habilitation, et sont tenues au secret professionnel.
+

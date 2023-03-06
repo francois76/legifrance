@@ -1,0 +1,4 @@
+###### Article R3111-6
+
+Pour l'application du présent livre, l'expression : " entreprise de transport public routier de personnes ", et par assimilation " l'entreprise " s'applique à toute personne physique, toute personne morale avec ou sans but lucratif, toute association ou tout groupement de personnes sans personnalité juridique, avec ou sans but lucratif, ainsi qu'à tout organisme relevant de l'autorité publique, qu'il soit doté de la personnalité juridique ou qu'il dépende d'une autorité ayant cette personnalité, exécutant ou souhaitant exécuter, à titre principal ou accessoire, des transports routiers de personnes au moyen de véhicules motorisés d'au moins quatre roues, y compris ceux dont la vitesse maximale autorisée ne dépasse pas 40 km/ h, d'une capacité minimale de quatre places, conducteur compris, offerts au public ou à certaines catégories d'usagers contre rémunération payée par la personne transportée ou par l'organisateur du transport.
+

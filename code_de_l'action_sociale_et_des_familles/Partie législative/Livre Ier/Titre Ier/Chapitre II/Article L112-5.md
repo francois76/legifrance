@@ -1,0 +1,4 @@
+##### Article L112-5
+
+En lien avec le schéma d'organisation sociale et médico-sociale prévu à l'article L. 312-4 pour les établissements et services mentionnés au 1° du I de l'article L. 312-1, un protocole est établi dans chaque département par le président du conseil départemental avec les différents responsables institutionnels et associatifs amenés à mettre en place des actions de prévention en direction de l'enfant et de sa famille, notamment avec les caisses d'allocations familiales, les services de l'Etat et les communes. Il définit les modalités de mobilisation et de coordination de ces responsables autour de priorités partagées pour soutenir le développement des enfants et prévenir les difficultés auxquelles les parents peuvent être confrontés dans l'exercice de leurs responsabilités éducatives. Les modalités d'application du présent article sont définies par décret.
+

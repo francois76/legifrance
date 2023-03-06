@@ -1,0 +1,10 @@
+###### Article L931-3-5
+
+I. - Lorsque l'institution de prévoyance ou union ou l'adhérent souhaite fournir ou mettre à disposition des informations ou des documents à un adhérent ou à un participant sur un support durable autre que le papier, l'institution de prévoyance ou union ou l'adhérent vérifie au préalable que ce mode de communication est adapté à la situation de l'adhérent ou du participant. L'institution de prévoyance ou union ou l'adhérent s'assure qu'il est en mesure de prendre connaissance de ces informations et documents sur le support durable envisagé. Lorsque l'adhérent ou le participant fournit à cette fin une adresse électronique, cette adresse est vérifiée par l'institution de prévoyance ou union ou l'adhérent.
+
+Après ces vérifications, l'institution de prévoyance ou union ou l'adhérent doit informer l'adhérent ou le participant de façon claire, précise et compréhensible de la poursuite de leurs relations sur un support durable autre que le papier. Il ou elle renouvelle ces vérifications annuellement.
+
+Sauf lorsqu'il est indiqué dans règlement ou le contrat d'adhésion conclu que le service fourni est de nature exclusivement électronique, l'institution de prévoyance ou union ou l'adhérent doit informer l'adhérent ou le participant du droit de celui-ci de s'opposer à l'utilisation de ce support dès l'entrée en relation ou à n'importe quel moment. Il ou elle justifie à tout moment de la relation que cette information a bien été portée à la connaissance de l'adhérent ou du participant.
+
+II. - Sauf lorsqu'il est indiqué dans le règlement ou le contrat d'adhésion conclu que le service fourni est de nature exclusivement électronique, l'adhérent ou le participant peut, à tout moment et par tout moyen, demander à ce qu'un support papier soit utilisé sans frais pour la poursuite de leurs relations. Il peut par ailleurs effectuer, dans les mêmes conditions, l'ensemble des formalités et obligations qui lui incombent sur tout autre support durable convenu avec l'institution de prévoyance ou union ou l'adhérent.
+

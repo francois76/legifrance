@@ -1,0 +1,10 @@
+###### Article L4314-1
+
+Pour l'application du règlement (UE) 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 sur la surveillance du marché et la conformité des produits, et modifiant la directive 2004/42/ CE et les règlements (CE) n° 765/2008 et (UE) n° 305/2011, la surveillance du marché est exercée par les autorités administratives désignées par décret en Conseil d'Etat. Ces autorités s'assurent du respect par les opérateurs économiques, au sens de l'article 3 du règlement (UE) 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 précité, de leurs obligations respectives, mettent en œuvre les pouvoirs et mesures appropriés et proportionnés définis aux articles 14 et 16 du même règlement et peuvent habiliter des agents à cet effet, sans préjudice des missions et des prérogatives des agents de contrôle mentionnés à l'article L. 4311-6 du présent code, selon des modalités définies par décret en Conseil d'Etat.
+
+L'accès aux locaux, terrains et moyens de transport à usage professionnel prévu à l'article 14 du règlement (UE) 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 précité par les agents mentionnés au premier alinéa du présent article est autorisé entre 8 heures et 20 heures. Lorsque ces locaux sont également à usage d'habitation, ces agents ne peuvent y pénétrer qu'après avoir reçu l'autorisation des personnes qui les occupent.
+
+Sans préjudice des autres sanctions encourues, lorsque la non-conformité à la réglementation d'un produit a été établie par des contrôles réalisés en application du présent article, les autorités chargées de la surveillance du marché peuvent décider de faire supporter à l'opérateur économique en cause la totalité des frais directement exposés par ces autorités et occasionnés par des essais, l'interdiction de la mise sur le marché d'un produit ou le stockage et les activités relatives aux produits qui se révèlent non conformes et qui font l'objet d'une mesure corrective avant leur mise en libre pratique ou leur mise sur le marché.
+
+Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+

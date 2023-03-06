@@ -1,0 +1,12 @@
+###### Article L5121-10-2
+
+Pour un médicament biologique similaire défini au a du 15° de l'article L. 5121-1, l'autorisation de mise sur le marché peut être délivrée avant l'expiration des droits de propriété intellectuelle qui s'attachent au médicament biologique de référence. Le demandeur de l'autorisation informe le titulaire de ces droits concomitamment au dépôt de sa demande.
+
+Lorsque l'Agence nationale de sécurité du médicament et des produits de santé a délivré une autorisation de mise sur le marché pour un médicament biologique similaire, elle en informe le titulaire de l'autorisation de mise sur le marché du médicament biologique de référence.
+
+Le directeur général de l'agence procède à l'inscription du médicament biologique similaire dans la liste de référence des groupes biologiques similaires prévue au b du même 15° au terme d'un délai de soixante jours, après avoir informé de la délivrance de l'autorisation de mise sur le marché le titulaire de l'autorisation de mise sur le marché du médicament biologique de référence. La commercialisation du médicament biologique similaire ne peut intervenir qu'après l'expiration des droits de propriété intellectuelle du médicament biologique de référence, sauf accord du titulaire de ces droits.
+
+Préalablement à la commercialisation, le titulaire de l'autorisation de mise sur le marché du médicament biologique similaire informe le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé des indications, formes pharmaceutiques et dosages du médicament biologique de référence pour lesquels les droits de propriété intellectuelle n'ont pas expiré.
+
+Aux seules fins d'en garantir la publicité, le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé tient à la disposition du public la liste des titres de propriété intellectuelle attachés à un médicament biologique de référence si le titulaire de l'autorisation de mise sur le marché de ce médicament la lui a communiquée à cet effet. Le laboratoire est seul responsable de l'exactitude des informations fournies.
+

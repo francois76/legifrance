@@ -1,0 +1,6 @@
+##### Article L6231-3
+
+En cas d'urgence tenant à la sécurité des patients ou du personnel, le directeur général de l'agence régionale de santé peut prononcer l'interruption immédiate, totale ou partielle, du fonctionnement des moyens techniques nécessaires à la réalisation de l'activité, dans des conditions définies par décret en Conseil d'Etat.
+
+En cas d'urgence tenant à la sécurité des patients ou du personnel et concernant les laboratoires relevant de l'autorité du ministre de la défense, le directeur général de l'agence régionale de santé informe immédiatement ce ministre, qui prend sans délai les mesures appropriées.
+

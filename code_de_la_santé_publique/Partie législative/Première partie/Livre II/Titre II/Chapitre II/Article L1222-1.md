@@ -1,0 +1,26 @@
+###### Article L1222-1
+
+L'Etablissement français du sang est un établissement public de l'Etat, placé sous la tutelle du ministre chargé de la santé. Cet établissement veille à la satisfaction des besoins en matière de produits sanguins labiles et à l'adaptation de l'activité transfusionnelle aux évolutions médicales, scientifiques et technologiques dans le respect des principes éthiques. Il organise sur l'ensemble du territoire national, dans le cadre du schéma directeur national de la transfusion sanguine, les activités de collecte du sang, de qualification biologique du don, de préparation, de distribution et de délivrance des produits sanguins labiles. et de leur contrôle de qualité.
+
+Il est notamment chargé :
+
+1° De gérer le service public transfusionnel et ses activités annexes, dans le respect des conditions de sécurité définies par le présent code ;
+
+2° De promouvoir le don du sang, les conditions de sa bonne utilisation et de veiller au strict respect des principes éthiques par l'ensemble de la chaîne transfusionnelle ;
+
+3° D'assurer la qualité des produits et des pratiques en son sein et notamment de mettre en oeuvre les bonnes pratiques mentionnées à l'article L. 1222-12, en conformité avec les dispositions législatives et réglementaires relatives aux activités transfusionnelles ;
+
+4° Dans le cadre du réseau d'hémovigilance, d'assurer la transmission des données relatives à la sécurité sanitaire des produits sanguins à l'Agence nationale de sécurité du médicament et des produits de santé et des données épidémiologiques à l'Agence nationale de santé publique ;
+
+5° D'élaborer, d'actualiser et de mettre en oeuvre le schéma directeur national de la transfusion sanguine ;
+
+6° En liaison avec les organismes de recherche et d'évaluation, d'encourager, d'entreprendre des recherches ou d'y participer dans les domaines portant sur la transfusion sanguine, les activités qui lui sont liées ou les activités exercées à titre accessoire et de promouvoir dans ces domaines la diffusion des connaissances scientifiques et techniques ;
+
+7° De tenir un fichier national des donneurs et des receveurs de groupes rares et une banque de sangs rares, et de coordonner l'activité des laboratoires liés à ces activités ;
+
+8° De participer à l'organisation et à l'acheminement des secours en cas de catastrophe nationale ou internationale nécessitant de recourir aux moyens de transfusion sanguine, dans le cadre des lois et règlements applicables à ces événements ;
+
+9° De participer à la coopération scientifique et technique européenne et internationale de la France.
+
+L'Etablissement français du sang établit chaque année un rapport d'activité qui est remis au Gouvernement. Ce rapport est rendu public.
+

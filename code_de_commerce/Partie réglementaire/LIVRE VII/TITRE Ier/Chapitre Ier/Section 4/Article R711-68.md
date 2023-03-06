@@ -1,0 +1,28 @@
+###### Article R711-68
+
+Les établissements publics du réseau des chambres de commerce et d'industrie adoptent un règlement intérieur relatif à leur organisation et à leur fonctionnement, qui fixe, entre autres dispositions :
+
+1° Les conditions de fonctionnement de leurs différentes instances, en particulier l'assemblée générale, le comité directeur, le bureau, les délégations et les commissions, la périodicité de leurs réunions, les rapports avec les membres associés et les conseillers techniques ainsi que l'organisation administrative des services ;
+
+2° La limite d'âge pour l'élection au bureau, qui ne peut excéder l'âge de soixante-dix ans révolus à la date du dernier jour du scrutin pour l'élection de la chambre ;
+
+3° Les conditions dans lesquelles le président et le trésorier peuvent déléguer leur signature à d'autres membres élus et, le cas échéant, au directeur général ou, sur sa proposition, à d'autres membres du personnel de la chambre ;
+
+4° Les conditions dans lesquelles les membres élus, le directeur général ou, sur sa proposition, les autres membres du personnel de l'établissement sont habilités à représenter le président ;
+
+5° La liste, les modalités et les montants des indemnités et des remboursements de frais de personnel.
+
+Les dispositions prévues au 2° ci-dessus ne peuvent pas être modifiées dans l'année d'un renouvellement.
+
+Les règlements intérieurs peuvent prévoir l'adoption de certaines délibérations par des majorités qualifiées sous réserve des dispositions du présent code précisant les conditions de majorité requises pour certaines matières.
+
+Ils ne peuvent ni limiter le nombre de mandats que peut exercer un membre ni subordonner l'élection d'un membre au bureau à une durée antérieure de mandat.
+
+Les règlements intérieurs des chambres de commerce et d'industrie territoriales et des chambres de commerce et d'industrie de région sont élaborés conformément à la norme d'intervention adoptée par CCI France, dans un délai de six mois maximum après l'approbation de cette norme par l'autorité de tutelle. Toute modification de cette norme est prise en compte dans les mêmes conditions.
+
+Le règlement intérieur est adopté par l'assemblée générale de chaque établissement public de réseau dans les conditions prévues à l'article R. 711-71.
+
+Les chambres de commerce et d'industrie territoriales ou de région dont la fusion est prévue adoptent, au plus tard lors de leur dernière assemblée, un règlement intérieur provisoire qui doit permettre à la nouvelle chambre issue de cette fusion de fonctionner jusqu'à l'adoption d'un nouveau règlement intérieur. Dans ce cas, les dispositions prévues au 2° peuvent être modifiées l'année du renouvellement général.
+
+A défaut d'accord entre les chambres, le règlement intérieur provisoire est fixé par l'autorité de tutelle.
+

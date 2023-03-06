@@ -1,0 +1,12 @@
+###### Article L6323-3
+
+La maison de santé est une personne morale constituée entre des professionnels médicaux, auxiliaires médicaux ou pharmaciens.
+
+Ces professionnels assurent des activités de soins sans hébergement de premier recours au sens de l'article L. 1411-11 et, le cas échéant, de second recours au sens de l'article L. 1411-12 et peuvent participer à des actions de santé publique, de prévention, d'éducation pour la santé et à des actions sociales dans le cadre du projet de santé qu'ils élaborent et dans le respect d'un cahier des charges déterminé par arrêté du ministre chargé de la santé.
+
+Une maison de santé pluriprofessionnelle universitaire est une maison de santé, ayant signé une convention tripartite avec l'agence régionale de santé dont elle dépend et un établissement public à caractère scientifique, culturel et professionnel comportant une unité de formation et de recherche de médecine, de pharmacie ou d'odontologie, ayant pour objet le développement de la formation et la recherche en soins primaires. Les modalités de fonctionnement, d'organisation et d'évaluation de ces maisons de santé pluriprofessionnelles universitaires sont fixées par arrêté conjoint des ministres chargés de la santé et de l'enseignement supérieur.
+
+Le projet de santé est compatible avec les orientations des schémas régionaux mentionnés à l'article L. 1434-2. Il est transmis pour information à l'agence régionale de santé. Ce projet de santé est signé par chacun des professionnels de santé membres de la maison de santé. Il peut également être signé par toute personne dont la participation aux actions envisagées est explicitement prévue par le projet de santé.
+
+Les maisons de santé peuvent mettre en œuvre un parcours soumis à prescription médicale visant à accompagner les enfants de trois à douze ans inclus qui, selon les critères fixés par la Haute Autorité de santé, sont en situation de surpoids ou d'obésité commune non compliquée ou présentent des facteurs de risque d'obésité. Ce parcours comprend un bilan d'activité physique ainsi qu'un bilan et des séances de suivi diététique et psychologique. En accord avec les parents ou le représentant légal de l'enfant, le parcours est mis en œuvre en collaboration avec le médecin de l'éducation nationale de l'établissement au sein duquel est scolarisé l'enfant ainsi que, le cas échéant, avec le médecin traitant ou le médecin du service de protection maternelle et infantile.
+

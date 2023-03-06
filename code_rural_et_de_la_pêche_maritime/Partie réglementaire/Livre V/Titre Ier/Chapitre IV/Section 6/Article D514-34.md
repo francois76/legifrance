@@ -1,0 +1,4 @@
+###### Article D514-34
+
+Les frais de déplacement des membres de la Commission nationale de concertation et de proposition et des experts, prévus à l'article D. 514-32, sont pris en charge par le fonds national de péréquation et d'action professionnelle des chambres d'agriculture. Le fonds rembourse aux chambres employeurs les traitements et les charges sociales y afférentes des salariés appelés à participer à une réunion de la Commission nationale de concertation et de proposition sur une base forfaitaire, par réunion, de vingt points de l'indice servant au calcul de la rémunération du personnel sous statut des chambres d'agriculture. Toutefois, la prise en charge des frais de déplacement ainsi que des salaires maintenus est limitée à deux représentants au maximum par organisation syndicale et par réunion. Les frais de secrétariat sont à la charge de Chambres d'agriculture France.
+

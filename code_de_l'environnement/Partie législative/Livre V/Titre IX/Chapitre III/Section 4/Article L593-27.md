@@ -1,0 +1,4 @@
+###### Article L593-27
+
+L'exploitant adresse, au plus tard deux ans après la déclaration mentionnée à l'article L. 593-26, au ministre chargé de la sûreté nucléaire un dossier précisant et justifiant les opérations de démantèlement et celles relatives à la surveillance et à l'entretien ultérieurs du site qu'il prévoit. Dans le cas de certaines installations complexes, en dehors des réacteurs à eau sous pression de production d'électricité, le ministre chargé de la sûreté nucléaire peut, à la demande de l'exploitant et par arrêté motivé pris après avis de l'Autorité de sûreté nucléaire, prolonger ce délai de deux ans au plus. Le dossier comporte l'analyse des risques auxquels ces opérations peuvent exposer les intérêts protégés mentionnés à l'article L. 593-1 et les dispositions prises pour prévenir ces risques et, en cas de réalisation du risque, en limiter les effets.
+

@@ -1,0 +1,4 @@
+##### Article L435-3
+
+A titre exceptionnel, l'étranger qui a été confié à l'aide sociale à l'enfance ou du tiers digne de confiance entre l'âge de seize ans et l'âge de dix-huit ans et qui justifie suivre depuis au moins six mois une formation destinée à lui apporter une qualification professionnelle peut, dans l'année qui suit son dix-huitième anniversaire, se voir délivrer une carte de séjour temporaire portant la mention " salarié " ou " travailleur temporaire ", sous réserve du caractère réel et sérieux du suivi de cette formation, de la nature de ses liens avec sa famille restée dans le pays d'origine et de l'avis de la structure d'accueil ou du tiers digne de confiance sur l'insertion de cet étranger dans la société française. La condition prévue à l'article L. 412-1 n'est pas opposable.
+

@@ -1,0 +1,12 @@
+##### Article R412-2-1
+
+Lorsque la loi prévoit que la juridiction statue sans soumettre certaines pièces ou informations au débat contradictoire ou lorsque le refus de communication de ces pièces ou informations est l'objet du litige, la partie qui produit de telles pièces ou informations mentionne, dans un mémoire distinct, les motifs fondant le refus de transmission aux autres parties, en joignant, le cas échéant, une version non confidentielle desdites pièces après occultation des éléments soustraits au contradictoire. Le mémoire distinct et, le cas échéant, la version non confidentielle desdites pièces, sont communiqués aux autres parties.
+
+Les pièces ou informations soustraites au contradictoire ne sont pas transmises au moyen des applications informatiques mentionnées aux articles R. 414-1 et R. 414-2 mais sont communiquées au greffe de la juridiction sous une double enveloppe, l'enveloppe intérieure portant le numéro de l'affaire ainsi que la mention : “ pièces soustraites au contradictoire-Article R. 412-2-1 du code de justice administrative ”.
+
+Si la juridiction estime que ces pièces ou informations ne se rattachent pas à la catégorie de celles qui peuvent être soustraites au contradictoire, elle les renvoie à la partie qui les a produites et veille à la destruction de toute copie qui en aurait été faite. Elle peut, si elle estime que ces pièces ou informations sont utiles à la solution du litige, inviter la partie concernée à les verser dans la procédure contradictoire, le cas échéant au moyen des applications informatiques mentionnées aux articles R. 414-1 et R. 414-2. Si la partie ne donne pas suite à cette invitation, la juridiction décide des conséquences à tirer de ce refus et statue sans tenir compte des éléments non soumis au contradictoire.
+
+Lorsque des pièces ou informations mentionnées au premier alinéa sont jointes au dossier papier, celui-ci porte de manière visible une mention signalant la présence de pièces soustraites au contradictoire. Ces pièces sont jointes au dossier sous une enveloppe portant la mention : “ pièces soustraites au contradictoire-Article R. 412-2-1 du code de justice administrative ”.
+
+Lorsqu'un dossier comportant des pièces ou informations soustraites au contradictoire est transmis à une autre juridiction, la présence de telles pièces ou informations est mentionnée de manière visible sur le bordereau de transmission.
+

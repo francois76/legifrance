@@ -1,0 +1,10 @@
+##### Article L861-1
+
+Les actes réglementaires et individuels concernant l'organisation, la gestion et le fonctionnement des services mentionnés à l'article L. 811-2 et de ceux désignés par le décret en Conseil d'Etat prévu à l'article L. 811-4 ainsi que la situation de leurs agents sont pris dans des conditions qui garantissent la préservation de l'anonymat des agents.
+
+Lorsque, en application du premier alinéa du présent article, un acte ne peut être publié, son entrée en vigueur est subordonnée à son enregistrement dans un recueil spécial, dispensé de toute publication ou diffusion et tenu par le Premier ministre. Seuls les autorités publiques compétentes et les agents publics justifiant d'un intérêt ainsi que, dans les conditions et sous les réserves prévues au dernier alinéa, les juridictions administratives et judiciaires peuvent consulter un acte figurant dans ce recueil.
+
+Par dérogation à l'article L. 111-2 du code des relations entre le public et l'administration, les décisions et les autres actes pris par les autorités administratives au sein des services mentionnés au premier alinéa du présent article peuvent comporter seulement, outre la signature, le numéro d'identification de leur auteur, attribué avec la délégation de signature et qui se substitue à la mention de ses prénom, nom et qualité. Le nombre de délégations de signature numérotées par service est fixé par arrêté du ministre compétent.
+
+Lorsque, dans le cadre d'une procédure engagée devant une juridiction administrative ou judiciaire, la solution du litige dépend d'une question relative à un acte non publié en application du présent article ou faisant l'objet d'une signature numérotée, ce dernier est communiqué, à sa demande, à la juridiction ou au magistrat délégué par celle-ci, sans être versé au contradictoire. Si cet acte est protégé au titre du secret de la défense nationale, la juridiction peut demander sa déclassification et sa communication en application de l'article L. 2312-4 du code de la défense.
+

@@ -1,0 +1,10 @@
+###### Article R211-66
+
+Les mesures générales ou particulières prévues par le 1° du II de l'article L. 211-3 pour faire face à une menace ou aux conséquences d'accidents, de sécheresse, d'inondations ou à un risque de pénurie sont prescrites par arrêté du préfet du département dit arrêté de restriction temporaire des usages de l'eau. Elles peuvent imposer la communication d'informations sur les prélèvements selon une fréquence adaptée au besoin de suivi de la situation. Elles peuvent aussi imposer des opérations de stockage ou de déstockage de l'eau. Dans ce cas, l'arrêté imposant l'opération est porté à la connaissance de l'exploitant par tous moyens adaptés aux circonstances.
+
+Ces mesures, proportionnées au but recherché, ne peuvent être prescrites que pour une période limitée, éventuellement renouvelable. Dès lors que les conditions d'écoulement ou d'approvisionnement en eau redeviennent normales, il est mis fin, s'il y a lieu graduellement, aux mesures prescrites. Celles-ci ne font pas obstacle aux facultés d'indemnisation ouvertes par les droits en vigueur. Concernant les situations de sécheresse, les mesures sont graduées selon les quatre niveaux de gravité suivants : vigilance, alerte, alerte renforcée et crise. Ces niveaux sont liés à des conditions de déclenchement caractérisées par des points de surveillance et des indicateurs relatifs à l'état de la ressource en eau.
+
+Les mesures de restriction peuvent aller jusqu'à l'arrêt total des prélèvements, et sont définies par usage ou sous-catégories d'usage ou type d'activités, selon des considérations sanitaires, économiques et environnementales, dont les conditions sont fixées dans les arrêtés-cadres prévus à l'article R. 211-67.
+
+Le préfet peut, à titre exceptionnel, à la demande d'un usager, adapter les mesures de restriction s'appliquant à son usage, dans les conditions définies par l'arrêté cadre en vigueur. Cette décision est alors notifiée à l'intéressé et publiée sur le site internet des services de l'Etat dans le département concerné.
+

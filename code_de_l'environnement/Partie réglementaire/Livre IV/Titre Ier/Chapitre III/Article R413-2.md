@@ -1,0 +1,6 @@
+##### Article R413-2
+
+Une commission nationale consultative pour la faune sauvage captive, comprenant en nombre égal des représentants des ministères intéressés, des représentants d'établissements soumis aux dispositions du présent chapitre et des personnalités qualifiées, est instituée auprès du ministre chargé de la protection de la nature, qui en fixe par arrêté l'organisation et le fonctionnement et en nomme les membres. Par exception au 3° de l'article R. 133-3 du code des relations entre le public et l'administration, les personnalités qualifiées nommées membres titulaires de la commission nationale consultative pour la faune sauvage captive sont remplacés, en cas d'absence ou d'empêchement, par des membres suppléants nommés dans les mêmes conditions.
+
+Cette commission peut être consultée par le ministre sur les moyens propres à améliorer les conditions d'entretien ainsi que de présentation au public des animaux d'espèces non domestiques tenus en captivité. Elle donne son avis sur les demandes de certificats de capacité dans les cas prévus par le premier alinéa de l'article R. 413-6. Elle est également chargée d'organiser l'épreuve d'aptitude dans les cas prévus au IV de l'article R. 413-4 et au II de l'article R. 413-26.
+

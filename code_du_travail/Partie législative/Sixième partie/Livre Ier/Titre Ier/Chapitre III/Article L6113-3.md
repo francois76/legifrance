@@ -1,0 +1,10 @@
+###### Article L6113-3
+
+I.-Des commissions professionnelles consultatives ministérielles, composées au moins pour moitié de représentants d'organisations syndicales de salariés représentatives au niveau national et interprofessionnel et d'organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel ou au niveau national et multiprofessionnel, peuvent être créées afin d'examiner les projets de création, de révision ou de suppression de diplômes et titres à finalité professionnelle et de leurs référentiels, à l'exception des diplômes de l'enseignement supérieur régis par les articles L. 613-1, L. 641-4 et L. 641-5 du code de l'éducation. La composition, les règles d'organisation et les règles de fonctionnement de ces commissions sont fixées par décret en Conseil d'Etat.
+
+Les projets de création, de révision ou de suppression de diplômes de l'enseignement supérieur à finalité professionnelle régis par les mêmes articles L. 613-1, L. 641-4 et L. 641-5 font l'objet d'une concertation spécifique, selon des modalités fixées par voie réglementaire, avec les organisations syndicales de salariés représentatives au niveau national et interprofessionnel et les organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel ou au niveau national et multiprofessionnel.
+
+II.-La création, la révision ou la suppression de diplômes et titres à finalité professionnelle et de leurs référentiels, à l'exception des modalités de mise en œuvre de l'évaluation des compétences et connaissances en vue de la délivrance de ces diplômes et titres, est décidée après avis conforme des commissions professionnelles consultatives ministérielles.
+
+Lorsque la décision porte sur un diplôme ou titre à finalité professionnelle requis pour l'exercice d'une profession en application d'une norme internationale ou d'une disposition législative ou réglementaire, la commission professionnelle consultative ministérielle compétente émet un avis simple.
+

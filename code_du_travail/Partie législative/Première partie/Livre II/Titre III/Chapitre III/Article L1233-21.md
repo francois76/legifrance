@@ -1,0 +1,4 @@
+###### Article L1233-21
+
+Un accord d'entreprise, de groupe ou de branche peut fixer, par dérogation aux règles de consultation des instances représentatives du personnel prévues par le présent titre et par le livre III de la deuxième partie, les modalités d'information et de consultation du comité social et économique et, le cas échéant, le cadre de recours à une expertise par ce comité lorsque l'employeur envisage de prononcer le licenciement économique d'au moins dix salariés dans une même période de trente jours.
+

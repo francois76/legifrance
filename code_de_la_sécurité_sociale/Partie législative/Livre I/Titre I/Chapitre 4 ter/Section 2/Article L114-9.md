@@ -1,0 +1,12 @@
+###### Article L114-9
+
+Les directeurs des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale, ainsi que les directeurs des organismes chargés du recouvrement des cotisations de sécurité sociale ou du service des allocations et prestations mentionnées au présent code sont tenus, lorsqu'ils ont connaissance d'informations ou de faits pouvant être de nature à constituer une fraude, de procéder aux contrôles et enquêtes nécessaires. Ils transmettent à l'autorité compétente de l'Etat le rapport établi à l'issue des investigations menées.
+
+L'organisme local d'assurance maladie informe le cas échéant, s'il peut être identifié, l'organisme d'assurance maladie complémentaire de l'assuré de la mise en oeuvre de la procédure visée au présent article.
+
+Les organismes nationaux des différents régimes conçoivent et mettent en place un programme de contrôle et de lutte contre la fraude adossé au plan de contrôle interne prévu à l'article L. 114-8-1 ; ils suivent les opérations réalisées à ce titre par les organismes mentionnés au premier alinéa du présent article. Ils en établissent annuellement une synthèse qui est transmise au ministre chargé de la sécurité sociale. Un arrêté du ministre chargé de la sécurité sociale en définit le contenu et le calendrier d'élaboration.
+
+Lorsqu'à l'issue des investigations prévues au présent article une fraude est constatée pour un montant supérieur à un seuil fixé par décret, les organismes visés au premier alinéa portent plainte en se constituant partie civile. En ce cas, ils sont dispensés de la consignation prévue à l'article 88 du code de procédure pénale.
+
+Les organismes nationaux sont avisés par l'organisme de sécurité sociale de cette fraude et de la suite donnée. A défaut de plainte avec constitution de partie civile de l'organisme lésé, les organismes nationaux peuvent agir, en son nom et pour son compte, à l'expiration d'un délai d'un mois après une mise en demeure de ce dernier restée infructueuse. Les organismes nationaux peuvent aussi déposer plainte avec constitution de partie civile au nom et pour le compte d'un ou plusieurs organismes de sécurité sociale qui les mandatent à cette fin.
+

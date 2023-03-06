@@ -1,0 +1,8 @@
+### Article L300-8
+
+Dans les zones d'activité économique définies à l'article L. 318-8-1 faisant l'objet d'un contrat de projet partenarial d'aménagement, mentionné à l'article L. 312-1, ou situées dans le périmètre des secteurs d'intervention délimités par une convention d'opération de revitalisation de territoire, mentionnée à l'article L. 303-2 du code de la construction et de l'habitation, lorsque l'état de dégradation ou l'absence d'entretien par les propriétaires des locaux identifiés dans l'inventaire mentionné à l'article L. 318-8-2 du présent code compromettent la réalisation d'une opération d'aménagement ou de restructuration de la zone d'activité, le représentant de l'Etat dans le département, le maire, après avis du conseil municipal, ou le président de l'établissement public de coopération intercommunale compétent, après avis de l'organe délibérant, peut mettre en demeure les propriétaires de procéder à la réhabilitation des locaux, terrains ou équipements concernés.
+
+Lorsque les propriétaires n'ont pas manifesté dans un délai de trois mois la volonté de se conformer à la mise en demeure ou lorsque les travaux de réhabilitation n'ont pas débuté dans un délai d'un an, une procédure d'expropriation peut être engagée, dans les conditions prévues par le code de l'expropriation pour cause d'utilité publique, au profit de l'Etat, de la commune, de l'établissement public de coopération intercommunale ou d'un établissement public d'aménagement créé en application des articles L. 321-14 ou L. 326-1.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+

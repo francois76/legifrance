@@ -1,0 +1,24 @@
+###### Article L1125-15
+
+I.-Pendant la durée de l'investigation clinique comportant une intervention sur la personne non justifiée par sa prise en charge habituelle et lui faisant encourir des risques et des contraintes non minimes, le promoteur fournit gratuitement les dispositifs médicaux faisant l'objet de l'investigation clinique.
+
+II.-On entend par investigations cliniques à finalité non commerciale les investigations cliniques dont les résultats ne sont pas exploités à des fins lucratives, qui poursuivent un objectif de santé publique et dont le promoteur ou le ou les investigateurs sont indépendants à l'égard des entreprises qui fabriquent ou qui commercialisent les dispositifs médicaux faisant l'objet de l'investigation clinique.
+
+III.-Les caisses d'assurance maladie prennent en charge les dispositifs médicaux faisant l'objet d'investigations cliniques à finalité non commerciale dans les conditions suivantes :
+
+1° Les dispositifs médicaux inscrits sur la liste mentionnée à l'article L. 165-1 du code de la sécurité sociale ou pris en charge au titre des prestations d'hospitalisation mentionnées à l'article L. 162-22-6 du même code, lorsqu'ils sont utilisés dans le cadre d'une investigation clinique à finalité non commerciale autorisée dans les conditions ouvrant droit au remboursement ;
+
+2° A titre dérogatoire, les dispositifs médicaux faisant l'objet de l'investigation clinique à finalité non commerciale et ayant reçu l'avis favorable d'un comité de protection des personnes et, le cas échéant, l'autorisation de l'autorité compétente, lorsqu'ils ne sont pas utilisés dans des conditions ouvrant droit au remboursement, sous réserve de la pertinence de leur prise en charge financière. La décision de prise en charge est prise par arrêté des ministres chargés de la santé et de la sécurité sociale.
+
+Dans les cas mentionnés aux 1° et 2°, à l'exception de ceux relevant du secret de la défense nationale, le promoteur de l'investigation clinique s'engage à rendre publics les résultats de son investigation clinique.
+
+Lorsque l'investigation clinique ayant bénéficié d'une prise en charge ne répond plus à la définition d'une investigation clinique à finalité non commerciale, le promoteur reverse les sommes engagées au titre du cinquième alinéa pour les investigations cliniques concernées aux régimes d'assurance maladie selon les règles prévues à l'article L. 162-37 du code de la sécurité sociale. Le reversement dû est fixé par décision des ministres chargés de la santé et de la sécurité sociale après que le promoteur concerné a été mis en mesure de présenter ses observations. Le produit du reversement est recouvré par les organismes mentionnés à l'article L. 213-1 du même code désignés par le directeur de l'Agence centrale des organismes de sécurité sociale. Le recours présenté contre la décision fixant ce reversement est un recours de pleine juridiction.
+
+Si le promoteur ne respecte pas l'obligation de reversement visée à l'alinéa précédent, il se voit appliquer une pénalité dont le montant ne peut être supérieur à 10 % du chiffre d'affaires réalisé par le promoteur constaté l'année précédente. Les modalités d'application du présent alinéa et du précédent sont fixées par décret.
+
+IV.-Lorsqu'une investigation clinique à finalité commerciale à l'exception de celle qui ne comporte aucun risque ni contrainte et dans laquelle tous les actes sont réalisés et les produits utilisés de manière habituelle est réalisée dans des établissements de santé, dans des hôpitaux des armées ou d'autres éléments du service de santé des armées, à l'Institution nationale des invalides, ou dans des maisons ou des centres de santé, le promoteur prend en charge les frais supplémentaires liés à d'éventuels fournitures ou examens spécifiquement requis par le protocole.
+
+La prise en charge des frais supplémentaires fait l'objet d'une convention conclue entre le promoteur, le représentant légal de chacun des organismes mentionnés au premier alinéa du présent IV et, le cas échéant, le représentant légal des structures destinataires des contreparties versées par le promoteur. La convention, conforme à une convention type définie par arrêté du ministre chargé de la santé, comprend les conditions de prise en charge de tous les coûts liés à l'investigation clinique, qu'ils soient ou non relatifs à la prise en charge du patient. Cette convention est transmise au Conseil national de l'ordre des médecins. Elle est conforme aux principes et garanties prévus au présent titre. Elle est visée par les investigateurs participant à l'investigation clinique.
+
+Les conditions d'application du présent article, notamment celles auxquelles se conforment, dans leur fonctionnement et dans l'utilisation des fonds reçus, les structures destinataires des contreparties mentionnées au deuxième alinéa du présent IV sont précisées par décret.
+

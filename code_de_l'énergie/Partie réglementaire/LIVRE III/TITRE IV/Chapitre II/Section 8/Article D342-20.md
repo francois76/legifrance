@@ -1,0 +1,10 @@
+###### Article D342-20
+
+L'attestation de conformité est établie par écrit et sous sa responsabilité par l'installateur. En cas de pluralité d'installateurs, chacun établit l'attestation pour la partie de l'installation qu'il a réalisée.
+
+Lorsque le maître d'ouvrage procède lui-même à l'installation ou la fait exécuter sous sa responsabilité, il lui appartient d'établir l'attestation.
+
+L'attestation de conformité est obligatoirement soumise, par son auteur, au visa d'un organisme agréé. Cet organisme fait procéder ou procède directement au contrôle des installations qu'il estime nécessaire, le cas échéant sur la base d'un échantillon statistique des installations considérées dans les conditions approuvées par le ministre chargé de l'électricité et doit, le cas échéant, subordonner son visa à l'élimination des défauts de l'installation constatés au cours de ce contrôle.
+
+Les délais et conditions d'apposition de ce visa sont fixés par arrêté du ministre chargé de l'électricité.
+

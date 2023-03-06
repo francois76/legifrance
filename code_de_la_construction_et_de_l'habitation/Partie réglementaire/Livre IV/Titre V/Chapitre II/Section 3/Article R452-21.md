@@ -1,0 +1,8 @@
+###### Article R452-21
+
+La Caisse de garantie du logement locatif social est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+
+Le plan comptable est conforme au caractère de société de financement de la caisse.
+
+Un arrêté conjoint du ministre chargé du logement, du ministre chargé de l'économie et du ministre chargé du budget fixe le règlement comptable et financier de la caisse.
+

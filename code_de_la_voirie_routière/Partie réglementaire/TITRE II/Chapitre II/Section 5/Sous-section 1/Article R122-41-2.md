@@ -1,0 +1,4 @@
+###### Article R122-41-2
+
+Par dérogation aux dispositions des articles R. 122-41 et R. 122-41-1, la passation des contrats portant exclusivement sur l'installation et l'exploitation de points de recharge pour véhicules électriques sur le réseau autoroutier, dont la valeur estimée, telle que définie dans les conditions des articles R. 3121-1 à R. 3121-4 du code de la commande publique, est inférieure au seuil applicable aux contrats de concession mentionné au II de l'annexe 2 du même code, est précédée d'une procédure de sélection adaptée présentant toutes les garanties d'impartialité et de transparence, assurant une publicité suffisante auprès de l'ensemble des opérateurs ayant vocation à se porter candidats et comportant au minimum la publication, dans un journal spécialisé correspondant au secteur économique concerné, d'un avis d'appel à la concurrence ainsi que d'un avis d'attribution après notification du contrat.
+

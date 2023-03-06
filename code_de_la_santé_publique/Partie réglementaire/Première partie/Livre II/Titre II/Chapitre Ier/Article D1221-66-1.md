@@ -1,0 +1,4 @@
+###### Article D1221-66-1
+
+L'autorisation mentionnée à l'article D. 1221-58 peut être délivrée à l'Etablissement français du sang pour l'importation de sang ou de ses composants destinés à la préparation de produits sanguins labiles dans le cadre d'un accord international prévoyant des coopérations transfrontalières. Par dérogation aux dispositions de l'article D. 1221-60 et du gde l'article D. 1221-61, ces importations peuvent être autorisées si les prélèvements de sang ou de ses composants ne répondent pas aux prescriptions de la section II du présent chapitre à condition que l'Etablissement français du sang s'engage à réaliser les tests et analyses prévus à la section II du présent chapitre immédiatement après l'importation et qu'il justifie que toutes les garanties de sécurité concernant le transport et la manipulation de ces produits sont prises.
+

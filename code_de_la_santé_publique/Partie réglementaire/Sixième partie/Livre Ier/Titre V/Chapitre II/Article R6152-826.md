@@ -1,0 +1,8 @@
+###### Article R6152-826
+
+Dans le cadre de leurs obligations de service et des missions qui leur sont confiées, les praticiens relevant des sections 1 et 3 peuvent exercer des activités non cliniques, définies en cohérence avec le projet d'établissement, le projet de pôle et le projet de service. Elles permettent la contribution à des travaux d'enseignement et de recherche, l'exercice de responsabilités institutionnelles ou managériales, ainsi que la participation à des projets collectifs et la structuration des relations avec la médecine de ville. Elles s'exercent sous réserve des nécessités de service.
+
+Les praticiens hospitaliers dont la quotité de travail est fixée à dix demi-journées par semaine sont autorisés à exercer des activités non cliniques une demi-journée par semaine en moyenne sur le quadrimestre par le chef de service ou, à défaut, par le chef de pôle. Cette demi-journée est de droit dès lors que le praticien la sollicite. Au-delà d'une demi-journée par semaine en moyenne sur le quadrimestre, les modalités prévues au troisième alinéa pour l'exercice des activités non cliniques s'appliquent à ces praticiens.
+
+Pour les praticiens relevant de la section 1 n'exerçant pas à temps plein et ceux relevant de la section 3, l'exercice des activités non cliniques peut être autorisé par le directeur de l'établissement dans lequel le praticien exerce, pour une période définie, sur proposition du chef de service ou du responsable de la structure interne après avis du chef de pôle ou, pour des activités exercées en dehors du service ou de la structure d'affectation, sur proposition du président de la commission médicale d'établissement. La décision de refus est motivée et notifiée par écrit au praticien.
+

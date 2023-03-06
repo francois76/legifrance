@@ -1,0 +1,6 @@
+###### Article L111-10
+
+Lorsqu'une société gestionnaire d'un réseau de transport d'électricité est contrôlée, directement ou indirectement, au sens de l'article L. 233-3 du code de commerce et du III de l'article L. 430-1 du même code, par une ou des personnes qui contrôlent, directement ou indirectement au sens des mêmes dispositions, une entreprise exerçant une activité de production ou de fourniture d'électricité, l'ensemble de ces personnes est regardé, pour l'application du présent code, comme constituant une entreprise verticalement intégrée d'électricité.
+
+Lorsqu'une société gestionnaire d'un réseau de transport de gaz ou une société exploitant un stockage souterrain de gaz naturel ou une installation de gaz naturel liquéfié est contrôlée, directement ou indirectement, au sens de l'article L. 233-3 du code de commerce et du III de l'article L. 430-1 du même code, par une ou des personnes qui contrôlent, directement ou indirectement au sens des mêmes dispositions, une entreprise exerçant une activité de production ou une activité de fourniture de gaz, l'ensemble de ces personnes est regardé, pour l'application du présent code, comme constituant une entreprise verticalement intégrée de gaz.
+

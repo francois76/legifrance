@@ -1,0 +1,6 @@
+###### Article L713-13
+
+I.-Par dérogation à l' article L. 3121-22 du code du travail , pour les exploitations, entreprises, établissements et employeurs mentionnés aux 1° à 4° de l'article L. 722-1 du présent code, aux 2° et 3° de l'article L. 722-20 et au 6° du même article L. 722-20, pour les seules entreprises qui ont une activité de production agricole, la limite de quarante-quatre heures est calculée sur une période de douze mois consécutifs. Les mêmes exploitations, entreprises, établissements et employeurs peuvent être autorisés à dépasser le plafond de soixante heures mentionné à l' article L. 3121-21 du code du travail à la condition que le nombre total d'heures supplémentaires effectuées au-delà de ce plafond n'excède pas soixante heures au cours d'une période de douze mois consécutifs.
+
+II.-Pour l'application de l'article L. 3121-34 du même code, les branches d'activité à caractère saisonnier mentionnées à l'article L. 3132-7 dudit code sont les exploitations, entreprises, établissements et employeurs mentionnés aux 1° à 4° de l'article L. 722-1 du présent code, aux 2° et 3° de l'article L. 722-20 et au 6° du même article L. 722-20, pour les seules entreprises qui ont une activité de production agricole.
+

@@ -1,0 +1,8 @@
+###### Article L612-22
+
+L'accès à une formation en vue d'acquérir l'aptitude professionnelle est soumis à la délivrance d'une autorisation préalable, fondée sur le respect des conditions fixées aux 1°, 2°, 3°, 4° et 4° bis de l'article L. 612-20.
+
+Les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen et les ressortissants de pays tiers doivent également justifier d'une connaissance de la langue française suffisante pour l'exercice d'une activité privée de sécurité mentionnée à l'article L. 611-1, selon les modalités définies par décret en Conseil d'Etat.
+
+Pour l'accès à une formation en vue d'acquérir l'aptitude professionnelle à exercer les activités qui relèvent de l'article L. 6342-4 du code des transports et dont l'exercice requiert une certification au titre du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile ou pour l'accès à une formation à l'activité mentionnée au 1° bis de l'article L. 611-1 du présent code lorsque celle-ci est exercée au sein de certains périmètres définis par décret en Conseil d'Etat, l'autorisation préalable mentionnée au premier alinéa du présent article est en outre subordonnée à la production d'une lettre d'intention d'embauche se rapportant à l'une de ces activités, émise par une entreprise titulaire de l'autorisation d'exercice mentionnée à l'article L. 612-9 ou par la personne morale mentionnée à l'article L. 612-25 et exerçant ces activités.
+

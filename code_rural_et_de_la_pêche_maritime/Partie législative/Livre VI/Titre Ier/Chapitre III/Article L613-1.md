@@ -1,0 +1,6 @@
+##### Article L613-1
+
+Les agents de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer), les agents de l'Institut national de l'origine et de la qualité, les agents de l'Agence de services et de paiement, les agents du ministère chargé de l'agriculture, les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes et ceux de la direction générale des douanes et droits indirects peuvent se communiquer spontanément ou sur demande les informations qu'ils détiennent, notamment celles qui sont recueillies dans le cadre des contrôles relatifs aux produits de l'agriculture qu'ils sont chargés d'effectuer, dans la mesure où ces informations sont nécessaires à l'exercice de leurs missions respectives, sans que puissent y faire obstacle les dispositions relatives au secret professionnel, sous réserve de celles prévues par l'article 11 du code de procédure pénale.
+
+Les agents mentionnés au premier alinéa assermentés pour la recherche et la constatation des infractions peuvent se communiquer spontanément ou sur demande les informations qu'ils détiennent, dans la mesure où ces informations sont nécessaires à l'exercice de leurs missions, sans que puissent y faire obstacle les dispositions de l'article 11 du code de procédure pénale ou celles relatives au secret professionnel.
+

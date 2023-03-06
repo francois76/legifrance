@@ -1,0 +1,8 @@
+###### Article L123-10
+
+Les personnes physiques demandant leur immatriculation au registre du commerce et des sociétés ou au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat doivent déclarer l'adresse de leur entreprise et en justifier la jouissance. Elles peuvent notamment domicilier leur entreprise dans des locaux occupés en commun par plusieurs entreprises dans des conditions fixées par décret en Conseil d'Etat. Ce décret précise, en outre, les équipements ou services requis pour justifier la réalité de l'installation de l'entreprise domiciliée.
+
+Les personnes physiques peuvent déclarer l'adresse de leur local d'habitation et y exercer une activité, dès lors qu'aucune disposition législative ou stipulation contractuelle ne s'y oppose.
+
+Lorsqu'elles ne disposent pas d'un établissement, les personnes physiques peuvent, à titre exclusif d'adresse de l'entreprise, déclarer celle de leur local d'habitation. Cette déclaration n'entraîne ni changement d'affectation des locaux, ni application du statut des baux commerciaux.
+

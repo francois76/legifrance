@@ -1,0 +1,20 @@
+###### Article D342-19
+
+I. - Doit faire l'objet, préalablement à sa mise sous tension par un distributeur d'électricité, d'une attestation de conformité aux prescriptions de sécurité imposées par les règlements en vigueur pour le type d'installation considérée :
+
+1° Toute nouvelle installation électrique à caractère définitif raccordée au réseau public de distribution d'électricité ;
+
+2° Toute installation de production d'électricité d'une puissance inférieure à 250 kilovoltampères raccordée au réseau public de distribution d'électricité et requérant une modification de l'installation intérieure d'électricité ;
+
+3° Toute installation électrique entièrement rénovée alimentée sous une tension inférieure à 50 kilovolts, dès lors qu'il y a eu mise hors tension de l'installation par le distributeur à la demande de son client afin de permettre de procéder à cette rénovation.
+
+II. - L'attestation établie et visée dans les conditions précisées à la présente sous-section doit être remise au distributeur par l'utilisateur :
+
+1° Au plus tard à la date de demande de mise en service du raccordement dans le cas d'une installation nouvelle ;
+
+2° Préalablement à la remise sous tension lorsqu'il y a eu rénovation totale d'une installation électrique avec mise hors tension de l'installation par le distributeur.
+
+Elle n'est pas exigible lorsque le raccordement de l'installation n'a qu'un caractère provisoire ou lorsque la mise sous tension n'est demandée que pour une période limitée, en vue de procéder aux essais de l'installation.
+
+III. - Les installations électriques non entièrement rénovées ou dont la rénovation n'a pas donné lieu à mise hors tension par un distributeur d'électricité peuvent faire l'objet d'une attestation de conformité sur la demande du maître d'ouvrage. Lorsque la rénovation n'a été que partielle, l'attestation mentionne les circuits électriques de l'installation au sens de la norme NF C 15-100 dont elle atteste la conformité. Lorsque certains circuits n'ont été que partiellement rénovés, l'attestation précise les parties de ces circuits qu'elle ne couvre pas. L'attestation précise également que les circuits ou les parties de circuits rénovés sont compatibles, du point de vue de la sécurité, avec les parties non rénovées. Cette attestation de conformité est visée dans les mêmes conditions que pour les attestations obligatoires mentionnées aux I et II du présent article. Elle est conservée par le maître d'ouvrage.
+

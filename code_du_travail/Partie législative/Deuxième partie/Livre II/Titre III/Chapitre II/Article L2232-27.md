@@ -1,0 +1,6 @@
+###### Article L2232-27
+
+Pour l'application des articles L. 2232-23-1 et L. 2232-26, chaque salarié mandaté dispose du temps nécessaire à l'exercice de ses fonctions dans les limites d'une durée qui, sauf circonstances exceptionnelles, ne peut excéder dix heures par mois. Les heures de délégation sont de plein droit considérées comme temps de travail et payées à l'échéance normale. L'employeur qui entend contester l'utilisation faite des heures de délégation saisit le juge judiciaire.
+
+Le temps passé aux négociations prévues aux articles L. 2232-23-1, L. 2232-24 et L. 2232-25 n'est pas imputable sur les heures de délégation prévues à l'article L. 2315-7. Chaque membre de la délégation du personnel du comité social et économique appelé à participer à une négociation en application des articles L. 2232-23-1, L. 2232-24 et L. 2232-25 dispose du temps nécessaire à l'exercice de ses fonctions dans les limites d'une durée qui, sauf circonstances exceptionnelles, ne peut excéder dix heures par mois. Les heures de délégation sont de plein droit considérées comme temps de travail et payées à l'échéance normale. L'employeur qui entend contester l'utilisation faite des heures de délégation saisit le juge judiciaire.
+

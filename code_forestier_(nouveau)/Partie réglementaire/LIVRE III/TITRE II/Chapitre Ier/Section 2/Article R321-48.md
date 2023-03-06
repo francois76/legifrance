@@ -1,0 +1,12 @@
+###### Article R321-48
+
+Après le 30 juin, toute personne remplissant les conditions d'inscription sur la liste électorale ou habilitée à représenter une personne morale ou une indivision remplissant ces conditions dans le département peut faire une réclamation tendant à inscrire un électeur omis, à radier un électeur inscrit à tort ou à rectifier d'autres erreurs des projets de liste électorale. Les demandes d'inscription comportent les indications et sont accompagnées des documents prévus à l'article R. 321-49.
+
+Le centre régional de la propriété forestière peut exiger des intéressés toute pièce de nature à justifier de leur qualité pour être inscrit sur la liste électorale et peut également, de sa propre initiative, modifier la liste électorale. Il en informe le préfet de région.
+
+Dans le cas où le centre régional refuse d'inscrire ou radie un propriétaire ou le représentant d'une personne morale ou d'une indivision pour d'autres causes que le décès, cette décision motivée est notifiée dans les meilleurs délais à l'intéressé par tout moyen permettant d'établir date certaine. L'intéressé peut faire une réclamation auprès du centre régional jusqu'au 10 septembre. Le centre régional en informe le préfet de région.
+
+Avant le 30 septembre, après examen des réclamations, notification à leur auteur de la réponse apportée et examen des éventuelles observations des réclamants, le centre régional de la propriété forestière établit la liste électorale de chaque département et l'envoie au préfet de région qui arrête la liste électorale de chaque département avant le 30 octobre. Cette liste est déposée aux sièges respectifs de la direction régionale de l'alimentation, de l'agriculture et de la forêt, du centre régional de la propriété forestière et de la chambre départementale d'agriculture. Le préfet de région informe les électeurs du dépôt des listes électorales, par voie d'affiches apposées aux sièges de la direction régionale de l'alimentation, de l'agriculture et de la forêt, du centre régional de la propriété forestière et de la chambre départementale de l'agriculture, par mise en ligne sur le site internet du Centre national de la propriété forestière et, le cas échéant, par tout autre moyen.
+
+La liste électorale peut être consultée sans frais, dans les lieux où elle a été déposée en application de l'alinéa précédent, par tout intéressé qui peut en prendre copie, à ses frais, à condition de s'engager à ne pas en faire un usage commercial, conformément aux dispositions de l'alinéa 1 de l'article L. 37 du code électoral.
+

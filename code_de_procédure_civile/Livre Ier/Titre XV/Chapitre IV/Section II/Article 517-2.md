@@ -1,0 +1,4 @@
+##### Article 517-2
+
+Lorsque l'exécution provisoire a été refusée, elle ne peut être demandée, en cas d'appel, qu'au premier président ou, dès lors qu'il est saisi, au magistrat chargé de la mise en état et à condition qu'il y ait urgence.
+

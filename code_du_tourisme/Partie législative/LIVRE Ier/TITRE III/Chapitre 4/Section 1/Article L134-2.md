@@ -1,0 +1,4 @@
+###### Article L134-2
+
+A l'occasion du transfert de la compétence en matière de promotion du tourisme, dont la création d'offices de tourisme, aux communautés de communes et aux communautés d'agglomération, les offices de tourisme des communes touristiques et des stations classées de tourisme sont transformés en bureaux d'information de l'office de tourisme intercommunal, sauf lorsqu'ils deviennent le siège de cet office. L'organe délibérant de l'établissement public de coopération intercommunale à fiscalité propre peut cependant décider, au plus tard trois mois avant l'entrée en vigueur du transfert de la compétence, de maintenir des offices de tourisme distincts pour des stations classées de tourisme, en définissant les modalités de mutualisation des moyens et des ressources des offices de tourisme intercommunaux existant sur son territoire.
+

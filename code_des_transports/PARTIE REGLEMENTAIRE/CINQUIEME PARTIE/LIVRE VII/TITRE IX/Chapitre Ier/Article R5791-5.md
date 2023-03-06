@@ -1,0 +1,4 @@
+###### Article R5791-5
+
+Pour l'application dans les Terres australes et antarctiques françaises de l'article R. 5141-3, à son 3°, les mots : " mentionnée à l'article L. 5331-5 " sont remplacés par les mots : " prévue par la réglementation applicable localement ".
+

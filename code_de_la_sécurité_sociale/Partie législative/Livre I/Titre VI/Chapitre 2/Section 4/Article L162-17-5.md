@@ -1,0 +1,6 @@
+###### Article L162-17-5
+
+Le Comité économique des produits de santé peut fixer, pour les médicaments inscrits sur l'une des listes ouvrant droit au remboursement au titre de leur autorisation de mise sur le marché ou pour les produits et prestations pris en charge au titre de la liste mentionnée à l'article L. 165-1 ou pris en charge en sus des prestations d'hospitalisation au titre des articles L. 162-22-7 et L. 162-23-6, le montant des dépenses des régimes obligatoires de sécurité sociale au delà duquel il peut décider de baisser le prix ou le tarif de responsabilité, mentionnés aux articles L. 162-16-4 à L. 162-16-5, L. 162-16-6, L. 165-2, L. 165-3 et L. 165-7, des produits et prestations concernés. La fixation de ce montant tient compte des critères ou conditions mentionnés aux I et II de l'article L. 162-16-4 concernant les médicaments, et aux I et II de l'article L. 165-2 concernant les produits ou prestations.
+
+Les entreprises exploitant ces produits et prestations ou assurant l'importation parallèle ou la distribution parallèle de ces médicaments peuvent toutefois solliciter auprès du Comité économique des produits de santé de verser, sous forme de remise à l'assurance maladie, un montant égal à la perte de chiffre d'affaires annuel qui résulterait de l'application de la décision de baisse tarifaire.
+

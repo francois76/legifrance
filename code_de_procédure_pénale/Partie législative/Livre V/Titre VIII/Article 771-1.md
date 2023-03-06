@@ -1,0 +1,4 @@
+#### Article 771-1
+
+En application du règlement (UE) 2019/816 du Parlement européen et du Conseil du 17 avril 2019 et de la décision-cadre 2009/315/ JAI du Conseil du 26 février 2009 modifiée par la directive (UE) 2019/884 du Parlement européen et du Conseil du 17 avril 2019, le service du casier judiciaire national est compétent pour interroger, alimenter et actualiser le traitement de données européen centralisé dénommé “ ECRIS-TCN ” permettant à l'autorité centrale d'un Etat membre de l'Union européenne d'identifier les Etats membres qui détiennent des informations sur les condamnations pénales prononcées à l'encontre de ressortissants de pays tiers ou apatrides. Il est l'autorité centrale au sens du 5 de l'article 3 du règlement (UE) 2019/816. A ce titre, il est responsable du traitement national de données à caractère personnel nécessaire au fonctionnement de l'ECRIS-TCN.
+

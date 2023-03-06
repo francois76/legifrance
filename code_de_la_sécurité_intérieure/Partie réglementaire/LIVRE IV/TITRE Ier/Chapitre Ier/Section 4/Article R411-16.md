@@ -1,0 +1,4 @@
+###### Article R411-16
+
+Chaque convocation des réservistes de la police nationale ouvre droit au remboursement des frais de déplacement et de séjour dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
+

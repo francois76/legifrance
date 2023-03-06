@@ -1,0 +1,8 @@
+###### Article R334-19
+
+L'exigence minimale de marge de solvabilité des entreprises mentionnés à l'article L. 310-3-2 et agrées pour pratiquer simultanément au moins deux ou plusieurs branches mentionnées soit aux 1 et 2, soit aux 20 à 26 des articles R. 321-1 du présent code, R. 211-2 du code de la mutualité et R. 931-2-1 du code de la sécurité sociale est égale à la somme des deux éléments ci-après, dénommés respectivement fraction dommage, ou non-vie pour les mutuelles et unions régies par le livre II du code de la mutualité et pour les institutions de prévoyance et leurs unions régies par le titre 3 du livre 9 du code de la sécurité sociale, et fraction vie.
+
+Le montant minimal de la fraction dommage ou non-vie pour les mutuelles et unions régies par le livre II du code de la mutualité et pour les institutions de prévoyance et unions régies par le titre 3 du livre 9 du code de la sécurité sociale est calculé dans les conditions définies à l'article R. 334-5, sur la base des primes et sinistres afférents aux affaires directes et aux acceptations relevant des branches 1 et 2 définies aux articles R. 321-1 du présent code, R. 211-2 du code de la mutualité et R. 931-2-1 du code de la sécurité sociale.
+
+Le montant minimal de la fraction vie est calculé dans les conditions définies à l'article R. 334-13, sur la base des provisions techniques, des capitaux sous risque, des primes ou cotisations, des sinistres et des avoirs afférents aux affaires directes et aux acceptations relevant des branches 20 à 26 des articles R. 321-1 du présent code, R. 211-2 du code de la mutualité et R. 931-2-1 du code de la sécurité sociale.
+

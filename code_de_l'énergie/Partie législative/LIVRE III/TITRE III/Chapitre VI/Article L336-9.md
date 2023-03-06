@@ -1,0 +1,10 @@
+##### Article L336-9
+
+Afin de garantir un accès transparent, équitable et non discriminatoire à l'électricité produite par les centrales nucléaires mentionnées à l'article L. 336-2, pour les fournisseurs d'électricité, y compris le propriétaire de ces centrales, la Commission de régulation de l'énergie propose les prix, calcule les droits et contrôle l'accès régulé à l'électricité nucléaire historique prévu par l'article L. 336-1. Elle surveille notamment les transactions effectuées par ces fournisseurs et s'assure de la cohérence entre les volumes d'électricité nucléaire historique bénéficiant de l'accès régulé et la consommation des consommateurs finals desservis sur le territoire métropolitain continental.
+
+Dans le cadre du contrôle mentionné au premier alinéa, lorsqu'un fournisseur connaît des difficultés de nature à compromettre la poursuite de son activité ou lorsque les volumes d'électricité effectivement fournis par ce fournisseur sont manifestement inférieurs aux hypothèses de consommation communiquées dans sa demande, y compris pendant les heures ne servant pas à la détermination des droits théoriques, sans que cette circonstance soit justifiée par des motifs extérieurs au comportement de ce fournisseur, le président de la Commission de régulation de l'énergie peut, à tout moment, saisir en urgence le comité de règlement des différends et des sanctions d'une demande tendant à ce que soit ordonnée l'interruption de tout ou partie de la livraison des volumes d'accès régulé à l'électricité nucléaire historique à ce fournisseur, pour une durée qui ne peut excéder celle de la période de livraison en cours.
+
+La saisine, dûment motivée, est communiquée au fournisseur sans délai. L'instruction est menée dans des délais compatibles avec l'urgence de la demande.
+
+Le comité de règlement des différends et des sanctions se prononce, après avoir, le cas échéant, recueilli les observations écrites du fournisseur concerné et après l'avoir entendu au cours d'une séance publique. A cette occasion, le comité peut entendre toute personne dont il estime l'audition utile.
+

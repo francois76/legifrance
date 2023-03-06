@@ -1,0 +1,8 @@
+###### Article R512-46-24 bis
+
+Lorsque l'exploitant d'une ou plusieurs installations classées pour la protection de l'environnement arrête définitivement, au sens de l'article R. 512-75-1, une ou plusieurs installations d'un même site dont au moins une installation est soumise à enregistrement et que les terrains concernés ne sont pas libérés, l'exploitant a la possibilité de différer sur demande expresse et justifiée la réhabilitation, telle que définie à l'article R. 512-75-1, ainsi que, le cas échéant, les opérations de détermination de l'usage futur prévues à l'article R. 512-46-26. Dans ce cas, l'exploitant notifie au préfet son intention de reporter la réhabilitation ainsi que, le cas échéant, les opérations de détermination de l'usage futur, et le calendrier associé.
+
+Il transmet un exposé des justifications associées à cette demande trois mois au moins avant la mise à l'arrêt définitif. Ces justifications prennent en compte, y compris dans le cas de reports successifs, l'ensemble des installations classées pour la protection de l'environnement ayant déjà été arrêtées définitivement.
+
+Le préfet arrête, dans les formes prévues à l'article R. 512-46-22, le report de la réhabilitation, en précisant notamment les mesures conditionnant la libération des terrains concernés, l'information préalable requise avant la mise en œuvre des opérations de réhabilitation, et la réévaluation périodique de la justification du report. L'absence de réponse du préfet dans un délai de quatre mois vaut refus de la demande.
+

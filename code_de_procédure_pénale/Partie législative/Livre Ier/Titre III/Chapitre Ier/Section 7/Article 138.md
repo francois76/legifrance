@@ -1,0 +1,50 @@
+###### Article 138
+
+Le contrôle judiciaire peut être ordonné par le juge d'instruction ou par le juge des libertés et de la détention si la personne mise en examen encourt une peine d'emprisonnement correctionnel ou une peine plus grave.
+
+Ce contrôle astreint la personne concernée à se soumettre, selon la décision du juge d'instruction ou du juge des libertés et de la détention, à une ou plusieurs des obligations ci-après énumérées :
+
+1° Ne pas sortir des limites territoriales déterminées par le juge d'instruction ou le juge des libertés et de la détention ;
+
+2° Ne s'absenter de son domicile ou de la résidence fixée par le juge d'instruction ou le juge des libertés et de la détention qu'aux conditions et pour les motifs déterminés par ce magistrat ;
+
+3° Ne pas se rendre en certains lieux ou ne se rendre que dans les lieux déterminés par le juge d'instruction ou le juge des libertés et de la détention ;
+
+3° bis Ne pas participer à des manifestations sur la voie publique dans des lieux déterminés par le juge d'instruction ou le juge des libertés et de la détention ;
+
+4° Informer le juge d'instruction ou le juge des libertés et de la détention de tout déplacement au-delà de limites déterminées ;
+
+5° Se présenter périodiquement aux services, associations habilitées ou autorités désignés par le juge d'instruction ou le juge des libertés et de la détention qui sont tenus d'observer la plus stricte discrétion sur les faits reprochés à la personne mise en examen ;
+
+6° Répondre aux convocations de toute autorité, de toute association ou de toute personne qualifiée désignée par le juge d'instruction ou le juge des libertés et de la détention et se soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un enseignement ainsi qu'aux mesures socio-éducatives destinées à favoriser son insertion sociale et à prévenir le renouvellement de l'infraction ;
+
+7° Remettre soit au greffe, soit à un service de police ou à une brigade de gendarmerie tous documents justificatifs de l'identité, et notamment le passeport, en échange d'un récépissé valant justification de l'identité ;
+
+8° S'abstenir de conduire tous les véhicules, certains véhicules ou un véhicule qui ne soit pas équipé, par un professionnel agréé ou par construction, d'un dispositif homologué d'antidémarrage par éthylotest électronique et, le cas échéant, remettre au greffe son permis de conduire contre récépissé ; toutefois, le juge d'instruction ou le juge des libertés et de la détention peut décider que la personne mise en examen pourra faire usage de son permis de conduire pour l'exercice de son activité professionnelle ;
+
+9° S'abstenir de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge d'instruction ou le juge des libertés et de la détention, ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ;
+
+10° Se soumettre à des mesures d'examen, de traitement ou de soins, même sous le régime de l'hospitalisation, notamment aux fins de désintoxication. Une copie de l'ordonnance de placement sous contrôle judiciaire est adressée par le juge d'instruction au médecin ou au psychologue qui doit suivre la personne mise en examen. Les rapports des expertises réalisées pendant l'enquête ou l'instruction sont adressés au médecin ou au psychologue, à leur demande ou à l'initiative du juge d'instruction. Celui-ci peut également leur adresser toute autre pièce utile du dossier ;
+
+11° Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge d'instruction ou le juge des libertés et de la détention, compte tenu notamment des ressources et des charges de la personne mise en examen ;
+
+12° Ne pas se livrer à certaines activités de nature professionnelle ou sociale, à l'exclusion de l'exercice des mandats électifs et des responsabilités syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit commise. Lorsque l'activité concernée est celle d'un avocat, le conseil de l'ordre, saisi par le juge d'instruction ou le juge des libertés et de la détention, a seul le pouvoir de prononcer cette mesure à charge d'appel, dans les conditions prévues à l'article 24 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques ; le conseil de l'ordre statue dans les quinze jours ;
+
+12° bis Ne pas exercer une activité impliquant un contact habituel avec des mineurs lorsqu'il est à redouter qu'une nouvelle infraction soit commise ;
+
+13° Ne pas émettre de chèques autres que ceux qui permettent exclusivement le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés et, le cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi prohibé ;
+
+14° Ne pas détenir ou porter une arme et, le cas échéant, remettre au greffe contre récépissé les armes dont elle est détentrice ;
+
+15° Constituer, dans un délai, pour une période et un montant déterminés par le juge d'instruction ou le juge des libertés et de la détention, des sûretés personnelles ou réelles ;
+
+16° Justifier qu'elle contribue aux charges familiales ou acquitte régulièrement les aliments qu'elle a été condamnée à payer conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des prestations, subsides ou contributions aux charges du mariage ;
+
+17° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de solidarité, soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, résider hors du domicile ou de la résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique ; les dispositions du présent 17° sont également applicables lorsque l'infraction est commise par l'ancien conjoint ou concubin de la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui de la victime. Pour l'application du présent 17°, le juge d'instruction recueille ou fait recueillir, dans les meilleurs délais et par tous moyens, l'avis de la victime sur l'opportunité d'astreindre l'auteur des faits à résider hors du logement du couple. Sauf circonstances particulières, cette mesure est prise lorsque sont en cause des faits de violences susceptibles d'être renouvelés et que la victime la sollicite. Le juge d'instruction peut préciser les modalités de prise en charge des frais afférents à ce logement. Lorsqu'est prononcée l'une des obligations prévues au 9°, au présent 17° ou au 17° bis, le juge d'instruction ou le juge des libertés et de la détention se prononce, par une décision motivée, sur la suspension du droit de visite et d'hébergement de l'enfant mineur dont la personne mise en examen est titulaire ;
+
+17° bis Respecter l'interdiction de se rapprocher d'une victime de violences commises au sein du couple prévue à l'article 138-3 et contrôlée par un dispositif électronique mobile anti-rapprochement ;
+
+18° Respecter les conditions d'une prise en charge sanitaire, sociale, éducative ou psychologique, destinée à permettre sa réinsertion et l'acquisition des valeurs de la citoyenneté ; cette prise en charge peut, le cas échéant, intervenir au sein d'un établissement d'accueil adapté dans lequel la personne est tenue de résider.
+
+Les modalités d'application du présent article, en ce qui concerne notamment l'habilitation des personnes contribuant au contrôle judiciaire sont déterminées en tant que de besoin par un décret en Conseil d'Etat.
+

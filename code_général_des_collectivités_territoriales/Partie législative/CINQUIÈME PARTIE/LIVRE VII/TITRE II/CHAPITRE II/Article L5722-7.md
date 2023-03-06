@@ -1,0 +1,8 @@
+###### Article L5722-7
+
+Le syndicat mixte mentionné à l'article L. 1231-10 du code des transports peut prélever un versement destiné au financement des services de mobilité dans une aire urbaine d'au moins 50 000 habitants et dans les communes multipolarisées des grandes aires urbaines, au sens de l'Institut national de la statistique et des études économiques, dès lors que ce syndicat inclut au moins la principale autorité compétente pour l'organisation de la mobilité. Les conditions d'assujettissement, de recouvrement et de remboursement de ce versement sont identiques à celles prévues par les articles L. 2333-64 à L. 2333-75 du présent code.
+
+Le taux de ce versement ne peut excéder 0,5 %. Dans le ressort territorial d'une autorité organisatrice de la mobilité, ce taux est, le cas échéant, porté à zéro ou réduit de sorte que le total de ce taux et du taux maximum susceptible d'être institué par l'autorité compétente au titre de l'article L. 2333-67 n'excède pas le taux maximum qui serait autorisé au titre de ce même article dans le ressort qui coïnciderait avec l'aire urbaine et les communes multipolarisées concernées par le prélèvement du syndicat.
+
+Le syndicat mixte mentionné à l'article L. 1231-10 du code des transports peut, en outre, par décision motivée, réduire ou porter à zéro le taux du versement, sur les périmètres des établissements publics de coopération intercommunale qui le composent, selon un critère qu'il détermine à partir de la densité de la population et du potentiel fiscal défini à l'article L. 2334-4 du présent code. La réduction du taux est en rapport avec l'écart constaté, en se fondant sur ce critère, entre les différents périmètres des établissements composant le syndicat.
+

@@ -1,0 +1,8 @@
+###### Article R5313-4
+
+Afin de contrôler l'application des lois, règlements et normes applicables aux activités et produits mentionnés à l'article L. 5311-1, et sous réserve de dispositions spécifiques prévues par le présent code ou par la réglementation européenne, les inspecteurs de l'Agence nationale de sécurité du médicament et des produits de santé peuvent procéder à des inspections des établissements et des lieux où sont exercées des activités liées aux produits mentionnés aux articles L. 5311-1 et L. 5311-2, ainsi que dans les locaux d'un opérateur titulaire d'une autorisation, d'un agrément ou enregistrement, ou soumis à une déclaration d'activités auprès de l'ANSM, et dans les entrepôts douaniers.
+
+Sous réserve de dispositions spécifiques prévues par le présent code ou par la réglementation européenne, ces inspections peuvent être inopinées ou programmées notamment en fonction du risque susceptible d'affecter la qualité ou la sécurité de ces produits ou la sécurité des personnes.
+
+Sous réserve des accords éventuels conclus entre l'Union européenne et un pays tiers, le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé peut demander à tout opérateur dont l'activité contribue à la mise sur le marché national de produits de santé mentionnés à l'article L. 5311-1, établi dans un pays tiers, de se soumettre à une inspection diligentée par les inspecteurs de l'Agence si le produit ou les activités liées à un produit, au sens du même article, qu'il fabrique, distribue ou réalise est destiné à être importé ou à être mis sur le marché en France ou dans l'Union européenne.
+

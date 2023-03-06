@@ -1,0 +1,61 @@
+###### Article D1411-38
+
+Participent notamment, avec voix consultative, aux travaux de la Conférence nationale de santé :
+- le président du Conseil économique, social et environnemental ou son représentant ;
+- le défenseur des droits ou son représentant ;
+- le président du Conseil national consultatif des personnes handicapées ou son représentant ;
+- le président de la Haute Autorité de santé ou son représentant ;
+- le contrôleur général des lieux de privation de liberté ou son représentant ;
+- le commissaire général à la stratégie et à la prospective ou son représentant ;
+- le président du Conseil d'orientation des politiques de jeunesse ou son représentant ;
+- le président du Conseil national des villes ou son représentant ;
+- le président du Haut conseil de la famille, de l'enfance et de l'âge ou son représentant ;
+- le président du Conseil national de la protection de l'enfance ou son représentant ;
+- le président du Haut Conseil à l'égalité entre les femmes et les hommes ou son représentant ;
+- le président de la Commission nationale consultative des droits de l'Homme ou son représentant ;
+- le commissaire général et délégué interministériel au développement durable ou son représentant ;
+- le délégué interministériel pour l'hébergement et l'accès au logement ou son représentant ;
+- le délégué interministériel à la jeunesse ou son représentant ;
+- le directeur de la jeunesse, de l'éducation populaire et de la vie associative ou son représentant ;
+- le délégué ministériel du numérique en santé ou son représentant ;
+- le délégué ministériel à la santé mentale et à la psychiatrie ou son représentant ;
+- le secrétaire général du Comité interministériel du handicap ou son représentant ;
+- le directeur général de l'Agence nationale de la sécurité sanitaire, de l'alimentation, de l'environnement et du travail ou son représentant ;
+- le directeur de la protection judiciaire de la jeunesse ou son représentant ;
+- le directeur central du service de santé des armées ou son représentant ;
+- le secrétaire général des ministères chargés des affaires sociales ou son représentant ;
+- le directeur général de la santé ou son représentant ;
+- le directeur général de l'offre de soins ou son représentant ;
+- le directeur général de la cohésion sociale ou son représentant ;
+- le directeur de la sécurité sociale ou son représentant ;
+- le directeur de la recherche, des études, de l'évaluation et des statistiques ou son représentant ;
+- le chef de l'inspection générale des affaires sociales ou son représentant ;
+- le directeur général de l'Union nationale des caisses d'assurance maladie ou son représentant ;
+- le directeur de la Caisse nationale de solidarité pour l'autonomie ou son représentant ;
+- le directeur général de l'Agence nationale de santé publique ou son représentant ;
+- le président du Haut Conseil de la santé publique ou son représentant ;
+- le président du Haut Conseil pour l'avenir de l'assurance maladie ou son représentant ;
+- le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé ou son représentant ;
+- le directeur général de l'Agence nationale d'appui à la performance des établissements de santé et médico-sociaux ou son représentant ;
+- le président du Comité consultatif national d'éthique pour les sciences de la vie et de la santé ou son représentant ;
+- le président du Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale ou son représentant ;
+- le président du Comité national de l'organisation sanitaire et sociale ou son représentant ;
+- le président du Haut Conseil du travail social ou son représentant ;
+- le président du Conseil national du sida et des hépatites virales ou son représentant ;
+- le président du GIP Enfance en danger ou son représentant ;
+- le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
+- le président de l'Observatoire national de la démographie des professions de santé ou son représentant ;
+- le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+- le directeur général du travail ou son représentant ;
+- le président du Conseil d'orientation des conditions de travail ou son représentant ;
+- le directeur général de l'Agence nationale de la cohésion des territoires ;
+- le directeur général de l'Agence nationale pour l'amélioration des conditions de travail ou son représentant ;
+- le directeur général de l'enseignement scolaire ou son représentant ;
+- le directeur général de l'enseignement supérieur et de l'insertion professionnelle ou son représentant ;
+- le directeur général de l'enseignement et de la recherche ou son représentant ;
+- Le directeur général de l'alimentation ou son représentant ;
+- le directeur général des outre-mer ou son représentant ;
+- le directeur général d'une agence régionale de santé ou son représentant désigné par le Ministre de la santé ;
+- Le secrétaire interministériel du Conseil national de l'alimentation ou son représentant ;
+- Trois personnalités qualifiées, désignées par le ministre chargé de la santé à raison de leur qualification, action ou expertise dans les domaines de compétence de la Conférence, dont le président de la mandature précédente de la Conférence nationale de santé.
+

@@ -1,0 +1,8 @@
+### Article 5-1
+
+Le réseau des chambres de métiers et de l'artisanat se compose de CMA France et des chambres de métiers et de l'artisanat de région, qui sont des établissements publics placés sous la tutelle de l'Etat et administrés par des dirigeants et collaborateurs d'entreprise élus.
+
+Le réseau des chambres de métiers et de l'artisanat contribue au développement économique des entreprises du secteur des métiers et de l'artisanat immatriculées au registre national des entreprises ainsi qu'au développement des territoires, en remplissant en faveur des acteurs économiques et en partenariat avec les structures existantes toute mission d'intérêt général en faveur du secteur de l'artisanat. Au niveau de la circonscription régionale, son action est complémentaire de celle de la région et compatible avec le schéma régional de développement économique, d'innovation et d'internationalisation mentionné à l'article L. 4251-13 du code général des collectivités territoriales. La compatibilité de cette stratégie avec le schéma régional de développement économique, d'innovation et d'internationalisation est garantie par la signature de conventions entre les régions et les chambres de métiers et de l'artisanat de niveau régional prévues à l'article L. 4251-18 du même code.
+
+Sont associées au réseau, dans des conditions fixées par décret en Conseil d'Etat, les chambres de métiers régies par les articles 103 et suivants du code professionnel local maintenu en vigueur par la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+

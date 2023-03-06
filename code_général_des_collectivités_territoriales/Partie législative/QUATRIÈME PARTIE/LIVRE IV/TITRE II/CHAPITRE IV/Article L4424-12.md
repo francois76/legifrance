@@ -1,0 +1,12 @@
+###### Article L4424-12
+
+I. – Le plan d'aménagement et de développement durable peut, par une délibération particulière et motivée de l'Assemblée de Corse, fixer, pour l'application de l'article L. 121-23 du code de l'urbanisme, une liste complémentaire à la liste des espaces terrestres et marins, sites et paysages remarquables ou caractéristiques du patrimoine naturel et culturel du littoral et des milieux nécessaires au maintien des équilibres biologiques à préserver. Cette délibération tient lieu du décret prévu au premier alinéa du même article L. 146-6. Elle définit également leur localisation.
+
+II. – Le plan d'aménagement et de développement durable peut également, par une délibération particulière et motivée de l'Assemblée de Corse, déterminer, en tenant compte de la fréquentation touristique de certains sites et de la préservation de l'environnement, les espaces situés dans la bande littorale définie à l'article L. 121-16 du code de l'urbanisme dans lesquels peuvent être autorisés, indépendamment des dérogations prévues à l'article L. 121-17 du même code et dans les conditions que le plan précise, des aménagements légers et des constructions non permanentes destinés à l'accueil du public, à l'exclusion de toute forme d'hébergement, dans le respect des paysages et des caractéristiques propres à ces sites.
+
+La réalisation de ces aménagements et constructions est soumise à l'enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. Une enquête publique unique portant sur l'ensemble des aménagements et constructions prévus peut être organisée dès lors que le dossier d'enquête précise les conditions d'aménagement et de gestion de l'ensemble des espaces en cause.
+
+II bis.-Dans les communes soumises simultanément aux chapitres Ier et II du titre II du livre Ier du code de l'urbanisme, l'article L. 121-8 du même code ne s'applique pas dans les secteurs, situés en dehors des espaces proches du rivage, déterminés par le plan d'aménagement et de développement durable de Corse et délimités par le plan local d'urbanisme. La détermination de ces secteurs est soumise à l'accord du représentant de l'Etat dans le département après avis du conseil des sites de Corse.
+
+III. – Un rapport d'évaluation annuel portant sur la mise en oeuvre des dispositions prévues par le présent article et précisant leur impact réel sur l'environnement et le développement durable est établi par la collectivité territoriale de Corse et adressé au Premier ministre, qui le transmet au Parlement.
+

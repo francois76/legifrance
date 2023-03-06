@@ -1,0 +1,8 @@
+###### Article L222-4-2
+
+Le bulletin d'adhésion mentionné à l'article L. 221-1 indique que le contrat souscrit est un contrat de retraite professionnelle supplémentaire relevant de la présente section. Un arrêté du ministre chargé de la mutualité fixe la liste des informations minimales que contient le bulletin d'adhésion remis dans le cadre d'un contrat de retraite professionnelle supplémentaire.
+
+Lors de la liquidation de ses droits, la mutuelle ou union de retraite professionnelle supplémentaire informe chaque membre participant et bénéficiaire, dans des conditions définies par arrêté du ministre chargé de la mutualité, du montant des prestations qui lui sont dues et des options de paiement correspondantes.
+
+La mutuelle ou union de retraite professionnelle supplémentaire établit et révise au moins tous les trois ans, pour chaque contrat, un rapport indiquant sa politique de placement et les risques techniques et financiers correspondants. Elle précise également les méthodes d'évaluation des risques d'investissement, les techniques de gestion des risques mises en œuvre et la répartition stratégique des actifs eu égard à la nature et à la durée des engagements de retraite, ainsi que la manière dont la politique d'investissement prend en considération les facteurs environnementaux, sociaux et de gouvernance. Ce rapport est mis à jour dans un délai de trois mois après tout changement majeur de la politique de placement. Il est mis à la disposition du souscripteur, du participant et du bénéficiaire. Un arrêté du ministre chargé de la mutualité précise le contenu du rapport et les autres informations qui, sur demande ou périodiquement, doivent être remises aux membres participants.
+

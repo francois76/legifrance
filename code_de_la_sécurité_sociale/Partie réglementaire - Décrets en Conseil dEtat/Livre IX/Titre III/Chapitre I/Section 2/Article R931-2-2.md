@@ -1,0 +1,6 @@
+###### Article R931-2-2
+
+Sous réserve des dispositions de la présente section, les articles R. 321-1-1 à R. 321-5, R. 321-14 et R. 321-16 à R. 321-18 du code des assurances sont applicables aux institutions de prévoyance et unions mentionnées à l'article L. 931-4.
+
+Pour l'application de l'alinéa précédent, la référence : " R. 321-1 du code des assurances " est remplacée par la référence : " R. 931-2-1 du code de la sécurité sociale " et il y a lieu d'entendre " institution de prévoyance ou union mentionnée à l'article L. 931-4 " là où est mentionné dans le code des assurances le mot : " entreprise ", " le bulletin d'adhésion à un règlement ou le contrat collectif " là où est mentionné dans le code des assurances le mot : " contrat ", " les institutions de prévoyance et les unions mentionnées à l'article L. 931-4 " là où est mentionné : " les entreprises mentionnées aux 1°, 3° et 4° de l'article L. 310-2 ", " les risques mentionnés au a et b de l'article L. 931-1 du code de la sécurité sociale " là où est mentionné : " les risques mentionnés au 1° et au 2° de l'article L. 310-1 " et " agréments mentionnés à l'article L. 931-4 " là où est mentionné : " agréments mentionnés aux articles L. 321-1, L. 321-7 et L. 321-9 ".
+

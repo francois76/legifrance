@@ -1,0 +1,4 @@
+###### Article D6323-10
+
+Toute modification substantielle du projet de santé, notamment du règlement de fonctionnement, le changement de l'organisme gestionnaire ou de son représentant légal, la modification d'implantation géographique du centre ou de son ou ses antennes lorsqu'elles existent, la fermeture d'une antenne, la modification qualitative ou quantitative du plateau technique, notamment l'installation d'un ou de plusieurs fauteuils dentaires supplémentaires, ainsi que toute modification susceptible d'avoir une incidence sur la politique menée par le centre de santé en matière de qualité et de sécurité des soins, est portée à la connaissance du directeur général de l'agence régionale de santé au plus tard dans les quinze jours par tout moyen conférant date certaine à sa réception.
+

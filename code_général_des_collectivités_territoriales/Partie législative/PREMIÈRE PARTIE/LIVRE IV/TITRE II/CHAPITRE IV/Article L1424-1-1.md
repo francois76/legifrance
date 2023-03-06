@@ -1,0 +1,4 @@
+###### Article L1424-1-1
+
+Lorsqu'elles ne font pas partie d'un établissement public de coopération intercommunale compétent en matière d'incendie et de secours, les communes participent à l'exercice de la compétence en matière d'incendie et de secours par le biais de la contribution au financement du service départemental ou territorial d'incendie et de secours. Elles sont alors représentées au conseil d'administration du service d'incendie et de secours. Lorsqu'une commune transfère, en application de l'article L. 1424-35, la compétence en matière d'incendie et de secours à l'établissement public de coopération intercommunale dont elle est membre, elle continue, le cas échéant, de siéger au conseil d'administration du service d'incendie et de secours jusqu'au prochain renouvellement de ce dernier.
+

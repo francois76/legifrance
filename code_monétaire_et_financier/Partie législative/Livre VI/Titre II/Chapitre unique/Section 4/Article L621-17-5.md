@@ -1,0 +1,4 @@
+###### Article L621-17-5
+
+Est puni des peines prévues à l'article 226-13 du code pénal le fait, pour les dirigeants ou les préposés des personnes mentionnées à l'article 16 du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/CE, 2003/125/CE et 2004/72/CE de la Commission, de porter à la connaissance de quiconque, et en particulier des personnes ou des parties liées aux personnes pour le compte desquelles les opérations déclarées ou notifiées ont été effectuées, l'existence de la déclaration ou de la notification mentionnée au même article ou de donner des informations sur les suites réservées à celle-ci.
+

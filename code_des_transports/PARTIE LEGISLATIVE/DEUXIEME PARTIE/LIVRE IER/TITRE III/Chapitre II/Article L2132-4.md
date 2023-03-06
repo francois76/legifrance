@@ -1,0 +1,4 @@
+###### Article L2132-4
+
+Sans préjudice de l'exercice par l'autorité administrative compétente de l'Etat de la faculté de saisir la Commission européenne d'une demande d'examen des mesures prises par un Etat membre de l'Union européenne concernant l'application de la directive 2012/34/ UE du Parlement européen et du Conseil du 21 novembre 2012 établissant un espace ferroviaire unique européen (refonte), en application de l'article 61 de celle-ci, au sujet des conditions d'accès à l'infrastructure et aux services ferroviaires, des licences des entreprises ferroviaires, des redevances d'infrastructure et de la répartition des capacités, dans un délai de douze mois à compter de l'adoption de ces mesures, l' Autorité de régulation des transports peut saisir la Commission d'une telle demande dans le même délai.
+

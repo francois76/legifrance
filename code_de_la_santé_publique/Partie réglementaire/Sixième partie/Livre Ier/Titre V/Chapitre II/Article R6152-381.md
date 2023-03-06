@@ -1,0 +1,8 @@
+###### Article R6152-381
+
+L'établissement et le praticien recruté par contrat à durée indéterminée peuvent convenir des conditions de la rupture du contrat qui les lie.
+
+La rupture conventionnelle résulte d'une convention signée par les deux parties. La convention de rupture définit les conditions de celle-ci, notamment le montant de l'indemnité spécifique de rupture conventionnelle dans des limites déterminées par décret.
+
+La rupture conventionnelle ne peut être imposée par l'une ou l'autre des parties.
+

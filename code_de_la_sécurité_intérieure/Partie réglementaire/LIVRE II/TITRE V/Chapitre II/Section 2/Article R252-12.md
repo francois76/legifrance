@@ -1,0 +1,6 @@
+###### Article R252-12
+
+I.-Les agents des services de police ou de gendarmerie nationales, les agents des douanes ou des services d'incendie et de secours, les agents de police municipale ainsi que les agents mentionnés aux articles L. 531-1, L. 532-1 et L. 533-1, destinataires des images et enregistrements de systèmes de vidéoprotection appartenant à des tiers, en application des articles L. 252-2 et L. 252-3, sont individuellement désignés et dûment habilités, pour les seuls besoins de leurs missions, par le chef de service ou le chef d'unité à compétence départementale, régionale, zonale ou nationale sous l'autorité duquel ils sont affectés, et pour les seules images issues de systèmes implantés sur le territoire de la commune ou de l'établissement public de coopération intercommunale dont ils relèvent par le maire, s'agissant des agents de police municipale ainsi que les agents mentionnés aux articles L. 531-1, L. 532-1 et L. 533-1.
+
+II.-Aux fins d'être habilités, les agents mentionnés au second alinéa de l'article L. 252-2 et à l'article L. 252-3 doivent bénéficier d'une formation en matière de protection des données à caractère personnel adaptée aux missions effectivement confiées et d'une mise à jour régulière de leurs connaissances.
+

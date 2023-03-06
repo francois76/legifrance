@@ -1,0 +1,4 @@
+###### Article L33-12
+
+Afin de permettre la mise en œuvre et le contrôle du respect des obligations fixées en application des articles L. 33-1, L. 34-8-5, L. 36-6 et L. 42-1 du présent code, du III de l'article 52, des articles 52-1 à 52-3 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, et des articles 119 à 119-2 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie, les mesures relatives à la qualité des services et à la couverture des réseaux et des services de communications électroniques, à leur traitement et à leur certification sont réalisées, sous le contrôle de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse, par des organismes indépendants choisis par l'autorité et dont les frais sont financés et versés directement par les opérateurs concernés, dans une mesure, proportionnée à leur taille, que l'autorité détermine.
+

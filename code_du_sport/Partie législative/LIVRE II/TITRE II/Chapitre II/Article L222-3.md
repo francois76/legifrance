@@ -1,0 +1,6 @@
+##### Article L222-3
+
+Les dispositions des articles L. 8241-1 et L. 8241-2 du code du travail ne sont pas applicables à l'opération mentionnée au présent alinéa lorsqu'elle concerne le salarié d'une association sportive ou d'une société mentionnée aux articles L. 122-2 et L. 122-12 du présent code mis à disposition de la fédération sportive délégataire intéressée en qualité de membre d'une équipe de France, dans des conditions définies par la convention conclue entre ladite fédération et la ligue professionnelle qu'elle a constituée, et alors qu'il conserve pendant la période de mise à disposition sa qualité de salarié de l'association ou de la société sportive ainsi que les droits attachés à cette qualité.
+
+Les articles L. 8241-1 et L. 8241-2 du code du travail ne sont pas applicables à l'opération mentionnée au présent alinéa lorsqu'elle concerne le sportif ou l'entraîneur professionnel salarié d'une association sportive ou d'une société mentionnée aux articles L. 122-2 et L. 122-12 du présent code muté temporairement au sein d'une autre association sportive ou d'une société et dont les modalités sont prévues par convention ou accord collectif national ou, à défaut, par le règlement de la fédération sportive ou, le cas échéant, de la ligue professionnelle.
+

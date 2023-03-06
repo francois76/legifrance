@@ -1,0 +1,8 @@
+###### Article D422-7-1
+
+Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement informe sans délai l'élève des faits qui lui sont reprochés et du délai dont il dispose pour présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix. Ce délai, fixé par le chef d'établissement, est d'au moins deux jours ouvrables.
+
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+En cas de nécessité, le chef d'établissement peut interdire, à titre conservatoire, l'accès de l'établissement à l'élève pendant le délai mentionné au premier alinéa. Cette mesure ne présente pas le caractère d'une sanction.
+

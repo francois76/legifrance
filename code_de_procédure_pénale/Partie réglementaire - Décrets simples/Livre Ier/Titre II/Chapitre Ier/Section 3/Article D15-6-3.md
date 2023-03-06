@@ -1,0 +1,32 @@
+###### Article D15-6-3
+
+I.-Les demandes de prise de connaissance du dossier formées, en application du II de l'article 77-2, par une personne suspectée peuvent être adressées au procureur de la République par l'intermédiaire de son avocat. Dans ce cas, la demande peut être adressée par un moyen de télécommunication sécurisé conformément aux dispositions de l'article D. 591.
+
+Si la demande est formée en application du 3° du II de l'article 77-2, elle comporte tous les documents justifiant qu'il a été porté atteinte à la présomption d'innocence de la personne par un moyen de communication au public et notamment, s'il y a lieu, une copie des enregistrements sonores ou audiovisuels. Le procureur de la République peut solliciter du demandeur des documents complémentaires établissant la réalité de cette atteinte.
+
+Cette demande est versée au dossier de la procédure par le procureur de la République, au plus tard lorsque l'enquête est achevée et que les procès-verbaux ont été adressés à ce magistrat en application de l'article 19.
+
+II.-Dans un délai d'un mois à compter de la réception de la demande, ou, dans le cas prévu par le 2e alinéa du I du présent article, de la réception des documents complémentaires sollicités, le procureur de la République fait connaître à la personne, par une décision écrite qui est versée au dossier conformément au dernier alinéa du I du présent article et qui lui est notifiée par tout moyen :
+
+1° Soit qu'il accepte de communiquer le dossier, afin de permettre le dépôt ultérieur d'observations pouvant consister en des demandes d'actes ;
+
+2° Soit que les conditions prévues au 1°, 2° ou 3° du II de l'article 77-2 ne sont pas réunies, et qu'il refuse cette communication ;
+
+3° Soit que les conditions prévues au 1°, 2° ou 3° du II de l'article 77-2 ne sont pas réunies, mais qu'il accepte cette communication en application du I de cet article ;
+
+4° Soit qu'il estime que la communication demandée risque de porter atteinte à l'efficacité des investigations, et qu'il diffère en conséquence celle-ci pour une durée qu'il précise et qui ne peut être supérieure à six mois à compter de la réception de la demande ou, si l'enquête porte sur des crimes ou délits mentionnés aux articles 706-73 ou 706-73-1 ou relevant de la compétence du procureur de la République antiterroriste, qui ne peut être supérieure à un an à compter de cette date.
+
+Dans les cas prévus aux 1° et 3°, le procureur de la République peut indiquer à la personne que ne seront pas mises à sa disposition certaines pièces de la procédure en raison des risques de pression sur les victimes, les autres personnes mises en cause, leurs avocats, les témoins, les enquêteurs, les experts ou toute autre personne concourant à la procédure.
+
+Dans les cas prévus aux 2° à 4° et à l'alinéa précédent, la décision du procureur est motivée, sans que cette motivation ne fasse apparaître des éléments de nature à porter atteinte à l'efficacité des investigations. En particulier, dans le cas mentionné à l'alinéa précédent, la liste et la nature des pièces non communiquées ne sont pas portées à la connaissance de la personne. La décision du procureur mentionne qu'elle peut faire l'objet d'un recours devant le procureur général. La décision de ce dernier, rendue dans le mois de sa saisine, est versée au dossier conformément au dernier alinéa du I du présent article.
+
+III.-La mise à disposition du dossier se fait par tout moyen. Elle peut consister en la consultation des pièces de celui-ci dans les locaux du tribunal judiciaire ou en la remise d'une copie de la procédure. Les dispositions de l'article D. 593-2 sont alors applicables.
+
+La personne dispose d'un délai d'un mois à compter de la mise à disposition du dossier pour formuler ses observations par lettre recommandée avec demande d'avis de réception ou par déclaration au greffe contre récépissé. Les observations formulées par l'avocat peuvent être adressées par un moyen de télécommunication sécurisé conformément aux dispositions de l'article D. 591. Pendant ce délai d'un mois le procureur de la République ne peut, conformément au septième alinéa du II de l'article 77-2, prendre aucune décision de poursuites hors l'ouverture d'une information, l'application de l'article 393 ou le recours à la procédure de comparution sur reconnaissance préalable de culpabilité prévue aux articles 495-7 à 495-13.
+
+IV.-Les observations formulées en application de l'article 77-2 ainsi que l'information adressée en retour par le procureur de la République sur les suites qui y ont été réservées sont versées au dossier conformément au dernier alinéa du I du présent article. Lorsque ces observations consistent en une demande d'acte, le procureur de la République informe la personne des suites qu'il entend y apporter dans un délai d'un mois à compter de la réception des observations. S'il refuse de procéder à un acte demandé, il rend une décision motivée indiquant qu'elle peut être contestée devant le procureur général, et qui est versée au dossier dans les mêmes conditions. A défaut de réponse du procureur dans le délai d'un mois, qui vaut refus de procéder aux actes demandés, la personne peut également contester ce refus devant le procureur général. Le procureur général statue dans le délai d'un mois à compter de sa saisine, par une décision motivée versée au dossier conformément au dernier alinéa du I du présent article.
+
+V.-Les saisines du procureur général prévues par l'article 77-2 se font par lettre recommandée avec demande d'avis de réception ou par déclaration au greffe contre récépissé ou, lorsqu'elles émanent d'un avocat, par un moyen de télécommunication sécurisé conformément aux dispositions de l'article D. 591. Lorsque la personne saisit le procureur général en raison du défaut de réponse du procureur de la République dans le délai d'un mois, elle en informe dans le même temps, par les mêmes moyens, le procureur de la République. Cette saisine est caduque si le procureur de la République fait ensuite droit à la demande de communication du dossier ou à la demande d'actes.
+
+VI.-Lorsque l'enquête concerne plusieurs personnes suspectées et que le procureur de la République accède à la demande d'accès à la procédure présentée par l'une d'entre elles, il n'est pas tenu d'accorder les mêmes droits aux autres personnes suspectées, sans préjudice de sa possibilité de le faire s'il l'estime possible et opportun, en application du I de l'article 77-2.
+

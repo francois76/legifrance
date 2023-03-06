@@ -1,0 +1,18 @@
+###### Article L214-175-1
+
+I. – L'exposition aux risques mentionnée au I de l'article L. 214-168 peut résulter de l'acquisition, la souscription ou la détention de créances ou d'autres éléments d'actif mentionnés au III ci-dessous, l'octroi de prêts ou la conclusion de contrats constituant des instruments financiers à terme ou transférant des risques d'assurance, de garanties, de sûretés, ou de sous-participations en risque ou en trésorerie.
+
+Le financement ou la couverture des risques mentionnée au I de l'article L. 214-168 peut résulter de l'émission de parts ou d'actions ou de titres de créance, de la conclusion de contrats constituant des instruments financiers à terme, de garanties, de sûretés, de sous-participations en risque ou en trésorerie ou transférant des risques d'assurance, ou encore par le recours à l'emprunt ou à d'autres formes de ressources, de dettes ou d'engagements.
+
+Les parts, actions et titres de créance que l'organisme est appelé à émettre ne peuvent faire l'objet de démarchage, sauf auprès d'investisseurs qualifiés mentionnés au II de l'article L. 411-2.
+
+II. – Les parts ou actions et les titres de créance émis par l'organisme de titrisation peuvent donner lieu à des droits différents, en particulier sur le capital ou les intérêts. Le règlement ou les statuts de l'organisme et tout contrat conclu par lui peuvent prévoir que les droits de certaines catégories de porteurs de parts, actionnaires, détenteurs de titres de créance ou de certains créanciers de l'organisme sont subordonnés aux droits ou intérêts d'autres catégories de porteurs de parts, actionnaires, détenteurs de titres de créance ou d'autres créanciers de l'organisme.
+
+III. – Un organisme de titrisation peut détenir des titres de capital reçus par conversion, échange ou remboursement de titres de créance ou de titres donnant accès au capital, ou par l'exercice des droits attachés à de tels titres.
+
+IV.-Lorsque le règlement ou les statuts de l'organisme de titrisation le prévoient, cet organisme peut, par dérogation au III de l'article L. 214-168, être établi et géré par un sponsor au sens du 5 de l'article 2 du règlement (UE) 2017/2402 du Parlement européen et du Conseil du 12 décembre 2017 créant un cadre général pour la titrisation ainsi qu'un cadre spécifique pour les titrisations simples, transparentes et standardisées et modifiant les directives 2009/65/ CE, 2009/138/ CE et 2011/61/ UE et les règlements (CE) n° 1060/2009 et (UE) n° 648/2012, si ce sponsor délègue la gestion du portefeuille de cet organisme à une société de gestion de portefeuille mentionnée à l'article L. 532-9 du présent code agréée pour la gestion d'organismes de titrisation. Dans le cadre de l'exercice de cette délégation, la société de gestion de portefeuille respecte l'ensemble des exigences applicables à la gestion d'un organisme de titrisation telles qu'elles résultent de la présente section et du titre III du livre V du présent code.
+
+V. – Dans des conditions et limites fixées par décret en Conseil d'Etat, un organisme de titrisation pour lequel le recours à l'effet de levier fait l'objet de limitations peut accorder des prêts aux entreprises non financières. Les prêts ainsi accordés ont une maturité inférieure à la durée de vie résiduelle de l'organisme.
+
+VI. – La perte ou l'engagement net maximal pris par un organisme de titrisation, évalués à tout moment en tenant compte des couvertures dont il bénéficie, au titre des tirages d'un prêt octroyé ou de l'acquisition de créances à naître de tirages provenant de prêts, d'instruments financier à terme, de garanties ou de sous-participation en risque ou en trésorerie ne peuvent excéder la valeur de son actif et le cas échéant du montant non appelé des souscriptions.
+

@@ -1,0 +1,6 @@
+###### Article R813-19
+
+Dans les formations des établissements mentionnés à l'article L. 813-9, les formateurs sont réputés remplir les conditions fixées au I de l'article R. 813-18, dès lors qu'ils détiennent un diplôme sanctionnant un cycle d'études d'au moins deux années après le baccalauréat ou un titre de niveau III inscrit au répertoire national des certifications professionnelles et qu'ils ont subi avec succès les épreuves d'un examen professionnel dont les modalités sont arrêtées par le ministre chargé de l'agriculture. Les intéressés ne peuvent se présenter à cet examen plus de trois fois.
+
+Au moment de leur recrutement, les intéressés doivent en outre justifier d'une expérience professionnelle à temps plein d'une durée minimale de trois ans dans les spécialités ou les champs d'activités se rapportant aux formations dispensées dans l'établissement. Cette expérience doit avoir été acquise après l'obtention des titres ou diplômes indiqués à l'alinéa précédent. En outre, sont prises en compte pour le calcul de la durée susmentionnée, d'une part, les activités exercées à temps incomplet, d'autre part, l'expérience professionnelle antérieure lorsque le titre ou le diplôme a été acquis par la voie de la formation professionnelle continue.
+

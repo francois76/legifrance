@@ -1,0 +1,8 @@
+###### Article R211-3-7
+
+Le tribunal judiciaire connaît :
+
+1° Des litiges relatifs à la vente des objets abandonnés dans les garde-meubles ou chez tout dépositaire, des objets confiés à des ouvriers, industriels ou artisans pour être travaillés, réparés ou mis en garde et des objets confiés à des entrepreneurs de transport et non réclamés, ainsi qu'au paiement des sommes dues à ces différents détenteurs ;
+
+2° Des actions entre les transporteurs et les expéditeurs ou les destinataires relatives aux indemnités pour perte, avarie, détournement des colis et bagages, y compris les colis postaux, ou pour retard dans la livraison ; ces indemnités ne pourront excéder les tarifs prévus aux conventions intervenues entre les transporteurs concessionnaires et l'Etat.
+

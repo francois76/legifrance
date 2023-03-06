@@ -1,0 +1,4 @@
+###### Article L122-15
+
+En Guyane et à Mayotte, les évaluations environnementales relatives à des projets peuvent faire l'objet d'une procédure commune lorsque ces projets sont situés en tout ou partie dans le périmètre d'une opération d'intérêt national prévue à l'article L. 102-12 du code de l'urbanisme. Les dossiers relatifs à ces évaluations environnementales groupées peuvent être établis par un mandataire, qui peut être l'établissement public foncier et d'aménagement compétent dans le périmètre de l'opération d'intérêt national. Ces dossiers indiquent les informations exigées de chaque maître d'ouvrage et précisent les obligations qui lui incombent au titre de l'évaluation environnementale. La décision de l'autorité compétente fixe les prescriptions prévues au I de l'article L. 122-1-1 du présent code en indiquant, pour chacune, les maîtres d'ouvrage responsables.
+

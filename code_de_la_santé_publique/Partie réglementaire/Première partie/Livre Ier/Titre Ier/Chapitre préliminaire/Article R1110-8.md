@@ -1,0 +1,4 @@
+###### Article R1110-8
+
+Constitue un refus de soins discriminatoire, au sens de l'article L. 1110-3, toute pratique tendant à empêcher ou dissuader une personne d'accéder à des mesures de prévention ou de soins, par quelque procédé que ce soit et notamment par des obstacles mis à l'accès effectif au professionnel de santé ou au bénéfice des conditions normales de prise en charge financière des actes, prestations et produits de santé, pour l'un des motifs de discrimination mentionnés aux articles 225-1 et 225-1-1 du code pénal, ou au motif que cette personne bénéficie du droit à la protection complémentaire en matière de santé prévu à l'article L. 861-1 du code de la sécurité sociale ou du droit à l'aide médicale d'Etat prévu à l'article L. 251-1 du code de l'action sociale et des familles.
+

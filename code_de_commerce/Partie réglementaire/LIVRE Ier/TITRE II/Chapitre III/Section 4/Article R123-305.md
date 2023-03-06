@@ -1,0 +1,4 @@
+###### Article R123-305
+
+Lorsque la personne immatriculée au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat ne respecte pas ses obligations en matière de qualification professionnelle ou lorsqu'elle ne transmet pas les éléments prévus au 3° de l'article R. 123-279 dans les délais requis, ou lorsque, en cas de changement de situation affectant ses obligations en matière de qualification professionnelle, elle ne transmet pas les éléments prévus aux 2° et 3° de l'article R. 123-280 dans les délais requis, le président de la chambre de métiers et de l'artisanat de région ou, par délégation, le président de la chambre de métiers et de l'artisanat de niveau départemental sollicite du teneur du Registre national des entreprises, par l'intermédiaire de l'organisme unique mentionné à l'article R. 123-1, la suppression des activités pour lesquelles ces obligations ne sont pas remplies.
+

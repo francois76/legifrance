@@ -1,0 +1,8 @@
+###### Article R314-13
+
+Le cocontractant transmet au ministre chargé de l'énergie et au préfet, sur leur demande, les informations concernant les caractéristiques des installations pour lesquelles un contrat d'achat ou de complément de rémunération a été signé, ainsi que les demandes qui n'ont pu aboutir à la signature d'un contrat. Ces informations ne sont accessibles qu'aux agents dûment habilités mentionnés à l'article L. 142-21.
+
+Le cocontractant transmet au ministre chargé de l'énergie et au préfet, trimestriellement, un bilan par filière des demandes de contrat d'achat et de contrat de complément de rémunération et des contrats signés par trimestre ainsi que les capacités correspondantes en mégawatt, à l'échelle départementale pour le préfet et à l'échelle nationale pour le ministre.
+
+Le cocontractant préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont le service chargé de la négociation et de la conclusion du contrat d'achat d'électricité ou du contrat de complément de rémunération a connaissance dans l'accomplissement de ses missions et dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination. En particulier, ce service prend les mesures nécessaires pour que ces informations ne soient pas divulguées en dehors de lui. Il peut toutefois transmettre au ministre chargé de l'énergie ou au préfet, à leur demande, les informations nécessaires à l'exercice de leurs missions. Le ministre ou le préfet préservent, dans les mêmes conditions, la confidentialité de ces informations.
+

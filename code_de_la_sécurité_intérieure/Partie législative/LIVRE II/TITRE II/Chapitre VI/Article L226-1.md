@@ -1,0 +1,18 @@
+##### Article L226-1
+
+Afin d'assurer la sécurité d'un lieu ou d'un événement exposé à un risque d'actes de terrorisme à raison de sa nature et de l'ampleur de sa fréquentation, le représentant de l'Etat dans le département ou, à Paris, le préfet de police peut instituer par arrêté motivé un périmètre de protection au sein duquel l'accès et la circulation des personnes sont réglementés.
+
+L'arrêté est transmis sans délai au procureur de la République et communiqué au maire de la commune concernée.
+
+L'arrêté définit ce périmètre, limité aux lieux exposés à la menace et à leurs abords, ainsi que ses points d'accès. Son étendue et sa durée sont adaptées et proportionnées aux nécessités que font apparaître les circonstances. L'arrêté prévoit les règles d'accès et de circulation des personnes dans le périmètre, en les adaptant aux impératifs de leur vie privée, professionnelle et familiale, ainsi que les vérifications, parmi celles mentionnées aux quatrième et sixième alinéas et à l'exclusion de toute autre, auxquelles elles peuvent être soumises pour y accéder ou y circuler, et les catégories d'agents habilités à procéder à ces vérifications.
+
+L'arrêté peut autoriser les agents mentionnés aux 2° à 4° de l'article 16 du code de procédure pénale et, sous la responsabilité et le contrôle effectif de ces agents, ceux mentionnés à l'article 20 et aux 1°, 1° bis et 1° ter de l'article 21 du même code à procéder, au sein du périmètre de protection, avec le consentement des personnes faisant l'objet de ces vérifications, à des palpations de sécurité ainsi qu'à l'inspection visuelle et à la fouille des bagages. La palpation de sécurité est effectuée par une personne de même sexe que la personne qui en fait l'objet. Pour la mise en œuvre de ces opérations, ces agents peuvent être assistés par des agents exerçant l'activité mentionnée au 1° de l'article L. 611-1 du présent code, placés sous l'autorité et le contrôle effectif et continu d'un officier de police judiciaire.
+
+Après accord du maire, l'arrêté peut autoriser les agents de police municipale mentionnés à l'article L. 511-1 à participer à ces opérations sous l'autorité d'un officier de police judiciaire.
+
+Lorsque, compte tenu de la configuration des lieux, des véhicules sont susceptibles de pénétrer au sein de ce périmètre, l'arrêté peut également en subordonner l'accès à la visite du véhicule, avec le consentement de son conducteur. Ces opérations ne peuvent être accomplies que par les agents mentionnés aux 2° à 4° de l'article 16 du code de procédure pénale et, sous la responsabilité de ces agents, par ceux mentionnés à l'article 20 et aux 1°, 1° bis et 1° ter de l'article 21 du même code.
+
+Les personnes qui refusent de se soumettre, pour accéder ou circuler à l'intérieur de ce périmètre, aux palpations de sécurité, à l'inspection visuelle ou à la fouille de leurs bagages ou à la visite de leur véhicule s'en voient interdire l'accès ou sont reconduites d'office à l'extérieur du périmètre par les agents mentionnés au sixième alinéa du présent article.
+
+La durée de validité d'un arrêté préfectoral instaurant un périmètre de protection en application du présent article ne peut excéder un mois. Le représentant de l'Etat dans le département ou, à Paris, le préfet de police ne peut renouveler l'arrêté au-delà de ce délai que si les conditions prévues au premier alinéa continuent d'être réunies. Pour les lieux faisant l'objet du périmètre de protection, l'arrêté ne peut être renouvelé qu'une seule fois, pour une durée ne pouvant excéder un mois, dès lors que les conditions prévues au premier alinéa continuent d'être réunies.
+

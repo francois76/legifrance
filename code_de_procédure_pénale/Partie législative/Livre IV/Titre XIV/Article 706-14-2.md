@@ -1,0 +1,4 @@
+#### Article 706-14-2
+
+Toute personne physique ayant subi un préjudice résultant de faits volontaires ou non, commis à l'étranger, susceptibles de relever de la compétence d'une juridiction pénale disposant, en application des dispositions du présent code, d'une compétence territoriale concurrente et spécialisée s'étendant sur le ressort de plusieurs tribunaux judiciaires ou sur l'ensemble du territoire peut, lorsque ces faits présentent le caractère matériel d'une infraction et répondent aux conditions prévues à l'article 706-3 du présent code ou à l'article L. 126-1 du code des assurances, obtenir du fonds de garantie des victimes des actes de terrorisme et d'autres infractions une aide financière au titre des frais de voyage, de l'indemnité de comparution et de l'indemnité journalière de séjour pour répondre à une convocation à l'audience de jugement d'un procès pénal tenu à l'étranger, selon des modalités et conditions prévues par voie réglementaire.
+

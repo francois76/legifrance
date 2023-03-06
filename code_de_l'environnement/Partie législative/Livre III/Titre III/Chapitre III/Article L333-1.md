@@ -1,0 +1,44 @@
+##### Article L333-1
+
+I. – Un parc naturel régional peut être créé sur un territoire dont le patrimoine naturel et culturel ainsi que les paysages présentent un intérêt particulier.
+
+Les parcs naturels régionaux concourent à la politique de protection de l'environnement, d'aménagement du territoire, de développement économique et social et d'éducation et de formation du public. A cette fin, ils ont vocation à être des territoires d'expérimentation locale pour l'innovation au service du développement durable des territoires ruraux. Ils constituent un cadre privilégié des actions menées par les collectivités publiques en faveur de la préservation des paysages et du patrimoine naturel et culturel.
+
+II. – La charte constitue le projet du parc naturel régional. Elle comprend :
+
+1° Un rapport déterminant les orientations de protection, de mise en valeur et de développement, notamment les objectifs de qualité paysagère définis à l'article L. 350-1 C, ainsi que les mesures permettant de les mettre en œuvre et les engagements correspondants ;
+
+2° Un plan, élaboré à partir d'un inventaire du patrimoine, indiquant les différentes zones du parc et leur vocation ;
+
+3° Des annexes comprenant notamment le projet des statuts initiaux ou modifiés du syndicat mixte d'aménagement et de gestion du parc.
+
+III. – La région engage le classement ou le renouvellement du classement d'un parc naturel régional par une délibération qui prescrit l'élaboration ou la révision de la charte et définit le périmètre d'étude. Ce périmètre d'étude peut comprendre un espace maritime adjacent au territoire terrestre et des espaces appartenant au domaine public maritime naturel de l'Etat, défini à l'article L. 2111-4 du code général de la propriété des personnes publiques, et ne peut inclure des espaces appartenant à un parc naturel marin.
+
+Cette délibération est transmise à l'Etat, qui émet un avis motivé sur l'opportunité du projet, notamment au regard de la qualité patrimoniale du territoire et de la cohérence du périmètre d'étude, dans un délai fixé par le décret prévu au VII du présent article.
+
+Le cas échéant, la région fixe et justifie par délibération le périmètre d'étude modifié pour tenir compte de l'avis motivé de l'Etat.
+
+IV. – Le projet de charte initiale est élaboré par la région et le projet de charte révisée est élaboré par le syndicat mixte d'aménagement et de gestion du parc, avec l'ensemble des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre concernés, en associant l'Etat et en concertation avec les partenaires intéressés, notamment les chambres consulaires.
+
+Le projet de charte est soumis à une enquête publique réalisée en application du chapitre III du titre II du livre Ier, puis il est transmis par la région aux collectivités territoriales et aux établissements publics de coopération intercommunale à fiscalité propre concernés, pour approbation. A l'issue de cette procédure, la région approuve le projet de charte, sous réserve que les communes ayant approuvé la charte représentent une majorité qualifiée des communes comprises dans le périmètre d'étude, définie par le décret prévu au VII. Elle approuve le périmètre de classement ou de renouvellement de classement, constitué du territoire des communes comprises dans le périmètre d'étude ayant approuvé la charte, et propose, le cas échéant, un périmètre de classement potentiel, constitué du territoire de communes comprises dans le périmètre d'étude n'ayant pas approuvé la charte, en veillant à assurer la cohérence du périmètre global en résultant.
+
+L'approbation du projet de charte emporte demande d'adhésion au syndicat mixte d'aménagement et de gestion du parc.
+
+La charte est adoptée par décret portant classement ou renouvellement du classement en parc naturel régional, pour une durée de quinze ans, du territoire des communes comprises dans le périmètre de classement ou de renouvellement de classement approuvé par la région.
+
+Ce décret approuve également, le cas échéant, le périmètre de classement potentiel proposé par la région.
+
+Le décret est fondé sur la qualité patrimoniale du territoire, sur sa cohérence, sur la qualité du projet de charte, sur la détermination des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre à mener à bien le projet et sur la capacité du syndicat mixte d'aménagement et de gestion du parc à conduire le projet de façon cohérente.
+
+Dans des conditions fixées par le décret prévu au VII, le territoire des communes du périmètre de classement potentiel peut être classé par arrêté du représentant de l'Etat dans la région, pour la durée de validité du classement du parc naturel régional restant à courir, sur proposition du syndicat mixte d'aménagement et de gestion du parc, après délibération de la commune concernée portant approbation de la charte, notamment au regard de la qualité patrimoniale du territoire concerné et de la détermination des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre à mener à bien le projet.
+
+V. – L'Etat et les collectivités territoriales ainsi que les établissements publics de coopération intercommunale à fiscalité propre ayant approuvé la charte appliquent les orientations et les mesures de la charte dans l'exercice de leurs compétences sur le territoire du parc. Ils assurent, en conséquence, la cohérence de leurs actions et des moyens qu'ils y consacrent, ainsi que, de manière périodique, l'évaluation de la mise en œuvre de la charte et le suivi de l'évolution du territoire. L'Etat et les régions ayant approuvé la charte peuvent conclure avec le syndicat mixte d'aménagement et de gestion du parc un contrat en application du contrat de plan Etat-régions. Les règlements locaux de publicité prévus à l'article L. 581-14 du présent code doivent être compatibles avec les orientations et les mesures de la charte. Les schémas de cohérence territoriale, les schémas de secteurs, les plans locaux d'urbanisme et les documents d'urbanisme en tenant lieu ainsi que les cartes communales doivent être compatibles avec les chartes dans les conditions fixées aux articles L. 131-1 et L. 131-6 du code de l'urbanisme.
+
+Toutefois, par dérogation au premier alinéa du présent V, les documents d'urbanisme ne sont pas soumis à l'obligation de compatibilité avec les orientations et les mesures de la charte qui seraient territorialement contraires au schéma régional d'aménagement, de développement durable et d'égalité des territoires prévu à l'article L. 4251-1 du code général des collectivités territoriales.
+
+VI. – Lors de leur élaboration ou de leur révision, les documents de planification, d'aménagement de l'espace et de gestion des ressources naturelles relatifs au climat, à l'air, aux énergies, aux continuités écologiques, aux déplacements, aux infrastructures de transport, aux orientations forestières, aux carrières, à l'accès à la nature et aux sports de nature, à la gestion de l'eau et des milieux aquatiques, à la prévention des risques, à la gestion cynégétique, à la gestion de la faune sauvage, au tourisme, à la mer et au littoral sont soumis pour avis au syndicat mixte d'aménagement et de gestion du parc naturel régional en tant qu'ils s'appliquent à son territoire.
+
+VII. – Un décret en Conseil d'État fixe les modalités d'application du présent article. Il comprend notamment la liste des documents concernés par le VI.
+
+VIII. – Pour les parcs naturels régionaux dont le classement ou le renouvellement de classement a été prononcé par décret avant la publication de la loi n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages ou lorsque l'avis motivé de l'Etat sur l'opportunité du projet est intervenu avant la publication de cette même loi, une commune ou des communes n'ayant pas approuvé la charte lors de la procédure prévue au deuxième alinéa du IV peuvent être classées dans des conditions fixées par le décret prévu au VII. Ce classement est prononcé par décret pour la durée de validité du classement du parc naturel régional restant à courir, après avis du représentant de l'Etat dans la région, sur proposition du syndicat mixte d'aménagement et de gestion du parc, après délibération de la commune ou des communes concernées portant approbation de la charte, notamment au regard de la qualité patrimoniale du territoire concerné, de la cohérence avec le périmètre classé et de la détermination des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre à mener à bien le projet, sans qu'il soit besoin de procéder ni à l'enquête publique ni aux consultations préalables prévues à l'occasion du classement initial et de son renouvellement.
+

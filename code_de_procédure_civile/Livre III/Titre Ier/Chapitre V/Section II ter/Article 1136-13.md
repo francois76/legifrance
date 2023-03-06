@@ -1,0 +1,6 @@
+##### Article 1136-13
+
+Lorsqu'une demande en divorce ou en séparation de corps est introduite avant l'expiration de la durée des mesures de protection ou que l'ordonnance de protection est prononcée alors qu'une procédure de divorce ou de séparation de corps est en cours, les mesures de l'ordonnance de protection continuent de produire leurs effets jusqu'à ce qu'une décision statuant sur la demande en divorce ou en séparation de corps soit passée en force de chose jugée, à moins qu'il n'en soit décidé autrement par le juge saisi de cette demande ou par le juge de la mise en état. Dans ce dernier cas, à compter de la notification de l'ordonnance du juge de la mise en état, les mesures provisoires de la procédure de divorce se substituent aux mesures de l'ordonnance de protection prises au titre des 3° et 5° de l'article 515-11 du code civil qui cessent de produire effets.
+
+A compter de l'introduction de la procédure de divorce ou de séparation de corps, la demande aux fins de mesures de protection ainsi que les demandes mentionnées au premier alinéa de l'article 1136-12 sont présentées devant le juge saisi de cette procédure. La demande est formée, instruite et jugée selon les règles de la présente section et le juge statue par décision séparée.
+

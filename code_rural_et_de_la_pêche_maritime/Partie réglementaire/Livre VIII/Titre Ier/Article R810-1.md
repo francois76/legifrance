@@ -1,0 +1,6 @@
+#### Article R810-1
+
+Pour l'application à l'enseignement agricole des dispositions du code de l'éducation dans les conditions prévues par l'article L. 810-1 du présent code, les mots et expressions : " recteur ”, " inspecteur d'académie ”, " directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ” et " autorité académique ” désignent le directeur régional de l'alimentation, de l'agriculture et de la forêt, et, en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, le directeur de l'alimentation, de l'agriculture et de la forêt.
+
+Toutefois, pour l'application à l'enseignement agricole des dispositions des articles L. 241-4, L. 444-5, L. 912-1-2, L. 914-3, R. 232-38, R. 232-41 et R. 232-43 du code de l'éducation, et par dérogation à l'alinéa précédent, le mot : " recteur ” désigne le ministre chargé de l'agriculture. De même, par dérogation à l'alinéa précédent, les mots : “ recteur de région académique ” désignent le ministre chargé de l'agriculture pour l'application aux établissements d'enseignement supérieur agricole privés sous contrat, mentionnés à l'article L. 813-10, des articles L. 731-2, L. 731-3, L. 731-4, L. 731-17 et R. 913-15 à R. 913-27 du code l'éducation.
+

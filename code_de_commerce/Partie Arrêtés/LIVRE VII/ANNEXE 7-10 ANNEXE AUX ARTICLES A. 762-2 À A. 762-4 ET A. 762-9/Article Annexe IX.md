@@ -1,0 +1,60 @@
+#### Article Annexe IX
+
+<center>(ANNEXE À L'ARTICLE A. 762-3) </center>Préfecture du département de
+
+RÉCÉPISSÉ DE DÉCLARATION D'UN PROGRAMME ANNUEL DE MANIFESTATIONS COMMERCIALES SE TENANT DANS UN PARC D'EXPOSITION ENREGISTRÉ
+
+<div align="center"/><div align="center"/><div align="center"/><center>(art. L. 762-1 et R. 762-6 du code de commerce) </center>Date de réception du dossier complet :
+
+<center>Identification du parc d'exposition déclarant </center>Numéro d'enregistrement du parc :
+
+Dénomination :
+
+Sigle (le cas échéant) :
+
+Adresse :
+
+<center>Exploitant </center>Dénomination sociale ou nom, prénom (s) (si personne physique) :
+
+Adresse :
+
+Numéro unique d'identification (SIRET) :
+
+<center>Manifestation déclarée n° 1 </center>Dénomination :
+
+Sigle (le cas échéant) :
+
+Dates de tenue : du au
+
+Organisateur (si différent de l'exploitant du parc d'exposition déclarant) :
+
+Dénomination sociale ou nom, prénom (s) (si personne physique) :
+
+Adresse :
+
+Numéro unique d'identification (SIRET) :
+
+<center>Manifestation déclarée n° 2 </center>Dénomination :
+
+Sigle (le cas échéant) :
+
+Dates de tenue : du au
+
+Organisateur (si différent de l'exploitant du parc d'exposition déclarant) :
+
+Dénomination sociale ou nom, prénom (s) (si personne physique) :
+
+Adresse :
+
+Numéro unique d'identification (SIRET) :
+
+<center>Manifestation déclarée n° 3 </center>Dénomination :
+
+Date :
+
+Visa :
+
+Exception faite de la date de réception du dossier et du numéro d'enregistrement du parc, les données figurant sur ce récépissé font l'objet d'une publication sur le site internet du ministère chargé du commerce.
+
+Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier. A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à DGCIS (secrétariat général), 67, rue Barbès, BP 80001, 94200 Ivry-sur-Seine Cedex. Pour plus d'informations : www.pme.gouv.fr.
+

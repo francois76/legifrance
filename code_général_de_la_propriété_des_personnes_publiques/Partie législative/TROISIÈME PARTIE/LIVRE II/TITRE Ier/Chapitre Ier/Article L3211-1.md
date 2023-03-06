@@ -1,0 +1,6 @@
+###### Article L3211-1
+
+Lorsqu'ils ne sont plus utilisés par un service civil ou militaire de l'Etat ou un établissement public de l'Etat, les immeubles du domaine privé de l'Etat peuvent être vendus dans les conditions fixées par décret en Conseil d'Etat.
+
+Lorsque la cession de ces immeubles implique l'application des mesures prévues à l'article L. 541-2 du code de l'environnement ou, en fonction de l'usage auquel le terrain est destiné, la réalisation d'une opération de dépollution pyrotechnique, l'Etat peut subordonner la cession à l'exécution, par l'acquéreur, de ces mesures ou de ces travaux. Dans ce cas, les opérations de dépollution pyrotechnique sont exécutées conformément aux règles de sécurité définies par voie réglementaire. Le coût réel de ces mesures ou travaux s'impute sur le prix de vente à concurrence du montant fixé à ce titre dans l'acte de cession, déterminé par un expert indépendant choisi d'un commun accord par l'Etat et l'acquéreur. Cette expertise est contradictoire. Le diagnostic de pollution, le rapport d'expertise et le relevé des mesures de dépollution à réaliser sont annexés à l'acte de vente. Une fois la cession intervenue, l'acquéreur supporte les dépenses liées aux mesures supplémentaires de dépollution nécessaires à l'utilisation future de l'immeuble cédé.
+

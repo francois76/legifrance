@@ -1,0 +1,6 @@
+###### Article L121-24
+
+Des aménagements légers, dont la liste limitative et les caractéristiques sont définies par décret en Conseil d'Etat, peuvent être implantés dans ces espaces et milieux lorsqu'ils sont nécessaires à leur gestion, à leur mise en valeur notamment économique ou, le cas échéant, à leur ouverture au public, et qu'ils ne portent pas atteinte au caractère remarquable du site.
+
+Ces projets d'aménagement sont soumis, préalablement à leur autorisation, à enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement dans les cas visés au 1° du I de l'article L. 123-2 du code de l'environnement et à l'avis de la commission départementale de la nature, des paysages et des sites. Dans les autres cas, ils sont soumis à une mise à disposition du public pendant une durée d'au moins quinze jours, dans des conditions permettant à celui-ci de formuler ses observations. Ces observations sont enregistrées et conservées. La nature des documents communiqués au public et les modalités de leur mise à disposition sont précisées par l'autorité administrative compétente pour délivrer l'autorisation et portées à la connaissance du public au moins huit jours avant le début de cette mise à disposition. A l'issue de la mise à disposition et avant de prendre sa décision, l'autorité administrative en établit le bilan.
+

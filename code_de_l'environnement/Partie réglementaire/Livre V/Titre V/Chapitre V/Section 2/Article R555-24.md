@@ -1,0 +1,14 @@
+###### Article R555-24
+
+I.-Toute modification d'une canalisation (modification de ses caractéristiques, extension, déviation ou toute modification de son mode d'utilisation de nature à entraîner un changement notable des éléments figurant dans les actes administratifs relatifs à cette canalisation) est portée avant sa réalisation à la connaissance de l'autorité compétente pour délivrer l'autorisation de la canalisation ou du tronçon de canalisation concerné, avec tous les éléments utiles d'appréciation.
+
+Cette dernière fixe, s'il y a lieu, des prescriptions complémentaires dans les formes prévues par l'article R. 555-22 visant à protéger les intérêts mentionnés aux articles L. 554-5 et L. 211-1. Le cas échéant, lorsque la modification de la canalisation est une composante d'un projet, au sens de l'article L. 122-1, faisant l'objet d'une évaluation environnementale, ces prescriptions incluent les mesures d'évitement, de réduction et de compensation et leurs modalités de suivi, destinées à protéger les intérêts mentionnés aux articles L. 554-5 et L. 211-1 et relatives à cette modification.
+
+Ces modifications sont prises en compte lors du réexamen et le cas échéant dans la mise à jour de l'étude de dangers mentionnés au II de l'article R. 554-46.
+
+Si l'autorité compétente estime, après avis du service chargé du contrôle, que les modifications sont de nature à entraîner des dangers ou inconvénients mentionnés aux articles L. 554-5 ou L. 211-1, non pris en compte dans les actes administratifs en vigueur, ou si le transporteur demande que les modifications de la canalisation soient déclarées d'utilité publique, elle invite le transporteur à déposer une nouvelle demande d'autorisation portant uniquement sur le périmètre de la modification. Celle-ci est soumise aux mêmes formalités qu'une demande d'autorisation initiale.
+
+II.-Les travaux d'entretien, de maintenance et de grosses réparations d'une canalisation existante ou d'un tronçon de canalisation existante, y compris les installations annexes qu'elle contient, à l'intérieur de la bande de servitude forte définie à l'article L. 555-27, ou à l'intérieur de la servitude amiable mentionnée au 8° de l'article R. 555-8, ou à l'intérieur du site d'une installation annexe du transporteur, ne sont pas soumis à une nouvelle autorisation si la nature du fluide transporté n'est pas modifiée et si ni le diamètre ni la pression maximale en service de la canalisation ne sont augmentés.
+
+Lorsqu'il remplit les conditions prévues à l'alinéa précédent, le remplacement d'une canalisation existante ou d'un tronçon de canalisation existante, y compris les installations annexes qu'elle contient, dans le respect des prescriptions techniques prévues à l'article L. 554-8, et à moins de 2 mètres de la canalisation existante, est dispensé des obligations du présent article.
+

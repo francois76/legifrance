@@ -1,0 +1,12 @@
+##### Article L114-12
+
+I. – Lorsqu'elle se prononce sur la modification des statuts, les activités exercées, les montants ou taux de cotisation, la délégation de pouvoir prévue à l'article L. 114-11, les prestations offertes, le transfert de portefeuille, les principes directeurs en matière de réassurance, les règles générales en matière d'opérations collectives, les règles générales en matière d'opérations individuelles mentionnées au II de l'article L. 221-2, dans le cas où les statuts prévoient que le conseil d'administration adopte les règlements de ces opérations en application de l'article L. 114-1, la fusion, la scission, la dissolution ou la création d'une mutuelle ou d'une union, l'assemblée générale des mutuelles, unions et fédérations ne délibère valablement que si le nombre de votants présents, représentés, ou ayant fait usage des facultés de vote par correspondance ou de vote électronique dans les conditions prévues par l'article L. 114-13, est au moins égal à la moitié du total des membres.
+
+Si, lors de la première convocation, l'assemblée générale n'a pas réuni le quorum fixé à l'alinéa précédent, une seconde assemblée générale peut être convoquée qui délibère valablement si le nombre de ses membres présents, représentés ou ayant fait usage de la faculté de vote par correspondance ou de vote électronique dans les conditions prévues par l'article L. 114-13, représente au moins le quart du total des membres. Les décisions sont adoptées à la majorité des deux tiers des membres présents et représentés ou des suffrages exprimés, selon les modalités fixées par les statuts.
+
+II. – Pour l'exercice des attributions autres que celles mentionnées au I du présent article, l'assemblée générale ne délibère valablement que si le nombre de ses membres présents, représentés ou ayant fait usage des facultés de vote par correspondance ou de vote électronique dans les conditions prévues par l'article L. 114-13, est au moins égal au quart du total des membres.
+
+Si, lors de la première convocation, l'assemblée générale n'a pas réuni le quorum fixé à l'alinéa précédent, une seconde assemblée générale peut être convoquée qui délibère valablement quel que soit le nombre de ses membres présents, représentés ou ayant fait usage des facultés de vote par correspondance ou de vote électronique dans les conditions prévues par l'article L. 114-13.
+
+Les décisions sont adoptées à la majorité simple des membres, ou des suffrages exprimés, selon les modalités fixées par les statuts.
+

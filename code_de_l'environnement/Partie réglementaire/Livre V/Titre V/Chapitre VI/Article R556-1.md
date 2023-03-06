@@ -1,0 +1,6 @@
+##### Article R556-1
+
+Lorsqu'un maître d'ouvrage est à l'origine d'un changement d'usage dans les conditions définies par l'article L. 556-1, il définit, le cas échéant sur la base d'une étude de sols comprenant les éléments mentionnés à l'article R. 556-2, les éventuelles mesures de gestion de la pollution des sols, y compris les eaux souterraines, qui permettent d'assurer la compatibilité entre l'état des sols et la protection des intérêts mentionnés au premier alinéa de l'article L. 556-1, au regard du nouvel usage projeté.
+
+Dès lors que l'un des nouveaux usages projetés est un usage d'accueil de populations sensibles, au sens du 6° du I de l'article D. 556-1 A, le maître d'ouvrage à l'initiative du changement d'usage transmet, pour information, l'attestation prévue à l'article L. 556-1 à l'inspection des installations classées et à l'Agence régionale de santé dans les quinze jours suivant sa réception par le maître d'ouvrage ou, au plus tard, le jour du dépôt de la demande de permis de construire ou d'aménager ou de la déclaration préalable. Dans le cas où une étude de sol a été réalisée, le maitre d'ouvrage la transmet à l'Agence régionale de santé si elle en fait la demande.
+

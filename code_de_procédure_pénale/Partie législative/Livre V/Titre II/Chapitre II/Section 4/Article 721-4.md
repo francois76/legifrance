@@ -1,0 +1,8 @@
+###### Article 721-4
+
+Une réduction de peine exceptionnelle, dont le quantum peut aller jusqu'au tiers de la peine prononcée, peut être accordée aux condamnés ayant permis, au cours de leur détention, y compris provisoire, d'éviter ou de mettre fin à toute action individuelle ou collective de nature à perturber gravement le maintien du bon ordre et la sécurité de l'établissement ou à porter atteinte à la vie ou à l'intégrité physique ou psychique des membres du personnel pénitentiaire ou des détenus de l'établissement. Dans le cas des condamnés à la réclusion criminelle à perpétuité, une réduction exceptionnelle du temps d'épreuve prévu au neuvième alinéa de l'article 729, dont le quantum peut aller jusqu'à cinq années, peut être accordée.
+
+Pour les condamnés exécutant une ou plusieurs peines privatives de liberté d'une durée totale supérieure à sept ans, ces réductions exceptionnelles sont accordées par le tribunal de l'application des peines, sur demande du condamné, sur saisine du chef d'établissement, sur réquisitions du procureur de la République ou à l'initiative du juge de l'application des peines dont relève le condamné en application de l'article 712-10, selon les modalités prévues à l'article 712-7.
+
+Pour les condamnés exécutant une ou plusieurs peines privatives de liberté d'une durée totale inférieure ou égale à sept ans, ces réductions exceptionnelles sont accordées, après avis de la commission de l'application des peines, par ordonnance motivée du juge de l'application des peines, agissant d'office, sur demande du condamné, sur saisine du chef d'établissement ou sur réquisitions du procureur de la République, selon les modalités prévues à l'article 712-4-1.
+

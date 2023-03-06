@@ -1,0 +1,8 @@
+###### Article L4311-26
+
+L'employeur amené à prendre une mesure de licenciement, révocation ou suspension d'activité d'une infirmière ou d'un infirmier salarié dont l'exercice professionnel expose les patients à un danger grave en informe sans délai le directeur général de l'agence régionale de santé et le représentant de l'Etat dans le département.
+
+En cas d'urgence, lorsque la poursuite par une infirmière ou un infirmier de son exercice professionnel expose ses patients à un danger grave, le directeur général de l'agence régionale de santé prononce la suspension immédiate du droit d'exercer pour une durée maximale de cinq mois. Il informe sans délai l'employeur de sa décision, que celui-ci ait été ou non à l'origine de sa saisine. Le directeur général de l'agence régionale de santé entend l'intéressé au plus tard dans un délai de trois jours suivant la décision de suspension.
+
+Le deuxième alinéa du présent article n'est pas applicable aux infirmiers et infirmières qui relèvent des dispositions de l'article L. 4138-2 du code de la défense.
+

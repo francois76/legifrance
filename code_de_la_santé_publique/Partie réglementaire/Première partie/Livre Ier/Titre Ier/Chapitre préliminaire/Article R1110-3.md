@@ -1,0 +1,8 @@
+###### Article R1110-3
+
+I. — Le professionnel relevant d'une des catégories de l'article R. 1110-2 souhaitant échanger des informations relatives à une personne prise en charge, au titre du II de l'article L. 1110-4, avec un professionnel relevant de l'autre catégorie, informe préalablement la personne concernée, d'une part, de la nature des informations devant faire l'objet de l'échange, d'autre part, soit de l'identité du destinataire et de la catégorie dont il relève, soit de sa qualité au sein d'une structure précisément définie.
+
+II. — Lorsqu'ils sont membres d'une même équipe de soins, les professionnels relevant d'une des catégories mentionnées à l'article R. 1110-2, partagent, avec ceux qui relèvent de l'autre catégorie, les informations relatives à une personne prise en charge dans les strictes limites de l'article R. 1110-1 et en informent préalablement la personne concernée. Ils tiennent compte, pour la mise en œuvre de ce partage, des recommandations élaborées par la Haute Autorité de santé avec le concours des ordres professionnels, en particulier pour ce qui concerne les catégories d'informations qui leur sont accessibles.
+
+III. — Lorsque la personne est hors d'état d'exprimer sa volonté, seule l'urgence ou l'impossibilité d'informer cette personne peut dispenser le professionnel ou la personne participant à sa prise en charge de l'obligation d'information préalable. La personne concernée est toutefois informée, dès que son état de santé le permet, de l'échange ou du partage des informations auquel il a été procédé. Il en est fait mention dans le dossier médical.
+

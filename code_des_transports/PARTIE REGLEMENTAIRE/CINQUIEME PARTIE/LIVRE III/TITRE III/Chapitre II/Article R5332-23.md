@@ -1,0 +1,8 @@
+###### Article R5332-23
+
+L'autorité portuaire est responsable de la mise en œuvre du plan de sûreté, sous réserve des obligations incombant à l'Etat.
+
+Le représentant de l'Etat dans le département contrôle la mise en œuvre des dispositions contenues dans le plan. Les militaires de la gendarmerie et les fonctionnaires et agents des services concourant à la sûreté des transports maritimes et des opérations portuaires l'informent des non-conformités constatées. Lorsqu'il est informé d'un défaut majeur de conformité, le représentant de l'Etat dans le département peut, sans préjudice des sanctions prévues à l'article R. 5336-2, imposer des mesures correctives à la charge de celle-ci. En l'absence de plan ou en cas d'insuffisance des mesures de sûreté à un poste d'accueil de navire non compris dans une installation portuaire, l'autorité portuaire établit à titre conservatoire une déclaration de sûreté telle que prévue par le code international pour la sûreté des navires et des installations portuaires adopté par l'Organisation maritime internationale le 12 décembre 2002, avec tout navire soumis à ce code y faisant escale.
+
+Le ministre chargé des transports ou le représentant de l'Etat dans le département peut réaliser un audit destiné à vérifier la conformité du plan à la réglementation en vigueur et la bonne mise en œuvre des conclusions de l'évaluation de sûreté. Cet audit peut être confié à un organisme de sûreté habilité. L'autorité portuaire autorise les personnes chargées de l'audit à accéder à l'ensemble des équipements intéressant la sûreté du port ainsi qu'aux documents relatifs à celle-ci. A l'issue de l'audit, elle soumet à l'approbation du représentant de l'Etat dans le département un plan comportant les actions correctrices nécessaires.
+

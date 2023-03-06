@@ -1,0 +1,4 @@
+##### Article L773-8
+
+Lorsqu'elle traite des requêtes relatives à la mise en œuvre de l'article 52 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, la formation de jugement se fonde sur les éléments contenus, le cas échéant, dans le traitement sans les révéler ni révéler si le requérant figure ou non dans le traitement. Toutefois, lorsqu'elle constate que le traitement ou la partie de traitement faisant l'objet du litige comporte des données à caractère personnel le concernant qui sont inexactes, incomplètes, équivoques ou périmées, ou dont la collecte, l'utilisation, la communication ou la conservation est interdite, elle en informe le requérant, sans faire état d'aucun élément protégé par le secret de la défense nationale. Elle peut ordonner que ces données soient, selon les cas, rectifiées, mises à jour ou effacées. Saisie de conclusions en ce sens, elle peut indemniser le requérant.
+

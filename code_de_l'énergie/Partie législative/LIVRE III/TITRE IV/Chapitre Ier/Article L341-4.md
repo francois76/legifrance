@@ -1,0 +1,16 @@
+##### Article L341-4
+
+Les gestionnaires des réseaux publics de transport et de distribution d'électricité mettent en œuvre des dispositifs permettant aux fournisseurs de proposer à leurs clients des prix différents suivant les périodes de l'année ou de la journée et incitant les utilisateurs des réseaux à limiter leur consommation pendant les périodes où la consommation de l'ensemble des consommateurs est la plus élevée.
+
+Dans le cadre du déploiement des dispositifs prévus au premier alinéa du présent article et en application de la mission fixée au 7° de l'article L. 322-8, les gestionnaires des réseaux publics de distribution d'électricité mettent à la disposition des consommateurs leurs données de comptage, des systèmes d'alerte liés au niveau de leur consommation, ainsi que des éléments de comparaison issus de moyennes statistiques basées sur les données de consommation locales et nationales. Un décret précise le contenu des données concernées ainsi que les modalités de leur mise à disposition.
+
+Dans le cadre de l'article L. 124-5, ils garantissent aux fournisseurs la possibilité d'accéder aux données de comptage de consommation, en aval du compteur et en temps réel, sous réserve de l'accord du consommateur.
+
+La fourniture des services mentionnés aux deuxième et troisième alinéas du présent article ne donne pas lieu à facturation.
+
+Les gestionnaires des réseaux publics de distribution d'électricité mettent à la disposition du propriétaire ou du gestionnaire de l'immeuble, dès lors qu'il en formule la demande et qu'il justifie de la mise en œuvre d'actions de maîtrise de la consommation d'énergie engagées pour le compte des consommateurs de l'immeuble, les données de comptage de consommation sous forme anonymisée et agrégée à l'échelle de l'immeuble. Les coûts résultant de l'agrégation des données de comptage ne peuvent être facturés au consommateur et peuvent être facturés au propriétaire ou au gestionnaire de l'immeuble, sur une base non lucrative. Un décret précise les modalités d'application du présent alinéa, notamment la nature des justifications devant être apportées par le propriétaire ou le gestionnaire de l'immeuble et les modalités de leur contrôle, ainsi que les caractéristiques des données de consommation communiquées.
+
+La structure et le niveau des tarifs d'utilisation des réseaux de transport et de distribution d'électricité sont fixés afin d'inciter les clients à limiter leur consommation aux périodes où la consommation de l'ensemble des consommateurs est la plus élevée. au niveau national. Ils peuvent également inciter les clients à limiter leur consommation aux périodes de pointe au niveau local. A cet effet, la structure et le niveau des tarifs d'utilisation des réseaux de transport et de distribution peuvent, sous réserve d'assurer la couverture de l'ensemble des coûts prévue à l'article L. 341-2 et de manière proportionnée à l'objectif de maîtrise des pointes électriques, s'écarter pour un consommateur de la stricte couverture des coûts de réseau qu'il engendre.
+
+Les cahiers des charges des concessions et les règlements de service des régies de distribution d'électricité doivent être en conformité avec les dispositions du présent article.
+

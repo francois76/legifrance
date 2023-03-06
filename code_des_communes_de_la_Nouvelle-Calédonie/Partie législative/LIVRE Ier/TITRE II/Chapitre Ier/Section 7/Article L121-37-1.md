@@ -1,0 +1,10 @@
+###### Article L121-37-1
+
+Les membres du conseil municipal bénéficient chaque année d'un droit individuel à la formation comptabilisé en francs CFP, dont le montant annuel est arrêté pour une période de trois ans, cumulable sur toute la durée du mandat. Il est financé par une cotisation obligatoire, dont le taux ne peut être inférieur à 1 %, assise sur leurs indemnités, dans les conditions prévues à l'article L. 1621-3 du code général des collectivités territoriales dans sa rédaction résultant de la loi n° 2021-771 du 17 juin 2021 ratifiant les ordonnances n° 2021-45 du 20 janvier 2021 et n° 2021-71 du 27 janvier 2021 portant réforme de la formation des élus locaux.
+
+Pour assurer le financement d'une formation, le droit individuel à la formation peut être complété, à la demande de son titulaire, par des abondements en droits complémentaires. Ces abondements peuvent être financés par le conseil municipal, selon les modalités définies à l'article L. 121-37 du présent code. La mise en œuvre du droit individuel à la formation relève de l'initiative de chacun des élus et peut concerner des formations sans lien avec l'exercice du mandat. Ces formations peuvent notamment contribuer à l'acquisition des compétences nécessaires à la réinsertion professionnelle à l'issue du mandat lorsque l'élu n'a pas liquidé ses droits à pension au titre de son activité professionnelle.
+
+Lorsqu'une formation contribue à sa réinsertion professionnelle, l'élu peut contribuer à son financement en mobilisant son compte personnel d'activité mentionné à l'article 22 ter de la loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires, lorsqu'il dispose de droits monétisables. Il peut également contribuer à son financement par un apport personnel augmentant les sommes engagées au titre de son droit individuel à la formation. Ces abondements n'entrent pas en compte dans les modes de calcul du montant des droits individuels à la formation des élus définis au premier alinéa du présent article.
+
+Un décret en Conseil d'Etat détermine les modalités de calcul, de plafonnement ainsi que de mise en œuvre du droit individuel à la formation.
+

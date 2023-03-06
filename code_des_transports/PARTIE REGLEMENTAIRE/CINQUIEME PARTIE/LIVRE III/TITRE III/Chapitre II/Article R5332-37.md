@@ -1,0 +1,4 @@
+###### Article R5332-37
+
+L'exploitant de l'installation portuaire met en place un dispositif destiné à n'autoriser l'accès dans la zone d'accès restreint qu'aux seules personnes, véhicules et marchandises autorisés. Lorsque la zone d'accès restreint est activée en permanence, il met en place et entretient une clôture. Lorsque la zone d'accès restreint est activée temporairement, la clôture est fixe ou mobile, selon les conclusions de l'évaluation de sûreté. L'exploitant matérialise les limites d'une zone d'accès restreint temporaire pour en rendre le périmètre identifiable. Pour chacune de ces zones, il prend les mesures de surveillance qui correspondent au niveau de sûreté fixé en application du règlement (CE) n° 725/2004 du 31 mars 2004 du Parlement européen et du Conseil du 31 mars 2004.
+

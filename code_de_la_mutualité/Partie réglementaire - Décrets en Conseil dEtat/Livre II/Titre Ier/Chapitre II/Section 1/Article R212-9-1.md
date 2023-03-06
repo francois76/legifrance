@@ -1,0 +1,6 @@
+###### Article R212-9-1
+
+Pour les mutuelles et unions régies par le présent livre et mentionnées à l'article L. 211-11, le montant du droit d'adhésion ne peut dépasser le rapport entre, d'une part, la marge de solvabilité mentionnée aux articles R. 334-5, R. 334-13 et R. 334-19 du code des assurances, d'autre part, le nombre de membres participants et honoraires constaté à la clôture de l'exercice sur lequel portent les comptes approuvés. Toutefois, lorsque la marge de solvabilité effectivement constituée est inférieure au montant minimal réglementaire, le premier terme de ce rapport est majoré du montant de cette insuffisance.
+
+Pour les mutuelles et unions mentionnées à l'article L. 211-10, le montant du droit d'adhésion ne peut dépasser le rapport entre, d'une part, le capital de solvabilité requis mentionné à l'article L. 352-1 du code des assurances, d'autre part, le nombre de membres participants et honoraires constaté à la clôture de l'exercice sur lequel portent les comptes approuvés. Toutefois, lorsque les fonds propres éligibles mentionnés à l'article L. 351-6 du code des assurances sont insuffisants pour couvrir le capital de solvabilité requis, le premier terme de ce rapport est majoré du montant de cette insuffisance.
+

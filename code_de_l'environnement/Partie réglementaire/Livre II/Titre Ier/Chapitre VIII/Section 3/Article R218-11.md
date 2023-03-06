@@ -1,0 +1,4 @@
+###### Article R218-11
+
+Dans les limites territoriales de compétence définies à l'article R. 218-6, les pouvoirs de réquisition prévus à l'article L. 218-72 sont exercés par le préfet maritime et par le préfet du département en particulier sur demande du président du directoire dans les grands ports maritimes, du directeur du port autonome, du président du conseil régional, du président du conseil départemental du maire concerné ou du président de l'organe délibérant d'un groupement de collectivités territoriales.
+

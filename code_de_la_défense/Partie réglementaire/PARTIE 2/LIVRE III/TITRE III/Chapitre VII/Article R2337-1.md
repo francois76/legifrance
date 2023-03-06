@@ -1,0 +1,6 @@
+###### Article R2337-1
+
+Afin de prévenir leur vol et leur détournement, les matériels de guerre de la catégorie A2, à l'exclusion des armes, munitions et de leurs éléments mentionnés aux 1° et 2° de cette catégorie, sont conservés dans un lieu dont les accès sont protégés par un dispositif de sécurité et de contrôle faisant obstacle à la manipulation et à l'enlèvement de ces matériels par une personne autre que celles désignées par les titulaires des autorisations mentionnées à l'article R. 2332-5 du présent code et aux articles R. 312-22, R. 312-23, R. 312-27 et R. 312-30 du code de la sécurité intérieure, pour l'exercice de leurs fonctions.
+
+En complément des mesures de sécurité mentionnées au premier alinéa, les matériels de guerre mentionnés aux 6°, 8°, 9° et 10° de la catégorie A2 sont conservés dans des locaux sécurisés par une alarme audible de la voie publique et par des moyens de protection physique adaptés. Leurs systèmes d'armes et armes embarqués doivent être rendus temporairement inutilisables, même en combinant plusieurs éléments, par enlèvement de l'un ou de plusieurs éléments de ces systèmes d'armes ou armes, lesquels sont conservés dans des coffres-forts ou des armoires fortes scellés dans les murs ou au sol, ou d'un poids à vide supérieur à 350 kilogrammes.
+

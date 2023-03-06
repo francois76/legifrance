@@ -1,0 +1,8 @@
+###### Article L1435-4-2
+
+Les agences régionales de santé peuvent conclure un contrat de début d'exercice avec un médecin qui exerce en tant que remplaçant ou avec un étudiant remplissant les conditions prévues à l'article L. 4131-2. La signature de ce contrat ouvre droit à une rémunération complémentaire aux revenus des activités de soins ainsi qu'à un accompagnement à l'installation, à condition que le lieu d'exercice soit sur les territoires mentionnés au deuxième alinéa du présent article ou dans une zone limitrophe de ceux-ci et que le début d'exercice date de moins d'un an.
+
+Le signataire s'engage, pendant une durée fixée par le contrat, à exercer ou à assurer une activité de remplacement dans un ou plusieurs cabinets médicaux dans les territoires définis par l'agence régionale de santé et caractérisés par une offre médicale insuffisante ou des difficultés dans l'accès aux soins pour la spécialité concernée. Une modification par l'agence régionale de santé de la définition des territoires caractérisés par une offre médicale insuffisante ou des difficultés dans l'accès aux soins pour la spécialité concernée est sans incidence sur les contrats en cours. Le signataire respecte les tarifs opposables.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment les durées minimales et maximales du contrat, les modalités de définition des zones limitrophes concernées et les dispositions particulières applicables aux zones isolées connaissant des afflux saisonniers de population ainsi qu'aux territoires d'outre-mer. Aucun autre contrat ne peut être conclu par le signataire sur le fondement du présent article pendant la durée du contrat. Ces contrats ne peuvent pas donner lieu à renouvellement.
+

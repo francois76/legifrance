@@ -1,0 +1,4 @@
+###### Article R352-34
+
+Lorsque les entreprises mentionnées à l'article L. 310-3-1, qui sont agréées pour pratiquer les opérations mentionnées au 1° de l'article L. 310-1, ne détiennent plus suffisamment de fonds propres éligibles pour couvrir leur capital de solvabilité requis ou leur minimum de capital requis ou qu'elles ont informé l'Autorité de contrôle prudentiel et de résolution, conformément aux dispositions prévues aux articles L. 352-7 et L. 352-8, qu'elles risquaient de se trouver dans une telle situation dans les trois prochains mois, elles peuvent, par dérogation aux dispositions prévues au chapitre III du titre IV du présent livre, dans la limite et jusqu'au rétablissement de leur couverture de minimum de capital requis et de capital solvabilité requis, transférer tout ou partie de leur réserve de capitalisation au compte " autres réserves ".
+

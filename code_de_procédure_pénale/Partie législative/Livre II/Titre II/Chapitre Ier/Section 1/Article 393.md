@@ -1,0 +1,14 @@
+###### Article 393
+
+En matière correctionnelle, lorsqu'il envisage de poursuivre une personne en application des articles 394,395 et 397-1-1, le procureur de la République ordonne qu'elle soit déférée devant lui.
+
+Après avoir, s'il y a lieu, informé la personne de son droit d'être assistée par un interprète, constaté son identité et lui avoir fait connaître les faits qui lui sont reprochés ainsi que leur qualification juridique, le procureur de la République l'informe qu'elle a le droit à l'assistance d'un avocat de son choix ou commis d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats en est avisé sans délai.
+
+L'avocat ou la personne déférée lorsqu'elle n'est pas assistée par un avocat peut consulter sur-le-champ le dossier. L'avocat peut communiquer librement avec le prévenu.
+
+Le procureur de la République avertit alors la personne de son droit de faire des déclarations, de répondre aux questions qui lui sont posées ou de se taire. Après avoir, le cas échéant, recueilli les observations de la personne ou procédé à son interrogatoire, le procureur de la République entend, s'il y a lieu, les observations de l'avocat, portant notamment sur la régularité de la procédure, sur la qualification retenue, sur le caractère éventuellement insuffisant de l'enquête, sur la nécessité de procéder à de nouveaux actes qu'il estime nécessaires à la manifestation de la vérité et sur les modalités d'engagement éventuel des poursuites ou le recours éventuel à la procédure de comparution sur reconnaissance préalable de culpabilité. Au vu de ces observations, le procureur de la République soit procède comme il est dit aux articles 394 à 396 et à l'article 397-1-1, soit requiert l'ouverture d'une information, soit ordonne la poursuite de l'enquête, soit prend toute autre décision sur l'action publique en application de l'article 40-1. S'il ordonne la poursuite de l'enquête et que la personne est à nouveau entendue, elle a le droit d'être assistée, lors de son audition, par son avocat, en application de l'article 63-4-3.
+
+Si le procureur de la République procède comme il est dit aux articles 394 à 397-1-1, il peut décider de fixer à la même audience, afin qu'elles puissent être jointes à la procédure ou examinées ensemble, de précédentes poursuites dont la personne a fait l'objet pour d'autres délits, à la suite d'une convocation par procès-verbal, par officier de police judiciaire ou en vue d'une comparution sur reconnaissance préalable de culpabilité, d'une citation directe, d'une ordonnance pénale ou d'une ordonnance de renvoi du juge d'instruction. Hors le cas de la comparution immédiate, cette décision doit intervenir au moins dix jours avant la date de l'audience. Le prévenu et son avocat en sont informés sans délai.
+
+Mention de ces formalités est faite au procès-verbal à peine de nullité de la procédure.
+

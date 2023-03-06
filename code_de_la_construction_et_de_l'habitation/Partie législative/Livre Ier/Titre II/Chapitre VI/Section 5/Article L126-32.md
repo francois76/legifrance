@@ -1,0 +1,6 @@
+###### Article L126-32
+
+Les personnes qui établissent les diagnostics de performance énergétique ou les audits énergétiques les transmettent à l'Agence de l'environnement et de la maîtrise de l'énergie. Ces informations sont transmises à des fins d'information, de contrôle, d'études statistiques, d'évaluation, d'amélioration méthodologique, de mise en œuvre et de suivi des politiques publiques touchant à la construction, aux bâtiments, aux logements, aux consommations énergétiques et aux performances environnementales. Ces données sont mises à disposition des collectivités territoriales et de leurs établissements publics, des organismes chargés de la liquidation et du paiement de l'aide personnelle au logement, de l'observatoire des logements indignes mentionné à l'article 3 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, des associations de lutte contre la précarité énergétique et de l'Agence nationale de l'habitat dans le cadre de l'exercice de ses missions. Les modalités de transmission et de mise à disposition de ces informations sont définies par décret en Conseil d'Etat.
+
+Ces informations ne peuvent pas être utilisées à des fins commerciales.
+

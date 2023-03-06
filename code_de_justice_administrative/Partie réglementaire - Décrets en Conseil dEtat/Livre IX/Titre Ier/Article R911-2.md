@@ -1,0 +1,4 @@
+#### Article R911-2
+
+En cas de rejet d'une réclamation adressée à l'autorité administrative et tendant à obtenir l'exécution d'une décision d'une juridiction administrative, seule une décision expresse fait courir les délais de recours contentieux.
+

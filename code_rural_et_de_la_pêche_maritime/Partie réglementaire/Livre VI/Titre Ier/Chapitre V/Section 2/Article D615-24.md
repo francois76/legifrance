@@ -1,0 +1,10 @@
+###### Article D615-24
+
+I.-Pour la région “ Hexagone ”, la valeur unitaire des droits au paiement est établie sur la base de la valeur unitaire initiale des droits au paiement calculée conformément au 2 de l'article 26 du règlement (UE) n° 1307/2013 du Parlement européen et du Conseil du 17 décembre 2013 et dans les conditions prévues par le présent article. La valeur unitaire initiale des droits au paiement prend en compte la totalité de l'aide à la qualité du tabac octroyée pour l'année civile 2014 en application de l'article D. 615-43-14.
+
+La valeur unitaire initiale des droits au paiement est établie dans les conditions prévues par le 1 de l'article 19 du règlement délégué (UE) n 639/2014 de la Commission du 11 mars 2014 lorsque les paiements directs au titre de l'année 2014, calculés avant application du taux d'ajustement fixé par le règlement d'exécution (UE) n° 1227/2014 de la Commission du 17 novembre 2014 fixant un taux d'ajustement des paiements directs prévu par le règlement (CE) n° 73/2009 du Conseil en ce qui concerne l'année civile 2014 et du taux de réduction relatif à la diminution des plafonds nationaux prévu par le règlement (UE) n° 1310/2013 du Parlement européen et du Conseil du 17 décembre 2013 établissant certaines dispositions transitoires relatives au soutien au développement rural par le Fonds européen agricole pour le développement rural (FEADER), sont inférieurs à 90 % des montants des mêmes paiements au titre de l'année précédant les années concernées par un cas de force majeure ou des circonstances exceptionnelles.
+
+II.-Les droits au paiement dont la valeur unitaire initiale est inférieure à la valeur unitaire régionale en 2019 voient leur valeur unitaire augmentée de 70 % de la différence entre leur valeur unitaire initiale et la valeur unitaire régionale en 2019, dans les conditions prévues au 4 de l'article 25 du règlement (UE) n° 1307/2013 du Parlement européen et du Conseil du 17 décembre 2013.
+
+La valeur unitaire initiale des droits au paiement de base mentionnés au 7 de l'article 25 de ce même règlement est réduite, de façon linéaire, de 30 % au maximum.
+

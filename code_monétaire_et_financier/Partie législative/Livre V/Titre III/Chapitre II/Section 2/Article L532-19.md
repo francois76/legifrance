@@ -1,0 +1,8 @@
+###### Article L532-19
+
+En vue d'exercer la surveillance d'un prestataire de services d'investissement bénéficiant du régime prévu à l'article L. 532-18-1, les autorités compétentes de l'Etat d'origine dont il relève peuvent exiger de ses succursales établies en France communication de toutes informations utiles à l'exercice de cette surveillance.
+
+Après information préalable de l'Autorité de contrôle prudentiel et de résolution, l'autorité compétente de l'Etat d'origine d'un prestataire de services d'investissement ayant des succursales situées sur le territoire de la France métropolitaine, de la Guadeloupe, de la Guyane, de la Martinique, de La Réunion, de Mayotte et de Saint-Martin peut, dans le cadre de ses missions de surveillance, procéder à des vérifications sur place de cette succursale, directement ou par l'intermédiaire de personnes que cette autorité mandate spécialement à cet effet. Les résultats de ces contrôles sont communiqués à l'Autorité de contrôle prudentiel et de résolution sans que les règles relatives au secret professionnel puissent être opposées. L'Autorité de contrôle prudentiel et de résolution informe, le cas échéant, l'Autorité des marchés financiers de ces contrôles et de leurs résultats.
+
+En outre, l'Autorité de contrôle prudentiel et de résolution et l'Autorité des marchés financiers procèdent, le cas échéant, aux vérifications sollicitées par les autorités compétentes de l'Etat d'origine.
+

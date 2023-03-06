@@ -1,0 +1,18 @@
+###### Article R452-11
+
+I. – Peuvent demander la reconnaissance de leur qualification professionnelle en vue de procéder à la restauration d'un bien faisant partie des collections des musées de France, pour des prestations effectuées dans le cadre d'un établissement en France, les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui sont titulaires ou attestent :
+
+1° D'un diplôme sanctionnant une formation de l'enseignement supérieur, délivré par les autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen, autre que la France, qui réglemente l'accès à l'activité de restauration des biens de collections de musées d'intérêt général ou son exercice, et permettant d'exercer légalement cette activité dans cet Etat ;
+
+2° D'un titre de formation délivré par un Etat tiers, qui a été reconnu dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen et qui leur a permis d'exercer légalement l'activité de restauration de biens de collections de musées d'intérêt général dans cet Etat pendant une période minimale de trois ans, à condition que cette expérience professionnelle soit certifiée par l'Etat dans lequel elle a été acquise ;
+
+3° De l'exercice de l'activité de restauration de biens de collections de musées d'intérêt général à temps plein pendant une année ou à temps partiel pendant une durée totale équivalente au cours des dix années précédentes, dans un Etat membre ou Etat partie à l'accord sur l'Espace économique européen, autre que la France, qui ne réglemente pas l'accès ou l'exercice de cette activité, à condition que les demandeurs détiennent un diplôme sanctionnant une formation de l'enseignement supérieur, délivré par les autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'Espace économique européen et attestant de leur préparation à l'exercice de cette activité. La condition d'exercice à temps plein pendant un an de l'activité de restauration des biens de collections d'intérêt général n'est pas exigée lorsque le diplôme détenu par le demandeur sanctionne une formation réglementée dans l'Etat d'origine.
+
+II. – Dans les cas prévus au présent article, l'intéressé adresse au ministre chargé de la culture une demande de reconnaissance de ses qualifications professionnelles.
+
+1° Si, au cours de l'instruction de cette demande, apparaissent des différences substantielles entre sa formation et celle requise en France, le ministre vérifie que les connaissances, aptitudes et compétences acquises par le demandeur au cours de son expérience professionnelle ou de l'apprentissage tout au long de la vie, et ayant fait l'objet, à cette fin, d'une validation en bonne et due forme par un organisme compétent, dans un Etat membre ou dans un pays tiers sont de nature à combler, en tout ou en partie, ces différences. Si tel n'est pas le cas, le ministre peut soumettre le demandeur à une mesure de compensation, consistant, au choix de ce dernier, soit en un stage d'adaptation, soit en une épreuve d'aptitude ;
+
+2° Si le demandeur est titulaire d'un certificat sanctionnant un cycle d'études secondaires au sens du b de l'article 11 de la directive 2005/36/CE du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, le ministre peut prescrire le stage d'adaptation ou l'épreuve d'aptitude ;
+
+3° Si l'intéressé est titulaire d'une attestation de compétence au sens du a de l'article 11 de la directive 2005/36/CE du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, le ministre peut refuser l'accès à la profession et son exercice au titulaire.
+

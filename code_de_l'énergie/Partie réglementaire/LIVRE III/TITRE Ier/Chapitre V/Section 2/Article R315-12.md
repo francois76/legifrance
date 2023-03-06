@@ -1,0 +1,8 @@
+###### Article R315-12
+
+Lorsqu'une opération d'autoconsommation collective réunit un organisme d'habitations à loyer modéré, au sens de l'article L. 411-2 du code de la construction et de l'habitation, et ses locataires, le bailleur :
+
+1° Informe les locataires concernés du projet d'autoconsommation collective par l'organisation d'une réunion spécifique, afin de leur apporter une information sur le projet, ses modalités de fonctionnement et ses conséquences pour les locataires souhaitant y participer. Après cette réunion, et un mois au moins avant la mise en œuvre du projet, un document contenant les informations mentionnées à l'article R. 315-13 est affiché à l'emplacement prévu à cet effet au sein de l'immeuble et remis individuellement à chaque locataire selon les modalités de communication habituellement utilisées par le bailleur. Ce document indique clairement que, durant le délai d'un mois suivant cette remise, tout locataire peut faire part au bailleur de son refus de participer à l'opération d'autoconsommation collective, dans les conditions prévues à l'article R. 315-14 ;
+
+2° Informe chaque nouveau locataire de l'existence d'une opération d'autoconsommation collective, par la remise, au plus tard lors de la signature du bail, d'un document reprenant les informations mentionnées à l'article R. 315-13. Le bail comporte une clause relative à l'existence d'une opération d'autoconsommation collective et mentionnant la remise de ce document. A compter de la signature du bail, le locataire dispose de quatorze jours pour faire part au bailleur de son refus de participer à l'opération d'autoconsommation collective, dans les conditions prévues à l'article R. 315-14.
+

@@ -1,0 +1,6 @@
+###### Article R2124-56-1
+
+I.-Le dossier de demande d'occupation ou d'utilisation du domaine public maritime naturel comprend, le cas échéant, la mention des demandes d'autorisation ou des déclarations déjà déposées pour le projet au titre d'une autre législation, avec la date de dépôt et l'autorité compétente, ainsi que la mention des demandes d'autorisation ou déclarations que le demandeur envisage de déposer par la suite pour ce même projet.
+
+II.-Lorsque l'autorité compétente pour délivrer un titre d'occupation ou d'utilisation du domaine public maritime naturel soumet le projet à un examen au cas par cas en application de l'article R. 122-2-1 du code de l'environnement, le délai qui lui est imparti pour se prononcer sur la demande est suspendu à compter de l'envoi de cette décision au demandeur. Dans ce cas, le demandeur transmet à l'autorité compétente la décision prise en application du IV de l'article R. 122 3-1 du code de l'environnement. La suspension du délai est levée à la réception, par l'autorité compétente, soit de la décision de ne pas prescrire d'évaluation environnementale prise en application du IV de l'article R. 122-3-1 du code de l'environnement, soit de l'étude d'impact prévue à l'article L. 122-1 du même code.
+

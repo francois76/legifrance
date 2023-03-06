@@ -1,0 +1,10 @@
+###### Article L2133-1
+
+Sur saisine de l'autorité ou de l'une des autorités organisatrices ayant attribué le ou les contrats de service public, de l'entreprise chargée de l'exécution de ce ou de ces contrats de service public, de l'État ou du gestionnaire d'infrastructure, l'Autorité de régulation des transports peut limiter ou interdire l'exercice du droit d'accès mentionné au I de l'article L. 2122-9 aux nouveaux services librement organisés de transport ferroviaire de voyageurs entre un lieu de départ donné et une destination donnée si l'exercice de ce droit est susceptible de compromettre l'équilibre économique d'un ou de plusieurs contrats de service public couvrant le même trajet ou un trajet alternatif.
+
+L'Autorité de régulation des transports est saisie dans un délai d'un mois à compter de la publication de la notification mentionnée à l'article L. 2121-12. Elle rend sa décision dans un délai de six semaines à compter de la réception de toutes les informations utiles à l'instruction, sur la base d'une analyse économique objective et de critères préétablis, et notifie cette décision au demandeur. Lorsqu'elle décide que le service de transport de voyageurs envisagé est susceptible de compromettre l'équilibre économique d'un contrat de service public, elle indique les changements qui pourraient être apportés à ce service afin que les conditions d'octroi du droit d'accès au réseau ferroviaire soient remplies.
+
+L'Autorité de régulation des transports précise les conditions dans lesquelles l'autorité organisatrice qui a attribué le ou les contrats de service public, l'entreprise ferroviaire qui exécute ce ou ces contrats de service public, l'État, le gestionnaire d'infrastructure ou l'entreprise ferroviaire ayant déclaré son intention d'assurer le service faisant l'objet de la décision peuvent demander le réexamen de ladite décision dans un délai d'un mois après sa notification.
+
+La décision de l'Autorité de régulation des transports est susceptible de recours devant le Conseil d'État.
+

@@ -1,0 +1,6 @@
+###### Article L4123-10
+
+Lorsque, par leur fait, les membres d'un conseil départemental mettent celui-ci dans l'impossibilité de fonctionner, le directeur général de l'agence régionale de santé, sur proposition du Conseil national de l'ordre, peut, par arrêté, prononcer la dissolution du conseil départemental. En cas de dissolution du conseil départemental ou en cas de démission de tous ses membres, il nomme, sur proposition du Conseil national de l'ordre, une délégation de trois à cinq membres suivant l'importance numérique du conseil. Cette délégation assure les fonctions du conseil départemental jusqu'à l'élection d'un nouveau conseil organisée sans délai par le Conseil national.
+
+En cas de démission de la majorité des membres de cette délégation, celle-ci est dissoute de plein droit et le Conseil national organise de nouvelles élections sans délai. Jusqu'à l'entrée en fonctions d'un nouveau conseil départemental, l'inscription au tableau de l'ordre est dans ce cas prononcée par le Conseil national de l'ordre, suivant la procédure prévue aux articles L. 4112-1 et suivants, après avis du médecin, du chirurgien-dentiste ou de la sage-femme désigné par le directeur général de l'agence régionale de santé. Toutes les autres attributions du conseil départemental sont alors dévolues au Conseil national.
+

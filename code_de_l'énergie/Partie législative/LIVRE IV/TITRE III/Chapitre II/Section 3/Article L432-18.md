@@ -1,0 +1,4 @@
+###### Article L432-18
+
+Pour les parties des canalisations, mentionnées au premier alinéa de l'article L. 432-17, situées à l'intérieur de la partie privative des logements, sauf lorsque le contrat de concession prévoit que le gestionnaire du réseau assure la maintenance et le renouvellement de ces canalisations, leur transfert au réseau public de distribution de gaz n'est effectif qu'après une visite de ces parties de canalisations, effectuée sous la responsabilité du gestionnaire du réseau, dans un délai de trois ans à compter de la notification prévue au 1° du même article L. 432-17 ou avant le 31 juillet 2026 en l'absence de ladite notification ou de revendication prévue au 2° dudit article L. 432-17, permettant de s'assurer de leur bon état de fonctionnement et se concluant par un procès-verbal de transfert.
+

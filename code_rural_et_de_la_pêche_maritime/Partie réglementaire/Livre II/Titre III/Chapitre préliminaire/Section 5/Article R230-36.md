@@ -1,0 +1,4 @@
+###### Article R230-36
+
+Le ministre chargé de l'alimentation peut, à la demande d'organisations interprofessionnelles reconnues en application de l'article R. 632-4, de fédérations professionnelles ou de syndicats professionnels représentants des entreprises de la production, de la transformation ou de la distribution d'une famille de produits agricoles ou alimentaires, ou, le cas échéant, d'une ou plusieurs entreprises qui justifient d'un impact significatif sur une famille de produits, accorder la reconnaissance de l'Etat à des accords collectifs par lesquels les opérateurs concernés s'engagent, par la fixation d'objectifs quantifiés, à l'amélioration de la qualité nutritionnelle et à la promotion des modes de production, de transformation et de distribution durables. Cette reconnaissance est rendue publique sur le site internet du ministère chargé de l'alimentation.
+

@@ -1,0 +1,10 @@
+##### Article D54-10-7
+
+Dès réception d'une demande d'agrément en application de l'article L. 54-10-5, l'Autorité des marchés financiers procède à son instruction. Elle peut demander au demandeur tous éléments d'information complémentaires nécessaires à l'instruction du dossier.
+
+Lorsque l'Autorité des marchés financiers sollicite l'avis de l'Agence nationale de la sécurité des systèmes d'information pour vérifier la sécurité des systèmes d'information des prestataires de services sur actifs numériques, l'Agence nationale de la sécurité des systèmes d'information transmet son avis dans un délai de deux mois à compter de la saisine. L'Autorité des marchés financiers transmet tout document utile à cet effet.
+
+L'Autorité des marchés financiers peut demander au demandeur de recourir à des produits évalués et certifiés dans les conditions prévues par le décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information ou de faire procéder à un audit de sécurité par un prestataire de service de confiance qualifié dans les conditions prévues par le décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité des systèmes d'information ou le décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9,10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives. L'Autorité des marchés financiers peut demander au demandeur le rapport d'audit établi par le prestataire de service de confiance qualifié et peut solliciter l'avis de l'Agence nationale de la sécurité des systèmes d'information sur ce rapport.
+
+L'Autorité des marchés financiers notifie sa décision au demandeur dans un délai de six mois à compter de la date de réception du dossier complet.
+
