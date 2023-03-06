@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://archeo-lex.fr/codes/code_des_pensions_militaires_d'invalidité_et_des_victimes_de_la_guerre
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "texte"]
+	remote = origin
+	merge = refs/heads/texte
