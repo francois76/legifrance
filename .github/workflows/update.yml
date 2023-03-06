@@ -58,6 +58,8 @@ jobs:
                 find $nom -type f ! -name 'Article*' -delete
                 sleep 1
                 git add .
+                git config --global user.name 'Github action'
+                git config --global user.email 'githube@users.noreply.github.com'
                 git commit -m "updating $nom";
                 git push
             fi
