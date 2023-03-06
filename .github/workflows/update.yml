@@ -39,7 +39,9 @@ jobs:
       - name: Download source files
         run: |
             nom=${{ matrix.nom}}
-            git subtree pull --prefix source/"$nom" "https://archeo-lex.fr/codes/$nom" texte --squash
+            cd source/"$nom"
+            mv git .git
+            git pull
             git add .
             if git commit -m "updating $nom";  then
                 echo "Le code $nom est déjà à jour"
