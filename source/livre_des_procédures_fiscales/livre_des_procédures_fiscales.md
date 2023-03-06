@@ -7591,6 +7591,10 @@ a) Au directeur interrégional des douanes et droits indirects ou, en Guadeloupe
 
 b) Au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des changes, dans les autres cas.
 
+##### Article R*247-6
+
+Les remises et transactions à titre gracieux relatives à la taxe mentionnée à l'article L. 255 A s'effectuent dans les conditions prévues aux articles 120 et 121 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+
 ##### Article R247-7
 
 La décision du directeur départemental des finances publiques, du directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, du directeur régional des douanes et droits indirects, ou du directeur chargé d'une direction spécialisée des finances publiques ou d'un service à compétence nationale, selon le cas, peut être soumise au ministre chargé du budget.
@@ -7822,6 +7826,10 @@ II.-Avant la transmission du résumé à la Commission européenne pour publicat
 #### Chapitre premier : Les procédures de recouvrement
 
 ##### Section I : Modalités de recouvrement et mesures préalables aux poursuites
+
+###### Article R*255 A-1
+
+Sans préjudice des dispositions de l'article R. * 247-6, sont applicables à la taxe mentionnée à l'article L. 255 A les articles 112 à 119,122 et 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 ###### Article R*256-1
 
