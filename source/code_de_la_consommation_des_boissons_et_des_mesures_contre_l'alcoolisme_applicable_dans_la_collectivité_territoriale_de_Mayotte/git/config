@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://archeo-lex.fr/codes/code_de_la_consommation_des_boissons_et_des_mesures_contre_l'alcoolisme_applicable_dans_la_collectivité_territoriale_de_Mayotte
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "texte"]
+	remote = origin
+	merge = refs/heads/texte
