@@ -1,2 +1,15 @@
 #!/bin/bash
-git submodule add "https://archeo-lex.fr/codes/$1" "source/$1"
+for fullNom in source/*; do
+    nom=$(basename $fullNom)
+    echo $nom
+    rm -rf "source/$nom"
+    cd source
+    git clone "https://archeo-lex.fr/codes/$nom"
+    cd "$nom"
+    mv .git git
+    cd ../..
+    git add .
+    git commit -m "adding $nom"
+    exit 0
+done
+git push
