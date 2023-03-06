@@ -9800,7 +9800,15 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
   <td>Résultant du décret n° 2017-207 du 20 février 2017</td>
  </tr>
  <tr>
-  <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35 et R. 122-37</td>
+  <td align="center">R. 122-25 à R. 122-29</td>
+  <td>Résultant du décret n° 2020-1591 du 16 décembre 2020</td>
+ </tr>
+ <tr>
+  <td align="center">R. 122-31, sauf son 1° et son 3°</td>
+  <td>Résultant du décret n° 2023-136 du 27 février 2023</td>
+ </tr>
+ <tr>
+  <td align="center">R. 122-32 à R. 122-35 et R. 122-37</td>
   <td>Résultant du décret n° 2020-1591 du 16 décembre 2020</td>
  </tr>
  <tr>
@@ -10077,7 +10085,15 @@ R. 114-3</center></td>
   <td>Résultant du décret n° 2017-207 du 20 février 2017</td>
  </tr>
  <tr>
-  <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35 et R. 122-37</td>
+  <td align="center">R. 122-25 à R. 122-29</td>
+  <td>Résultant du décret n° 2020-1591 du 16 décembre 2020</td>
+ </tr>
+ <tr>
+  <td align="center">R. 122-31, sauf son 1° et son 3°</td>
+  <td>Résultant du décret n° 2023-136 du 27 février 2023</td>
+ </tr>
+ <tr>
+  <td align="center">R. 122-32 à R. 122-35 et R. 122-37</td>
   <td>Résultant du décret n° 2020-1591 du 16 décembre 2020</td>
  </tr>
  <tr>
