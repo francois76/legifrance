@@ -42,6 +42,7 @@ jobs:
             cd source/"$nom"
             mv git .git
             git pull
+            mv .git git
             git add .
             if git commit -m "updating $nom";  then
                 echo "Le code $nom est déjà à jour"
