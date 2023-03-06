@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://archeo-lex.fr/codes/code_de_la_route_(ancien)
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "texte"]
+	remote = origin
+	merge = refs/heads/texte
