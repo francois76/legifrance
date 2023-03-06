@@ -2963,7 +2963,7 @@ Les règles relatives aux éléments taxables et aux territoires pour l'accise s
 
 ###### Article L314-2
 
-Sont soumis à l'accise les produits du tabac au sens de l'article L. 314-3 susceptibles d'être fumés au sens de l'article L. 314-4, mâchés au sens de l'article L. 314-5 ou prisés au sens de l'article L. 314-6.
+Sont soumis à l'accise les produits du tabac au sens de l'article L. 314-3 susceptibles d'être fumés au sens de l'article L. 314-4, inhalés après avoir été chauffés au sens de l'article L. 314-4-1, mâchés au sens de l'article L. 314-5 ou prisés au sens de l'article L. 314-6.
 
 ###### Article L314-3
 
@@ -2971,7 +2971,7 @@ Les produits du tabac s'entendent des produits qui contiennent l'une des substan
 
 1° Du tabac ;
 
-2° Des substances mélangées au tabac et susceptibles d'être fumées, prisées ou mâchées avec le tabac ;
+2° Des substances mélangées au tabac et susceptibles d'être fumées, inhalées après avoir été chauffées, prisées ou mâchées avec le tabac ;
 
 3° Des substances autres que le tabac susceptibles d'être fumées et qui ne sont pas à usage médical.
 
@@ -2998,6 +2998,16 @@ Un produit est susceptible d'être prisé par le consommateur final lorsqu'il r�
 2° Il est conditionné pour la vente au détail ;
 
 3° Il est spécialement préparé pour être prisé.
+
+###### Article L314-4-1
+
+Un produit est susceptible d'être inhalé après avoir été chauffé lorsqu'il répond aux conditions cumulatives suivantes :
+
+1° Il est coupé et fractionné ;
+
+2° Il est conditionné pour la vente au détail ;
+
+3° Il est spécialement préparé pour être chauffé au moyen d'un dispositif dédié afin de produire une émission susceptible d'être inhalée par le consommateur final.
 
 ##### Section 2 : Fait générateur
 
@@ -3089,9 +3099,23 @@ b) Plus de 25 % en poids des particules de tabac présentent une largeur de coup
 
 2° Les produits assimilés à ceux mentionnés au 1°, qui sont les produits constitués partiellement ou exclusivement d'autres substances que le tabac et qui répondent aux autres conditions mentionnées au même 1°.
 
+######## Article L314-15-1
+
+La catégorie fiscale des tabacs à chauffer commercialisés en bâtonnets comprend les produits qui répondent aux conditions cumulatives suivantes :
+
+1° Ils sont susceptibles d'être inhalés après avoir été chauffés par le consommateur final au sens de l'article L. 314-4-1, sans être susceptibles d'être fumés par ce dernier au sens de l'article L. 314-4 ;
+
+2° Ils ne sont pas spécialement préparés pour être utilisés au moyen de pipes à eau ;
+
+3° Ils sont commercialisés sous la forme de bâtonnets d'une longueur qui n'excède pas 45 millimètres, filtre inclus, et d'un diamètre qui n'excède pas 7 millimètres, dans lesquels le poids des substances mentionnées aux 1° et 2° de l'article L. 314-3 n'excède pas 265 milligrammes.
+
+######## Article L314-15-2
+
+La catégorie fiscale des autres tabacs à chauffer comprend les produits qui répondent aux conditions prévues aux 1° et 2° de l'article L. 314-15-1 sans répondre à celle prévue au 3° du même article L. 314-15-1.
+
 ######## Article L314-16
 
-La catégorie fiscale des autres tabacs à fumer comprend les produits du tabac susceptibles d'être fumés par le consommateur final au sens de l'article L. 314-4 qui ne relèvent d'aucune des trois catégories fiscales définies respectivement aux articles L. 314-13, L. 314-14, L. 314-15.
+La catégorie fiscale des autres tabacs à fumer ou à inhaler après avoir été chauffés comprend les produits susceptibles d'être fumés ou inhalés après avoir été chauffés, au sens, respectivement, des articles L. 314-4 et L. 314-4-1, autres que ceux relevant de l'une des catégories fiscales définies aux articles L. 314-13 à L. 314-15-2.
 
 ######## Article L314-17
 
@@ -3109,7 +3133,9 @@ L'unité de taxation de l'accise s'entend :
 
 1° Pour les produits relevant des catégories fiscales des cigares et cigarillos et des cigarettes, du millier d'unités comptabilisées dans les conditions prévues à l'article L. 314-20 ;
 
-2° Pour les produits relevant des catégories fiscales des tabacs fine coupe destinés à rouler les cigarettes, des autres tabacs à fumer, des tabacs à mâcher et des tabacs à priser, de la masse de tabac et des substances à fumer exprimée en milliers de grammes.
+2° Pour les produits relevant des catégories fiscales des tabacs fine coupe destinés à rouler les cigarettes, des autres tabacs à chauffer, des autres tabacs à fumer ou à inhaler après avoir été chauffés, des tabacs à mâcher et des tabacs à priser, de la masse de tabac et des substances à fumer exprimée en milliers de grammes ;
+
+3° Pour les produits relevant des catégories fiscales des tabacs à chauffer commercialisés en bâtonnets, du millier de bâtonnets répondant aux critères mentionnés au 3° de l'article L. 314-15-1.
 
 ######## Article L314-20
 
@@ -3153,74 +3179,102 @@ Lorsque le montant d'un tarif, d'un taux ou d'un minima de perception n'est pas 
 
 ####### Article L314-24
 
-Les tarifs, taux et minima de perception de l'accise exigible en métropole, pour chaque catégorie fiscale sont, en 2022, les suivants :
+Les tarifs, taux et minima de perception de l'accise exigible en métropole, pour chaque catégorie fiscale sont, pour la période courant du 1er mars 2023 au 31 décembre 2023, les suivants :
 
 <table border="1"><tbody>
  <tr>
-  <th>CATÉGORIE FISCALE</th>
-  <th>PARAMÈTRES DE L'ACCISE</th>
-  <th>MONTANT EN 2022</th>
+  <th>Catégorie fiscale</th>
+  <th>Paramètres de l'accise</th>
+  <th>Montant applicable
+
+du 1er mars 2023 au 31 décembre 2023</th>
  </tr>
  <tr>
-  <td align="center" rowspan="3">Cigares et cigarillos</td>
-  <td align="center">Taux (%)</td>
+  <td rowspan="3">Cigares et cigarillos</td>
+  <td>Taux (en %)</td>
   <td align="center">36,3</td>
  </tr>
  <tr>
-  <td align="center">Tarif (€/1 000 unités)</td>
-  <td align="center">48,7</td>
+  <td>Tarif (en €/1 000 unités)</td>
+  <td align="center">52,2</td>
  </tr>
  <tr>
-  <td align="center">Minimum de perception (€/1 000 unités)</td>
-  <td align="center">268,9</td>
+  <td>Minimum de perception (en €/1 000 unités)</td>
+  <td align="center">288</td>
  </tr>
  <tr>
-  <td align="center" rowspan="3">Cigarettes</td>
-  <td align="center">Taux (%)</td>
+  <td rowspan="3">Cigarettes</td>
+  <td>Taux (en %)</td>
   <td align="center">55</td>
  </tr>
  <tr>
-  <td align="center">Tarif (€/1 000 unités)</td>
-  <td align="center">63,6</td>
+  <td>Tarif (en €/1 000 unités)</td>
+  <td align="center">68,1</td>
  </tr>
  <tr>
-  <td align="center">Minimum de perception (€/1 000 unités)</td>
-  <td align="center">336,7</td>
+  <td>Minimum de perception (en €/1 000 unités)</td>
+  <td align="center">360,6</td>
  </tr>
  <tr>
-  <td align="center" rowspan="3">Tabacs fine coupe destinés à rouler les cigarettes</td>
-  <td align="center">Taux (%)</td>
+  <td rowspan="3">Tabacs fine coupe destinés à rouler les cigarettes</td>
+  <td>Taux (en %)</td>
   <td align="center">49,1</td>
  </tr>
  <tr>
-  <td align="center">Tarif (€/1 000 grammes)</td>
-  <td align="center">83,5</td>
+  <td>Tarif (en €/1 000 grammes)</td>
+  <td align="center">91,7</td>
  </tr>
  <tr>
-  <td align="center">Minimum de perception (€/1 000 grammes)</td>
-  <td align="center">305,3</td>
+  <td>Minimum de perception (en €/1 000 grammes)</td>
+  <td align="center">335,3</td>
  </tr>
  <tr>
-  <td align="center" rowspan="3">Autres tabacs à fumer</td>
-  <td align="center">Taux (%)</td>
+  <td rowspan="3">Tabacs à chauffer commercialisés en bâtonnets</td>
+  <td>Taux (en %)</td>
   <td align="center">51,4</td>
  </tr>
  <tr>
-  <td align="center">Tarif (€/1 000 grammes)</td>
-  <td align="center">31,4</td>
+  <td>Tarif (en €/1 000 unités)</td>
+  <td align="center">19,3</td>
  </tr>
  <tr>
-  <td align="center">Minimum de perception (€/1 000 grammes)</td>
-  <td align="center">135,5</td>
+  <td>Minimum de perception (en €/1 000 unités)</td>
+  <td align="center">232</td>
  </tr>
  <tr>
-  <td align="center">Tabacs à priser</td>
-  <td align="center">Taux (%)</td>
+  <td rowspan="3">Autres tabacs à chauffer</td>
+  <td>Taux (en %)</td>
+  <td align="center">51,4</td>
+ </tr>
+ <tr>
+  <td>Tarif (en €/1 000 grammes)</td>
+  <td align="center">72,7</td>
+ </tr>
+ <tr>
+  <td>Minimum de perception (en €/1 000 grammes)</td>
+  <td align="center">875,5</td>
+ </tr>
+ <tr>
+  <td rowspan="3">Autres tabacs à fumer ou à inhaler après avoir été chauffés</td>
+  <td>Taux (en %)</td>
+  <td align="center">51,4</td>
+ </tr>
+ <tr>
+  <td>Tarif (en €/1 000 grammes)</td>
+  <td align="center">33,6</td>
+ </tr>
+ <tr>
+  <td>Minimum de perception (en €/1 000 grammes)</td>
+  <td align="center">145,1</td>
+ </tr>
+ <tr>
+  <td>Tabacs à priser</td>
+  <td>Taux (en %)</td>
   <td align="center">58,1</td>
  </tr>
  <tr>
-  <td align="center">Tabacs à mâcher</td>
-  <td align="center">Taux (%)</td>
+  <td>Tabacs à mâcher</td>
+  <td>Taux (en %)</td>
   <td align="center">40,7</td>
  </tr>
 </tbody></table>
@@ -3235,98 +3289,115 @@ Par dérogation à l'article L. 314-24, pour les produits fournis à la vente au
 
 <table border="1"><tbody>
  <tr>
-  <th>CATÉGORIE FISCALE</th>
-  <th>PARAMÈTRES DE L'ACCISE</th>
-  <th>MONTANT
+  <th>Catégorie fiscale</th>
+  <th>Paramètres de l'accise</th>
+  <th>Montant applicable
 
-EN 2022</th>
-  <th>MONTANT
+du 1er mars 2023
 
-EN 2023</th>
-  <th>MONTANT
+au 31 décembre 2023</th>
+  <th>Montant
 
-EN 2024</th>
-  <th>MONTANT
+en 2024</th>
+  <th>Montant
 
-EN 2025</th>
+en 2025</th>
  </tr>
  <tr>
-  <td align="center" rowspan="2">Cigares et cigarillos</td>
-  <td align="center">Taux (%)</td>
-  <td align="center">28,1</td>
+  <td rowspan="2">Cigares et cigarillos</td>
+  <td>Taux (en %)</td>
   <td align="center">30,2</td>
-  <td align="center">32,4</td>
-  <td align="center">34,5</td>
+  <td align="center">32,2</td>
+  <td align="center">34,3</td>
  </tr>
  <tr>
-  <td align="center">Tarif (€/1 000 unités)</td>
-  <td align="center">45,8</td>
-  <td align="center">45,9</td>
-  <td align="center">46,1</td>
-  <td align="center">46,2</td>
- </tr>
- <tr>
-  <td align="center" rowspan="2">Cigarettes</td>
-  <td align="center">Taux (%)</td>
-  <td align="center">50,4</td>
-  <td align="center">51,5</td>
-  <td align="center">52,7</td>
-  <td align="center">53,8</td>
- </tr>
- <tr>
-  <td align="center">Tarif (€/1 000 unités)</td>
-  <td align="center">50,8</td>
+  <td>Tarif (en €/1 000 unités)</td>
+  <td align="center">48,4</td>
+  <td align="center">51,1</td>
   <td align="center">53,7</td>
-  <td align="center">56,8</td>
-  <td align="center">58,9</td>
  </tr>
  <tr>
-  <td align="center" rowspan="2">Tabacs fine coupe destinés à rouler les cigarettes</td>
-  <td align="center">Taux (%)</td>
-  <td align="center">38,3</td>
-  <td align="center">41,0</td>
+  <td rowspan="2">Cigarettes</td>
+  <td>Taux (en %)</td>
+  <td align="center">51,6</td>
+  <td align="center">52,7</td>
+  <td align="center">53,9</td>
+ </tr>
+ <tr>
+  <td>Tarif (en €/1 000 unités)</td>
+  <td align="center">56,5</td>
+  <td align="center">62,2</td>
+  <td align="center">67,9</td>
+ </tr>
+ <tr>
+  <td rowspan="2">Tabacs fine coupe destinés à rouler les cigarettes</td>
+  <td>Taux (en %)</td>
+  <td align="center">41</td>
   <td align="center">43,7</td>
   <td align="center">46,4</td>
  </tr>
  <tr>
-  <td align="center">Tarif (€/1 000 grammes)</td>
-  <td align="center">63,3</td>
-  <td align="center">68,0</td>
-  <td align="center">72,8</td>
-  <td align="center">77,5</td>
+  <td>Tarif (en €/1 000 grammes)</td>
+  <td align="center">74</td>
+  <td align="center">84,7</td>
+  <td align="center">95,4</td>
  </tr>
  <tr>
-  <td align="center" rowspan="2">Autres tabacs à fumer</td>
-  <td align="center">Taux (en %)</td>
-  <td align="center">43,3</td>
+  <td rowspan="2">Autres tabacs à fumer ou à inhaler</td>
+  <td>Taux (en %)</td>
   <td align="center">45,4</td>
-  <td align="center">47,5</td>
-  <td align="center">50,0</td>
+  <td align="center">47,4</td>
+  <td align="center">49,4</td>
  </tr>
  <tr>
-  <td align="center">Tarif (€/1 000 grammes)</td>
-  <td align="center">20,0</td>
-  <td align="center">22,3</td>
-  <td align="center">24,7</td>
-  <td align="center">27,0</td>
+  <td>Tarif (en €/1 000 grammes)</td>
+  <td align="center">24</td>
+  <td align="center">28,2</td>
+  <td align="center">32,2</td>
  </tr>
  <tr>
-  <td align="center">Tabacs à priser</td>
-  <td align="center">Taux (%)</td>
-  <td align="center">46,2</td>
+  <td rowspan="2">Tabacs à chauffer commercialisés en bâtonnets</td>
+  <td>Taux (en %)</td>
+  <td align="center">45,3</td>
+  <td align="center">47,4</td>
+  <td align="center">49,4</td>
+ </tr>
+ <tr>
+  <td>Tarif (en €/1 000 unités)</td>
+  <td align="center">19,3</td>
+  <td align="center">30,2</td>
+  <td align="center">41,1</td>
+ </tr>
+ <tr>
+  <td rowspan="2">Autres tabacs à chauffer</td>
+  <td>Taux (en %)</td>
+  <td align="center">45,3</td>
+  <td align="center">47,4</td>
+  <td align="center">49,4</td>
+ </tr>
+ <tr>
+  <td>Tarif (en €/1 000 grammes)</td>
+  <td align="center">72,8</td>
+  <td align="center">114</td>
+  <td align="center">155</td>
+ </tr>
+ <tr>
+  <td>Tabacs à priser</td>
+  <td>Taux (en %)</td>
   <td align="center">49,3</td>
   <td align="center">52,3</td>
   <td align="center">55,4</td>
  </tr>
  <tr>
-  <td align="center">Tabacs à mâcher</td>
-  <td align="center">Taux (%)</td>
-  <td align="center">32,8</td>
+  <td>Tabacs à mâcher</td>
+  <td>Taux (en %)</td>
   <td align="center">34,9</td>
   <td align="center">36,9</td>
   <td align="center">39,0</td>
  </tr>
 </tbody></table>
+
+Par dérogation à l'article L. 314-24, le minimum de perception est nul.
 
 Pour les produits relevant de la catégorie fiscale des cigarettes, le présent article s'applique aux seules 1 200 premières tonnes fournies chaque année civile.
 
@@ -3359,8 +3430,6 @@ Les règles relatives à l'exigibilité de l'accise sur les tabacs sont détermi
 ###### Article L314-29
 
 En cas de changement d'un taux, tarif ou minimum de perception mentionné à l'article L. 314-21, l'accise devient exigible pour les produits détenus en dehors d'un régime de suspension de l'accise par une personne qui ne les destine pas à sa consommation propre.
-
-Cette disposition ne s'applique pas aux changements de tarifs et de minima de perception résultant des seuls deux derniers alinéas de l'article L. 314-24.
 
 ##### Section 5 : Personnes soumises aux obligations fiscales
 
