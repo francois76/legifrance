@@ -22,7 +22,7 @@ jobs:
     needs: prepare
     strategy:
       matrix:
-        nom: "${{ fromJson(needs.prepare.outputs.STRINGS) }}"
+        nom: "${{ fromJson(needs.prepare.outputs.STRINGS)  | replace("(", "\(") | replace(")", "\)") }}"
     steps:
       - name: Setup Python environment
         uses: actions/setup-python@v2
