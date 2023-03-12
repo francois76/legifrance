@@ -24,12 +24,12 @@ jobs:
       matrix:
         nom: "${{ fromJson(needs.prepare.outputs.STRINGS) }}"
     steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
           cache: 'pip' # caching pip dependencies
-      - name: Checkout current repo
-        uses: actions/checkout@v3
       - name: Install mdsplit
         run: |
           pip install -r requirements.txt
