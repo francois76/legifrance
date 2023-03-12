@@ -29,7 +29,7 @@ jobs:
         with:
           python-version: "3.9"
       - name: Checkout current repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Install mdsplit
         run: |
           curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
@@ -48,9 +48,6 @@ jobs:
             cd ../..
             git add .
             if git commit -m "updating $nom";  then
-                echo "Le code $nom est déjà à jour"
-                exit 0
-            else
                 mkdir source_md/"$nom"
                 sed -E 's/(#{6})#{1,}/\1/g' source/"$nom"/"$nom".md > source_md/"$nom"/"$nom"_1.md
                 sed -E 's/^#(#*) ([^:]+) :.*/#\1 \2/' source_md/"$nom"/"$nom"_1.md > source_md/"$nom"/"$nom".md
@@ -63,4 +60,7 @@ jobs:
                 git commit -m "updating $nom" || true;
                 git pull --rebase || true
                 git push || true
+            else
+                echo "Le code $nom est déjà à jour"
+                exit 0
             fi
