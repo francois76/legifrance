@@ -18,7 +18,7 @@ V-2.1. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'�
 
 (Articles 611-22 et suivants)
 
-I. - Edition ou à la réédition d'une œuvre déterminée :
+I.-Edition ou à la réédition d'une œuvre déterminée :
 
 1° Un budget détaillé ;
 
@@ -30,7 +30,7 @@ I. - Edition ou à la réédition d'une œuvre déterminée :
 
 6° Un moyen de visionnage de l'œuvre.
 
-II. - Edition d'un programme d'œuvres :
+II.-Edition d'un programme d'œuvres :
 
 1° Pour les œuvres cinématographiques, la justification de l'inscription au registre public du cinéma et de l'audiovisuel du contrat d'acquisition des droits d'édition vidéographique, ou, si l'éditeur est producteur du programme, du contrat entre le producteur et l'auteur faisant mention de la cession de ces droits ;
 
@@ -48,7 +48,7 @@ V-3.1. Documents justificatifs à joindre à l'appui d'une demande d'allocation 
 
 Autorisation d'investissement :
 
-1° Les factures et/ou extraits du Grand Livre relatifs à chacune des œuvres cinématographiques datés, signés et revêtus du cachet de l'entreprise, ou relatifs aux dépenses liées à l'amélioration de la qualité éditoriale et de l'ergonomie de l'offre proposée et des modalités d'accès aux œuvres ;
+1° Les factures et/ ou extraits du Grand Livre relatifs à chacune des œuvres cinématographiques datés, signés et revêtus du cachet de l'entreprise, ou relatifs aux dépenses liées à l'amélioration de la qualité éditoriale et de l'ergonomie de l'offre proposée et des modalités d'accès aux œuvres ;
 
 2° En cas de coûts internes, un relevé détaillé de ces coûts, soit certifié par un expert-comptable ou un commissaire aux comptes lorsque le montant des sommes investies est supérieur ou égal à 100 000 €, soit certifié par le responsable financier de l'entreprise lorsque ce montant est inférieur à 100 000 € ;
 
@@ -146,7 +146,7 @@ VI-8.1. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'
 
 (Articles 631-6 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -162,7 +162,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -176,7 +176,7 @@ VI-8.2. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'
 
 (Articles 631-8 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -192,7 +192,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires relatifs à l'investissement dit de référence ;
 
@@ -206,7 +206,7 @@ VI-8.3. Documents justificatifs à joindre à l'appui d'une demande d'aide à la
 
 (Articles 631-10 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -222,7 +222,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -234,7 +234,7 @@ VI-8.4. Documents justificatifs à joindre à l'appui d'une demande d'aide à la
 
 (Articles 631-12 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -250,7 +250,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -264,7 +264,7 @@ VI-8.5. Documents justificatifs à joindre à l'appui d'une demande d'aide aux p
 
 (Articles 631-14 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -280,7 +280,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -292,7 +292,7 @@ VI-8.6. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'
 
 (Articles 631-16 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -308,7 +308,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -322,7 +322,7 @@ VI-8.7. Documents justificatifs à joindre à l'appui d'une demande d'aide à la
 
 (Articles 631-18 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -338,7 +338,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -350,7 +350,7 @@ VI-8.8. Documents justificatifs à joindre à l'appui d'une demande d'aide à la
 
 (Articles 631-20 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -366,7 +366,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Un état de l'art commercial faisant ressortir les atouts de l'entreprise et du nouveau produit ou service par rapport à la concurrence ;
 
@@ -388,7 +388,7 @@ VI-8.9. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'
 
 (Articles 631-23 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -404,17 +404,17 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
-1° Un schéma avant/après faisant figurer explicitement l'innovation de procédé et/ou d'organisation au sein de l'entreprise ;
+1° Un schéma avant/ après faisant figurer explicitement l'innovation de procédé et/ ou d'organisation au sein de l'entreprise ;
 
 2° Un calendrier des tâches ;
 
-3° Une annexe technique et/ou commerciale complémentaire ;
+3° Une annexe technique et/ ou commerciale complémentaire ;
 
 4° Eventuellement, des informations complémentaires sur le projet ;
 
 5° Eventuellement, des éléments visuels permettant de mieux apprécier le projet ;
 
-6° Lorsque la demande implique une modification dans la mise en relation de l'entreprise avec ses partenaires ou ses clients, un schéma avant/après faisant figurer précisément l'évolution de la productivité de l'entreprise grâce à cette modification.
+6° Lorsque la demande implique une modification dans la mise en relation de l'entreprise avec ses partenaires ou ses clients, un schéma avant/ après faisant figurer précisément l'évolution de la productivité de l'entreprise grâce à cette modification.
 

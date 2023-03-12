@@ -1,6 +1,6 @@
 ###### Article 411-44
 
-I. - Les aides au programme de production sont attribuées en considération :
+I.-Les aides au programme de production sont attribuées en considération :
 
 1° D'une part, d'une analyse quantitative de l'activité de production, au regard des critères suivants :
 
@@ -18,7 +18,7 @@ c) La relation avec les auteurs ;
 
 d) La stratégie de l'entreprise.
 
-II. - Les analyses quantitative et qualitative sont effectuées au moyen d'un nombre de points attribués à l'entreprise de production :
+II.-Les analyses quantitative et qualitative sont effectuées au moyen d'un nombre de points attribués à l'entreprise de production :
 
 1° L'analyse quantitative est effectuée au moyen d'un barème de 100 points prévu à l'article 411-45.
 

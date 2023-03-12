@@ -2,19 +2,19 @@
 
 Les coefficients applicables au titre des œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant sont déterminés dans les conditions suivantes :
 
-I. - Les œuvres sont réparties en deux groupes :
+I.-Les œuvres sont réparties en deux groupes :
 
 1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 400 000 € ;
 
 2° Deuxième groupe : œuvres dont le montant des dépenses horaires françaises est inférieur à 400 000 € et supérieur ou égal à 54 000 €.
 
-II. - Les coefficients appliqués à la durée des œuvres sont les suivants :
+II.-Les coefficients appliqués à la durée des œuvres sont les suivants :
 
 1° Premier groupe : 3 ;
 
 2° Deuxième groupe : le coefficient varie entre 3 et 0,54 proportionnellement au montant des dépenses horaires françaises. Ce coefficient est arrondi aux quatre chiffres après la virgule.
 
-III - Pour les adaptations audiovisuelles de spectacle vivant consistant dans l'enregistrement dans sa continuité de l'intégralité d'un spectacle vivant préexistant donné sur scène en présence du public mais ne donnant pas lieu à au moins deux sessions d'enregistrement de ce spectacle dans son intégralité au moyen d'un dispositif technique multi-caméra, les coefficients prévus au II sont réduits de 30 %.
+III-Pour les adaptations audiovisuelles de spectacle vivant consistant dans l'enregistrement dans sa continuité de l'intégralité d'un spectacle vivant préexistant donné sur scène en présence du public mais ne donnant pas lieu à au moins deux sessions d'enregistrement de ce spectacle dans son intégralité au moyen d'un dispositif technique multi-caméra, les coefficients prévus au II sont réduits de 30 %.
 
 Toutefois, cette réduction ne s'applique pas lorsque les trois conditions suivantes sont remplies :
 
