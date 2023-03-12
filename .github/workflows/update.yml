@@ -61,5 +61,5 @@ jobs:
                 sleep 1
                 git add .
                 git commit -m "updating $nom";
-                git pull push
+                git pull push || true
             fi
