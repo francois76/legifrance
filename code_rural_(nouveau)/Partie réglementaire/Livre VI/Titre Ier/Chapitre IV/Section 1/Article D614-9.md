@@ -1,6 +1,6 @@
 ###### Article D614-9
 
-Pour l'application des régimes d'aide relevant de la politique agricole commune, est considéré comme hectare admissible toute surface à la disposition de l'agriculteur du 1er janvier au 31 juillet de l'année au cours de laquelle l'aide est demandée, et qui est utilisée aux fins d'une activité agricole ou essentiellement aux fins d'une activité agricole ou qui répond aux conditions mentionnées au b paragraphe 4 de l'article 4 du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021.
+Pour l'application des régimes d'aide relevant de la politique agricole commune, est considéré comme hectare admissible toute surface qui est utilisée aux fins d'une activité agricole ou essentiellement aux fins d'une activité agricole ou qui répond aux conditions mentionnées au b paragraphe 4 de l'article 4 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021 entre le 1er janvier et le 31 juillet de l'année au cours de laquelle l'aide est demandée, et qui est à la disposition de l'agriculteur à la date limite de dépôt des demandes d'aide de l'année de la déclaration.
 
 Sont regardés comme hectare admissible les espaces en sol nu à l'intérieur d'un îlot, destinés à la circulation normale et habituelle des engins agricoles.
 
