@@ -31,11 +31,10 @@ jobs:
           python-version: '3.9'
           cache: 'pip' # caching pip dependencies
       - name: Install mdsplit
-        run: |
-          pip install -r requirements.txt
-          mkdir -p source_md/
+        run: pip install -r requirements.txt
       - name: Download source files
         run: |
+            mkdir -p source_md/
             nom="${{ matrix.nom}}"
             git config --global user.name 'Github action'
             git config --global user.email 'github@users.noreply.github.com'
