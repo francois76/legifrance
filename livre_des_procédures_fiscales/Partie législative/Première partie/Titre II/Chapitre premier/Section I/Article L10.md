@@ -1,4 +1,4 @@
-###### Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article
+###### Article L10
 
 L'administration des impôts contrôle les déclarations ainsi que les actes utilisés pour l'établissement des impôts, droits, taxes et redevances.
 
