@@ -1,0 +1,6 @@
+###### Article R422-7-1
+
+Lorsqu'un professionnel établi sur le territoire d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen est habilité à représenter en matière de propriété industrielle des personnes devant le service central de propriété industrielle de cet Etat, il peut faire usage en France de son titre professionnel, exprimé dans la ou l'une des langues de ce dernier Etat, pour représenter des personnes devant l'Institut national de la propriété industrielle, dès lors que son titre est attesté par l'autorité compétente de l'Etat où il est établi.
+
+Lorsque le professionnel est établi dans un Etat dans lequel l'exercice de la profession n'est pas soumis à la possession d'un titre réglementé, il doit, pour représenter des personnes devant l'Institut national de la propriété industrielle, justifier par tout moyen auprès de cet Institut qu'il a exercé cette profession, dans un ou plusieurs Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, à temps plein pendant au moins une année ou à temps partiel pendant une durée totale équivalente, au cours des dix dernières années. Toutefois, l'expérience professionnelle d'un an n'est pas requise si le professionnel justifie d'une formation réglementée donnant accès à la profession, existant dans son Etat d'établissement.
+
