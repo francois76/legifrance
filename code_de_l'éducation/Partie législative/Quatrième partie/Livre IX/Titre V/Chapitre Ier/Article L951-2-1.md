@@ -1,4 +1,0 @@
-###### Article L951-2-1
-
-Les enseignants-chercheurs relevant du présent titre et les membres des corps d'ingénieurs et de personnels techniques de recherche et de formation, détachés ou mis à disposition auprès d'administrations, de collectivités territoriales, d'organismes ou d'établissements pour y exercer des fonctions concourant aux missions définies à l'article L. 123-3, d'organisations internationales intergouvernementales ou d'institutions ou d'organes de l'Union européenne, peuvent bénéficier d'une nomination dans un autre corps à la suite de la réussite à un concours ou examen professionnel ou au titre d'une promotion au choix, sans qu'il soit mis fin à leur mise à disposition ou à leur détachement lorsque cette nomination n'est pas conditionnée à l'accomplissement d'une période de formation ou de stage préalable.
-

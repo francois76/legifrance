@@ -1,4 +1,0 @@
-###### Article D643-57
-
-Le ministre chargé de l'enseignement supérieur désigne un inspecteur général de l'éducation, du sport et de la recherche chargé de veiller, sur le plan pédagogique, au bon déroulement de la session et d'assurer la coordination de l'action des différents jurys.
-

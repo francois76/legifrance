@@ -1,8 +1,0 @@
-###### Article D612-36-2-5
-
-Au terme de la phase d'admission, le candidat dont certaines candidatures sont encore sur liste d'attente est informé qu'il n'a pas été donné de suite favorable à ces candidatures. Ces décisions, prises par les chefs des établissements concernés, sont notifiées au candidat via la plateforme dématérialisée.
-
-Toutefois, ceux qui, parmi ces candidats, bénéficient à cette date uniquement de placements sur liste d'attente voient ces placements archivés. Afin de pouvoir bénéficier, à titre exceptionnel, de propositions d'admission, chaque candidat doit hiérarchiser ses placements sur liste d'attente par ordre de préférence, via la plateforme dématérialisée et selon le calendrier mentionné à l'article D. 612-36-2. Des propositions d'admission lui sont faites si les places attribuées aux candidats classés devant lui par l'établissement dans la formation correspondante se libèrent, notamment lorsque ces candidats n'ont pas respecté les délais d'inscription administrative mentionnés à l'article D. 612-36-2-7, se sont désistés de cette formation ou ont démissionné de la plateforme. Dès lors que le candidat reçoit une proposition d'admission, il perd le bénéfice des placements sur liste d'attente qu'il a placés plus bas dans son ordre de préférence.
-
-Les propositions d'admission formulées dans le cadre de l'alinéa précédent sont portées à la connaissance du candidat, qui indique laquelle il accepte définitivement ou s'il les refuse, via la plateforme dématérialisée et dans un délai fixé par le calendrier prévu à l'article D. 612-36-2. Ces propositions lui sont adressées jusqu'à une date fixée par ce même calendrier.
-

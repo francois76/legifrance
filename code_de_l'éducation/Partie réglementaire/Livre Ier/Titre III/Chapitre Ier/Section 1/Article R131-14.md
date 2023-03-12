@@ -1,4 +1,0 @@
-###### Article R131-14
-
-Lorsque l'enfant reçoit l'instruction dans la famille, le contrôle de l'acquisition des connaissances et compétences prescrit par l'autorité de l'Etat compétente en matière d'éducation se déroule sous la forme d'un entretien avec au moins l'une des personnes responsables de l'enfant soumis à l'obligation scolaire, le cas échéant en présence de ce dernier. Les personnes responsables de l'enfant précisent notamment à cette occasion la démarche et les méthodes pédagogiques qu'elles mettent en œuvre. Afin d'apprécier l'acquisition par l'enfant des connaissances et des compétences mentionnées aux articles R. 131-12 et R. 131-13, l'une au moins des personnes responsables de l'enfant présentent à la personne chargée du contrôle des travaux réalisés par l'enfant au cours de son instruction et l'enfant effectue des exercices écrits ou oraux, adaptés à son âge et à son état de santé.
-

@@ -1,4 +1,0 @@
-###### Article L411-1
-
-Un directeur veille à la bonne marche de chaque école maternelle, élémentaire ou primaire ; il assure la coordination nécessaire entre les maîtres. Le directeur de l'école préside le conseil d'école qui réunit les représentants de la communauté éducative, entérine les décisions qui y sont prises et les met en œuvre. Il organise les débats sur les questions relatives à la vie scolaire. Il bénéficie d'une délégation de compétences de l'autorité académique pour le bon fonctionnement de l'école qu'il dirige. Il dispose d'une autorité fonctionnelle dans le cadre des missions qui lui sont confiées. La composition et les attributions du conseil d'école sont précisées par décret. La participation des parents se fait par le biais de l'élection de leurs représentants au conseil d'école chaque année.
-

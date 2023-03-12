@@ -1,4 +1,0 @@
-###### Article R211-1
-
-L'organisation convenable du service public de l'enseignement du premier degré dans une commune s'apprécie par référence aux conditions d'accueil dans les communes comparables du département.
-

@@ -1,8 +1,0 @@
-###### Article D841-9
-
-La programmation des actions financées par le produit de la contribution de vie étudiante et de campus, les projets ainsi que le bilan des actions conduites l'année précédente sont votés, chaque année, par le conseil d'administration des établissements mentionnés au premier alinéa du I de l'article L. 841-5 ou par l'organe en tenant lieu, après consultation, le cas échéant de la commission des formations et de la vie universitaire. Ils sont transmis pour information au recteur de région académique.
-
-Les présidents ou directeurs des établissements d'enseignement associent les différents services chargés de la vie étudiante, les représentants des étudiants au conseil d'administration de l'établissement ou à l'organe en tenant lieu et les représentants des étudiants du conseil compétent en matière de vie étudiante, les associations d'étudiants mentionnées à l'article L. 811-3, le centre régional des œuvres universitaires et scolaires territorialement compétent ainsi que des personnalités extérieures, à l'élaboration du programme, des projets et du bilan mentionnés au premier alinéa.
-
-Les directeurs généraux des centres régionaux des œuvres universitaires et scolaires associent à l'élaboration de ces mêmes documents les différents services chargés de la vie étudiante, les représentants des étudiants au conseil d'administration de l'établissement, les associations d'étudiants mentionnées à l'article L. 811-3, des personnalités extérieures et des représentants des établissements d'enseignement supérieur qu'ils soient destinataires ou non d'une part du produit de la contribution de vie étudiante et de campus.
-

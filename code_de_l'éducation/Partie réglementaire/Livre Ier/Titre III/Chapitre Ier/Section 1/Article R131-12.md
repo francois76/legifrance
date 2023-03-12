@@ -1,4 +1,0 @@
-###### Article R131-12
-
-Pour les enfants qui reçoivent l'instruction dans la famille ou dans les établissements d'enseignement privés hors contrat, l'acquisition des connaissances et des compétences est progressive et continue dans chaque domaine de formation du socle commun de connaissances, de compétences et de culture et doit avoir pour objet d'amener l'enfant, à l'issue de la période de l'instruction obligatoire, à la maîtrise de l'ensemble des exigences du socle commun. La progression retenue doit être compatible avec l'âge de l'enfant et, lorsqu'il présente un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles, avec ses besoins particuliers, tout en tenant compte des choix éducatifs effectués par les personnes responsables de l'enfant et de l'organisation pédagogique propre à chaque établissement.
-

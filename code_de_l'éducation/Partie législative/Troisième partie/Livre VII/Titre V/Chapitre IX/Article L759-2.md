@@ -1,8 +1,0 @@
-###### Article L759-2
-
-Les établissements d'enseignement supérieur de la création artistique dans les domaines du spectacle vivant et des arts plastiques sont accrédités par arrêté du ministre chargé de la culture, après avis du Conseil national de l'enseignement supérieur et de la recherche artistiques et culturels, pour la durée du contrat pluriannuel signé avec l'Etat. L'arrêté emporte habilitation de l'établissement à délivrer des diplômes d'école et les diplômes nationaux, autres que ceux définis à l'article L. 613-1, dont la liste est annexée à l'arrêté. Pour les établissements publics nationaux, les modalités d'accréditation sont fixées par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la culture, après avis du Conseil national de l'enseignement supérieur et de la recherche artistiques et culturels.
-
-Les établissements d'enseignement supérieur de la création artistique dans les domaines du spectacle vivant et des arts plastiques sont accrédités, par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la culture pris après avis du Conseil national de l'enseignement supérieur et de la recherche artistiques et culturels, pour délivrer, dans leurs domaines de compétences, seuls ou conjointement avec des établissements publics à caractère scientifique, culturel et professionnel, des diplômes nationaux définis au même article L. 613-1.
-
-L'organisation des études et des diplômes ainsi que les modalités de l'évaluation des formations dans les disciplines du spectacle vivant et des arts plastiques sont fixées par voie réglementaire.
-

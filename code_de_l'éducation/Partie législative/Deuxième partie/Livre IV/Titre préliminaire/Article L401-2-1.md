@@ -1,4 +1,0 @@
-##### Article L401-2-1
-
-Les établissements d'enseignement scolaire disposant d'une formation d'enseignement supérieur rendent publiques des statistiques comportant des indicateurs de réussite de leurs élèves ou apprentis aux examens, concours et diplômes qu'ils préparent. Ces établissements diffusent également une information générale sur les taux de poursuite d'études et d'insertion professionnelle dans chacun des domaines qui les concernent. La même obligation de publication incombe aux établissements scolaires du second degré et aux centres de formation d'apprentis. Ces établissements et centres doivent également rendre public le taux d'insertion professionnelle des élèves, par diplôme, dans les douze mois suivant l'obtention des diplômes auxquels ils les préparent. Un élève ou apprenti ne peut s'inscrire dans un cycle ou une formation sans avoir préalablement pris connaissance des taux de réussite et d'insertion professionnelle correspondants.
-

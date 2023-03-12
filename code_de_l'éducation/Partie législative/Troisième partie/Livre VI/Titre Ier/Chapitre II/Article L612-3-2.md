@@ -1,6 +1,0 @@
-###### Article L612-3-2
-
-L'inscription dans une formation initiale du premier cycle de l'enseignement supérieur dispensée par un établissement privé sous contrat d'association ou par un établissement d'enseignement supérieur privé d'intérêt général ou l'inscription dans toute formation initiale dont la liste est arrêtée par le ministre chargé de l'enseignement supérieur conduisant à un diplôme national de l'enseignement supérieur ou un titre ou diplôme de l'enseignement supérieur mentionné au I de l'article L. 6113-5 du code du travail est précédée de la procédure nationale de préinscription prévue au deuxième alinéa du I de l'article L. 612-3 du présent code. L'établissement définit, dans le respect du cadrage national arrêté par le ministre chargé de l'enseignement supérieur, les caractéristiques de chaque formation, qui sont portées à la connaissance des candidats au cours de cette procédure.
-
-Lorsqu'un contrat conclu entre l'Etat et un établissement d'enseignement privé dispensant des formations initiales d'enseignement supérieur prévoit l'application, à ces formations, de certaines des dispositions du même article L. 612-3, le chef d'établissement est associé, le cas échéant, aux dispositifs de concertation que ces dispositions prévoient.
-

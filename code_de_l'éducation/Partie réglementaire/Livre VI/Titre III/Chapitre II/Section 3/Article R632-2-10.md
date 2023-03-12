@@ -1,6 +1,0 @@
-###### Article R632-2-10
-
-Un étudiant qui s'est présenté aux épreuves mentionnées à l'article R. 632-2 peut demander, à titre dérogatoire et exceptionnel et pour des motifs sérieux dûment justifiés, à renoncer à la procédure nationale d'appariement prévue à l'article R. 632-2-7 et à se présenter une seconde fois à ces épreuves l'année universitaire suivante. Il adresse sa demande avant ladite procédure à cette fin au directeur de l'UFR. Une commission réunie par le directeur de l'UFR statue sur l'ensemble des demandes et les classe par ordre de priorité. Elle se prononce également sur les formations en stage auxquelles le candidat participe et sur la formation hors stage qu'il est autorisé à suivre en tant qu'auditeur, au sens de l'article L. 811-1, en vue de cette seconde et dernière tentative. La composition et les modalités de fonctionnement de cette commission, ainsi que le nombre maximum d'étudiants par UFR susceptibles de bénéficier d'une dérogation, sont fixés par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense.
-
-Les éléments constitutifs du dossier mentionné à l'article R. 632-2-7 et les résultats obtenus à l'issue de la seconde présentation aux épreuves se substituent à ceux obtenus à l'issue de la première présentation.
-
