@@ -1,6 +1,0 @@
-###### Article R214-109
-
-Un organisme de placement collectif immobilier peut recevoir les garanties mentionnées à l'article L. 211-38 aux conditions définies à ce même article, les garanties relevant de cautions solidaires ou les garanties à première demande.
-
-L'organisme de placement collectif immobilier ne peut recevoir des garanties que si elles lui sont octroyées par un établissement ayant la qualité de dépositaire d'OPCVM ou de FIA, par un établissement de crédit dont le siège est établi dans un Etat membre de l'Organisation de coopération et de développement économiques ou par une entreprise d'investissement dont le siège est situé dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ou une succursale agréée mentionnée au I de l'article L. 532-48. Les entreprises d'investissement ou succursales agréées susmentionnées doivent être habilitées à fournir le service mentionné au 1 de l'article L. 321-2 et disposer d'un montant de fonds propres, au sens du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013, au moins égal à 3,8 millions d'euros, sauf lorsque les garanties sont octroyées dans le cadre des contrats constituant des instruments financiers à terme mentionnés à l'article D. 214-113.
-

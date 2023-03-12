@@ -1,4 +1,0 @@
-###### Article R561-22-1
-
-Pour l'application des articles L. 561-7, L. 561-20, du 3° de l'article R. 561-5-2, du 2° de l'article R. 561-5-3 et de l'article R. 561-9, les personnes mentionnées à l'article L. 561-2 concernées évaluent le niveau d'équivalence des obligations en matière de lutte contre le blanchiment et le financement du terrorisme d'un pays tiers en tenant compte notamment des informations et déclarations diffusées par le Groupe d'action financière ainsi que des listes publiées par la Commission européenne en application de l'article 9 de la directive (UE) 2015/849 du 20 mai 2015 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme. Elles doivent être en mesure de justifier auprès des autorités de contrôle de leur analyse.
-

@@ -1,4 +1,0 @@
-###### Article R561-9
-
-Lorsqu'une société de gestion de placement collectif distribue les parts ou actions d'un placement collectif par l'intermédiaire d'une personne mentionnée aux 1° à 6° bis de l'article L. 561-2 qui n'est pas établie sur le territoire d'un autre Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou d'un pays tiers imposant des obligations équivalentes en matière de lutte contre le blanchiment et le financement du terrorisme, le dépositaire veille à ce que le placement collectif ou, le cas échéant, la société de gestion de placement collectif conclue un contrat avec cette personne. Ce contrat stipule que cette dernière applique des procédures d'identification et de vérification d'identité équivalentes à celles applicables dans les Etats membres de l'Union européenne et a accès aux éléments d'identification du bénéficiaire effectif de la relation d'affaires.
-

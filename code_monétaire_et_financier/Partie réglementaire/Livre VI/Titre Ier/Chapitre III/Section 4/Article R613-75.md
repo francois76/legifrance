@@ -1,6 +1,0 @@
-###### Article R613-75
-
-I. – Dans l'exercice de leurs pouvoirs, le collège de supervision et le collège de résolution évaluent les effets potentiels de la divulgation des informations relatives à l'entité concernée ou à la procédure de résolution. Ils évaluent, en particulier, les effets que pourraient avoir la divulgation des informations contenues dans les plans préventifs de rétablissement mentionnés à l'article L. 613-35 et dans les plans préventifs de résolution mentionnés à l'article L. 613-38 ainsi que celle des résultats des évaluations mentionnées aux articles L. 613-36, L. 613-37 et L. 613-41.
-
-II. – En vue de garantir le respect des obligations en matière de confidentialité prévues à l'article L. 613-50-7, l'Autorité de contrôle prudentiel et de résolution, le collège de résolution, le ministre chargé de l'économie, le fonds de garantie des dépôts et de résolution, l'établissement-relais mentionné à l'article L. 613-53 et la structure de gestion des actifs mentionnée à l'article L. 613-54, se dotent de règles internes garantissant la confidentialité des informations relatives à la procédure de résolution et à l'entité concernée, y compris à l'égard des autres personnes participant directement au processus de résolution.
-

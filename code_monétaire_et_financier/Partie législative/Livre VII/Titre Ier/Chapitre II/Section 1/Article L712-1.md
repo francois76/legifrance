@@ -1,6 +1,0 @@
-###### Article L712-1
-
-En application de l'accord monétaire entre l'Union européenne et la République française relatif au maintien de l'euro à Saint-Barthélemy, à la suite de son changement de statut au regard de l'Union européenne du 12 juillet 2011, sont applicables de plein droit les actes juridiques et règles de l'Union européenne, nécessaires au bon fonctionnement de l'Union économique et monétaire, relatifs aux billets de banque et aux pièces de monnaie en euros, à la prévention de la fraude et de la contrefaçon des moyens de paiement en espèces et autres que les espèces aux médailles et jetons, ainsi que les mesures nécessaires à l'utilisation de l'euro comme monnaie unique adoptés sur la base de l'article 133 du traité sur le fonctionnement de l'Union européenne.
-
-Sont également applicables de plein droit les actes juridiques et règles du droit de l'Union européenne, nécessaires au bon fonctionnement de l'Union économique et monétaire, relatifs à la législation bancaire et financière, y compris les actes juridiques adoptées par la Banque centrale européenne, à la prévention du blanchiment de capitaux et aux obligations de communication de données statistiques établies par l'Eurosystème.
-

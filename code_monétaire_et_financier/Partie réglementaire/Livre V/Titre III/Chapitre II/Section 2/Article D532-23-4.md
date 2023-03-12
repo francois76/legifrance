@@ -1,6 +1,0 @@
-###### Article D532-23-4
-
-Lorsqu'un prestataire de services d'investissement autre qu'une société de gestion de portefeuille envisage la modification de l'une des informations mentionnées au I de l'article D. 532-23-2, il en informe l'Autorité de contrôle prudentiel et de résolution un mois au moins avant que cette modification n'intervienne dans les conditions prévues par le règlement délégué (UE) 2017/1018 de la Commission du 29 juin 2016 complétant la directive 2014/65/ UE du Parlement européen et du Conseil concernant les marchés d'instruments financiers par des normes techniques de réglementation précisant les informations que doivent notifier les entreprises d'investissement, les opérateurs de marché et les établissements de crédit et le règlement d'exécution de la Commission européenne adopté en application des paragraphes 8 et 9 de l'article 34 de la directive 2014/65/ UE du Parlement européen et du Conseil du 15 mai 2014.
-
-L'Autorité de contrôle prudentiel et de résolution informe l'autorité compétente de l'Etat d'accueil de ce projet de modification dans les conditions prévues par le règlement d'exécution de la Commission européenne adopté en application du paragraphe 9 de l'article 34 de la directive 2014/65/ UE du Parlement européen et du Conseil du 15 mai 2014.
-

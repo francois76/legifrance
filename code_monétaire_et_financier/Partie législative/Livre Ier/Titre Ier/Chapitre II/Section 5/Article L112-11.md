@@ -1,6 +1,0 @@
-###### Article L112-11
-
-Les prestataires de services de paiement ne peuvent limiter contractuellement la possibilité pour un bénéficiaire d'appliquer des frais, de proposer une réduction au payeur ou de l'orienter d'une autre manière vers l'utilisation d'un instrument de paiement donné. Les frais appliqués ne peuvent dépasser les coûts directs supportés par le bénéficiaire pour l'utilisation de cet instrument de paiement. Toute stipulation contraire est réputée non écrite.
-
-Au cours du premier trimestre de chaque année, le prestataire de services de paiement porte à la connaissance du bénéficiaire du paiement, à l'exclusion des personnes physiques n'agissant pas pour des besoins professionnels, un document distinct récapitulant le total des sommes perçues par ce prestataire au cours de l'année civile précédente au titre des frais facturés fixés contractuellement pour l'encaissement des paiements par carte. Ce relevé annuel des frais d'encaissement des paiements par carte distingue, pour chaque catégorie de produits ou services, le sous-total des frais perçus et le nombre de produits ou services correspondants.
-

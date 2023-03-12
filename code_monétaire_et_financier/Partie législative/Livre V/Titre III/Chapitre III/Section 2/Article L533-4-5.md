@@ -1,6 +1,0 @@
-###### Article L533-4-5
-
-L'Autorité de contrôle prudentiel et de résolution contrôle le niveau de fonds propres qui a été déterminé par chaque entreprise d'investissement de classe 2 conformément à l'article L. 533-2-2 et vérifie qu'elle conserve un niveau de fonds propres suffisamment supérieur aux exigences prévues dans la troisième partie du règlement (UE) 2019/2033 et aux exigences de fonds propres supplémentaires mentionnées à l'article L. 533-4-4, pour que les fluctuations économiques conjoncturelles ne conduisent pas à une infraction à ces exigences ou ne compromettent pas la capacité de l'entreprise d'investissement à liquider ou cesser ses activités en bon ordre.
-
-Compte tenu de l'ampleur, de l'importance systémique, de la nature, de l'échelle et de la complexité ses activités, l'Autorité communique, le cas échéant, à l'entreprise les conclusions de ce contrôle, en précisant les éventuels ajustements attendus d'elle en ce qui concerne le niveau de fonds propres déterminé conformément à l'article L. 533-2-2. Les recommandations sont communiquées à l'entreprise et indiquent la date à laquelle l'Autorité de contrôle prudentiel et de résolution exige que l'ajustement soit achevé.
-

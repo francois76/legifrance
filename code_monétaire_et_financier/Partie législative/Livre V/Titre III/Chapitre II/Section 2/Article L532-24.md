@@ -1,6 +1,0 @@
-###### Article L532-24
-
-Tout prestataire de services d'investissement autre qu'une société de gestion de portefeuille ayant son siège social sur le territoire de la France métropolitaine, de la Guadeloupe, de la Guyane, de la Martinique, de La Réunion, de Mayotte et de Saint-Martin et autorisé à fournir des services d'investissement en application de l'article L. 532-1, qui veut exercer ses activités sur le territoire d'un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen en libre prestation de services pour la première fois ou qui souhaite modifier la nature des services qu'il y fournit, le notifie à l'Autorité de contrôle prudentiel et de résolution dans les conditions et selon des modalités fixées par décret.
-
-Dans le cas des entreprises d'investissement, l'Autorité de contrôle prudentiel et de résolution communique cette notification à l'autorité compétente de l'Etat membre d'accueil désignée comme point de contact au sens du 1 de l'article 79 de la directive 2014/65/ UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers, dans un délai d'un mois à compter de sa réception régulière. L'entreprise d'investissement peut alors commencer à fournir dans l'Etat membre d'accueil les services d'investissement déclarés.
-

@@ -1,6 +1,0 @@
-###### Article R511-18
-
-I.– Afin de comparer les tendances et pratiques en matière de rémunération, l'Autorité de contrôle prudentiel et de résolution recueille, dans les conditions définies par arrêté du ministre chargé de l'économie, les informations mentionnées aux g), h), i) et k) du paragraphe 1 de l'article 450 du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 publiées par les établissements de crédit, les compagnies financières holding, les compagnies financières holding mixtes, les sociétés de financement et les entreprises mères de société de financement ainsi que les informations qu'ils communiquent sur l'écart de rémunération entre les femmes et les hommes.
-
-II.– L'Autorité contrôle prudentiel et de résolution recueille, pour chaque établissement ou société mentionné au I, les informations relatives au nombre de personnes physiques dont la rémunération s'élève à au moins un million d'euros par exercice comptable, ventilé par tranches de rémunération d'un million d'euros, aux fonctions exercées par ces personnes et leur domaine d'activité, aux principaux éléments du salaire, aux primes, aux indemnités à long terme et aux cotisations de pension discrétionnaire ainsi qu'à leurs montants.
-

@@ -1,6 +1,0 @@
-###### Article L533-24-1-1
-
-Les prestataires de services d'investissement autres que les sociétés de gestion de portefeuille qui conçoivent des instruments financiers destinés à la vente aux clients et les prestataires de services d'investissement qui proposent, recommandent ou commercialisent des instruments financiers ne sont pas soumis aux obligations mentionnées à l'article L. 533-24 et aux 1° à 3° de l'article L. 533-24-1 lorsque le service d'investissement qu'ils fournissent porte sur des obligations qui n'incorporent pas d'instrument dérivé autre qu'une clause de remboursement avec indemnité de remboursement anticipé ou lorsque les instruments financiers sont commercialisés exclusivement pour des contreparties éligibles ou distribués exclusivement auprès de contreparties éligibles.
-
-Pour l'application du présent article, constitue une clause de remboursement avec indemnité de remboursement anticipé toute clause en vertu de laquelle l'émetteur d'une obligation est tenu, en cas de remboursement anticipé, de verser au détenteur de l'obligation un montant égal à la somme de la valeur actuelle nette des paiements de coupons restants attendus jusqu'à la date d'échéance et du montant principal de l'obligation à rembourser.
-

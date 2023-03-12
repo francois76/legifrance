@@ -1,8 +1,0 @@
-###### Article R561-38-6
-
-Au moins une fois par an, le conseil d'administration, le conseil de surveillance ou tout autre organe exerçant des fonctions de surveillance des personnes mentionnées au premier alinéa de l'article R. 561-38-4 est informé de l'activité et des résultats des contrôles internes mentionnés à ce même article ainsi que des insuffisances mentionnées au 1° de celui-ci ou constatées par les autorités de contrôle nationales ou étrangères. Ces dernières sont également informées, sans délai, des incidents mentionnés au 1° de l'article R. 561-38-4.
-
-Lorsque les personnes mentionnées au premier alinéa de l'article R. 561-38-4 appartiennent à un groupe, au sens de l'article L. 561-33, leur conseil d'administration, leur conseil de surveillance ou tout autre organe exerçant des fonctions de surveillance signale à l'entreprise mère du groupe les incidents ou insuffisances mentionnées ci-dessus ainsi que les difficultés ou obstacles au partage d'information au sein du groupe rencontrés par leurs filiales ou succursales situées à l'étranger ou par elles-mêmes.
-
-Une fois par an, le conseil d'administration, le conseil de surveillance ou tout autre organe exerçant des fonctions de surveillance des personnes mentionnées au premier alinéa de l'article R. 561-38-4 approuve un rapport sur l'organisation du dispositif de contrôle interne mentionné à l'article R. 561-38-4, ainsi que sur les incidents, les insuffisances et les mesures correctrices qui y ont été apportées. Ce rapport est transmis à l'autorité de contrôle mentionnée au 1° ou au 2° du I de l'article L. 561-36.
-

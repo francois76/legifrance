@@ -1,8 +1,0 @@
-###### Article L420-4
-
-I. – Le gestionnaire d'une plate-forme de négociation conclut des contrats écrits avec tous les prestataires de services d'investissement autres que des sociétés de gestion de portefeuille qui appliquent une stratégie de tenue de marché, au sens du 3° de l'article L. 533-10-3, sur la plate-forme de négociation et met en place des dispositifs assurant qu'un nombre suffisant de prestataires de services d'investissement concluent ces contrats. Ces contrats exigent de ces prestataires de services d'investissement, lorsque cela est adapté à la nature et à la taille des négociations sur cette plate-forme de négociation, qu'ils affichent des prix fermes et compétitifs à l'achat et à la vente avec pour résultat d'apporter de la liquidité au marché de manière régulière et prévisible.
-
-II. – Le contrat mentionné au I précise les obligations du prestataire de services d'investissement en matière d'apport de liquidité et, le cas échéant, toute autre obligation découlant de sa participation aux dispositifs mentionnés au I. Ce contrat précise également toute incitation, sous forme de rabais ou sous une autre forme, proposée par le gestionnaire d'une plate-forme de négociation au prestataire de services d'investissement afin d'apporter de la liquidité au marché de manière régulière et prévisible et, le cas échéant, tout autre droit qu'acquiert le prestataire de services d'investissement en raison de sa participation aux dispositifs mentionnés au I.
-
-Le gestionnaire d'une plate-forme de négociation veille à ce que le prestataire de services d'investissement se conforme aux exigences de ce contrat. Il informe l'Autorité des marchés financiers du contenu de ce contrat.
-

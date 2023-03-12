@@ -1,4 +1,0 @@
-###### Article L632-15
-
-Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la communication des documents et renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales étrangères, l'Autorité de contrôle prudentiel et de résolution peut, en dehors du cadre des accords mentionnés aux articles L. 632-7 et L. 632-13, transmettre des informations aux autorités des Etats non membres de l'Union européenne et non parties à l'accord sur l'Espace économique européen exerçant des fonctions homologues ou chargées de la surveillance des personnes mentionnées à l'article L. 612-2 et aux 1° à 4° de l'article L. 612-26 du présent code, sous réserve de réciprocité et pour autant que les informations communiquées bénéficient de garanties de secret professionnel au moins équivalentes à celles auxquelles sont soumises les autorités françaises.
-
