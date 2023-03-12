@@ -1,6 +1,6 @@
 ###### Article D19-2
 
-Les journaux et publications de périodicité au maximum hebdomadaire remplissant les conditions prévues à l'article D. 18 et présentant un caractère d'information politique et générale bénéficient d'un tarif de presse spécifique.
+Les journaux et publications de périodicité au maximum hebdomadaire remplissant les conditions prévues à l'article D. 18 et présentant un caractère d'information politique et générale bénéficient d'une aide au transport postal de leurs exemplaires.
 
 Pour être considérées comme présentant le caractère d'information politique et générale, les publications doivent réunir les caractéristiques suivantes :
 
@@ -8,7 +8,5 @@ Pour être considérées comme présentant le caractère d'information politique
 
 2° Consacrer la majorité de leur surface rédactionnelle à cet objet ;
 
-3° Présenter un intérêt dépassant d'une façon manifeste les préoccupations d'une catégorie de lecteurs ;
-
-En outre, les quotidiens nationaux à faibles ressources publicitaires au sens du décret n° 86-616 du 12 mars 1986 et les quotidiens régionaux, départementaux et locaux au sens du décret n° 89-528 du 28 juillet 1989 bénéficient d'un tarif de presse réduit.
+3° Présenter un intérêt dépassant d'une façon manifeste les préoccupations d'une catégorie de lecteurs.
 
