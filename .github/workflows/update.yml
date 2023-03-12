@@ -22,7 +22,7 @@ jobs:
     needs: prepare
     strategy:
       matrix:
-        nom: ${{ fromJson(needs.prepare.outputs.STRINGS) }}
+        nom: "${{ fromJson(needs.prepare.outputs.STRINGS) }}"
     steps:
       - name: Setup Python environment
         uses: actions/setup-python@v2
@@ -61,5 +61,5 @@ jobs:
                 git config --global user.name 'Github action'
                 git config --global user.email 'githube@users.noreply.github.com'
                 git commit -m "updating $nom";
-                git push
+                git pull push
             fi
