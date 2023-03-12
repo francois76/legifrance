@@ -10,7 +10,7 @@
 
 ##### Section I : Dispositions générales
 
-###### Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10Article L10
+###### Article L10
 
 L'administration des impôts contrôle les déclarations ainsi que les actes utilisés pour l'établissement des impôts, droits, taxes et redevances.
 
