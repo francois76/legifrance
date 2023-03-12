@@ -1,6 +1,0 @@
-###### Article L136-2
-
-I.-La publication d'une œuvre d'art plastique, graphique ou photographique à partir d'un service de communication au public en ligne emporte la mise en gestion, au profit d'un ou plusieurs organismes de gestion collective régis par le titre II du livre III de la présente partie et agréés à cet effet par le ministre chargé de la culture, du droit de reproduire et de représenter cette œuvre dans le cadre de services automatisés de référencement d'images. A défaut de désignation par l'auteur ou par son ayant droit à la date de publication de l'œuvre, un des organismes agréés est réputé gestionnaire de ce droit.
-
-II.-Les organismes agréés sont seuls habilités à conclure toute convention avec les exploitants de services automatisés de référencement d'images aux fins d'autoriser la reproduction et la représentation des œuvres d'art plastiques, graphiques ou photographiques dans le cadre de ces services et de percevoir les rémunérations correspondantes fixées selon les modalités prévues à l'article L. 136-4. Les conventions conclues avec ces exploitants prévoient les modalités selon lesquelles ils s'acquittent de leurs obligations de fournir aux organismes agréés le relevé des exploitations des œuvres et toutes informations nécessaires à la répartition des sommes perçues aux auteurs ou à leurs ayants droit.
-

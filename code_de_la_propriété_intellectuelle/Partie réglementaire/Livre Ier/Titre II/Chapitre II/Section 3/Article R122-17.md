@@ -1,6 +1,0 @@
-###### Article R122-17
-
-I. – Les personnes morales et les établissements inscrits sur la liste communiquent à la commission toute modification significative concernant les renseignements qu'ils ont fournis à l'appui de leur demande.
-
-II. – Les personnes morales et les établissements inscrits sur la liste et qui reçoivent des documents adaptés ou en mettent à disposition d'une personne bénéficiaire ou d'une autre entité autorisée établie dans n'importe quel Etat membre de l'Union européenne ou partie au traité de Marrakech adopté le 27 juin 2013, tiennent un registre de ces adaptations. Ils publient et actualisent, sur leurs sites internet ou par divers autres canaux en ligne ou hors ligne, des informations sur la façon dont ils respectent les obligations prévues aux points a à c du I de l'article 5 de la directive (UE) 2017/1564 du Parlement européen et du Conseil du 13 septembre 2017 sur certaines utilisations autorisées de certaines œuvres et d'autres objets protégés par le droit d'auteur et les droits voisins en faveur des aveugles, des déficients visuels et des personnes ayant d'autres difficultés de lecture des textes imprimés et modifiant la directive 2001/29/CE sur l'harmonisation de certains aspects du droit d'auteur et des droits voisins dans la société de l'information.
-
