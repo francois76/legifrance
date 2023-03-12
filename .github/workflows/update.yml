@@ -46,7 +46,7 @@ jobs:
             cd ../..
             git add .
             if git commit -m "updating $nom";  then
-                generate_files.sh $nom
+                ./generate_files.sh $nom
                 sleep 1
                 git add .
                 git commit -m "updating $nom" || true;
