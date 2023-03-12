@@ -1,8 +1,0 @@
-###### Article L251-1
-
-Tout producteur qui, en sa qualité de producteur délégué, a pris l'initiative et la responsabilité financière, artistique et technique de la réalisation d'une œuvre audiovisuelle appartenant aux genres de la fiction, de l'animation, du documentaire de création ou de l'adaptation audiovisuelle de spectacle vivant, admise au bénéfice des aides financières à la production du Centre national du cinéma et de l'image animée et dont il a garanti la bonne fin doit, dans les six mois suivant la date d'achèvement de l'œuvre audiovisuelle, établir et transmettre le compte de production de l'œuvre aux autres coproducteurs, aux entreprises avec lesquelles il a conclu un contrat de financement leur conférant un intéressement aux recettes d'exploitation, aux éditeurs de services de télévision qui ont contribué au financement de la production de l'œuvre ainsi qu'aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle et, le cas échéant, aux éditeurs cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée, dès lors qu'il a conclu avec ces auteurs ou éditeurs un contrat leur conférant un intéressement aux recettes d'exploitation de l'œuvre, conditionné à l'amortissement du coût de production.
-
-Le compte de production est également transmis à toute autre personne physique ou morale avec laquelle le producteur délégué a conclu un contrat lui conférant un intéressement aux recettes d'exploitation de l'œuvre, conditionné à l'amortissement du coût de production.
-
-Le compte de production comprend l'ensemble des dépenses engagées pour la préparation, la réalisation et la postproduction de l'œuvre, en arrête le coût définitif et indique les moyens de son financement.
-

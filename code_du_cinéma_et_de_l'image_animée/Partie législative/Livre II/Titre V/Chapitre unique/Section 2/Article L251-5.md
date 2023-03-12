@@ -1,6 +1,0 @@
-###### Article L251-5
-
-Tout distributeur qui, en sa qualité de cessionnaire ou de mandataire, dispose de droits d'exploitation pour la commercialisation d'une œuvre audiovisuelle appartenant aux genres de la fiction, de l'animation, du documentaire de création ou de l'adaptation audiovisuelle de spectacle vivant et admise au bénéfice des aides financières à la production du Centre national du cinéma et de l'image animée doit, dans les trois premiers mois de l'année qui suit celle de la première diffusion de l'œuvre par un éditeur de services de télévision, puis au moins une fois par an pendant la durée d'exécution du contrat conclu avec le producteur délégué, établir et transmettre à ce dernier le compte d'exploitation de cette œuvre.
-
-Les éléments du compte d'exploitation sont fournis pour chaque mode d'exploitation de l'œuvre en France ainsi que pour chaque territoire d'exploitation de l'œuvre à l'étranger, sauf pour ceux de ces éléments qui ne sont pas individualisables. Les coûts d'exploitation et leur état d'amortissement ne sont indiqués que lorsqu'ils sont pris en compte pour le calcul du montant des recettes nettes revenant au producteur. Les aides financières perçues par le distributeur ne sont indiquées qu'en tant qu'elles se rapportent à l'œuvre concernée. L'état d'amortissement des minima garantis est indiqué dans tous les cas.
-
