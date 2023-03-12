@@ -1,0 +1,6 @@
+###### Article D335-35
+
+Le groupe d'experts est composé de deux présidents de conseil régional ou leur représentant, deux recteurs de région académique ou leur représentant, un directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou son représentant, un représentant de l'association des Régions de France, un inspecteur général de l'éducation, du sport et de la recherche, un représentant de la direction générale de l'enseignement scolaire, un représentant de la direction générale pour l'enseignement supérieur et l'insertion professionnelle, un représentant de la direction générale pour la recherche et l'innovation, un représentant de la direction générale des entreprises, un représentant de la délégation générale à l'emploi et à la formation professionnelle et quatorze représentants des filières économiques impliquées dans les campus des métiers et des qualifications. Ces experts, choisis en raison de leurs compétences dans les domaines de l'éducation ou de l'économie, sont nommés par les ministres chargés de l'éducation nationale, de l'enseignement supérieur, de la formation professionnelle et de l'économie.
+
+Le président est désigné, parmi les membres du groupe d'experts, par les mêmes ministres.
+

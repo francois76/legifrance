@@ -1,0 +1,6 @@
+###### Article L212-4
+
+La commune a la charge des écoles publiques. Elle est propriétaire des locaux et en assure la construction, la reconstruction, l'extension, les grosses réparations, l'équipement et le fonctionnement, à l'exception des droits dus en contrepartie de la reproduction par reprographie à usage pédagogique d'oeuvres protégées. Lorsque la construction ou la réhabilitation d'une école maternelle ou élémentaire d'enseignement public est décidée, le conseil municipal tient compte, pour le projet de construction ou de réhabilitation, des recommandations pour une école inclusive de l'Observatoire national de la sécurité et de l'accessibilité des établissements d'enseignement mentionné à l'article L. 239-2.
+
+Lors de la création d'une école publique, un accès indépendant aux locaux et aux équipements affectés à la pratique d'activités physiques ou sportives est aménagé. Un tel accès est également aménagé à ces locaux et équipements qui font l'objet de travaux importants de rénovation, lorsque le coût de cet aménagement est inférieur à un pourcentage, fixé par décret en Conseil d'Etat, du coût total des travaux de rénovation. Ce décret en Conseil d'Etat fixe également les conditions d'application du présent alinéa.
+
