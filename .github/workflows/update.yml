@@ -60,6 +60,6 @@ jobs:
                 find $nom -type f ! -name 'Article*' -delete
                 sleep 1
                 git add .
-                git commit -m "updating $nom";
+                git commit -m "updating $nom" || true;
                 git pull push || true
             fi
