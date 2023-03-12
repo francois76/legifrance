@@ -6085,6 +6085,16 @@ La décision prise par la commission du contrôle de la réglementation énonce 
 
 La décision est notifiée à la personne mise en cause par lettre recommandée avec demande d'avis de réception, par remise en main propre contre récépissé, par acte d'huissier ou par tout autre moyen permettant d'attester la date de réception et l'identité du destinataire, y compris par voie électronique.
 
+##### Article R423-18
+
+Le président de la commission du contrôle de la réglementation représente la commission. Il signe les décisions de la commission. Il signe les mémoires produits dans le cadre des recours juridictionnels formés contre les décisions de la commission.
+
+Le président de la commission du contrôle de la réglementation est remplacé, en cas d'absence ou d'empêchement, par le membre de l'inspection générale des affaires culturelles.
+
+Le président de la commission du contrôle de la réglementation établit chaque année un rapport d'activité.
+
+Ce rapport est transmis au ministre chargé de la culture et au président du Centre national du cinéma et de l'image animée.
+
 #### Chapitre IV : Dispositions diverses
 
 ### Titre III : Dispositions pénales
@@ -12231,19 +12241,19 @@ IV.-Les dépenses liées à l'acquisition des droits d'adaptation d'une œuvre p
 
 Les coefficients applicables au titre des œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant sont déterminés dans les conditions suivantes :
 
-I. - Les œuvres sont réparties en deux groupes :
+I.-Les œuvres sont réparties en deux groupes :
 
 1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 400 000 € ;
 
 2° Deuxième groupe : œuvres dont le montant des dépenses horaires françaises est inférieur à 400 000 € et supérieur ou égal à 54 000 €.
 
-II. - Les coefficients appliqués à la durée des œuvres sont les suivants :
+II.-Les coefficients appliqués à la durée des œuvres sont les suivants :
 
 1° Premier groupe : 3 ;
 
 2° Deuxième groupe : le coefficient varie entre 3 et 0,54 proportionnellement au montant des dépenses horaires françaises. Ce coefficient est arrondi aux quatre chiffres après la virgule.
 
-III - Pour les adaptations audiovisuelles de spectacle vivant consistant dans l'enregistrement dans sa continuité de l'intégralité d'un spectacle vivant préexistant donné sur scène en présence du public mais ne donnant pas lieu à au moins deux sessions d'enregistrement de ce spectacle dans son intégralité au moyen d'un dispositif technique multi-caméra, les coefficients prévus au II sont réduits de 30 %.
+III-Pour les adaptations audiovisuelles de spectacle vivant consistant dans l'enregistrement dans sa continuité de l'intégralité d'un spectacle vivant préexistant donné sur scène en présence du public mais ne donnant pas lieu à au moins deux sessions d'enregistrement de ce spectacle dans son intégralité au moyen d'un dispositif technique multi-caméra, les coefficients prévus au II sont réduits de 30 %.
 
 Toutefois, cette réduction ne s'applique pas lorsque les trois conditions suivantes sont remplies :
 
@@ -12508,7 +12518,7 @@ L'investissement pour la production des sommes inscrites sur le compte automatiq
 
 L'autorisation préalable est délivrée avant achèvement de l'œuvre. Elle prévoit les modalités de versement des sommes investies.
 
-L'autorisation définitive est délivrée après achèvement de l'œuvre. Cette autorisation constitue la décision d'attribution à titre définitif des sommes investies. Elle constate, le cas échéant, l'admission au bénéfice des bonifications ou des majorations prévues aux articles 311-44, 311-49 et 311-51.
+L'autorisation définitive est délivrée après achèvement de l'œuvre. Cette autorisation constitue la décision d'attribution à titre définitif des sommes investies. Elle constate, le cas échéant, l'admission au bénéfice des bonifications ou des majorations prévues aux articles 311-44,311-49 et 311-51.
 
 ######## Article 311-61
 
@@ -12716,7 +12726,7 @@ L'attribution d'une aide dont le principe a été retenu est subordonnée à la 
 
 Une autorisation préalable est délivrée avant achèvement de l'œuvre. Elle prévoit les modalités de versement de l'aide.
 
-Une autorisation définitive est délivrée après achèvement de l'œuvre. Cette autorisation constitue la décision d'attribution à titre définitif de l'aide. Elle constate, le cas échéant, l'admission au bénéfice des bonifications ou des majorations prévues aux articles 311-44, 311-49 et 311-51.
+Une autorisation définitive est délivrée après achèvement de l'œuvre. Cette autorisation constitue la décision d'attribution à titre définitif de l'aide. Elle constate, le cas échéant, l'admission au bénéfice des bonifications ou des majorations prévues aux articles 311-44,311-49 et 311-51.
 
 ######## Article 311-87
 
@@ -12898,7 +12908,7 @@ Cette commission est composée de douze membres, dont un président, nommés pou
 
 ###### Article 311-111
 
-Pour la délivrance des décisions mentionnées aux articles 311-60, 311-66, 311-71, 311-86, 311-96 et 311-104, le dossier de demande prévu à l'article 122-2 comprend également un formulaire spécifique relatif à l'identité et au sexe des personnes occupant les fonctions et postes suivants :
+Pour la délivrance des décisions mentionnées aux articles 311-60,311-66,311-71,311-86,311-96 et 311-104, le dossier de demande prévu à l'article 122-2 comprend également un formulaire spécifique relatif à l'identité et au sexe des personnes occupant les fonctions et postes suivants :
 
 1° Pour les œuvres appartenant au genre fiction : représentant légal de l'entreprise de production, personne agissant en qualité de producteur, directeur de production, auteur du scénario, réalisateur, directeur de la photographie ou chef opérateur de prises de vue, chef opérateur du son ou ingénieur du son, chef costumier, chef maquilleur, chef décorateur, chef monteur, directeur de la post-production et directeur de collection ;
 
@@ -13456,9 +13466,9 @@ Les aides à la préproduction d'œuvres immersives sont attribuées en vue de c
 
 ####### Article 321-20
 
-I. - Lorsque la préproduction d'un projet est assurée uniquement par une ou plusieurs personnes morales établies en France, au moins 50 % des dépenses de préproduction mentionnées à l'article 321-19 correspondent à des opérations ou prestations effectuées en France par des entreprises établies en France.
+I.-Lorsque la préproduction d'un projet est assurée uniquement par une ou plusieurs personnes morales établies en France, au moins 50 % des dépenses de préproduction mentionnées à l'article 321-19 correspondent à des opérations ou prestations effectuées en France par des entreprises établies en France.
 
-II. - Lorsque la préproduction d'un projet s'inscrit dans le cadre d'une coproduction internationale :
+II.-Lorsque la préproduction d'un projet s'inscrit dans le cadre d'une coproduction internationale :
 
 1° Le projet doit être financé par une participation française au moins égale à 30 % de son coût définitif ;
 
@@ -13512,9 +13522,9 @@ Les aides à la production d'œuvres immersives sont attribuées en vue de contr
 
 ####### Article 321-28
 
-I. - Lorsqu'une œuvre est produite uniquement par une ou plusieurs personnes morales établies en France, cette œuvre doit faire l'objet, pour au moins 50 % de son coût définitif, de dépenses mentionnées à l'article 321-27 correspondant à des opérations ou prestations effectuées en France par des entreprises établies en France.
+I.-Lorsqu'une œuvre est produite uniquement par une ou plusieurs personnes morales établies en France, cette œuvre doit faire l'objet, pour au moins 50 % de son coût définitif, de dépenses mentionnées à l'article 321-27 correspondant à des opérations ou prestations effectuées en France par des entreprises établies en France.
 
-II. - Lorsqu'une œuvre est produite dans le cadre d'une coproduction internationale, cette œuvre doit :
+II.-Lorsqu'une œuvre est produite dans le cadre d'une coproduction internationale, cette œuvre doit :
 
 1° Etre financée par une participation française au moins égale à 30 % de son coût définitif ;
 
@@ -15632,7 +15642,7 @@ Les œuvres cinématographiques de courte durée sont réalisées avec le concou
 
 ####### Article 411-13
 
-Les œuvres cinématographiques de courte durée sont réalisées, dans une proportion minimale déterminée dans les conditions fixées par l'arrêté du 21 mai 1992 pris pour l'application de l'article 6 du décret n° 90-66 du 17 janvier 1990 fixant les principes généraux concernant la diffusion des œuvres cinématographiques et audiovisuelles, avec le concours :
+Les œuvres cinématographiques de courte durée sont réalisées, dans une proportion minimale déterminée dans les conditions fixées par l' arrêté du 21 mai 1992 pris pour l'application de l'article 6 du décret n° 90-66 du 17 janvier 1990 fixant les principes généraux concernant la diffusion des œuvres cinématographiques et audiovisuelles, avec le concours :
 
 1° D'auteurs, d'acteurs principaux, de techniciens collaborateurs de création ressortissants français ou assimilés ou ressortissants d'un Etat partie à un accord intergouvernemental de coproduction lorsque l'œuvre est réalisée dans le cadre d'un tel accord ;
 
@@ -15826,7 +15836,7 @@ Les entreprises de production sont éligibles lorsqu'elles ont cumulativement :
 
 ######## Article 411-44
 
-I. - Les aides au programme de production sont attribuées en considération :
+I.-Les aides au programme de production sont attribuées en considération :
 
 1° D'une part, d'une analyse quantitative de l'activité de production, au regard des critères suivants :
 
@@ -15844,7 +15854,7 @@ c) La relation avec les auteurs ;
 
 d) La stratégie de l'entreprise.
 
-II. - Les analyses quantitative et qualitative sont effectuées au moyen d'un nombre de points attribués à l'entreprise de production :
+II.-Les analyses quantitative et qualitative sont effectuées au moyen d'un nombre de points attribués à l'entreprise de production :
 
 1° L'analyse quantitative est effectuée au moyen d'un barème de 100 points prévu à l'article 411-45.
 
@@ -16319,7 +16329,7 @@ Les allocations directes sont attribuées soit au titre d'une œuvre déterminé
 
 ####### Article 412-4
 
-I. - Lorsque les allocations directes sont attribuées pour une œuvre déterminée, cette œuvre doit :
+I.-Lorsque les allocations directes sont attribuées pour une œuvre déterminée, cette œuvre doit :
 
 1° Ne pas être une vidéomusique ou un épisode de série ;
 
@@ -16329,7 +16339,7 @@ I. - Lorsque les allocations directes sont attribuées pour une œuvre détermin
 
 4° Avoir obtenu l'agrément de diffusion prévu à l'article 412-8.
 
-II. - Outre les conditions prévues aux 1°, 2° et 4° du I, les allocations directes sont attribuées pour une œuvre audiovisuelle dont la durée est inférieure ou égale à une heure et pour laquelle une aide à la production des œuvres audiovisuelles a été attribuée dès lors que :
+II.-Outre les conditions prévues aux 1°, 2° et 4° du I, les allocations directes sont attribuées pour une œuvre audiovisuelle dont la durée est inférieure ou égale à une heure et pour laquelle une aide à la production des œuvres audiovisuelles a été attribuée dès lors que :
 
 1° Soit l'œuvre ne répond pas aux conditions permettant l'inscription sur la liste des œuvres de référence prévues à l'article 311-29 ;
 
@@ -16387,7 +16397,7 @@ Les aides à la programmation des œuvres cinématographiques de courte durée s
 
 Les aides à la programmation des œuvres cinématographiques de courte durée sont attribuées en considération :
 
-1° De l'adhésion de l'établissement de spectacles cinématographiques à un organisme qui organise et promeut la diffusion des œuvres cinématographiques de courte durée, notamment, au dispositif Extra Court, aux réseaux CLAP (Nouvelle Aquitaine), Mèche courte (Auvergne - Rhône-Alpes), Cour(t)s devant (Centre), Flux (Hauts-de-France), RADI Bretagne et Quartier Libre (Seine-Saint-Denis) ;
+1° De l'adhésion de l'établissement de spectacles cinématographiques à un organisme qui organise et promeut la diffusion des œuvres cinématographiques de courte durée, notamment, au dispositif Extra Court, aux réseaux CLAP (Nouvelle Aquitaine), Mèche courte (Auvergne-Rhône-Alpes), Cour (t) s devant (Centre), Flux (Hauts-de-France), RADI Bretagne et Quartier Libre (Seine-Saint-Denis) ;
 
 2° Du nombre d'œuvres cinématographiques de courte durée programmées au cours de la période de référence définie à l'article 231-13 ;
 
@@ -19010,7 +19020,7 @@ V-2.1. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'�
 
 (Articles 611-22 et suivants)
 
-I. - Edition ou à la réédition d'une œuvre déterminée :
+I.-Edition ou à la réédition d'une œuvre déterminée :
 
 1° Un budget détaillé ;
 
@@ -19022,7 +19032,7 @@ I. - Edition ou à la réédition d'une œuvre déterminée :
 
 6° Un moyen de visionnage de l'œuvre.
 
-II. - Edition d'un programme d'œuvres :
+II.-Edition d'un programme d'œuvres :
 
 1° Pour les œuvres cinématographiques, la justification de l'inscription au registre public du cinéma et de l'audiovisuel du contrat d'acquisition des droits d'édition vidéographique, ou, si l'éditeur est producteur du programme, du contrat entre le producteur et l'auteur faisant mention de la cession de ces droits ;
 
@@ -19040,7 +19050,7 @@ V-3.1. Documents justificatifs à joindre à l'appui d'une demande d'allocation 
 
 Autorisation d'investissement :
 
-1° Les factures et/ou extraits du Grand Livre relatifs à chacune des œuvres cinématographiques datés, signés et revêtus du cachet de l'entreprise, ou relatifs aux dépenses liées à l'amélioration de la qualité éditoriale et de l'ergonomie de l'offre proposée et des modalités d'accès aux œuvres ;
+1° Les factures et/ ou extraits du Grand Livre relatifs à chacune des œuvres cinématographiques datés, signés et revêtus du cachet de l'entreprise, ou relatifs aux dépenses liées à l'amélioration de la qualité éditoriale et de l'ergonomie de l'offre proposée et des modalités d'accès aux œuvres ;
 
 2° En cas de coûts internes, un relevé détaillé de ces coûts, soit certifié par un expert-comptable ou un commissaire aux comptes lorsque le montant des sommes investies est supérieur ou égal à 100 000 €, soit certifié par le responsable financier de l'entreprise lorsque ce montant est inférieur à 100 000 € ;
 
@@ -19138,7 +19148,7 @@ VI-8.1. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'
 
 (Articles 631-6 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -19154,7 +19164,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -19168,7 +19178,7 @@ VI-8.2. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'
 
 (Articles 631-8 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -19184,7 +19194,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires relatifs à l'investissement dit de référence ;
 
@@ -19198,7 +19208,7 @@ VI-8.3. Documents justificatifs à joindre à l'appui d'une demande d'aide à la
 
 (Articles 631-10 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -19214,7 +19224,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -19226,7 +19236,7 @@ VI-8.4. Documents justificatifs à joindre à l'appui d'une demande d'aide à la
 
 (Articles 631-12 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -19242,7 +19252,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -19256,7 +19266,7 @@ VI-8.5. Documents justificatifs à joindre à l'appui d'une demande d'aide aux p
 
 (Articles 631-14 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -19272,7 +19282,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -19284,7 +19294,7 @@ VI-8.6. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'
 
 (Articles 631-16 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -19300,7 +19310,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -19314,7 +19324,7 @@ VI-8.7. Documents justificatifs à joindre à l'appui d'une demande d'aide à la
 
 (Articles 631-18 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -19330,7 +19340,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Une copie des devis des fournisseurs ou prestataires ;
 
@@ -19342,7 +19352,7 @@ VI-8.8. Documents justificatifs à joindre à l'appui d'une demande d'aide à la
 
 (Articles 631-20 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -19358,7 +19368,7 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
 1° Un état de l'art commercial faisant ressortir les atouts de l'entreprise et du nouveau produit ou service par rapport à la concurrence ;
 
@@ -19380,7 +19390,7 @@ VI-8.9. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'
 
 (Articles 631-23 et suivants)
 
-I. - Dossier Entreprise (une seule fois par an) :
+I.-Dossier Entreprise (une seule fois par an) :
 
 1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
 
@@ -19396,19 +19406,19 @@ b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référenc
 
 5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
 
-II. - Dossier Projet :
+II.-Dossier Projet :
 
-1° Un schéma avant/après faisant figurer explicitement l'innovation de procédé et/ou d'organisation au sein de l'entreprise ;
+1° Un schéma avant/ après faisant figurer explicitement l'innovation de procédé et/ ou d'organisation au sein de l'entreprise ;
 
 2° Un calendrier des tâches ;
 
-3° Une annexe technique et/ou commerciale complémentaire ;
+3° Une annexe technique et/ ou commerciale complémentaire ;
 
 4° Eventuellement, des informations complémentaires sur le projet ;
 
 5° Eventuellement, des éléments visuels permettant de mieux apprécier le projet ;
 
-6° Lorsque la demande implique une modification dans la mise en relation de l'entreprise avec ses partenaires ou ses clients, un schéma avant/après faisant figurer précisément l'évolution de la productivité de l'entreprise grâce à cette modification.
+6° Lorsque la demande implique une modification dans la mise en relation de l'entreprise avec ses partenaires ou ses clients, un schéma avant/ après faisant figurer précisément l'évolution de la productivité de l'entreprise grâce à cette modification.
 
 ## Livre VII : SOUTIEN À LA COOPÉRATION ET À LA DIFFUSION INTERNATIONALE ET EUROPÉENNE
 
