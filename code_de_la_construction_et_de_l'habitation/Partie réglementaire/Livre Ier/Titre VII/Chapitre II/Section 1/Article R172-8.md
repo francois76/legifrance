@@ -1,4 +1,0 @@
-###### Article R172-8
-
-Un arrêté du ministre chargé de l'énergie et du ministre chargé de la construction fixe les modalités de transmission des données utilisées pour le calcul des valeurs mentionnées du 1° au 7° de l'article R. 172-4, conformément à l'article R. 172-7. Ces données sont conservées par le maître d'ouvrage, après l'achèvement des travaux et pendant au moins six ans à compter du dépôt de la déclaration prévue à l'article L. 462-1 du code de l'urbanisme. Elles sont communiquées au premier acquéreur du bâtiment et, dans la limite de la durée de leur conservation, à leur demande, aux acquéreurs ultérieurs, aux personnes habilitées mentionnées à l'article L. 181-1 du présent code, à toute personne chargée d'établir une attestation de prise en compte des règles de construction de la présente section, et à toute personne chargée d'établir le diagnostic de performance énergétique mentionné à l'article L. 126-27 du présent code.
-

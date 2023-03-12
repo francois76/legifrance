@@ -1,4 +1,0 @@
-##### Article D445-1-1
-
-Lorsqu'un établissement public de coopération intercommunale à fiscalité propre reconnu autorité organisatrice de l'habitat dans les conditions prévues à l'article L. 301-5-1-3 souhaite renoncer à être signataire de la convention d'utilité sociale d'un organisme possédant au moins 5 % des logements du parc social situé dans son ressort territorial, à l'exception des offices publics de l'habitat qui lui sont rattachés, il en informe le préfet signataire de la convention et le préfet du département dans lequel est situé le siège social de l'organisme, dans un délai de quatre mois après la date de transmission de la délibération du conseil d'administration ou du directoire de l'organisme lançant l'élaboration de la convention mentionnée aux articles R. 445-2-3, D. 445-17 et R. 445-30.
-

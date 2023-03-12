@@ -1,8 +1,0 @@
-###### Article D312-21
-
-En cas de déchéance du terme du prêt garanti, les fonds mentionnés à l'article L. 312-8 interviennent en garantie à hauteur de 80 % du montant de la perte indemnisable sur le capital restant dû au prêteur conventionné en application du second alinéa du I de l'article L. 312-8 à la date où la garantie est considérée compromise. La garantie est considérée compromise lorsque le montant des échéances impayées devient supérieur à un montant égal à six échéances mensuelles.
-
-Par exception, le comité de gestion mentionné à l'article D. 312-24 peut décider de garantir 100 % du montant de la perte indemnisable sur le capital restant dû au prêteur conventionné en application du second alinéa du I de l'article L. 312-8 à la date où la garantie est considérée compromise, si le bénéficiaire ne peut être assuré au titre du prêt contre les risques de décès ou de perte totale et irréversible d'autonomie en raison de son âge ou du fait d'une prime d'assurance entraînant un taux annuel effectif global supérieur au taux d'usure. Dans ce cas, la garantie est considérée compromise à la date du décès ou de la perte totale et irréversible d'autonomie.
-
-Le prêteur conventionné en application du second alinéa du I de l'article L. 312-8 exerce les diligences nécessaires au recouvrement de la créance restant due sur le prêt et en tient informée la société mentionnée au III de l'article L. 312-8. Il reverse au fonds le montant des recouvrements obtenus sur les créances garanties. Les frais de recouvrement sont pris en charge par le fonds à hauteur de sa participation au risque.
-

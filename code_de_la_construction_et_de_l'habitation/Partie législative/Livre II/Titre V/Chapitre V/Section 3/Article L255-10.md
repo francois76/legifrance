@@ -1,8 +1,0 @@
-###### Article L255-10
-
-Pour tout projet de cession ou donation des droits réels afférents au bien objet du bail réel solidaire, l'acquéreur ou donataire reçoit, de la part du cédant ou donateur, une offre préalable de cession ou de donation mentionnant expressément le caractère temporaire du droit réel, sa date d'extinction, la nouvelle durée du bail réel solidaire résultant de l'application de l'article L. 255-12 si l'organisme foncier solidaire agrée la transmission des droits réels dans les conditions prévues à l'article L. 255-11, les conditions de délivrance de cet agrément par l'organisme de foncier solidaire, les modalités de calcul du prix de vente ou de la valeur donnée, telles que prévues au bail. L'offre reproduit les dispositions du présent chapitre.
-
-Le cédant ou donateur est tenu de maintenir son offre préalable pour une durée de trente jours minimum à compter de sa réception par l'acquéreur ou donataire potentiel. Cette offre ne peut être acceptée par l'acquéreur ou donataire potentiel avant un délai de dix jours à compter de sa réception.
-
-Le cédant ou donateur informe l'organisme de foncier solidaire de son intention de céder les droits réels immobiliers qu'il tient de son bail réel solidaire, dans les trente jours qui suivent la réception par lui de l'acceptation de l'offre préalable de cession ou donation des droits réels et sollicite l'agrément de l'acquéreur ou donataire par l'organisme de foncier solidaire. Il joint à sa demande l'offre préalable de cession ou de donation, les pièces permettant d'établir l'éligibilité de l'acquéreur ou du donataire choisi par lui, ainsi que le dossier de diagnostic immobilier prévu à l'article L. 271-4 du code de la construction et de l'habitation.
-

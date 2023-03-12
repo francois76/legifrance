@@ -1,6 +1,0 @@
-###### Article R126-18
-
-Tout bâtiment d'une surface supérieure à 250 m2, soumis aux dispositions de la présente sous-section et occupé par les services d'une collectivité publique ou d'un établissement public, qui accueille un établissement recevant du public de la 1re à la 4e catégorie au sens de l'article R. 143-19, doit faire l'objet d'un diagnostic de performance énergétique avant le 1er juillet 2017, sauf si celui-ci a déjà été réalisé et est encore en cours de validité. Le propriétaire ou, s'il y a lieu, le gestionnaire ou l'exploitant du bâtiment affiche ce diagnostic pendant toute sa durée de validité de manière visible pour le public à proximité de l'entrée principale ou du point d'accueil.
-
-Lorsqu'un bâtiment d'une surface supérieure à 500 m2 soumis aux dispositions de la présente sous-section accueille un établissement recevant du public de la 1re à la 4e catégorie au sens de l'article R. 143-19 et fait l'objet d'un diagnostic de performance énergétique dans le cadre de sa construction, de sa vente ou de sa location, conformément aux articles L. 126-27, L. 126-28 ou L. 126-29, son propriétaire ou, s'il y a lieu, son gestionnaire ou son exploitant affiche ce diagnostic pendant toute sa durée de validité de manière visible pour le public à proximité de l'entrée principale ou du point d'accueil.
-

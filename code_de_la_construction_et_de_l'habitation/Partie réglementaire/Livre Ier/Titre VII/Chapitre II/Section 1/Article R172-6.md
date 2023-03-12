@@ -1,6 +1,0 @@
-###### Article R172-6
-
-L'atteinte des résultats minimaux fixés à l'article R. 172-4 et de certaines exigences minimales fixées à l'article R. 172-5 est vérifiée suivant une méthode de calcul définie par arrêté des ministres chargés de l'énergie et de la construction. Elle précise, notamment, les règles et hypothèses de calcul à prendre en compte. Pour certaines catégories de bâtiments, une méthode d'application simplifiée peut être prévue.
-
-Lorsque la méthode de calcul n'est pas applicable en raison des spécificités du projet, d'un système, ou du fait de la création ou de la modification conséquente d'un réseau de chaleur ou de froid, le maître d'ouvrage peut proposer une adaptation, spécifique à ce projet, système ou réseau, de la méthode de vérification de l'atteinte des résultats, soumise à l'approbation des ministres chargé de l'énergie et de la construction. L'approbation d'un projet de construction n'est pas obligatoire lorsqu'une attestation de respect des objectifs, au sens de l'article L. 112-9, et portant sur un autre sujet que la performance énergétique, prévoit les données d'entrées spécifiques à la solution d'effet équivalent concernée permettant d'appliquer la méthode de calcul mentionnée au I. Un arrêté des ministres chargés de l'énergie et de la construction détermine les modalités d'application de ces dispositions.
-

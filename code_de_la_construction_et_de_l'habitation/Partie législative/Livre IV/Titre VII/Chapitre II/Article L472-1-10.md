@@ -1,4 +1,0 @@
-##### Article L472-1-10
-
-A Mayotte, les sociétés d'économie mixte de construction mentionnées à l'article L. 472-1-1 sont réputées agréées, à la date de publication de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové, pour exercer leur activité de construction et de gestion de logements sociaux, conformément à la décision 2012/21/ UE de la Commission, du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général, et pour bénéficier d'exonérations fiscales et d'aides spécifiques de l'Etat au titre du service d'intérêt général défini à l'article L. 411-2.
-
