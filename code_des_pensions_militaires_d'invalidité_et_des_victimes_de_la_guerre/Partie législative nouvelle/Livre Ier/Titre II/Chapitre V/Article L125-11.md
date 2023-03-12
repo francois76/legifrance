@@ -1,4 +1,0 @@
-##### Article L125-11
-
-Par dérogation aux dispositions des articles L. 125-8, L. 125-9 et L. 125-10, le taux d'invalidité des grands mutilés de guerre définis à l'article L. 132-1 et des invalides définis à l'article L. 132-2, atteints d'infirmités multiples dont aucune n'entraîne une invalidité de 100 %, est porté à 100 % avec majoration d'un degré tel que défini au premier alinéa de l'article L. 125-10, si, à la ou aux infirmités qui leur ouvrent droit à la qualité de grand mutilé ou aux allocations prévues pour les bénéficiaires de l'article L. 132-2, s'ajoute une autre infirmité remplissant les mêmes conditions d'origine et entraînant à elle seule un pourcentage d'invalidité au moins égal à 60 %. Toute infirmité ajoutée est ensuite décomptée conformément aux dispositions de l'article L. 125-10.
-

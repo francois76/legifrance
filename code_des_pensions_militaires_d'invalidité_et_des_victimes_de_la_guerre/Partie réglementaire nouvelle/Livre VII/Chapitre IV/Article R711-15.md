@@ -1,4 +1,0 @@
-#### Article R711-15
-
-Dans un délai de quatre mois à compter de sa saisine, la commission notifie à l'intéressé sa décision prise sur le recours, qui se substitue à la décision contestée. Cette notification est effectuée par tout moyen lui conférant date certaine de réception. L'absence de décision notifiée à l'expiration du délai de quatre mois vaut décision de rejet du recours formé devant la commission. Le délai de quatre mois est suspendu à compter du jour où le président a informé le demandeur, par tout moyen conférant date certaine de réception, qu'une expertise médicale est diligentée. Le délai recommence à courir à compter de la transmission au demandeur des conclusions de l'expertise médicale, par tout moyen conférant date certaine de réception ou, au plus tard, quatre mois à compter de la date à laquelle le demandeur a été informé de la réalisation de l'expertise médicale.
-
