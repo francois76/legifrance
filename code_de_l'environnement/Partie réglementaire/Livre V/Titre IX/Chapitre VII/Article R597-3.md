@@ -1,4 +1,4 @@
-#### Article R597-3
+##### Article R597-3
 
 En vue de bénéficier d'un plafond réduit de responsabilité, l'exploitant d'installations nucléaires se trouvant sur le même site, au sens du second alinéa de l'article L. 597-2, transmet aux ministres chargés de l'énergie et de la sûreté nucléaire un dossier démontrant que ce site ne comporte que des installations répondant aux conditions définies à l'article R. 597-2. Le cas échéant, l'étude prévue au dernier alinéa de l'article R. 597-2 peut être soumise à tierce expertise sur demande conjointe des ministres chargés de l'énergie et de la sûreté nucléaire.
 

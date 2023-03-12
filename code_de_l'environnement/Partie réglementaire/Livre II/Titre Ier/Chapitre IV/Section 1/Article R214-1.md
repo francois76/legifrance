@@ -181,12 +181,6 @@ a) Travaux de recherche nécessitant un ou plusieurs forages de durée de vie su
 
 b) Autres travaux de recherche (D).
 
-3.3.5.0. Travaux, définis par un arrêté du ministre chargé de l'environnement, ayant uniquement pour objet la restauration des fonctionnalités naturelles des milieux aquatiques, y compris les ouvrages nécessaires à cet objectif (D).
-
-Cette rubrique est exclusive de l'application des autres rubriques de la présente nomenclature.
-
-Ne sont pas soumis à cette rubrique les travaux n'atteignant pas les seuils des autres rubriques de la présente nomenclature.
-
 <strong>TITRE IV</strong>
 
 <strong>IMPACTS SUR LE MILIEU MARIN</strong>
