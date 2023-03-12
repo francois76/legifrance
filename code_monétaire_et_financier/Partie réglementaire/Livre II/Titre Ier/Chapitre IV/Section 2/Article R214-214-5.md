@@ -1,0 +1,6 @@
+###### Article R214-214-5
+
+L'actif d'un fonds commun de placement d'entreprise mentionné à l'article L. 214-165-1 peut comprendre des parts de sociétés anonymes à responsabilité limitée émises par les entreprises régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération lorsque ce fonds est souscrit par les travailleurs de ces entreprises ou par les travailleurs appartenant au même groupe que ces sociétés au sens du 1° du I du même article L. 214-165-1.
+
+Le règlement du fonds peut prévoir que ce dernier puisse investir dans la limite de 10 % de son actif dans les actifs mentionnés au II de l'article R. 214-32-18 et à l'article R. 214-32-19 du présent code, sauf s'il s'agit d'un fonds constitué en vue de gérer des titres émis par l'entreprise ou par toute entreprise appartenant au même groupe au sens du I de l'article L. 214-165-1 du présent code et qui ne sont pas admis aux négociations sur une plate-forme de négociation d'un Etat partie à l'accord sur l'Espace économique européen ou sur une plate-forme de négociation d'un pays tiers reconnue équivalente. Cette limite est portée à 30 % pour les actions ou parts de FIA régis par les articles L. 214-28 et L. 214-30 ou pour les parts ou actions d'organismes de placement collectif immobilier.
+

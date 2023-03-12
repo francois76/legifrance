@@ -1,0 +1,14 @@
+##### Article L144-1
+
+La Banque de France peut entrer directement en relation avec les entreprises et groupements professionnels qui seraient disposés à participer à ses enquêtes. Ces entreprises et groupements professionnels peuvent communiquer à la Banque de France des informations sur leur situation financière.
+
+La Banque de France peut communiquer tout ou partie des renseignements qu'elle détient sur la situation financière des entreprises aux autres banques centrales aux autres institutions chargées d'une mission similaire à celles qui lui sont confiées en France aux conseils régionaux lorsqu'ils attribuent des aides publiques aux entreprises, à l'administration fiscale pour sa mission économique, aux administrations d'Etat à vocation économique ou financière intervenant dans la prévention et le traitement des difficultés des entreprises, aux établissements de crédit et établissements financiers, notamment les sociétés de financement, aux entreprises d'assurance, aux fonds de retraite professionnelle supplémentaire, aux mutuelles, aux mutuelles ou unions de retraite professionnelle supplémentaire, aux institutions de retraite professionnelle supplémentaire et aux institutions de prévoyance qui investissent dans des prêts et des titres assimilés dans les conditions prévues, respectivement, par le code des assurances, le code de la mutualité et le code de la sécurité sociale, à des sociétés de gestion de portefeuille, aux intermédiaires en financement participatif lorsqu'ils exercent l'intermédiation au sens de l'article L. 548-1 pour les opérations de prêt à titre onéreux ou à titre gratuit et aux prestataires des services de financement participatif.
+
+Elle peut aussi communiquer ces renseignements à l'organisme mentionné au premier alinéa de l'article L. 432-2 du code des assurances et aux entreprises d'assurance habilitées, dans les conditions prévues par le code des assurances, à pratiquer en France des opérations d'assurance crédit ou de caution, sous réserve que leurs interventions s'adressent à des entreprises.
+
+Elle établit au préalable les modalités de communication de ces renseignements et fixe les obligations déclaratives et les règles de confidentialité applicables aux entités mentionnées aux deuxième et troisième alinéas lorsqu'elles consentent des prêts ou des aides publiques, investissent dans des prêts et des titres assimilés ou effectuent des opérations d'assurance-crédit ou de caution.
+
+Les méthodes et modèles de notation du risque des entreprises d'assurance mentionnées au troisième alinéa sont transmis à l'Autorité de contrôle prudentiel et de résolution.
+
+Un décret, pris après avis de la Banque de France, fixe les modalités d'application des deuxième et quatrième alinéas aux entités mentionnées au deuxième alinéa, autres que les banques centrales et assimilées, établissements de crédit et établissements financiers.
+

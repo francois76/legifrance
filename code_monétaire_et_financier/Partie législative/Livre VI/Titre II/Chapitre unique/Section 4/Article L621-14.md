@@ -1,0 +1,14 @@
+###### Article L621-14
+
+I. – Dans les cas de manquements mentionnés au II de l'article L. 621-15, le collège de l'Autorité des marchés financiers peut rendre publique une déclaration qui précise l'identité de la personne physique ou morale en cause, de même que la nature du manquement.
+
+II. – Le collège peut, après avoir mis la personne concernée en mesure de présenter ses explications, ordonner qu'il soit mis fin, en France et à l'étranger, aux manquements aux obligations résultant des règlements européens, des dispositions législatives ou réglementaires ou des règles professionnelles visant à protéger les investisseurs contre les opérations d'initiés, les manipulations de marché et la divulgation illicite d'informations privilégiées mentionnées aux c et d du II de l'article L. 621-15, ou à tout autre manquement de nature à porter atteinte à la protection des investisseurs, au bon fonctionnement des marchés ou à tout autre manquement aux obligations relatives à la lutte contre le blanchiment des capitaux et le financement du terrorisme prévues aux chapitres I et II du titre VI du livre V du présent code. Ces décisions sont rendues publiques dans les conditions et selon les modalités prévues au V du même article L. 621-15.
+
+Le collège dispose des mêmes pouvoirs que ceux mentionnés au premier alinéa du présent II à l'encontre des manquements aux obligations résultant des règlements européens, des dispositions législatives ou réglementaires visant à protéger les investisseurs et le marché contre les opérations d'initié, les manipulations de marché et la divulgation illicite d'informations privilégiées mentionnées aux c et d du II de l'article L. 621-15, commis sur le territoire français et concernant des instruments financiers, des unités mentionnées à l'article L. 229-7 du code de l'environnement ou des actifs mentionnés au II de l'article L. 421-1 du présent code admis aux négociations sur un marché réglementé d'un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ou pour lesquels une demande d'admission aux négociations sur un tel marché a été présentée.
+
+III. – Le président de l'Autorité des marchés financiers peut demander en justice qu'il soit ordonné à la personne qui est responsable de la pratique relevée de se conformer aux règlements européens, aux dispositions législatives ou réglementaires, de mettre fin à l'irrégularité ou d'en supprimer les effets.
+
+La demande est portée devant le président du tribunal judiciaire de Paris qui statue en référé. Il peut prendre, même d'office, toute mesure conservatoire et prononcer pour l'exécution de son ordonnance une astreinte versée au Trésor public.
+
+En cas de poursuites pénales, l'astreinte, si elle a été prononcée, n'est liquidée qu'après que la décision sur l'action publique est devenue définitive.
+

@@ -1,0 +1,14 @@
+###### Article R532-8
+
+I. – Avant de délivrer un agrément d'entreprise d'investissement à un requérant qui est une filiale directe ou indirecte d'une entreprise d'assurance, d'une entreprise de réassurance, d'un établissement de crédit, d'une entreprise d'investissement ou d'une société de gestion de portefeuille ayant son siège dans un Etat autre que la France, l'Autorité de contrôle prudentiel et de résolution peut, de sa propre initiative ou à la demande de l'Autorité des marchés financiers, demander à l'autorité chargée de l'agrément de cette entité mère toute information permettant de procéder à l'évaluation de la demande.
+
+II. – Avant d'autoriser en application du I de l'article L. 531-6 une prise ou extension de participation qualifiée directe ou indirecte dans le capital d'une entreprise d'investissement qui est :
+
+1° Soit une filiale d'une entreprise d'assurance, d'une entreprise de réassurance, d'un établissement de crédit, d'une entreprise d'investissement ou d'une société de gestion de portefeuille agréés dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ou agréés dans un secteur financier autre que celui dans lequel l'acquisition est envisagée ;
+
+2° Soit une filiale de l'entreprise mère d'une entreprise d'assurance, d'une entreprise de réassurance, d'un établissement de crédit, d'une entreprise d'investissement ou d'une société de gestion de portefeuille agréés dans un Etat autre membre de l'Union européenne partie à l'accord sur l'Espace économique européen ou agréés dans un secteur financier autre que celui dans lequel l'acquisition est envisagée ;
+
+3° Soit une entreprise contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'assurance, une entreprise de réassurance, un établissement de crédit, une entreprise d'investissement ou une société de gestion de portefeuille agréés dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ou agréés dans un secteur financier autre que celui dans lequel l'acquisition est envisagée.
+
+L'Autorité de contrôle prudentiel et de résolution consulte, sans délai et dans les conditions prévues par le règlement d'exécution de la Commission européenne adopté en application du paragraphe 9 de l'article 12 de la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014, l'autorité compétente, au sens du 4° de l'article L. 517-2, dont relève le candidat acquéreur, en vue d'obtenir toute information essentielle ou pertinente pour procéder à l'évaluation prévue à l'article R. 532-8-1. La décision prise à l'issue de cette évaluation par l'Autorité de contrôle prudentiel et de résolution mentionne les avis ou réserves formulés, le cas échéant, par cette autorité compétente.
+

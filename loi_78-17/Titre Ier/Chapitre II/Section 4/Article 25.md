@@ -1,0 +1,10 @@
+#### Article 25
+
+I.-Pour l'application de l'article 62 du règlement (UE) 2016/679 du 27 avril 2016, la Commission nationale de l'informatique et des libertés coopère avec les autorités de contrôle des autres Etats membres de l'Union européenne, dans les conditions prévues au présent article.
+
+II.-Qu'elle agisse en tant qu'autorité de contrôle concernée ou en tant qu'autorité chef de file au sens des articles 4 et 56 du règlement (UE) 2016/679 du 27 avril 2016, la Commission nationale de l'informatique et des libertés est compétente pour traiter une réclamation ou une éventuelle violation des dispositions du même règlement affectant par ailleurs d'autres Etats membres. Le président de la commission invite les autres autorités de contrôle concernées à participer aux opérations de contrôle conjointes qu'il décide de conduire.
+
+III.-Lorsqu'une opération de contrôle conjointe se déroule sur le territoire français, des membres ou agents habilités de la commission, agissant en tant qu'autorité de contrôle d'accueil, sont présents aux côtés des membres et agents des autres autorités de contrôle participant, le cas échéant, à l'opération. A la demande de l'autorité de contrôle d'un Etat membre, le président de la commission peut habiliter, par décision particulière, ceux des membres ou agents de l'autorité de contrôle concernée qui présentent des garanties comparables à celles requises des agents de la commission, en application de l'article 10 de la présente loi, à exercer, sous son autorité, tout ou partie des pouvoirs de vérification et d'enquête dont disposent les membres et les agents de la commission.
+
+IV.-Lorsque la commission est invitée à contribuer à une opération de contrôle conjointe décidée par l'autorité de contrôle d'un autre Etat membre, le président de la commission se prononce sur le principe et les conditions de la participation, désigne les membres et agents habilités et en informe l'autorité requérante dans les conditions prévues à l'article 62 du règlement (UE) 2016/679 du 27 avril 2016.
+

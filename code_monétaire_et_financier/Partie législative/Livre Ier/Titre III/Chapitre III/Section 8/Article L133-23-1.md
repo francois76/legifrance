@@ -1,0 +1,4 @@
+###### Article L133-23-1
+
+Lorsqu'un utilisateur de services de paiement nie avoir autorisé une opération de paiement qui a été exécutée, ou affirme que l'opération de paiement n'a pas été exécutée correctement, et que l'ordre de paiement est initié par l'intermédiaire d'un prestataire de services de paiement fournissant un service d'initiation de paiement à la demande du payeur, il incombe à ce prestataire de services de paiement de prouver que l'ordre de paiement a été reçu par le prestataire de services de paiement gestionnaire du compte du payeur et que, pour ce qui le concerne, l'opération de paiement a été authentifiée et dûment enregistrée et correctement exécutée qu'elle n'a pas été affectée par une déficience technique ou autre en relation avec soit le service qu'il fournit, soit la non-exécution, la mauvaise exécution ou l'exécution tardive de l'opération.
+

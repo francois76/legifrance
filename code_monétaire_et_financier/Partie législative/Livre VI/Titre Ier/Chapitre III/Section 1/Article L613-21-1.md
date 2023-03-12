@@ -1,0 +1,6 @@
+###### Article L613-21-1
+
+L'Autorité de contrôle prudentiel et de résolution coopère étroitement avec les autres autorités compétentes au sens du point 40 du paragraphe 1 de l'article 4 du règlement (UE) n° 575/2013 et au sens du point 7 du paragraphe 1 de l'article 4 du règlement (UE) 2019/2033. Elle leur communique toute information essentielle ou pertinente pour l'exercice de leurs missions de surveillance. Elle leur transmet, sur demande, toute information pertinente et, de sa propre initiative, toute information essentielle.
+
+L'Autorité de contrôle prudentiel et de résolution coopère étroitement avec les autorités qui exercent des missions équivalentes à celles prévues à l'article L. 561-23 et avec les autorités en charge de superviser les obligations de lutte contre le blanchiment et le financement du terrorisme des autres Etats membres de l'Union européenne ou des autres Etats parties à l'accord sur l'Espace économique européen, et leur communique toute information qui est essentielle et pertinente pour l'exercice de leurs missions respectives, pour autant que cette coopération et cet échange d'informations n'empiètent pas sur une enquête ou une procédure administrative ou pénale en cours en France ou dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
+

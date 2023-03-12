@@ -1,0 +1,6 @@
+###### Article L465-3
+
+I. – Est puni des peines prévues au A du I de l'article L. 465-1 le fait, par une personne disposant d'une information privilégiée concernant un émetteur au sein duquel elle exerce les fonctions de directeur général, de président, de membre du directoire, de gérant, de membre du conseil d'administration, de membre du conseil de surveillance ou une fonction équivalente ou au sein duquel elle détient une participation, par une personne disposant d'une information privilégiée à l'occasion de sa profession ou de ses fonctions ou à l'occasion de sa participation à la commission d'un crime ou d'un délit, ou par toute autre personne disposant d'une information privilégiée en connaissance de cause, de la communiquer à un tiers, à moins qu'elle ne prouve que cette communication intervient dans le cadre normal de sa profession ou de ses fonctions, y compris lorsqu'elle relève d'un sondage de marché effectué conformément aux 1 à 8 de l'article 11 du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/ CE, 2003/125/ CE et 2004/72/CE de la Commission.
+
+II. – La tentative de l'infraction prévue au I du présent article est punie des mêmes peines.
+

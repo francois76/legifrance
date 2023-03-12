@@ -1,0 +1,8 @@
+###### Article L214-24-34
+
+Sous réserve de l'article L. 214-24-41, le fonds commun de placement, qui n'a pas la personnalité morale, est une copropriété d'instruments financiers et de dépôts dont les parts sont émises et rachetées à la demande, selon le cas, des souscripteurs ou des porteurs et à la valeur liquidative majorée ou diminuée, selon les cas, des frais et commissions. Ne s'appliquent pas au fonds commun de placement les dispositions du code civil relatives à l'indivision ni celles des articles 1871 à 1873 du même code relatives aux sociétés en participation.
+
+Les parts peuvent être admises aux négociations sur un marché réglementé ou un système multilatéral de négociation dans des conditions fixées par décret.
+
+Le règlement général de l'Autorité des marchés financiers fixe les conditions de souscription, de cession et de rachat des parts émises par le fonds commun de placement.
+

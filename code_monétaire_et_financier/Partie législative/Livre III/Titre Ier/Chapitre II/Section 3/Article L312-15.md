@@ -1,0 +1,12 @@
+###### Article L312-15
+
+I. – Dans l'exercice de sa mission d'indemnisation prévue au I de l'article L. 312-5, le fonds de garantie des dépôts et de résolution a accès aux informations détenues par ses adhérents, par l'Autorité de contrôle prudentiel et de résolution, son collège de supervision ou son collège de résolution et qui sont nécessaires à l'organisation, à la préparation et à l'exécution de sa mission, y compris celles couvertes par le secret professionnel mentionné à l'article L. 511-33.
+
+Le fonds de garantie des dépôts et de résolution coopère et peut échanger des informations nécessaires à l'exercice de leurs missions respectives avec l'Autorité de contrôle prudentiel et de résolution, son collège de supervision ou son collège de résolution ainsi qu'avec les autorités d'un autre Etat partie à l'accord sur l'Espace économique européen qui sont chargées de l'administration d'un système de garantie des dépôts équivalent.
+
+II. – Lorsque le collège de supervision ou de résolution de l'Autorité de contrôle prudentiel et de résolution estime ou est informé qu'un établissement est susceptible de faire l'objet d'une intervention du fonds de garantie des dépôts et de résolution en application de l'article L. 312-5, le collège compétent en informe le fonds dans les meilleurs délais. Si la mise en œuvre des II et III de l'article L. 312-5 est envisagée, le fonds a accès, par l'intermédiaire de l'Autorité, à l'ensemble des documents comptables, juridiques, administratifs et financiers relatifs à la situation et aux éléments d'actif et de passif de l'établissement qui est susceptible de faire l'objet de son intervention, y compris les documents couverts par le secret professionnel mentionné au I de l'article L. 511-33 ainsi qu'aux rapports des commissaires aux comptes.
+
+III. – Une ou plusieurs conventions règlent les rapports, les obligations respectives, les modalités de coopération et d'échange d'informations entre le fonds de garantie des dépôts et de résolution et l'Autorité de contrôle prudentiel et de résolution ainsi que les conditions dans lesquelles le fonds perçoit ou collecte les contributions mentionnées à l'article L. 312-8-1.
+
+IV. – Le fonds de garantie des dépôts et de résolution peut communiquer les informations et documents obtenus en application des I et II du présent article aux personnes qui concourent, sous sa responsabilité, à l'accomplissement de ses missions. Ces personnes sont tenues au secret professionnel dans les conditions prévues à l'article L. 312-14.
+

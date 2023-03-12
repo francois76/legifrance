@@ -1,0 +1,8 @@
+##### Article L523-4
+
+I. – Lorsqu'un prestataire de services de paiement, autre qu'un établissement de crédit, ayant son siège social sur le territoire de la France métropolitaine, en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte ou à Saint-Martin, souhaite recourir à un agent pour fournir des services de paiement dans un autre Etat membre de l'Union Européenne ou partie à l'accord sur l'Espace économique européen, les procédures prévues au I de l'article L. 522-13 sont applicables.
+
+II. – Lorsqu'un prestataire de services de paiement, autre qu'un établissement de crédit agréé dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaite recourir à un agent pour fournir des services de paiement sur le territoire de la France métropolitaine, en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte ou à Saint-Martin, les procédures prévues au II de l'article L. 522-13 sont applicables.
+
+III. – Lorsqu'un établissement de crédit agréé dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaite fournir des services de paiement sur le territoire de la France métropolitaine, en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte ou à Saint-Martin, par l'intermédiaire d'un agent, il informe l'Autorité de contrôle prudentiel et de résolution de son projet et lui adresse préalablement les informations dont la nature est déterminée par arrêté du ministre chargé de l'économie. Les dispositions du second alinéa du 1° du II de l'article L. 522-13 s'appliquent.
+

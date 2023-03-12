@@ -1,0 +1,6 @@
+###### Article L511-62
+
+En vue de lui permettre d'assurer la mission prévue à l'article L. 511-60, le conseil d'administration, le conseil de surveillance ou tout autre organe exerçant des fonctions de surveillance équivalentes est informé, par les personnes mentionnées à l'article L. 511-13, de l'ensemble des risques significatifs, des politiques de gestion des risques et des modifications apportées à celles-ci.
+
+Dans le cas d'une succursale d'établissement de crédit mentionnée au I de l'article L. 511-10, les personnes mentionnées au second alinéa de l'article L. 511-13 transmettent, à l'organe de l'établissement de crédit dont dépend cette succursale qui exerce des fonctions de surveillance équivalentes à celles d'un conseil d'administration ou d'un conseil de surveillance, les informations sur l'ensemble des risques significatifs, sur les politiques de gestion des risques et les modifications apportées à celles-ci ainsi que toute autre information permettant à cet organe d'approuver et de revoir régulièrement les stratégies et politiques régissant la prise, la gestion, le suivi et la réduction des risques auxquels la succursale est ou pourrait être exposée, y compris les risques engendrés par l'environnement économique.
+

@@ -1,0 +1,8 @@
+###### Article L420-9
+
+I. – Le gestionnaire d'une plate-forme de négociation instaure et maintient des dispositions et procédures, y compris les ressources nécessaires, en vue de contrôler de façon régulière que ses membres respectent les règles de la plate-forme de négociation et en vue de surveiller le bon déroulement des transactions effectuées sur celle-ci. Il surveille les ordres transmis, y compris les annulations, et les transactions effectuées par les membres sur la plate-forme de négociation, en vue de détecter tout manquement à ces règles, toute condition de négociation de nature à perturber le bon ordre du marché et toute conduite potentiellement révélatrice d'un comportement interdit en vertu du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché ou tout dysfonctionnement du système lié à un instrument financier.
+
+II. – Le gestionnaire d'une plate-forme de négociation signale immédiatement à l'Autorité des marchés financiers tout manquement significatif aux règles de la plate-forme, toute condition de négociation de nature à perturber le bon ordre du marché et toute conduite potentiellement révélatrice d'un comportement interdit en vertu du règlement (UE) n° 596/2014 précité ou tout dysfonctionnement du système lié à un instrument financier.
+
+III. – Le gestionnaire de la plate-forme de négociation communique sans délai à l'autorité habilitée à instruire et poursuivre les infractions mentionnées au II toute information pertinente et utile concernant ces manquements. Il lui prête toute l'aide nécessaire pour instruire et poursuivre les manquements commis sur la plate-forme de négociation ou par l'intermédiaire de ses systèmes.
+

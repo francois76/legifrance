@@ -1,0 +1,4 @@
+###### Article D517-8
+
+Les dispositions des articles D. 517-1 et D. 517-7 sont également applicables aux compagnies financières holding mixte dont le coordonnateur est l'Autorité de contrôle prudentiel et de résolution.
+

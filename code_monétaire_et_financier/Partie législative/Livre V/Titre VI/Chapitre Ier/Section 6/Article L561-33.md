@@ -1,0 +1,14 @@
+###### Article L561-33
+
+I. – Lorsque les personnes mentionnées à l'article L. 561-2 font partie d'un groupe au sens de l'article L. 511-20, d'un conglomérat financier au sens de l'article L. 517-3, d'un groupe au sens des articles L. 322-1-2, L. 322-1-3 et L. 356-2 du code des assurances, au sens de l'article L. 111-4-2 du code de la mutualité ou au sens de l'article L. 931-2-2 du code de la sécurité sociale, ou d'un groupe défini comme un ensemble de sociétés dont l'une contrôle les autres au sens de l'article L. 233-3 du code de commerce, elles mettent en place au niveau du groupe une organisation et des procédures qui tiennent compte des risques identifiés par la classification des risques mentionnée à l'article L. 561-4-1. L'organisation et les procédures au niveau du groupe sont définies par l'entreprise mère du groupe lorsque celle-ci a son siège social en France.
+
+Ces procédures prévoient le partage des informations au sein du groupe, y compris pour l'application de l'article L. 511-34, la protection des données à caractère personnel ainsi que les mesures de contrôle interne.
+
+II. – 1° Les personnes mentionnées à l'article L. 561-2 et le cas échéant l'entreprise mère du groupe appliquent dans leurs succursales et filiales situées dans les pays tiers des mesures équivalentes à celles prévues au présent chapitre en matière de vigilance à l'égard du client, de partage et de conservation des informations et de protection des données ;
+
+2° Lorsque le droit applicable localement ne leur permet pas de mettre en œuvre dans leurs succursales et filiales situées dans les pays tiers les mesures équivalentes, mentionnées ci-dessus, elles veillent à ce que ces succursales et filiales appliquent des mesures de vigilance spécifiques. Elles en informent le service mentionné à l'article L. 561-23 et l'autorité de contrôle mentionnée à l'article L. 561-36 dont ils relèvent. Si elle estime que les mesures spécifiques sont insuffisantes, cette autorité de contrôle impose des mesures de surveillance supplémentaires, en exigeant notamment que le groupe n'établisse pas de relations d'affaires ou qu'il y mette fin, qu'il n'effectue pas d'opérations et le cas échéant qu'il cesse ses activités dans le pays tiers concerné ;
+
+3° Les personnes mentionnées à l'article L. 561-2 qui exploitent des succursales dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'espace économique européen veillent à ce que ces succursales respectent les dispositions applicables dans cet Etat.
+
+III. – Les dispositions du présent article ne s'appliquent pas aux personnes mentionnées à l'article L. 561-2 qui font partie d'un groupe dont l'entreprise mère est une compagnie holding mixte ou une entreprise mère mixte de société de financement définies à l'article L. 517-4-1 ou une société de groupe mixte d'assurance définie à l'article L. 322-1-2 du code des assurances.
+
