@@ -24,16 +24,14 @@ jobs:
       matrix:
         nom: "${{ fromJson(needs.prepare.outputs.STRINGS) }}"
     steps:
-      - name: Setup Python environment
-        uses: actions/setup-python@v3
+      - uses: actions/setup-python@v4
         with:
-          python-version: "3.9"
+          python-version: '3.9'
+          cache: 'pip' # caching pip dependencies
       - name: Checkout current repo
         uses: actions/checkout@v3
       - name: Install mdsplit
         run: |
-          curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
-          python3 get-pip.py
           pip3 install mdsplit
           mkdir -p source_md/
       - name: Download source files
@@ -43,7 +41,7 @@ jobs:
             git config --global user.email 'github@users.noreply.github.com'
             cd source/"$nom"
             mv git .git
-            git pull || true
+            git pull --rebase
             mv .git git
             cd ../..
             git add .
