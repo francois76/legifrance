@@ -1,8 +1,0 @@
-###### Article L102 AH
-
-Les personnes mentionnées à l'article L. 561-2 du code monétaire et financier et, dans la mesure où cela s'inscrit dans l'exercice normal de leurs missions en application du chapitre Ier du titre VI du livre V du même code, les autorités de contrôle mentionnées à l'article L. 561-36 du même code, signalent à l'administration toute divergence qu'elles constatent entre les informations conservées dans le registre prévu à l'article 1649 AB du code général des impôts ou dans celui prévu à l'article 2020 du code civil d'une part, et les informations sur les bénéficiaires effectifs dont elles disposent, d'autre part, y compris l'absence d'enregistrement de ces informations.
-
-L'administration informe l'administrateur d'un trust défini à l'article 792-0 bis du code général des impôts ou le fiduciaire de la divergence ainsi signalée de manière à lui permettre de formuler des observations. En cas d'acceptation du constat de la divergence ou de réponse suffisante de l'administrateur ou du fiduciaire, l'administration modifie ou complète les informations conservées dans le registre prévu à l'article 1649 AB du code général des impôts et le registre prévu à l'article 2020 du code civil. En l'absence de réponse, ou à défaut de réponse suffisante de l'administrateur ou du fiduciaire, la divergence est mentionnée dans le registre des trusts prévu à l'article 1649 AB du code général des impôts ou dans le registre des fiducies prévu à l'article 2020 du code civil, et il peut être fait application de la sanction prévue au IV bis de l'article 1736 du code général des impôts.
-
-Les modalités d'application du présent article sont fixées par décret.
-

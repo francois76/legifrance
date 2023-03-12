@@ -1,4 +1,0 @@
-###### Article L135 P
-
-Le secret professionnel ne peut être opposé aux agents mentionnés à l'article L. 216-3 du code de l'environnement qui sont chargés de procéder à la recherche et à la constatation des infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 211-12, L. 211-14, du II de l'article L. 212-5-1, de l'article L. 213-10-8 et des articles L. 214-1 à L. 214-9, L. 214-11, L. 214-12, L. 214-17, L. 214-18 , L. 216-6, L. 231-1 et L. 231-2 du même code, ainsi que des textes et des décisions pris pour leur application.
-

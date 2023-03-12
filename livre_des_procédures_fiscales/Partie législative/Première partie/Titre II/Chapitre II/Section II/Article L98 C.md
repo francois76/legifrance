@@ -1,4 +1,0 @@
-###### Article L98 C
-
-Les organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale communiquent à l'administration fiscale, avant le 30 juin de chaque année, les éléments nécessaires à l'établissement et au contrôle des impositions dues par les travailleurs indépendants mentionnés à l'article L. 613-7 du même code. Cette communication comporte le numéro d'inscription au répertoire national d'identification des personnes physiques aux seules fins de la vérification par l'administration fiscale de la fiabilité des éléments d'identification des personnes physiques figurant dans les traitements de données relatives à l'assiette, au contrôle et au recouvrement des impositions dues. Les modalités de réalisation de cette communication sont déterminées par décret en Conseil d'Etat.
-

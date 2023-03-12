@@ -1,4 +1,0 @@
-###### Article R60-2 A
-
-A la demande de l'un de ses membres, la commission des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du code général des impôts, la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 H du même code et le comité consultatif des crédits d'impôt pour dépenses de recherche prévu à l'article 1653 F du même code peuvent, s'ils l'estiment utile, entendre en séance tout fonctionnaire ou agent qui a pris part à la détermination de la base d'imposition ou à la qualification des dépenses prises en compte pour la détermination du crédit d'impôt défini à l'article 244 quater B du code général des impôts ou à l'article 244 quater B bis du même code qui fait l'objet du désaccord dont ils sont saisis ou, en cas d'absence ou de mutation, son successeur ou remplaçant.
-

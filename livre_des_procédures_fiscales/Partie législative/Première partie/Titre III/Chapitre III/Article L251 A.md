@@ -1,4 +1,0 @@
-##### Article L251 A
-
-Chaque année, le ministre chargé du budget publie un rapport sur l'application de la politique de remises et de transactions à titre gracieux par l'administration fiscale, qui mentionne le nombre, le montant total, le montant médian et le montant moyen des remises accordées, répartis par type de remise accordée et par imposition concernée, pour les personnes morales et pour les personnes physiques. Ce rapport mentionne également ces mêmes informations concernant les règlements d'ensemble réalisés par l'administration fiscale. Il présente enfin les conventions judiciaires d'intérêt public signées en matière fiscale. Ce rapport peut faire l'objet d'un débat chaque année devant les commissions permanentes compétentes en matière de finances de l'Assemblée nationale et du Sénat. [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-679 DC du 4 décembre 2013].
-
