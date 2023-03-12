@@ -1,0 +1,4 @@
+###### Article L192-1
+
+Pour l'application en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte de l'article L. 113-15, les mots : "les zones non interconnectées au réseau métropolitain continental mentionnées au IV de l'article L. 141-5 du code de l'énergie, par le volet annexé à la programmation pluriannuelle de l'énergie mentionnée au même IV" sont remplacés par les mots : "la Guadeloupe, la Martinique, La Réunion, la Guyane et Mayotte, par les programmations pluriannuelles de l'énergie mentionnées au I de l'article L. 141-5 du code de l'énergie, au plus tard le 1er janvier 2022. Ces précisions sont intégrées à l'initiative du Gouvernement ou du président de la collectivité dans les programmations pluriannuelles de l'énergie dans le cadre d'une procédure de révision simplifiée, conformément au III de l'article L. 141-5 du code susmentionné et selon des modalités fixées par le décret mentionné à l'article L. 141-6 du même code".
+

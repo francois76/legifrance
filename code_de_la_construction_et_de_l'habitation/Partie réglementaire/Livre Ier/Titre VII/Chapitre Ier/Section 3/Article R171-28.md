@@ -1,0 +1,4 @@
+###### Article R171-28
+
+Lorsqu'un produit entre dans le champ d'application des mesures d'exécution prises par la Commission européenne en application de l'article 15 de la directive 2009/125/ CE du Parlement européen et du Conseil du 21 octobre 2009 établissant un cadre pour la fixation d'exigences en matière d'éco-conception applicables aux produits liés à l'énergie ou est réglementé par des actes délégués adoptés par la Commission européenne en application des articles 16 et 20 du règlement (UE) 2017/1369 du Parlement européen et du Conseil du 4 juillet 2017 établissant un cadre pour l'étiquetage énergétique, les règles de définition des catégories de produits utilisées pour l'élaboration de la déclaration environnementale de ce produit respectent ces mesures d'exécution ou ces actes délégués.
+

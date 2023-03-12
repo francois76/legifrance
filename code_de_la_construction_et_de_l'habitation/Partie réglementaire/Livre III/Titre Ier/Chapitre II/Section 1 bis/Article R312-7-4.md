@@ -1,0 +1,6 @@
+###### Article R312-7-4
+
+La garantie du fonds est sollicitée par les établissements de crédit et les sociétés de financement dans un délai d'un an à compter de la date de recevabilité du sinistre. Dans le cadre des avances remboursables sans intérêt mentionnées au chapitre IX du titre Ier du livre III du présent code (partie réglementaire) consenties à titre individuel à une personne physique, ce sinistre est caractérisé, notamment, après un incident de paiement ou le constat d'une situation financière durablement compromise ainsi que par une action de l'établissement de crédit ayant pour but de régler la créance. Toute action à l'encontre de l'emprunteur défaillant est alors suspendue. Dans le cadre des prêts avance mutation mentionnés au 4° du I de l'article L. 312-7, ce sinistre est caractérisé lorsque le montant total restant dû au prêteur lors de la mutation du bien n'est pas intégralement remboursé.
+
+La perte indemnisable par le fonds couvre toutes les sommes dues par l'emprunteur, après perception des sommes éventuellement recouvrées au titre des garanties ou des assurances souscrites par l'emprunteur. Les sommes recouvrées par les établissements de crédit et les sociétés de financement après la mise en jeu de la garantie sont affectées prioritairement au remboursement du fonds.
+

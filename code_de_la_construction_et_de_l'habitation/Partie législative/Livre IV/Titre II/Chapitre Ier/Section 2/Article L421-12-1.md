@@ -1,0 +1,4 @@
+###### Article L421-12-1
+
+Un directeur général d'office peut occuper une autre fonction de direction, dès lors qu'elle n'est qu'accessoire et ne donne lieu à aucune rémunération supplémentaire. Par dérogation, lorsqu'un directeur général d'office assure également la direction d'une société de coordination prévue à l'article L. 423-1-2 dont est actionnaire l'office qu'il dirige, les fonctions de direction de cette société de coordination peuvent donner lieu à une rémunération dans des conditions prévues par décret en Conseil d'Etat. Un tel cumul ne peut concerner qu'un organisme d'habitations à loyer modéré au sens de l'article L. 411-2, une société d'économie mixte exerçant une activité de construction et de gestion de logements sociaux ainsi que, le cas échéant, d'aménagement ou un organisme mentionné à l'article L. 365-1.
+

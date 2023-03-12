@@ -1,0 +1,38 @@
+###### Article L443-11
+
+I. – L'organisme propriétaire peut vendre tout logement à un autre organisme d'habitations à loyer modéré ou à une société d'économie mixte agréée au titre de l'article L. 481-1 du présent code ou à un organisme bénéficiant de l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L. 365-2 du présent code ou à un organisme de foncier solidaire défini à l'article L. 329-1 du code de l'urbanisme en vue de la conclusion d'un bail réel solidaire tel que défini aux articles L. 255-1 à L. 255-5 du présent code, sans qu'il soit fait application des conditions d'ancienneté, d'habitabilité et de performance énergétique prévues à l'article L. 443-7. La convention mentionnée à l'article L. 353-2 n'est pas résiliée de droit et les locataires en place continuent à bénéficier des conditions antérieures de location.
+
+Les aliénations aux bénéficiaires mentionnés au premier alinéa du présent I ne font pas l'objet de l'autorisation prévue à l'article L. 443-7 mais font l'objet d'une simple déclaration au représentant de l'Etat dans le département et au maire de la commune d'implantation des logements aliénés.
+
+Le prix de vente aux bénéficiaires mentionnés au premier alinéa du présent I est fixé librement par l'organisme.
+
+Toutefois, lorsqu'une aliénation à ces bénéficiaires conduit à diminuer de plus de 30 % le parc de logements locatifs détenu sur les trois dernières années par un organisme d'habitations à loyer modéré, elle doit faire l'objet d'une demande d'autorisation auprès du représentant de l'Etat dans le département. Cette demande d'autorisation doit mentionner la motivation du conseil d'administration ou du directoire et préciser si cette cession se fait dans le cadre d'un projet de dissolution de l'organisme. Dans ce dernier cas, l'autorisation d'aliéner est examinée au regard des conditions de mise en œuvre des dispositions relatives à la dissolution de l'organisme.
+
+En cas de non-respect de l'obligation prévue à l'avant-dernier alinéa du présent I, l'acte entraînant le transfert de propriété est entaché de nullité. L'action en nullité peut être intentée par l'autorité administrative ou par un tiers dans un délai de cinq ans à compter de la publication de l'acte au fichier immobilier.
+
+II. – Un logement occupé ne peut être vendu qu'à son locataire, s'il occupe le logement depuis au moins deux ans. Toutefois, sur demande du locataire qui occupe le logement depuis au moins deux ans, le logement peut être vendu à son conjoint ou, s'ils ne disposent pas de ressources supérieures à celles qui sont fixées par l'autorité administrative, à ses ascendants et descendants qui peuvent acquérir ce logement de manière conjointe avec leur conjoint, partenaire ayant conclu un pacte civil de solidarité ou concubin.
+
+Tout locataire qui occupe le logement depuis au moins deux ans peut adresser à l'organisme propriétaire une demande d'acquisition de son logement. La réponse de l'organisme doit être motivée et adressée à l'intéressé dans les deux mois suivant la demande.
+
+Les logements occupés auxquels sont appliqués les plafonds de ressources des prêts locatifs sociaux peuvent aussi être vendus, s'ils ont été construits ou acquis par un organisme d'habitations à loyer modéré depuis plus de quinze ans, à des personnes morales de droit privé. Dans ce cas, les baux et la convention mentionnée à l'article L. 353-2 demeurent jusqu'au départ des locataires en place.
+
+III. – Les logements vacants des organismes d'habitations à loyer modéré peuvent être vendus, dans l'ordre décroissant de priorité :
+
+- à toute personne physique remplissant les conditions auxquelles doivent satisfaire les bénéficiaires des opérations d'accession à la propriété, mentionnées à l'article L. 443-1, parmi lesquels l'ensemble des locataires de logements appartenant aux bailleurs sociaux disposant de patrimoine dans le département, ainsi que les gardiens d'immeuble qu'ils emploient sont prioritaires ;
+- à une collectivité territoriale ou un groupement de collectivités territoriales.
+- à toute autre personne physique.
+
+Les logements vacants auxquels sont appliqués les plafonds de ressources des prêts locatifs sociaux peuvent être vendus s'ils ont été construits ou acquis par un organisme d'habitations à loyer modéré depuis plus de quinze ans, aux bénéficiaires mentionnés aux deuxième à avant-dernier alinéas du présent III auxquels s'ajoute, en dernier ordre de priorité, toute personne morale de droit privé.
+
+IV. – La mise en vente du ou des logements doit se faire par voie d'une publicité dont les modalités sont fixées par décret en Conseil d'Etat et à un prix fixé par l'organisme propriétaire en prenant pour base le prix d'un logement comparable, libre d'occupation lorsque le logement est vacant, ou occupé lorsque le logement est occupé.
+
+Lorsqu'une personne physique a acquis soit un logement auprès d'un organisme d'habitations à loyer modéré, soit un logement locatif appartenant à une société d'économie mixte ou à l'association mentionnée à l'article L. 313-34 et faisant l'objet d'une convention conclue en application de l'article L. 831-1, elle ne peut se porter acquéreur d'un autre logement appartenant à un organisme d'habitations à loyer modéré ou appartenant à une société d'économie mixte ou à l'association mentionnée à l'article L. 313-34 et faisant l'objet d'une convention conclue en application de l'article L. 831-1, sous peine d'entacher de nullité le contrat de vente de cet autre logement. Toutefois, cette interdiction ne s'applique pas en cas de mobilité professionnelle impliquant un trajet de plus de soixante-dix kilomètres entre le nouveau lieu de travail et le logement, ou si le logement est devenu inadapté à la taille du ménage ou en cas de séparation du ménage, sous réserve de la revente préalable du logement précédemment acquis.
+
+V. – Tous les logements, vacants ou occupés, peuvent également être vendus dans le cadre d'opérations de renouvellement urbain aux établissements publics créés en application du chapitre Ier du titre II du livre III du code de l'urbanisme et des articles L. 324-1 et L. 326-1 du même code, en vue de leur démolition préalablement autorisée par le représentant de l'Etat dans le département ; dans ce cas, les baux demeurent jusqu'au départ des locataires en place, le cas échéant.
+
+VI. – Afin d'assurer l'équilibre économique et social d'un ou plusieurs ensembles d'habitations ou d'un quartier connaissant des difficultés particulières, l'organisme d'habitations à loyer modéré propriétaire peut, après accord du représentant de l'Etat dans le département, qui consulte la commune d'implantation, vendre des logements vacants à toute personne physique ou morale.
+
+VII. – Lorsqu'il est procédé à la vente d'un ensemble de plus de cinq logements d'un même immeuble ou ensemble immobilier, vacants ou occupés, auxquels sont appliqués les plafonds de ressources des prêts locatifs sociaux et qui ont été construits ou acquis depuis plus de quinze ans par un organisme d'habitations à loyer modéré, ces logements peuvent être cédés à toute personne morale de droit privé sans qu'il y ait lieu d'appliquer, pour les logements vacants, l'ordre de priorité mentionné au III du présent article. Pour les logements occupés, les baux et la convention mentionnée à l'article L. 353-2 demeurent jusqu'au départ des locataires en place.
+
+Les dispositions du IV du présent article et celles de l'article L. 443-12 ne sont pas applicables à la mise en vente d'un ensemble de logements en application du premier alinéa du présent VII. Le prix de vente est librement fixé par l'organisme propriétaire.
+
