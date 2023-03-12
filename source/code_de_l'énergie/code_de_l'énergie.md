@@ -12662,14 +12662,11 @@ Les procès-verbaux constatant un manquement conformément à l'article L. 135-1
 
 ###### Article D141-1
 
-I. - La révision simplifiée de la programmation pluriannuelle de l'énergie ne peut porter que sur les deux périodes de la programmation initiale.
+(article manquant)
 
-Le projet de programmation révisée est approuvé par décret après transmission, pour information, au Conseil national de la transition écologique. La programmation révisée est transmise pour information aux commissions permanentes de l'Assemblée nationale et du Sénat chargées de l'énergie et de l'environnement.
+###### Article R141-1-1
 
-II. - Pour les programmations mentionnées au I de l'article L. 141-5 :
-
-- lorsque l'initiative de la révision simplifiée émane de la collectivité, le ministre chargé de l'énergie vérifie que les modifications envisagées ne modifient pas l'économie générale de la programmation initiale, notamment au regard de leur impact sur les ressources publiques ;
-- le projet est approuvé par l'organe délibérant de la collectivité concernée préalablement à son approbation selon les modalités prévues au deuxième alinéa du I.
+La programmation pluriannuelle de l'énergie fait l'objet d'une concertation préalable, organisée sous l'égide d'un garant selon les modalités définies aux articles L. 121-16 et L. 121-16-1 du code de l'environnement. L'information du public prévue à l'article L. 121-16 du code de l'environnement précise, le cas échéant, si cette concertation préalable est commune avec celle relative à la stratégie nationale bas-carbone.
 
 ###### Article D141-2
 
@@ -12677,9 +12674,7 @@ La réalisation des objectifs fixés par les programmations pluriannuelles de l'
 
 L'année précédant l'échéance d'une période de la programmation, cette évaluation est intégrée au rapport mentionné au II de l'article L. 100-4.
 
-###### Article D141-2-1
-
-Le volet annexé à la programmation pluriannuelle de l'énergie mentionné au IV de l'article L. 141-5 concerne les zones non interconnectées habitées de manière permanente.
+###### (sans titre)
 
 ##### Section  2 : Dispositions spécifiques à l'électricité
 
