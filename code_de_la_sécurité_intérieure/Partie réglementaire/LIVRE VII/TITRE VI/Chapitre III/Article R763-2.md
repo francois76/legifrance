@@ -12,5 +12,7 @@ a) Dans les eaux bordant les terres françaises des Antilles, notamment composé
 
 b) Dans la zone de défense et de sécurité des Antilles, notamment composée de Saint-Barthélemy et de Saint-Martin, les mots : " officier général de zone de défense et de sécurité " sont remplacés par les mots : " officier général commandant supérieur ".
 
-Le délégué du Gouvernement dispose du centre opérationnel. Il décide de sa mise en œuvre, de son niveau d'emploi et de ses missions. Il convoque les représentants des personnes publiques et privées nécessaires à son fonctionnement. En outre, pour assurer la veille permanente des risques et menaces, il dispose des centres régionaux opérationnels de surveillance et de sauvetage, lorsqu'ils existent, et des centres opérationnels interarmées.
+Le délégué du Gouvernement dispose du centre opérationnel. Il décide de sa mise en œuvre, de son niveau d'emploi et de ses missions. Il convoque les représentants des personnes publiques et privées nécessaires à son fonctionnement. En outre, pour assurer la veille permanente des risques et menaces, il dispose des centres régionaux opérationnels de surveillance et de sauvetage, lorsqu'ils existent, et des centres opérationnels interarmées ;
+
+4° Pour l'application des articles R. 723-93 et R. 723-95, la référence au médecin-chef de la sous-direction santé du service d'incendie et de secours est remplacée par une référence à un médecin chargé du suivi de l'aptitude des sapeurs-pompiers.
 
