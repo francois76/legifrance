@@ -1,6 +1,0 @@
-#### Article 78
-
-Lorsque les traitements de données à caractère personnel sont mis en œuvre par les services publics d'archives à des fins archivistiques dans l'intérêt public conformément à l'article L. 211-2 du code du patrimoine, les droits prévus aux articles 15,16 et 18 à 21 du règlement (UE) 2016/679 du 27 avril 2016 ne s'appliquent pas dans la mesure où ces droits rendent impossible ou entravent sérieusement la réalisation de ces finalités. Les conditions et garanties appropriées prévues à l'article 89 du même règlement sont déterminées par le code du patrimoine et les autres dispositions législatives et réglementaires applicables aux archives publiques. Elles sont également assurées par le respect des normes conformes à l'état de l'art en matière d'archivage électronique.
-
-Un décret en Conseil d'Etat, pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés, détermine dans quelles conditions et sous réserve de quelles garanties il peut être dérogé en tout ou partie aux droits prévus aux articles 15,16,18 et 21 du même règlement, en ce qui concerne les traitements à des fins de recherche scientifique ou historique, ou et à des fins statistiques.
-

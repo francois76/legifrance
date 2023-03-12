@@ -1,4 +1,0 @@
-### Article 38
-
-Toute personne peut mandater une association ou une organisation mentionnée au IV de l'article 37, une association ou une organisation dont l'objet statutaire est en relation avec la protection des droits et libertés lorsque ceux-ci sont méconnus dans le cadre d'un traitement de données à caractère personnel, ou une association dont cette personne est membre et dont l'objet statutaire implique la défense d'intérêts en relation avec les finalités du traitement litigieux, aux fins d'exercer en son nom les droits prévus aux articles 77 à 79 et 82 du règlement (UE) 2016/679 du 27 avril 2016. Elle peut également les mandater pour agir devant la Commission nationale de l'informatique et des libertés, contre celle-ci devant un juge ou contre le responsable de traitement ou son sous-traitant devant une juridiction lorsqu'est en cause un traitement relevant du titre III de la présente loi.
-
