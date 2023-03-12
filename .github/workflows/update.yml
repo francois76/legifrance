@@ -32,7 +32,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Install mdsplit
         run: |
-          pip3 install mdsplit
+          pip install -r requirements.txt
           mkdir -p source_md/
       - name: Download source files
         run: |
