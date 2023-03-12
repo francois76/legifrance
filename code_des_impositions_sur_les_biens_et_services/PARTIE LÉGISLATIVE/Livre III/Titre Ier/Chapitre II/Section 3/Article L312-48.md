@@ -39,7 +39,7 @@ Les tarifs réduits dans le secteur des transports, exprimés en euros par méga
   <td rowspan="2">Transport de personnes par taxi</td>
   <td align="center">Gazoles</td>
   <td align="center">L. 312-52</td>
-  <td align="center">30,02</td>
+  <td align="center">30,2</td>
  </tr>
  <tr>
   <td align="center">Essences</td>
@@ -75,6 +75,17 @@ Les tarifs réduits dans le secteur des transports, exprimés en euros par méga
   <td align="center">Électricité</td>
   <td align="center">L. 312-57</td>
   <td align="center">0</td>
+ </tr>
+ <tr>
+  <td rowspan="2">Manutention portuaire</td>
+  <td align="center">Gazoles</td>
+  <td align="center">L. 312-57-1</td>
+  <td align="center">3,86</td>
+ </tr>
+ <tr>
+  <td align="center">Électricité</td>
+  <td align="center">L. 312-57-2</td>
+  <td align="center">0,5</td>
  </tr>
  <tr>
   <td>Navigation aérienne pour les besoins des prestations de services et ceux des autorités publiques</td>
