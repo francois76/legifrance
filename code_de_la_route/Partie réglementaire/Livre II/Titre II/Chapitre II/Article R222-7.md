@@ -1,4 +1,0 @@
-##### Article R222-7
-
-Tout titulaire d'un brevet militaire de conduite, validé par l'autorité militaire, peut, sans être tenu de subir les examens prévus au premier alinéa de l'article D. 221-3 obtenir la délivrance de la ou des catégories du permis de conduire correspondantes selon les modalités définies par arrêté du ministre chargé de la sécurité routière, après avis du ministre de la défense.
-

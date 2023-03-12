@@ -1,8 +1,0 @@
-###### Article R325-9
-
-I.-Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé au moment où l'agent quitte le lieu où le véhicule est immobilisé, l'agent peut saisir l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, territorialement compétent en lui remettant soit le certificat d'immatriculation du véhicule s'il s'agit d'un véhicule dont le poids total autorisé en charge n'excède pas 3, 5 tonnes et une fiche d'immobilisation, soit les pièces administratives nécessaires à la circulation du véhicule s'il s'agit d'un véhicule de transport de marchandises d'un poids total autorisé en charge excédant 3, 5 tonnes ou de transport en commun et la fiche d'immobilisation. Un double de cette fiche est remis au contrevenant.
-
-II.-La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisation, l'infraction qui l'a motivée, les éléments d'identification du véhicule et du certificat d'immatriculation, les nom et adresse du contrevenant, les noms, qualités et affectations des agents qui la rédigent et précise la résidence de l'autorité qualifiée pour lever la mesure.
-
-III.-Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de dégel, l'autorité saisie est l' ingénieur des ponts, des eaux et des forêts ou, s'il s'agit d'une voie communale, le maire.
-
