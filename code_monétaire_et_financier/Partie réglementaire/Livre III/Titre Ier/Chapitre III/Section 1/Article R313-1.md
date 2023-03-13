@@ -1,10 +1,10 @@
 ###### Article R313-1
 
-Les règles relatives au taux effectif global sont fixées par les articles R. 313-1 à R. 313-5 du code de la consommation ci-après reproduits :
+Les règles relatives au taux effectif global sont fixées par les articles R. 314-1 à R. 314-14 du code de la consommation ci-après reproduits :
 
-" Art. R. 313-1. I. – Le calcul du taux effectif global repose sur l'hypothèse que le contrat de crédit restera valable pendant la durée convenue et que le prêteur et l'emprunteur rempliront leurs obligations selon les conditions et dans les délais précisés dans le contrat de crédit. Pour les contrats de crédit comportant des clauses qui permettent des adaptations du taux d'intérêt et, le cas échéant, des frais entrant dans le taux effectif global mais ne pouvant pas faire l'objet d'une quantification au moment du calcul, le taux effectif global est calculé en partant de l'hypothèse que le taux d'intérêt et les autres frais resteront fixes par rapport au niveau initial et s'appliqueront jusqu'au terme du contrat de crédit.
+" Art. R. 314-1. – Le calcul du taux effectif global repose sur l'hypothèse que le contrat de crédit restera valable pendant la durée convenue et que le prêteur et l'emprunteur rempliront leurs obligations selon les conditions et dans les délais précisés dans le contrat de crédit. Pour les contrats de crédit comportant des clauses qui permettent des adaptations du taux d'intérêt et, le cas échéant, des frais entrant dans le taux effectif global mais ne pouvant pas faire l'objet d'une quantification au moment du calcul, le taux effectif global est calculé en partant de l'hypothèse que le taux d'intérêt et les autres frais resteront fixes par rapport au niveau initial et s'appliqueront jusqu'au terme du contrat de crédit. "
 
-II. – Pour les opérations de crédit destinées à financer les besoins d'une activité professionnelle ou destinées à des personnes morales de droit public ainsi que pour celles mentionnées à l'article L. 312-2, le taux effectif global est un taux annuel, proportionnel au taux de période, à terme échu et exprimé pour cent unités monétaires. Le taux de période et la durée de la période doivent être expressément communiqués à l'emprunteur.
+" Art. R. 314-2. – Pour les opérations de crédit destinées à financer les besoins d'une activité professionnelle ou destinées à des personnes morales de droit public, le taux effectif global est un taux annuel, proportionnel au taux de période, à terme échu et exprimé pour cent unités monétaires. Le taux de période et la durée de la période doivent être expressément communiqués à l'emprunteur.
 
 Le taux de période est calculé actuariellement, à partir d'une période unitaire correspondant à la périodicité des versements effectués par l'emprunteur. Il assure, selon la méthode des intérêts composés, l'égalité entre, d'une part, les sommes prêtées et, d'autre part, tous les versements dus par l'emprunteur au titre de ce prêt, en capital, intérêts et frais divers, ces éléments étant, le cas échéant, estimés.
 
@@ -14,140 +14,69 @@ Lorsque les versements sont effectués avec une fréquence autre qu'annuelle, le
 
 Si le crédit prend la forme d'une ouverture de droits de tirage destinée à financer les besoins d'une activité professionnelle, le taux effectif global est calculé sur la totalité des droits mis à la disposition du client.
 
-III. – Pour toutes les opérations de crédit autres que celles mentionnées au II, le taux effectif global est dénommé " taux annuel effectif global " et calculé à terme échu, exprimé pour cent unités monétaires, selon la méthode d'équivalence définie par la formule figurant en annexe au présent article. La durée de la période doit être expressément communiquée à l'emprunteur.
+Les charges liées aux garanties dont les crédits sont éventuellement assortis ainsi que les honoraires d'officiers ministériels ne sont pas compris dans le taux effectif global défini ci-dessus, lorsque leur montant ne peut être indiqué avec précision antérieurement à la conclusion définitive du contrat. "
 
-Le taux annuel effectif global est calculé actuariellement et assure, selon la méthode des intérêts composés, l'égalité entre, d'une part, les sommes prêtées et, d'autre part, tous les versements dus par l'emprunteur au titre de ce prêt pour le remboursement du capital et le paiement du coût total du crédit au sens du 5° de l'article L. 311-1, ces éléments étant, le cas échéant, estimés.
+" Art. R. 314-3. – Pour toutes les opérations de crédit autres que celles mentionnées à l'article R. 314-2, le taux annuel effectif global mentionné à l'article L. 314-3 est calculé à terme échu, exprimé pour cent unités monétaires, selon la méthode d'équivalence définie par la formule figurant en annexe au présent code. La durée de la période doit être expressément communiquée à l'emprunteur.
 
-Les frais d'acte notarié établis en application du décret n° 78-262 du 8 mars 1978 portant fixation du tarif des notaires ne sont pas pris en compte pour le calcul de ce taux. "
+Le taux annuel effectif global est calculé actuariellement et assure, selon la méthode des intérêts composés, l'égalité entre, d'une part, les sommes prêtées et, d'autre part, tous les versements dus par l'emprunteur au titre de ce prêt pour le remboursement du capital et le paiement du coût total du crédit au sens du 7° de l'article L. 311-1 ces éléments étant, le cas échéant, estimés.
 
-ANNEXE À L'ARTICLE R. 313-1
+Pour les contrats de crédit pour lesquels un taux débiteur fixe a été convenu dans le cadre de la période initiale d'au moins cinq ans, à la fin de laquelle une négociation est menée sur le taux débiteur afin de convenir d'un nouveau taux fixe pour une nouvelle période, le calcul du taux annuel effectif global illustratif supplémentaire figurant dans la fiche d'information standardisée européenne mentionnée à l'article L. 313-7 couvre uniquement la période initiale à taux fixe et se fonde sur l'hypothèse selon laquelle, au terme de la période à taux débiteur fixe, le capital restant est remboursé. "
 
-(formule du TEG)
+" Art. R. 313-4. – Sont compris dans le taux annuel effectif global du prêt, lorsqu'ils sont nécessaires pour obtenir le crédit ou pour l'obtenir aux conditions annoncées, notamment :
 
-Equation de base traduisant l'équivalence des prêts, d'une part, et des remboursements et charges, d'autre part.
+1° Les frais de dossier ;
 
-(Formule non reproduite, voir Journal officiel du 11 juin 2002 p. 10357).
+2° Les frais payés ou dus à des intermédiaires intervenus de quelque manière que ce soit dans l'octroi du prêt, même si ces frais, commissions ou rémunérations correspondent à des débours réels ;
 
-Signification des lettres et symboles :
+3° Les coûts d'assurance et de garanties obligatoires ;
 
-K est le numéro d'ordre d'un prêt ;
+4° Les frais d'ouverture et de tenue d'un compte donné, d'utilisation d'un moyen de paiement permettant d'effectuer à la fois des opérations et des prélèvements à partir de ce compte ainsi que les autres frais liés aux opérations de paiement ;
 
-K'est le numéro d'ordre d'un remboursement ou d'un paiement de charges ;
+5° Le coût de l'évaluation du bien immobilier, hors frais d'enregistrement liés au transfert de propriété du bien immobilier. "
 
-AK est le montant du prêt n° K ;
+" Art. R. 313-5. – Ne sont pas compris dans le taux annuel effectif global :
 
-A'K'est le montant du remboursement ou du paiement de charges n° K';
+1° Les frais liés à l'acquisition des immeubles mentionnés au a du 1° de l'article L. 313-1 tels que les taxes y afférentes, les frais d'acte notarié établis en application de la section 3 du chapitre Ier du titre IV bis du livre IV de la partie Arrêtés du code de commerce ;
 
-(somme) est le signe indiquant une somme ;
+2° Les frais à la charge de l'emprunteur en cas de non-respect de l'une de ses obligations prévues dans le contrat de crédit.
 
-m est le numéro d'ordre du dernier prêt ;
+Des hypothèses complémentaires figurent en annexe au présent code pour le calcul du taux annuel effectif global. "
 
-m'est le numéro d'ordre du dernier remboursement ou du dernier paiement de charges ;
+" Art R. 314-6. – Lorsqu'il s'agit d'une avance réalisée dans le cadre d'un contrat d'affacturage, le taux effectif global est un taux annuel, proportionnel au taux de période et exprimé pour cent unités monétaires.
 
-tK est l'intervalle, exprimé en années et fractions d'années, entre la date du prêt n° 1 et celle des prêts ultérieurs n° 2 à m ;
+Le montant de l'avance à prendre en considération pour le calcul du taux effectif global est rapporté, selon la méthode des nombres, à une période d'un jour.
 
-tK'est l'intervalle, exprimé en années et fractions d'années, entre la date du prêt n° 1 et celles des remboursements ou paiements de charges n° 1 à m';
+Ce taux est calculé selon la formule figurant en annexe au présent code. "
 
-i est le taux effectif global qui peut être calculé (soit par l'algèbre, soit par approximations successives, soit par un programme d'ordinateur) lorsque les autres termes de l'équation sont connus, par le contrat ou autrement.
-
-Remarques
-
-a) Les sommes versées de part et d'autre à différents moments ne sont pas nécessairement égales et ne sont pas nécessairement versées à des intervalles égaux.
-
-b) La date initiale est celle du premier prêt.
-
-c) L'écart entre les dates utilisées pour le calcul est exprimé en années ou en fractions d'années. Une année compte 365 jours, ou, pour les années bissextiles, 366 jours, 52 semaines ou 12 mois normalisés. Un mois normalisé compte 30,416 66 jours (c'est-à-dire 365/12), que l'année soit bissextile ou non.
-
-d) Le résultat du calcul est exprimé avec une exactitude d'au moins une décimale. Lorsque le chiffre est arrondi à une décimale particulière, la règle suivante est d'application : si le chiffre de la décimale suivant cette décimale particulière est supérieur ou égal à 5, le chiffre de cette décimale particulière sera augmenté de 1.
-
-Hypothèses
-
-Le calcul du taux annuel effectif global se fait, le cas échéant, conformément aux hypothèses suivantes :
-
-1° Si un contrat de crédit laisse au consommateur le libre choix quant au mode d'utilisation du crédit, le montant total du crédit est réputé entièrement et immédiatement utilisé ;
-
-2° Si un contrat de crédit laisse en général au consommateur le libre choix quant au mode d'utilisation du crédit, mais prévoit parmi les divers modes d'utilisation une limite quant au montant et à la durée, le montant du crédit est réputé utilisé à la date la plus proche prévue dans le contrat et conformément à ces limites de mode d'utilisation ;
-
-3° Si un contrat de crédit offre au consommateur différentes possibilités quant au mode d'utilisation du crédit, assorties de frais ou de taux débiteurs différents, le montant total du crédit est réputé utilisé au taux débiteur le plus élevé et avec les frais les plus élevés dans la catégorie d'opérations la plus fréquemment utilisée dans ce type de contrat de crédit ;
-
-4° En cas de facilité de découvert, le montant total du crédit est réputé utilisé en totalité et pour la durée totale du contrat de crédit. Si la durée de la facilité de découvert n'est pas connue, le taux annuel effectif global est calculé en partant de l'hypothèse que la durée du crédit est de trois mois ;
-
-5° En cas de contrat de crédit sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après un délai donné mais qui, une fois remboursés, sont disponibles pour une nouvelle utilisation, et autre qu'une facilité de découvert :
-
-a) Le crédit est réputé être octroyé pour une durée d'un an à partir de la date d'utilisation initiale, et le paiement final effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels ;
-
-b) Le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après la date de l'utilisation initiale. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un seul versement, à l'intérieur de chaque période de paiement, les utilisations et les remboursements successifs de la totalité du capital par le consommateur sont supposés être effectués sur la durée d'un an. Les intérêts et autres frais sont appliqués conformément à ces utilisations et remboursements du capital, d'une part, et aux dispositions du contrat de crédit, d'autre part ;
-
-6° En cas de contrats de crédit autres que les découverts et les contrats de crédits sans durée fixe visés dans les hypothèses des points 4° et 5° :
-
-a) Si la date ou le montant d'un remboursement de capital devant être effectué par le consommateur ne peuvent être établis, le remboursement est réputé être effectué à la date la plus proche prévue dans le contrat de crédit et pour le montant le plus bas prévu dans le contrat ;
-
-b) Si la date de conclusion du contrat de crédit n'est pas connue, la date d'utilisation initiale est réputée être la date qui correspond à l'intervalle le plus court entre cette date et la date du premier paiement que le consommateur doit effectuer.
-
-7° Si la date ou le montant d'un paiement devant être effectué par le consommateur ne peuvent être établis sur la base du contrat de crédit ou des hypothèses exposées aux points 4°, 5° ou 6°, le paiement est réputé être effectué aux dates et conditions requises par le prêteur et, lorsque celles-ci ne sont pas connues :
-
-a) Les frais d'intérêts sont payés en même temps que les remboursements du capital ;
-
-b) Les frais autres que d'intérêts, exprimés sous la forme d'une somme unique, sont payés à la date de conclusion du contrat de crédit ;
-
-c) Les frais autres que d'intérêts, exprimés sous la forme de paiements multiples, sont payés à intervalles réguliers, à partir de la date du premier remboursement du capital, et si le montant de ces paiements n'est pas connu, les montants sont réputés égaux ;
-
-d) Le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels ;
-
-8° Si le plafond du crédit n'a pas encore été arrêté, le plafond est supposé être de 1 500 € ;
-
-9° Si des taux débiteurs et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux débiteur et les frais sont réputés être le taux le plus élevé pendant la durée totale du contrat de crédit ;
-
-10° Pour les contrats de crédit aux consommateurs pour lesquels un taux débiteur fixe a été convenu dans le cadre de la période initiale, à la fin de laquelle un nouveau taux débiteur est établi et est ensuite périodiquement ajusté en fonction d'un indicateur convenu, le calcul du taux annuel effectif global part de l'hypothèse que, à compter de la fin de la période à taux débiteur fixe, le taux débiteur est le même qu'au moment du calcul du taux annuel effectif global, en fonction de la valeur de l'indicateur convenu à ce moment-là.
-
-ANNEXE À L'ARTICLE R. 313-1-1 DU CODE DE LA CONSOMMATION
-
-Pour l'application de l'article R. 313-1-1 du code de la consommation, sont définis les termes suivants :
-
-Commission post-comptée : commission facturée au client en fin de période au titre des avances consenties.
-
-Commission pré-comptée : commission facturée au client au titre des avances consenties, lors de la mise en place desdites avances.
-
-Retenue de garantie : somme constituée lors de la prise en charge des factures par la société d'affacturage pour garantir cette dernière des sommes dont le client pourrait devenir débiteur à son égard et qui lui est restituée dans le cas où cette garantie n'a pas été mise en œuvre.
-
-Nombres débiteurs : produit du montant brut de financement par le nombre de jours de financement.
-
-Nombres créditeurs du compte de retenue de garantie : produit du montant des prélèvements sur le compte d'engagement au titre de la constitution de la retenue de garantie par le nombre de jours pendant lequel le compte d'engagement est imputé.
-
-Le taux de période d'un jour applicable aux opérations d'affacturage est calculé de la façon suivante :
-
-1° Numérateur du taux :
-
-Le numérateur est composé :
-
-- du montant de la commission de financement pré-comptée (prise en totalité ou en cas d'étalement, pour la quote-part imputable à la période considérée) et/ ou post-comptée assise sur l'intégralité de l'avance (y compris l'avance sur les rémunérations perçues par la société d'affacturage et sur les retenues de garanties) ;
-- du montant des autres frais et commissions liés au financement, mais distincts de la commission de financement, inclus dans l'assiette de calcul du taux effectif global (pris en totalité ou en cas d'étalement, pour la quote-part imputable à la période considérée).
-
-Le numérateur est, le cas échéant, minoré des réfactions de taux ou d'assiette accordées au titre de l'avance sur retenues de garantie.
-
-2° Dénominateur du taux :
-
-Le dénominateur est composé :
-
-- du montant des nombres débiteurs afférents à la commission de financement pré-comptée (en cas d'étalement, ne sont pris en compte que les nombres débiteurs afférents à la période concernée) ;
-- du montant des nombres débiteurs afférents à la commission de financement post-comptée de la période considérée.
-
-Le dénominateur est minoré :
-
-- du montant des nombres créditeurs constatés pendant ladite période sur le compte de la retenue de garantie, pour la part qui a donné lieu à la perception de commissions liées au financement ;
-- du produit du montant de la commission de financement pré-comptée visée au numérateur par le nombre de jours de financement pré-compté ;
-- du produit du montant des frais et commissions visés au numérateur sur la période considérée inclus dans l'assiette du taux effectif global, par la durée pendant laquelle ils viennent réduire le montant du financement disponible ;
-- du produit du montant des frais et commissions sur la période considérée non inclus dans l'assiette du taux effectif global, par la durée pendant laquelle ils viennent réduire, sur la période, le montant du financement disponible.
-
-" Art. R. 313-2. – Pour une autorisation de découvert ou une facilité de découvert, lorsque le taux annuel effectif global est calculé avant leur utilisation, le calcul est effectué selon la méthode définie par la formule figurant en annexe au présent code et mentionnée au III de l'article R. 313-1.
+" Art. 314-7. – Pour une autorisation de découvert ou une facilité de découvert, lorsque le taux annuel effectif global est calculé avant leur utilisation, le calcul est effectué selon la méthode définie par la formule figurant en annexe au présent code et mentionnée à l'article R. 314-3.
 
 Après utilisation d'une autorisation de découvert, d'une facilité de découvert ou d'un dépassement, le taux annuel effectif global est calculé en rapportant le montant du crédit à prendre en considération, selon la méthode des nombres définie par le B de l'annexe du décret n° 2002-928 du 10 juin 2002 pris en application de l'article 1er du décret n° 2002-927 du 10 juin 2002, à une période d'un jour à l'expiration de laquelle il est réputé remboursé en même temps que les agios y afférents. A cet effet, chacun des soldes débiteurs successivement inscrits en compte au cours de l'intervalle séparant deux arrêtés contractuels est multiplié par sa propre durée en jours.
 
-Pour les découverts destinés à financer les besoins d'une activité professionnelle, le taux effectif global est calculé en rapportant le montant du crédit à prendre en considération, selon la méthode des nombres mentionnée à l'alinéa précédent, à une période d'un jour à l'expiration de laquelle il est réputé remboursé en même temps que les agios y afférents. A cet effet, chacun des soldes débiteurs successivement inscrits en compte au cours de l'intervalle séparant deux arrêtés contractuels est multiplié par sa propre durée en jours. "
+Pour les découverts destinés à financer les besoins d'une activité professionnelle, le taux effectif global est calculé en rapportant le montant du crédit à prendre en considération, selon la méthode des nombres mentionnée au deuxième alinéa, à une période d'un jour à l'expiration de laquelle il est réputé remboursé en même temps que les agios y afférents. A cet effet, chacun des soldes débiteurs successivement inscrits en compte au cours de l'intervalle séparant deux arrêtés contractuels est multiplié par sa propre durée en jours. "
 
-" Art. R. 313-3. – Lorsqu'il s'agit d'une opération d'escompte, le taux de période s'entend du rapport qui s'établit entre les intérêts et frais divers dus par l'emprunteur au titre de l'escompte et le montant de l'effet escompté. La période est égale au nombre de jours de calendrier, de la date de négociation exclue jusqu'à la date réelle d'échéance de l'effet incluse ; cette période ne peut être retenue pour une durée inférieure à dix jours. "
+" Art. R. 314-8. – Lorsqu'il s'agit d'une opération d'escompte, le taux de période s'entend du rapport qui s'établit entre les intérêts et frais divers dus par l'emprunteur au titre de l'escompte et le montant de l'effet escompté. La période est égale au nombre de jours de calendrier, de la date de négociation exclue jusqu'à la date réelle d'échéance de l'effet incluse ; cette période ne peut être retenue pour une durée inférieure à dix jours. "
 
-" Art. R. 313-4. – Lorsque le montant des opérations mentionnées aux articles R. 313-2 et R. 313-3 est inférieur à un montant fixé par arrêté du ministre chargé de l'économie et des finances, il peut être perçu pour chaque opération un minimum forfaitaire qui n'est pas pris en compte pour déterminer le taux effectif global ; ce minimum doit être porté à la connaissance de l'emprunteur. "
+" Art. R. 314-9. – Lorsque le montant des opérations mentionnées aux articles R. 314-7 et R. 314-8 est inférieur à un montant fixé par arrêté du ministre chargé de l'économie et des finances, il peut être perçu pour chaque opération un minimum forfaitaire qui n'est pas pris en compte pour déterminer le taux effectif global ; ce minimum doit être porté à la connaissance de l'emprunteur. "
 
-" Art. R. 313-5. – Lorsque l'octroi d'un prêt est subordonné à une phase d'épargne préalable, le taux effectif global est calculé sans tenir compte de cette phase d'épargne. "
+" Art. R.314-10. – Lorsque l'octroi d'un prêt est subordonné à une phase d'épargne préalable, le taux effectif global est calculé sans tenir compte de cette phase d'épargne. "
+
+" Art. R. 314-11. – Le taux annuel effectif de l'assurance mentionné à l'article L. 312-7 est égal à la différence entre :
+
+1° Le taux annuel effectif global défini à l'article L. 314-1, calculé conformément aux articles R. 314-1 à R. 314-10 en prenant comme hypothèse que l'assurance proposée ayant pour objet le remboursement du crédit est intégralement exigée par le prêteur, d'une part, et ;
+
+2° Le taux annuel effectif global défini à l'article L. 314-1, calculé conformément aux articles R. 314-1 à R. 314-10 en prenant comme hypothèse qu'aucune assurance n'est exigée par le prêteur, d'autre part.
+
+Pour les besoins du calcul du taux annuel effectif de l'assurance, la méthode employée est la même que celle employée pour le calcul du taux annuel effectif global, c'est-à-dire soit la méthode d'actualisation des flux, soit la méthode des intérêts composés en capitalisant le taux périodique sur une durée d'un an. "
+
+" Art. R. 314-12. – Le taux annuel effectif de l'assurance mentionné à l'article L. 313-8 est égal à la différence entre :
+
+1° Le taux annuel effectif global défini à l'article L. 314-1, calculé conformément aux articles R. 314-1 à R. 314-10 en prenant comme hypothèse que l'assurance proposée ayant pour objet le remboursement du crédit est intégralement exigée par le prêteur, d'une part, et ;
+
+2° Le taux annuel effectif global défini à l'article L. 314-1, calculé conformément aux articles R. 314-1 à R. 314-10 en prenant comme hypothèse qu'aucune assurance n'est exigée par le prêteur, d'autre part.
+
+Pour les besoins du calcul du taux annuel effectif de l'assurance, la méthode employée est la même que celle employée pour le calcul du taux annuel effectif global, c'est-à-dire soit la méthode d'actualisation des flux, soit la méthode des intérêts composés en capitalisant le taux périodique sur une durée d'un an. "
+
+" Art. 314-13. – Le taux annuel effectif de l'assurance est accompagné de la mention des garanties dont il intègre le coût. "
+
+" Art. 314-14. – Le taux annuel effectif de l'assurance n'est pas mentionné pour les opérations de location-vente et de location avec option d'achat. "
 
