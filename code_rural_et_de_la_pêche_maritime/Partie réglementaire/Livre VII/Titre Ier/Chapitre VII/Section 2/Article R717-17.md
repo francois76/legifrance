@@ -1,6 +1,6 @@
 ###### Article R717-17
 
-En vue de favoriser le maintien dans l'emploi des salariés en arrêt de travail d'origine professionnelle ou non, d'une durée de plus de trois mois, un examen de pré-reprise est organisée par le médecin du travail à l'initiative du travailleur, du médecin traitant ou du médecin-conseil de la caisse de mutualité sociale agricole.
+En vue de favoriser le maintien dans l'emploi, les salariés en arrêt de travail d'une durée de plus de trente jours peuvent bénéficier d'une visite de préreprise.
 
 Au cours de l'examen de préreprise, le médecin du travail peut recommander :
 

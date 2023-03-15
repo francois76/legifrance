@@ -8,9 +8,9 @@ a) Après un congé de maternité ;
 
 b) Après une absence pour cause de maladie professionnelle ;
 
-c) Après une absence d'au moins trente jours pour cause d'accident du travail, de maladie ou d'accident non professionnel ;
+c) Après une absence d'au moins trente jours pour cause d'accident du travail ;
 
-d) Après un congé maternité ;
+d) Après une absence d'au moins soixante jours pour cause de maladie ou d'accident non professionnel ;
 
 2° L'examen de reprise a pour objet :
 
