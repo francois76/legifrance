@@ -14290,9 +14290,9 @@ Tout organisme de formation doit répondre à l'ensemble des clauses, générale
 
 L'organisme de formation habilité est réputé remplir les clauses générales pour toute nouvelle demande d'habilitation. Il doit cependant en communiquer les éléments lorsqu'il dépose une demande d'habilitation dans une autre région.
 
-Tout organisme de formation doit pouvoir justifier durant son habilitation remplir les exigences du cahier des charges.
+Conformément à l'article R. 212-10-18, l'organisme de formation s'engage à présenter des modalités d'organisation des épreuves de sélection complémentaires en lien avec le niveau de certification, la mention ou l'option du diplôme visé et permettant d'apprécier la capacité du candidat à s'inscrire dans le processus de formation proposé.
 
-L'organisme de formation doit tenir à disposition du directeur régional de la jeunesse, des sports et de la cohésion sociale aux fins de contrôle sur place ou sur pièce :
+Tout organisme de formation doit pouvoir justifier durant son habilitation remplir les exigences du cahier des charges. L'organisme de formation doit tenir à disposition du directeur régional de la jeunesse, des sports et de la cohésion sociale aux fins de contrôle sur place ou sur pièce :
 
 - l'entier dossier d'inscription du candidat ;
 - toutes les pièces justificatives des engagements pris dans son dossier d'habilitation.
@@ -14305,7 +14305,7 @@ L'avis consultatif du directeur technique national mentionné à l'article R. 21
 
 La décision d'habilitation de l'organisme de formation délivrée par le directeur régional de la jeunesse, des sports et de la cohésion sociale fixe notamment :
 
-1° L'effectif maximal de stagiaires en parcours complet de formation pour une session ;
+1° L'effectif maximal de stagiaires en parcours complet de formation pour une session qui peut être diminué en fonction du lieu et du public ;
 
 2° L'effectif minimal qui est fixé à huit stagiaires en parcours complet de formation pour une session. A titre dérogatoire, un organisme de formation désirant ouvrir une session de formation comportant moins de huit stagiaires doit au préalable en avoir obtenu l'accord exprès du directeur régional de la jeunesse, des sports et de la cohésion sociale ;
 
@@ -14472,6 +14472,7 @@ Sous l'autorité du directeur des sports, les coordonnateurs nationaux participe
 
 - l'élaboration des textes de référence concernant les diplômes professionnels qu'ils ont à suivre ;
 - la coordination de l'offre des tests d'exigences préalables à l'entrée en formation sur le territoire national ;
+- l'harmonisation des modalités de sélection complémentaires ;
 - l'harmonisation de la mise en œuvre de ces diplômes ;
 - l'évaluation du dispositif de certifications.
 
@@ -25037,7 +25038,7 @@ Les éléments fournis sous forme de fiches par l'organisme de formation doivent
 
 2-2. - La capacité de l'organisme de formation à identifier des objectifs pédagogiques pertinents au regard des certifications concernées, à mettre en œuvre une formation complète présentant toutes les unités capitalisables constitutives du diplôme, et à adapter son offre au public formé et à l'emploi visé, ainsi qu'à être cohérent dans ses moyens pédagogiques, techniques et d'encadrement dédiés à la formation :
 
-- présenter le public ciblé, les critères de sélection envisagés, les modalités du positionnement, et démontrer la capacité à intégrer des stagiaires en parcours partiel ;
+- présenter le public ciblé, les modalités d'organisation des épreuves de sélection complémentaires mentionnées à l'article R. 212-10-18, leurs contenus et les critères de sélection retenus pour départager les candidats visés à l'article R. 212-10-18, les modalités du positionnement, l'intégration des stagiaires en parcours partiel ;
 - décrire les éventuels services annexes (restauration, hébergement, salles de repos, de convivialité, accessibilité…) permettant d'offrir un environnement favorable aux apprentissages ;
 - si l'organisme de formation organise les tests d'exigences préalables (TEP), décrire les modalités et le calendrier retenus pour la première session ;
 - joindre le ruban pédagogique, adapté aux attendus du diplôme, prévu pour la première session, décrivant la progression pédagogique et faisant apparaître les périodes d'alternance, la montée en puissance de la responsabilisation du stagiaire, les contenus abordés ;
