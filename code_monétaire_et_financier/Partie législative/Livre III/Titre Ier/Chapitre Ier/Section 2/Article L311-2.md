@@ -18,7 +18,7 @@ I. – Les établissements de crédit peuvent aussi effectuer les opérations co
 
 8. L'émission et la gestion de monnaie électronique.
 
-Lorsqu'il constitue la fourniture de services d'investissement au sens de l'article L. 321-1, l'exercice des opérations connexes et de l'activité de conservation est subordonné à l'agrément préalable prévu à l'article L. 532-1.
+Lorsqu'il constitue la fourniture de services d'investissement au sens de l'article L. 321-1, l'exercice des opérations connexes et de l'activité de conservation est subordonné à l'agrément préalable prévu au I de l'article L. 532-1.
 
-II. – Les sociétés de financement peuvent également effectuer les opérations connexes à leur activité mentionnées aux 1, 2, 5 et 6 du I.
+II. – Les sociétés de financement peuvent également effectuer les opérations connexes à leur activité mentionnées aux 1,2,5 et 6 du I.
 

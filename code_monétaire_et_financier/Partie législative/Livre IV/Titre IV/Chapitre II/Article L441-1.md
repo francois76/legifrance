@@ -18,3 +18,11 @@ III. – Les règles de fonctionnement des dépositaires centraux mentionnés au
 
 Ces règles sont rédigées en français ou, dans les cas définis par le règlement général de l'Autorité des marchés financiers, dans une autre langue usuelle en matière financière.
 
+IV. - Les personnes morales qui demandent à être agréées comme dépositaires centraux mentionnés au 1° du I et qui demandent simultanément une autorisation spécifique pour exploiter un “système de règlement DLT” ou un “système de négociation et de règlement DLT”, au titre respectivement des articles 9 et 10 du règlement (UE) n° 2022/858 du Parlement européen et du Conseil du 30 mai 2022 sur un régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués, et modifiant les règlements (UE) n° 600/2014 et (UE) n° 909/2014 et la directive 2014/65/UE, sont agréées dans les conditions fixées au II du présent article.
+
+Les autorisations spécifiques demandées dans le cadre fixé au présent IV ainsi que celles demandées par des dépositaires centraux mentionnés au I et les exemptions qui leur sont liées au titre des articles 5 et 6 du règlement (UE) n° 2022/858 du Parlement européen et du Conseil du 30 mai 2022 précité sont accordées par l'Autorité des marchés financiers, après consultation de la Banque de France.
+
+L'Autorité des marchés financiers est chargée de la surveillance de l'application des exemptions accordées au titre du même règlement ainsi que de la surveillance de l'application dudit règlement par les dépositaires centraux ayant obtenu une autorisation spécifique. Elle consulte la Banque de France avant de prendre toute mesure au titre des articles 9, 10 ou 11 ou des autres articles du même règlement. L'Autorité des marchés financiers coopère avec les autorités compétentes des différents Etats membres et avec l'Autorité européenne des marchés financiers dans les conditions fixées par le même règlement.
+
+Un décret précise les modalités d'application du présent IV.
+

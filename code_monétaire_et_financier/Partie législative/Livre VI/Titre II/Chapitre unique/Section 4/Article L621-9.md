@@ -60,7 +60,9 @@ II. – L'Autorité des marchés financiers veille également au respect des obl
 
 20° Les personnes mentionnées aux 4 et 5 de l'article 29 du règlement (UE) 2017/2402 du Parlement européen et du Conseil du 12 décembre 2017 créant un cadre général pour la titrisation ainsi qu'un cadre spécifique pour les titrisations simples, transparentes et standardisées, et modifiant les directives 2009/65/ CE, 2009/138/ CE et 2011/61/ UE et les règlements (CE) n° 1060/2009 et (UE) n° 648/2012 ;
 
-21° Les prestataires agréés conformément à l'article L. 54-10-5.
+21° Les prestataires agréés conformément à l'article L. 54-10-5 ;
+
+22° Les fournisseurs de produits paneuropéens d'épargne-retraite individuelle mentionnés à l'article L. 621-20-10.
 
 L'Autorité des marchés financiers veille au respect par ces mêmes entités ou personnes, ainsi que par les personnes physiques placées sous leur autorité ou agissant pour leur compte, des dispositions des règlements européens applicables.
 

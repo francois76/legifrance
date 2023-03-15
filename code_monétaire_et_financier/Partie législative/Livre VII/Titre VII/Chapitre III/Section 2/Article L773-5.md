@@ -2,9 +2,7 @@
 
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des dispositions prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-<div align="center">
-
-<table border="1">
+<table border="1"><tbody>
  <tr>
   <th>Articles applicables</th>
   <th>Dans leur rédaction résultant de</th>
@@ -58,28 +56,30 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des dispositions prév
   <td align="justify">l'ordonnance n° 2021-796 du 23 juin 2021</td>
  </tr>
  <tr>
-  <td align="justify">L. 511-50 et L. 511-50-1</td>
+  <td align="justify">L. 511-50</td>
+  <td align="justify">la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture</td>
+ </tr>
+ <tr>
+  <td align="justify">L. 511-50-1</td>
   <td align="justify">l'ordonnance n° 2014-158 du 20 février 2014</td>
  </tr>
-</table>
-
-</div>
+</tbody></table>
 
 II.-Pour l'application du I :
 
-1° A l'article L. 511-36, les mots : « règlement de la Commission européenne » sont remplacés par les mots : « arrêté du ministre chargé de l'économie » ;
+1° A l'article L. 511-36, les mots : règlement de la Commission européenne sont remplacés par les mots : arrêté du ministre chargé de l'économie ;
 
-2° Aux articles L. 511-41-1-B et L. 511-41-1-C, les mots : « mentionnée à l'article 84 de la directive 2013/36/ UE du Parlement européen et du Conseil du 26 juin 2013 » sont remplacés par les mots : « définie par un arrêté du ministre chargé de l'économie. » ;
+2° Aux articles L. 511-41-1-B et L. 511-41-1-C, les mots : mentionnée à l'article 84 de la directive 2013/36/ UE du Parlement européen et du Conseil du 26 juin 2013 sont remplacés par les mots : définie par un arrêté du ministre chargé de l'économie. ;
 
-3° A l'article L. 511-41-1, au dernier alinéa, après la première occurrence des mots : « surveillance consolidée équivalente » le reste de l'alinéa n'est pas applicable ;
+3° A l'article L. 511-41-1, au dernier alinéa, après la première occurrence des mots : surveillance consolidée équivalente le reste de l'alinéa n'est pas applicable ;
 
-4° Au 2° du II de l'article L. 511-41-3, les mots : « et par le chapitre 2 du règlement (UE) 2017/2402 du Parlement européen et du Conseil du 12 décembre 2017 » sont supprimés ;
+4° Au 2° du II de l'article L. 511-41-3, les mots : et par le chapitre 2 du règlement (UE) 2017/2402 du Parlement européen et du Conseil du 12 décembre 2017 sont supprimés ;
 
 5° A l'article L. 511-41-5, au 6° du II, les références aux articles L. 613-20-4, L. 613-21-3 et L. 613-21-4 sont supprimées ;
 
-6° A l'article L. 511-42, après les mots : « de l'Autorité de contrôle prudentiel et de résolution », sont ajoutés les mots : « et de l'Institut d'émission d'outre-mer » ;
+6° A l'article L. 511-42, après les mots : de l'Autorité de contrôle prudentiel et de résolution , sont ajoutés les mots : et de l'Institut d'émission d'outre-mer ;
 
-7° Au I de l'article L. 511-45, les mots : « au sens de l'article 238-0 A du code général des impôts » sont remplacés par : « définis par arrêté du ministre chargé des finances » ;
+7° Au I de l'article L. 511-45, les mots : au sens de l'article 238-0 A du code général des impôts sont remplacés par : définis par arrêté du ministre chargé des finances ;
 
-8° A l'article L. 511-48, au 1° du II, les mots : « taxables au titre de l'article 235 ter ZD bis du code général des impôts » sont remplacés par les mots : « constituées par le fait d'adresser à titre habituel des ordres, en ayant recours à un dispositif de traitement automatisé, caractérisé par l'envoi, la modification ou l'annulation d'ordres successifs sur un titre donné, séparés d'un délai inférieur à une seconde ».
+8° A l'article L. 511-48, au 1° du II, les mots : taxables au titre de l'article 235 ter ZD bis du code général des impôts sont remplacés par les mots : constituées par le fait d'adresser à titre habituel des ordres, en ayant recours à un dispositif de traitement automatisé, caractérisé par l'envoi, la modification ou l'annulation d'ordres successifs sur un titre donné, séparés d'un délai inférieur à une seconde .
 

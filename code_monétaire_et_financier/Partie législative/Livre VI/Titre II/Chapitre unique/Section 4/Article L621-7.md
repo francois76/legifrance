@@ -90,3 +90,5 @@ XIV. – Les modalités selon lesquelles les entités ou les personnes mentionn�
 
 2° Peuvent conclure ou modifier des contrats avec leurs clients par voie de signature électronique.
 
+XV. – Les règles applicables à la fourniture de produits paneuropéens d'épargne-retraite individuelle par les personnes mentionnées à l'article L. 621-20-10 pour lesquelles le règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d'épargne-retraite individuelle (PEPP) renvoie à la compétence des Etats membres.
+

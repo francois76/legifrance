@@ -1,0 +1,4 @@
+###### Article L224-30-1
+
+Un plan d'épargne retraite individuel peut être enregistré puis distribué sous la dénomination de produit paneuropéen d'épargne-retraite individuelle s'il répond aux conditions prévues par le règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d'épargne-retraite individuelle (PEPP) et par le règlement délégué (UE) 2021/473 de la Commission du 18 décembre 2020 complétant le règlement (UE) 2019/1238 du Parlement européen et du Conseil par des normes techniques de réglementation précisant, pour le produit paneuropéen d'épargne-retraite individuelle, les exigences régissant les documents d'information, les coûts et les frais inclus dans le plafond des coûts et les techniques d'atténuation des risques et si le sous-compte français de ce produit remplit les conditions fixées au chapitre V du présent titre.
+

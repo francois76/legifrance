@@ -16,5 +16,7 @@ a) Aux paiements réalisés par des personnes qui sont incapables de s'obliger p
 
 b) Aux paiements effectués entre personnes physiques n'agissant pas pour des besoins professionnels ;
 
-c) Au paiement des dépenses de l'Etat et des autres personnes publiques.
+c) Au paiement des dépenses de l'Etat et des autres personnes publiques ;
+
+d) Aux paiements réalisés en monnaie électronique dans le cadre du règlement des paiements au titre du règlement (UE) 2022/858 du Parlement européen et du Conseil du 30 mai 2022 sur un régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués, et modifiant les règlements (UE) n° 600/2014 et (UE) n° 909/2014 et la directive 2014/65/UE.
 

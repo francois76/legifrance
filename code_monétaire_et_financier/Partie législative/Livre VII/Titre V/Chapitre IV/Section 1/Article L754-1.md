@@ -8,8 +8,12 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles m
   <th>Dans leur rédaction résultant de</th>
  </tr>
  <tr>
-  <td align="justify">L. 311-1 et L. 311-2</td>
+  <td align="justify">L. 311-1</td>
   <td align="justify">l'ordonnance n° 2013-544 du 27 juin 2013</td>
+ </tr>
+ <tr>
+  <td align="justify">L. 311-2</td>
+  <td align="justify">la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture</td>
  </tr>
  <tr>
   <td align="justify">L. 311-3</td>
