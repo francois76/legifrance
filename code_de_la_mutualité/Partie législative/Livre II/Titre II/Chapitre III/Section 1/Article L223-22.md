@@ -22,3 +22,5 @@ Pour les autres assurances sur la vie et pour les opérations de capitalisation,
 
 La mutuelle ou l'union peut d'office substituer le rachat à la réduction si la valeur de rachat est inférieure à un montant fixé par décret.
 
+Lorsque le contrat collectif est ouvert sous la forme d'un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du code monétaire et financier, le présent article s'applique sous réserve du chapitre V du titre II du livre II du code monétaire et financier.
+

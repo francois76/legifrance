@@ -60,7 +60,7 @@ Cette incapacité s'applique également à toute personne non réhabilitée ayan
 
 VI. – Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
 
-VII. – Les dispositions du I du présent article ne sont pas applicables aux personnes qui bénéficient d'une dispense d'inscription de la condamnation au bulletin n° 2 du casier judiciaire ou d'une réhabilitation.
+VII. – (Abrogé)
 
 VIII. – Les personnes appelées à diriger une mutuelle ou union mentionnée à l'article L. 211-1 ou une union mutualiste de groupe, ou à y exercer une des fonctions clés mentionnées à l'article L. 211-12 doivent posséder l'honorabilité, la compétence ainsi que l'expérience nécessaires à leurs fonctions.
 
