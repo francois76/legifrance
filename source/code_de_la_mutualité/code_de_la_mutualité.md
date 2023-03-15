@@ -758,7 +758,7 @@ Cette incapacité s'applique également à toute personne non réhabilitée ayan
 
 VI. – Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
 
-VII. – Les dispositions du I du présent article ne sont pas applicables aux personnes qui bénéficient d'une dispense d'inscription de la condamnation au bulletin n° 2 du casier judiciaire ou d'une réhabilitation.
+VII. – (Abrogé)
 
 VIII. – Les personnes appelées à diriger une mutuelle ou union mentionnée à l'article L. 211-1 ou une union mutualiste de groupe, ou à y exercer une des fonctions clés mentionnées à l'article L. 211-12 doivent posséder l'honorabilité, la compétence ainsi que l'expérience nécessaires à leurs fonctions.
 
@@ -988,7 +988,7 @@ Lorsqu'une mutuelle, une union ou une fédération refuse de communiquer en tout
 
 ##### Article L114-46-3
 
-Les entreprises régies par le présent code sont soumises aux dispositions de l'article L. 533-22-1 du code monétaire et financier.
+Les personnes morales de droit privé mentionnées au premier alinéa de l'article L. 110-1 qui réalisent des opérations relevant du b du 1° du I de l'article L. 111-1 ou qui réassurent, en application du II de l'article L. 111-1-1, des engagements mentionnés au b du 1° du I de l'article L. 111-1 sont soumises à l'article L. 533-22-1 du code monétaire et financier.
 
 #### Section 7 : Peines.
 
@@ -1292,15 +1292,15 @@ Les mutuelles ou unions relevant du régime dit " Solvabilité II " sont :
 
 1° Les mutuelles ou unions réalisant des opérations relevant du 1° du I de l'article L. 111-1 qui ont rempli pendant trois exercices annuels consécutifs à compter du 1er janvier 2012 l'une des conditions suivantes :
 
-a) L'encaissement annuel de cotisations brutes émises par la mutuelle ou l'union dépasse 5 millions d'euros ;
+a) L'encaissement annuel de cotisations brutes émises par la mutuelle ou l'union dépasse un seuil fixé par arrêté du ministre chargé des affaires sociales ;
 
-b) Le total des provisions techniques brutes au sens défini au titre IV du livre III du code des assurances de cessions en réassurance ou à des véhicules de titrisation de la mutuelle ou l'union dépasse 25 millions d'euros ;
+b) Le total des provisions techniques brutes au sens défini au titre IV du livre III du code des assurances de cessions en réassurance ou à des véhicules de titrisation de la mutuelle ou l'union dépasse un seuil fixé par arrêté du ministre chargé des affaires sociales ;
 
 c) La mutuelle ou l'union appartient à un groupe défini à l'article L. 356-1 du code des assurances ;
 
 d) L'activité de la mutuelle ou l'union comporte des opérations de réassurance qui :
 
-i) Dépassent 500 000 € d'encaissement de cotisations brutes émises ou 2,5 millions d'euros de provisions techniques au sens défini au titre IV du livre III du code des assurances brutes de cessions en réassurance ou à des véhicules de titrisation ; ou
+i) Dépassent un seuil d'encaissement de primes ou de cotisations brutes émises ou un montant de provisions techniques, au sens du titre IV du livre III du code des assurances, brutes de cessions en réassurance ou à des véhicules de titrisation, fixés par arrêté du ministre chargé des affaires sociales ;
 
 ii) Représentent plus de 10 % de son encaissement de cotisations brutes émises ou de ses provisions techniques au sens défini au titre IV du livre III du code des assurances brutes de cessions en réassurance ou à des véhicules de titrisation ;
 
@@ -2578,6 +2578,8 @@ Lorsque le contrat collectif est ouvert sous la forme d'un plan d'épargne retra
 Pour les autres assurances sur la vie et pour les opérations de capitalisation, la mutuelle ou l'union ne peut refuser la réduction ou le rachat.
 
 La mutuelle ou l'union peut d'office substituer le rachat à la réduction si la valeur de rachat est inférieure à un montant fixé par décret.
+
+Lorsque le contrat collectif est ouvert sous la forme d'un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du code monétaire et financier, le présent article s'applique sous réserve du chapitre V du titre II du livre II du code monétaire et financier.
 
 ###### Article L223-22-1
 
