@@ -69,7 +69,7 @@ Les éléments fournis sous forme de fiches par l'organisme de formation doivent
 
 2-2. - La capacité de l'organisme de formation à identifier des objectifs pédagogiques pertinents au regard des certifications concernées, à mettre en œuvre une formation complète présentant toutes les unités capitalisables constitutives du diplôme, et à adapter son offre au public formé et à l'emploi visé, ainsi qu'à être cohérent dans ses moyens pédagogiques, techniques et d'encadrement dédiés à la formation :
 
-- présenter le public ciblé, les critères de sélection envisagés, les modalités du positionnement, et démontrer la capacité à intégrer des stagiaires en parcours partiel ;
+- présenter le public ciblé, les modalités d'organisation des épreuves de sélection complémentaires mentionnées à l'article R. 212-10-18, leurs contenus et les critères de sélection retenus pour départager les candidats visés à l'article R. 212-10-18, les modalités du positionnement, l'intégration des stagiaires en parcours partiel ;
 - décrire les éventuels services annexes (restauration, hébergement, salles de repos, de convivialité, accessibilité…) permettant d'offrir un environnement favorable aux apprentissages ;
 - si l'organisme de formation organise les tests d'exigences préalables (TEP), décrire les modalités et le calendrier retenus pour la première session ;
 - joindre le ruban pédagogique, adapté aux attendus du diplôme, prévu pour la première session, décrivant la progression pédagogique et faisant apparaître les périodes d'alternance, la montée en puissance de la responsabilisation du stagiaire, les contenus abordés ;

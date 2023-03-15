@@ -14,6 +14,7 @@ Sous l'autorité du directeur des sports, les coordonnateurs nationaux participe
 
 - l'élaboration des textes de référence concernant les diplômes professionnels qu'ils ont à suivre ;
 - la coordination de l'offre des tests d'exigences préalables à l'entrée en formation sur le territoire national ;
+- l'harmonisation des modalités de sélection complémentaires ;
 - l'harmonisation de la mise en œuvre de ces diplômes ;
 - l'évaluation du dispositif de certifications.
 

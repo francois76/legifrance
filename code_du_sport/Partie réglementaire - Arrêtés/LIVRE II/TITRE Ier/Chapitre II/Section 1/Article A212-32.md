@@ -2,7 +2,7 @@
 
 La décision d'habilitation de l'organisme de formation délivrée par le directeur régional de la jeunesse, des sports et de la cohésion sociale fixe notamment :
 
-1° L'effectif maximal de stagiaires en parcours complet de formation pour une session ;
+1° L'effectif maximal de stagiaires en parcours complet de formation pour une session qui peut être diminué en fonction du lieu et du public ;
 
 2° L'effectif minimal qui est fixé à huit stagiaires en parcours complet de formation pour une session. A titre dérogatoire, un organisme de formation désirant ouvrir une session de formation comportant moins de huit stagiaires doit au préalable en avoir obtenu l'accord exprès du directeur régional de la jeunesse, des sports et de la cohésion sociale ;
 
