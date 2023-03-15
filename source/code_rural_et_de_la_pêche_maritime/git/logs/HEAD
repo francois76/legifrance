@@ -1,1 +1,3 @@
 0000000000000000000000000000000000000000 74e8c083cf13864ea4d964e1318d2a462802feac francoisgognet <fgognet@gmail.com> 1678138193 +0100	clone: from https://archeo-lex.fr/codes/code_rural_et_de_la_pêche_maritime
+74e8c083cf13864ea4d964e1318d2a462802feac c9e27c8f5a30d486f304867b26505361a54e5b05 Github action <github@users.noreply.github.com> 1678844735 +0000	pull --rebase (start): checkout c9e27c8f5a30d486f304867b26505361a54e5b05
+c9e27c8f5a30d486f304867b26505361a54e5b05 c9e27c8f5a30d486f304867b26505361a54e5b05 Github action <github@users.noreply.github.com> 1678844735 +0000	pull --rebase (finish): returning to refs/heads/texte
