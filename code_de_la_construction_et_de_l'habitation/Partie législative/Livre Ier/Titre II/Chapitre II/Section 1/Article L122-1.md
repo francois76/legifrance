@@ -1,6 +1,6 @@
 ###### Article L122-1
 
-Afin de favoriser le recours aux énergies renouvelables, les bâtiments font l'objet, avant leur construction ou la réalisation de travaux de rénovation énergétique, d'une étude de faisabilité technique et économique qui évalue les diverses solutions d'approvisionnement en énergie, sauf dans les cas où l'autorité compétente pour les services de distribution d'énergie impose l'utilisation d'un approvisionnement en énergie spécifique.
+Afin de favoriser le recours aux énergies renouvelables, les bâtiments font l'objet, avant leur construction ou la réalisation de travaux de rénovation énergétique, d'une étude de faisabilité technique et économique qui évalue les diverses solutions d'approvisionnement en énergie, sauf dans les cas où l'autorité compétente pour les services de distribution d'énergie impose l'utilisation d'un approvisionnement en énergie spécifique. Cette étude de faisabilité inclut l'énergie géothermique de surface.
 
 Un décret en Conseil d'Etat détermine pour cette étude :
 
