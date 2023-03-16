@@ -400,9 +400,11 @@ Peuvent toutefois être autorisés en dehors des parties urbanisées de la commu
 
 4° Les constructions ou installations, sur délibération motivée du conseil municipal, si celui-ci considère que l'intérêt de la commune, en particulier pour éviter une diminution de la population communale, le justifie, dès lors qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages, à la salubrité et à la sécurité publiques, qu'elles n'entraînent pas un surcroît important de dépenses publiques et que le projet n'est pas contraire aux objectifs visés à l'article L. 101-2 et aux dispositions des chapitres I et II du titre II du livre Ier ou aux directives territoriales d'aménagement précisant leurs modalités d'application.
 
+Pour l'application du présent article, les installations de production et, le cas échéant, de commercialisation, par un ou plusieurs exploitants agricoles, de biogaz, d'électricité et de chaleur par la méthanisation qui respectent les conditions fixées à l'article L. 311-1 du code rural et de la pêche maritime sont considérées comme des constructions ou des installations nécessaires à l'exploitation agricole mentionnées au 2° du présent article.
+
 ######## Article L111-5
 
-La construction de bâtiments nouveaux mentionnée au 1° de l'article L. 111-4 et les projets de constructions, aménagements, installations et travaux mentionnés aux 2° et 3° du même article ayant pour conséquence une réduction des surfaces situées dans les espaces autres qu'urbanisés et sur lesquelles est exercée une activité agricole ou qui sont à vocation agricole doivent être préalablement soumis pour avis par l'autorité administrative compétente de l'Etat à la commission départementale de préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
+La construction de bâtiments nouveaux mentionnée au 1° de l'article L. 111-4, les projets de méthanisation mentionnés au même article L. 111-4 et les projets de constructions, aménagements, installations et travaux mentionnés aux 2° et 3° du même article ayant pour conséquence une réduction des surfaces situées dans les espaces autres qu'urbanisés et sur lesquelles est exercée une activité agricole ou qui sont à vocation agricole doivent être préalablement soumis pour avis par l'autorité administrative compétente de l'Etat à la commission départementale de préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
 
 La délibération mentionnée au 4° de l'article L. 111-4 est soumise pour avis conforme à cette même commission départementale. Cet avis est réputé favorable s'il n'est pas intervenu dans un délai d'un mois à compter de la saisine de la commission.
 
@@ -411,8 +413,6 @@ La délibération mentionnée au 4° de l'article L. 111-4 est soumise pour avis
 ######## Article L111-6
 
 En dehors des espaces urbanisés des communes, les constructions ou installations sont interdites dans une bande de cent mètres de part et d'autre de l'axe des autoroutes, des routes express et des déviations au sens du code de la voirie routière et de soixante-quinze mètres de part et d'autre de l'axe des autres routes classées à grande circulation.
-
-Cette interdiction s'applique également dans une bande de soixante-quinze mètres de part et d'autre des routes visées à l'article L. 141-19.
 
 ######## Article L111-7
 
@@ -426,7 +426,7 @@ L'interdiction mentionnée à l'article L. 111-6 ne s'applique pas :
 
 4° Aux réseaux d'intérêt public ;
 
-5° Aux infrastructures de production d'énergie solaire lorsqu'elles sont installées sur des parcelles déclassées par suite d'un changement de tracé des voies du domaine public routier ou de l'ouverture d'une voie nouvelle ou sur les aires de repos, les aires de service et les aires de stationnement situées sur le réseau routier.
+5° Aux infrastructures de production d'énergie solaire, photovoltaïque ou thermique.
 
 Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à la réfection ou à l'extension de constructions existantes.
 
@@ -555,6 +555,58 @@ Ce décret détermine les catégories de terrains aménagés sur lesquels les r�
 ###### Article L111-26
 
 Au sens du présent code, on entend par “ friche ” tout bien ou droit immobilier, bâti ou non bâti, inutilisé et dont l'état, la configuration ou l'occupation totale ou partielle ne permet pas un réemploi sans un aménagement ou des travaux préalables. Les modalités d'application du présent article sont fixées par décret.
+
+##### Section 9 : Installations de production d'énergie photovoltaïque sur des terrains agricoles, naturels et forestiers
+
+###### Sous-section 1 : Installations agrivoltaïques
+
+####### Article L111-27
+
+Sont considérées comme nécessaires à l'exploitation agricole, pour l'application des articles L. 111-4, L. 151-11 et L. 161-4 du présent code, les installations agrivoltaïques au sens de l'article L. 314-36 du code de l'énergie.
+
+####### Article L111-28
+
+L'installation des serres, des hangars et des ombrières à usage agricole supportant des panneaux photovoltaïques doit correspondre à une nécessité liée à l'exercice effectif d'une activité agricole, pastorale ou forestière significative.
+
+###### Sous-section 2 : Installations compatibles avec l'exercice d'une activité agricole
+
+####### Article L111-29
+
+Pour l'application des articles L. 111-4, L. 151-11 et L. 161-4, la compatibilité avec l'exercice d'une activité agricole, pastorale ou forestière des ouvrages de production d'électricité à partir de l'énergie solaire s'apprécie à l'échelle de l'ensemble des terrains d'un seul tenant, faisant partie de la même exploitation agricole, pastorale ou forestière, au regard des activités agricoles, pastorales ou forestières qui y sont effectivement exercées ou, en l'absence d'activité effective, qui auraient vocation à s'y développer. Aucun ouvrage de production d'électricité à partir de l'énergie solaire, hors installations agrivoltaïques au sens de l'article L. 314-36 du code de l'énergie, ne peut être implanté en dehors des surfaces identifiées dans un document-cadre arrêté en application du deuxième alinéa du présent article.
+
+Un arrêté préfectoral, pris après consultation de la commission départementale de préservation des espaces naturels, agricoles et forestiers, des organisations professionnelles intéressées et des collectivités territoriales concernées, établit un document-cadre sur proposition de la chambre départementale d'agriculture pour le département concerné. Ce document-cadre définit notamment les surfaces agricoles et forestières ouvertes à un projet d'installation mentionnée au présent article et à l'article L. 111-30 ainsi que les conditions d'implantation dans ces surfaces. Ces surfaces sont définies en veillant à préserver la souveraineté alimentaire. Le délai entre la proposition du document-cadre et la publication de l'arrêté mentionnés à la première phrase du présent alinéa ne peut excéder six mois. Dans les départements pour lesquels un tel arrêté est en vigueur, l'avis de la commission départementale de la préservation des espaces naturels, agricoles et forestiers prévu à l'article L. 111-31 est un avis simple. Seuls peuvent être identifiés au sein de ces surfaces des sols réputés incultes ou non exploités depuis une durée minimale, antérieure à la publication de la loi n° 2023-175 du 10 mars 2023 relative à l'accélération de la production d'énergies renouvelables, définie par le décret en Conseil d'Etat mentionné au dernier alinéa du présent article. Les sols ainsi identifiés sont intégrés en tout ou partie dans les zones d'accélération prévues à l'article L. 141-5-3 du code de l'énergie selon les modalités prévues au même article L. 141-5-3.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+####### Article L111-30
+
+Les modalités techniques des installations mentionnées à l'article L. 111-29 doivent permettre que ces installations n'affectent pas durablement les fonctions écologiques du sol, en particulier ses fonctions biologiques, hydriques et climatiques ainsi que son potentiel agronomique, et que l'installation ne soit pas incompatible avec l'exercice d'une activité agricole, pastorale ou forestière sur le terrain mentionné au même article L. 111-29 sur lequel elle est implantée.
+
+###### Sous-section 3 : Dispositions communes
+
+####### Article L111-31
+
+Les ouvrages de production d'électricité à partir de l'énergie solaire mentionnés aux articles L. 111-27 à L. 111-29 implantés sur les sols des espaces naturels, agricoles et forestiers sont autorisés sur avis conforme de la commission départementale de la préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, à l'exception des ouvrages mentionnés au deuxième alinéa de l'article L. 111-29 du présent code, qui font l'objet d'un avis simple. Cet avis vaut pour toutes les procédures administratives nécessaires aux projets d'installations agrivoltaïques au sens de l'article L. 314-36 du code de l'énergie. Avant de rendre son avis, la commission départementale de préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime auditionne le pétitionnaire.
+
+####### Article L111-32
+
+Les ouvrages de production d'électricité à partir de l'énergie solaire mentionnés aux articles L. 111-27 à L. 111-29 sont autorisés pour une durée limitée et sous condition de démantèlement au terme de cette durée ou au terme de l'exploitation de l'ouvrage s'il survient avant. Ces ouvrages présentent des caractéristiques garantissant la réversibilité de leur installation.
+
+Le propriétaire du terrain d'assiette est tenu d'enlever dans un délai raisonnable l'ouvrage et de remettre en état le terrain :
+
+1° Lorsque l'ouvrage n'est pas ou plus exploité ou lorsqu'il est constaté que les conditions de compatibilité avec l'activité agricole, pastorale ou forestière ne sont plus réunies ;
+
+2° Au plus tard, à l'issue d'une durée déterminée par voie réglementaire.
+
+Lorsque le projet requiert la délivrance d'un permis de construire ou d'une décision de non-opposition à déclaration préalable, sa mise en œuvre peut être subordonnée à la constitution préalable de garanties financières, notamment lorsque la sensibilité du terrain d'implantation ou l'importance du projet le justifie.
+
+####### Article L111-33
+
+Les constructions et les installations de production d'électricité à partir de l'énergie solaire implantées sur les sols ne sont pas autorisées dans les zones forestières lorsqu'elles nécessitent un défrichement, au sens de l'article L. 341-1 du code forestier, soumis à évaluation environnementale systématique en application de l'article L. 122-1 du code de l'environnement.
+
+####### Article L111-34
+
+Les conditions d'application de la présente section sont fixées par décret en Conseil d'Etat.
 
 #### Chapitre II : Servitudes d'urbanisme
 
@@ -1054,6 +1106,14 @@ Dans les zones non interconnectées au réseau électrique métropolitain contin
 
 L'autorisation d'urbanisme est soumise pour avis à la commission départementale de la nature, des paysages et des sites.
 
+######## Article L121-5-2
+
+A titre exceptionnel, les ouvrages du réseau public de transport d'électricité qui contribuent à atteindre les objectifs mentionnés aux 1°, 3°, 4°, 4° ter, 6°, 8° et 10° du I de l'article L. 100-4 du code de l'énergie peuvent être autorisés, par dérogation au présent chapitre, en dehors des zones délimitées en application de l'article L. 121-22-2 du présent code, par les ministres chargés de l'urbanisme et de l'énergie, après avis, formulé dans un délai d'un mois, de l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme concerné ou, à défaut, du conseil municipal de la commune concernée et après avis de la commission départementale de la nature, des paysages et des sites. L'autorisation est justifiée par un bilan technique, financier et environnemental.
+
+Les lignes électriques sont souterraines, sauf si leur enfouissement s'avère plus dommageable pour l'environnement ou techniquement excessivement complexe ou financièrement disproportionné par rapport à l'installation de lignes aériennes.
+
+Dans la bande littorale définie aux articles L. 121-16 et L. 121-45, dans les espaces identifiés comme remarquables ou caractéristiques et dans les milieux identifiés comme nécessaires au maintien des équilibres biologiques en application de l'article L. 121-23, l'autorisation ne peut être accordée, dans les mêmes conditions que celles prévues aux deux premiers alinéas du présent article, que pour le passage de lignes électriques, lorsque leur localisation répond à une nécessité technique impérative démontrée. L'autorisation est refusée si le projet est de nature à porter une atteinte excessive aux sites et aux paysages remarquables ou caractéristiques ainsi qu'aux espaces et aux milieux à préserver mentionnés à l'article L. 121-23.
+
 ######## Article L121-6
 
 Les nouvelles routes de transit sont localisées à une distance minimale de 2 000 mètres du rivage. Cette disposition ne s'applique pas aux rives des plans d'eau intérieurs.
@@ -1109,6 +1169,26 @@ Ils peuvent être implantés après délibération favorable de l'organe délib�
 Ces ouvrages ne peuvent pas être implantés s'ils sont de nature à porter atteinte à l'environnement ou aux sites et paysages remarquables.
 
 La dérogation mentionnée au premier alinéa s'applique en dehors des espaces proches du rivage et au-delà d'une bande d'un kilomètre à compter de la limite haute du rivage ou des plus hautes eaux pour les plans d'eau intérieurs désignés à l'article L. 321-2 du code de l'environnement. Le plan local d'urbanisme peut adapter, hors espaces proches du rivage, la largeur de la bande d'un kilomètre.
+
+######## Article L121-12-1
+
+I.-Par dérogation à l'article L. 121-8, les ouvrages nécessaires à la production d'énergie solaire photovoltaïque ou thermique peuvent être autorisés sur des friches définies à l'article L. 111-26. La liste de ces friches est fixée par décret, après concertation avec le Conservatoire de l'espace littoral et des rivages lacustres prévu à l'article L. 322-1 du code de l'environnement et avis des associations représentatives des collectivités territoriales concernées.
+
+Ces ouvrages peuvent également être autorisés sur les bassins industriels de saumure saturée dans les conditions prévues au premier alinéa du présent I.
+
+L'autorisation est accordée par l'autorité administrative compétente de l'Etat, après avis de la commission départementale de la nature, des paysages et des sites.
+
+Cette autorisation est subordonnée à la condition que le projet ne soit pas de nature à porter atteinte à l'environnement, notamment à la biodiversité ou aux paysages et à la salubrité ou à la sécurité publiques, en fonctionnement normal comme en cas d'incident ou d'accident.
+
+En outre, s'agissant des friches, il appartient au pétitionnaire de justifier que le projet d'installation photovoltaïque ou thermique est préférable, pour des motifs d'intérêt général, à un projet de renaturation, lorsque celui-ci est techniquement réalisable. Cette démonstration peut tenir compte notamment du coût d'un tel projet de renaturation, des obstacles pratiques auxquels est susceptible de se heurter sa mise en œuvre, de sa durée de réalisation ainsi que des avantages que comporte le projet d'installation photovoltaïque ou thermique.
+
+L'instruction de la demande s'appuie sur une étude fournie par le pétitionnaire permettant de s'assurer que les conditions mentionnées aux quatrième et avant-dernier alinéas du présent I sont remplies.
+
+II.-Les installations de stockage par batterie ou de production d'hydrogène renouvelable ou bas-carbone, au sens de l'article L. 811-1 du code de l'énergie, couplées, aux fins d'alimentation électrique, avec des ouvrages de production d'énergie solaire photovoltaïque ou thermique situés sur des bassins industriels de saumure saturée peuvent être autorisées dans des friches dans les conditions prévues au I du présent article.
+
+Dans ce cas, le pétitionnaire démontre également que l'implantation de ces installations sur une friche située à proximité des ouvrages de production d'énergie photovoltaïque ou thermique est justifiée par des contraintes impératives, notamment environnementales, techniques ou économiques.
+
+III.-Les installations de stockage d'énergie ne peuvent être autorisées sur les sites et dans les conditions définis au I qu'à la condition que l'énergie stockée ait été produite par des ouvrages nécessaires à la production d'énergie solaire présents sur le même site d'implantation.
 
 ####### Paragraphe 2 : Extension de l'urbanisation limitée, justifiée et motivée dans les espaces proches du rivage
 
@@ -1422,7 +1502,7 @@ Cette autorisation est refusée si les constructions ou installations sont de na
 
 ####### Article L121-39-1
 
-Par dérogation à l'article L. 121-8, en Guyane et à Mayotte, les constructions ou installations liées aux activités de stockage, de traitement ou de valorisation des déchets et celles nécessaires à la production d'eau potable et à l'assainissement des eaux usées ainsi que les installations de production d'électricité à partir d'énergies renouvelables qui sont incompatibles avec le voisinage des zones habitées peuvent être autorisées, avec l'accord de l'autorité administrative compétente de l'Etat, après avis de la commission départementale de la nature, des paysages et des sites. Cet accord est refusé si les constructions ou installations concernées sont de nature à porter atteinte à l'environnement. Le changement de destination de ces constructions ou installations n'est autorisé que vers les destinations et les sous-destinations incompatibles avec le voisinage des zones habitées susmentionnées, dans les conditions prévues au présent article.
+Par dérogation à l'article L. 121-8, en Guyane et à Mayotte, les constructions ou installations liées aux activités de stockage, de traitement ou de valorisation des déchets et celles nécessaires à la production d'eau potable et à l'assainissement des eaux usées qui sont incompatibles avec le voisinage des zones habitées ainsi que les installations de production d'électricité à partir d'énergies renouvelables ou d'énergie solaire thermique et les installations de stockage d'énergie couplées aux fins d'alimentation électrique avec ces installations de production d'électricité peuvent être autorisées, avec l'accord de l'autorité administrative compétente de l'Etat, après avis de la commission départementale de la nature, des paysages et des sites. Cet accord est refusé si les constructions ou installations concernées sont de nature à porter atteinte à l'environnement. Le changement de destination de ces constructions ou installations n'est autorisé que vers les destinations et les sous-destinations incompatibles avec le voisinage des zones habitées susmentionnées, dans les conditions prévues au présent article.
 
 La dérogation mentionnée au premier alinéa s'applique en dehors des espaces proches du rivage et, à l'exception de Mayotte, au-delà d'une bande de trois kilomètres à compter de la limite haute du rivage ou des plus hautes eaux pour les plans d'eau intérieurs mentionnés à l'article L. 321-2 du code de l'environnement.
 
@@ -1558,11 +1638,13 @@ b) Pour l'interprétation des notions de hameaux et de groupes de constructions 
 
 ######## Article L122-7
 
-Les dispositions de l'article L. 122-5 ne s'appliquent pas lorsque le schéma de cohérence territoriale ou le plan local d'urbanisme comporte une étude justifiant, en fonction des spécificités locales, qu'une urbanisation qui n'est pas située en continuité de l'urbanisation existante est compatible avec le respect des objectifs de protection des terres agricoles, pastorales et forestières et avec la préservation des paysages et milieux caractéristiques du patrimoine naturel prévus aux articles L. 122-9 et L. 122-10 ainsi qu'avec la protection contre les risques naturels. L'étude est soumise à l'avis de la commission départementale de la nature, des paysages et des sites. Le plan local d'urbanisme ou la carte communale délimite alors les zones à urbaniser dans le respect des conclusions de cette étude.
+I.- Les dispositions de l'article L. 122-5 ne s'appliquent pas lorsque le schéma de cohérence territoriale ou le plan local d'urbanisme comporte une étude justifiant, en fonction des spécificités locales, qu'une urbanisation qui n'est pas située en continuité de l'urbanisation existante est compatible avec le respect des objectifs de protection des terres agricoles, pastorales et forestières et avec la préservation des paysages et milieux caractéristiques du patrimoine naturel prévus aux articles L. 122-9 et L. 122-10 ainsi qu'avec la protection contre les risques naturels. L'étude est soumise à l'avis de la commission départementale de la nature, des paysages et des sites. Le plan local d'urbanisme ou la carte communale délimite alors les zones à urbaniser dans le respect des conclusions de cette étude.
 
 En l'absence d'une telle étude, le plan local d'urbanisme ou la carte communale peut délimiter des hameaux et des groupes d'habitations nouveaux intégrés à l'environnement ou, à titre exceptionnel après accord de la chambre d'agriculture et de la commission départementale de la nature, des paysages et des sites, des zones d'urbanisation future de taille et de capacité d'accueil limitées, si le respect des dispositions prévues aux articles L. 122-9 et L. 122-10 ou la protection contre les risques naturels imposent une urbanisation qui n'est pas située en continuité de l'urbanisation existante.
 
-Dans les communes ou parties de commune qui ne sont pas couvertes par un plan local d'urbanisme ou une carte communale, des constructions qui ne sont pas situées en continuité avec les bourgs, villages, hameaux, groupes de constructions traditionnelles ou d'habitations existants peuvent être autorisées, dans les conditions définies au 4° de l'article L. 111-4 et à l'article L. 111-5, si la commune ne subit pas de pression foncière due au développement démographique ou à la construction de résidences secondaires et si la dérogation envisagée est compatible avec les objectifs de protection des terres agricoles, pastorales et forestières et avec la préservation des paysages et milieux caractéristiques du patrimoine naturel prévus aux articles L. 122-9 et L. 122-10.
+II.-Dans les communes qui ne sont pas couvertes par un schéma de cohérence territoriale comportant une étude mentionnée au I du présent article, la carte communale peut comporter une étude, établie dans les conditions mentionnées au premier alinéa du même I, relative à la réalisation d'ouvrages de production d'énergie solaire photovoltaïque ou thermique installés sur le sol en discontinuité de l'urbanisation existante. La carte communale délimite alors les secteurs où les constructions sont autorisées dans le respect des conclusions de cette étude.
+
+III.- Dans les communes ou parties de commune qui ne sont pas couvertes par un plan local d'urbanisme ou une carte communale, des constructions qui ne sont pas situées en continuité avec les bourgs, villages, hameaux, groupes de constructions traditionnelles ou d'habitations existants peuvent être autorisées, dans les conditions définies au 4° de l'article L. 111-4 et à l'article L. 111-5, si la commune ne subit pas de pression foncière due au développement démographique ou à la construction de résidences secondaires et si la dérogation envisagée est compatible avec les objectifs de protection des terres agricoles, pastorales et forestières et avec la préservation des paysages et milieux caractéristiques du patrimoine naturel prévus aux articles L. 122-9 et L. 122-10.
 
 ####### Paragraphe 3 : Capacité d'accueil des espaces destinés à l'urbanisation
 
@@ -1618,7 +1700,7 @@ Dans les secteurs protégés en application de l'article L. 122-12, ne peuvent �
 
 Par dérogation aux dispositions de l'article L. 122-12, des constructions et aménagements peuvent être admis, en fonction des spécificités locales, dans certains secteurs délimités :
 
-1° Soit par un plan local d'urbanisme ou un schéma de cohérence territoriale, avec l'accord de l'autorité administrative compétente de l'Etat et au vu d'une étude réalisée et approuvée dans les conditions prévues au premier alinéa de l'article L. 122-7 ;
+1° Soit par un plan local d'urbanisme ou un schéma de cohérence territoriale, avec l'accord de l'autorité administrative compétente de l'Etat et au vu d'une étude réalisée et approuvée dans les conditions prévues au premier alinéa du I de l'article L. 122-7 ;
 
 2° Soit par une carte communale, avec l'accord de l'autorité administrative compétente de l'Etat, après avis de la commission départementale de la nature, des paysages et des sites, et au vu d'une étude justifiant que l'aménagement et l'urbanisation de ces secteurs sont compatibles avec la prise en compte de la qualité de l'environnement et des paysages. Dans ce cas, chaque permis de construire est soumis pour avis à la commission départementale de la nature, des paysages et des sites.
 
@@ -2422,7 +2504,7 @@ L'ensemble de ces orientations s'inscrit dans un objectif de développement équ
 
 2° Une offre de logement et d'habitat renouvelée, l'implantation des grands équipements et services qui structurent le territoire, ainsi que l'organisation des mobilités assurant le lien et la desserte de celui-ci ;
 
-3° Les transitions écologique et énergétique, qui impliquent la lutte contre l'étalement urbain et le réchauffement climatique, l'adaptation et l'atténuation des effets de ce dernier, le développement des énergies renouvelables, ainsi que la prévention des risques naturels, technologiques et miniers, la préservation et la valorisation des paysages, de la biodiversité, des ressources naturelles, des espaces naturels, agricoles et forestiers.
+3° Les transitions écologique et énergétique, qui impliquent la lutte contre l'étalement urbain et le réchauffement climatique, l'adaptation et l'atténuation des effets de ce dernier, le développement des énergies renouvelables, ainsi que la prévention des risques naturels, technologiques et miniers, la préservation et la valorisation de la biodiversité, des ressources naturelles, des espaces naturels, agricoles et forestiers ainsi que des paysages, dans un objectif d'insertion et de qualité paysagères des différentes activités humaines, notamment des installations de production et de transport des énergies renouvelables.
 
 Le document d'orientation et d'objectifs peut décliner toute autre orientation nécessaire à la traduction du projet d'aménagement stratégique, relevant des objectifs énoncés à l'article L. 101-2 et de la compétence des collectivités publiques en matière d'urbanisme.
 
@@ -2506,11 +2588,17 @@ Au regard des enjeux en matière de préservation de l'environnement et des ress
 
 1° Les objectifs chiffrés de consommation économe de l'espace et de lutte contre l'étalement urbain par secteur géographique ;
 
-2° Les orientations en matière de préservation des paysages, les espaces naturels, agricoles, forestiers ou urbains à protéger, notamment en raison de leur participation à l'amélioration du cadre de vie. Il transpose les dispositions pertinentes des chartes de parcs naturels régionaux à une échelle appropriée ;
+2° Les orientations en matière de préservation des paysages ainsi qu'en matière d'insertion et de qualité paysagères des activités économiques, agricoles, forestières et de production et de transport d'énergie, les espaces naturels, agricoles, forestiers ou urbains à protéger, notamment en raison de leur participation à l'amélioration du cadre de vie. Il précise la manière dont les paysages vécus et leurs composantes naturelles, historiques et socio-culturelles sont pris en compte dans les choix d'aménagements et veille à limiter les effets de saturation visuelle. Il transpose les dispositions pertinentes des chartes de parcs naturels régionaux à une échelle appropriée ;
 
 3° Les modalités de protection des espaces nécessaires au maintien de la biodiversité et à la préservation ou à la remise en bon état des continuités écologiques et de la ressource en eau. Il peut identifier à cette fin des zones préférentielles pour la renaturation, par la transformation de sols artificialisés en sols non artificialisés ;
 
-4° Les orientations qui contribuent à favoriser la transition énergétique et climatique, notamment la lutte contre les émissions territoriales de gaz à effet de serre et de polluants atmosphériques, et l'accroissement du stockage de carbone dans les sols et les milieux naturels.
+4° Les orientations qui contribuent à favoriser la transition énergétique et climatique, notamment la lutte contre les émissions territoriales de gaz à effet de serre et de polluants atmosphériques, l'accroissement du stockage de carbone dans les sols et les milieux naturels et le développement des énergies renouvelables, au sens de l'article L. 211-2 du code de l'énergie.
+
+Le document d'orientation et d'objectifs peut également identifier des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables arrêtées en application de l'article L. 141-5-3 du même code.
+
+Dans le périmètre des communes non couvertes par un plan local d'urbanisme ou une carte communale, le document d'orientation et d'objectifs peut également délimiter, sur proposition ou avis conforme des communes concernées, des secteurs dans lesquels est soumise à conditions l'implantation d'installations de production d'énergies renouvelables, dès lors qu'elles sont incompatibles avec le voisinage habité ou avec l'usage des terrains situés à proximité ou qu'elles portent atteinte à la sauvegarde des espaces naturels et des paysages, à la qualité architecturale, urbaine et paysagère, à la mise en valeur du patrimoine et à l'insertion des installations dans le milieu environnant.
+
+Dans le périmètre des communes non couvertes par un plan local d'urbanisme ou une carte communale des départements pour lesquels a préalablement été arrêtée une cartographie des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables en application de l'article L. 141-5-3 du code de l'énergie, et lorsque l'avis du comité régional de l'énergie a estimé, dans les conditions prévues au même article L. 141-5-3, que les zones d'accélération identifiées par ladite cartographie sont suffisantes pour l'atteinte des objectifs régionaux établis en application de l'article L. 141-5-1 du même code, le document d'orientation et d'objectifs peut également délimiter des secteurs où est exclue l'implantation d'installations de production d'énergies renouvelables, dès lors qu'elles sont incompatibles avec le voisinage habité ou avec l'usage des terrains situés à proximité ou qu'elles portent atteinte à la sauvegarde des espaces naturels et des paysages, à la qualité architecturale, urbaine et paysagère, à la mise en valeur du patrimoine et à l'insertion des installations dans le milieu environnant. Les secteurs délimités en application du présent alinéa sont applicables uniquement aux projets dont la demande d'autorisation auprès de l'autorité compétente est déposée après l'approbation du schéma de cohérence territoriale délimitant de tels secteurs. Les secteurs délimités en application du présent alinéa ne sont pas applicables aux procédés de production d'énergies renouvelables en toiture ou aux procédés de chaleur à usage individuel.
 
 ###### Sous-section 4 : Zones de montagne
 
@@ -2896,13 +2984,15 @@ A défaut d'une telle délibération, le schéma de cohérence territoriale est 
 
 ###### Article L143-29
 
-Le schéma de cohérence territoriale fait l'objet d'une révision lorsque l'établissement public prévu à l'article L. 143-16 envisage des changements portant sur :
+I.-Le schéma de cohérence territoriale fait l'objet d'une révision lorsque l'établissement public prévu à l'article L. 143-16 envisage des changements portant sur :
 
 1° Les orientations définies par le projet d'aménagement stratégique ;
 
 2° Les dispositions du document d'orientation et d'objectifs prises en application de l'article L. 141-10 ;
 
 3° Les dispositions du document d'orientation et d'objectifs relatives à la politique de l'habitat prises en application du 3° de l'article L. 141-7 ayant pour effet de diminuer l'objectif global concernant l'offre de nouveaux logements.
+
+II.-Lorsqu'ils ont pour objet de soutenir le développement de la production d'énergies renouvelables, au sens de l'article L. 211-2 du code de l'énergie, de la production d'hydrogène renouvelable ou bas-carbone ou du stockage d'électricité ou d'identifier des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables arrêtées en application de l'article L. 141-5-3 du même code, les changements mentionnés aux 1° et 2° du I du présent article relèvent de la procédure de modification simplifiée prévue aux articles L. 143-37 à L. 143-39 du présent code.
 
 ###### Article L143-30
 
@@ -2918,7 +3008,7 @@ Entre la mise en révision d'un schéma de cohérence territoriale et l'approbat
 
 ###### Article L143-32
 
-Sous réserve des cas où une révision s'impose en application de l'article L. 143-29, le schéma de cohérence territoriale fait l'objet d'une procédure de modification lorsque l'établissement public prévu à l'article L. 143-16 décide de modifier le document d'orientation et d'objectifs.
+Sous réserve des cas où une révision s'impose en application du I de l'article L. 143-29, le schéma de cohérence territoriale fait l'objet d'une procédure de modification lorsque l'établissement public prévu à l'article L. 143-16 décide de modifier le document d'orientation et d'objectifs.
 
 ###### Article L143-33
 
@@ -2950,7 +3040,7 @@ L'acte modifiant le schéma de cohérence territoriale devient exécutoire dans 
 
 ####### Article L143-37
 
-Dans les cas autres que ceux mentionnés à l'article L. 143-34, le projet de modification peut faire l'objet d'une modification simplifiée. Il en est de même lorsque le projet de modification a uniquement pour objet la rectification d'une erreur matérielle.
+Dans les cas autres que ceux mentionnés à l'article L. 143-34 et dans les cas mentionnés au II de l'article L. 143-29, le projet de modification peut faire l'objet d'une modification simplifiée. Il en est de même lorsque le projet de modification a uniquement pour objet la rectification d'une erreur matérielle.
 
 ####### Article L143-38
 
@@ -3132,9 +3222,9 @@ Le projet d'aménagement et de développement durables définit :
 
 1° Les orientations générales des politiques d'aménagement, d'équipement, d'urbanisme, de paysage, de protection des espaces naturels, agricoles et forestiers, et de préservation ou de remise en bon état des continuités écologiques ;
 
-2° Les orientations générales concernant l'habitat, les transports et les déplacements, les réseaux d'énergie, le développement des communications numériques, l'équipement commercial, le développement économique et les loisirs, retenues pour l'ensemble de l'établissement public de coopération intercommunale ou de la commune.
+2° Les orientations générales concernant l'habitat, les transports et les déplacements, les réseaux d'énergie, le développement des énergies renouvelables, le développement des communications numériques, l'équipement commercial, le développement économique et les loisirs, retenues pour l'ensemble de l'établissement public de coopération intercommunale ou de la commune.
 
-Pour la réalisation des objectifs de réduction d'artificialisation des sols mentionnés aux articles L. 141-3 et L. 141-8 ou, en l'absence de schéma de cohérence territoriale, en prenant en compte les objectifs mentionnés à la seconde phrase du deuxième alinéa de l'article L. 4251-1 du code général des collectivités territoriales, ou en étant compatible avec les objectifs mentionnés au quatrième alinéa du I de l'article L. 4424-9 du même code, à la seconde phrase du troisième alinéa de l'article L. 4433-7 dudit code ou au dernier alinéa de l'article L. 123-1 du présent code, et en cohérence avec le diagnostic établi en application de l'article L. 151-4, le projet d'aménagement et de développement durables fixe des objectifs chiffrés de modération de la consommation de l'espace et de lutte contre l'étalement urbain.
+Pour la réalisation des objectifs de réduction d'artificialisation des sols mentionnés aux articles L. 141-3 et L. 141-8 ou, en l'absence de schéma de cohérence territoriale, en prenant en compte les objectifs mentionnés à la seconde phrase du deuxième alinéa de l'article L. 4251-1 du code général des collectivités territoriales, ou en étant compatible avec les objectifs mentionnés au quatrième alinéa du I de l'article L. 4424-9 du même code, à la seconde phrase du troisième alinéa de l'article L. 4433-7 dudit code ou au dernier alinéa de l'article L. 123-1 du présent code, et en cohérence avec le diagnostic établi en application de l'article L. 151-4, le projet d'aménagement et de développement durables fixe des objectifs chiffrés de modération de la consommation de l'espace et de lutte contre l'étalement urbain
 
 Il ne peut prévoir l'ouverture à l'urbanisation d'espaces naturels, agricoles ou forestiers que s'il est justifié, au moyen d'une étude de densification des zones déjà urbanisées, que la capacité d'aménager et de construire est déjà mobilisée dans les espaces urbanisés. Pour ce faire, il tient compte de la capacité à mobiliser effectivement les locaux vacants, les friches et les espaces déjà urbanisés pendant la durée comprise entre l'élaboration, la révision ou la modification du plan local d'urbanisme et l'analyse prévue à l'article L. 153-27.
 
@@ -3174,7 +3264,9 @@ I.-Les orientations d'aménagement et de programmation peuvent notamment :
 
 6° Adapter la délimitation des périmètres, en fonction de la qualité de la desserte, où s'applique le plafonnement à proximité des transports prévu aux articles L. 151-35 et L. 151-36 ;
 
-7° Définir les actions et opérations nécessaires pour protéger les franges urbaines et rurales. Elles peuvent définir les conditions dans lesquelles les projets de construction et d'aménagement situés en limite d'un espace agricole intègrent un espace de transition végétalisé non artificialisé entre les espaces agricoles et les espaces urbanisés, ainsi que la localisation préférentielle de cet espace de transition.
+7° Définir les actions et opérations nécessaires pour protéger les franges urbaines et rurales. Elles peuvent définir les conditions dans lesquelles les projets de construction et d'aménagement situés en limite d'un espace agricole intègrent un espace de transition végétalisé non artificialisé entre les espaces agricoles et les espaces urbanisés, ainsi que la localisation préférentielle de cet espace de transition ;
+
+8° Dans les communes non couvertes par un schéma de cohérence territoriale, identifier les zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables arrêtées en application de l'article L. 141-5-3 du code de l'énergie.
 
 II.-En zone de montagne, ces orientations définissent la localisation, la nature et la capacité globale d'accueil et d'équipement des unités touristiques nouvelles locales.
 
@@ -3223,6 +3315,8 @@ I.-Dans les zones agricoles, naturelles ou forestières, le règlement peut :
 2° Désigner, en dehors des secteurs mentionnés à l'article L. 151-13, les bâtiments qui peuvent faire l'objet d'un changement de destination, dès lors que ce changement de destination ne compromet pas l'activité agricole ou la qualité paysagère du site. Le changement de destination est soumis, en zone agricole, à l'avis conforme de la commission départementale de la préservation des espaces agricoles, naturels et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, et, en zone naturelle, à l'avis conforme de la commission départementale de la nature, des paysages et des sites.
 
 II.-Dans les zones agricoles ou forestières, le règlement peut autoriser les constructions et installations nécessaires à la transformation, au conditionnement et à la commercialisation des produits agricoles, lorsque ces activités constituent le prolongement de l'acte de production, dès lors qu'elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière sur le terrain sur lequel elles sont implantées et qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages. L'autorisation d'urbanisme est soumise pour avis à la commission départementale de la préservation des espaces naturels, agricoles et forestiers.
+
+III.-Lorsque le règlement n'interdit pas les constructions ou les installations mentionnées au II du présent article, les installations de méthanisation mentionnées à l'article L. 111-4 sont considérées comme de telles constructions ou de telles installations. Ces projets d'installations sont préalablement soumis pour avis à la commission départementale de la préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
 
 ######## Article L151-12
 
@@ -3338,7 +3432,7 @@ Le règlement du plan local d'urbanisme ou du document d'urbanisme en tenant lie
 
 2° Des secteurs à l'intérieur desquels la réalisation de programmes de logements comportant des logements locatifs sociaux au sens de l'article L. 302-5 du code de la construction et de l'habitation bénéficie d'une majoration du volume constructible tel qu'il résulte des règles relatives au gabarit, à la hauteur et à l'emprise au sol. Cette majoration, fixée pour chaque secteur, ne peut excéder 50 %. Pour chaque opération, elle ne peut être supérieure au rapport entre le nombre de logements locatifs sociaux et le nombre total des logements de l'opération ;
 
-3° Dans les zones urbaines ou à urbaniser, un dépassement des règles relatives au gabarit qui peut être modulé mais ne peut excéder 30 %, pour les constructions faisant preuve d'exemplarité énergétique ou environnementale ou qui sont à énergie positive. Un décret en Conseil d'Etat détermine les conditions d'application de la majoration ;
+3° Dans les zones urbaines ou à urbaniser, un dépassement des règles relatives au gabarit qui peut être modulé mais ne peut excéder 30 %, pour les constructions faisant preuve d'exemplarité énergétique ou environnementale ou qui intègrent des procédés de production d'énergies renouvelables. Un décret en Conseil d'Etat détermine les conditions d'application de la majoration ;
 
 4° Des secteurs à l'intérieur desquels la réalisation de programmes de logements comportant des logements intermédiaires, définis à l'article L. 302-16 du code de la construction et de l'habitation, bénéficie d'une majoration du volume constructible qui résulte des règles relatives au gabarit, à la hauteur et à l'emprise au sol. Cette majoration, fixée pour chaque secteur, ne peut excéder 30 %. Pour chaque opération, elle ne peut être supérieure au rapport entre le nombre de logements intermédiaires et le nombre total de logements de l'opération.
 
@@ -3466,7 +3560,9 @@ Dans les zones d'aménagement concerté, le règlement peut préciser :
 
 ####### Article L151-42-1
 
-Le règlement peut délimiter les secteurs dans lesquels l'implantation d'installations de production d'électricité à partir de l'énergie mécanique du vent est soumise à conditions, dès lors qu'elles sont incompatibles avec le voisinage habité ou avec l'usage des terrains situés à proximité ou qu'elles portent atteinte à la sauvegarde des espaces naturels et des paysages, à la qualité architecturale, urbaine et paysagère, à la mise en valeur du patrimoine et à l'insertion des installations dans le milieu environnant.
+I.-Le règlement peut délimiter les secteurs dans lesquels l'implantation d'installations de production d'énergie renouvelable, y compris leurs ouvrages de raccordement, est soumise à conditions, dès lors que ces installations sont incompatibles avec le voisinage habité ou avec l'usage des terrains situés à proximité ou qu'elles portent atteinte à la sauvegarde des espaces naturels et des paysages, à la qualité architecturale, urbaine et paysagère, à la mise en valeur du patrimoine et à l'insertion des installations dans le milieu environnant.
+
+II.-Dans les communes des départements pour lesquels a préalablement été arrêtée une cartographie des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables en application de l'article L. 141-5-3 du code de l'énergie et lorsque l'avis du comité régional de l'énergie a estimé, dans les conditions prévues au même article L. 141-5-3, que les zones d'accélération identifiées par ladite cartographie sont suffisantes pour l'atteinte des objectifs régionaux établis en application de l'article L. 141-5-1 du même code, le règlement peut également délimiter des secteurs d'exclusion d'installations d'énergies renouvelables, dès lors qu'elles sont incompatibles avec le voisinage habité ou avec l'usage des terrains situés à proximité ou qu'elles portent atteinte à la sauvegarde des espaces naturels et des paysages, à la qualité architecturale, urbaine et paysagère, à la mise en valeur du patrimoine et à l'insertion des installations dans le milieu environnant. Les secteurs délimités en application du présent II sont applicables uniquement aux projets dont la demande d'autorisation auprès de l'autorité compétente est déposée après l'approbation du plan local d'urbanisme dont le règlement comporte de tels secteurs. Les secteurs délimités en application du présent II ne sont pas applicables aux procédés de production d'énergies renouvelables en toiture ou aux procédés de chaleur à usage individuel.
 
 ##### Section 5 : Les annexes
 
@@ -3672,7 +3768,7 @@ Sont toutefois exceptées du périmètre les parties de ces territoires couverte
 
 ####### Article L153-2
 
-L'établissement public de coopération intercommunale compétent engage une procédure d'élaboration ou de révision d'un plan local d'urbanisme couvrant l'intégralité de son territoire lorsqu'il le décide et, au plus tard, lorsqu'il révise un des plans locaux d'urbanisme applicables dans son périmètre en application du 1° de l'article L. 153-31.
+L'établissement public de coopération intercommunale compétent engage une procédure d'élaboration ou de révision d'un plan local d'urbanisme couvrant l'intégralité de son territoire lorsqu'il le décide et, au plus tard, lorsqu'il révise un des plans locaux d'urbanisme applicables dans son périmètre en application du 1° du I de l'article L. 153-31.
 
 ####### Article L153-3
 
@@ -3686,7 +3782,7 @@ Par dérogation aux articles L. 153-1 et L. 153-2 et pendant une période de cin
 
 En cas de création d'une commune nouvelle, les dispositions des plans locaux d'urbanisme applicables aux anciennes communes restent applicables.
 
-Elles peuvent être modifiées ou mises en compatibilité avec une opération d'utilité publique ou d'intérêt général jusqu'à l'approbation ou la révision d'un plan local d'urbanisme couvrant l'intégralité du territoire de la commune nouvelle. La procédure d'élaboration ou de révision de ce dernier plan est engagée au plus tard lorsqu'un des plans locaux d'urbanisme applicables sur le territoire de la commune nouvelle doit être révisé en application du 1° de l'article L. 153-31.
+Elles peuvent être modifiées ou mises en compatibilité avec une opération d'utilité publique ou d'intérêt général jusqu'à l'approbation ou la révision d'un plan local d'urbanisme couvrant l'intégralité du territoire de la commune nouvelle. La procédure d'élaboration ou de révision de ce dernier plan est engagée au plus tard lorsqu'un des plans locaux d'urbanisme applicables sur le territoire de la commune nouvelle doit être révisé en application du 1° du I de l'article L. 153-31.
 
 ####### Paragraphe 2 : Modification de la limite territoriale des communes
 
@@ -3736,7 +3832,7 @@ Le plan local d'urbanisme est élaboré à l'initiative et sous la responsabilit
 
 I.-L'établissement public de coopération intercommunale mentionné au 1° de l'article L. 153-8 peut achever toute procédure d'élaboration ou d'évolution d'un plan local d'urbanisme ou d'un document en tenant lieu, engagée avant la date de sa création, y compris lorsqu'elle est issue d'une fusion ou du transfert de cette compétence. Lorsque la procédure a été engagée par une commune, l'accord de celle-ci est requis. L'établissement public de coopération intercommunale se substitue de plein droit à la commune ou à l'ancien établissement public de coopération intercommunale dans tous les actes et délibérations afférents à la procédure engagée avant la date de sa création, de sa fusion, de la modification de son périmètre ou du transfert de la compétence.
 
-II.-L'établissement public de coopération intercommunale mentionné au I de l'article L. 153-6 peut également délibérer pour étendre à la totalité de son territoire une procédure d'élaboration ou de révision, en application du 1° de l'article L. 153-31, d'un plan local d'urbanisme intercommunal engagée avant la date du transfert de cette compétence, de la modification de son périmètre ou de sa création, y compris lorsque celle-ci résulte d'une fusion. Cette possibilité est ouverte si le projet de plan local d'urbanisme intercommunal n'a pas été arrêté. Cette délibération précise, s'il y a lieu, les modifications apportées aux objectifs définis dans la délibération initiale et expose les modalités de concertation complémentaires prévues. Cette délibération est notifiée aux personnes publiques associées mentionnées aux articles L. 132-7 et L. 132-9. Un débat sur les orientations du projet d'aménagement et de développement durables est organisé au sein du nouvel établissement public de coopération intercommunale à fiscalité propre compétent, dans les conditions prévues à l'article L. 153-12, avant l'arrêt du projet de plan local d'urbanisme intercommunal étendu à l'ensemble de son territoire.
+II.-L'établissement public de coopération intercommunale mentionné au I de l'article L. 153-6 peut également délibérer pour étendre à la totalité de son territoire une procédure d'élaboration ou de révision, en application du 1° du I de l'article L. 153-31, d'un plan local d'urbanisme intercommunal engagée avant la date du transfert de cette compétence, de la modification de son périmètre ou de sa création, y compris lorsque celle-ci résulte d'une fusion. Cette possibilité est ouverte si le projet de plan local d'urbanisme intercommunal n'a pas été arrêté. Cette délibération précise, s'il y a lieu, les modifications apportées aux objectifs définis dans la délibération initiale et expose les modalités de concertation complémentaires prévues. Cette délibération est notifiée aux personnes publiques associées mentionnées aux articles L. 132-7 et L. 132-9. Un débat sur les orientations du projet d'aménagement et de développement durables est organisé au sein du nouvel établissement public de coopération intercommunale à fiscalité propre compétent, dans les conditions prévues à l'article L. 153-12, avant l'arrêt du projet de plan local d'urbanisme intercommunal étendu à l'ensemble de son territoire.
 
 L'établissement public de coopération intercommunale peut, dans les mêmes conditions qu'au premier alinéa du présent II, fusionner deux ou plusieurs procédures d'élaboration ou de révision de plans locaux d'urbanisme intercommunaux.
 
@@ -3920,7 +4016,7 @@ Lorsque le plan local d'urbanisme tient lieu de plan de mobilité, il donne lieu
 
 ###### Article L153-31
 
-Le plan local d'urbanisme est révisé lorsque l'établissement public de coopération intercommunale ou la commune décide :
+I.-Le plan local d'urbanisme est révisé lorsque l'établissement public de coopération intercommunale ou la commune décide :
 
 1° Soit de changer les orientations définies par le projet d'aménagement et de développement durables ;
 
@@ -3931,6 +4027,10 @@ Le plan local d'urbanisme est révisé lorsque l'établissement public de coopé
 4° Soit d'ouvrir à l'urbanisation une zone à urbaniser qui, dans les six ans suivant sa création, n'a pas été ouverte à l'urbanisation ou n'a pas fait l'objet d'acquisitions foncières significatives de la part de la commune ou de l'établissement public de coopération intercommunale compétent, directement ou par l'intermédiaire d'un opérateur foncier.
 
 5° Soit de créer des orientations d'aménagement et de programmation de secteur d'aménagement valant création d'une zone d'aménagement concerté.
+
+II.-Lorsqu'ils ont pour objet de soutenir le développement de la production d'énergies renouvelables, au sens de l'article L. 211-2 du code de l'énergie, de la production d'hydrogène renouvelable ou bas-carbone, au sens de l'article L. 811-1 du même code, ou du stockage d'électricité ou d'identifier des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables arrêtées en application de l'article L. 141-5-3 du même code, les changements mentionnés au 1° du I du présent article et la modification des règles applicables aux zones agricoles prises en application des deux derniers alinéas de l'article L. 151-9 du présent code relèvent de la procédure de modification simplifiée prévue aux articles L. 153-45 à L. 153-48.
+
+Dans le cadre de ces procédures de modification simplifiée, la commission départementale de préservation des espaces naturels, agricoles et forestiers est saisie pour avis dans les conditions prévues à l'article L. 112-1-1 du code rural et de la pêche maritime.
 
 ###### Article L153-32
 
@@ -3968,7 +4068,7 @@ Les procédures nécessaires à une ou plusieurs révisions effectuées en appli
 
 ###### Article L153-36
 
-Sous réserve des cas où une révision s'impose en application de l'article L. 153-31, le plan local d'urbanisme est modifié lorsque l'établissement public de coopération intercommunale ou la commune décide de modifier le règlement, les orientations d'aménagement et de programmation ou le programme d'orientations et d'actions.
+Sous réserve des cas où une révision s'impose en application du I de l'article L. 153-31, le plan local d'urbanisme est modifié lorsque l'établissement public de coopération intercommunale ou la commune décide de modifier le règlement, les orientations d'aménagement et de programmation ou le programme d'orientations et d'actions.
 
 ###### Article L153-37
 
@@ -4034,7 +4134,9 @@ La modification peut être effectuée selon une procédure simplifiée :
 
 2° Dans les cas de majoration des droits à construire prévus à l'article L. 151-28 ;
 
-3° Dans le cas où elle a uniquement pour objet la rectification d'une erreur matérielle.
+3° Dans le cas où elle a uniquement pour objet la rectification d'une erreur matérielle ;
+
+4° Dans les cas prévus au II de l'article L. 153-31.
 
 Cette procédure peut être à l'initiative soit du président de l'établissement public de coopération intercommunale ou du maire d'une commune membre de cet établissement public si la modification ne concerne que le territoire de cette commune, soit du maire dans les autres cas.
 
@@ -4229,7 +4331,7 @@ Elle permet d'atteindre les objectifs de réduction d'artificialisation des sols
 
 ##### Article L161-4
 
-La carte communale délimite les secteurs où les constructions sont autorisées et les secteurs où les constructions ne sont pas admises, à l'exception :
+I.-La carte communale délimite les secteurs où les constructions sont autorisées et les secteurs où les constructions ne sont pas admises, à l'exception :
 
 1° De l'adaptation, du changement de destination, de la réfection ou de l'extension des constructions existantes ainsi que de l'édification d'annexes à proximité d'un bâtiment existant ;
 
@@ -4246,6 +4348,14 @@ d) Au stockage et à l'entretien du matériel des coopératives d'utilisation de
 Les constructions et installations mentionnées au 2° ne peuvent être autorisées que lorsqu'elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière sur le terrain sur lequel elles sont implantées et qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels ou des paysages.
 
 Les constructions et installations mentionnées aux b et d du même 2° sont soumises à l'avis de la commission départementale de la préservation des espaces naturels, agricoles et forestiers.
+
+Pour l'application du présent article, les installations de méthanisation mentionnées à l'article L. 111-4 sont considérées comme des constructions ou des installations nécessaires à l'exploitation agricole au sens du b du 2° du présent article.
+
+Dans les communes non couvertes par un schéma de cohérence territoriale, la carte communale peut délimiter les zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables arrêtées en application de l'article L. 141-5-3 du code de l'énergie.
+
+II.-La carte communale peut délimiter des secteurs dans lesquels est soumise à conditions l'implantation d'installations de production d'énergies renouvelables, dès lors qu'elles sont incompatibles avec le voisinage habité ou avec l'usage des terrains situés à proximité ou qu'elles portent atteinte à la sauvegarde des espaces naturels et des paysages, à la qualité architecturale, urbaine et paysagère, à la mise en valeur du patrimoine et à l'insertion des installations dans le milieu environnant.
+
+Dans les communes des départements pour lesquels a préalablement été arrêtée une cartographie des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables en application de l'article L. 141-5-3 du code de l'énergie et lorsque l'avis du comité régional de l'énergie a estimé, dans les conditions prévues au même article L. 141-5-3, que les zones d'accélération identifiées par ladite cartographie sont suffisantes pour l'atteinte des objectifs régionaux établis en application de l'article L. 141-5-1 du même code, la carte communale peut également délimiter des secteurs où est exclue l'implantation d'installations de production d'énergies renouvelables, dès lors qu'elles sont incompatibles avec le voisinage habité ou avec l'usage des terrains situés à proximité ou qu'elles portent atteinte à la sauvegarde des espaces naturels et des paysages, à la qualité architecturale, urbaine et paysagère, à la mise en valeur du patrimoine et à l'insertion des installations dans le milieu environnant. Les secteurs délimités en application du présent alinéa sont applicables uniquement aux projets dont la demande d'autorisation auprès de l'autorité compétente est déposée après l'approbation de la carte communale délimitant de tels secteurs. Les secteurs délimités en application du présent alinéa ne sont pas applicables aux procédés de production d'énergies renouvelables en toiture ou aux procédés de chaleur à usage individuel.
 
 #### Chapitre II : Effets de la carte communale
 
@@ -4441,7 +4551,7 @@ Les dispositions de l'article L. 123-1 dans leur rédaction antérieure au 15 d�
 
 Ils peuvent faire l'objet :
 
-1° D'une modification lorsqu'il n'est pas porté atteinte à l'économie générale du plan et hors les cas prévus aux 2° et 3° de l'article L. 153-31 ;
+1° D'une modification lorsqu'il n'est pas porté atteinte à l'économie générale du plan et hors les cas prévus aux 2° et 3° du I de l'article L. 153-31 ;
 
 2° D'une mise en compatibilité selon les modalités définies par les articles L. 153-54 à L. 153-59.
 
@@ -5522,6 +5632,8 @@ Le septième alinéa du présent article ne s'applique qu'aux projets dont les c
 
 Les dispositions du présent article ne sont pas applicables aux opérations ayant reçu la qualification d'opération sensible intéressant la défense nationale en application de l'article L. 2391-1 du code de la défense ou celle d'opération sensible intéressant la sécurité nationale en application de l'article L. 112-3 du code de la sécurité intérieure.
 
+Lorsque l'action, l'opération d'aménagement, le programme de construction, l'installation de production d'énergies renouvelables, au sens de l'article L. 211-2 du code de l'énergie, ou de stockage d'électricité, l'installation de production d'hydrogène renouvelable ou bas-carbone, au sens de l'article L. 811-1 du même code, l'ouvrage de raccordement de ces installations ou l'ouvrage du réseau public de transport ou de distribution d'énergie faisant l'objet d'une déclaration de projet mentionnée à l'article L. 300-6 du présent code est soumis à la concertation du public en application du présent article, une procédure de concertation unique peut être réalisée en amont de l'enquête publique, portant à la fois sur le projet et sur la mise en compatibilité du document d'urbanisme, à l'initiative de l'autorité compétente pour adopter la déclaration de projet ou, avec l'accord de cette autorité, à l'initiative du maître d'ouvrage concerné. Par dérogation aux quatrième et cinquième alinéas du présent article, les projets devant faire l'objet d'une évaluation environnementale sont soumis à enquête publique dans les conditions prévues à l'article L. 300-6. Les objectifs poursuivis et les modalités de la concertation sont précisés par l'organe délibérant de la collectivité territoriale ou de l'établissement public compétent, dans les conditions prévues à l'article L. 103-4. Le bilan de la concertation est joint au dossier d'enquête publique dans les conditions définies à l'article L. 103-6.
+
 ### Article L300-3
 
 I.-L'Etat, les collectivités territoriales et leurs établissements publics peuvent, par convention de mandat passée avec toute personne publique ou privée et dans les conditions prévues par le code de la commande publique, lui confier le soin de faire procéder en leur nom et pour leur compte à une ou plusieurs des missions suivantes :
@@ -5590,7 +5702,7 @@ Lorsque le concessionnaire n'est pas soumis au code de la commande publique, les
 
 ### Article L300-6
 
-L'Etat et ses établissements publics, les collectivités territoriales et leurs groupements peuvent, après enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement, se prononcer, par une déclaration de projet, sur l'intérêt général d'une action ou d'une opération d'aménagement au sens du présent livre ou de la réalisation d'un programme de construction. Les articles L. 143-44 à L. 143-50 et L. 153-54 à L. 153-59 sont applicables sauf si la déclaration de projet adoptée par l'Etat, un de ses établissements publics, un département ou une région a pour effet de porter atteinte à l'économie générale du projet d'aménagement et de développement durables du schéma de cohérence territoriale et, en l'absence de schéma de cohérence territoriale, du plan local d'urbanisme.
+L'Etat et ses établissements publics, les collectivités territoriales et leurs groupements peuvent, après enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement, se prononcer, par une déclaration de projet, sur l'intérêt général d'une action ou d'une opération d'aménagement au sens du présent livre ou de la réalisation d'un programme de construction ou de l'implantation d'une installation de production d'énergies renouvelables, au sens de l'article L. 211-2 du code de l'énergie, ou de stockage d'électricité, d'une installation de production d'hydrogène renouvelable ou bas-carbone, au sens de l'article L. 811-1 du même code, y compris leurs ouvrages de raccordement, ou d'un ouvrage du réseau public de transport ou de distribution d'électricité. Les articles L. 143-44 à L. 143-50 et L. 153-54 à L. 153-59 du présent code sont applicables sauf si la déclaration de projet adoptée par l'Etat, un de ses établissements publics, un département ou une région a pour effet de porter atteinte à l'économie générale du projet d'aménagement et de développement durables du schéma de cohérence territoriale et, en l'absence de schéma de cohérence territoriale, du plan local d'urbanisme.
 
 Lorsque la déclaration de projet est adoptée par l'Etat, elle peut procéder aux adaptations nécessaires du schéma directeur de la région d'Ile-de-France, d'un schéma d'aménagement régional des collectivités de l'article 73 de la Constitution, du plan d'aménagement et de développement durables de Corse schéma régional d'aménagement, de développement durable et d'égalité des territoires, d'une charte de parc naturel régional ou de parc national, du schéma directeur d'aménagement et de gestion des eaux, du schéma d'aménagement et de gestion des eaux, de la zone de protection du patrimoine architectural, urbain et paysager, du schéma régional de cohérence écologique ou du plan climat-air-énergie territorial. Ces adaptations sont effectuées dans le respect des dispositions législatives et réglementaires applicables au contenu de ces règlements ou de ces servitudes.
 
@@ -5600,7 +5712,7 @@ Lorsque les adaptations proposées portent sur le schéma directeur de la régio
 
 Une déclaration de projet peut être prise par décision conjointe d'une collectivité territoriale ou d'un groupement de collectivités territoriales et de l'Etat.
 
-Lorsque l'action, l'opération d'aménagement ou le programme de construction est susceptible d'avoir des incidences notables sur l'environnement, les dispositions nécessaires pour mettre en compatibilité les documents d'urbanisme ou pour adapter les règlements et servitudes mentionnés au deuxième alinéa font l'objet d'une évaluation environnementale, au sens de la directive 2001/42/CE du Parlement européen et du Conseil, du 27 juin 2001, relative à l'évaluation des incidences de certains plans et programmes sur l'environnement.
+Lorsque l'action, l'opération d'aménagement ou le programme de construction est susceptible d'avoir des incidences notables sur l'environnement, les dispositions nécessaires pour mettre en compatibilité les documents d'urbanisme ou pour adapter les règlements et servitudes mentionnés au deuxième alinéa font l'objet d'une évaluation environnementale, au sens de la directive 2001/42/ CE du Parlement européen et du Conseil, du 27 juin 2001, relative à l'évaluation des incidences de certains plans et programmes sur l'environnement.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
@@ -7616,7 +7728,7 @@ Les démolitions de constructions existantes doivent être précédées de la d�
 
 ##### Article L421-4
 
-Un décret en Conseil d'Etat arrête la liste des constructions, aménagements, installations et travaux qui, en raison de leurs dimensions, de leur nature ou de leur localisation, ne justifient pas l'exigence d'un permis et font l'objet d'une déclaration préalable.
+Un décret en Conseil d'Etat arrête la liste des constructions, aménagements, installations et travaux, y compris ceux mentionnés à l'article 40 de la loi n° 2023-175 du 10 mars 2023 relative à l'accélération de la production d'énergies renouvelables, qui, en raison de leurs dimensions, de leur nature ou de leur localisation, ne justifient pas l'exigence d'un permis et font l'objet d'une déclaration préalable.
 
 Ce décret précise les cas où les clôtures sont également soumises à déclaration préalable.
 
@@ -7640,6 +7752,10 @@ e) De leur nature et de leur implantation en mer, sur le domaine public maritime
 
 Les travaux nécessaires à la mise en œuvre de l'arrêté ordonnant la démolition des constructions et la remise en l'état du terrain en application de l'article L. 121-22-5 sont dispensés de toute formalité au titre du présent code.
 
+##### Article L421-5-2
+
+Les travaux nécessaires à la mise en œuvre de l'obligation d'enlèvement et de remise en état du terrain prévue à l'article L. 111-32 sont dispensés de toute formalité au titre du présent code.
+
 ##### Article L421-6
 
 Le permis de construire ou d'aménager ne peut être accordé que si les travaux projetés sont conformes aux dispositions législatives et réglementaires relatives à l'utilisation des sols, à l'implantation, la destination, la nature, l'architecture, les dimensions, l'assainissement des constructions et à l'aménagement de leurs abords et s'ils ne sont pas incompatibles avec une déclaration d'utilité publique.
@@ -7650,13 +7766,17 @@ Le permis de démolir peut être refusé ou n'être accordé que sous réserve d
 
 Le permis de construire ou d'aménager ou la décision de non-opposition à déclaration préalable impose, au titre de ses prescriptions, la consignation de la somme prévue à l'article L. 121-22-5.
 
+##### Article L421-6-2
+
+Le permis de construire ou la décision de non-opposition à déclaration préalable impose, au titre de ses prescriptions, l'enlèvement des ouvrages de production d'électricité à partir de l'énergie solaire et de remise en état du terrain prévue à l'article L. 111-32, en précisant notamment la durée mentionnée au 2° du même article L. 111-32.
+
 ##### Article L421-7
 
 Lorsque les constructions, aménagements, installations et travaux font l'objet d'une déclaration préalable, l'autorité compétente doit s'opposer à leur exécution ou imposer des prescriptions lorsque les conditions prévues à l'article L. 421-6 ne sont pas réunies.
 
 ##### Article L421-8
 
-A l'exception des constructions et des travaux mentionnés aux b et e de l'article L. 421-5 et à l'article L. 421-5-1, les constructions, aménagements, installations et travaux dispensés de toute formalité au titre du présent code doivent être conformes aux dispositions mentionnées à l'article L. 421-6.
+A l'exception des constructions et des travaux mentionnés aux b et e de l'article L. 421-5 et aux articles L. 421-5-1 et L. 421-5-2, les constructions, aménagements, installations et travaux dispensés de toute formalité au titre du présent code doivent être conformes aux dispositions mentionnées à l'article L. 421-6.
 
 ##### Article L421-9
 
@@ -12144,9 +12264,9 @@ Figurent en annexe au plan local d'urbanisme, s'il y a lieu, les éléments suiv
 
 9° Le périmètre des secteurs dans lesquels un programme d'aménagement d'ensemble a été approuvé en application de l'article L. 332-9 dans sa rédaction antérieure au 31 décembre 2010 ;
 
-10° Le périmètre des secteurs relatifs au taux de la taxe d'aménagement, en application de l'article L. 331-14 et L. 331-15 ;
+10° Le périmètre des secteurs relatifs au taux de la taxe d'aménagement, en application du 2 du I de l'article 1635 quater L et de l' article 1635 quater N du code général des impôts ;
 
-11° Le périmètre des secteurs affectés par un seuil minimal de densité, en application de l'article L. 331-36 ;
+11° (Abrogé) ;
 
 12° Les périmètres fixés par les conventions de projet urbain partenarial mentionnées à l'article L. 332-11-3 ainsi que ceux délimités en application du II de cet article ;
 
@@ -12237,6 +12357,10 @@ La mise en œuvre d'un dispositif de végétalisation en application de l'articl
 Elle peut également être autorisée en dérogeant aux dispositions concernant les caractéristiques architecturales des façades et toitures des constructions, prévues en application de l'article R. 151-41 et fixées dans le règlement précité.
 
 Le présent article s'applique sans préjudice des dispositions de l'article R. 152-9.
+
+###### Article R152-5-2
+
+La mise en œuvre de la dérogation prévue à l'article L. 152-5-2 est autorisée dans la limite d'un dépassement de 25 centimètres par niveau, et d'un total de 2,5 mètres en tout point au-dessus de la hauteur de la construction autorisée par le règlement du plan local d'urbanisme. Ce dépassement ne peut être justifié que par les contraintes techniques résultant de l'utilisation d'un mode de construction faisant preuve d'exemplarité environnementale et induisant, pour un nombre d'étages donné, une hauteur par étage plus importante que celle résultant d'autres modes de construction. Cette dérogation ne permet pas l'ajout d'un étage supplémentaire par rapport à un autre mode de construction.
 
 ###### Article R152-6
 
@@ -15635,312 +15759,6 @@ En cas de dissolution de l'organisme foncier solidaire, l'ensemble des droits et
 
 ### Titre III : Dispositions financières
 
-#### Chapitre Ier : Fiscalité de l'aménagement
-
-##### Section 1 : Taxe d'aménagement
-
-###### Sous-section 1 : Généralités
-
-####### Article R331-1
-
-Dans les communes qui ne sont pas dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols à la date du 30 novembre, qui approuvent, à compter de cette date, un plan local d'urbanisme et procèdent aux formalités prévues à l'article R. 153-21 avant le 1er janvier de l'année suivante, la taxe d'aménagement est instituée, sauf renonciation expresse décidée dans les conditions prévues par le 1° de l'article L. 331-2, à compter du 1er janvier de la deuxième année qui suit.
-
-####### Article R331-2
-
-Les communes disposant d'un plan d'occupation des sols partiel ne sont pas considérées comme dotées d'un plan d'occupation des sols au sens du 1° de l'article L. 331-2.
-
-###### Sous-section 2 : Champ d'application et fait générateur
-
-####### Article R331-3
-
-Sont assujetties à la taxe d'aménagement les opérations de construction soumises à déclaration préalable ou à permis de construire qui ont pour effet de changer la destination des locaux mentionnés au 3° de l'article L. 331-7.
-
-###### Sous-section 3 :  Exonérations
-
-####### Article R331-4
-
-Pour l'application du 1° de l'article L. 331-7, sont exonérées de la part communale ou intercommunale de la taxe d'aménagement les constructions définies ci-après :
-
-1° Les constructions édifiées par l'Etat, les collectivités territoriales et leurs groupements et exemptées de la taxe foncière sur les propriétés bâties en application du 1° de l'article 1382 du code général des impôts ;
-
-2° Les constructions édifiées pour le compte de l'Etat, des collectivités territoriales ou de leurs groupements, en vertu d'un marché de partenariat, d'un bail emphytéotique administratif prévu à l'article L. 1311-2 du code général des collectivités territoriales, à l'article L. 6148-2 du code de la santé publique ou à l'article L. 2341-1 du code général de la propriété des personnes publiques, d'un bail prévu à l'article L. 2122-15 du code général de la propriété des personnes publiques, d'un contrat mentionné à l'article L. 111-3 du code pénitentiaire ou au 1° et au 2° de l'article L. 2171-4 du code de la commande publique, ou d'une autorisation d'occupation du domaine public assortie de droits réels, qui sont incorporées au domaine de la personne publique conformément aux clauses du contrat, au plus tard à l'expiration de ce contrat, et exemptées de la taxe foncière sur les propriétés bâties en application du 1° de l'article 1382 du code général des impôts ;
-
-La condition relative à l'absence de production de revenus prévue au 1° de l'article 1382 du code général des impôts doit être appréciée au regard de la personne publique au domaine de laquelle l'immeuble doit être incorporé ;
-
-3° Les constructions destinées à recevoir une affectation d'assistance, de bienfaisance, de santé, d'enseignement ou culturelle, scientifique ou sportive et édifiées par, ou, dans le cadre d'un des contrats mentionnés au 2°, pour le compte :
-
-a) Des établissements publics n'ayant pas un caractère industriel ou commercial ;
-
-b) Des groupements d'intérêt public exerçant une activité à caractère administratif, des fondations de coopération scientifique et des fondations partenariales ;
-
-c) Des associations, des unions d'associations ou des fondations reconnues d'utilité publique ;
-
-d) Des établissements congréganistes légalement reconnus ou autorisés ;
-
-e) Des associations déclarées qui ont pour but exclusif l'assistance ou la bienfaisance ou dont l'objet et la gestion présentent un caractère désintéressé au sens du premier alinéa du 1 bis de l'article 206 du code général des impôts ;
-
-f) Des organismes mentionnés à l' article R. 111-1 du code de la sécurité sociale ;
-
-g) Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts sont établis conformément aux articles L. 114-4 et suivants du code de la mutualité ;
-
-4° Les constructions édifiées par les associations cultuelles ou unions d'associations cultuelles et, en Guyane et à Mayotte, par les missions religieuses ou, dans le cadre d'un des contrats mentionnés au 2°, pour le compte de ces associations, unions ou missions ;
-
-5° Les constructions édifiées par des groupements autres que des associations cultuelles et des missions religieuses mentionnées au 4° ou, dans le cadre d'un des contrats mentionnés au 2°, pour leur compte, destinées à être exclusivement affectées à l'exercice public d'un culte ;
-
-6° Les constructions édifiées dans les départements du Bas-Rhin, du Haut-Rhin ou de la Moselle par les établissements publics du culte et par les associations ayant pour objet exclusif l'exercice d'un culte non reconnu ou, dans le cadre d'un des contrats mentionnés au 2°, pour le compte de ces établissements et associations ;
-
-7° Les constructions édifiées soit par les Etats étrangers ou, dans le cadre d'un des contrats mentionnés au 2°, pour leur compte, à usage de locaux diplomatiques ou consulaires ou pour la résidence d'un chef de poste consulaire de carrière, soit par les organisations internationales intergouvernementales ou, dans le cadre d'un des mêmes contrats, pour leur compte, pour la réalisation de leur objet sous réserve des accords passés entre la France et ces organisations .
-
-Lorsque le constructeur est une société entrant dans les prévisions de l'article 1655 ter du code général des impôts, il n'est pas tenu compte, pour la détermination de l'imposition à la taxe d'aménagement, des locaux destinés à être attribués aux organismes mentionnés au présent article et qui reçoivent l'une des affectations prévues au même article.
-
-Le bénéfice des exonérations prévues par le présent article est subordonné à la condition que l'organisme constructeur s'engage, pour lui et ses ayants cause, à conserver à la construction la même affectation pendant une durée minimale de cinq ans à compter de l'achèvement de cette construction.
-
-Toutefois, pour qu'ils puissent bénéficier des dispositions du présent article, les organismes constructeurs doivent avoir une activité strictement conforme à leur objet légal ou statutaire.
-
-####### Article R*331-5
-
-A l'intérieur des opérations d'intérêt national, l'exonération prévue au 4° de l'article L. 331-7 s'applique lorsque les équipements suivants ont été réalisés ou seront pris en charge par l'aménageur ou le constructeur, autre qu'une collectivité territoriale :
-
-a) Les voies publiques intérieures à la ou les zones concernées et les réseaux publics nécessités par la ou les opérations d'aménagement et de construction et desservant la ou les zones concernées ;
-
-b) Les espaces verts et les aires de stationnement publics correspondant aux seuls besoins des futurs habitants ou usagers des constructions à édifier dans la ou les zones concernées.
-
-Une attestation de l'aménageur remise à l'acquéreur lors de la cession du terrain à bâtir ou des droits à construire ou lors du dépôt de la demande d'autorisation de construire certifie qu'il a réalisé ou prendra en charge l'intégralité des travaux mentionnés ci-dessus ou qu'ils seront, totalement ou partiellement, pris en charge par le constructeur.
-
-####### Article R*331-6
-
-Dans les zones d'aménagement concerté, l'exonération prévue au 5° de l'article L. 331-7 est subordonnée à la condition que soit pris en charge par l'aménageur ou le constructeur au moins le coût des équipements publics suivants :
-
-1° Dans le cas des zones d'aménagement concerté autres que de rénovation urbaine :
-
-a) Les voies et les réseaux publics intérieurs à la zone ;
-
-b) Les espaces verts et les aires de stationnement correspondant aux seuls besoins des futurs habitants ou usagers de la zone ;
-
-2° Dans le cas de zones d'aménagement concerté de rénovation urbaine :
-
-a) Les voies d'accès aux immeubles inclus dans le périmètre de rénovation et les réseaux qui leur sont rattachés ;
-
-b) Les espaces verts et les aires de stationnement correspondant aux seuls besoins des habitants des immeubles concernés.
-
-###### Sous-section 4 : Base d'imposition
-
-####### Article R331-7
-
-La surface de plancher de la construction est égale à la somme des surfaces de plancher de chaque niveau clos et couvert, calculée à partir du nu intérieur des façades après déduction :
-
-1° Des surfaces correspondant à l'épaisseur des murs entourant les embrasures des portes et fenêtres donnant sur l'extérieur ;
-
-2° Des vides et des trémies afférentes aux escaliers et ascenseurs ;
-
-3° Des surfaces de plancher sous une hauteur de plafond inférieure ou égale à 1,80 mètre.
-
-###### Sous-section 5 : Taux d'imposition
-
-####### Article R331-8
-
-Pour le calcul de la part communale ou intercommunale de la taxe d'aménagement, si le projet de construction ou d'aménagement est réalisé dans des secteurs comportant des taux différents en application des articles L. 331-14 et L. 331-15, il est fait application du taux le moins élevé.
-
-###### Sous-section 6 : Etablissement de la taxe
-
-####### Article R331-9
-
-Sont compétents pour fixer les bases d'imposition et liquider la taxe d'aménagement :
-
-1° Sous réserve des 2° et 3°, les agents des directions départementales des territoires et des directions départementales des territoires et de la mer ;
-
-2° Dans les départements d'outre-mer, les agents des directions de l'environnement, de l'aménagement et du logement ;
-
-3° Dans la région d'Ile-de-France, les agents des unités départementales de la direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports.
-
-####### Article R331-10
-
-Les autorités compétentes pour délivrer les autorisations d'urbanisme fournissent aux services de l'Etat mentionnés à l'article R. 331-9, dans le délai d'un mois à compter de la date soit de la délivrance de l'autorisation de construire ou d'aménager ou du permis modificatif, soit du transfert de ces autorisations, soit de la naissance d'une autorisation tacite de construire ou d'aménager, soit de la décision de non-opposition à une déclaration préalable, soit du procès-verbal constatant l'infraction :
-
-1° Un exemplaire du formulaire de déclaration ou de demande d'autorisation ;
-
-2° Le formulaire de déclaration des éléments nécessaires au calcul des impositions, prévu par arrêté du ministre chargé de l'urbanisme, accompagné de ses pièces jointes ;
-
-3° Selon les cas, une copie de la décision, la date à laquelle l'autorisation ou la décision de non-opposition à déclaration préalable est devenue tacite ou le procès-verbal constatant l'infraction ;
-
-4° Le cas échéant, le certificat d'urbanisme applicable ;
-
-5° La référence du secteur de la taxe d'aménagement déterminé en application de l'article L. 331-14, dans lequel se situe le projet de construction ou d'aménagement ;
-
-6° La référence du secteur du seuil minimal de densité déterminé en application de l'article L. 331-36, dans lequel se situe le projet de construction.
-
-Lorsque la transmission de ces éléments est réalisée par voie électronique, elle s'effectue au moyen du dispositif défini par arrêté du ministre chargé de l'urbanisme.
-
-####### Article R331-11
-
-Les autorités compétentes pour délivrer les autorisations d'urbanisme transmettent également aux services de l'Etat mentionnés à l'article R. 331-9, dans un format électronique fixé par arrêté du ministre chargé de l'urbanisme et dans le délai prévu à l'article R. 331-10, les informations suivantes :
-
-1° Le type et le numéro d'enregistrement du dossier ;
-
-2° La date du dépôt du dossier en mairie ;
-
-3° L'identité complète du ou des demandeurs ;
-
-4° Les coordonnées du ou des demandeurs ;
-
-5° L'adresse du ou des terrains et ses références cadastrales.
-
-###### Sous-section 6 bis : Procédure de rescrit
-
-####### Article R331-11-1
-
-La demande de rescrit prévue à l'article L. 331-20-1 précise le nom ou la raison sociale de son auteur, son adresse ainsi que les références cadastrales de l'unité foncière faisant l'objet de la demande.
-
-Elle indique les dispositions législatives dont le demandeur entend bénéficier.
-
-Elle fournit une présentation précise et complète de la situation de fait qui fait l'objet de la demande ainsi que toutes les informations et pièces nécessaires.
-
-La demande est présentée au service de l'Etat compétent mentionné à l'article R. 331-9 par tout moyen conférant date certaine à sa réception.
-
-Si la demande est incomplète, le service invite son auteur, dans les mêmes formes que la demande, à fournir les éléments complémentaires nécessaires.
-
-Le délai de trois mois prévu à l'article L. 331-20-1 court à compter de la date de réception de la demande de rescrit ou de la réception des éléments complémentaires demandés.
-
-La décision sur la demande de rescrit est prise par les agents des services mentionnés à l'article R. 331-9. Elle est jointe par le demandeur au dossier de demande de permis de construire, de permis d'aménager ou de déclaration préalable.
-
-###### Sous-section 7 : Contrôle et sanctions
-
-####### Article R331-12
-
-Les agents des services de l'Etat mentionnés à l'article R. 331-9 sont seuls compétents pour mettre en œuvre les procédures de contrôle et de sanction prévues aux articles L. 331-21 à L. 331-23. Ils exercent les attributions que ces dispositions leur confèrent dans les mêmes conditions que celles prévues à l'article R. 331-9.
-
-###### Sous-section 8 : Recouvrement de la taxe
-
-####### Article R331-13
-
-Les agents mentionnés à l'article R. 331-9 sont compétents pour donner un avis concernant la remise gracieuse prévue à l'article L. 331-28.
-
-###### Sous-section 9 : Recours
-
-####### Article R331-14
-
-Les réclamations contentieuses sont instruites par les agents mentionnés à l'article R. 331-9.
-
-Les responsables des services de l'Etat mentionnés à l'article R. 331-9 sont compétents, chacun en ce qui le concerne, pour statuer sur ces réclamations.
-
-Ils peuvent également prononcer l'annulation totale ou partielle des créances qui n'étaient pas dues, jusqu'au 31 décembre de la quatrième année suivant celle au cours de laquelle le délai de réclamation a pris fin, ou, en cas d'instance devant les tribunaux, celle au cours de laquelle la décision intervenue a été notifiée.
-
-Ils peuvent déléguer ces compétences aux agents placés sous leur autorité.
-
-###### Sous-section 10 : Versement aux collectivités
-
-####### Article R331-15
-
-Les sommes recouvrées au titre de la taxe d'aménagement sont reversées mensuellement aux collectivités territoriales bénéficiaires.
-
-####### Article R331-16
-
-Avant le 1er mars de chaque année, les services mentionnés à l'article R. 331-9 fournissent à chaque collectivité territoriale et établissement public de coopération intercommunale bénéficiaire de la taxe d'aménagement les éléments suivants déterminés au titre de l'année civile précédente :
-
-1° Les surfaces totales imposables telles que définies à l'article L. 331-10 ;
-
-2° Les surfaces imposables ayant fait l'objet de l'abattement prévu à l'article L. 331-12 ;
-
-3° Les montants imposables des installations et aménagements mentionnés à l'article L. 331-13 pour chacun des installations et aménagements mentionnés à cet article ;
-
-4° Le montant des taxes liquidées au titre de la taxe d'aménagement pour les constructions et les aménagements.
-
-Le ministre chargé de l'urbanisme fournit les mêmes renseignements et dans les mêmes conditions à la région d'Ile-de-France.
-
-##### Section 2 : Versement pour sous-densité
-
-###### Sous-section 1 : Etablissement du seuil minimal de densité et du versement pour sous-densité
-
-####### Article R331-17
-
-Dans le cas d'un lotissement, l'unité foncière mentionnée à l'article L. 331-35 est celle qui est définie à l'article L. 442-1-2.
-
-####### Article R331-18
-
-Si l'unité foncière sur laquelle une construction est ou doit être implantée est répartie sur le territoire de plusieurs communes ou établissements de coopération intercommunale ayant institué un seuil minimal de densité, le versement pour sous-densité est calculé en répartissant la surface de la construction au prorata de la surface de l'unité foncière comprise sur le territoire de chaque collectivité.
-
-Si l'unité foncière mentionnée à l'alinéa précédent est répartie sur le territoire d'une même collectivité entre plusieurs des secteurs mentionnés à l'article L. 331-36, il est fait application du seuil minimal de densité le moins élevé pour le calcul du versement pour sous-densité.
-
-###### Sous-section 2 : Détermination du versement pour sous-densité
-
-####### Article R331-19
-
-Le montant du versement pour sous-densité est calculé, sous réserve des dispositions de l'article R. 331-20, selon la formule :
-
-Vsd = v/2 × [K (Sd-Si)-Sa-Sb]/ K (Sd-Si) ≤ 0.25 v
-
-Dans laquelle :
-
-Vsd = le montant du versement pour sous-densité ;
-
-v = la valeur vénale du terrain ;
-
-K = le seuil minimal de densité ;
-
-Sd = la surface du terrain de l'unité foncière ;
-
-Si = la surface du terrain rendu inconstructible pour des raisons physiques ou du fait de prescriptions ou servitudes administratives ;
-
-Sa = la surface de plancher de la construction projetée déterminée conformément à l'article L. 111-14 ;
-
-Sb = la surface de plancher des constructions existantes non destinées à être démolies, déterminée conformément à l'article L. 111-14.
-
-####### Article R331-20
-
-Dans les lotissements, le montant du versement pour sous-densité est calculé selon la formule suivante :
-
-Vsd = v/2 × [KS-Sa-Sb]/ KS ≤ 0.25 v
-
-Dans laquelle :
-
-Vsd = le montant du versement pour sous-densité ;
-
-v = la valeur vénale du terrain ;
-
-KS = la surface de plancher résultant du seuil minimal de densité attribuée par le lotisseur, figurant dans le certificat mentionné à l'article R. * 442-11 ;
-
-Sa = la surface de plancher de la construction projetée déterminée conformément à l'article L. 111-14 ;
-
-Sb = la surface de plancher des constructions existantes non destinées à être démolies, déterminée conformément à l'article L. 111-14.
-
-###### Sous-section 3 : Détermination de la valeur du terrain
-
-####### Article R331-21
-
-La valeur du terrain mentionnée à l'article L. 331-39 s'entend de la valeur vénale du terrain appréciée à la date du dépôt de la demande ou de la déclaration.
-
-####### Article R331-22
-
-La valeur du terrain d'une construction projetée, située dans un secteur d'une commune où est institué le versement pour sous-densité et n'atteignant pas le seuil minimal de densité défini pour la zone, déclarée en application de l'article L. 331-39, peut être contestée par les services de l'Etat mentionnés à l'article R. 331-9.
-
-Dans ce cas, les services mentionnés au premier alinéa :
-
-1° Informent l'auteur de la demande ou de la déclaration et le mettent à même de présenter ses observations ;
-
-2° Saisissent pour avis, selon le cas, la direction départementale ou régionale des finances publiques, qui se prononce dans un délai de trois mois ; au terme de ce délai, l'avis est réputé rendu ;
-
-3° Arrêtent, compte tenu de l'avis mentionné au 2°, la valeur du terrain retenue.
-
-###### Sous-section 4 : Procédure de rescrit
-
-####### Article R331-23
-
-La demande de rescrit présentée sur le fondement de l'article L. 331-40 ou de l'article L. 331-40-1 précise le nom ou la raison sociale de son auteur, son adresse ainsi que les références cadastrales du terrain faisant l'objet de la demande.
-
-Elle indique les dispositions législatives dont le demandeur entend bénéficier.
-
-Elle fournit une présentation précise et complète de la situation de fait qui fait l'objet de la demande ainsi que toutes les informations et pièces nécessaires.
-
-La demande est présentée au service de l'Etat compétent mentionné à l'article R. 331-9 par tout moyen conférant date certaine à sa réception.
-
-Si la demande est incomplète, le service invite son auteur, dans les mêmes formes que la demande, à fournir les éléments complémentaires nécessaires.
-
-Le délai de trois mois prévu aux articles L. 331-40 et L. 331-40-1 court à compter de la date de réception de la demande de rescrit ou, si une invitation à fournir des éléments complémentaires a été notifiée, à compter de la réception des éléments demandés.
-
-La décision sur la demande de rescrit est prise par les agents mentionnés à l'article R. 331-12.
-
-Elle est jointe par le demandeur au dossier de demande de permis de construire, de permis d'aménager ou de déclaration préalable.
-
 #### Chapitre II : Participation des constructeurs et des lotisseurs
 
 ##### Section 2 : Autres participations
@@ -15970,10 +15788,6 @@ Une même mention en est en outre publiée :
 a) Sous forme électronique dans les conditions prévues à l'article L. 2131-1 du code général des collectivités territoriales, lorsqu'il s'agit d'une délibération du conseil municipal d'une commune de 3 500 habitants et plus ou d'une délibération de l'organe délibérant d'un établissement public de coopération intercommunale à fiscalité propre ;
 
 b) Au recueil des actes administratifs de l'Etat dans le département, lorsqu'il s'agit d'une convention signée par le représentant de l'Etat.
-
-####### Article R*332-25-3
-
-La mise hors champ de la part communale ou intercommunale de la taxe d'aménagement, prévue aux articles L. 331-1 et suivants dans le ou les périmètres définis par la convention prévue par l'article L. 332-11-3 prend effet dès l'exécution des formalités prévues au premier alinéa de l'article R. 332-25-2, la date à prendre en compte pour l'affichage étant celle du premier jour où celui-ci est effectué.
 
 ##### Section 4 : Dispositions relatives aux impositions dont le permis de construire ou d'aménager ou la déclaration préalable constitue le fait générateur
 
@@ -17957,7 +17771,7 @@ f) La surface de plancher des constructions projetées, s'il y a lieu répartie 
 
 g) La puissance électrique nécessaire au projet, lorsque la puissance électrique est supérieure à 12 kilovoltampères monophasé ou 36 kilovoltampères triphasé ;
 
-h) Les éléments, fixés par arrêté, nécessaires au calcul des impositions ;
+h) (Abrogé) ;
 
 i) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ;
 
@@ -18167,7 +17981,7 @@ b) Lorsque le terrain n'a pas fait l'objet d'une cession, location ou concession
 
 ####### Article R*431-23-1
 
-Lorsque les travaux projetés portent sur une construction à édifier dans une opération d'intérêt national, la demande est accompagnée, le cas échéant, de l'attestation de l'aménageur certifiant qu'il a réalisé ou prendra en charge l'intégralité des travaux mentionnés à l'article R. 331-5.
+Lorsque les travaux projetés portent sur une construction à édifier dans une opération d'intérêt national, la demande est accompagnée, le cas échéant, de l'attestation de l'aménageur certifiant qu'il a réalisé ou prendra en charge l'intégralité des travaux mentionnés aux a et b de l'article 318 G de l'annexe 2 au code général des impôts.
 
 ####### Article R*431-23-2
 
@@ -18225,6 +18039,10 @@ Lorsque le projet nécessite une dérogation prévue à l'article L. 111-4-1 du 
 
 Lorsque le projet nécessite une ou plusieurs dérogations au titre de l'article L. 151-29-1 , de l'article L. 152-5de l'article L. 152-5-1, ou de l'article L. 152-6 , la demande de dérogation est jointe à la demande de permis de construire. Elle est accompagnée d'une note précisant la nature de la ou des dérogations demandées et justifiant pour chacune d'entre elles du respect des objectifs et des conditions fixés à ces articles et aux articles R. 152-4 à R. 152-9 pour chacune des dérogations demandées.
 
+####### Article R431-31-3
+
+Lorsque le projet nécessite la dérogation prévue à l'article L. 152-5-2, la demande de dérogation est jointe à la demande de permis de construire. Elle est accompagnée du document prévu à l'article R. 171-3 du code de la construction et de l'habitation.
+
 ####### Article R*431-32
 
 Lorsque l'édification des constructions est subordonnée, pour l'application des dispositions relatives à l'urbanisme, à l'institution sur des terrains voisins d'une servitude dite de cours communes, la demande est accompagnée des contrats ou décisions judiciaires relatifs à l'institution de ces servitudes.
@@ -18281,7 +18099,7 @@ c) La nature des travaux ou du changement de destination ;
 
 d) S'il y a lieu, la surface de plancher et la destination et la sous-destination des constructions projetées définies aux articles R. 151-27 et R. 151-28 ;
 
-e) Les éléments, fixés par arrêtés, nécessaires au calcul des impositions ;
+e) (Abrogé) ;
 
 f) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ;
 
@@ -18361,7 +18179,7 @@ b) La localisation et la superficie du ou des terrains à aménager ;
 
 c) La nature des travaux ;
 
-d) Les éléments, fixés par arrêté, nécessaires au calcul des impositions ;
+d) (Abrogé) ;
 
 e) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ;
 
@@ -18605,21 +18423,11 @@ Pour les lotissements soumis à déclaration préalable, lorsqu'un coefficient d
 
 En l'absence de répartition dans les conditions définies dans les deux alinéas précédents, la surface de plancher maximale autorisée pour chaque lot résulte de l'application du coefficient d'occupation des sols à la superficie de chaque lot.
 
-###### Article R*442-10-1
-
-Lorsqu'un coefficient d'occupation des sols est applicable et que le versement pour sous-densité prévu à l'article L. 331-36 est institué dans le secteur où est situé le projet, la totalité de la surface de plancher résultant du seuil minimal de densité peut être répartie librement entre les différents lots soit par le permis d'aménager, soit par le lotisseur à l'occasion de la vente ou de la location des lots.
-
-Cette répartition s'effectue dans les conditions définies au deuxième alinéa de l'article L. 331-37, sans tenir compte de l'application du seuil minimal de densité à la superficie de chaque lot.
-
-En l'absence de répartition par le lotisseur, le seuil minimal de densité est appliqué à la superficie de chaque lot.
-
 ###### Article *R442-11
 
 Lorsque la répartition de la surface de plancher maximale est effectuée par le lotisseur, celui-ci fournit aux attributaires de lots un certificat indiquant la surface de plancher constructible sur le lot.
 
-Dans ce cas, lorsque le versement pour sous-densité prévu à l'article L. 331-36 est institué dans le secteur où est situé le projet, le lotisseur fournit également aux attributaires de lots un certificat indiquant la surface de plancher résultant du seuil minimal de densité.
-
-Ces certificats sont joints à la demande de permis de construire.
+Ce certificat est joint à la demande de permis de construire.
 
 ##### Section 4 : Cession des lots et édification des constructions
 
@@ -19392,7 +19200,7 @@ Toute suspension ou dénonciation de convention fait l'objet d'une information d
 
 ##### Article R520-1
 
-Sont soumises à la taxe prévue à l'article L. 520-1 les opérations emportant création ou augmentation de la surface de construction, définie au quatrième alinéa de l'article L. 331-10, relevant de l'une des catégories de locaux mentionnées à l'article L. 520-1.
+Sont soumises à la taxe prévue à l'article L. 520-1 les opérations emportant création ou augmentation de la surface de construction, définie au deuxième alinéa du 1° de l'article 1635 quater H du code général des impôts, relevant de l'une des catégories de locaux mentionnées à l'article L. 520-1.
 
 ##### Article R520-2
 
@@ -19512,7 +19320,7 @@ Elle indique les dispositions législatives dont le demandeur entend bénéficie
 
 Elle fournit une présentation précise et complète de la situation de fait qui fait l'objet de la demande ainsi que toutes les informations et pièces nécessaires.
 
-La demande est présentée au service de l'Etat compétent mentionné à l'article R. 331-9 par tout moyen conférant date certaine à sa réception.
+La demande est présentée au service de l'Etat chargé de l'urbanisme compétent dans le département ou, le cas échéant, dans la région d'Ile-de-France, par tout moyen conférant date certaine à sa réception.
 
 Si la demande est incomplète, le service invite son auteur, dans les mêmes formes, à fournir les éléments complémentaires nécessaires.
 
