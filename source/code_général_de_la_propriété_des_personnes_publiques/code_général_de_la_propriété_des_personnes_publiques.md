@@ -610,9 +610,17 @@ Lorsqu'elle fait usage de la dérogation prévue au présent article, l'autorit�
 
 ####### Article L2122-1-3-1
 
-L'article L. 2122-1-1 n'est pas applicable lorsque le titre d'occupation est destiné à l'installation et à l'exploitation d'un réseau de communications électroniques ouvert au public.
+I.- L'article L. 2122-1-1 n'est pas applicable lorsque le titre d'occupation est destiné à l'installation et à l'exploitation d'un réseau de communications électroniques ouvert au public.
 
-Pour le domaine public appartenant à l'Etat, l'autorité compétente peut renoncer à organiser la procédure de mise en concurrence prévue au même article L. 2122-1-1 lorsque le titre d'occupation est destiné à l'installation et à l'exploitation d'une installation de production d'électricité à partir d'énergies renouvelables bénéficiant d'un soutien public au terme d'une des procédures de mise en concurrence prévues aux articles L. 311-10 ou L. 311-11-1 du code de l'énergie ou d'une installation de production de biogaz mise en place dans le cadre d'une des procédures de mise en concurrence mentionnées aux articles L. 446-5, L. 446-14 ou L. 446-15 du même code ou d'une installation de production d'hydrogène renouvelable ou d'hydrogène bas-carbone par électrolyse de l'eau bénéficiant du dispositif de soutien public prévu à l'article L. 812-2 dudit code, sous réserve que l'autorité compétente ait effectué une publicité préalable telle que prévue à l'article L. 2122-1-4 du présent code. Dans ce cas, l'autorité compétente délivre dans les mêmes conditions à chaque candidat qui a manifesté son intérêt un accord de principe à la délivrance du titre d'occupation, conditionné au fait que le projet d'installation soit lauréat d'une des procédures de mise en concurrence prévues aux articles L. 311-10, L. 311-11-1, L. 446-5, L. 446-14, L. 446-15 ou L. 812-2 du code de l'énergie et au respect d'un cahier des charges établi par l'autorité compétente. Si plusieurs projets sont lauréats, l'autorité compétente délivre le titre d'occupation au lauréat le mieux noté dans la procédure de mise en concurrence précitée.
+II.- Pour le domaine public appartenant à l'Etat, l'autorité compétente de l'Etat ou le gestionnaire qui tient d'une loi, d'un règlement ou d'un titre la compétence pour délivrer le titre d'occupation peut renoncer à organiser la procédure de mise en concurrence prévue au même article L. 2122-1-1 lorsque le titre d'occupation est destiné à l'installation et à l'exploitation d'une installation de production d'électricité à partir d'énergies renouvelables bénéficiant d'un soutien public au terme d'une des procédures de mise en concurrence prévues aux articles L. 311-10 , L. 311-11-1 ou L. 314-29 du code de l'énergie ou d'une installation de production de gaz renouvelable, dont le biogaz, ou de gaz bas-carbone mise en place dans le cadre d'une des procédures de mise en concurrence mentionnées aux articles L. 446-5, L. 446-14 , L. 446-15 ou L. 446-24 du même code ou d'une installation de production d'hydrogène renouvelable ou d'hydrogène bas-carbone par électrolyse de l'eau bénéficiant du dispositif de soutien public prévu à l'article L. 812-2 dudit code.
+
+Dans ces cas, l'autorité compétente de l'Etat ou le gestionnaire procède à des mesures de publicité préalable suffisantes pour permettre aux candidats potentiels à l'occupation du domaine public de se manifester. Ces mesures de publicité indiquent les conditions, y compris financières, de l'occupation du domaine public ainsi qu'un délai pour que les candidats manifestent leur intérêt.
+
+L'autorité compétente de l'Etat ou le gestionnaire délivre dans les mêmes conditions à chaque candidat qui a manifesté son intérêt un accord de principe à la délivrance du titre d'occupation, subordonné, d'une part, au fait que le projet d'installation soit retenu à l'issue d'une des procédures de mise en concurrence prévues aux articles L. 311-10, L. 311-11-1, L. 314-29, L. 446-5, L. 446-14, L. 446-15, L. 446-24 ou L. 812-3 du code de l'énergie et, d'autre part, au respect d'un cahier des charges établi par l'autorité compétente de l'Etat ou le gestionnaire. Si plusieurs projets sont retenus, l'autorité compétente de l'Etat ou le gestionnaire délivre le titre d'occupation au candidat retenu le mieux noté dans la procédure de mise en concurrence.
+
+III.-Pour leur domaine public, les communes, les établissements publics de coopération intercommunale à fiscalité propre, les départements et les régions peuvent renoncer à organiser la procédure de mise en concurrence prévue à l'article L. 2122-1-1 du présent code dans les mêmes conditions que celles prévues au II du présent article.
+
+Par dérogation au même II, aucun gestionnaire qui détient d'une loi ou d'un règlement la compétence pour délivrer le titre d'occupation ne peut se substituer à ces collectivités ou à ces établissements.
 
 ####### Article L2122-1-4
 
@@ -1187,6 +1195,8 @@ Toutefois, le bénéficiaire peut, à raison du montant et du mode de détermina
 2° Etre tenu de se libérer par le versement de la redevance due soit pour toute la durée de l'autorisation si cette durée n'excède pas cinq ans, soit pour une période quinquennale dans le cas contraire.
 
 En outre, pour les besoins de la défense nationale, le bénéficiaire peut être tenu de se libérer soit par versement d'acomptes, soit d'avance, pour tout ou partie de la durée de l'autorisation ou de la concession, quelle que soit cette durée.
+
+De même, pour le développement des énergies renouvelables, une collectivité territoriale ou un groupement de collectivités peut admettre le titulaire d'un droit d'occupation ou d'utilisation de son domaine public à se libérer de tout ou partie des sommes exigibles pour la durée de l'autorisation ou de la concession qui lui a été accordée si ce titulaire possède le statut de l'une des sociétés mentionnées à la première phrase du troisième alinéa de l'article L. 2253-1, à l'article L. 3231-6 et au 14° de l'article L. 4211-1 du code général des collectivités territoriales et si le produit de la redevance ainsi perçue est affecté au financement de prises de participation à son capital dans le cadre prévu aux mêmes articles L. 2253-1, L. 3231-6 et L. 4211-1. Un décret en Conseil d'Etat fixe les conditions d'inscription du produit de la redevance au budget des collectivités ou de leurs groupements.
 
 Les conditions d'application de ces différents modes de règlement sont fixées par arrêté ministériel.
 
@@ -1951,6 +1961,16 @@ Sont portés devant la juridiction administrative les litiges relatifs :
 6° Aux baux emphytéotiques passés par les établissements publics de santé, conformément à l'article L. 6148-2 du code de la santé publique ;
 
 7° Aux baux emphytéotiques passés par l'Etat ou ses établissements publics conformément à l'article L. 2341-1.
+
+###### Article L2331-1-1
+
+I. - Le juge administratif, saisi de conclusions dirigées contre une autorisation ou un contrat d'occupation du domaine public maritime délivré pour une installation de production d'énergie renouvelable en mer ou pour les études techniques et environnementales ou les ouvrages de raccordement au réseau public de transport d'électricité afférents, après avoir constaté que les autres moyens ne sont pas fondés, peut :
+
+1° S'il estime qu'un vice n'affecte qu'une phase de l'instruction de la demande d'acte ou une partie de cet acte, limiter à cette partie la portée de l'annulation qu'il prononce et demander à l'autorité administrative compétente de reprendre l'instruction à la phase ou sur la partie qui a été entachée d'irrégularité ;
+
+2° S'il estime qu'un vice entraînant l'illégalité de cet acte est susceptible d'être régularisé par un acte modificatif, après avoir invité les parties à présenter leurs observations, surseoir à statuer jusqu'à l'expiration du délai qu'il fixe pour cette régularisation. Si un tel acte modificatif est notifié dans ce délai au juge, celui-ci statue après avoir invité les parties à présenter leurs observations.
+
+II. - En cas d'annulation ou de sursis à statuer affectant une partie seulement de l'acte, le juge détermine s'il y a lieu de suspendre l'exécution des parties de l'acte non viciées.
 
 ###### Article L2331-2
 
