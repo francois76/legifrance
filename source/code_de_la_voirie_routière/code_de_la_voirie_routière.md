@@ -408,7 +408,7 @@ Les modulations des péages ont pour but de lutter contre les dommages causés �
 
 I. - Les modulations des péages sont fixées de sorte qu'elles restent sans effet sur le montant total des recettes de l'exploitant. La structure de la modulation est modifiée dans les deux ans suivant la fin de l'exercice au cours duquel la structure précédente est mise en œuvre.
 
-II. - Les péages sont modulés en fonction de la classe d'émission EURO du véhicule, au sens de l'annexe 0 à la directive 1999/62/ CE du Parlement européen et du Conseil du 17 juin 1999 relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures. Les modulations de péages prévues au présent II sont mises en œuvre lors du renouvellement des contrats de délégation de service public conclus antérieurement au 1er janvier 2010. L'amplitude maximale de la modulation est fixée par décret.
+II. - Les péages sont modulés en fonction de la classe d'émission EURO du véhicule, au sens de l'annexe 0 à la directive 1999/62/ CE du Parlement européen et du Conseil du 17 juin 1999 relative à la taxation des véhicules pour l'utilisation d'infrastructures routières. Les modulations de péages prévues au présent II sont applicables aux contrats de concession conclus à partir du 1er janvier 2010 pour lesquels la procédure de consultation a été initiée avant le 24 mars 2022 et a donné lieu à la consultation des entreprises avec une réponse de leur part avant cette date. L'amplitude maximale de la modulation est fixée par décret.
 
 III. - Il peut être dérogé à l'exigence de modulation des péages prévue au II lorsque :
 
@@ -443,6 +443,30 @@ Les contrats de délégation de service public et leurs cahiers des charges ment
 Les modulations de péages sont fixées de sorte qu'elles restent sans effet sur le montant total des recettes de l'exploitant.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+#### Section 4 : Dispositions communes aux péages applicables aux véhicules de transport de marchandises par route et aux véhicules de transport de personnes
+
+##### Article L119-11
+
+Les péages applicables aux véhicules de transport de marchandises par route et aux véhicules de transport de personnes dont le poids total autorisé en charge est supérieur à 3,5 tonnes, prévus par les contrats de concession pour lesquels la procédure d'appel d'offres a été initiée avant le 24 mars 2022 sans toutefois donner lieu à une consultation des entreprises avec réponse de leur part avant cette date ou pour lesquels la procédure d'appel d'offres est initiée après le 24 mars 2022 sont modulés en fonction de la classe des émissions de dioxyde de carbone du véhicule, au sens de l'article 7 octies bis de la directive 1999/62/ CE du Parlement européen et du Conseil du 17 juin 1999 relative à la taxation des véhicules pour l'utilisation d'infrastructures routières.
+
+Peuvent être prévues une exonération et des réductions des péages mentionnés au premier alinéa du présent article pour les véhicules à émission nulle, dans des conditions définies par décret.
+
+Les péages prévus par les contrats mentionnés au même premier alinéa peuvent être modulés en fonction du moment de la journée, du type de journée ou de la saison pour réduire la congestion et les dommages causés aux infrastructures, pour optimiser l'utilisation des infrastructures ou pour promouvoir la sécurité routière.
+
+Les modulations de péage prévues aux premier et troisième alinéas sont fixées de sorte qu'elles restent sans effet sur le montant total des recettes de l'exploitant.
+
+##### Article L119-12
+
+Les péages mentionnés à l'article L. 119-11 sont majorés d'une redevance pour coûts externes liée à la pollution atmosphérique due au trafic établie conformément aux exigences et aux valeurs de référence mentionnées aux annexes III bis et III ter de la directive 1999/62/ CE du Parlement européen et du Conseil du 17 juin 1999 relative à la taxation des véhicules pour l'utilisation d'infrastructures routières.
+
+La majoration prévue au premier alinéa du présent article ne s'applique pas aux véhicules qui relèvent de la norme EURO la plus stricte pendant les quatre années suivant l'entrée en vigueur de cette classification.
+
+Il peut être dérogé à la majoration définie au même premier alinéa lorsque celle-ci aurait pour effet de détourner les véhicules les plus polluants, entraînant ainsi des conséquences négatives en termes de sécurité routière et de santé publique.
+
+##### Article L119-13
+
+Un décret en Conseil d'Etat, pris après avis consultatif de l'Autorité de régulation des transports, détermine les conditions d'application de la présente section.
 
 ## TITRE II : Voirie nationale.
 
@@ -2467,7 +2491,7 @@ Les servitudes destinées à éviter les abus de la publicité prévues à l'art
 
 ##### Article R*122-5
 
-A l'exception des installations nécessaires à l'exploitation de l'autoroute, des installations souterraines autorisées dans les conditions prévues par l'article R. 20-45 du code des postes et communications électroniques des ouvrages souterrains du réseau public de transport d'électricité de tension supérieure ou égale à 50 kV et des installations établies par les sociétés concessionnaires en vue de leur utilisation par des opérateurs de télécommunications, aucune autorisation ne peut être accordée pour la pose, à l'intérieur des emprises des autoroutes, de canalisations aériennes ou souterraines longitudinales de quelque nature que ce soit. Des dérogations peuvent toutefois être accordées par arrêté préfectoral ou, le cas échéant, interpréfectoral si plusieurs départements sont concernés, pris après avis conforme du ministre chargé de la voirie nationale, pour des canalisations souterraines sous réserve qu'un dossier, dont le contenu est précisé par arrêté conjoint des ministres chargés de la voirie nationale et de l'énergie, démontre que leur implantation n'est pas de nature à faire obstacle à des améliorations de l'autoroute ou à les rendre plus onéreuses.
+A l'exception des installations nécessaires à l'exploitation de l'autoroute, des installations souterraines autorisées dans les conditions prévues par l'article R. 20-45 du code des postes et communications électroniques, des ouvrages souterrains du réseau public de transport d'électricité de tension supérieure ou égale à 50 kV et des installations établies par les sociétés concessionnaires en vue de leur utilisation par des opérateurs de télécommunications, aucune autorisation ne peut être accordée pour la pose, à l'intérieur des emprises des autoroutes, de canalisations aériennes ou souterraines longitudinales de quelque nature que ce soit. Des dérogations peuvent toutefois être accordées par arrêté préfectoral ou, le cas échéant, interpréfectoral si plusieurs départements sont concernés, pris après avis conforme du ministre chargé de la voirie nationale, pour des canalisations souterraines sous réserve qu'un dossier, dont le contenu est précisé par arrêté conjoint des ministres chargés de la voirie nationale et de l'énergie, démontre que leur implantation n'est pas de nature à faire obstacle à des améliorations de l'autoroute ou à les rendre plus onéreuses.
 
 Les traversées aériennes peuvent être autorisées sous réserve qu'elles satisfassent à la réglementation en vigueur et qu'aucun support ne soit implanté dans les emprises de l'autoroute ni qu'aucun point d'une canalisation ne soit à moins de huit mètres de hauteur au-dessus du sol de l'autoroute.
 
