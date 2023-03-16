@@ -14,7 +14,9 @@ I.-Les orientations d'aménagement et de programmation peuvent notamment :
 
 6° Adapter la délimitation des périmètres, en fonction de la qualité de la desserte, où s'applique le plafonnement à proximité des transports prévu aux articles L. 151-35 et L. 151-36 ;
 
-7° Définir les actions et opérations nécessaires pour protéger les franges urbaines et rurales. Elles peuvent définir les conditions dans lesquelles les projets de construction et d'aménagement situés en limite d'un espace agricole intègrent un espace de transition végétalisé non artificialisé entre les espaces agricoles et les espaces urbanisés, ainsi que la localisation préférentielle de cet espace de transition.
+7° Définir les actions et opérations nécessaires pour protéger les franges urbaines et rurales. Elles peuvent définir les conditions dans lesquelles les projets de construction et d'aménagement situés en limite d'un espace agricole intègrent un espace de transition végétalisé non artificialisé entre les espaces agricoles et les espaces urbanisés, ainsi que la localisation préférentielle de cet espace de transition ;
+
+8° Dans les communes non couvertes par un schéma de cohérence territoriale, identifier les zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables arrêtées en application de l'article L. 141-5-3 du code de l'énergie.
 
 II.-En zone de montagne, ces orientations définissent la localisation, la nature et la capacité globale d'accueil et d'équipement des unités touristiques nouvelles locales.
 

@@ -6,7 +6,7 @@ Elle indique les dispositions législatives dont le demandeur entend bénéficie
 
 Elle fournit une présentation précise et complète de la situation de fait qui fait l'objet de la demande ainsi que toutes les informations et pièces nécessaires.
 
-La demande est présentée au service de l'Etat compétent mentionné à l'article R. 331-9 par tout moyen conférant date certaine à sa réception.
+La demande est présentée au service de l'Etat chargé de l'urbanisme compétent dans le département ou, le cas échéant, dans la région d'Ile-de-France, par tout moyen conférant date certaine à sa réception.
 
 Si la demande est incomplète, le service invite son auteur, dans les mêmes formes, à fournir les éléments complémentaires nécessaires.
 

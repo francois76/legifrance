@@ -10,7 +10,7 @@ c) La nature des travaux ou du changement de destination ;
 
 d) S'il y a lieu, la surface de plancher et la destination et la sous-destination des constructions projetées définies aux articles R. 151-27 et R. 151-28 ;
 
-e) Les éléments, fixés par arrêtés, nécessaires au calcul des impositions ;
+e) (Abrogé) ;
 
 f) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ;
 

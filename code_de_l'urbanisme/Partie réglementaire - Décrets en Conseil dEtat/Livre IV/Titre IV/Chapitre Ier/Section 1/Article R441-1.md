@@ -8,7 +8,7 @@ b) La localisation et la superficie du ou des terrains à aménager ;
 
 c) La nature des travaux ;
 
-d) Les éléments, fixés par arrêté, nécessaires au calcul des impositions ;
+d) (Abrogé) ;
 
 e) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ;
 

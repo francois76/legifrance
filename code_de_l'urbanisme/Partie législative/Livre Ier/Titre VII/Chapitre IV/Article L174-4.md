@@ -8,7 +8,7 @@ Les dispositions de l'article L. 123-1 dans leur rédaction antérieure au 15 d�
 
 Ils peuvent faire l'objet :
 
-1° D'une modification lorsqu'il n'est pas porté atteinte à l'économie générale du plan et hors les cas prévus aux 2° et 3° de l'article L. 153-31 ;
+1° D'une modification lorsqu'il n'est pas porté atteinte à l'économie générale du plan et hors les cas prévus aux 2° et 3° du I de l'article L. 153-31 ;
 
 2° D'une mise en compatibilité selon les modalités définies par les articles L. 153-54 à L. 153-59.
 

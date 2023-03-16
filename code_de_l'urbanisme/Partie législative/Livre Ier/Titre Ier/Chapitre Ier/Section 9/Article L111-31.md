@@ -1,0 +1,4 @@
+###### Article L111-31
+
+Les ouvrages de production d'électricité à partir de l'énergie solaire mentionnés aux articles L. 111-27 à L. 111-29 implantés sur les sols des espaces naturels, agricoles et forestiers sont autorisés sur avis conforme de la commission départementale de la préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, à l'exception des ouvrages mentionnés au deuxième alinéa de l'article L. 111-29 du présent code, qui font l'objet d'un avis simple. Cet avis vaut pour toutes les procédures administratives nécessaires aux projets d'installations agrivoltaïques au sens de l'article L. 314-36 du code de l'énergie. Avant de rendre son avis, la commission départementale de préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime auditionne le pétitionnaire.
+

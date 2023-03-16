@@ -6,7 +6,9 @@ La modification peut être effectuée selon une procédure simplifiée :
 
 2° Dans les cas de majoration des droits à construire prévus à l'article L. 151-28 ;
 
-3° Dans le cas où elle a uniquement pour objet la rectification d'une erreur matérielle.
+3° Dans le cas où elle a uniquement pour objet la rectification d'une erreur matérielle ;
+
+4° Dans les cas prévus au II de l'article L. 153-31.
 
 Cette procédure peut être à l'initiative soit du président de l'établissement public de coopération intercommunale ou du maire d'une commune membre de cet établissement public si la modification ne concerne que le territoire de cette commune, soit du maire dans les autres cas.
 

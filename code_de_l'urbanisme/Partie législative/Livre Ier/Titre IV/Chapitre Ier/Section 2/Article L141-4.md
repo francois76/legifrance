@@ -8,7 +8,7 @@ L'ensemble de ces orientations s'inscrit dans un objectif de développement équ
 
 2° Une offre de logement et d'habitat renouvelée, l'implantation des grands équipements et services qui structurent le territoire, ainsi que l'organisation des mobilités assurant le lien et la desserte de celui-ci ;
 
-3° Les transitions écologique et énergétique, qui impliquent la lutte contre l'étalement urbain et le réchauffement climatique, l'adaptation et l'atténuation des effets de ce dernier, le développement des énergies renouvelables, ainsi que la prévention des risques naturels, technologiques et miniers, la préservation et la valorisation des paysages, de la biodiversité, des ressources naturelles, des espaces naturels, agricoles et forestiers.
+3° Les transitions écologique et énergétique, qui impliquent la lutte contre l'étalement urbain et le réchauffement climatique, l'adaptation et l'atténuation des effets de ce dernier, le développement des énergies renouvelables, ainsi que la prévention des risques naturels, technologiques et miniers, la préservation et la valorisation de la biodiversité, des ressources naturelles, des espaces naturels, agricoles et forestiers ainsi que des paysages, dans un objectif d'insertion et de qualité paysagères des différentes activités humaines, notamment des installations de production et de transport des énergies renouvelables.
 
 Le document d'orientation et d'objectifs peut décliner toute autre orientation nécessaire à la traduction du projet d'aménagement stratégique, relevant des objectifs énoncés à l'article L. 101-2 et de la compétence des collectivités publiques en matière d'urbanisme.
 

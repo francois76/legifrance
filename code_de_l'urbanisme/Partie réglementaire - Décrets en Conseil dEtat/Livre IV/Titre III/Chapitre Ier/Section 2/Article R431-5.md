@@ -16,7 +16,7 @@ f) La surface de plancher des constructions projetées, s'il y a lieu répartie 
 
 g) La puissance électrique nécessaire au projet, lorsque la puissance électrique est supérieure à 12 kilovoltampères monophasé ou 36 kilovoltampères triphasé ;
 
-h) Les éléments, fixés par arrêté, nécessaires au calcul des impositions ;
+h) (Abrogé) ;
 
 i) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ;
 

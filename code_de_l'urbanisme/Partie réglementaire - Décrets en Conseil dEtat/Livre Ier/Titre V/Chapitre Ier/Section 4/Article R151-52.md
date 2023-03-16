@@ -20,9 +20,9 @@ Figurent en annexe au plan local d'urbanisme, s'il y a lieu, les éléments suiv
 
 9° Le périmètre des secteurs dans lesquels un programme d'aménagement d'ensemble a été approuvé en application de l'article L. 332-9 dans sa rédaction antérieure au 31 décembre 2010 ;
 
-10° Le périmètre des secteurs relatifs au taux de la taxe d'aménagement, en application de l'article L. 331-14 et L. 331-15 ;
+10° Le périmètre des secteurs relatifs au taux de la taxe d'aménagement, en application du 2 du I de l'article 1635 quater L et de l' article 1635 quater N du code général des impôts ;
 
-11° Le périmètre des secteurs affectés par un seuil minimal de densité, en application de l'article L. 331-36 ;
+11° (Abrogé) ;
 
 12° Les périmètres fixés par les conventions de projet urbain partenarial mentionnées à l'article L. 332-11-3 ainsi que ceux délimités en application du II de cet article ;
 
