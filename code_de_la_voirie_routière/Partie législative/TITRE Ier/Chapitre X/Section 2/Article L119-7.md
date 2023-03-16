@@ -2,7 +2,7 @@
 
 I. - Les modulations des péages sont fixées de sorte qu'elles restent sans effet sur le montant total des recettes de l'exploitant. La structure de la modulation est modifiée dans les deux ans suivant la fin de l'exercice au cours duquel la structure précédente est mise en œuvre.
 
-II. - Les péages sont modulés en fonction de la classe d'émission EURO du véhicule, au sens de l'annexe 0 à la directive 1999/62/ CE du Parlement européen et du Conseil du 17 juin 1999 relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures. Les modulations de péages prévues au présent II sont mises en œuvre lors du renouvellement des contrats de délégation de service public conclus antérieurement au 1er janvier 2010. L'amplitude maximale de la modulation est fixée par décret.
+II. - Les péages sont modulés en fonction de la classe d'émission EURO du véhicule, au sens de l'annexe 0 à la directive 1999/62/ CE du Parlement européen et du Conseil du 17 juin 1999 relative à la taxation des véhicules pour l'utilisation d'infrastructures routières. Les modulations de péages prévues au présent II sont applicables aux contrats de concession conclus à partir du 1er janvier 2010 pour lesquels la procédure de consultation a été initiée avant le 24 mars 2022 et a donné lieu à la consultation des entreprises avec une réponse de leur part avant cette date. L'amplitude maximale de la modulation est fixée par décret.
 
 III. - Il peut être dérogé à l'exigence de modulation des péages prévue au II lorsque :
 
