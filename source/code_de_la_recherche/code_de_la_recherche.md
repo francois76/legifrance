@@ -430,7 +430,7 @@ L'utilisation d'éléments et produits du corps humain à des fins scientifiques
 
 3° S'agissant des tissus et cellules, les articles L. 1241-1, L. 1241-5, L. 1241-6, L. 1243-3, L. 1243-4, L. 1243-6, L. 1245-2, L. 1245-4, L. 1245-5 et L. 1245-5-1.
 
-#### Chapitre III : Les recherches biomédicales.
+#### Chapitre III : Les recherches impliquant la personne humaine
 
 ##### Article L223-1
 

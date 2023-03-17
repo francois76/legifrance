@@ -1,1 +1,3 @@
 0000000000000000000000000000000000000000 925820b175d8a299f38e9ef4c9c5b9eefe157dec francoisgognet <fgognet@gmail.com> 1678137917 +0100	clone: from https://archeo-lex.fr/codes/code_de_la_recherche
+925820b175d8a299f38e9ef4c9c5b9eefe157dec fae2472e5cc413ba860e814c0da2a91428095cee Github action <github@users.noreply.github.com> 1679017199 +0000	pull --rebase (start): checkout fae2472e5cc413ba860e814c0da2a91428095cee
+fae2472e5cc413ba860e814c0da2a91428095cee fae2472e5cc413ba860e814c0da2a91428095cee Github action <github@users.noreply.github.com> 1679017199 +0000	pull --rebase (finish): returning to refs/heads/texte
