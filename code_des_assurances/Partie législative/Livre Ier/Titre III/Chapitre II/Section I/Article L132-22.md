@@ -34,5 +34,5 @@ L'entreprise d'assurance ou de capitalisation communique également au contracta
 
 L'entreprise d'assurance publie annuellement sur son site internet le rendement garanti moyen et le taux moyen de la participation aux bénéfices attribué pour chacun de ses contrats d'assurance vie ou de capitalisation. Cette publication intervient dans un délai de 90 jours ouvrables à compter du 31 décembre de l'année au titre de laquelle ces revalorisations sont réalisées. Cette publication reste disponible pendant une durée minimale de cinq ans. Le support de communication mentionné au premier alinéa du présent article indique explicitement le chemin d'accès de cette publication sur le site internet.
 
-Les dispositions du présent article ne s'appliquent pas aux contrats d'assurance de groupe en cas de vie ouverts sous la forme d'un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier.
+Les dispositions du présent article ne s'appliquent pas aux contrats d'assurance de groupe en cas de vie ouverts sous la forme d'un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier ou d'un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du même code.
 

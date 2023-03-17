@@ -4,15 +4,15 @@ Les entreprises relevant du régime dit " Solvabilité II " sont :
 
 1° Les entreprises mentionnées à l'article L. 310-1 et qui disposent d'un agrément pour l'exercice de leurs activités, ainsi que celles mentionnées au premier alinéa de l'article L. 321-10-3, qui ont rempli, à compter du 1er janvier 2012 et pendant trois exercices annuels consécutifs, l'une des conditions suivantes :
 
-a) L'encaissement annuel de primes ou cotisations brutes émises par l'entreprise dépasse 5 millions d'euros ;
+a) L'encaissement annuel de primes ou cotisations brutes émises par l'entreprise dépasse un seuil fixé par arrêté du ministre chargé de l'économie ;
 
-b) Le total des provisions techniques de l'entreprise, au sens défini au titre IV du livre III du présent code, brutes de cessions en réassurance ou à des véhicules de titrisation, dépasse 25 millions d'euros ;
+b) Le total des provisions techniques de l'entreprise, au sens défini au titre IV du livre III du présent code, brutes de cessions en réassurance ou à des véhicules de titrisation, dépasse un seuil fixé par arrêté du ministre chargé de l'économie ;
 
 c) Lorsque l'entreprise appartient à un groupe défini à l'article L. 356-1 ;
 
 d) L'activité de l'entreprise comporte des opérations de réassurance qui :
 
-- dépassent 500 000 euros d'encaissement de primes ou de cotisations brutes émises ou 2,5 millions d'euros de provisions techniques, au sens défini au titre IV du livre III du présent code, brutes de cessions en réassurance ou à des véhicules de titrisation ;
+- dépassent un seuil d'encaissement de primes ou de cotisations brutes émises ou un montant de provisions techniques, au sens du titre IV du présent livre, brutes de cessions en réassurance ou à des véhicules de titrisation, fixés par arrêté du ministre chargé de l'économie ;
 - ou représentent plus de 10 % de son encaissement de primes ou cotisations brutes émises ou de ses provisions techniques, au sens défini au titre IV du livre III du présent code, brutes de cessions en réassurance ou à des véhicules de titrisation ;
 
 2° Les entreprises mentionnées à l'article L. 310-1 qui, bien que ne satisfaisant pas aux conditions énoncées au 1°, disposent de l'agrément mentionné à l'article L. 321-1 pour des opérations de responsabilité civile, crédit ou caution ;

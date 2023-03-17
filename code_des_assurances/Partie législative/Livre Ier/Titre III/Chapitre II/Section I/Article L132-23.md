@@ -14,6 +14,8 @@ Les droits individuels résultant des contrats d'assurance de groupe en cas de v
 
 Lorsque le contrat d'assurance de groupe en cas de vie est ouvert sous la forme d'un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier, les dispositions du présent article s'appliquent sous réserve de celles du chapitre IV du titre II du livre II du code monétaire et financier.
 
+Lorsque le contrat d'assurance de groupe en cas de vie est ouvert sous la forme d'un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du même code, le présent article s'applique sous réserve du chapitre V du titre II du livre II du code monétaire et financier.
+
 Pour les autres assurances sur la vie et pour les opérations de capitalisation, l'assureur ne peut refuser la réduction ou le rachat. Toutefois, le contrat peut stipuler que les engagements relevant du chapitre IV ne sont pas rachetables durant une période qui ne peut excéder une durée fixée par décret en Conseil d'Etat, sauf lorsque se produisent l'un ou plusieurs des événements mentionnés aux troisième à septième alinéas.
 
 L'assureur peut d'office substituer le rachat à la réduction si la valeur de rachat est inférieure à un montant fixé par décret.
