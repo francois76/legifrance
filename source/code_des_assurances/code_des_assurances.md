@@ -42,7 +42,7 @@ c) Le crédit et la caution, lorsque le souscripteur exerce à titre professionn
 
 d) Les installations d'énergies marines renouvelables, définies par un décret en Conseil d'Etat ;
 
-2° Ceux qui concernent l'incendie et les éléments naturels, les autres dommages aux biens, la responsabilité civile générale, les pertes pécuniaires diverses, les corps de véhicules terrestres à moteur ainsi que la responsabilité civile, y compris celle du transporteur, afférente à ces véhicules, lorsque le souscripteur exerce une activité dont l'importance dépasse certains seuils définis par décret en Conseil d'Etat.
+2° Ceux qui concernent l'incendie et les éléments naturels, les autres dommages aux biens, la responsabilité civile générale, les pertes pécuniaires diverses, les corps de véhicules terrestres à moteur ainsi que la responsabilité civile, y compris celle du transporteur, afférente à ces véhicules, lorsque le souscripteur exerce une activité dont l'importance dépasse certains seuils, dans des conditions définies par décret en Conseil d'Etat.
 
 ##### Article L111-7
 
@@ -1426,7 +1426,7 @@ L'entreprise d'assurance ou de capitalisation communique également au contracta
 
 L'entreprise d'assurance publie annuellement sur son site internet le rendement garanti moyen et le taux moyen de la participation aux bénéfices attribué pour chacun de ses contrats d'assurance vie ou de capitalisation. Cette publication intervient dans un délai de 90 jours ouvrables à compter du 31 décembre de l'année au titre de laquelle ces revalorisations sont réalisées. Cette publication reste disponible pendant une durée minimale de cinq ans. Le support de communication mentionné au premier alinéa du présent article indique explicitement le chemin d'accès de cette publication sur le site internet.
 
-Les dispositions du présent article ne s'appliquent pas aux contrats d'assurance de groupe en cas de vie ouverts sous la forme d'un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier.
+Les dispositions du présent article ne s'appliquent pas aux contrats d'assurance de groupe en cas de vie ouverts sous la forme d'un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier ou d'un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du même code.
 
 ###### Article L132-22-2
 
@@ -1447,6 +1447,8 @@ Les contrats d'assurance en cas de vie dont les prestations sont liées à la ce
 Les droits individuels résultant des contrats d'assurance de groupe en cas de vie dont les prestations sont liées à la cessation d'activité professionnelle, y compris les contrats qui relèvent du régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique, sont transférables, dans des conditions fixées par décret.
 
 Lorsque le contrat d'assurance de groupe en cas de vie est ouvert sous la forme d'un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier, les dispositions du présent article s'appliquent sous réserve de celles du chapitre IV du titre II du livre II du code monétaire et financier.
+
+Lorsque le contrat d'assurance de groupe en cas de vie est ouvert sous la forme d'un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du même code, le présent article s'applique sous réserve du chapitre V du titre II du livre II du code monétaire et financier.
 
 Pour les autres assurances sur la vie et pour les opérations de capitalisation, l'assureur ne peut refuser la réduction ou le rachat. Toutefois, le contrat peut stipuler que les engagements relevant du chapitre IV ne sont pas rachetables durant une période qui ne peut excéder une durée fixée par décret en Conseil d'Etat, sauf lorsque se produisent l'un ou plusieurs des événements mentionnés aux troisième à septième alinéas.
 
@@ -1662,15 +1664,15 @@ IV.-L'assemblée générale adopte des règles de déontologie visant à préven
 
 ##### Article L142-1
 
-Les dispositions du présent chapitre sont applicables aux plans d'épargne retraite mentionnés à l'article L. 224-1 du code monétaire et financier qui donnent lieu à l'adhésion à un contrat d'assurance de groupe.
+Les dispositions du présent chapitre sont applicables aux plans d'épargne retraite mentionnés à l'article L. 224-1 du code monétaire et financier et aux sous-comptes français du produit paneuropéen d'épargne-retraite individuelle mentionnés à l'article L. 225-1 du même code qui donnent lieu à l'adhésion à un contrat d'assurance de groupe.
 
 ##### Article L142-2
 
-Les tarifs pratiqués au titre des plans d'épargne retraite sont établis d'après des paramètres de mortalité et de taux d'intérêt technique définis au contrat. Un arrêté du ministre chargé de l'économie fixe les modalités d'application du présent article, notamment le taux d'intérêt technique maximum utilisé.
+Les tarifs pratiqués au titre des plans d'épargne retraite et des sous-comptes français du produit paneuropéen d'épargne-retraite individuelle sont établis d'après des paramètres de mortalité et de taux d'intérêt technique définis au contrat. Un arrêté du ministre chargé de l'économie fixe les modalités d'application du présent article, notamment le taux d'intérêt technique maximum utilisé.
 
 ##### Article L142-3
 
-I.-Le plan d'épargne retraite peut prévoir des garanties complémentaires :
+Le plan d'épargne retraite et le sous-compte français du produit paneuropéen d'épargne-retraite individuelle peuvent prévoir des garanties complémentaires :
 
 1° En cas de décès de l'assuré avant ou après l'échéance mentionnée à l'article L. 224-1, une garantie prévoyant le versement d'un capital ou d'une rente viagère, au profit d'un ou plusieurs bénéficiaires expressément désignés par l'assuré ou, à défaut, à son conjoint ou à son partenaire lié par un pacte civil de solidarité, ainsi qu'une garantie prévoyant le versement d'une rente temporaire d'éducation versée à des enfants mineurs ;
 
@@ -1680,9 +1682,9 @@ I.-Le plan d'épargne retraite peut prévoir des garanties complémentaires :
 
 4° Une garantie prévoyant le versement de prestations de prévoyance complémentaire à l'exclusion des garanties mentionnées aux 1° à 3° du présent article. Ces garanties peuvent notamment prévoir la prise en charge des cotisations jusqu'à l'âge de la retraite en cas d'incapacité ou d'invalidité de l'assuré ;
 
-5° Une garantie prévoyant le versement d'indemnités en cas de perte d'emploi subie de l'assuré, payables sous la forme d'une rente ou d'un capital versé en une fois ou de manière fractionnée ;
+5° Une garantie prévoyant le versement d'indemnités en cas de perte d'emploi subie de l'assuré, payables sous la forme d'une rente ou d'un capital versé en une fois ou de manière fractionnée. Cette garantie ne peut être proposée dans un sous-compte français du produit paneuropéen d'épargne-retraite individuelle ;
 
-6° Une garantie portant sur la valeur de rachat de tout ou partie du contrat à l'échéance mentionnée à l'article L. 224-1 du code monétaire et financier ou en cas de décès de l'assuré.
+6° Une garantie portant sur la valeur de rachat de tout ou partie du contrat à l'échéance mentionnée à l'article L. 224-1 du code monétaire et financier ou en cas de décès de l'assuré. Cette garantie ne peut être proposée dans un sous-compte français du produit paneuropéen d'épargne-retraite individuelle.
 
 Chacune des prestations servies au titre de la ou des garanties complémentaires mentionnées aux 1°, 2° et 5° ne peut avoir pour effet d'ouvrir à l'assuré des droits qui excéderaient ceux auxquels il aurait pu prétendre sans la réalisation du risque couvert par chacune de ces garanties. Les prestations servies au titre de la garantie complémentaire mentionnée au 3° ne peuvent avoir pour effet d'ouvrir à l'assuré des droits qui excéderaient le double de ceux auxquels il aurait pu prétendre sans la réalisation du risque couvert par cette garantie.
 
@@ -1738,7 +1740,7 @@ L'approbation rend le transfert opposable aux assurés, souscripteurs et bénéf
 
 ##### Article L142-8
 
-La valeur de transfert des plans d'épargne retraite donnant lieu à l'adhésion à un contrat d'assurance de groupe dont les garanties sont exprimées en unités de rente est déterminée selon une méthode de calcul tenant compte du montant des droits acquis par le titulaire et du niveau de couverture des engagements de l'organisme d'assurance. Cette méthode de calcul est précisée par décret.
+La valeur de transfert des plans d'épargne retraite et des sous-comptes français du produit paneuropéen d'épargne-retraite individuelle donnant lieu à l'adhésion à un contrat d'assurance de groupe dont les garanties sont exprimées en unités de rente est déterminée selon une méthode de calcul tenant compte du montant des droits acquis par le titulaire et du niveau de couverture des engagements de l'organisme d'assurance. Cette méthode de calcul est précisée par décret.
 
 #### Chapitre III : Retraite professionnelle supplémentaire
 
@@ -3602,15 +3604,15 @@ Les entreprises relevant du régime dit " Solvabilité II " sont :
 
 1° Les entreprises mentionnées à l'article L. 310-1 et qui disposent d'un agrément pour l'exercice de leurs activités, ainsi que celles mentionnées au premier alinéa de l'article L. 321-10-3, qui ont rempli, à compter du 1er janvier 2012 et pendant trois exercices annuels consécutifs, l'une des conditions suivantes :
 
-a) L'encaissement annuel de primes ou cotisations brutes émises par l'entreprise dépasse 5 millions d'euros ;
+a) L'encaissement annuel de primes ou cotisations brutes émises par l'entreprise dépasse un seuil fixé par arrêté du ministre chargé de l'économie ;
 
-b) Le total des provisions techniques de l'entreprise, au sens défini au titre IV du livre III du présent code, brutes de cessions en réassurance ou à des véhicules de titrisation, dépasse 25 millions d'euros ;
+b) Le total des provisions techniques de l'entreprise, au sens défini au titre IV du livre III du présent code, brutes de cessions en réassurance ou à des véhicules de titrisation, dépasse un seuil fixé par arrêté du ministre chargé de l'économie ;
 
 c) Lorsque l'entreprise appartient à un groupe défini à l'article L. 356-1 ;
 
 d) L'activité de l'entreprise comporte des opérations de réassurance qui :
 
-- dépassent 500 000 euros d'encaissement de primes ou de cotisations brutes émises ou 2,5 millions d'euros de provisions techniques, au sens défini au titre IV du livre III du présent code, brutes de cessions en réassurance ou à des véhicules de titrisation ;
+- dépassent un seuil d'encaissement de primes ou de cotisations brutes émises ou un montant de provisions techniques, au sens du titre IV du présent livre, brutes de cessions en réassurance ou à des véhicules de titrisation, fixés par arrêté du ministre chargé de l'économie ;
 - ou représentent plus de 10 % de son encaissement de primes ou cotisations brutes émises ou de ses provisions techniques, au sens défini au titre IV du livre III du présent code, brutes de cessions en réassurance ou à des véhicules de titrisation ;
 
 2° Les entreprises mentionnées à l'article L. 310-1 qui, bien que ne satisfaisant pas aux conditions énoncées au 1°, disposent de l'agrément mentionné à l'article L. 321-1 pour des opérations de responsabilité civile, crédit ou caution ;
@@ -6755,6 +6757,8 @@ VI. - Le fonds de garantie est l'organisme chargé des missions mentionnées aux
 ###### Article L421-2
 
 Le fonds de garantie est une personne morale de droit privé. Il regroupe les entreprises d'assurance qui couvrent les risques faisant l'objet d'une assurance obligatoire en matière d'assurance automobile et de chasse et en matière d'assurance de dommages prévue par l'article L. 242-1.
+
+Le directeur général du fonds de garantie est entendu par les commissions de l'Assemblée nationale et du Sénat chargées des finances avant sa désignation.
 
 ###### Article L421-3
 
