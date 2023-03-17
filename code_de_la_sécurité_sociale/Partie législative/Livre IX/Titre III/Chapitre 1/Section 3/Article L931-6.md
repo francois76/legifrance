@@ -4,15 +4,15 @@ Les institutions de prévoyance ou unions relevant du régime dit " Solvabilité
 
 1° Les institutions de prévoyance ou unions mentionnées à l'article L. 931-1 qui, à compter du 1er janvier 2012, ont rempli pendant trois exercices annuels consécutifs l'une des conditions suivantes :
 
-a) L'encaissement annuel de cotisations brutes émises par l'institution de prévoyance ou l'union dépasse 5 millions d'euros ;
+a) L'encaissement annuel de cotisations brutes émises par l'institution de prévoyance ou l'union dépasse un seuil fixé par arrêté du ministre chargé des affaires sociales ;
 
-b) Le total des provisions techniques, au sens défini au titre IV du livre III du code des assurances, brutes de cessions en réassurance ou à des véhicules de titrisation de l'institution de prévoyance ou l'union dépasse 25 millions d'euros ;
+b) Le total des provisions techniques, au sens défini au titre IV du livre III du code des assurances, brutes de cessions en réassurance ou à des véhicules de titrisation de l'institution de prévoyance ou l'union dépasse un seuil fixé par arrêté du ministre chargé des affaires sociales ;
 
 c) L'institution de prévoyance ou l'union appartient à un groupe défini à l'article L. 356-1 du code des assurances ;
 
 d) L'activité de l'institution de prévoyance ou de l'union comporte des opérations de réassurance qui :
 
-i) Dépassent 500 000 € d'encaissement de cotisations brutes émises ou 2,5 millions d'euros de provisions techniques, au sens défini au titre IV du livre III du code des assurances, brutes de cessions en réassurance ou à des véhicules de titrisation ;
+i) Dépassent un seuil d'encaissement de primes ou de cotisations brutes émises ou un montant de provisions techniques, au sens du titre IV du livre III du code des assurances, brutes de cessions en réassurance ou à des véhicules de titrisation, fixés par arrêté du ministre chargé des affaires sociales ;
 
 ii) Ou représentent plus de 10 % de son encaissement cotisations brutes émises ou de ses provisions techniques, au sens défini au titre IV du livre III du code des assurances, brutes de cessions en réassurance ou à des véhicules de titrisation ;
 

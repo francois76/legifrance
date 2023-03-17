@@ -12,7 +12,9 @@ Le montant versé ne peut excéder un plafond variant en fonction des ressources
 
 4° Lorsque le ménage ou la personne seule bénéficie au titre d'un enfant à charge de la prestation prévue à l'article L. 541-1.
 
-Par dérogation au premier alinéa de l'article L. 531-1, le complément de libre choix du mode de garde est également versé, à un montant réduit, pour la garde d'un enfant ayant un âge supérieur à l'âge mentionné au même article L. 531-1 mais inférieur à un âge limite. Toutefois, pour les enfants ayant atteint l'âge limite mentionné au premier alinéa dudit article L. 531-1 entre le 1er janvier et le 31 août de l'année, la prestation demeure versée intégralement.
+Pour la garde d'un enfant qui répond à la condition d'âge mentionnée au IV de l'article L. 531-5, les montants versés sont réduits dans les conditions prévues au même IV.
+
+L'aide n'est versée que si l'enfant est gardé un minimum d'heures au cours du mois, dans des conditions définies par décret.
 
 L'aide est versée par l'organisme débiteur de prestations familiales.
 

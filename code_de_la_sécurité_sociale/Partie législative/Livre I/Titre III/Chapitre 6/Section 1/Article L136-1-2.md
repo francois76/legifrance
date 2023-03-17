@@ -26,5 +26,5 @@ En outre, la contribution due sur ces allocations ainsi que sur les avantages me
 
 10° Les revenus de remplacement versés à des bénéficiaires redevables de la cotisation mentionnée au deuxième alinéa du IV de l'article L. 380-3-1 ;
 
-11° Les prestations de retraite, versées sous forme de rente ou de capital, issues d'un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier, lorsque ces prestations correspondent à des versements mentionnés au 1° de l'article L. 224-2 du même code n'ayant pas fait l'objet de l'option prévue au deuxième alinéa de l'article L. 224-20 du code précité.
+11° Les prestations de retraite, versées sous forme de rente ou de capital, issues d'un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier ou d'un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du même code, lorsque ces prestations correspondent à des versements mentionnés au 1° de l'article L. 224-2 dudit code n'ayant pas fait l'objet de l'option prévue au deuxième alinéa de l'article L. 224-20 du code précité.
 

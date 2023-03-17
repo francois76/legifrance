@@ -6,3 +6,5 @@ Les cotisations sont exigibles annuellement et d'avance.
 
 Les frais de versement des cotisations sont à la charge de la partie payante.
 
+Le présent article ne s'applique pas au recouvrement des cotisations dues par les travailleurs indépendants libéraux affiliés à la section professionnelle mentionnée au 11° de l'article R. 641-1.
+
