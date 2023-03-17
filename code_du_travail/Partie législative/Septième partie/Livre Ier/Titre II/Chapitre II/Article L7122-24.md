@@ -6,7 +6,7 @@ L'employeur, qui remet au salarié et qui adresse à l'organisme habilité par l
 
 2° A la remise du certificat de travail, prévue par l'article L. 1234-19 ;
 
-3° A l'établissement, au contenu et à la transmission du contrat de travail à durée déterminée, prévus par les articles L. 1242-12 et L. 1242-13 ;
+3° A l'établissement, au contenu et à la transmission du contrat de travail à durée déterminée, prévus par les articles L. 1242-12 et L. 1242-13 ainsi qu'à l'information du salarié prévue à l'article L. 1221-5-1 ;
 
 4° A l'affiliation à la caisse de congés payés, prévue par l'article L. 3141-32 ;
 
