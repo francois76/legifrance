@@ -6,7 +6,7 @@ Il est institué un Conseil supérieur des personnels médicaux, odontologistes 
 
 2° Des représentants des ministres concernés ;
 
-3° Des représentants des établissements publics de santé désignés par les organisations les plus représentatives des établissements mentionnés à l' article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière.
+3° Des représentants des établissements publics de santé désignés par les organisations les plus représentatives des établissements mentionnés à l'article L. 5 du code général de la fonction publique.
 
-Le décret prévu à l'article L. 6156-7 en précise la composition et l'organisation.
+Le décret prévu à l'article L. 6156-7 du présent code en précise la composition et l'organisation.
 

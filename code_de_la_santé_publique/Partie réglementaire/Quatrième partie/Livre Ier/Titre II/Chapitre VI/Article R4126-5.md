@@ -20,5 +20,5 @@ Le président de la chambre disciplinaire nationale peut également, selon les m
 
 Le président de la chambre disciplinaire nationale peut, en outre, par ordonnance, rejeter les requêtes dirigées contre des ordonnances prises par le président de la chambre disciplinaire de première instance en application des 1° à 5° du présent article.
 
-Il peut, de même, annuler une ordonnance prise en application des articles 1° à 5° du présent article à condition de régler l'affaire au fond par application d'une des dispositions du présent article.
+Il peut, de même, annuler une ordonnance prise en application des 1° à 5° du présent article à condition de régler l'affaire au fond par application d'une des dispositions du présent article.
 

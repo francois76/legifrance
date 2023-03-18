@@ -22,5 +22,5 @@ Le professionnel de santé est responsable de la mise à jour de ce document. Il
 
 A l'issue de la période triennale, le professionnel de santé adresse à l'autorité chargée du contrôle de son obligation de développement professionnel continu la synthèse des actions réalisées. A tout moment, il peut lui être demandé d'attester de son engagement dans la démarche, selon des modalités fixées par l'autorité en charge du contrôle.
 
-III.-Les données insérées dans le document de traçabilité sont accessibles sous un format agrégé et anonymisé, aux fins d'exploitation statistique et de réalisation d'études d'impact sur le dispositif. Sur décision du Haut Conseil du développement professionnel continu des professions de santé, ces données agrégées et anonymisées peuvent être communiquées aux organisations professionnelles, notamment aux conseils nationaux professionnels.
+III.-Les données insérées dans le document de traçabilité sont accessibles sous un format agrégé et anonymisé, aux fins d'exploitation statistique et de réalisation d'études d'impact sur le dispositif. Ces données agrégées et anonymisées peuvent être communiquées aux organisations professionnelles, notamment aux conseils nationaux professionnels.
 

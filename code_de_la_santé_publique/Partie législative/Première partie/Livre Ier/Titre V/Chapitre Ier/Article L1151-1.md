@@ -1,7 +1,7 @@
 ###### Article L1151-1
 
 La pratique des actes, procédés, techniques et méthodes à visée diagnostique ou thérapeutique, ainsi que la prescription de certains dispositifs médicaux, de leurs accessoires, et l'utilisation de médicaments nécessitant un encadrement spécifique pour des raisons de santé publique ou susceptibles d'entraîner des dépenses injustifiées peuvent être soumises à des règles relatives :
-- à la formation et la qualification des professionnels pouvant les prescrire ou les mettre en œuvre conformément au code de déontologie médicale ;
+- à la formation et la qualification des professionnels pouvant les prescrire, les pratiquer, les utiliser ou les mettre en œuvre sans préjudice, le cas échéant, du respect du code de déontologie médicale ;
 - aux conditions techniques de leur réalisation.
 
 Elles peuvent également être soumises à des règles de bonne pratique.

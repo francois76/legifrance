@@ -1,0 +1,16 @@
+###### Article L5211-5-1
+
+I.-Les critères permettant de qualifier une situation de risque dans la prise en charge de l'état de santé du patient en raison de l'indisponibilité d'un dispositif médical sont fixés par voie réglementaire.
+
+Peuvent procéder à cette qualification les fabricants du dispositif médical ou leurs mandataires ou toute personne qui se livre à son importation ou à sa distribution, à l'exclusion de la vente au détail, ou, à défaut, l'Agence nationale de sécurité du médicament et des produits de santé, après consultation des opérateurs précités.
+
+II.-Dans les situations mentionnées au I, les fabricants d'un dispositif médical ou leurs mandataires ou toute personne qui se livre à son importation ou à sa distribution, à l'exclusion de la vente au détail, qui prennent la décision d'en suspendre ou d'en cesser la commercialisation ou qui ont connaissance de faits susceptibles d'entraîner la suspension ou la cessation de cette commercialisation en informent l'Agence nationale de sécurité du médicament et des produits de santé, selon des modalités définies par voie réglementaire.
+
+III.-Lorsque la qualification effectuée au I révèle un risque dans la prise en charge de l'état de santé du patient, les fabricants ou leurs mandataires ou toute personne qui se livre à l'importation ou à la distribution de ce dispositif, à l'exclusion de la vente au détail, mettent en œuvre, selon des modalités définies par voie réglementaire, toute mesure utile et nécessaire anticipée visant à assurer la continuité de la prise en charge de l'état de santé du patient dans son intérêt.
+
+IV.-Dans certaines situations identifiées au I ou lorsque les mesures mentionnées au III n'ont pas permis d'éviter le risque dans la prise en charge de l'état de santé du patient, les fabricants ou leurs mandataires ou toute personne qui se livre à l'importation ou à la distribution, à l'exclusion de la vente au détail, effectuent une déclaration auprès de l'Agence nationale de sécurité du médicament et des produits de santé du risque de rupture ou de toute rupture relatif à ce dispositif médical, dans des conditions définies par voie réglementaire.
+
+V.-Lorsqu'elle constate un risque de rupture ou une rupture dans la disponibilité d'un dispositif médical conduisant à une situation identifiée au I, pour lequel le fabricant ou son mandataire ou toute personne qui se livre à l'importation ou à la distribution, à l'exclusion de la vente au détail, n'a pas mis en œuvre les mesures mentionnées au III ou n'a pas effectué la déclaration mentionnée au IV, l'Agence nationale de sécurité du médicament et des produits de santé prend toute mesure utile et nécessaire pour éviter la rupture et assurer la continuité de la prise en charge de l'état de santé du patient dans son intérêt. Ces mesures sont prises après consultation des opérateurs précités, des professionnels de santé et des associations de patients et d'usagers du système de santé.
+
+Les informations relatives aux qualifications des situations liées à l'indisponibilité de dispositifs médicaux, aux risques identifiés de rupture dans leur disponibilité et aux mesures d'anticipation prises sont tenues à la disposition de l'Agence nationale de sécurité du médicament et des produits de santé et lui sont transmises à tout moment à sa demande.
+

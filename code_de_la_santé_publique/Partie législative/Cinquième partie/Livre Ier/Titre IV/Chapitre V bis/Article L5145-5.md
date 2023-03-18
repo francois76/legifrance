@@ -18,17 +18,17 @@ Le directeur général de l'Agence nationale de la sécurité sanitaire de l'ali
 
 8° L'obligation, pour le titulaire d'une autorisation de mise sur le marché, de mettre le médicament vétérinaire sur le marché conformément au contenu du résumé des caractéristiques du produit, de l'étiquetage et de la notice figurant dans l'autorisation de mise sur le marché, conformément à l'article 15 du même règlement ;
 
-9° L'obligation, pour le titulaire d'une autorisation de mise sur le marché, d'enregistrer et de notifier les événements indésirables présumés concernant leurs médicaments vétérinaires, conformément au paragraphe 2 de l'article 76 du même règlement ;
+9° L'obligation, pour le titulaire d'une autorisation de mise sur le marché ou de l'enregistrement, d'enregistrer et de notifier les événements indésirables présumés concernant leurs médicaments vétérinaires, conformément au paragraphe 2 de l'article 76 du même règlement ;
 
-10° L'obligation, pour le titulaire d'une autorisation de mise sur le marché, de collecter des données spécifiques de pharmacovigilance, en plus des données énumérées paragraphe 2 de l'article 73 du même règlement, et de procéder à des études de surveillance après mise sur le marché, conformément au paragraphe 3 de l'article 76 du même règlement ;
+10° L'obligation, pour le titulaire d'une autorisation de mise sur le marché ou de l'enregistrement, de collecter des données spécifiques de pharmacovigilance, en plus des données énumérées paragraphe 2 de l'article 73 du même règlement, et de procéder à des études de surveillance après mise sur le marché ou enregistrement, conformément au paragraphe 3 de l'article 76 du même règlement ;
 
-11° L'obligation, pour le titulaire d'une autorisation de mise sur le marché, de veiller à ce que les informations ayant trait à la pharmacovigilance destinées au grand public soient présentées de manière objective et ne soient pas trompeuses et d'en informer l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, conformément au paragraphe 11 de l'article 77 du même règlement ;
+11° L'obligation, pour le titulaire d'une autorisation de mise sur le marché ou de l'enregistrement, de veiller à ce que les informations ayant trait à la pharmacovigilance destinées au grand public soient présentées de manière objective et ne soient pas trompeuses et d'en informer l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, conformément au paragraphe 11 de l'article 77 du même règlement ;
 
-12° L'obligation, pour le titulaire d'une autorisation de mise sur le marché, de mettre en œuvre un système de pharmacovigilance en vue de s'acquitter des tâches en matière de pharmacovigilance, notamment la gestion d'un dossier permanent de système de pharmacovigilance, conformément à l'article 77 du même règlement ;
+12° L'obligation, pour le titulaire d'une autorisation de mise sur le marché ou de l'enregistrement, de mettre en œuvre un système de pharmacovigilance en vue de s'acquitter des tâches en matière de pharmacovigilance, notamment la gestion d'un dossier permanent de système de pharmacovigilance, conformément à l'article 77 du même règlement ;
 
-13° L'obligation, pour le titulaire d'une autorisation de mise sur le marché, de produire, à la demande de l'Agence nationale de la sécurité sanitaire de l'alimentation, de l'environnement et du travail, une copie des dossiers permanents de système de pharmacovigilance, conformément au paragraphe 6 de l'article 79 du même règlement ;
+13° L'obligation, pour le titulaire d'une autorisation de mise sur le marché ou de l'enregistrement, de produire, à la demande de l'Agence nationale de la sécurité sanitaire de l'alimentation, de l'environnement et du travail, une copie des dossiers permanents de système de pharmacovigilance, conformément au paragraphe 6 de l'article 79 du même règlement ;
 
-14° L'obligation, pour le titulaire d'une autorisation de mise sur le marché, de mener à bien le processus de gestion des signaux et de consigner les résultats de ce processus conformément aux paragraphes 1 et 2 de l'article 81 du même règlement ;
+14° L'obligation, pour le titulaire d'une autorisation de mise sur le marché ou de l'enregistrement, de mener à bien le processus de gestion des signaux et de consigner les résultats de ce processus conformément aux paragraphes 1 et 2 de l'article 81 du même règlement ;
 
 15° L'obligation, pour le titulaire d'une autorisation de mise sur le marché, d'introduire toute demande de modification des termes de l'autorisation de mise sur le marché à la demande de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, conformément au paragraphe 4 de l'article 129 et à l'article 130 du même règlement ;
 
@@ -40,7 +40,7 @@ Le directeur général de l'Agence nationale de la sécurité sanitaire de l'ali
 
 19° L'obligation de transmettre à l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail les informations mentionnées à l'article L. 5141-14-1 concernant la cession et la distribution en gros et au détail des médicaments contenant une ou plusieurs substances antimicrobiennes ;
 
-20° L'obligation de se conformer aux décisions du directeur de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail prises en application des articles L. 5145-2-1 et L. 5145-2-2 ;
+20° L'obligation de se conformer aux décisions du directeur de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail prises en application des articles L. 5145-2-1, L. 5145-2-2 et L. 5145-3 ;
 
 Le montant de la sanction financière est fixé en fonction de la gravité des faits et de la situation financière de l'entreprise dans la limite de 50 000 euros et celui de l'astreinte journalière dans la limite de 2 500 euros. Le montant de la sanction financière est doublé en cas de réitération des pratiques sanctionnées.
 

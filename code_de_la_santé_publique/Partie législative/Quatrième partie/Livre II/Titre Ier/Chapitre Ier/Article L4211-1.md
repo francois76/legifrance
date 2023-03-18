@@ -14,7 +14,7 @@ Sont réservées aux pharmaciens, sauf les dérogations prévues aux articles du
 
 6° La vente au détail et toute dispensation au public des huiles essentielles dont la liste est fixée par décret ainsi que de leurs dilutions et préparations ne constituant ni des produits cosmétiques, ni des produits à usage ménager, ni des denrées ou boissons alimentaires ;
 
-7° La vente au détail et toute dispensation au public des aliments lactés diététiques pour nourrissons et des aliments de régime destinés aux enfants du premier âge, c'est-à-dire de moins de quatre mois, dont les caractéristiques sont fixées par arrêté des ministres chargés de la consommation et de la santé ;
+7° La vente au détail et la dispensation au public, d'une part, des préparations pour nourrissons ainsi que des denrées alimentaires destinées à des fins médicales spéciales, définies à l'article L. 5137-1, à destination des enfants de moins de six mois et dont les caractéristiques sont fixées par arrêté des ministres chargés de la consommation et de la santé et, d'autre part, des denrées alimentaires destinées à des fins médicales spéciales mentionnées au deuxième alinéa de l'article L. 5137-3 ;
 
 8° La vente au détail et toute dispensation de dispositifs médicaux de diagnostic in vitro et leurs accessoires destinés à être utilisés par le public, à l'exception des tests destinés au diagnostic de la grossesse ainsi que des tests d'ovulation.
 

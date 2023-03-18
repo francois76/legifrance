@@ -14,5 +14,5 @@ Dans ce cadre, les Conseils nationaux professionnels peuvent être sollicités p
 
 Ces missions sont remplies de manière autonome par les Conseils nationaux professionnels ainsi que, le cas échéant, en coopération avec d'autres Conseils nationaux professionnels ou une structure fédérative.
 
-Ces missions sont assurées dans le respect des principes mentionnés à l'article D. 4021-3-4.
+Ces missions sont assurées dans le respect des principes mentionnés à l'article D. 4021-4-3.
 

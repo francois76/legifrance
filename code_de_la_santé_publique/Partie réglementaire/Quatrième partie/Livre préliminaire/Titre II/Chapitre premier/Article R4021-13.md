@@ -40,15 +40,13 @@ Des représentants des ministres chargés de l'enseignement supérieur, de la re
 
 En l'absence de conseils nationaux professionnels, les organisations syndicales représentatives de la profession ou de la spécialité concernée sont sollicitées pour proposer des professionnels répondant aux critères définis au deuxième alinéa.
 
-III.-Les commissions scientifiques indépendantes exercent, dans le cadre des dispositions de l'article R. 4021-23 relatives au contrôle des actions de développement professionnel continu, les missions suivantes :
+III.-Les commissions scientifiques indépendantes exercent, dans le cadre des dispositions de l'article R. 4021-25 relatives au contrôle des actions de développement professionnel continu, les missions suivantes :
 
 1° Elles sont chargées de l'évaluation scientifique et pédagogique des actions s'inscrivant dans le cadre des orientations pluriannuelles prioritaires définies à l'article L. 4021-2 ;
 
-2° Elles contribuent à la détermination par le Haut Conseil du développement professionnel continu des professions de santé des critères scientifiques et pédagogiques d'évaluation des actions de développement professionnel continu ;
+2° Elles élaborent les critères scientifiques et pédagogiques d'évaluation des actions de développement professionnel continu ;
 
-3° Avec le concours de l'Agence nationale du développement professionnel continu, elles préparent la mise en œuvre du plan de contrôle annuel défini par le Haut Conseil du développement professionnel continu des professions de santé et en assurent le suivi ;
+3° Elles préparent la mise en œuvre du plan de contrôle annuel défini par l'Agence nationale du développement professionnel continu et en assurent le suivi ;
 
-4° Elles informent le Haut Conseil du développement professionnel continu des professions de santé des difficultés rencontrées dans leur mission et sollicitent son avis en tant que de besoin ;
-
-5° Le cas échéant, elles contribuent aux travaux de groupes ou de commissions mises en place par le Haut Conseil du développement professionnel continu des professions de santé, dans les conditions définies par le règlement intérieur de cette instance.
+4° Le cas échéant, elles contribuent aux travaux de groupes ou de commissions mises en place par le Haut Conseil du développement professionnel continu des professions de santé, dans les conditions définies par le règlement intérieur de cette instance.
 

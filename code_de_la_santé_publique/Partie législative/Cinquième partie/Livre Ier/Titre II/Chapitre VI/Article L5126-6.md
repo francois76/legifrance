@@ -8,7 +8,7 @@ Sont réputés inscrits sur cette liste les médicaments qui ne sont pas classé
 
 Les conditions d'utilisation des médicaments et des dispositifs médicaux stériles sont arrêtées conjointement par les ministres chargés de la santé et de la sécurité sociale.
 
-2° Les pharmacies à usage intérieur sont autorisées à délivrer au public, au détail, les aliments diététiques destinés à des fins médicales spéciales mentionnés à l'article L. 5137-1 ;
+2° Pour des raisons de santé publique ou dans l'intérêt des patients, le ministre chargé de la santé fixe par arrêté la liste des denrées alimentaires destinées à des fins médicales spéciales, définies à l'article L. 5137-1, que les pharmacies à usage intérieur sont autorisées à délivrer ;
 
 3° Les pharmacies à usage intérieur peuvent délivrer à des professionnels de santé libéraux participant à un dispositif d'appui à la coordination ou à un dispositif spécifique régional mentionnés aux articles L. 6327-2 et L. 6327-6, des préparations magistrales, des préparations hospitalières ainsi que des spécialités pharmaceutiques reconstituées ;
 

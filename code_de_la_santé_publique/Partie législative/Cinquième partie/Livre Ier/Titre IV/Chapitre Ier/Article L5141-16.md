@@ -6,7 +6,7 @@ Sont déterminées, en tant que de besoin, par décret en Conseil d'Etat :
 
 2° Les procédures applicables aux demandes d'autorisation de mise sur le marché d'un médicament vétérinaire et à leurs modifications ainsi que les conditions dans lesquelles interviennent les décisions accordant, soumettant à des restrictions temporaires ou à des obligations spécifiques, suspendant ou retirant ces autorisations, prévues par le règlement (UE) 2019/6 du 11 décembre 2018 ;
 
-3° Les procédures applicables aux demandes d'enregistrement de médicaments vétérinaires mentionnés à l'article L. 5141-5-1 ainsi que les conditions dans lesquelles interviennent, postérieurement à la mise sur le marché, les décisions soumettant ces médicaments à des obligations spécifiques, ainsi que celles suspendant ou supprimant leur enregistrement conformément à l'article 103 du règlement (UE) du 11 décembre 2018 ;
+3° Les procédures applicables aux demandes d'enregistrement de médicaments vétérinaires mentionnés à l'article L. 5141-5-1 ainsi que les conditions dans lesquelles interviennent, postérieurement à la mise sur le marché, les décisions soumettant ces médicaments à des obligations spécifiques, ainsi que celles suspendant ou supprimant leur enregistrement ;
 
 4° Les modalités d'application de l'article L. 5141-14-5 ;
 
@@ -30,7 +30,7 @@ Sont déterminées, en tant que de besoin, par décret en Conseil d'Etat :
 
 14° Les règles de procédure applicables aux recours ouverts contre les décisions prises en application du présent titre ;
 
-15° Les conditions d'application de l'article L. 5141-5-1 ;
+15° (Abrogé) ;
 
 16° (Abrogé) ;
 

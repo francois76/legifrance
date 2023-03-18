@@ -6,6 +6,8 @@ Les articles L. 5132-6 et L. 5132-7 sont applicables à Wallis-et-Futuna dans le
 
 L'article L. 5134-1 est applicable à Wallis-et-Futuna dans sa rédaction résultant de la loi n° 2016-41 du 26 janvier 2016.
 
+Les articles L. 5137-1 à L. 5137-3 sont applicables à Wallis-et-Futuna dans leur rédaction résultant de la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture.
+
 II. – Pour leur application à Wallis-et-Futuna :
 
 1° A l'article L. 5131-7, au premier alinéa, les mots : " aux centres antipoison mentionnés à l'article L. 6141-4 " sont remplacés par les mots : " au centre antipoison mentionné à l'article L. 6431-3 " ;
@@ -16,7 +18,11 @@ a) Au I, les mots : " dans les pharmacies " sont remplacés par les mots : " à 
 
 b) Au II, les mots : " et uniquement en pharmacie ou dans les centres de planification ou d'éducation familiale mentionnés à l'article L. 2311-4 " sont remplacés par les mots : " à l'agence de santé " et les mots : " soit au lieu d'exercice du praticien, soit dans un établissement de santé ou dans un centre de soins agréé. " sont remplacés par les mots : " à l'agence de santé " ;
 
-3° Au 2° de l'article L. 5134-3, les mots : “ en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy et à Saint-Martin ” sont remplacés par les mots : “ à Wallis-et-Futuna ”.
+3° Au 2° de l'article L. 5134-3, les mots : “ en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy et à Saint-Martin ” sont remplacés par les mots : “ à Wallis-et-Futuna ” ;
+
+3° bis A A la fin du second alinéa de l'article L. 5137-1, les mots : “ les pharmacies à usage intérieur des établissements de santé, des hôpitaux des armées ou de l'Institution nationale des invalides, les pharmacies d'officine ou, dans des conditions garantissant l'effectivité du contrôle médical, par des établissements, des services, ou des prestataires dont la liste est arrêtée par le ministre chargé de la santé ” sont remplacés par les mots : “ la pharmacie de l'agence de santé ” ;
+
+3° bis B A la fin du troisième alinéa de l'article L. 5137-3, les mots : “ aux pharmacies à usage intérieur ” sont remplacés par les mots : “ à la pharmacie de l'agence de santé ” ;
 
 3° bis Les articles L. 513-11-1 à L. 513-11-5 sont applicables dans leur rédaction résultant de la loi n° 2021-1017 du 2 août 2021.
 

@@ -2,9 +2,9 @@
 
 I.-L'organisme ou la structure enregistré en application de l'article R. 4021-24 peut proposer des actions de développement professionnel continu, présentées sous forme dématérialisée conformément au modèle défini par un arrêté du ministre chargé de la santé.
 
-Ces actions sont évaluées par les commissions scientifiques indépendantes, conformément aux critères scientifiques et pédagogiques fixés par le Haut Conseil du développement professionnel continu des professions de santé, sous la responsabilité de l'Agence nationale du développement professionnel continu.
+Ces actions sont évaluées par les commissions scientifiques indépendantes, sous la responsabilité de l'Agence nationale du développement professionnel continu.
 
-Dans le cadre du plan national annuel de contrôle défini par le Haut Conseil du développement professionnel continu des professions de santé, des vérifications sont effectuées pour s'assurer que les actions mises en œuvre par les organismes ou structures et éligibles au financement de l'agence sont conformes aux critères de qualité retenus par le haut conseil.
+Dans le cadre du plan national annuel de contrôle, des vérifications sont effectuées pour s'assurer que les actions mises en œuvre par les organismes ou structures et éligibles au financement de l'agence sont conformes aux critères de qualité.
 
 II.-Lorsque l'évaluation ou le contrôle défini au I est négatif, l'organisme ou la structure est informé, par tout moyen permettant d'apporter la preuve de sa réception, des manquements constatés lors de ces différents contrôles et des sanctions éventuelles encourues. Il dispose d'un délai de quinze jours francs pour faire valoir ses observations.
 

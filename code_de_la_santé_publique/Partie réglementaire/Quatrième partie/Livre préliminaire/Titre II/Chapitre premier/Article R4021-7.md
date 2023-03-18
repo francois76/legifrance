@@ -18,5 +18,7 @@ c) Evaluer l'impact du développement professionnel continu sur l'amélioration 
 
 5° Promouvoir le dispositif de développement professionnel continu et informer les organismes et structures susceptibles de proposer des actions de développement professionnel continu, les professionnels de santé salariés et non salariés et les employeurs ;
 
-6° Assurer la participation des universités au dispositif, conformément aux dispositions de l'article L. 4021-4.
+6° Assurer la participation des universités au dispositif, conformément aux dispositions de l'article L. 4021-4 ;
+
+7° Etablir et mettre en œuvre, conformément aux dispositions du 3° bis de l'article L. 4021-7, un plan national annuel de contrôle du dispositif de développement professionnel continu proposé par le directeur général de l'agence et validé par l'assemblée générale des membres fondateurs du groupement d'intérêt public.
 

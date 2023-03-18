@@ -1,6 +1,6 @@
 ###### Article L6152-1
 
-Le personnel des établissements publics de santé comprend, outre les agents relevant de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière , les personnels enseignants et hospitaliers mentionnés à l'article L. 952-21 du code de l'éducation et les personnels mentionnés à l'article L. 6147-9 qui y exercent :
+Le personnel des établissements publics de santé comprend, outre les agents hospitaliers au sens du 6° de l'article L. 7 du code général de la fonction publique, les personnels enseignants et hospitaliers mentionnés à l'article L. 952-21 du code de l'éducation et les personnels mentionnés à l'article L. 6147-9 qui y exercent :
 
 1° Des médecins, des odontologistes et des pharmaciens dont le statut, qui peut prévoir des dispositions spécifiques selon que ces praticiens consacrent tout ou partie de leur activité à ces établissements, est établi par voie réglementaire ;
 

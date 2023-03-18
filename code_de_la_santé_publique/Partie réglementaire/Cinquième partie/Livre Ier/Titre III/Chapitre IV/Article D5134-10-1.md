@@ -1,6 +1,6 @@
 ###### Article D5134-10-1
 
-Les services universitaires et interuniversitaires de médecine préventive et de promotion de la santé délivrent aux étudiantes des médicaments indiqués dans la contraception d'urgence dans les conditions suivantes :
+Les services universitaires et interuniversitaires de santé étudiante délivrent aux étudiantes des médicaments indiqués dans la contraception d'urgence dans les conditions suivantes :
 
 1° Les médicaments sont délivrés et administrés à titre gratuit aux étudiantes ;
 
