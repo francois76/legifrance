@@ -3051,7 +3051,7 @@ L'autorisation peut être refusée ou assortie de prescriptions lorsque les trav
 
 ##### Article L632-2
 
-I. – L'autorisation prévue à l'article L. 632-1 est, sous réserve de l'article L. 632-2-1, subordonnée à l'accord de l'architecte des Bâtiments de France, le cas échéant assorti de prescriptions motivées. A ce titre, ce dernier s'assure du respect de l'intérêt public attaché au patrimoine, à l'architecture, au paysage naturel ou urbain, à la qualité des constructions et à leur insertion harmonieuse dans le milieu environnant. Il s'assure, le cas échéant, du respect des règles du plan de sauvegarde et de mise en valeur ou du plan de valorisation de l'architecture et du patrimoine. Tout avis défavorable de l'architecte des Bâtiments de France rendu dans le cadre de la procédure prévue au présent alinéa comporte une mention informative sur les possibilités de recours à son encontre et sur les modalités de ce recours.
+I. – L'autorisation prévue à l'article L. 632-1 est, sous réserve de l'article L. 632-2-1, subordonnée à l'accord de l'architecte des Bâtiments de France, le cas échéant assorti de prescriptions motivées. A ce titre, ce dernier s'assure du respect de l'intérêt public attaché au patrimoine, à l'architecture, au paysage naturel ou urbain, à la qualité des constructions et à leur insertion harmonieuse dans le milieu environnant. Il s'assure, le cas échéant, du respect des règles du plan de sauvegarde et de mise en valeur ou du plan de valorisation de l'architecture et du patrimoine. Il tient compte des objectifs nationaux de développement de l'exploitation des énergies renouvelables et de rénovation énergétique des bâtiments définis à l'article L. 100-4 du code de l'énergie. Tout avis défavorable de l'architecte des Bâtiments de France rendu dans le cadre de la procédure prévue au présent alinéa comporte une mention informative sur les possibilités de recours à son encontre et sur les modalités de ce recours.
 
 Le permis de construire, le permis de démolir, le permis d'aménager, l'absence d'opposition à déclaration préalable, l'autorisation environnementale prévue à l'article L. 181-1 du code de l'environnement ou l'autorisation prévue au titre des sites classés en application de l'article L. 341-10 du même code tient lieu de l'autorisation prévue à l'article L. 632-1 du présent code si l'architecte des Bâtiments de France a donné son accord, dans les conditions prévues au premier alinéa du présent I.
 
@@ -9066,7 +9066,7 @@ En cas de retrait de l'attribution du diagnostic ou de l'autorisation de fouille
 
 ###### Article R524-3
 
-Lorsque la redevance est afférente à une opération autre que celles visées à l'alinéa a de l'article L. 524-4 faisant l'objet d'une réalisation par tranches de travaux, un titre de recettes et un avis d'imposition sont émis au début de chacune des tranches prévues dans l'autorisation administrative.
+Lorsque la redevance est afférente aux opérations mentionnées aux b et c de l'article L. 524-4 faisant l'objet d'une réalisation par tranches de travaux, un titre de recettes et un avis d'imposition sont émis au début de chacune des tranches prévues dans l'autorisation administrative.
 
 La redevance est perçue pour chaque tranche.
 
@@ -9076,27 +9076,23 @@ Lorsqu'elle dépose un dossier de demande d'autorisation auprès de l'autorité 
 
 ###### Article R524-5
 
-Les réclamations relatives à l'assiette de la redevance sont instruites par le service liquidateur conformément au titre III du livre des procédures fiscales. Le service liquidateur adresse une copie des demandes de décharge ou de dégrèvement au préfet de région.
+Les réclamations relatives à l'assiette de la redevance sont instruites par le service liquidateur conformément au titre III du livre des procédures fiscales.
 
 ###### Article R524-6
 
-Les décisions de dégrèvement et de décharge sont transmises au trésorier-payeur général. Elles mentionnent les références du titre de recettes initial.
+Les décisions de dégrèvement et de décharge sont transmises au comptable public compétent. Elles mentionnent les références du titre de recettes initial.
 
 ###### Article R524-7
 
-Le comptable du Trésor impute le montant du dégrèvement ou de la décharge sur le montant du titre initialement pris en charge.
+Le comptable public compétent impute le montant du dégrèvement ou de la décharge sur le montant du titre initialement pris en charge.
 
 ###### Article R524-8
 
-Le ministre chargé du budget désigne le comptable du Trésor compétent au titre de l'article L. 524-8.
-
-###### Article R524-9
-
-La majoration prévue à l'article 1761 du code général des impôts ainsi que les frais de poursuites sont versés à l'Etat.
+Le ministre chargé du budget désigne le comptable public compétent au titre de l'article L. 524-8.
 
 ###### Article R524-10
 
-La fixation du taux de la redevance, tel que prévu par l'article L. 524-7, est opérée, par arrêté du ministre chargé de la culture, au 1er janvier de chaque année en prenant en compte le dernier indice du coût de la construction publié par l'Institut national de la statistique et des études économiques intitulé " moyenne associée ". Le taux actualisé appliqué comporte deux décimales après la virgule. La valeur est arrondie au centième d'euro le plus proche, la fraction égale à 0,005 étant comptée pour 0,01.
+La fixation du montant de la redevance, tel que prévu par le II de l'article L. 524-7, est opérée, par arrêté du ministre chargé de la culture, au 1er janvier de chaque année en prenant en compte le dernier indice du coût de la construction publié par l'Institut national de la statistique et des études économiques intitulé " moyenne associée ". Le montant actualisé appliqué comporte deux décimales après la virgule. La valeur est arrondie au centième d'euro le plus proche, la fraction égale à 0,005 étant comptée pour 0,01.
 
 ###### Article R524-11
 
@@ -9104,7 +9100,7 @@ La demande de rescrit prévue à l'article L. 524-7-1 précise le nom ou la rais
 
 La demande est adressée par tout moyen conférant date certaine à la réception :
 
-1° Au service de l'Etat compétent mentionné à l' article R. 331-9 du code de l'urbanisme lorsque les travaux projetés relèvent du a de l'article L. 524-2 ;
+1° (Abrogé) ;
 
 2° Au service de l'Etat chargé des affaires culturelles dans la région, lorsque les travaux projetés relèvent du b ou du c de l'article L. 524-2 et sont situés dans le domaine terrestre et dans les eaux intérieures ne relevant pas du domaine public maritime ;
 
@@ -9113,8 +9109,6 @@ La demande est adressée par tout moyen conférant date certaine à la réceptio
 En cas de demande incomplète, le service invite le demandeur, dans les mêmes formes que la demande, à fournir les éléments complémentaires nécessaires.
 
 Le délai de trois mois prévu à l'article L. 524-7-1 court à compter de la date de réception de la demande par le service compétent ou de la réception des éléments complémentaires demandés.
-
-Lorsque les travaux projetés relèvent du a de l'article L. 524-2, la décision sur la demande de rescrit est prise par les agents des services mentionnés à l' article R. 331-9 du code de l'urbanisme . Elle est jointe par le demandeur au dossier de demande de permis de construire, de permis d'aménager ou de déclaration préalable.
 
 ##### Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive
 
