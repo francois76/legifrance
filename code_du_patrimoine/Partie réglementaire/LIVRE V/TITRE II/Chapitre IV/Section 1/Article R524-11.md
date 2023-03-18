@@ -4,7 +4,7 @@ La demande de rescrit prévue à l'article L. 524-7-1 précise le nom ou la rais
 
 La demande est adressée par tout moyen conférant date certaine à la réception :
 
-1° Au service de l'Etat compétent mentionné à l' article R. 331-9 du code de l'urbanisme lorsque les travaux projetés relèvent du a de l'article L. 524-2 ;
+1° (Abrogé) ;
 
 2° Au service de l'Etat chargé des affaires culturelles dans la région, lorsque les travaux projetés relèvent du b ou du c de l'article L. 524-2 et sont situés dans le domaine terrestre et dans les eaux intérieures ne relevant pas du domaine public maritime ;
 
@@ -13,6 +13,4 @@ La demande est adressée par tout moyen conférant date certaine à la réceptio
 En cas de demande incomplète, le service invite le demandeur, dans les mêmes formes que la demande, à fournir les éléments complémentaires nécessaires.
 
 Le délai de trois mois prévu à l'article L. 524-7-1 court à compter de la date de réception de la demande par le service compétent ou de la réception des éléments complémentaires demandés.
-
-Lorsque les travaux projetés relèvent du a de l'article L. 524-2, la décision sur la demande de rescrit est prise par les agents des services mentionnés à l' article R. 331-9 du code de l'urbanisme . Elle est jointe par le demandeur au dossier de demande de permis de construire, de permis d'aménager ou de déclaration préalable.
 
