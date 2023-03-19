@@ -14,7 +14,7 @@ Chaque loi prévue au premier alinéa du présent I précise :
 
 2° Les objectifs de réduction de la consommation énergétique finale et notamment les objectifs de réduction de la consommation énergétique primaire fossile, par énergie fossile, pour deux périodes successives de cinq ans, ainsi que les niveaux minimal et maximal des obligations d'économies d'énergie prévues à l'article L. 221-1 du présent code, pour une période de cinq ans ;
 
-3° Les objectifs de développement des énergies renouvelables pour l'électricité, la chaleur, le carburant, le gaz ainsi que l'hydrogène renouvelable et bas-carbone, pour deux périodes successives de cinq ans. Pour l'électricité d'origine hydraulique, les objectifs de développement portent sur l'évolution des capacités de production des installations hydrauliques, autorisées et concédées en application de l'article L. 511-5, ainsi que des stations de transfert d'électricité par pompage ;
+3° Les objectifs de développement et de stockage des énergies renouvelables pour l'électricité, la chaleur, le carburant, le gaz ainsi que l'hydrogène renouvelable et bas-carbone, pour deux périodes successives de cinq ans. Pour l'électricité d'origine hydraulique, les objectifs de développement et de stockage portent sur l'évolution des capacités de production des installations hydrauliques, autorisées et concédées en application de l'article L. 511-5, ainsi que des stations de transfert d'électricité par pompage ;
 
 4° Les objectifs de diversification du mix de production d'électricité, pour deux périodes successives de cinq ans ;
 
@@ -96,11 +96,13 @@ I.-Pour répondre à l'urgence écologique et climatique, la politique énergét
 
 3° De réduire la consommation énergétique primaire des énergies fossiles de 40 % en 2030 par rapport à l'année de référence 2012, en modulant cet objectif par énergie fossile en fonction du facteur d'émissions de gaz à effet de serre de chacune. Dans cette perspective, il est mis fin en priorité à l'usage des énergies fossiles les plus émettrices de gaz à effet de serre ;
 
-4° De porter la part des énergies renouvelables à 23 % de la consommation finale brute d'énergie en 2020 et à 33 % au moins de cette consommation en 2030 ; à cette date, pour parvenir à cet objectif, les énergies renouvelables doivent représenter au moins 40 % de la production d'électricité, 38 % de la consommation finale de chaleur, 15 % de la consommation finale de carburant et 10 % de la consommation de gaz ;
+4° De porter la part des énergies renouvelables à 23 % de la consommation finale brute d'énergie en 2020 et à 33 % au moins de cette consommation en 2030 ; à cette date, pour parvenir à cet objectif, les énergies renouvelables doivent représenter au moins 40 % de la production d'électricité, 38 % de la consommation finale de chaleur, 15 % de la consommation finale de carburant et 10 % de la consommation de gaz. Pour l'application du présent 4°, la consommation de gaz comprend celle de gaz renouvelable, dont le biogaz, au sens de l'article L. 445-1, et de gaz bas-carbone, au sens de l'article L. 447-1 ;
 
 4° bis D'encourager la production d'énergie hydraulique, notamment la petite hydroélectricité, en veillant à maintenir la souveraineté énergétique, à garantir la sûreté des installations hydrauliques et à favoriser le stockage de l'électricité ;
 
 4° ter De favoriser la production d'électricité issue d'installations utilisant l'énergie mécanique du vent implantées en mer, avec pour objectif de porter progressivement le rythme d'attribution des capacités installées de production à l'issue de procédures de mise en concurrence à au moins 1 gigawatt par an d'ici à 2024 ;
+
+4° quater D'encourager la production d'électricité issue d'installations agrivoltaïques, au sens de l'article L. 314-36, en conciliant cette production avec l'activité agricole, en gardant la priorité donnée à la production alimentaire et en s'assurant de l'absence d'effets négatifs sur le foncier et les prix agricoles ;
 
 5° De réduire la part du nucléaire dans la production d'électricité à 50 % à l'horizon 2035 ;
 
@@ -108,7 +110,7 @@ I.-Pour répondre à l'urgence écologique et climatique, la politique énergét
 
 7° De disposer d'un parc immobilier dont l'ensemble des bâtiments sont rénovés en fonction des normes " bâtiment basse consommation " ou assimilées, à l'horizon 2050, en menant une politique de rénovation thermique des logements concernant majoritairement les ménages aux revenus modestes ;
 
-8° De parvenir à l'autonomie énergétique dans les départements d'outre-mer à l'horizon 2030, avec, comme objectif intermédiaire, 50 % d'énergies renouvelables à l'horizon 2020 ;
+8° De parvenir à l'autonomie énergétique et à un mix de production d'électricité composé à 100 % d'énergies renouvelables dans les collectivités régies par l'article 73 de la Constitution à l'horizon 2030 ;
 
 9° De multiplier par cinq la quantité de chaleur et de froid renouvelables et de récupération livrée par les réseaux de chaleur et de froid à l'horizon 2030.
 
@@ -920,6 +922,14 @@ Dans le cas où les gestionnaires des réseaux publics concernés et les utilisa
 
 Ces contrats et ces protocoles sont transmis, à sa demande, à la Commission de régulation de l'énergie.
 
+III.― Les gestionnaires des réseaux publics de transport et de distribution élaborent des modèles de contrat ou de protocole d'accès au réseau dont les stipulations contractuelles permettent un accès transparent et non discriminatoire à ce réseau aux producteurs, aux stockeurs d'électricité et aux exploitants d'interconnexion avec les réseaux des autres pays européens ou consommateurs, qu'ils soumettent, pour approbation, à la Commission de régulation de l'énergie et, pour information, au ministre chargé de l'énergie.
+
+Ces modèles sont révisés à l'initiative du gestionnaire de réseau concerné ou à la demande de la Commission de régulation de l'énergie.
+
+Les modèles de contrat d'accès au réseau approuvés par la Commission de régulation de l'énergie en application du présent III se substituent aux contrats en cours d'exécution dans des conditions définies par la commission.
+
+Pour l'application du présent III, pour les gestionnaires d'un réseau public de distribution desservant au moins 100 000 clients et le gestionnaire de réseau de transport, le silence gardé pendant trois mois par la Commission de régulation de l'énergie vaut décision de rejet du modèle. Pour les gestionnaires d'un réseau public de distribution desservant moins de 100 000 clients, le silence gardé pendant trois mois par la Commission de régulation de l'énergie vaut décision d'acceptation.
+
 ####### Article L111-92
 
 Les gestionnaires des réseaux publics de distribution concluent, avec toute entreprise qui le souhaite, vendant de l'électricité à des clients ayant exercé leur droit de choisir leur fournisseur, un contrat ou, si cette entreprise et le gestionnaire ne sont pas des personnes morales distinctes, un protocole relatif à l'accès aux réseaux pour l'exécution des contrats de fourniture conclus par cette entreprise avec des consommateurs finals ayant exercé leur droit de choisir leur fournisseur.
@@ -960,7 +970,7 @@ L'autorité administrative peut prononcer dans les conditions définies aux arti
 
 ####### Article L111-97
 
-Sous réserve de préserver le bon fonctionnement et le niveau de sécurité des infrastructures de gaz naturel, un droit d'accès aux ouvrages de transport et de distribution de gaz naturel ainsi qu'aux installations de gaz naturel liquéfié, y compris les installations fournissant des services auxiliaires, est garanti par les opérateurs qui les exploitent aux clients, aux producteurs de gaz renouvelables, d'hydrogène bas-carbone et de gaz de récupération ainsi qu'aux fournisseurs et à leurs mandataires, dans des conditions définies par contrat.
+Sous réserve de préserver le bon fonctionnement et le niveau de sécurité des infrastructures de gaz naturel, un droit d'accès aux ouvrages de transport et de distribution de gaz naturel ainsi qu'aux installations de gaz naturel liquéfié, y compris les installations fournissant des services auxiliaires, est garanti par les opérateurs qui les exploitent aux clients, aux producteurs de gaz renouvelables, de gaz bas-carbone, d'hydrogène bas-carbone et de gaz de récupération ainsi qu'aux fournisseurs et à leurs mandataires, dans des conditions définies par contrat.
 
 Lorsque l'opérateur et l'utilisateur ne sont pas des personnes morales distinctes, des protocoles règlent leurs relations. Ces contrats et ces protocoles sont transmis, à sa demande, à la Commission de régulation de l'énergie.
 
@@ -1166,6 +1176,8 @@ Un décret en Conseil d'Etat pris après avis de la Commission de régulation de
 
 6° Les coûts supportés par l'organisme mentionné à l'article L. 314-14 résultant des frais de gestion et d'inscription au registre national des garanties d'origine pour la mise aux enchères prévue à l'article L. 314-14-1.
 
+7° Les montants liés à la dotation initiale du fonds de garantie prévu à l'article L. 311-10-4.
+
 ######## Article L121-8
 
 En matière de fourniture d'électricité, les charges imputables aux missions de service public comprennent :
@@ -1332,13 +1344,15 @@ Les charges mentionnées à l'article L. 121-35 comprennent :
 
 1° les pertes de recettes dues aux réductions sur les services liés à la fourniture de gaz, définies par décret, accordées aux consommateurs d'énergie qui bénéficient du dispositif d'aide prévus à l'article L. 124-1 ;
 
-2° Les coûts supportés par les fournisseurs de gaz naturel en raison de la mise en œuvre du dispositif institué en faveur des personnes en situation de précarité mentionné à l'article L. 124-5, dans la limite d'un montant unitaire maximal par ménage fixé par un arrêté du ministre chargé de l'énergie.
+2° Les coûts supportés par les fournisseurs de gaz naturel en raison de la mise en œuvre du dispositif institué en faveur des personnes en situation de précarité mentionné à l'article L. 124-5, dans la limite d'un montant unitaire maximal par ménage fixé par un arrêté du ministre chargé de l'énergie ;
 
-3° Les coûts supportés par les fournisseurs de gaz naturel au titre de l'obligation d'achat de biogaz. Ces coûts correspondent au surcoût de l'achat du biogaz par rapport au coût d'approvisionnement en gaz naturel, ainsi qu'aux coûts de gestion supplémentaires directement induits par la mise en œuvre de l'obligation d'achat de biogaz.
+3° Les coûts supportés par les fournisseurs de gaz naturel au titre de l'obligation d'achat de biogaz. Ces coûts correspondent au surcoût de l'achat du biogaz par rapport au coût d'approvisionnement en gaz naturel, ainsi qu'aux coûts de gestion supplémentaires directement induits par la mise en œuvre de l'obligation d'achat de biogaz ;
 
-4° Les coûts supportés par les fournisseurs de gaz naturel au titre du contrat d'expérimentation mentionné à la section 7 du chapitre VI du titre IV du livre IV. Ces coûts correspondent au surcoût de l'achat du biogaz par rapport au coût d'approvisionnement en gaz naturel, ainsi qu'aux coûts de gestion supplémentaires directement induits par la mise en œuvre du contrat d'expérimentation.
+4° Les coûts supportés par les fournisseurs de gaz naturel au titre du contrat d'expérimentation mentionné à la section 7 du chapitre VI du titre IV du livre IV. Ces coûts correspondent au surcoût de l'achat du biogaz par rapport au coût d'approvisionnement en gaz naturel, ainsi qu'aux coûts de gestion supplémentaires directement induits par la mise en œuvre du contrat d'expérimentation ;
 
-5° Les coûts associés à la mise en œuvre du complément de rémunération prévu à l'article L. 446-7, y compris les coûts directement induits par la gestion de ce dispositif dans la limite des coûts qu'une entreprise moyenne, bien gérée et adéquatement équipée des moyens nécessaires, aurait supportés.
+5° Les coûts associés à la mise en œuvre du complément de rémunération prévu à l'article L. 446-7, y compris les coûts directement induits par la gestion de ce dispositif dans la limite des coûts qu'une entreprise moyenne, bien gérée et adéquatement équipée des moyens nécessaires, aurait supportés ;
+
+6° Les coûts supportés par les fournisseurs de gaz naturel au titre du contrat d'expérimentation mentionné à la section 3 du chapitre VII du titre IV du livre IV. Ces coûts correspondent au surcoût de l'achat du gaz bas-carbone ou du gaz renouvelable par rapport au coût d'approvisionnement en gaz naturel ainsi qu'aux coûts de gestion supplémentaires directement induits par la mise en œuvre du contrat d'expérimentation.
 
 ####### Article L121-37
 
@@ -1592,6 +1606,8 @@ Elle contribue à garantir l'effectivité des mesures de protection des consomma
 
 La Commission de régulation de l'énergie surveille, pour l'électricité et pour le gaz naturel, les transactions effectuées entre fournisseurs, négociants et producteurs, les transactions effectuées sur les marchés organisés ainsi que les échanges aux frontières.
 
+La Commission de régulation de l'énergie surveille les transactions effectuées par les producteurs d'électricité renouvelable ou de biogaz, de gaz renouvelable ou de gaz bas-carbone et les consommateurs finals, les gestionnaires de réseaux ou les fournisseurs en application d'un contrat mentionné au 2° du I de l'article L. 333-1 ou au deuxième alinéa de l'article L. 443-1, lorsque ce contrat est mis en œuvre dans le cadre d'une procédure de mise en concurrence, d'un appel d'offres ou d'un appel à projets prévus aux articles L. 311-12, L. 446-5, L. 446-14 ou L. 446-15.
+
 Sans préjudice des dispositions des articles L. 321-6 et 431-6 (1), la Commission de régulation de l'énergie surveille les plans d'investissement des gestionnaires de réseaux de transport mentionnés aux paragraphes 3 et 4 de la sous-section 1 de la section 2 du chapitre Ier du titre Ier du présent livre. Son rapport annuel comporte l'évaluation de leurs plans d'investissements, notamment au regard des besoins en matière d'investissement et de leur cohérence avec le plan européen élaboré par le Réseau européen des gestionnaires de réseau de transport institué, pour l'électricité, par le règlement (UE) 2019/943 du Parlement européen et du Conseil du 5 juin 2019 sur le marché intérieur de l'électricité et, pour le gaz, par le règlement (CE) n° 715/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les conditions d'accès aux réseaux de transport de gaz naturel. Cette évaluation peut comprendre des recommandations en vue de modifier ces plans d'investissements.
 
 Elle surveille la cohérence des offres, y compris de garanties de capacités et de certificats de production de biogaz, faites par les producteurs, négociants et fournisseurs, notamment vers les consommateurs finals, avec leurs contraintes économiques et techniques, le cas échéant leurs conditions d'approvisionnement par l'accès régulé à l'électricité nucléaire historique mentionné à l'article L. 336-1. Elle surveille la mise en œuvre des contrats à tarification dynamique prévus à l'article L. 332-7 et leur impact sur les factures des consommateurs. En particulier, elle surveille l'impact et l'évolution des contrats d'électricité à tarification dynamique, et évalue les risques que ces offres pourraient entraîner. Elle veille à ce que ce type d'offres n'entraînent pas de pratiques abusives. Elle peut formuler des avis et proposer toute mesure favorisant le bon fonctionnement et la transparence, notamment en matière de prix, du marché de détail.
@@ -1599,6 +1615,10 @@ Elle surveille la cohérence des offres, y compris de garanties de capacités et
 La Commission de régulation de l'énergie garantit le respect des articles 3, 4, 5, 8, 9 et 15 du règlement (UE) n° 1227/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de l'énergie.
 
 Elle garantit également le respect des interdictions et des obligations prévues aux articles 3, 4 et 5 de ce même règlement dans le cadre du mécanisme d'obligation de capacité mentionné à l'article L. 335-2.
+
+##### Article L131-2-1
+
+La Commission de régulation de l'énergie peut concourir au déploiement des installations de production d'hydrogène renouvelable ou bas-carbone, au sens de l'article L. 811-1.
 
 ##### Article L131-3
 
@@ -1770,7 +1790,9 @@ La commission approuve :
 
 6° Les modèles de contrats ou de protocoles d'accès aux réseaux de distribution d'électricité et de gaz naturel conclus entre les gestionnaires de réseaux publics de distribution et les fournisseurs, prévus aux articles L. 111-92-1 et L. 111-97-1 ;
 
-7° Les coûts liés aux activités des centres de coordination régionaux, dès lors qu'ils sont pris en charge par les gestionnaires de réseau de transport et pris en compte dans le calcul des tarifs, pour autant qu'ils soient raisonnables et appropriés.
+7° Les coûts liés aux activités des centres de coordination régionaux, dès lors qu'ils sont pris en charge par les gestionnaires de réseau de transport et pris en compte dans le calcul des tarifs, pour autant qu'ils soient raisonnables et appropriés ;
+
+8° Les modèles de contrats d'accès au réseau de transport et de distribution d'électricité conclus entre les gestionnaires de réseaux publics de transport et de distribution d'électricité et les producteurs, les stockeurs d'électricité et les exploitants d'interconnexion avec les réseaux des autres pays européens ou consommateurs du réseau, prévus au III de l'article L. 111-91.
 
 ###### Article L134-4
 
@@ -2132,11 +2154,11 @@ La programmation pluriannuelle de l'énergie, fixée par décret, définit les m
 
 La programmation pluriannuelle de l'énergie se fonde sur des scénarios de besoins énergétiques associés aux activités consommatrices d'énergie, reposant sur différentes hypothèses d'évolution de la démographie, de la situation économique, de la balance commerciale et d'efficacité énergétique. Elle contient des volets relatifs :
 
-1° A la sécurité d'approvisionnement. Ce volet définit les critères de sûreté du système énergétique, notamment le critère de défaillance mentionné à l'article L. 141-7 pour l'électricité. Il précise les mesures mises en œuvre pour garantir la sécurité d'approvisionnement en gaz naturel. Afin de renforcer cette sécurité d'approvisionnement en gaz naturel, il identifie les mesures de soutien nécessaires pour accélérer et développer les projets de production de biogaz et de toute autre forme de gaz renouvelable, en particulier ceux issus de la méthanisation agricole, en veillant à l'absence de conflit d'usages avec le foncier et les prix agricoles. Il peut aussi prévoir la mise en œuvre de dispositions spécifiques, comme la diversification des moyens de production ou des sources d'approvisionnement d'énergie, pour se prémunir des risques systémiques. Il précise également les besoins d'importation d'énergies fossiles, d'uranium et de biomasse et les échanges transfrontaliers d'électricité prévus dans le cadre de l'approvisionnement ;
+1° A la sécurité d'approvisionnement. Ce volet définit les critères de sûreté du système énergétique, notamment le critère de défaillance mentionné à l'article L. 141-7 pour l'électricité. Il précise les mesures mises en œuvre pour garantir la sécurité d'approvisionnement en gaz naturel. Afin de renforcer cette sécurité d'approvisionnement en gaz naturel, il identifie les mesures de soutien nécessaires pour accélérer et développer les projets de production de biogaz et de toute autre forme de gaz renouvelable ou bas-carbone, en particulier ceux issus de la méthanisation agricole, en veillant à l'absence de conflit d'usages avec le foncier et les prix agricoles. Il peut aussi prévoir la mise en œuvre de dispositions spécifiques, comme la diversification des moyens de production ou des sources d'approvisionnement d'énergie, pour se prémunir des risques systémiques. Il précise également les besoins d'importation d'énergies fossiles, d'uranium et de biomasse et les échanges transfrontaliers d'électricité prévus dans le cadre de l'approvisionnement ;
 
 2° A l'amélioration de l'efficacité énergétique et à la baisse de la consommation d'énergie primaire, en particulier fossile. Ce volet peut identifier des usages pour lesquels la substitution d'une énergie à une autre est une priorité et indique des priorités de baisse de la consommation d'énergie fossile par type d'énergie en fonction du facteur d'émission de gaz à effet de serre de chacune. Il identifie les usages pour lesquels l'amélioration de l'efficacité énergétique et la baisse de la consommation d'énergie primaire sont une priorité. Il contient une feuille de route de la rénovation énergétique des bâtiments, précisant les modalités de mise en œuvre de l'objectif de réduction de la consommation énergétique finale mentionné au 2° du I de l'article L. 100-4 pour les bâtiments à usage résidentiel ou tertiaire et de l'objectif de rénovation des bâtiments en fonction des normes “ bâtiment basse consommation ” ou assimilées mentionné au 7° du même I ;
 
-3° Au développement de l'exploitation des énergies renouvelables et de récupération. Ce volet quantifie les gisements d'énergies renouvelables valorisables par filière. Pour l'électricité d'origine hydraulique, ce volet précise les modalités de mise en œuvre, pour les installations hydrauliques autorisées et concédées en application de l'article L. 511-5, des objectifs mentionnés au 4° bis du I de l'article L. 100-4 et pris en application du 3° du I de l'article L. 100-1 A. Il évalue, à titre indicatif, les capacités de production, existantes et potentielles, nationales et par région, sur sites vierges ou existants, de ces installations, en fonction de leur puissance maximale brute ;
+3° Au développement de l'exploitation des énergies renouvelables et de récupération. Ce volet quantifie les gisements d'énergies renouvelables valorisables par filière. Pour l'électricité d'origine hydraulique, ce volet précise les modalités de mise en œuvre, pour les installations hydrauliques autorisées et concédées en application de l'article L. 511-5, des objectifs mentionnés au 4° bis du I de l'article L. 100-4 et pris en application du 3° du I de l'article L. 100-1 A. Il évalue, à titre indicatif, les capacités de production, existantes et potentielles, nationales et par région, sur sites vierges ou existants, de ces installations, en fonction de leur puissance maximale brute. Ce volet comporte une évaluation du potentiel des installations agrivoltaïques définies à l'article L. 314-36 ainsi que de la production d'hydrogène renouvelable ou bas-carbone, au sens de l'article L. 811-1 ;
 
 4° Au développement équilibré des réseaux, du stockage et de la transformation des énergies et du pilotage de la demande d'énergie pour favoriser notamment la production locale d'énergie, le développement des réseaux intelligents et l'autoproduction. Ce volet identifie notamment les interactions entre les réseaux d'électricité, de gaz et de chaleur aux différentes échelles pour en optimiser le fonctionnement et les coûts. Pour l'électricité d'origine hydraulique, ce volet précise les modalités de mise en œuvre, pour les stations de transfert d'électricité par pompage, des objectifs mentionnés au 4° bis du I de l'article L. 100-4 et pris en application du 3° du I de l'article L. 100-1 A ;
 
@@ -2210,19 +2232,63 @@ IV. - Les zones non interconnectées au réseau métropolitain continental, à l
 
 Des objectifs régionaux de développement des énergies renouvelables sont établis par décret pour le territoire métropolitain continental, après concertation avec les conseils régionaux concernés, pour contribuer aux objectifs mentionnés à l'article L. 100-4, dans la loi mentionnée au I de l'article L. 100-1 A ainsi que dans la programmation pluriannuelle de l'énergie mentionnée à l'article L. 141-3. Ces objectifs prennent en compte les potentiels énergétiques, renouvelables et de récupération, régionaux mobilisables.
 
-Une méthode et des indicateurs communs permettant de suivre, de façon partagée entre les régions et l'Etat ainsi qu'entre les collectivités territoriales d'une même région, le déploiement et la mise en œuvre des objectifs régionaux de développement des énergies renouvelables sont définis selon des modalités fixées par décret.
+Une méthode et des indicateurs communs permettant de suivre, de façon partagée entre les régions et l'Etat ainsi qu'entre les collectivités territoriales d'une même région, le déploiement et la mise en œuvre des objectifs régionaux de développement des énergies renouvelables sont définis selon des modalités fixées par décret. Les indicateurs communs de suivi, déclinés à l'échelle de chaque département de la région concernée, sont définis par arrêté du ministre chargé de l'énergie et incluent notamment le nombre de projets en cours d'instruction, le nombre d'autorisations refusées, les motifs de refus et les délais moyens d'instruction. Ces indicateurs de suivi sont rendus publics.
 
 ###### Article L141-5-2
 
 I.-Dans chaque région située sur le territoire métropolitain continental, le comité régional de l'énergie est chargé de favoriser la concertation, en particulier avec les collectivités territoriales, sur les questions relatives à l'énergie au sein de la région. Il est associé à la fixation ainsi qu'au suivi et à l'évaluation de la mise en œuvre des objectifs de développement des énergies renouvelables et de récupération du schéma régional d'aménagement, de développement durable et d'égalité des territoires prévu à l'article L. 4251-1 du code général des collectivités territoriales ou, en Île-de-France, du schéma régional du climat, de l'air et de l'énergie et de son schéma régional éolien prévus à l'article L. 222-1 du code de l'environnement.
 
-Le comité régional de l'énergie peut débattre et rendre des avis sur tous les sujets relatifs à l'énergie ayant un impact sur la région.
+Le comité régional de l'énergie peut débattre et rendre des avis sur tous les sujets relatifs à l'énergie, au stockage de l'énergie et au vecteur hydrogène ayant un impact sur la région. A ce titre, il rend un avis sur les cartographies des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables, dans les conditions définies à l'article L. 141-5-3 du présent code.
 
 En vue de définir les objectifs de développement des énergies renouvelables prévus à l'article L. 141-5-1 du présent code, le ministre chargé de l'énergie demande au comité régional de l'énergie de chaque région située sur le territoire métropolitain continental d'élaborer une proposition d'objectifs régionaux de développement des énergies renouvelables de la région. A l'expiration d'un délai de deux mois à compter de la demande, la proposition du comité régional est réputée élaborée.
 
 II.-Le comité régional de l'énergie est coprésidé par le président du conseil régional et le représentant de l'Etat dans la région.
 
-III.-La composition et les modalités de fonctionnement du comité régional de l'énergie sont précisées par décret. Il associe les communes ou groupements de communes, les départements, les autorités organisatrices de la distribution d'énergie, mentionnées à l'article L. 2224-31 du code général des collectivités territoriales, et les gestionnaires des réseaux publics de distribution ou de transport intéressés.
+III.-La composition et les modalités de fonctionnement du comité régional de l'énergie sont précisées par décret. Il associe les communes ou groupements de communes, les départements, les autorités organisatrices de la distribution d'énergie, mentionnées à l'article L. 2224-31 du code général des collectivités territoriales, et les gestionnaires des réseaux publics de distribution ou de transport intéressés. Pour élaborer sa proposition, le comité régional de l'énergie ou l'organe en tenant lieu tient compte des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables mentionnées à l'article L. 141-5-3.
+
+###### Article L141-5-3
+
+I.-La définition des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables ainsi que de leurs ouvrages connexes répond aux principes suivants :
+
+1° Elles présentent un potentiel permettant d'accélérer la production d'énergies renouvelables au sens de l'article L. 211-2 sur le territoire concerné pour atteindre, à terme, les objectifs mentionnés à l'article L. 100-4, dans la loi mentionnée au I de l'article L. 100-1 A et dans la programmation pluriannuelle de l'énergie mentionnée à l'article L. 141-1 ;
+
+2° Elles contribuent à la solidarité entre les territoires et à la sécurisation de l'approvisionnement défini au 2° de l'article L. 100-1 ;
+
+3° Elles sont définies dans l'objectif de prévenir et de maîtriser les dangers ou les inconvénients qui résulteraient de l'implantation d'installations de production d'énergies mentionnées au présent I pour les intérêts mentionnés aux articles L. 211-1 et L. 511-1 du code de l'environnement ;
+
+4° Elles sont définies, pour chaque catégorie de sources et de types d'installation de production d'énergies renouvelables, en tenant compte de la nécessaire diversification des énergies renouvelables en fonction des potentiels du territoire concerné et de la puissance d'énergies renouvelables déjà installée ;
+
+5° A l'exception des procédés de production en toiture, elles ne peuvent être comprises dans les parcs nationaux et les réserves naturelles ni, lorsqu'elles concernent le déploiement d'installations utilisant l'énergie mécanique du vent, dans les sites classés dans la catégorie de zone de protection spéciale ou de zone spéciale de conservation des chiroptères au sein du réseau Natura 2000 ;
+
+6° Elles sont identifiées en tenant compte de l'inventaire relatif aux zones d'activité économique prévu à l'article L. 318-8-2 du code de l'urbanisme, afin de valoriser les zones d'activité économique présentant un potentiel pour le développement des énergies renouvelables.
+
+II.-Pour l'identification des zones d'accélération mentionnées au I du présent article :
+
+1° L'Etat et, pour les informations relatives aux réseaux d'électricité et de gaz, les gestionnaires des réseaux publics d'électricité et de gaz mettent à la disposition des communes, des établissements publics de coopération intercommunale, des autorités organisatrices de la distribution d'énergie mentionnées à l'article L. 2224-31 du code général des collectivités territoriales, des départements et des régions les informations disponibles relatives au potentiel d'implantation des énergies renouvelables. Ces informations portent notamment sur les potentiels énergétiques, renouvelables et de récupération mobilisables, sur la part déjà prise par chaque établissement public de coopération intercommunale dans le déploiement des énergies renouvelables, sur les capacités d'accueil existantes des réseaux publics d'électricité et de gaz naturel sur le territoire, sur les capacités planifiées sur ce même territoire en application de l'article L. 321-7 du présent code et sur les objectifs nationaux définis par la programmation pluriannuelle de l'énergie mentionnée à l'article L. 141-1.
+
+A cet effet, les informations relatives au potentiel de développement de la production à partir d'énergie solaire peuvent être mises à disposition sous la forme d'un cadastre solaire. Celui-ci prend en compte les surfaces des toitures de toutes les constructions bâties situées sur le territoire ainsi que les surfaces au sol déjà artificialisées, y compris les parcs de stationnement. L'Etat met numériquement à la disposition du public les informations du cadastre solaire.
+
+Les informations mentionnées au présent 1° sont actualisées au moins à chaque révision de la programmation pluriannuelle de l'énergie ;
+
+2° Après concertation du public selon des modalités qu'elles déterminent librement, les communes identifient, par délibération du conseil municipal, des zones d'accélération mentionnées au I du présent article et les transmettent, dans un délai de six mois à compter de la mise à disposition des informations prévues au 1° du présent II, au référent préfectoral mentionné à l'article L. 181-28-10 du présent code, à l'établissement public de coopération intercommunale dont elles sont membres et, le cas échéant, à l'établissement public mentionné à l'article L. 143-16 du code de l'urbanisme.
+
+Dans les périmètres des aires protégées, entendues au sens de la stratégie nationale pour les aires protégées définie à l'article L. 110-4 du code de l'environnement, ainsi que dans les périmètres des grands sites de France définis à l'article L. 341-15-1 du même code, les communes identifient ces zones d'accélération après avis du gestionnaire. Lorsque les communes sont intégrées en totalité ou partiellement dans le périmètre de classement d'un parc naturel régional, l'identification des zones d'accélération est réalisée en concertation avec le syndicat mixte gestionnaire du parc pour ce qui concerne les zones situées en son sein.
+
+Le référent préfectoral précité ou l'établissement public dont elles sont membres peut accompagner lesdites communes pour l'identification des zones d'accélération. Dans les territoires dotés d'un schéma de déploiement des énergies renouvelables à la date de promulgation de la loi n° 2023-175 du 10 mars 2023 relative à l'accélération de la production d'énergies renouvelables, il est tenu compte de ce schéma pour identifier les zones retenues.
+
+Dans le délai de six mois mentionné au premier alinéa du présent 2°, un débat se tient au sein de l'organe délibérant de l'établissement public de coopération intercommunale sur la cohérence des zones d'accélération identifiées avec le projet du territoire ;
+
+3° Après l'expiration du délai mentionné au 2° du présent II, le référent préfectoral arrête, dans les conditions prévues au III du présent article, la cartographie des zones d'accélération identifiées en application du 2° du présent II et transmet cette cartographie pour avis au comité régional de l'énergie ou à l'organe en tenant lieu. Le référent préfectoral consulte, au sein d'une conférence territoriale, les établissements publics mentionnés à l'article L. 143-16 du code de l'urbanisme et les établissements publics de coopération intercommunale.
+
+III.-L'avis du comité régional de l'énergie ou de l'organe en tenant lieu est transmis aux référents préfectoraux au plus tard trois mois après la réception de la cartographie des zones d'accélération transmise en application du 3° du II du présent article.
+
+Lorsque cet avis conclut que les zones d'accélération identifiées au niveau régional sont suffisantes pour l'atteinte des objectifs régionaux établis en application de l'article L. 141-5-1, les référents préfectoraux de la région concernée arrêtent la cartographie des zones identifiées à l'échelle de chaque département, après avoir recueilli l'avis conforme des communes du département, exprimé par délibération du conseil municipal, chacune pour ce qui concerne les zones d'accélération situées sur son territoire. La cartographie et l'avis du comité régional de l'énergie ou de l'organe en tenant lieu sont transmis pour information au ministre chargé de l'énergie ainsi qu'aux collectivités territoriales et à leurs groupements mentionnés au 1° du II du présent article.
+
+Lorsque ce même avis conclut que les zones d'accélération précitées ne sont pas suffisantes pour l'atteinte des objectifs régionaux, les référents préfectoraux demandent aux communes de la région l'identification de zones d'accélération complémentaires. Les zones d'accélération nouvellement identifiées sont soumises, dans un délai de trois mois à compter de la demande des référents préfectoraux, au comité régional de l'énergie, qui émet un nouvel avis dans les conditions prévues à l'article L. 141-5-2. Dans un délai de deux mois à compter de ce nouvel avis, les référents préfectoraux arrêtent la cartographie des zones identifiées à l'échelle de chaque département, après avoir recueilli l'avis conforme des communes concernées du département, exprimé par délibération du conseil municipal, chacune pour ce qui concerne les zones d'accélération situées sur son territoire. La cartographie ainsi que les avis mentionnés au présent alinéa sont transmis pour information au ministre chargé de l'énergie ainsi qu'aux collectivités territoriales et à leurs groupements mentionnés au 1° du II du présent article.
+
+IV.-L'identification des zones d'accélération mentionnées au I est renouvelée, dans les conditions prévues au présent article, pour chaque période de cinq ans mentionnée au premier alinéa de l'article L. 141-3.
+
+V.-Les zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables contribuent, à compter du 31 décembre 2027, à atteindre les objectifs prévus par la programmation pluriannuelle de l'énergie.
 
 ###### Article L141-6
 
@@ -2255,6 +2321,14 @@ Aux mêmes fins et selon les mêmes modalités que celles prévues à l'article 
 Pour éviter la défaillance du système électrique, ils peuvent demander la déconnexion des installations de production mettant en œuvre de l'énergie fatale à caractère aléatoire lorsqu'ils constatent que la somme des puissances actives injectées par de telles installations dépasse un seuil de la puissance active totale transitant sur le réseau. Pour les collectivités mentionnées au I de l'article L. 141-5, ce seuil est inscrit dans le volet mentionné au 5° du II du même article.
 
 Les gestionnaires des réseaux publics de distribution d'électricité des zones non interconnectées au réseau métropolitain mettent à la disposition du public, au pas horaire, les informations relatives aux moyens de production d'électricité appelés ainsi qu'au coût constaté de production.
+
+###### Article L141-9-1
+
+Dans les zones non interconnectées au réseau métropolitain continental, à l'exception de la Corse, il est possible de substituer aux énergies fossiles de la biomasse, dans les centrales recourant aux énergies fossiles ainsi que pour les projets de centrales recourant aux énergies fossiles mentionnés dans les programmations pluriannuelles de l'énergie prises en application de l'article L. 141-5.
+
+La modification de la durée de vie des installations converties à la biomasse justifie l'inscription de cette substitution dans la programmation pluriannuelle de l'énergie distincte, mentionnée au I du même article L. 141-5, par les personnes mentionnées au III dudit article L. 141-5.
+
+Cette substitution au combustible fossile de la biomasse s'accompagne d'un plan d'approvisionnement, pour chaque zone non interconnectée au réseau métropolitain continental, qui exclut toute matière première présentant un risque élevé d'induire des changements indirects dans l'affectation des sols.
 
 ##### Section 3 : Dispositions spécifiques au gaz
 
@@ -3358,11 +3432,23 @@ Les dispositions relatives à l'Agence de l'environnement et de la maîtrise de 
 
 ##### Article L211-2
 
-L'énergie produite à partir de sources renouvelables, ou “ énergie renouvelable ”, est une énergie produite à partir de sources non fossiles renouvelables, à savoir l'énergie éolienne, l'énergie solaire thermique ou photovoltaïque, l'énergie géothermique, l'énergie ambiante, l'énergie marémotrice, houlomotrice et les autres énergies marines, l'énergie hydroélectrique, la biomasse, les gaz de décharge, les gaz des stations d'épuration d'eaux usées et le biogaz.
+L'énergie produite à partir de sources renouvelables, ou “ énergie renouvelable ”, est une énergie produite à partir de sources non fossiles renouvelables, à savoir l'énergie éolienne, l'énergie solaire thermique ou photovoltaïque, l'énergie géothermique, l'énergie ambiante, l'énergie marémotrice, houlomotrice ou osmotique et les autres énergies marines, l'énergie hydroélectrique, la biomasse, les gaz de décharge, les gaz des stations d'épuration d'eaux usées et le biogaz.
 
 L'énergie ambiante est l'énergie thermique naturellement présente et l'énergie accumulée dans un environnement fermé, qui peut être emmagasinée dans l'air ambiant, hors air extrait, dans les eaux de surface ou dans les eaux usées.
 
 La biomasse est la fraction biodégradable des produits, des déchets et des résidus d'origine biologique provenant de l'agriculture, y compris les substances végétales et animales, de la sylviculture et des industries connexes, y compris la pêche et l'aquaculture, ainsi que la fraction biodégradable des déchets, notamment les déchets industriels ainsi que les déchets ménagers et assimilés lorsqu'ils sont d'origine biologique.
+
+##### Article L211-2-1
+
+Les projets d'installations de production d'énergies renouvelables au sens de l'article L. 211-2 du présent code ou de stockage d'énergie dans le système électrique, y compris leurs ouvrages de raccordement aux réseaux de transport et de distribution d'énergie, sont réputés répondre à une raison impérative d'intérêt public majeur, au sens du c du 4° du I de l'article L. 411-2 du code de l'environnement, dès lors qu'ils satisfont à des conditions définies par décret en Conseil d'Etat.
+
+Ces conditions sont fixées en tenant compte du type de source d'énergie renouvelable, de la puissance prévisionnelle totale de l'installation projetée et de la contribution globale attendue des installations de puissance similaire à la réalisation des objectifs mentionnés aux 1° et 2° du présent article :
+
+1° Pour le territoire métropolitain, la programmation pluriannuelle de l'énergie mentionnée à l'article L. 141-2, en particulier les mesures et les dispositions du volet relatif à la sécurité d'approvisionnement et les objectifs quantitatifs du volet relatif au développement de l'exploitation des énergies renouvelables, mentionnés aux 1° et 3° du même article L. 141-2 ;
+
+2° Pour le territoire de chacune des collectivités mentionnées à l'article L. 141-5, la programmation pluriannuelle de l'énergie qui lui est propre, en particulier les volets relatifs à la sécurité d'approvisionnement en électricité, au soutien des énergies renouvelables et de récupération et au développement équilibré des énergies renouvelables et leurs objectifs mentionnés aux 2°, 4° et 5° du II du même article L. 141-5 et après avis de l'organe délibérant de la collectivité.
+
+L'existence d'une zone d'accélération définie à l'article L. 141-5-3 du présent code ne constitue pas en tant que telle une autre solution satisfaisante au sens du 4° du I de l'article L. 411-2 du code de l'environnement.
 
 ##### Article L211-3
 
@@ -3411,6 +3497,12 @@ Les dispositions relatives à la recherche et à la constatation des infractions
 ##### Article L211-8
 
 L'Etat définit et met en œuvre une stratégie nationale de mobilisation de la biomasse qui a notamment pour objectif de permettre l'approvisionnement des installations de production d'énergie, comme les appareils de chauffage domestique au bois, les chaufferies collectives industrielles et tertiaires et les unités de cogénération.
+
+##### Article L211-9
+
+Sans préjudice de l'article L. 181-28-2 du code de l'environnement, le porteur d'un projet d'énergies renouvelables d'une puissance installée supérieure ou égale à un seuil, dépendant du type d'énergie utilisée, et situé en dehors d'une zone d'accélération définie en application de l'article L. 141-5-3 du présent code organise un comité de projet, à ses frais. Ce comité de projet inclut les différentes parties prenantes concernées par le projet, notamment les communes et les établissements publics de coopération intercommunale dont elles sont membres, ainsi que les représentants des communes limitrophes.
+
+Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat, notamment pour ce qui concerne les seuils de puissance installée mentionnés au premier alinéa.
 
 ### TITRE II : LES CERTIFICATS D'ECONOMIES D'ENERGIE
 
@@ -4241,11 +4333,13 @@ Le fait de s'opposer à l'exercice des fonctions dont les fonctionnaires et agen
 
 ##### Article L291-1
 
-Une communauté d'énergie renouvelable est une personne morale autonome répondant aux critères cumulatifs suivants :
+Une communauté d'énergie renouvelable est une personne morale autonome, au sens de l'article 3 de l'annexe à la recommandation de la Commission du 6 mai 2003 concernant la définition des micro, petites et moyennes entreprises (2003/361/ CE), répondant aux critères cumulatifs suivants :
 
 1° Elle repose sur une participation ouverte et volontaire ;
 
-2° Ses actionnaires ou ses membres sont des personnes physiques, des petites et moyennes entreprises, des collectivités territoriales ou leurs groupements ou des associations. Les associations autorisées à participer à une communauté d'énergie renouvelable sont celles dont les adhérents sont des personnes physiques, des petites et moyennes entreprises, des collectivités territoriales ou leurs groupements. Le décret mentionné à l'article L. 293-4 précise les conditions de participation des associations. Lorsqu'une entreprise privée participe à une communauté d'énergie renouvelable, cette participation ne peut constituer son activité commerciale ou professionnelle principale ;
+2° Ses actionnaires ou ses membres sont des personnes physiques, des petites et moyennes entreprises répondant à la définition donnée au point 8 de l'article 2 de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables dès lors qu'elles sont autonomes, des collectivités territoriales ou leurs groupements, des sociétés par actions régies par le titre II du livre V de la première partie du code général des collectivités territoriales, des fonds éligibles à la dénomination d'entrepreneuriat social mentionnés à l'article L. 214-153-1 du code monétaire et financier spécialisés dans l'investissement en capital dans les énergies renouvelables, des sociétés ayant pour objet le développement des énergies renouvelables, bénéficiant de l'agrément “ entreprise solidaire d'utilité sociale ” et répondant à la définition précitée des petites et moyennes entreprises ou des associations. Les associations autorisées à participer à une communauté d'énergie renouvelable sont celles dont les adhérents sont des personnes physiques, des petites et moyennes entreprises, des collectivités territoriales ou leurs groupements ou des sociétés par actions régies par le titre II du livre V de la première partie du code général des collectivités territoriales. Le décret mentionné à l'article L. 293-4 du présent code précise les conditions de participation des associations. Lorsqu'une entreprise privée participe à une communauté d'énergie renouvelable, cette participation ne peut constituer son activité commerciale ou professionnelle principale ;
+
+Lorsqu'une petite ou moyenne entreprise membre d'une communauté d'énergie renouvelable souhaite céder sa participation, elle en informe la collectivité territoriale ou le groupement de collectivités territoriales dont la participation est la plus élevée afin que cette collectivité ou ce groupement puisse exercer un droit de préemption dans un délai de deux mois à compter de cette notification. A défaut de préemption, l'entreprise cède librement sa participation ;
 
 3° Elle est effectivement contrôlée par des actionnaires ou des membres se trouvant à proximité des projets d'énergie renouvelable auxquels elle a souscrit et qu'elle a élaborés ;
 
@@ -4261,15 +4355,23 @@ Une communauté d'énergie renouvelable peut :
 
 3° Accéder à tous les marchés de l'énergie pertinents, soit directement, soit par agrégation, d'une manière non discriminatoire.
 
+##### Article L291-3
+
+Une communauté d'énergie renouvelable revêt la forme soit d'une société anonyme ou d'une société par actions simplifiée régies par le livre II du code de commerce, soit d'une société coopérative d'intérêt collectif prévue aux articles 19 quinquies à 19 sexdecies A de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, soit d'une association régie par la loi du 1er juillet 1901 relative au contrat d'association.
+
+A l'exception du cas de la participation directe d'au moins vingt personnes physiques, une communauté d'énergie renouvelable comprend au moins deux des catégories de personnes énumérées au 2° de l'article L. 291-1 du présent code, parmi lesquelles figurent obligatoirement celles qui bénéficient, à titre gratuit ou onéreux, des avantages environnementaux, économiques ou sociaux que la communauté d'énergie renouvelable s'est donnés pour objet.
+
+Les statuts déterminent les conditions d'appartenance à la communauté et les conditions de sa gouvernance. Une catégorie de personnes mentionnée au même 2° remplissant les conditions de proximité mentionnées au 3° du même article L. 291-1 est présumée exercer un contrôle effectif lorsqu'elle dispose, directement ou indirectement, d'une fraction des droits de vote supérieure à 40 % et qu'aucune autre catégorie ne détient directement ou indirectement une fraction supérieure à la sienne. Les personnes physiques sont réputées constituer une catégorie lorsqu'elles sont au nombre de vingt. Les statuts garantissent que la participation des différentes catégories respecte le plafond précité pour la durée de la communauté.
+
 #### Chapitre II : Communautés énergétiques citoyennes
 
 ##### Article L292-1
 
-Une communauté énergétique citoyenne est une personne morale répondant aux critères cumulatifs suivants :
+Une communauté énergétique citoyenne est une personne morale autonome, au sens de l'article 3 de l'annexe à la recommandation de la Commission du 6 mai 2003 concernant la définition des micro, petites et moyennes entreprises (2003/361/ CE), répondant aux critères cumulatifs suivants :
 
 1° Elle repose sur une participation volontaire et ouverte à tout type de membre ou actionnaire ;
 
-2° Elle est effectivement contrôlée par des membres ou des actionnaires qui sont des personnes physiques, des collectivités territoriales ou leurs groupements, ou des petites entreprises répondant à la définition donnée au point 11 de l'article 2 de la directive (UE) 2019/944 du Parlement européen et du Conseil du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité ;
+2° Elle est effectivement contrôlée par des membres ou des actionnaires qui sont des personnes physiques, des collectivités territoriales ou leurs groupements, des sociétés par actions régies par le titre II du livre V de la première partie du code général des collectivités territoriales, ou des petites entreprises répondant à la définition donnée au point 11 de l'article 2 de la directive (UE) 2019/944 du Parlement européen et du Conseil du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité, dès lors qu'elles sont autonomes, des fonds éligibles à la dénomination d'entrepreneuriat social mentionnés à l'article L. 214-153-1 du code monétaire et financier spécialisés dans l'investissement en capital répondant aux missions définies à l'article L. 292-2 du présent code, des sociétés ayant pour objet le développement de ces missions, bénéficiant de l'agrément “ entreprise solidaire d'utilité sociale ” et répondant à la définition précitée des petites entreprises ou des associations. Les associations autorisées à participer à une communauté énergétique citoyenne sont celles dont les adhérents sont des personnes physiques, des petites entreprises, des collectivités territoriales ou leurs groupements ou des sociétés par actions régies par le titre II du livre V de la première partie du code général des collectivités territoriales. Le décret mentionné à l'article L. 293-4 du présent code précise les conditions de participation des associations. Lorsqu'une entreprise privée participe à une communauté énergétique citoyenne, cette participation ne peut constituer son activité commerciale ou professionnelle principale ;
 
 3° Son objectif principal est de fournir des avantages environnementaux, économiques ou sociaux à ses membres ou actionnaires ou aux territoires locaux où elle exerce ses activités, plutôt que de générer des profits financiers.
 
@@ -4288,6 +4390,14 @@ Une communauté énergétique citoyenne peut :
 ##### Article L292-3
 
 Une communauté énergétique citoyenne est financièrement responsable des déséquilibres qu'elle provoque sur le système électrique. A cet égard, elle assure la fonction de responsable d'équilibre ou délègue sa responsabilité en matière d'équilibrage conformément à l'article 5 du règlement (UE) 2019/943 du Parlement européen et du Conseil du 5 juin 2019 sur le marché intérieur de l'électricité.
+
+##### Article L292-4
+
+Une communauté énergétique citoyenne revêt la forme soit d'une société anonyme ou d'une société par actions simplifiée régies par le livre II du code de commerce, soit d'une société coopérative d'intérêt collectif prévue aux articles 19 quinquies à 19 sexdecies A de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, soit d'une association régie par la loi du 1er juillet 1901 relative au contrat d'association.
+
+A l'exception du cas de la participation directe d'au moins vingt personnes physiques, une communauté énergétique citoyenne comprend au moins deux des catégories de personnes énumérées au 2° de l'article L. 292-1 du présent code, parmi lesquelles figurent obligatoirement celles qui bénéficient, à titre gratuit ou onéreux, des avantages environnementaux, économiques ou sociaux que la communauté énergétique citoyenne s'est donnés pour objet.
+
+Les statuts déterminent les conditions d'appartenance à la communauté et les conditions de sa gouvernance. Une catégorie de personnes mentionnée au même 2° est présumée exercer un contrôle effectif lorsqu'elle dispose, directement ou indirectement, d'une fraction des droits de vote supérieure à 40 % et qu'aucune autre catégorie ne détient directement ou indirectement une fraction supérieure à la sienne. Les personnes physiques sont réputées constituer une catégorie lorsqu'elles sont au nombre de vingt. Les statuts garantissent que la participation des différentes catégories respecte le plafond précité pour la durée de la communauté.
 
 #### Chapitre III : Dispositions communes
 
@@ -4322,6 +4432,12 @@ II.-Les sociétés coopératives constituées sous la forme d'une société par 
 III.-Les offres de participation au capital ou au financement mentionnées aux I et II du présent article peuvent être faites par les porteurs des projets directement auprès des personnes mentionnées aux mêmes I et II ou en recourant à un fonds qui a reçu l'autorisation d'utiliser la dénomination de fonds d'entrepreneuriat social éligible en application de l'article L. 214-153-1 du code monétaire et financier, spécialisé dans l'investissement en capital dans les énergies renouvelables ou à une société ayant pour objet le développement des énergies renouvelables et bénéficiant de l'agrément “ entreprise solidaire d'utilité sociale ” prévu à l'article L. 3332-17-1 du code du travail.
 
 Les offres de participation au capital ou au financement peuvent être faites par les porteurs des projets directement auprès des personnes mentionnées au I du présent article ou en recourant à des conseillers en investissements participatifs mentionnés au I de l'article L. 547-1 du code monétaire et financier, à des intermédiaires en financement participatif mentionnés au I de l'article L. 548-2 du même code ou à des prestataires de services d'investissement mentionnés à l'article L. 531-1 dudit code.
+
+III bis.-Les associés ou les actionnaires souhaitant constituer l'une des sociétés mentionnées aux I ou II du présent article en informent le maire de la commune d'implantation du ou des projets et le président de l'établissement public de coopération intercommunale d'implantation du ou des projets, au plus tard deux mois avant la signature des statuts, afin de leur permettre de proposer une offre de participation au capital mentionnée aux mêmes I et II.
+
+Les associés ou les actionnaires souhaitant vendre une participation en capital prévue auxdits I et II en informent le maire de la commune d'implantation du ou des projets et le président de l'établissement public de coopération intercommunale d'implantation du ou des projets, au plus tard deux mois avant la vente, afin de leur permettre de proposer une offre d'achat de cette participation.
+
+La constitution ou la vente mentionnée aux deux premiers alinéas du présent III bis peut intervenir avant l'expiration du délai de deux mois mentionné aux mêmes deux premiers alinéas lorsque la commune d'implantation du ou des projets ou l'établissement public de coopération intercommunale d'implantation du ou des projets a fait connaître sa décision de ne pas présenter d'offre. Le silence de la commune ou de l'établissement, à l'expiration d'un délai de deux mois, vaut refus de la demande.
 
 IV.-Sous réserve des dispositions des articles L. 2253-1, L. 3231-6 et L. 4211-1 du code général des collectivités territoriales, les collectivités territoriales et leurs groupements peuvent souscrire la participation en capital prévue aux I et II du présent article par décision prise par leur organe délibérant. Cette décision peut faire l'objet d'une délégation à l'exécutif.
 
@@ -4457,21 +4573,51 @@ Pour désigner le ou les candidats retenus, l'autorité administrative se fonde 
 
 1° La qualité de l'offre, y compris la valeur technique, les performances en matière de protection de l'environnement, l'efficacité énergétique et le caractère innovant du projet ;
 
+1° bis Les incidences sur l'environnement des conditions de fabrication des moyens matériels nécessaires au projet ;
+
 2° La rentabilité du projet ;
 
 3° La sécurité d'approvisionnement ;
 
-4° Dans une mesure limitée, la part du capital détenue par les habitants résidant à proximité du projet ou par les collectivités territoriales ou leurs groupements sur le territoire ou à proximité du territoire desquels le projet doit être implanté par les sociétés porteuses du projet, qu'elles soient régies par le livre II du code de commerce, par les articles L. 1521-1 et suivants du code général des collectivités territoriales ou par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, ainsi que la part du capital proposée à ces habitants, collectivités ou groupements.
+4° Dans une mesure limitée, la part du capital détenue par les habitants résidant à proximité du projet ou par les collectivités territoriales ou leurs groupements sur le territoire ou à proximité du territoire desquels le projet doit être implanté par les sociétés porteuses du projet, qu'elles soient régies par le livre II du code de commerce, par les articles L. 1521-1 et suivants du code général des collectivités territoriales ou par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, ainsi que la part du capital proposée à ces habitants, collectivités ou groupements ;
 
-Les conditions d'exécution peuvent prendre en compte des considérations à caractère social ou environnemental et poursuivre des objectifs de développement durable conciliant développement économique, protection et mise en valeur de l'environnement et progrès social. Ces conditions d'exécution ne peuvent pas avoir d'effet discriminatoire entre les candidats potentiels. Elles sont mentionnées dans le cahier des charges.
+5° L'implantation dans une zone d'accélération pour l'implantation d'installations terrestres de production d'électricité renouvelable arrêtée en application de l'article L. 141-5-3 du présent code. Ce critère ne peut avoir d'effet discriminatoire entre les candidats potentiels. Il est mentionné dans le cahier des charges ;
+
+6° Le taux de recyclabilité, de réutilisation ou de réemploi des éléments constitutifs du projet.
+
+Les conditions d'exécution peuvent prendre en compte des considérations à caractère social ou environnemental et poursuivre des objectifs de développement durable conciliant développement économique, protection et mise en valeur de l'environnement et progrès social. Ces conditions d'exécution peuvent prévoir que les sociétés porteuses du projet, qu'elles soient régies par le livre II du code de commerce, par les articles L. 1521-1 à L. 1525-3 du code général des collectivités territoriales ou par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, soient tenues de proposer une part du capital aux habitants résidant à proximité du lieu d'implantation du projet ou à la commune ou au groupement dont elle est membre sur le territoire desquels le projet doit être implanté, et de leur ouvrir leurs parts, le cas échéant. Pour les projets lauréats situés dans les zones d'accélération mentionnées au même article L. 141-5-3, ces conditions d'exécution peuvent prévoir une modulation annuelle du tarif de rachat de l'électricité produite, afin de compenser tout ou partie des pertes de productible dues à des conditions d'implantation moins favorables que la moyenne dans la zone du projet. Ces conditions d'exécution ne peuvent pas avoir d'effet discriminatoire entre les candidats potentiels. Elles sont mentionnées dans le cahier des charges.
+
+###### Article L311-10-1-1
+
+Pour l'implantation des installations de production d'énergies renouvelables en mer utilisant l'énergie mécanique du vent, les procédures de mise en concurrence prévues à l'article L. 311-10 ciblent en priorité des zones prioritaires situées dans la zone économique exclusive.
 
 ###### Article L311-10-2
 
 Les dépenses supportées par l'Etat relatives à la préparation et à la mise en œuvre des procédures de mise en concurrence mentionnées à l'article L. 311-10, notamment celles relatives à la réalisation d'études techniques, juridiques et financières, et les dépenses relatives à l'organisation des consultations du public en lien avec la mise en œuvre de ces procédures, peuvent en tout ou partie faire l'objet d'un remboursement par les candidats retenus. Dans ce cas, les conditions de ce remboursement sont mentionnées dans le cahier des charges.
 
+###### Article L311-10-3
+
+Dans le cadre des procédures de mise en concurrence prévues à l'article L. 311-10 pour la construction et l'exploitation d'installations de production d'énergie renouvelable en mer et de leurs ouvrages de raccordement au réseau public de transport d'électricité, l'Etat réalise les études techniques et environnementales nécessaires à l'élaboration des projets par les candidats et à la réalisation de l'étude d'impact. Il peut engager par anticipation la réalisation des études techniques et environnementales en vue du lancement futur d'une ou de plusieurs de ces procédures, notamment au sein des zones prioritaires mentionnées au II de l'article L. 219-5-1 du code de l'environnement.
+
+###### Article L311-10-4
+
+L'exploitant d'une installation de production d'énergie renouvelable retenu à la suite d'un appel d'offres mentionné à l'article L. 311-10 ou bénéficiant d'un contrat mentionné à l'article L. 314-18 peut adhérer à un fonds de garantie destiné à compenser une partie des pertes financières qui résulteraient d'une annulation par le juge administratif d'une autorisation environnementale délivrée en application du titre VIII du livre Ier du code de l'environnement, d'une autorisation unique délivrée en application de l'article 20 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française ou, pour les ouvrages de production d'énergie solaire photovoltaïque ou thermique, d'un permis de construire. Cette adhésion a lieu avant le début de ses travaux de construction et après la délivrance de l'autorisation environnementale, de l'autorisation unique ou du permis de construire par l'autorité compétente.
+
+Constituent des pertes financières, au sens du premier alinéa du présent article, les dépenses engagées par les sociétés mentionnées au même premier alinéa pour l'approvisionnement, la construction et les éventuels frais annexes, notamment financiers, y afférents.
+
+Pour l'accomplissement des missions du fonds de garantie, les sociétés adhérentes sont redevables d'une contribution financière dont le montant est établi en fonction de la puissance installée du projet.
+
+Les sociétés mentionnées audit premier alinéa sont éligibles à la compensation du fonds de garantie après que la juridiction saisie a statué définitivement par une décision d'annulation de l'autorisation environnementale ou du permis de construire.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment les conditions, les taux, les plafonds et les délais d'indemnisation pour les sociétés mentionnées au même premier alinéa, ainsi que le montant de la contribution financière et les modalités de gestion du fonds de garantie. Ce décret fixe également la limite dans laquelle la dotation initiale à ce fonds peut être imputée aux charges des missions des services publics de l'énergie.
+
+###### Article L311-10-5
+
+Le cahier des charges de la procédure de mise en concurrence peut prévoir la prise en charge par l'Etat d'une partie des frais afférents à la mise en œuvre des obligations définies à l'article L. 515-45-1 du code de l'environnement.
+
 ###### Article L311-11
 
-L'autorité administrative désigne le ou les candidats retenus et délivre les autorisations prévues à l'article L. 311-5 dans des conditions fixées par voie réglementaire.
+L'autorité administrative désigne le ou les candidats retenus. La désignation emporte l'attribution de l'autorisation prévue à l'article L. 311-5.
 
 Elle a la faculté de ne pas donner suite à la procédure de mise en concurrence.
 
@@ -4485,9 +4631,9 @@ Les modalités d'application du présent article sont précisées par décret.
 
 Les candidats retenus désignés par l'autorité administrative bénéficient, selon les modalités prévues par la procédure de mise en concurrence :
 
-1° Soit d'un contrat d'achat pour l'électricité produite ;
+1° Soit d'un contrat d'achat pour tout ou partie de l'électricité produite ;
 
-2° Soit d'un contrat offrant un complément de rémunération à l'électricité produite.
+2° Soit d'un contrat offrant un complément de rémunération à tout ou partie de l'électricité produite.
 
 ###### Article L311-13
 
@@ -4515,7 +4661,7 @@ Les contrats conclus en application des articles L. 311-13 et L. 311-13-2 sont d
 
 ###### Article L311-13-5
 
-Les installations pour lesquelles une demande de contrat a été faite en application de l'article L. 311-12 peuvent être soumises à un contrôle lors de leur mise en service ou à des contrôles périodiques, permettant de s'assurer que ces installations ont été construites ou fonctionnent dans les conditions requises par la réglementation, par les conditions de la procédure de mise en concurrence ou par le contrat dont elles bénéficient en application du même article L. 311-12. Ces contrôles sont effectués aux frais du producteur par des organismes agréés.
+Les installations ayant été retenues à l'issue d'une procédure de mise en concurrence faite en application de l'article L. 311-12 peuvent être soumises à un contrôle lors de leur mise en service ou à des contrôles périodiques, permettant de s'assurer que ces installations ont été construites ou fonctionnent dans les conditions requises par la réglementation, par les conditions de la procédure de mise en concurrence ou par le contrat dont elles bénéficient en application du même article L. 311-12. Ces contrôles sont effectués aux frais du producteur par des organismes agréés.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article. Il fixe notamment, selon les caractéristiques des installations, la périodicité, les modalités de fonctionnement du système de contrôle et, en particulier, les conditions d'agrément des organismes contrôleurs et les conditions dans lesquelles les résultats sont tenus à la disposition de l'administration ou, lorsque certaines non-conformités sont détectées, transmis à l'autorité administrative compétente.
 
@@ -4665,7 +4811,19 @@ Les dispositions relatives à la gestion durable des déchets radioactifs sont �
 
 ###### Article L314-1 A
 
-Les dispositifs de soutien à la production d'électricité à partir d'énergies renouvelables mis en place dans le cadre de la procédure de mise en concurrence mentionnée à l'article L. 311-10 intègrent la prise en compte du bilan carbone des projets de production parmi leurs critères d'éligibilité ou de notation, dans le respect des principes de transparence et d'égalité de traitement des producteurs. Ce bilan carbone inclut au moins l'analyse de l'étape du cycle de vie jugée la plus pertinente au regard de l'objectif de discrimination effective entre les projets parmi les étapes de la fabrication, du transport, de l'utilisation et de la fin de vie des installations. Les modalités d'évaluation et de prise en compte de ce bilan carbone varient selon les filières et selon les technologies. La prise en compte de ce bilan carbone peut prendre la forme d'une bonification attribuée aux projets les plus performants.
+Les dispositifs de soutien à la production d'électricité à partir d'énergies renouvelables mis en place dans le cadre de la procédure de mise en concurrence mentionnée à l'article L. 311-10 intègrent la prise en compte du bilan carbone des projets de production parmi leurs critères d'éligibilité ou de notation, dans le respect des principes de transparence et d'égalité de traitement des producteurs. Ce bilan carbone inclut au moins l'analyse de l'étape du cycle de vie jugée la plus pertinente au regard de l'objectif de discrimination effective entre les projets parmi les étapes de l'extraction, de la fabrication, du transport, de l'utilisation et de la fin de vie des installations. Les modalités d'évaluation et de prise en compte de ce bilan carbone varient selon les filières et selon les technologies. La prise en compte de ce bilan carbone peut prendre la forme d'une bonification attribuée aux projets les plus performants.
+
+Cette évaluation peut prendre en compte :
+
+1° Pour l'étape de l'extraction, la consommation de minerais et de métaux stratégiques nécessaires aux installations ;
+
+2° Pour l'étape de la fabrication, la consommation de biens et de services en approvisionnements directs ;
+
+3° Pour l'étape du transport, l'impact des installations sur le développement des réseaux de distribution ou de transport d'électricité ;
+
+4° Pour l'étape de l'utilisation, la consommation d'énergie des installations et leur impact sur l'utilisation des sols ;
+
+5° Pour l'étape de la fin de vie, les garanties de démantèlement et de recyclage des installations ainsi que de remise en état des sols.
 
 ##### Section 1 : L'obligation d'achat
 
@@ -4721,9 +4879,11 @@ a) Les frais de contrôle prévus à l'article L. 314-7-1 ;
 
 b) Les investissements et les charges d'exploitation d'installations performantes représentatives de chaque filière ;
 
-c) La compatibilité de l'installation bénéficiant du contrat d'obligation d'achat avec les objectifs mentionnés aux articles L. 100-1 et L. 100-2.
+c) La compatibilité de l'installation bénéficiant du contrat d'obligation d'achat avec les objectifs mentionnés aux articles L. 100-1 et L. 100-2 ;
 
-Lorsque le producteur consomme tout ou partie de l'électricité produite par l'installation, les conditions d'achat peuvent comprendre une prime tenant compte des coûts qui ne sont pas couverts par la vente à l'acheteur de l'électricité non consommée par le producteur.
+d) Les cas dans lesquels l'installation est qualifiée d'agrivoltaïque au sens de l'article L. 314-36.
+
+Les conditions d'achat peuvent comprendre une prime tenant compte des coûts qui ne sont pas couverts par la vente à l'acheteur de l'électricité.
 
 Pour les installations de démonstration ou les fermes précommerciales, le bénéfice de l'obligation d'achat peut être subordonné à la condition d'être le candidat retenu à l'issue d'une procédure de mise en concurrence. Dans ce cas, les conditions d'achat tiennent compte, le cas échéant, des aides financières octroyées dans le cadre de cette procédure.
 
@@ -4845,7 +5005,11 @@ Les conditions du complément de rémunération pour les installations mentionn�
 
 4° De l'impact de ces installations sur l'atteinte des objectifs mentionnés aux articles L. 100-1 et L. 100-2 ;
 
-5° Des cas dans lesquels les producteurs sont également consommateurs de tout ou partie de l'électricité produite par les installations mentionnées à l'article L. 314-18.
+5° Des cas dans lesquels les producteurs sont également consommateurs de tout ou partie de l'électricité produite par les installations mentionnées à l'article L. 314-18 ;
+
+6° Des cas dans lesquels l'installation est détenue par une communauté d'énergie renouvelable au sens de l'article L. 291-1 ou par une communauté énergétique citoyenne au sens de l'article L. 292-1 ;
+
+7° Des cas dans lesquels l'installation est qualifiée d'agrivoltaïque au sens de l'article L. 314-36.
 
 Le niveau de ce complément de rémunération ne peut conduire à ce que la rémunération totale des capitaux immobilisés, résultant du cumul de toutes les recettes de l'installation et des aides financières ou fiscales, excède une rémunération raisonnable des capitaux, compte tenu des risques inhérents à ces activités. Le bénéfice du complément de rémunération peut, à cette fin, être subordonné à la renonciation, par le producteur, à certaines de ces aides financières ou fiscales.
 
@@ -4913,7 +5077,7 @@ Elle a la faculté de ne pas donner suite à l'appel à projets.
 
 ###### Article L314-31
 
-Les candidats désignés peuvent bénéficier d'un contrat d'achat pour l'électricité produite, conclu avec Electricité de France, dont les modalités de rémunération sont fixées au cas par cas et peuvent être modifiées au cours de la vie du contrat par la Commission de régulation de l'énergie afin de respecter l'exigence prévue au huitième alinéa de l'article L. 314-4 et dans les limites prévues dans le contrat.
+Les candidats désignés peuvent bénéficier d'un contrat d'achat pour l'électricité produite, conclu avec Electricité de France, dont les modalités de rémunération sont fixées au cas par cas et peuvent être modifiées au cours de la vie du contrat par la Commission de régulation de l'énergie afin de respecter l'exigence prévue au neuvième alinéa de l'article L. 314-4 et dans les limites prévues dans le contrat.
 
 Un décret en Conseil d'Etat pris après avis de la Commission de régulation de l'énergie précise les modalités selon lesquelles la Commission de régulation de l'énergie fixe et peut modifier la rémunération des candidats désignés.
 
@@ -4946,6 +5110,72 @@ Le contrôle de l'application des prescriptions et le constat des infractions so
 ###### Article L314-35
 
 Les modalités d'application de la présente section sont fixées par décret en Conseil d'Etat.
+
+##### Section 7 : Dispositions spécifiques à la production d'électricité à partir d'installations agrivoltaïques
+
+###### Article L314-36
+
+I.-Une installation agrivoltaïque est une installation de production d'électricité utilisant l'énergie radiative du soleil et dont les modules sont situés sur une parcelle agricole où ils contribuent durablement à l'installation, au maintien ou au développement d'une production agricole.
+
+II.-Est considérée comme agrivoltaïque une installation qui apporte directement à la parcelle agricole au moins l'un des services suivants, en garantissant à un agriculteur actif ou à une exploitation agricole à vocation pédagogique gérée par un établissement relevant du titre Ier du livre VIII du code rural et de la pêche maritime une production agricole significative et un revenu durable en étant issu :
+
+1° L'amélioration du potentiel et de l'impact agronomiques ;
+
+2° L'adaptation au changement climatique ;
+
+3° La protection contre les aléas ;
+
+4° L'amélioration du bien-être animal.
+
+III.-Ne peut pas être considérée comme agrivoltaïque une installation qui porte une atteinte substantielle à l'un des services mentionnés aux 1° à 4° du II ou une atteinte limitée à deux de ces services.
+
+IV.-Ne peut pas être considérée comme agrivoltaïque une installation qui présente au moins l'une des caractéristiques suivantes :
+
+1° Elle ne permet pas à la production agricole d'être l'activité principale de la parcelle agricole ;
+
+2° Elle n'est pas réversible.
+
+V.-Un décret en Conseil d'Etat détermine les modalités d'application du présent article. Il précise les services mentionnés aux 1° à 4° du II ainsi qu'une méthodologie définissant la production agricole significative et le revenu durable en étant issu. Le fait pour la production agricole d'être considérée comme l'activité principale mentionnée au 1° du IV peut s'apprécier au regard du volume de production, du niveau de revenu ou de l'emprise au sol. Il détermine par ailleurs les conditions de déploiement et d'encadrement de l'agrivoltaïsme, en s'appuyant sur le strict respect des règles qui régissent le marché du foncier agricole, notamment le statut du fermage et la mission des sociétés d'aménagement foncier et d'établissement rural, la politique de renouvellement des générations et le maintien du potentiel agronomique actuel et futur des sols concernés. Ce décret prévoit, enfin, les modalités de suivi et de contrôle des installations ainsi que les sanctions en cas de manquement.
+
+###### Article L314-37
+
+Pour contribuer à la poursuite de l'objectif mentionné au 4° quater du I de l'article L. 100-4, l'autorité administrative peut recourir à une procédure de mise en concurrence régie par la section 3 du chapitre Ier du présent titre pour la mise en place et l'exploitation d'installations agrivoltaïques au sens de l'article L. 314-36.
+
+###### Article L314-38
+
+La présence d'installations agrivoltaïques, au sens de l'article L. 314-36, sur des surfaces agricoles déclarées au titre du régime des paiements directs du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021 établissant des règles régissant l'aide aux plans stratégiques devant être établis par les Etats membres dans le cadre de la politique agricole commune (plans stratégiques relevant de la PAC) et financés par le Fonds européen agricole de garantie (FEAGA) et par le Fonds européen agricole pour le développement rural (Feader), et abrogeant les règlements (UE) n° 1305/2013 et (UE) n° 1307/2013, ne fait pas obstacle à l'éligibilité de ces mêmes surfaces aux interventions sous forme de paiements directs.
+
+###### Article L314-39
+
+Lorsque l'autorité administrative est saisie d'une demande d'autorisation d'une installation agrivoltaïque, au sens de l'article L. 314-36, elle en informe sans délai le maire de la commune et le président de l'établissement public de coopération intercommunale concernés, selon des modalités définies par décret en Conseil d'Etat.
+
+###### Article L314-40
+
+L'autorité administrative peut soumettre les installations agrivoltaïques, au sens de l'article L. 314-36, à la constitution des garanties financières nécessaires au démantèlement et à la remise en état du site.
+
+Un décret en Conseil d'Etat détermine les prescriptions générales régissant les opérations de démantèlement et de remise en état du site ainsi que les conditions de constitution et de mobilisation des garanties financières. Il détermine également les conditions de constatation par le représentant de l'Etat dans le département d'une carence pour conduire ces opérations et les formes dans lesquelles s'exerce, dans cette situation, l'appel aux garanties financières.
+
+##### Section 8 : Contribution au partage territorial de la valeur
+
+###### Article L314-41
+
+Les candidats retenus à l'issue de la procédure de mise en concurrence mentionnée à l'article L. 311-10 ou de l'appel à projets mentionné à l'article L. 314-29 sont tenus de financer à la fois :
+
+1° Des projets portés par la commune ou par l'établissement public de coopération intercommunale à fiscalité propre d'implantation de l'installation en faveur de la transition énergétique, de la sauvegarde ou de la protection de la biodiversité ou de l'adaptation au changement climatique, tels que la rénovation énergétique, l'efficacité énergétique, la mobilité la moins consommatrice et la moins polluante ou des mesures en faveur des ménages afin de lutter contre la précarité énergétique ;
+
+2° Des projets de protection ou de sauvegarde de la biodiversité.
+
+Les contributions aux projets mentionnés aux 1° et 2° du présent article peuvent être réalisées par des versements à des fonds dont les modalités sont précisées par le décret mentionné au dernier alinéa. Le montant de ces contributions ou, le cas échéant, le versement à ces fonds est exprimé en fonction de la puissance installée de l'installation de production d'électricité et ne peut être inférieur à un seuil fixé par le même décret. Les sommes versées pour le financement des projets portés par la commune ou par l'établissement public de coopération communale mentionnés au 1° ne peuvent être inférieures à 85 % du montant total versé en application des 1° et 2°, au moins 80 % de ces sommes étant allouées à la commune. Les sommes versées en application du 2° ne peuvent être inférieures à 15 % de ce même montant total.
+
+La contribution aux projets mentionnés au 1° peut également être réalisée par une participation en capital, prévue à l'article L. 294-1, souscrite par la commune ou par l'établissement public de coopération intercommunale à fiscalité propre d'implantation de l'installation, à leur demande et avec leur accord, selon des modalités précisées par le décret mentionné au dernier alinéa du présent article.
+
+Les contributions aux projets mentionnés aux 1° et 2° sont versées avant l'activation des contrats afférents à l'obligation d'achat ou au complément de rémunération appliqués à l'électricité produite.
+
+Pour le financement des projets mentionnés au 1°, les communes ou les établissements publics de coopération intercommunale à fiscalité propre rendent compte annuellement du montant de cette contribution territoriale et de son utilisation, au moyen de données accessibles dans un format ouvert et librement réutilisable.
+
+Le financement des projets mentionnés au 2° peut être réalisé par des versements à l'Office français de la biodiversité mentionné à l'article L. 131-9 du code de l'environnement. Ces versements sont, le cas échéant, destinés à financer exclusivement des actions s'inscrivant dans le cadre des plans nationaux d'action opérationnels pour la conservation ou le rétablissement des espèces menacées, prévus à l'article L. 411-3 du même code. L'Office français de la biodiversité publie chaque année un rapport détaillant l'affectation des sommes perçues et rend compte de cette affectation, au moyen de données accessibles dans un format ouvert et librement réutilisable.
+
+Un décret, pris après avis de la Commission de régulation de l'énergie, détermine les modalités d'application du présent article, en particulier les caractéristiques des installations concernées.
 
 #### Chapitre V : L'autoconsommation
 
@@ -5299,7 +5529,7 @@ Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-3
 
 3° De conclure et de gérer les contrats de concession ;
 
-4° D'assurer, dans des conditions objectives, transparentes et non discriminatoires, l'accès à ces réseaux ;
+4° D'assurer, dans des conditions objectives, transparentes et non discriminatoires, le raccordement et l'accès à ces réseaux ;
 
 5° De fournir aux utilisateurs des réseaux les informations nécessaires à un accès efficace aux réseaux, sous réserve des informations protégées par des dispositions législatives ou réglementaires, notamment en évaluant l'incidence sur le réseau des projets qui lui sont soumis en matière d'insertion des énergies renouvelables, de déploiement des dispositifs de charge pour les véhicules électriques et hybrides rechargeables, d'aménagement urbain et de planification énergétique ;
 
@@ -5310,6 +5540,8 @@ Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-3
 8° De mettre en œuvre des actions d'efficacité énergétique et de favoriser l'insertion des énergies renouvelables sur le réseau ;
 
 9° De contribuer au suivi des périmètres d'effacement mentionné à l'article L. 321-15-1. A cette fin, le gestionnaire du réseau public de transport, les opérateurs d'effacement et les fournisseurs d'électricité lui transmettent toute information nécessaire à l'application du présent 9°. Ces informations sont considérées comme des informations commercialement sensibles, au sens de l'article L. 111-73, et sont traitées comme telles.
+
+En Corse, le gestionnaire du réseau public élabore un schéma régional de raccordement au réseau des énergies renouvelables, dans les conditions prévues à l'article L. 321-7.
 
 ###### Article L322-9
 
@@ -5329,7 +5561,7 @@ Par dérogation à l'article L. 322-8, un gestionnaire de réseau de distributio
 
 ###### Article L322-10-1
 
-Dans les zones non interconnectées au territoire métropolitain continental, sous réserve des contraintes techniques du réseau ainsi que des obligations de sûreté, de sécurité et de qualité du service public de l'électricité, notamment du seuil de déconnexion mentionné à l'article L. 141-9, le gestionnaire du réseau de distribution d'électricité donne la priorité, lors de l'appel des moyens de production d'électricité, aux installations qui utilisent des énergies renouvelables. La liste et les caractéristiques de ces installations sont définies par décret, pris après avis de la Commission de régulation de l'énergie.
+Dans les zones non interconnectées au territoire métropolitain continental, sous réserve des contraintes techniques du réseau ainsi que des obligations de sûreté, de sécurité et de qualité du service public de l'électricité, notamment du seuil de déconnexion mentionné à l'article L. 141-9, le gestionnaire du réseau de distribution d'électricité donne la priorité, lors de l'appel des moyens de production d'électricité, aux installations qui utilisent des énergies renouvelables valorisant une source de production locale puis aux installations qui utilisent des énergies renouvelables valorisant une source de production importée. La liste et les caractéristiques de ces installations sont définies par décret, pris après avis de la Commission de régulation de l'énergie.
 
 L'appel de ces installations est fonction de l'ordre de préséance économique.
 
@@ -5497,6 +5729,18 @@ Lorsqu'un consommateur ayant déjà exercé le droit prévu à l'article L. 331-
 
 Les dispositions du code de la commande publique n'imposent pas à l'Etat, à ses établissements publics, aux collectivités territoriales et à leurs établissements publics d'exercer le droit prévu à l'article L. 331-1. Lorsqu'elles l'exercent pour l'un des sites de consommation, ces personnes publiques appliquent les procédures du code de la commande publique déterminées en fonction de la consommation de ce site et peuvent conserver le ou les contrats de fourniture de leurs autres sites de consommation. Les contrats d'achat d'électricité passés en application de ces procédures peuvent être conclus à prix fermes ou à prix révisables pour la partie relative à la fourniture.
 
+##### Article L331-5
+
+Dans les conditions prévues par le code de la commande publique, les pouvoirs adjudicateurs et les entités adjudicatrices définis respectivement aux articles L. 1211-1 et L. 1212-1 du même code peuvent recourir à un contrat de la commande publique pour répondre à leurs besoins en électricité produite à partir de sources renouvelables mentionnées à l'article L. 211-2 du présent code :
+
+1° Avec un tiers mentionné à l'article L. 315-1 pour la mise en œuvre d'une opération d'autoconsommation individuelle mentionnée au même article L. 315-1. Ce contrat peut confier au titulaire l'installation, la gestion, l'entretien et la maintenance de l'installation de production pour autant qu'il demeure soumis aux instructions de l'autoproducteur ;
+
+2° Dans le cadre d'une opération d'autoconsommation collective mentionnée à l'article L. 315-2 avec un ou plusieurs producteurs participant à cette opération ;
+
+3° Dans le cadre d'un contrat de vente directe à long terme d'électricité mentionné au 2° du I de l'article L. 333-1.
+
+La durée du contrat est définie en tenant compte de la nature des prestations et de la durée d'amortissement des installations nécessaires à leur exécution, y compris lorsque le pouvoir adjudicateur ou l'entité adjudicatrice n'acquiert pas ces installations.
+
 #### Chapitre II : Les contrats et offres de fourniture
 
 ##### Article L332-1
@@ -5559,9 +5803,19 @@ V.-Le fournisseur met à la disposition du client un dispositif d'alerte en cas 
 
 ##### Article L333-1
 
-Les fournisseurs souhaitant exercer l'activité d'achat d'électricité pour revente aux consommateurs finals ou aux gestionnaires de réseaux pour leurs pertes doivent être titulaires d'une autorisation délivrée par l'autorité administrative.
+I. - Doivent être titulaires d'une autorisation délivrée par l'autorité administrative :
 
-L'autorisation d'exercer l'activité d'achat d'électricité pour revente ne peut être délivrée qu'aux personnes physiques ou morales installées sur le territoire d'un Etat membre de l'Union européenne ou, dans le cadre d'accords internationaux, sur le territoire d'un autre Etat.
+1° Les fournisseurs d'électricité souhaitant exercer l'activité d'achat d'électricité pour revente aux consommateurs finals ou aux gestionnaires de réseaux pour leurs pertes ;
+
+2° A partir du 1er juillet 2023, les producteurs d'électricité concluant un contrat de vente directe d'électricité à des consommateurs finals ou à des gestionnaires de réseaux pour leurs pertes.
+
+A défaut pour le producteur d'en être lui-même titulaire, le contrat mentionné au 2° du présent I peut désigner un producteur ou un fournisseur tiers, déjà titulaire d'une telle autorisation, afin qu'il assume, par délégation, à l'égard des consommateurs finals, les obligations incombant aux fournisseurs d'électricité en application du présent code, notamment celles prévues au chapitre V du présent titre.
+
+Lorsqu'un contrat mentionné au 2° du présent I est mis en œuvre dans le cadre d'une procédure de mise en concurrence prévue à l'article L. 311-12, les producteurs d'électricité mentionnés au 2° du présent I adressent à la Commission de régulation de l'énergie, dans un délai de deux mois à compter de la conclusion du contrat, de sa modification ou de la survenance de tout événement l'affectant, les éléments contractuels, financiers, techniques ou opérationnels, pour l'accomplissement des missions définies à l'article L. 131-2. La Commission de régulation de l'énergie peut établir la liste des éléments à lui adresser.
+
+Les pouvoirs adjudicateurs et entités adjudicatrices mentionnés aux articles L. 1211-1 et L. 1212-1 du code de la commande publique peuvent être parties à un contrat mentionné au 2° du présent I pour répondre à leurs besoins en électricité produite à partir de sources renouvelables, mentionnées à l'article L. 211-2, dans le respect des règles prévues par le code de la commande publique.
+
+II. - L'autorisation d'exercer l'activité d'achat d'électricité pour revente ne peut être délivrée qu'aux personnes physiques ou morales installées sur le territoire d'un Etat membre de l'Union européenne ou, dans le cadre d'accords internationaux, sur le territoire d'un autre Etat.
 
 L'autorisation est délivrée en fonction :
 
@@ -5569,7 +5823,7 @@ L'autorisation est délivrée en fonction :
 
 2° De la compatibilité du projet du demandeur avec les obligations pesant sur les fournisseurs d'électricité, notamment celles prévues au chapitre V du présent titre III.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il détermine notamment le contenu du dossier de demande d'autorisation et précise les obligations en matière d'information des consommateurs d'électricité qui s'imposent tant aux fournisseurs mentionnés au présent article qu'aux services de distribution et aux producteurs.
+III. - Un décret en Conseil d'Etat, pris après avis de la Commission de régulation de l'énergie, fixe les conditions d'application du présent article. Il détermine notamment le contenu du dossier de demande d'autorisation et précise les obligations en matière d'information des consommateurs d'électricité qui s'imposent tant aux fournisseurs mentionnés au présent article qu'aux services de distribution et aux producteurs. Ce décret prévoit les éléments, les modifications ou les événements mentionnés à l'avant-dernier alinéa du I.
 
 ##### Article L333-2
 
@@ -5763,7 +6017,7 @@ Le volume maximal mentionné à l'article L. 336-3 est calculé selon les modali
 
 1° En ce qui concerne les sites pour lesquels a été souscrite une puissance supérieure à 36 kilovoltampères, seules sont prises en compte les consommations d'électricité faisant l'objet de contrats avec des consommateurs finals conclus, ou modifiés par avenant pour tenir compte de l'accès régulé à l'électricité nucléaire historique, après le 7 décembre 2010, ainsi que les perspectives de développement des portefeuilles de contrats ;
 
-2° Les volumes d'électricité correspondant aux droits des actionnaires des sociétés de capitaux agréées qui ont pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité, mentionnées à l'article 238 bis HV du code général des impôts, sont décomptés dans des conditions précisées par décret ;
+2° Les volumes d'électricité correspondant aux droits des actionnaires des sociétés de capitaux agréées qui ont pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité, mentionnées à l'article 238 bis HV du code général des impôts pour l'approvisionnement en électricité nucléaire, sont pris en compte dans des conditions précisées par décret afin que les actionnaires ne bénéficient pas de volumes supérieurs à leur consommation ;
 
 3° Le volume peut être réduit, sur décision conjointe du fournisseur et d'Electricité de France, des quantités d'électricité de base dont dispose, sur le territoire métropolitain continental, le fournisseur ou toute société qui lui est liée par le biais de contrats conclus avec Electricité de France, ou toute société liée à ce dernier, après le 7 décembre 2010. Le cas échéant, les cocontractants notifient à la Commission de régulation de l'énergie la teneur de ces contrats et les modalités de prise en compte de la quantité d'électricité devant être déduite.
 
@@ -5983,7 +6237,7 @@ Ces coûts comprennent notamment :
 
 2° Les surcoûts de recherche et de développement nécessaires à l'accroissement des capacités de transport des lignes électriques, en particulier de celles destinées à l'interconnexion avec les pays voisins et à l'amélioration de leur insertion esthétique dans l'environnement ;
 
-3° Une partie des coûts de raccordement à ces réseaux et une partie des coûts des prestations annexes réalisées à titre exclusif par les gestionnaires de ces réseaux, l'autre partie pouvant faire l'objet d'une contribution dans les conditions fixées aux articles L. 342-6 à L. 342-12.
+3° Une partie des coûts de raccordement à ces réseaux, l'autre partie pouvant faire l'objet d'une contribution dans les conditions fixées aux articles L. 341-2-1 et L. 342-6 à L. 342-12.
 
 Peuvent bénéficier de la prise en charge prévue au présent 3° :
 
@@ -6007,9 +6261,31 @@ b) Les indemnités versées aux producteurs d'électricité en application de l'
 
 Lorsque la cause du retard ou de la limitation de la production du fait d'une avarie ou d'un dysfonctionnement des ouvrages de raccordement des installations de production en mer est imputable au gestionnaire de réseau, ce dernier est redevable d'une partie de ces indemnités, dans la limite d'un pourcentage et d'un montant en valeur absolue calculés sur l'ensemble des installations par année civile, fixés par arrêté du ministre chargé de l'énergie pris après avis de la Commission de régulation de l'énergie.
 
+5° Une partie des coûts des prestations annexes réalisées à titre exclusif par les gestionnaires de ces réseaux.
+
 Pour le calcul du coût du capital investi par les gestionnaires de ces réseaux, la méthodologie est indépendante du régime juridique selon lequel sont exploités les réseaux d'électricité et de ses conséquences comptables. Elle peut se fonder sur la rémunération d'une base d'actifs régulée, définie comme le produit de cette base par le coût moyen pondéré du capital, établi à partir d'une structure normative du passif du gestionnaire de réseau, par référence à la structure du passif d'entreprises comparables du même secteur dans l'Union européenne.
 
 Les tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité incluent une rémunération normale, qui contribue notamment à la réalisation des investissements nécessaires pour le développement des réseaux.
+
+##### Article L341-2-1
+
+I.-Le niveau de la prise en charge par les tarifs d'utilisation du réseau prévue au 3° de l'article L. 341-2 ne peut être supérieur à 40 % des coûts de raccordement pour :
+
+1° Les consommateurs d'électricité dont les installations sont raccordées aux réseaux publics d'électricité, quel que soit le maître d'ouvrage des travaux de raccordement ;
+
+2° Les gestionnaires des réseaux publics de distribution d'électricité mentionnés à l'article L. 111-52, pour le raccordement de leurs ouvrages au réseau amont ;
+
+3° Les producteurs d'électricité à partir de sources d'énergie renouvelable dont les installations sont raccordées aux réseaux publics de distribution, quel que soit le maître d'ouvrage des travaux de raccordement.
+
+Ce niveau peut être porté à 60 % pour les producteurs d'électricité à partir de sources d'énergie renouvelable dont les installations sont raccordées aux réseaux publics de distribution et ont une puissance installée inférieure à 500 kilowatts, quel que soit le maître d'ouvrage des travaux de raccordement.
+
+Le niveau de prise en charge est arrêté par l'autorité administrative, après avis de la Commission de régulation de l'énergie. Il peut être différencié selon la puissance et la source de l'énergie.
+
+II.-Lorsque le raccordement des installations des utilisateurs mentionnés au I du présent article est réalisé sous la maîtrise d'ouvrage d'une autorité organisatrice de la distribution publique d'électricité mentionnée à l'article L. 121-4, conformément à la répartition prévue par le contrat de concession ou par le règlement de service de la régie, une convention ou le contrat de concession avec le gestionnaire du réseau public de distribution règle les modalités de versement de la prise en charge prévue au I du présent article. Le modèle de cette convention est transmis pour approbation au comité du système de distribution publique d'électricité mentionné à l'article L. 111-56-1.
+
+III.-Par dérogation, le niveau de prise en charge mentionné au I du présent article peut être porté à 80 % pour les travaux de remplacement ou d'adaptation d'ouvrages existants ou de création de canalisations parallèles à des canalisations existantes afin d'en éviter le remplacement, rendus nécessaires par les évolutions des besoins de consommateurs raccordés en basse tension pour des puissances inférieures ou égales à 36 kilovoltampères liées à des opérations concourant à l'atteinte des objectifs fixés à l'article L. 100-4. Le niveau de prise en charge et la liste de ces opérations sont précisés par un décret pris après avis de la Commission de régulation de l'énergie.
+
+IV.-La prise en charge prévue au 3° de l'article L. 341-2 n'est pas applicable lorsque les conditions de raccordement sont fixées dans le cadre de la procédure de mise en concurrence prévue à l'article L. 311-10.
 
 ##### Article L341-3
 
@@ -6085,9 +6361,9 @@ Les modalités d'application du présent article sont fixées par décret pris a
 
 ##### Article L342-3
 
-A l'exception des cas où il est nécessaire d'entreprendre des travaux d'extension ou de renforcement du réseau de distribution d'électricité, le délai de raccordement d'une installation de production d'électricité à partir de sources d'énergie renouvelable d'une puissance installée inférieure ou égale à trois kilovoltampères ne peut excéder deux mois à compter de l'acceptation, par le demandeur, de la convention de raccordement. La proposition de convention de raccordement doit être adressée par le gestionnaire de réseau dans le délai d'un mois à compter de la réception d'une demande complète de raccordement.
+A l'exception des cas où il est nécessaire d'entreprendre des travaux d'extension ou de renforcement du réseau de distribution d'électricité, le délai de raccordement d'une installation de production d'électricité à partir de sources d'énergie renouvelable d'une puissance installée inférieure ou égale à trois kilovoltampères ne peut excéder un mois à compter de l'acceptation, par le demandeur, de la convention de raccordement. La proposition de convention de raccordement doit être adressée par le gestionnaire de réseau dans le délai d'un mois à compter de la réception d'une demande complète de raccordement.
 
-Pour les autres installations de production d'électricité à partir de sources d'énergie renouvelable, le délai de raccordement ne peut excéder dix-huit mois. Toutefois, l'autorité administrative peut accorder, sur demande motivée du gestionnaire de réseau, une prorogation du délai de raccordement en fonction de la taille des installations et de leur localisation par rapport au réseau ou lorsque le retard pris pour le raccordement est imputable à des causes indépendantes de la volonté du gestionnaire de réseau.
+Pour les autres installations de production d'électricité à partir de sources d'énergie renouvelable, le délai de raccordement ne peut excéder douze mois. Toutefois, l'autorité administrative peut accorder, sur demande motivée du gestionnaire de réseau, une prorogation du délai de raccordement en fonction de la taille des installations et de leur localisation par rapport au réseau ou lorsque le retard pris pour le raccordement est imputable à des causes indépendantes de la volonté du gestionnaire de réseau.
 
 Un décret fixe les catégories d'installations ainsi que les cas et les conditions dans lesquels, en raison de contraintes techniques ou administratives particulières, il peut être dérogé au délai de raccordement mentionné au deuxième alinéa.
 
@@ -6113,7 +6389,7 @@ Ces modèles sont approuvés par la Commission de régulation de l'énergie, pr�
 
 ##### Article L342-5
 
-Un décret en Conseil d'Etat pris après avis de la Commission de régulation de l'énergie fixe les attributions respectives de l'autorité administrative et de la Commission de régulation de l'énergie dans la mise en œuvre des codes de réseau prévus à l'article 6 du règlement (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 sur les conditions d'accès au réseau pour les échanges transfrontaliers d'électricité. Ce décret détermine en particulier la répartition des compétences pour définir les règles de raccordement au réseau prévues au point b) du paragraphe 6 de l'article 8 de ce règlement et, à cet effet, élaborer les méthodologies utilisées pour établir les prescriptions techniques fixant les exigences techniques minimales de conception et de fonctionnement auxquelles doivent satisfaire :
+Un décret en Conseil d'Etat pris après avis de la Commission de régulation de l'énergie fixe les attributions respectives de l'autorité administrative et de la Commission de régulation de l'énergie dans la mise en œuvre des codes de réseau relatifs au raccordement prévus par la réglementation européenne en vigueur et relatifs au secteur de l'électricité. Ce décret détermine en particulier la répartition des compétences pour définir les règles de raccordement au réseau et, à cet effet, élaborer les méthodologies utilisées pour établir les prescriptions techniques fixant les exigences techniques minimales de conception et de fonctionnement auxquelles doivent satisfaire :
 
 1° En cas de raccordement au réseau public de transport d'électricité, les installations des utilisateurs du réseau, les réseaux publics de distribution, les réseaux fermés de distribution d'électricité, les circuits d'interconnexion ainsi que les lignes directes mentionnées à l'article L. 343-1 ;
 
@@ -6121,25 +6397,41 @@ Un décret en Conseil d'Etat pris après avis de la Commission de régulation de
 
 ##### Article L342-6
 
-La part des coûts de branchement et d'extension des réseaux non couverts par les tarifs d'utilisation des réseaux publics peut faire l'objet de la contribution due par le redevable défini à l'article L. 342-7 ou par les redevables définis à l'article L. 342-11. La contribution est versée au maître d'ouvrage des travaux, qu'il s'agisse d'un gestionnaire de réseau, d'une collectivité territoriale, d'un établissement public de coopération intercommunale ou d'un syndicat mixte.
+La part des coûts de branchement et d'extension non couverts par les tarifs d'utilisation des réseaux publics peut faire l'objet d'une contribution due par le redevable selon les principes établis au présent article ainsi qu'aux articles L. 342-7 à L. 342-12. La contribution est versée au maître d'ouvrage des travaux, qu'il s'agisse d'un gestionnaire de réseau, d'une collectivité territoriale, d'un établissement public de coopération intercommunale ou d'un syndicat mixte.
 
 ##### Article L342-7
 
-Lorsque le gestionnaire du réseau public de transport est le maître d'ouvrage des travaux, les principes généraux de calcul de la contribution qui lui est due sont arrêtés par l'autorité administrative sur proposition de la Commission de régulation de l'énergie. Ils peuvent prendre la forme de barèmes.
+Lorsque le gestionnaire du réseau public de transport est le maître d'ouvrage des travaux, les principes généraux de calcul de la contribution qui lui est due sont arrêtés par l'autorité administrative sur proposition de la Commission de régulation de l'énergie.
 
-Les méthodes de calcul des coûts de la contribution mentionnée à l'alinéa précédent, établies par le gestionnaire du réseau public de transport, sont soumises à l'approbation de la Commission de régulation de l'énergie.
+Les méthodes de calcul des coûts de la contribution mentionnée à l'alinéa précédent, établies par le gestionnaire du réseau public de transport, sont soumises à l'approbation de la Commission de régulation de l'énergie. Elles peuvent prendre la forme de barèmes.
 
 Le demandeur d'un raccordement au réseau public de transport d'électricité est le redevable de cette contribution. Par exception, pour les installations de production d'électricité à partir de sources d'énergie renouvelable implantées en mer faisant l'objet d'une procédure de mise en concurrence prévue à l'article L. 311-10, lorsque le producteur ne choisit pas l'emplacement de la zone d'implantation du parc, le gestionnaire du réseau public de transport supporte le coût du raccordement correspondant aux conditions techniques prévues par le cahier des charges ou définies par le ministre chargé de l'énergie, y compris les coûts échoués en cas d'abandon de la procédure de mise en concurrence. Les éventuelles modifications de ces conditions à l'initiative du candidat retenu sont à la charge de ce dernier. En cas de défaillance du candidat retenu, ce dernier assume les coûts échoués dans les conditions prévues par le cahier des charges. (1)
+
+Après la publication de la cartographie des zones maritimes et terrestres mentionnée à l'article L. 219-5-1 du code de l'environnement, le ministre chargé de l'énergie peut demander au gestionnaire du réseau public de transport d'électricité d'engager par anticipation les études et les travaux pour le raccordement d'installations de production d'électricité en mer. La Commission de régulation de l'énergie veille à la pertinence technique et économique des investissements envisagés par le gestionnaire du réseau public de transport.
 
 ##### Article L342-7-1
 
 Pour les installations de production d'électricité à partir de sources d'énergie renouvelable implantées en mer faisant l'objet d'une procédure de mise en concurrence prévue à l'article L. 311-10, lorsque le producteur ne choisit pas l'emplacement de la zone d'implantation du parc, les avaries ou dysfonctionnements des ouvrages de raccordement des installations de production en mer entraînant une limitation partielle ou totale de la production d'électricité à partir d'énergie renouvelable donnent lieu au versement d'indemnités par le gestionnaire de réseau au producteur. Les modalités d'application du présent article, y compris les cas de dispense d'indemnisation, sont fixées par décret pris après avis de la Commission de régulation de l'énergie.
 
+##### Article L342-7-2
+
+Lorsque le gestionnaire du réseau de transport doit réaliser un ensemble d'ouvrages non constitutifs d'un renforcement pour raccorder à son réseau une installation de consommation, il peut, après autorisation de la Commission de régulation de l'énergie et afin de permettre le raccordement concomitant ou ultérieur à son réseau d'autres installations de consommation ou d'ouvrages de réseaux publics de distribution situés à proximité, dimensionner cet ensemble d'ouvrages pour qu'il offre une capacité de raccordement supérieure à la capacité nécessaire pour le seul raccordement de l'installation à l'origine de ces travaux.
+
+La Commission de régulation de l'énergie détermine les conditions dans lesquelles le gestionnaire du réseau public de transport peut réaliser ces investissements en garantissant leur pertinence technique et économique.
+
+La Commission de régulation de l'énergie détermine également la quote-part des coûts de l'ensemble d'ouvrages prévu au premier alinéa qui peut être mise à la charge du demandeur du raccordement au réseau public de transport d'électricité d'une installation de consommation ou, le cas échéant, d'un ouvrage du réseau de distribution dans la mesure où il bénéficiera de la capacité de raccordement offerte par cet ensemble d'ouvrages, sans préjudice de la deuxième phrase du dernier alinéa de l'article L. 342-7. Cette quote-part est déterminée sur la partie des ouvrages du réseau public de transport permettant de desservir au moins l'installation du demandeur du raccordement et une autre installation. Cette quote-part est calculée en proportion de la puissance de raccordement de l'installation du demandeur sur la capacité offerte par l'ensemble d'ouvrages.
+
+La quote-part mentionnée au troisième alinéa du présent article n'est exigible qu'au titre des demandes de raccordement formulées pendant un délai fixé par la Commission de régulation de l'énergie, dont la durée ne peut excéder dix ans à compter de la mise en service des ouvrages. A l'expiration de ce délai, le gestionnaire de réseau de transport supporte le coût des ouvrages correspondant à la capacité demeurant inutilisée.
+
+Un décret, pris après avis de la Commission de régulation de l'énergie, détermine les modalités d'application du présent article.
+
 ##### Article L342-8
 
-Lorsque le gestionnaire du réseau public de distribution est le maître d'ouvrage des travaux, les principes généraux de calcul de la contribution qui lui est due sont arrêtés par l'autorité administrative sur proposition de la Commission de régulation de l'énergie. Ils peuvent prendre la forme de barèmes.
+Lorsque le gestionnaire du réseau public de distribution est le maître d'ouvrage des travaux, les principes généraux de calcul de la contribution qui lui est due sont arrêtés par l'autorité administrative sur proposition de la Commission de régulation de l'énergie.
 
-Les barèmes de raccordement, établis par chaque gestionnaire de réseau de plus de 100 000 clients, sont soumis à l'approbation de la Commission de régulation de l'énergie. Les barèmes de raccordement établis par les gestionnaires d'un réseau public de distribution desservant moins de 100 000 clients sont notifiés à la Commission de régulation de l'énergie. Ils entrent en vigueur dans un délai de trois mois à compter de leur notification, sauf opposition motivée de la Commission de régulation de l'énergie formulée dans le même délai.
+Les méthodes de calcul des coûts de la contribution mentionnée au premier alinéa, établies par chaque gestionnaire de réseau de plus de 100 000 clients, sont soumises à l'approbation de la Commission de régulation de l'énergie.
+
+Les méthodes de calcul des coûts de la contribution établies par les gestionnaires d'un réseau public de distribution desservant moins de 100 000 clients sont notifiées à la Commission de régulation de l'énergie. Elles entrent en vigueur à l'expiration d'un délai de trois mois à compter de leur notification, sauf opposition motivée de la Commission de régulation de l'énergie formulée dans ce délai. Les méthodes de calcul peuvent prendre la forme de barèmes.
 
 Les contrats de concessions de distribution publique d'électricité et les règlements de service des régies doivent être en conformité avec les principes ainsi définis.
 
@@ -6180,6 +6472,12 @@ Sont précisés par voie réglementaire les cas dans lesquels le producteur est 
 Est précisé par voie réglementaire le mode de détermination du périmètre de mutualisation des postes du réseau public de transport, des postes de transformation entre les réseaux publics de distribution et le réseau public de transport et des liaisons de raccordement au réseau public de transport, inscrits dans le schéma de raccordement au réseau des énergies renouvelables, que ces ouvrages soient nouvellement créés ou existants.
 
 Lorsque le raccordement d'une installation à partir de sources d'énergie renouvelable ne s'inscrit pas dans le schéma régional de raccordement au réseau des énergies renouvelables, le producteur est redevable d'une contribution au titre du raccordement défini au premier alinéa de l'article L. 342-1. La prise en charge prévue au 3° de l'article L. 341-2 porte sur l'ensemble des éléments constitutifs de cette contribution.
+
+##### Article L342-13
+
+Lorsque les travaux de raccordement au réseau public de distribution d'électricité sont destinés à desservir une installation de production, le maître d'ouvrage du raccordement peut, sur demande et aux frais exclusifs du producteur, inclure dans le périmètre de ses travaux ceux relatifs à la pose des lignes en fibre optique nécessaires à la desserte de l'installation de production.
+
+Les conditions d'application du présent article sont précisées par voie réglementaire.
 
 #### Chapitre III : Les lignes directes
 
@@ -6575,6 +6873,8 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 ##### Article L361-1
 
 Le schéma prévu à l'article L. 321-7 est élaboré, dans les départements et les régions d'outre-mer, par le gestionnaire du réseau public de distribution du territoire concerné. Il est dénommé " schéma de raccordement au réseau des énergies renouvelables ".
+
+Le périmètre de mutualisation du schéma est étendu aux postes du réseau public de distribution équipés de transformateurs ou d'autotransformateurs avec régleur et aux liaisons du réseau de distribution de raccordement aux postes de transformation entre le réseau public de distribution et le réseau public de transport dès lors que ces liaisons ne sont pas destinées à desservir des consommateurs.
 
 Le montant de la quote-part mentionnée à l'article L. 342-1 et exigible dans le cadre des raccordements est plafonné à hauteur du montant de la quote-part la plus élevée, augmentée de 30 %, constaté dans les schémas adoptés sur le territoire métropolitain continental à la date d'approbation de la quote-part unitaire du département ou de la région d'outre-mer considéré.
 
@@ -7237,11 +7537,13 @@ En cas d'injection d'hydrogène renouvelable dans les réseaux de transport de g
 
 ###### Article L431-6-5
 
-Les gestionnaires de réseau de transport de gaz naturel exercent les activités de comptage du biogaz pour :
+Les gestionnaires de réseau de transport de gaz naturel exercent les activités de comptage du biogaz ou du gaz bas-carbone ou renouvelable pour :
 
 1° Les installations de production de biogaz non raccordées à un réseau de gaz naturel et bénéficiant d'un contrat d'achat au titre des articles L. 446-4, L. 446-5 ou L. 446-26 ;
 
-2° Les installations de production de biogaz bénéficiant d'un contrat de complément de rémunération au titre de l'article L. 446-7.
+2° Les installations de production de biogaz bénéficiant d'un contrat de complément de rémunération au titre de l'article L. 446-7 ;
+
+3° Les installations de production de gaz bas-carbone ou renouvelable bénéficiant d'un contrat d'expérimentation mentionné à la section 3 du chapitre VII du titre IV du livre IV.
 
 Les gestionnaires de réseau de transport de gaz naturel sont notamment chargés de la fourniture, de la pose, du contrôle métrologique, de l'entretien et du renouvellement des dispositifs de comptage et d'assurer la gestion des données et toutes les missions afférentes à l'ensemble de ces activités.
 
@@ -7357,11 +7659,13 @@ En cas d'injection d'hydrogène renouvelable dans les réseaux de distribution d
 
 ###### Article L432-15
 
-Les gestionnaires de réseau de distribution de gaz naturel exercent les activités de comptage du biogaz pour :
+Les gestionnaires de réseau de distribution de gaz naturel exercent les activités de comptage du biogaz ou du gaz bas-carbone ou renouvelable pour :
 
 1° Les installations de production de biogaz non raccordées à un réseau de gaz naturel et bénéficiant d'un contrat d'achat au titre des articles L. 446-4, L. 446-5 ou L. 446-26 ;
 
-2° Les installations de production de biogaz bénéficiant d'un contrat de complément de rémunération au titre de l'article L. 446-7.
+2° Les installations de production de biogaz bénéficiant d'un contrat de complément de rémunération au titre de l'article L. 446-7 ;
+
+3° Les installations de production de gaz bas-carbone ou renouvelable bénéficiant d'un contrat d'expérimentation mentionné à la section 3 du chapitre VII du titre IV du livre IV.
 
 Les gestionnaires de réseau de distribution de gaz naturel sont notamment chargés de la fourniture, de la pose, du contrôle métrologique, de l'entretien et du renouvellement des dispositifs de comptage et d'assurer la gestion des données et toutes les missions afférentes à l'ensemble de ces activités.
 
@@ -7567,6 +7871,16 @@ Les dispositions du code de la commande publique n'imposent pas à l'Etat, à se
 
 Lorsqu'elles l'exercent pour l'un des sites de consommation, ces personnes appliquent les procédures de ce code déterminées en fonction de la consommation de ce site et peuvent conserver le ou les contrats de fourniture de leurs autres sites de consommation. Les contrats d'achat de gaz passés en application de ces procédures peuvent être conclus à prix fermes ou à prix révisables pour la partie relative à la fourniture.
 
+##### Article L441-6
+
+Dans les conditions prévues par le code de la commande publique, les pouvoirs adjudicateurs et les entités adjudicatrices définis respectivement aux articles L. 1211-1 et L. 1212-1 du même code peuvent recourir à un contrat de la commande publique pour répondre à leurs besoins en gaz renouvelable, dont le biogaz, ou en gaz bas-carbone au sens des articles L. 445-1 ou L. 447-1 du présent code :
+
+1° Dans le cadre d'une opération d'autoconsommation collective étendue mentionnée à l'article L. 448-1 avec un ou plusieurs producteurs participant à cette opération dont, le cas échéant, la personne morale organisatrice mentionnée à l'article L. 448-2 ;
+
+2° Dans le cadre d'un contrat de vente directe à long terme de biogaz, de gaz renouvelable ou de gaz bas-carbone mentionné au deuxième alinéa de l'article L. 443-1.
+
+La durée du contrat est définie en tenant compte de la nature des prestations et de la durée d'amortissement des installations nécessaires à leur exécution, y compris lorsque le pouvoir adjudicateur ou l'entité adjudicatrice n'acquiert pas ces installations.
+
 #### Chapitre II : Les contrats de vente
 
 ##### Article L442-1
@@ -7587,7 +7901,13 @@ Dans les conditions fixées par l'article L. 224-8 du code de la consommation, l
 
 ###### Article L443-1
 
-Sous réserve des dispositions de l'article L. 446-1, la fourniture de gaz est soumise à autorisation de l'autorité administrative.
+Sous réserve des dispositions de l'article L. 446-2, la fourniture de gaz est soumise à autorisation de l'autorité administrative.
+
+A défaut pour le producteur de gaz concluant un contrat de vente directe à long terme de biogaz, de gaz renouvelable ou de gaz bas-carbone au sens des articles L. 445-1 ou L. 447-1 d'en être lui-même titulaire, ledit contrat peut désigner un fournisseur ou un producteur tiers, déjà titulaire d'une telle autorisation, afin qu'il assume, par délégation, à l'égard des consommateurs finals, les obligations incombant aux fournisseurs de gaz en application du présent code, notamment celles prévues à la section 2 du chapitre Ier du titre II du livre Ier.
+
+Lorsqu'un contrat mentionné au deuxième alinéa du présent article est mis en œuvre dans le cadre d'un appel d'offres ou d'un appel à projets prévus aux articles L. 446-5, L. 446-14 ou L. 446-15, les producteurs de biogaz, de gaz renouvelable ou de gaz bas-carbone mentionnés au deuxième alinéa du présent article adressent à la Commission de régulation de l'énergie, dans un délai de deux mois à compter de la conclusion du contrat, de sa modification ou de la survenance de tout événement l'affectant, les éléments contractuels, financiers, techniques ou opérationnels, pour l'accomplissement des missions définies à l'article L. 131-2. La Commission de régulation de l'énergie peut établir la liste des éléments à lui adresser.
+
+Les pouvoirs adjudicateurs et les entités adjudicatrices mentionnés aux articles L. 1211-1 et L. 1212-1 du code de la commande publique peuvent être parties à un contrat mentionné au deuxième alinéa du présent article, dans le respect des règles prévues par le code de la commande publique.
 
 ###### Article L443-2
 
@@ -7611,7 +7931,7 @@ Les modalités de délivrance des autorisations de fourniture de gaz sont fixée
 
 Les fournisseurs exercent leur activité dans les conditions fixées par leur autorisation de fourniture.
 
-Un décret en Conseil d'Etat fixe les obligations qui s'imposent aux titulaires, en tenant compte des diverses catégories d'opérateurs et des caractéristiques de leurs clients, et les conditions de révision de ces obligations.
+Un décret en Conseil d'Etat, pris après avis de la Commission de régulation de l'énergie, fixe les obligations qui s'imposent aux titulaires, en tenant compte des diverses catégories d'opérateurs et des caractéristiques de leurs clients, et les conditions de révision de ces obligations. Ce décret prévoit les éléments, les modifications ou les événements mentionnés au troisième alinéa de l'article L. 443-1.
 
 L'autorité administrative peut imposer aux fournisseurs de lui communiquer, chaque année, leur plan prévisionnel d'approvisionnement en gaz naturel.
 
@@ -7767,6 +8087,14 @@ Sont considérés comme renouvelables les gaz produits à partir de sources d'é
 
 Pour l'application du présent chapitre, les biogaz régis par le chapitre VI du présent titre et l'hydrogène renouvelable défini à l'article L. 811-1 sont des gaz renouvelables.
 
+###### Article L445-1-1
+
+La section 11 du chapitre VI du présent titre est également applicable aux producteurs de gaz renouvelable.
+
+###### Article L445-1-2
+
+La section 12 du chapitre VI du présent titre est également applicable aux gaz renouvelables.
+
 ##### Section 2 : La vente de gaz renouvelable injecté dans le réseau de gaz naturel
 
 ###### Article L445-2
@@ -7795,7 +8123,19 @@ Un décret précise les modalités d'application du présent article, qui tienne
 
 ###### Article L446-1
 
-Les dispositifs de soutien à la production de biogaz mis en place dans le cadre des procédures de mise en concurrence mentionnées aux articles L. 446-5 et L. 446-14 et publiés depuis le 8 novembre 2020 intègrent la prise en compte du bilan carbone des projets de production parmi leurs critères d'éligibilité ou de notation, dans le respect des principes de transparence et d'égalité de traitement des producteurs. Ce bilan carbone inclut au moins l'analyse de l'étape du cycle de vie jugée la plus pertinente au regard de l'objectif de discrimination effective entre les projets parmi les étapes de la fabrication, du transport, de l'utilisation et de la fin de vie des installations. Les modalités d'évaluation et de prise en compte de ce bilan carbone varient selon que le biogaz est injecté ou non dans les réseaux et selon le type d'installations. La prise en compte de ce bilan carbone peut prendre la forme d'une bonification attribuée aux projets les plus performants
+Les dispositifs de soutien à la production de biogaz mis en place dans le cadre des procédures de mise en concurrence mentionnées aux articles L. 446-5, L. 446-14 et L. 446-15 et publiés depuis le 8 novembre 2020 intègrent la prise en compte du bilan carbone des projets de production parmi leurs critères d'éligibilité ou de notation, dans le respect des principes de transparence et d'égalité de traitement des producteurs. Ce bilan carbone inclut au moins l'analyse de l'étape du cycle de vie jugée la plus pertinente au regard de l'objectif de discrimination effective entre les projets parmi les étapes de l'extraction, de la fabrication, du transport, de l'utilisation et de la fin de vie des installations. Les modalités d'évaluation et de prise en compte de ce bilan carbone varient selon que le biogaz est injecté ou non dans les réseaux et selon le type d'installations. La prise en compte de ce bilan carbone peut prendre la forme d'une bonification attribuée aux projets les plus performants.
+
+Cette évaluation peut prendre en compte :
+
+1° Pour l'étape de l'extraction, la consommation de minerais et de métaux stratégiques nécessaires aux installations ;
+
+2° Pour l'étape de la fabrication, la consommation de biens et de services en approvisionnements directs ;
+
+3° Pour l'étape du transport, l'impact des installations sur le développement des réseaux de distribution ou de transport de gaz ;
+
+4° Pour l'étape de l'utilisation, la consommation d'énergie des installations et leur impact sur l'utilisation des sols ;
+
+5° Pour l'étape de la fin de vie, les garanties de démantèlement et de recyclage des installations ainsi que de remise en état des sols.
 
 ##### Section 2 : La vente de biogaz
 
@@ -7827,7 +8167,7 @@ I. - Lorsque les capacités de production de biogaz destiné à être injecté d
 
 II. - Sous réserve des articles L. 2224-32 et L. 2224-33 du code général des collectivités territoriales, toute personne exploitant ou désirant construire et exploiter une unité de production, installée sur le territoire d'un Etat membre de l'Union européenne ou, dans le cadre de l'exécution d'accords internationaux, sur le territoire de tout autre Etat, peut participer à l'appel d'offres.
 
-III. - Les candidats retenus désignés par l'autorité administrative bénéficient, selon les modalités définies par l'appel d'offres, d'un contrat d'achat pour le biogaz injecté. L'acheteur du biogaz est un fournisseur de gaz naturel titulaire de l'autorisation administrative mentionnée à l'article L. 443-1 ou l'acheteur de dernier recours mentionné à l'article L. 446-4. L'achat du biogaz s'effectue au prix résultant de l'appel d'offres. Les surcoûts éventuels qui en résultent pour le fournisseur font l'objet d'une compensation.
+III. - Les candidats retenus désignés par l'autorité administrative bénéficient, selon les modalités définies par l'appel d'offres, d'un contrat d'achat pour tout ou partie du biogaz injecté. L'acheteur du biogaz est un fournisseur de gaz naturel titulaire de l'autorisation administrative mentionnée à l'article L. 443-1 ou l'acheteur de dernier recours mentionné à l'article L. 446-4. L'achat du biogaz s'effectue au prix résultant de l'appel d'offres. Les surcoûts éventuels qui en résultent pour le fournisseur font l'objet d'une compensation.
 
 IV. - Pour examiner, au titre de la recevabilité ou de la sélection, les offres soumises, l'autorité administrative se fonde notamment sur les critères suivants :
 
@@ -7903,7 +8243,7 @@ Les contrats conclus en application de la présente section sont des contrats ad
 
 ###### Article L446-13
 
-Les installations pour lesquelles une demande de contrat de complément de rémunération a été faite en application de l'article L. 446-7 peuvent être soumises à un contrôle lors de leur mise en service ou à des contrôles périodiques, permettant de s'assurer que ces installations ont été construites ou fonctionnent dans les conditions requises par la réglementation ou par le contrat de complément de rémunération. Ces contrôles sont effectués aux frais du producteur par des organismes agréés.
+Les installations ayant été retenues à l'issue d'une procédure d'appel d'offres en application de l'article L. 446-7 peuvent être soumises à un contrôle lors de leur mise en service ou à des contrôles périodiques, permettant de s'assurer que ces installations ont été construites ou fonctionnent dans les conditions requises par la réglementation ou par le contrat de complément de rémunération. Ces contrôles sont effectués aux frais du producteur par des organismes agréés.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article. Il fixe notamment, selon les caractéristiques des installations, la périodicité, les modalités de fonctionnement du système de contrôle et, en particulier, les conditions d'agrément des organismes contrôleurs ainsi que les conditions dans lesquelles les résultats sont tenus à la disposition de l'administration ou, lorsque certaines non-conformités sont détectées, transmis à l'autorité administrative compétente.
 
@@ -7911,7 +8251,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 I.-Lorsque les capacités de production de biogaz ne répondent pas aux objectifs chiffrés de la programmation pluriannuelle de l'énergie, notamment ceux concernant les techniques de production et la localisation géographique des installations, l'autorité administrative peut recourir à une procédure d'appel à projets. Cette procédure est conduite dans le respect des principes de transparence et d'égalité de traitement des candidats. Ses modalités sont définies par décret en Conseil d'Etat pris après avis de la Commission de régulation de l'énergie.
 
-II.-Les candidats retenus par l'autorité administrative à l'issue de la procédure mentionnée au I bénéficient d'un contrat offrant un complément de rémunération à la vente du biogaz produit.
+II.-Les candidats retenus par l'autorité administrative à l'issue de la procédure mentionnée au I bénéficient d'un contrat offrant un complément de rémunération à la vente de tout ou partie du biogaz produit.
 
 III.-Les conditions du complément de rémunération mentionné au II sont établies au cas par cas afin de respecter l'exigence de ne pas excéder une rémunération raisonnable des capitaux investis. Les modalités selon lesquelles la Commission de régulation de l'énergie fixe les conditions du complément de rémunération sont précisées par décret en Conseil d'Etat pris après avis de la même commission.
 
@@ -7919,7 +8259,7 @@ III.-Les conditions du complément de rémunération mentionné au II sont étab
 
 I.-Lorsque les capacités de production de biogaz ne répondent pas aux objectifs chiffrés de la programmation pluriannuelle de l'énergie, notamment ceux concernant les techniques de production et la localisation géographique des installations, l'autorité administrative peut recourir à une procédure d'appel d'offres. Cette procédure est conduite dans le respect des principes de transparence et d'égalité de traitement des candidats. Ses modalités, qui tiennent compte du retour d'expérience des appels à projets organisés en application de l'article L. 446-14, sont définies par décret en Conseil d'Etat pris après avis de la Commission de régulation de l'énergie.
 
-II.-Les candidats retenus par l'autorité administrative à l'issue de la procédure mentionnée au I du présent article bénéficient, selon les modalités définies par la procédure d'appel d'offres, d'un contrat offrant un complément de rémunération à la vente du biogaz produit.
+II.-Les candidats retenus par l'autorité administrative à l'issue de la procédure mentionnée au I du présent article bénéficient, selon les modalités définies par la procédure d'appel d'offres, d'un contrat offrant un complément de rémunération à la vente de tout ou partie du biogaz produit.
 
 III.-Pour examiner, au titre de la recevabilité ou de la sélection, les offres soumises, l'autorité administrative se fonde notamment sur les critères suivants :
 
@@ -8251,6 +8591,96 @@ Pour l'application du I du présent article, les régions qui le souhaitent peuv
 
 III.-Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
+##### Section 13 : Contribution au partage territorial de la valeur
+
+###### Article L446-59
+
+Les candidats retenus à l'issue des procédures d'appel d'offres ou d'appels à projets mentionnées aux articles L. 446-5, L. 446-14, L. 446-15 ou L. 446-24 sont tenus de financer à la fois :
+
+1° Des projets portés par la commune ou par l'établissement public de coopération intercommunale à fiscalité propre d'implantation de l'installation en faveur de la transition énergétique, de la sauvegarde ou de la protection de la biodiversité ou de l'adaptation au changement climatique, tels que la rénovation énergétique, l'efficacité énergétique ou la mobilité la moins consommatrice et la moins polluante ou des mesures en faveur des ménages afin de lutter contre la précarité énergétique ;
+
+2° Des projets de protection ou de sauvegarde de la biodiversité ;
+
+Les contributions aux projets mentionnés aux 1° et 2° du présent article peuvent être réalisées par des versements à des fonds dont les modalités sont précisées par le décret mentionné au dernier alinéa. Le montant de ces contributions ou, le cas échéant, le versement à ces fonds est exprimé en fonction de la capacité de production installée et ne peut être inférieur à un seuil fixé par le même décret. Les sommes versées pour le financement des projets portés par la commune ou par l'établissement public de coopération communale mentionnés au 1° ne peuvent être inférieures à 85 % du montant total versé en application des 1° et 2°, au moins 80 % de ces sommes étant allouées à la commune. Les sommes versées en application du 2° ne peuvent être inférieures à 15 % de ce même montant total.
+
+La contribution aux projets mentionnés au 1° peut également être réalisée par une participation en capital, prévue à l'article L. 294-1, souscrite par la commune ou par l'établissement public de coopération intercommunale à fiscalité propre d'implantation de l'installation, à leur demande et avec leur accord, selon des modalités précisées par le décret mentionné au dernier alinéa du présent article.
+
+Les contributions aux projets mentionnés aux 1° et 2° sont versées avant l'activation des contrats afférents à l'obligation d'achat ou au complément de rémunération appliqués au gaz produit.
+
+Pour le financement des projets mentionnés au 1°, les communes ou les établissements publics de coopération intercommunale à fiscalité propre rendent compte annuellement du montant de cette contribution territoriale et de son utilisation, au moyen de données accessibles dans un format ouvert et librement réutilisable.
+
+Le financement des projets mentionnés au 2° peut être réalisé par des versements à l'Office français de la biodiversité mentionné à l'article L. 131-9 du code de l'environnement. Ces versements sont, le cas échéant, destinés à financer exclusivement des actions s'inscrivant dans le cadre des plans nationaux d'action opérationnels pour la conservation ou le rétablissement des espèces menacées, prévus à l'article L. 411-3 du même code. L'Office français de la biodiversité publie chaque année un rapport détaillant l'affectation des sommes perçues et rend compte de cette affectation, au moyen de données accessibles dans un format ouvert et librement réutilisable.
+
+Un décret, pris après avis de la Commission de régulation de l'énergie, détermine les modalités d'application du présent article, en particulier les caractéristiques des installations concernées.
+
+#### Chapitre VII : Dispositions générales relatives aux gaz bas-carbone injectés dans le réseau de gaz naturel
+
+##### Section 1 : Champ d'application
+
+###### Article L447-1
+
+Est désigné, dans le présent livre, comme un “ gaz bas-carbone ” un gaz constitué principalement de méthane qui peut être injecté et transporté de façon sûre dans le réseau de gaz naturel et dont le procédé de production engendre des émissions inférieures ou égales à un seuil fixé par arrêté du ministre chargé de l'énergie.
+
+###### Article L447-2
+
+Le présent chapitre s'applique aux gaz bas-carbone lorsqu'ils sont injectés dans le réseau de gaz naturel en vue de leur commercialisation.
+
+###### Article L447-3
+
+La section 12 du chapitre VI du présent titre est également applicable aux gaz bas-carbone.
+
+##### Section 2 : La vente de gaz bas-carbone injecté dans le réseau de gaz naturel
+
+###### Article L447-4
+
+La vente de gaz bas-carbone injecté dans le réseau de gaz naturel n'est pas soumise à autorisation de fourniture lorsque ce gaz est vendu par le producteur à un fournisseur de gaz naturel.
+
+##### Section 3 : Le contrat d'expérimentation
+
+###### Article L447-5
+
+La section 7 du chapitre VI du présent titre est également applicable aux projets de production de gaz bas-carbone ou de gaz renouvelable qui utilisent des technologies innovantes, dont la méthanisation, la méthanation, la pyrogazéification, la gazéification hydrothermale ou l'hydrogène renouvelable.
+
+##### Section 4 : Les sanctions administratives
+
+###### Article L447-6
+
+La section 10 du chapitre VI du présent titre est également applicable aux producteurs de gaz bas-carbone.
+
+##### Section 5 : Information préalable des collectivités territoriales sur certaines installations de production de gaz bas-carbone
+
+###### Article L447-7
+
+La section 11 du chapitre VI du présent titre est également applicable aux producteurs de gaz bas-carbone.
+
+#### Chapitre VIII : L'autoconsommation collective étendue
+
+##### Article L448-1
+
+Une opération est qualifiée d'autoconsommation collective étendue en gaz lorsque la fourniture de gaz renouvelable est effectuée entre un ou plusieurs producteurs et un ou plusieurs consommateurs finals liés entre eux au sein d'une personne morale dont les points de consommation et d'injection sont situés sur le réseau public de distribution de gaz et respectent les critères, notamment de proximité géographique, fixés par arrêté du ministre chargé de l'énergie, après avis de la Commission de régulation de l'énergie.
+
+L'activité d'autoconsommation collective ne peut constituer, pour l'autoconsommateur, le consommateur ou le producteur qui n'est pas un ménage, son activité professionnelle ou commerciale principale.
+
+##### Article L448-2
+
+Lorsque l'opération d'autoconsommation collective réunit un organisme d'habitations à loyer modéré, au sens de l'article L. 411-2 du code de la construction et de l'habitation, et ses locataires ou des personnes physiques ou morales tierces, la personne morale organisatrice mentionnée à l'article L. 448-1 du présent code peut être ledit organisme d'habitations à loyer modéré.
+
+Le bailleur informe ses locataires du projet d'autoconsommation collective et les nouveaux locataires de l'existence d'une opération d'autoconsommation collective. A compter de la réception de cette information, chaque locataire ou nouveau locataire dispose d'un délai raisonnable pour informer son bailleur de son refus de participer à l'opération d'autoconsommation collective. A défaut d'opposition de la part du locataire ou du nouveau locataire, ce dernier est considéré comme participant à l'opération d'autoconsommation collective. Chaque locataire peut informer à tout moment son bailleur de son souhait d'interrompre sa participation à l'opération d'autoconsommation collective. Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+##### Article L448-3
+
+La personne morale mentionnée à l'article L. 448-1 organisatrice d'une opération d'autoconsommation collective indique au gestionnaire de réseau public de distribution compétent la répartition de la production autoconsommée entre les consommateurs finals concernés.
+
+Lorsqu'un consommateur participant à une opération d'autoconsommation collective fait appel à un fournisseur pour compléter son alimentation en gaz, le gestionnaire du réseau public de distribution de gaz concerné établit la consommation de gaz relevant de ce fournisseur en prenant en compte la répartition mentionnée au premier alinéa du présent article ainsi que le comportement de chaque consommateur final concerné, selon des modalités fixées par voie réglementaire.
+
+##### Article L448-4
+
+Les injections de gaz renouvelable sur le réseau public de distribution effectuées dans le cadre d'une opération d'autoconsommation collective étendue et qui excèdent la consommation associée à cette opération d'autoconsommation sont, à défaut d'être vendues à un tiers, cédées à titre gratuit au gestionnaire du réseau public de distribution de gaz naturel auquel l'installation de production est raccordée et rattachées au périmètre d'équilibre de ce dernier. Ces injections sont alors affectées aux pertes techniques de ce réseau.
+
+##### Article L448-5
+
+Les conditions d'application du présent chapitre sont définies par décret.
+
 ### TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS
 
 #### Chapitre Ier : L'accès aux réseaux et installations
@@ -8275,7 +8705,7 @@ Les tarifs d'utilisation des réseaux de transport, les conditions commerciales 
 
 Figurent notamment parmi les coûts supportés par les gestionnaires des réseaux de transport les dépenses d'exploitation, de recherche et de développement nécessaires à la sécurité du réseau et à la maîtrise de la qualité du gaz naturel injecté ou soutiré ainsi que la partie du coût des renforcements des réseaux mentionnés à l'article L. 453-9 restant à la charge des gestionnaires de réseaux de transport.
 
-Pour les tarifs d'utilisation des réseaux de transport de gaz, ces coûts comprennent également une partie des coûts de raccordement à ces réseaux des installations de production de biogaz. Le niveau de prise en charge, arrêté par l'autorité administrative après avis de la Commission de régulation de l'énergie, ne peut excéder 60 % du coût du raccordement.
+Pour les tarifs d'utilisation des réseaux de transport de gaz, ces coûts comprennent également une partie des coûts de raccordement à ces réseaux des installations de production de gaz renouvelable, dont le biogaz, ou de gaz bas-carbone. Le niveau de prise en charge, arrêté par l'autorité administrative après avis de la Commission de régulation de l'énergie, ne peut excéder 60 % du coût du raccordement.
 
 Figurent notamment parmi les coûts supportés par les opérateurs des infrastructures de stockage mentionnées à l'article L. 421-3-1 une rémunération normale des capitaux investis, les coûts mentionnés au dernier alinéa de l'article L. 421-6, les dépenses de recherche et développement nécessaires à la sécurité de ces infrastructures et les coûts supportés par ces opérateurs au titre de la modification de la nature ou des caractéristiques du gaz acheminé dans les réseaux de gaz naturel.
 
@@ -8293,7 +8723,7 @@ Les tarifs d'utilisation des réseaux de distribution de gaz naturel, les condit
 
 Figurent notamment parmi ces coûts les dépenses d'exploitation, de recherche et de développement nécessaires à la sécurité du réseau et à la maîtrise de la qualité du gaz naturel injecté ou soutiré, la partie du coût des renforcements des réseaux mentionnés à l'article L. 453-9 restant à la charge des gestionnaires de réseaux de distribution ainsi que la partie du coût des extensions de réseaux restant à la charge des distributeurs. Figurent également parmi ces coûts les dépenses afférentes aux opérations de contrôle, d'adaptation et de réglage des appareils et équipements gaziers mentionnées au deuxième alinéa du I de l'article L. 432-13ainsi que les dépenses afférentes aux visites et aux opérations de transfert au réseau public de distribution des parties de canalisations mentionnées à l'article L. 432-18.
 
-Pour les tarifs d'utilisation des réseaux publics de distribution de gaz naturel qui ne sont pas concédés en application de l'article L. 432-6 et qui ont pour société gestionnaire une société mentionnée à l'article L. 111-61, ces coûts comprennent également une partie des coûts de raccordement à ces réseaux des installations de production de biogaz. Le niveau de prise en charge ne peut excéder 60 % du coût du raccordement. Il est arrêté par l'autorité administrative, après avis de la Commission de régulation de l'énergie.
+Pour les tarifs d'utilisation des réseaux publics de distribution de gaz naturel qui ne sont pas concédés en application de l'article L. 432-6 et qui ont pour société gestionnaire une société mentionnée à l'article L. 111-61, ces coûts comprennent également une partie des coûts de raccordement à ces réseaux des installations de production de gaz renouvelable, dont le biogaz, ou de gaz bas-carbone. Le niveau de prise en charge ne peut excéder 60 % du coût du raccordement. Il est arrêté par l'autorité administrative, après avis de la Commission de régulation de l'énergie.
 
 Les tarifs d'utilisation des réseaux publics de distribution de gaz naturel autres que ceux concédés en application de l'article L. 432-6 font l'objet d'une péréquation à l'intérieur de la zone de desserte de chaque gestionnaire. La méthodologie visant à établir un tarif de distribution de gaz naturel applicable à l'ensemble des concessions exploitées par ces gestionnaires de réseaux de gaz naturel peut reposer sur la référence à la structure du passif d'entreprises comparables du même secteur dans l'Union européenne sans se fonder sur la comptabilité particulière de chacune des concessions. Pour le calcul du coût du capital investi, cette méthodologie fixée par la Commission de régulation de l'énergie peut ainsi se fonder sur la rémunération d'une base d'actifs régulée, définie comme le produit de cette base par le coût moyen pondéré du capital, établi à partir d'une structure normative du passif du gestionnaire de réseau. Pour les gestionnaires de réseaux mentionnés au III de l'article L. 2224-31 du code général des collectivités territoriales, le tarif d'utilisation du réseau de distribution auquel ils sont raccordés est établi en tenant compte de leur participation financière initiale aux dépenses d'investissement nécessitées par leur raccordement.
 
@@ -8413,13 +8843,13 @@ L'autorité administrative peut prononcer à l'encontre des distributeurs de gaz
 
 ##### Article L453-9
 
-Lorsqu'une installation de production de biogaz est située à proximité d'un réseau de gaz naturel, les gestionnaires des réseaux de gaz naturel effectuent les renforcements nécessaires pour permettre l'injection dans le réseau du biogaz produit, dans les conditions et limites permettant de s'assurer de la pertinence technico-économique des investissements définies par décret pris après avis de la Commission de régulation de l'énergie. Ce décret précise la partie du coût des renforcements des réseaux à la charge du ou des gestionnaires des réseaux et celle restant à la charge du ou des producteurs ainsi que la répartition de cette dernière entre les différents producteurs concernés. Ce même décret prévoit l'association des autorités concédantes de la distribution publique de gaz mentionnées au I de l'article L. 2224-31 du code général des collectivités territoriales.
+Lorsqu'une installation de production de gaz renouvelable, dont le biogaz, ou de gaz bas-carbone est située à proximité d'un réseau de gaz naturel, les gestionnaires des réseaux de gaz naturel effectuent les renforcements nécessaires pour permettre l'injection dans le réseau du gaz renouvelable, dont le biogaz, ou du gaz bas-carbone produits, dans les conditions et limites permettant de s'assurer de la pertinence technico-économique des investissements définies par décret pris après avis de la Commission de régulation de l'énergie. Ce décret précise la partie du coût des renforcements des réseaux à la charge du ou des gestionnaires des réseaux et celle restant à la charge du ou des producteurs ainsi que la répartition de cette dernière entre les différents producteurs concernés. Ce même décret précise les conditions dans lesquelles les gestionnaires des réseaux de gaz naturel peuvent anticiper, après validation de la Commission de régulation de l'énergie, certains travaux de raccordement nécessaires à la réalisation de ces renforcements à compter du dépôt de la demande d'autorisation, de déclaration ou d'enregistrement, en application du titre Ier du livre V du code de l'environnement. Ce même décret prévoit l'association des autorités concédantes de la distribution publique de gaz mentionnées au I de l'article L. 2224-31 du code général des collectivités territoriales.
 
 ##### Article L453-10
 
 Un réseau public de distribution de gaz naturel peut comprendre une canalisation de distribution de gaz située hors de la zone de desserte du gestionnaire de ce réseau public sous réserve de l'accord entre l'autorité organisatrice de ce réseau et les communes sur le territoire desquelles la canalisation est implantée ou, le cas échéant, leurs établissements publics de coopération intercommunale ou syndicats mixtes lorsque la compétence afférente à la distribution publique de gaz leur a été transférée.
 
-Ces dispositions sont applicables à une canalisation nécessaire pour permettre le raccordement à un réseau public de distribution de gaz naturel d'une installation de production de biogaz implantée en dehors de la zone de desserte du gestionnaire de ce réseau.
+Ces dispositions sont applicables à une canalisation nécessaire pour permettre le raccordement à un réseau public de distribution de gaz naturel d'une installation de production de gaz renouvelable, dont le biogaz, ou de gaz bas-carbone implantée en dehors de la zone de desserte du gestionnaire de ce réseau.
 
 ### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS
 
@@ -8501,13 +8931,21 @@ La puissance d'une installation autorisée peut être augmentée selon les dispo
 
 ##### Article L511-6-1
 
-La puissance d'une installation concédée peut être augmentée, lorsque les modifications que l'augmentation de puissance implique sur le contrat initial de concession ne sont pas substantielles, par déclaration du concessionnaire à l'autorité administrative ayant octroyé la concession et sous réserve de son acceptation par l'autorité administrative.
+La puissance d'une installation concédée peut être augmentée, lorsque les modifications que l'augmentation de puissance implique sur le contrat initial de concession ne sont pas substantielles ou sont de faible montant au sens du 6° de l'article L. 3135-1 du code de la commande publique, par déclaration du concessionnaire à l'autorité administrative compétente la concession et sous réserve de son acceptation par l'autorité administrative.
 
 L'autorité administrative mentionnée au premier alinéa du présent article dispose d'un délai de six mois, renouvelable une fois, après transmission du dossier pour se prononcer sur la déclaration du concessionnaire. L'absence de réponse de l'autorité administrative dans le délai précité vaut décision d'acceptation.
 
+Le concessionnaire adresse à l'autorité compétente un dossier de déclaration démontrant que l'augmentation de puissance considérée répond à la condition prévue au premier alinéa du présent article et ne porte atteinte ni à la sécurité ni à la sûreté des ouvrages et, le cas échéant, que le projet fait l'objet d'un examen au cas par cas prévu au IV de l'article L. 122-1 du code de l'environnement.
+
 Cette augmentation n'ouvre pas droit au dispositif de prolongation de durée de la concession prévu à l'article L. 521-16-3.
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment celles relatives à la décision d'acceptation de la déclaration par l'autorité administrative compétente.
+Lorsque la déclaration est acceptée, l'augmentation de puissance est réalisée sans modification du contrat de concession d'énergie hydraulique.
+
+##### Article L511-6-2
+
+En cas de menace grave sur la sécurité de l'approvisionnement en électricité sur tout ou partie du territoire national, l'autorité administrative peut autoriser temporairement la mise en œuvre de l'augmentation de puissance, prévue à l'article L. 511-6-1, d'une installation hydraulique concédée, en application de l'article L. 511-5, dès lors que le dossier de déclaration a été déposé auprès d'elle.
+
+Les mesures prévues au présent article s'appliquent pendant la durée strictement nécessaire au maintien de la sécurité d'approvisionnement. Elles sont proportionnées à la gravité de la menace pesant sur la sécurité d'approvisionnement. L'autorité publique informe sans délai le comité de suivi de l'exécution de la concession et de la gestion des usages de l'eau prévu à l'article L. 524-1 du présent code ou, le cas échéant, la commission locale de l'eau prévue à l'article L. 212-4 du code de l'environnement de la mise en place de ce fonctionnement exceptionnel. Durant cette période, un suivi prescrit par l'autorité administrative est mis en place par le concessionnaire pour évaluer les éventuelles répercussions observées sur l'environnement aquatique, notamment sur la vie piscicole.
 
 ##### Article L511-7
 
@@ -8755,7 +9193,7 @@ La procédure de renouvellement des concessions est fixée par un décret en Con
 
 Au plus tard trois ans avant l'expiration de la concession, l'autorité administrative prend la décision soit de mettre définitivement fin à la concession à la date normale de son expiration, soit d'instituer une concession nouvelle à compter de l'expiration.
 
-La nouvelle concession doit être instituée au plus tard le jour de l'expiration du titre en cours, c'est-à-dire soit à la date normale d'expiration, soit si le dernier alinéa est mis en œuvre à la nouvelle date déterminée selon les dispositions de cet alinéa. A défaut, pour assurer la continuité de l'exploitation, ce titre est prorogé aux conditions antérieures jusqu'au moment où est délivrée la nouvelle concession.
+La nouvelle concession doit être instituée au plus tard le jour de l'expiration du titre en cours, c'est-à-dire soit à la date normale d'expiration, soit si le dernier alinéa est mis en œuvre à la nouvelle date déterminée selon les dispositions de cet alinéa. A défaut, pour assurer la continuité de l'exploitation, ce titre est prorogé aux conditions antérieures jusqu'au moment où est délivrée la nouvelle concession. Durant cette période de prorogation, les investissements réalisés par le concessionnaire et nécessaires pour assurer le maintien en bon état de marche et d'entretien de la future exploitation sont inscrits, après accord de l'autorité administrative compétente dans le département où est située l'usine hydraulique, sur un compte dédié. Ces investissements ne comprennent ni ceux qui auraient été nécessaires à la remise en bon état des ouvrages à l'échéance normale de la concession, ni ceux correspondant à des dépenses de maintenance courante, ni les dépenses éligibles à l'inscription au registre mentionné à l'article L. 521-15. Ils sont soumis à l'agrément de l'autorité administrative, sous réserve de la réalisation préalable, au plus tôt à la date d'échéance normale de la concession, d'un procès-verbal établi de manière contradictoire par le concessionnaire et l'autorité administrative dressant l'état des dépendances de la concession. Lors du renouvellement de la concession, la part non amortie des investissements mentionnés à la troisième phrase du présent alinéa est remboursée directement au concessionnaire précédent par le concessionnaire retenu, selon des modalités précisées par le décret mentionné au premier alinéa du présent article.
 
 Dans le cas où l'autorité administrative décide de mettre définitivement fin à une concession dont la puissance est inférieure au seuil mentionné au premier alinéa de l'article L. 511-5, la concession actuelle est, en vue d'assurer la continuité de l'exploitation, prorogée aux conditions antérieures jusqu'à la délivrance d'une autorisation ou à la notification de la décision de l'autorité administrative de cesser l'exploitation de l'installation hydraulique.
 
@@ -9587,7 +10025,7 @@ Les modalités de transmission des factures, les modalités d'accès aux donnée
 
 Au sens du présent code, est désigné comme “ hydrogène ” le gaz composé, dans une proportion déterminée par arrêté du ministre chargé de l'énergie, de molécules de dihydrogène, obtenu après mise en œuvre d'un procédé industriel.
 
-L'hydrogène renouvelable est l'hydrogène produit soit par électrolyse en utilisant de l'électricité issue de sources d'énergies renouvelables telles que définies à l'article L. 211-2, soit par toute une autre technologie utilisant exclusivement une ou plusieurs de ces mêmes sources d'énergies renouvelables et n'entrant pas en conflit avec d'autres usages permettant leur valorisation directe. Dans tous les cas, son procédé de production émet, par kilogramme d'hydrogène produit, une quantité d'équivalents dioxyde de carbone inférieure ou égale à un seuil.
+L'hydrogène renouvelable est l'hydrogène produit soit par électrolyse en utilisant de l'électricité issue de sources d'énergies renouvelables telles que définies à l'article L. 211-2, soit par toute une autre technologie utilisant exclusivement une ou plusieurs de ces mêmes sources d'énergies renouvelables et n'entrant pas en conflit avec d'autres usages permettant leur valorisation directe. Cette électricité peut être fournie dans le cadre d'une opération d'autoconsommation individuelle ou collective définie aux articles L. 315-1 et L. 315-2. Dans tous les cas, son procédé de production émet, par kilogramme d'hydrogène produit, une quantité d'équivalents dioxyde de carbone inférieure ou égale à un seuil.
 
 L'hydrogène bas-carbone est l'hydrogène dont le procédé de production engendre des émissions inférieures ou égales au seuil retenu pour la qualification d'hydrogène renouvelable, sans pouvoir, pour autant, recevoir cette dernière qualification, faute d'en remplir les autres critères.
 
@@ -9615,7 +10053,21 @@ Il prend la forme soit d'une aide au fonctionnement, soit d'une combinaison d'un
 
 La sélection des installations ou des projets admis à bénéficier de ce soutien s'effectue selon une procédure de mise en concurrence, conduite dans le respect des principes de transparence et d'égalité de traitement, précisée par décret en Conseil d'Etat.
 
-Cette procédure comporte une phase de sélection des candidats éligibles, en fonction de critères et conditions définis dans l'appel à projets par l'autorité administrative. Seuls les candidats éligibles sont admis à participer à la phase de désignation de ceux qui, parmi eux, sont retenus pour bénéficier du soutien. Cette désignation repose sur un examen individuel des projets éligibles, tenant compte de leur rentabilité économique, notamment du prix de l'hydrogène produit, au regard du bilan global en termes d'émission de gaz à effet de serre du fonctionnement de l'installation et de sa contribution à l'atteinte des objectifs nationaux énoncés à l'article L. 100-4.
+Cette procédure comporte une phase de sélection des candidats éligibles, en fonction de critères et conditions définis dans l'appel à projets par l'autorité administrative. Seuls les candidats éligibles sont admis à participer à la phase de désignation de ceux qui, parmi eux, sont retenus pour bénéficier du soutien. Cette désignation repose sur un examen individuel des projets éligibles, tenant compte de leur rentabilité économique, notamment du prix de l'hydrogène produit, au regard du bilan carbone de l'installation et de sa contribution à l'atteinte des objectifs nationaux énoncés à l'article L. 100-4.
+
+Ce bilan carbone inclut au moins l'analyse de l'étape du cycle de vie jugée la plus pertinente au regard de l'objectif de discrimination effective entre les projets parmi les étapes de l'extraction, de la fabrication, du transport, de l'utilisation et de la fin de vie des installations. Les modalités d'évaluation et de prise en compte de ce bilan carbone varient selon les filières et selon les technologies.
+
+Pour l'application du troisième alinéa du présent article, les modalités d'évaluation peuvent prendre en compte :
+
+1° Pour l'étape de l'extraction, la consommation de minerais et de métaux stratégiques nécessaires aux installations ;
+
+2° Pour l'étape de la fabrication, la consommation de biens et de services en approvisionnements directs ;
+
+3° Pour l'étape du transport, l'impact des installations sur l'adaptation des réseaux de distribution ou de transport d'électricité ou de gaz ou le développement de réseaux propres ;
+
+4° Pour l'étape de l'utilisation, la consommation d'énergie des installations et leur impact sur l'utilisation des sols ;
+
+5° Pour l'étape de la fin de vie, les garanties de démantèlement et de recyclage des installations ainsi que de remise en état des sols.
 
 ##### Article L812-4
 
