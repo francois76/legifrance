@@ -2990,6 +2990,16 @@ Les produits du tabac s'entendent des produits qui contiennent l'une des substan
 
 Un produit est susceptible d'être fumé lorsqu'il peut être fumé par le consommateur final en l'état ou après une manipulation ou une transformation autre qu'industrielle.
 
+###### Article L314-4-1
+
+Un produit est susceptible d'être inhalé après avoir été chauffé lorsqu'il répond aux conditions cumulatives suivantes :
+
+1° Il est coupé et fractionné ;
+
+2° Il est conditionné pour la vente au détail ;
+
+3° Il est spécialement préparé pour être chauffé au moyen d'un dispositif dédié afin de produire une émission susceptible d'être inhalée par le consommateur final.
+
 ###### Article L314-5
 
 Un produit est susceptible d'être mâché par le consommateur final lorsqu'il répond aux conditions cumulatives suivantes :
@@ -3009,16 +3019,6 @@ Un produit est susceptible d'être prisé par le consommateur final lorsqu'il r�
 2° Il est conditionné pour la vente au détail ;
 
 3° Il est spécialement préparé pour être prisé.
-
-###### Article L314-4-1
-
-Un produit est susceptible d'être inhalé après avoir été chauffé lorsqu'il répond aux conditions cumulatives suivantes :
-
-1° Il est coupé et fractionné ;
-
-2° Il est conditionné pour la vente au détail ;
-
-3° Il est spécialement préparé pour être chauffé au moyen d'un dispositif dédié afin de produire une émission susceptible d'être inhalée par le consommateur final.
 
 ##### Section 2 : Fait générateur
 
