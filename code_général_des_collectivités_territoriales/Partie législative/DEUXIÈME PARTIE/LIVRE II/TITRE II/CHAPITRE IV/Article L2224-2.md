@@ -24,5 +24,7 @@ L'interdiction prévue au premier alinéa n'est pas applicable :
 
 3° Quelle que soit la population des communes et groupements de collectivités territoriales, aux services publics de gestion des déchets ménagers et assimilés, lors de l'institution de la redevance d'enlèvement des ordures ménagères et pour une durée limitée au maximum aux quatre premiers exercices.
 
+4° Aux services de production d'électricité exploités dans les conditions prévues au dernier alinéa de l'article L. 1412-1.
+
 Lorsque le service a été délégué, la part prise en charge par le budget propre ne peut excéder le montant des sommes données au délégataire pour sujétions de service public et représenter une part substantielle de la rémunération de ce dernier.
 

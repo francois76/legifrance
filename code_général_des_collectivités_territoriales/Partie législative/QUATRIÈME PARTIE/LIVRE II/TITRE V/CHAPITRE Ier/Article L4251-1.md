@@ -10,11 +10,13 @@ Le schéma définit la stratégie régionale en matière aéroportuaire, qui n'e
 
 Le schéma identifie les voies et les axes routiers qui, par leurs caractéristiques, constituent des itinéraires d'intérêt régional. Ces itinéraires sont pris en compte par le département, dans le cadre de ses interventions, pour garantir la cohérence et l'efficacité du réseau routier ainsi que la sécurité des usagers.
 
+Le schéma peut fixer des objectifs relatifs aux installations agrivoltaïques définies à l'article L. 314-36 du code de l'énergie.
+
 Le schéma peut fixer des objectifs dans tout autre domaine contribuant à l'aménagement du territoire lorsque la région détient, en application de la loi, une compétence exclusive de planification, de programmation ou d'orientation et que le conseil régional décide de l'exercer dans le cadre de ce schéma, par délibération prévue à l'article L. 4251-4. Dans ce cas, le schéma tient lieu de document sectoriel de planification, de programmation ou d'orientation. Pour les domaines dans lesquels la loi institue un document sectoriel auquel le schéma se substitue, ce dernier reprend les éléments essentiels du contenu de ces documents.
 
 Les objectifs sont déterminés dans le respect des principes mentionnés à l'article L. 101-2 du code de l'urbanisme et dans l'ambition d'une plus grande égalité des territoires. Ils peuvent préciser, pour les territoires mentionnés à l'article L. 121-1 du même code, les modalités de conciliation des objectifs de protection de l'environnement, du patrimoine et des paysages.
 
-Une carte synthétique indicative illustre les objectifs du schéma.
+Une carte synthétique indicative illustre les objectifs du schéma. Cette carte peut notamment identifier les zones d'accélération définies en application de l'article L. 141-5-3 du code de l'énergie.
 
 Des règles générales sont énoncées par la région pour contribuer à atteindre les objectifs mentionnés au présent article, sans méconnaître les compétences de l'Etat et des autres collectivités territoriales.
 
