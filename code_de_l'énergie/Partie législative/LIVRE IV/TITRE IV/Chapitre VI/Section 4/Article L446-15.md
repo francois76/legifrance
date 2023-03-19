@@ -2,7 +2,7 @@
 
 I.-Lorsque les capacités de production de biogaz ne répondent pas aux objectifs chiffrés de la programmation pluriannuelle de l'énergie, notamment ceux concernant les techniques de production et la localisation géographique des installations, l'autorité administrative peut recourir à une procédure d'appel d'offres. Cette procédure est conduite dans le respect des principes de transparence et d'égalité de traitement des candidats. Ses modalités, qui tiennent compte du retour d'expérience des appels à projets organisés en application de l'article L. 446-14, sont définies par décret en Conseil d'Etat pris après avis de la Commission de régulation de l'énergie.
 
-II.-Les candidats retenus par l'autorité administrative à l'issue de la procédure mentionnée au I du présent article bénéficient, selon les modalités définies par la procédure d'appel d'offres, d'un contrat offrant un complément de rémunération à la vente du biogaz produit.
+II.-Les candidats retenus par l'autorité administrative à l'issue de la procédure mentionnée au I du présent article bénéficient, selon les modalités définies par la procédure d'appel d'offres, d'un contrat offrant un complément de rémunération à la vente de tout ou partie du biogaz produit.
 
 III.-Pour examiner, au titre de la recevabilité ou de la sélection, les offres soumises, l'autorité administrative se fonde notamment sur les critères suivants :
 

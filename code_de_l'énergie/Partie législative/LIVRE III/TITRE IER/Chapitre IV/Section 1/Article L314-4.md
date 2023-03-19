@@ -8,9 +8,11 @@ a) Les frais de contrôle prévus à l'article L. 314-7-1 ;
 
 b) Les investissements et les charges d'exploitation d'installations performantes représentatives de chaque filière ;
 
-c) La compatibilité de l'installation bénéficiant du contrat d'obligation d'achat avec les objectifs mentionnés aux articles L. 100-1 et L. 100-2.
+c) La compatibilité de l'installation bénéficiant du contrat d'obligation d'achat avec les objectifs mentionnés aux articles L. 100-1 et L. 100-2 ;
 
-Lorsque le producteur consomme tout ou partie de l'électricité produite par l'installation, les conditions d'achat peuvent comprendre une prime tenant compte des coûts qui ne sont pas couverts par la vente à l'acheteur de l'électricité non consommée par le producteur.
+d) Les cas dans lesquels l'installation est qualifiée d'agrivoltaïque au sens de l'article L. 314-36.
+
+Les conditions d'achat peuvent comprendre une prime tenant compte des coûts qui ne sont pas couverts par la vente à l'acheteur de l'électricité.
 
 Pour les installations de démonstration ou les fermes précommerciales, le bénéfice de l'obligation d'achat peut être subordonné à la condition d'être le candidat retenu à l'issue d'une procédure de mise en concurrence. Dans ce cas, les conditions d'achat tiennent compte, le cas échéant, des aides financières octroyées dans le cadre de cette procédure.
 

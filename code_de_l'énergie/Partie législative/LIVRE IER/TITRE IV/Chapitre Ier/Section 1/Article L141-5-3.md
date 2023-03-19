@@ -1,0 +1,44 @@
+###### Article L141-5-3
+
+I.-La définition des zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables ainsi que de leurs ouvrages connexes répond aux principes suivants :
+
+1° Elles présentent un potentiel permettant d'accélérer la production d'énergies renouvelables au sens de l'article L. 211-2 sur le territoire concerné pour atteindre, à terme, les objectifs mentionnés à l'article L. 100-4, dans la loi mentionnée au I de l'article L. 100-1 A et dans la programmation pluriannuelle de l'énergie mentionnée à l'article L. 141-1 ;
+
+2° Elles contribuent à la solidarité entre les territoires et à la sécurisation de l'approvisionnement défini au 2° de l'article L. 100-1 ;
+
+3° Elles sont définies dans l'objectif de prévenir et de maîtriser les dangers ou les inconvénients qui résulteraient de l'implantation d'installations de production d'énergies mentionnées au présent I pour les intérêts mentionnés aux articles L. 211-1 et L. 511-1 du code de l'environnement ;
+
+4° Elles sont définies, pour chaque catégorie de sources et de types d'installation de production d'énergies renouvelables, en tenant compte de la nécessaire diversification des énergies renouvelables en fonction des potentiels du territoire concerné et de la puissance d'énergies renouvelables déjà installée ;
+
+5° A l'exception des procédés de production en toiture, elles ne peuvent être comprises dans les parcs nationaux et les réserves naturelles ni, lorsqu'elles concernent le déploiement d'installations utilisant l'énergie mécanique du vent, dans les sites classés dans la catégorie de zone de protection spéciale ou de zone spéciale de conservation des chiroptères au sein du réseau Natura 2000 ;
+
+6° Elles sont identifiées en tenant compte de l'inventaire relatif aux zones d'activité économique prévu à l'article L. 318-8-2 du code de l'urbanisme, afin de valoriser les zones d'activité économique présentant un potentiel pour le développement des énergies renouvelables.
+
+II.-Pour l'identification des zones d'accélération mentionnées au I du présent article :
+
+1° L'Etat et, pour les informations relatives aux réseaux d'électricité et de gaz, les gestionnaires des réseaux publics d'électricité et de gaz mettent à la disposition des communes, des établissements publics de coopération intercommunale, des autorités organisatrices de la distribution d'énergie mentionnées à l'article L. 2224-31 du code général des collectivités territoriales, des départements et des régions les informations disponibles relatives au potentiel d'implantation des énergies renouvelables. Ces informations portent notamment sur les potentiels énergétiques, renouvelables et de récupération mobilisables, sur la part déjà prise par chaque établissement public de coopération intercommunale dans le déploiement des énergies renouvelables, sur les capacités d'accueil existantes des réseaux publics d'électricité et de gaz naturel sur le territoire, sur les capacités planifiées sur ce même territoire en application de l'article L. 321-7 du présent code et sur les objectifs nationaux définis par la programmation pluriannuelle de l'énergie mentionnée à l'article L. 141-1.
+
+A cet effet, les informations relatives au potentiel de développement de la production à partir d'énergie solaire peuvent être mises à disposition sous la forme d'un cadastre solaire. Celui-ci prend en compte les surfaces des toitures de toutes les constructions bâties situées sur le territoire ainsi que les surfaces au sol déjà artificialisées, y compris les parcs de stationnement. L'Etat met numériquement à la disposition du public les informations du cadastre solaire.
+
+Les informations mentionnées au présent 1° sont actualisées au moins à chaque révision de la programmation pluriannuelle de l'énergie ;
+
+2° Après concertation du public selon des modalités qu'elles déterminent librement, les communes identifient, par délibération du conseil municipal, des zones d'accélération mentionnées au I du présent article et les transmettent, dans un délai de six mois à compter de la mise à disposition des informations prévues au 1° du présent II, au référent préfectoral mentionné à l'article L. 181-28-10 du présent code, à l'établissement public de coopération intercommunale dont elles sont membres et, le cas échéant, à l'établissement public mentionné à l'article L. 143-16 du code de l'urbanisme.
+
+Dans les périmètres des aires protégées, entendues au sens de la stratégie nationale pour les aires protégées définie à l'article L. 110-4 du code de l'environnement, ainsi que dans les périmètres des grands sites de France définis à l'article L. 341-15-1 du même code, les communes identifient ces zones d'accélération après avis du gestionnaire. Lorsque les communes sont intégrées en totalité ou partiellement dans le périmètre de classement d'un parc naturel régional, l'identification des zones d'accélération est réalisée en concertation avec le syndicat mixte gestionnaire du parc pour ce qui concerne les zones situées en son sein.
+
+Le référent préfectoral précité ou l'établissement public dont elles sont membres peut accompagner lesdites communes pour l'identification des zones d'accélération. Dans les territoires dotés d'un schéma de déploiement des énergies renouvelables à la date de promulgation de la loi n° 2023-175 du 10 mars 2023 relative à l'accélération de la production d'énergies renouvelables, il est tenu compte de ce schéma pour identifier les zones retenues.
+
+Dans le délai de six mois mentionné au premier alinéa du présent 2°, un débat se tient au sein de l'organe délibérant de l'établissement public de coopération intercommunale sur la cohérence des zones d'accélération identifiées avec le projet du territoire ;
+
+3° Après l'expiration du délai mentionné au 2° du présent II, le référent préfectoral arrête, dans les conditions prévues au III du présent article, la cartographie des zones d'accélération identifiées en application du 2° du présent II et transmet cette cartographie pour avis au comité régional de l'énergie ou à l'organe en tenant lieu. Le référent préfectoral consulte, au sein d'une conférence territoriale, les établissements publics mentionnés à l'article L. 143-16 du code de l'urbanisme et les établissements publics de coopération intercommunale.
+
+III.-L'avis du comité régional de l'énergie ou de l'organe en tenant lieu est transmis aux référents préfectoraux au plus tard trois mois après la réception de la cartographie des zones d'accélération transmise en application du 3° du II du présent article.
+
+Lorsque cet avis conclut que les zones d'accélération identifiées au niveau régional sont suffisantes pour l'atteinte des objectifs régionaux établis en application de l'article L. 141-5-1, les référents préfectoraux de la région concernée arrêtent la cartographie des zones identifiées à l'échelle de chaque département, après avoir recueilli l'avis conforme des communes du département, exprimé par délibération du conseil municipal, chacune pour ce qui concerne les zones d'accélération situées sur son territoire. La cartographie et l'avis du comité régional de l'énergie ou de l'organe en tenant lieu sont transmis pour information au ministre chargé de l'énergie ainsi qu'aux collectivités territoriales et à leurs groupements mentionnés au 1° du II du présent article.
+
+Lorsque ce même avis conclut que les zones d'accélération précitées ne sont pas suffisantes pour l'atteinte des objectifs régionaux, les référents préfectoraux demandent aux communes de la région l'identification de zones d'accélération complémentaires. Les zones d'accélération nouvellement identifiées sont soumises, dans un délai de trois mois à compter de la demande des référents préfectoraux, au comité régional de l'énergie, qui émet un nouvel avis dans les conditions prévues à l'article L. 141-5-2. Dans un délai de deux mois à compter de ce nouvel avis, les référents préfectoraux arrêtent la cartographie des zones identifiées à l'échelle de chaque département, après avoir recueilli l'avis conforme des communes concernées du département, exprimé par délibération du conseil municipal, chacune pour ce qui concerne les zones d'accélération situées sur son territoire. La cartographie ainsi que les avis mentionnés au présent alinéa sont transmis pour information au ministre chargé de l'énergie ainsi qu'aux collectivités territoriales et à leurs groupements mentionnés au 1° du II du présent article.
+
+IV.-L'identification des zones d'accélération mentionnées au I est renouvelée, dans les conditions prévues au présent article, pour chaque période de cinq ans mentionnée au premier alinéa de l'article L. 141-3.
+
+V.-Les zones d'accélération pour l'implantation d'installations terrestres de production d'énergies renouvelables contribuent, à compter du 31 décembre 2027, à atteindre les objectifs prévus par la programmation pluriannuelle de l'énergie.
+

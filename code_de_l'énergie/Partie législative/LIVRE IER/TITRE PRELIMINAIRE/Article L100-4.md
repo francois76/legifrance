@@ -8,11 +8,13 @@ I.-Pour répondre à l'urgence écologique et climatique, la politique énergét
 
 3° De réduire la consommation énergétique primaire des énergies fossiles de 40 % en 2030 par rapport à l'année de référence 2012, en modulant cet objectif par énergie fossile en fonction du facteur d'émissions de gaz à effet de serre de chacune. Dans cette perspective, il est mis fin en priorité à l'usage des énergies fossiles les plus émettrices de gaz à effet de serre ;
 
-4° De porter la part des énergies renouvelables à 23 % de la consommation finale brute d'énergie en 2020 et à 33 % au moins de cette consommation en 2030 ; à cette date, pour parvenir à cet objectif, les énergies renouvelables doivent représenter au moins 40 % de la production d'électricité, 38 % de la consommation finale de chaleur, 15 % de la consommation finale de carburant et 10 % de la consommation de gaz ;
+4° De porter la part des énergies renouvelables à 23 % de la consommation finale brute d'énergie en 2020 et à 33 % au moins de cette consommation en 2030 ; à cette date, pour parvenir à cet objectif, les énergies renouvelables doivent représenter au moins 40 % de la production d'électricité, 38 % de la consommation finale de chaleur, 15 % de la consommation finale de carburant et 10 % de la consommation de gaz. Pour l'application du présent 4°, la consommation de gaz comprend celle de gaz renouvelable, dont le biogaz, au sens de l'article L. 445-1, et de gaz bas-carbone, au sens de l'article L. 447-1 ;
 
 4° bis D'encourager la production d'énergie hydraulique, notamment la petite hydroélectricité, en veillant à maintenir la souveraineté énergétique, à garantir la sûreté des installations hydrauliques et à favoriser le stockage de l'électricité ;
 
 4° ter De favoriser la production d'électricité issue d'installations utilisant l'énergie mécanique du vent implantées en mer, avec pour objectif de porter progressivement le rythme d'attribution des capacités installées de production à l'issue de procédures de mise en concurrence à au moins 1 gigawatt par an d'ici à 2024 ;
+
+4° quater D'encourager la production d'électricité issue d'installations agrivoltaïques, au sens de l'article L. 314-36, en conciliant cette production avec l'activité agricole, en gardant la priorité donnée à la production alimentaire et en s'assurant de l'absence d'effets négatifs sur le foncier et les prix agricoles ;
 
 5° De réduire la part du nucléaire dans la production d'électricité à 50 % à l'horizon 2035 ;
 
@@ -20,7 +22,7 @@ I.-Pour répondre à l'urgence écologique et climatique, la politique énergét
 
 7° De disposer d'un parc immobilier dont l'ensemble des bâtiments sont rénovés en fonction des normes " bâtiment basse consommation " ou assimilées, à l'horizon 2050, en menant une politique de rénovation thermique des logements concernant majoritairement les ménages aux revenus modestes ;
 
-8° De parvenir à l'autonomie énergétique dans les départements d'outre-mer à l'horizon 2030, avec, comme objectif intermédiaire, 50 % d'énergies renouvelables à l'horizon 2020 ;
+8° De parvenir à l'autonomie énergétique et à un mix de production d'électricité composé à 100 % d'énergies renouvelables dans les collectivités régies par l'article 73 de la Constitution à l'horizon 2030 ;
 
 9° De multiplier par cinq la quantité de chaleur et de froid renouvelables et de récupération livrée par les réseaux de chaleur et de froid à l'horizon 2030.
 

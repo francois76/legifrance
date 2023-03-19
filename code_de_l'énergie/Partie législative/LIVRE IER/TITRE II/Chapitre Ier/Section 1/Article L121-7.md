@@ -30,3 +30,5 @@ Un décret en Conseil d'Etat pris après avis de la Commission de régulation de
 
 6° Les coûts supportés par l'organisme mentionné à l'article L. 314-14 résultant des frais de gestion et d'inscription au registre national des garanties d'origine pour la mise aux enchères prévue à l'article L. 314-14-1.
 
+7° Les montants liés à la dotation initiale du fonds de garantie prévu à l'article L. 311-10-4.
+

@@ -8,7 +8,7 @@ Chaque loi prévue au premier alinéa du présent I précise :
 
 2° Les objectifs de réduction de la consommation énergétique finale et notamment les objectifs de réduction de la consommation énergétique primaire fossile, par énergie fossile, pour deux périodes successives de cinq ans, ainsi que les niveaux minimal et maximal des obligations d'économies d'énergie prévues à l'article L. 221-1 du présent code, pour une période de cinq ans ;
 
-3° Les objectifs de développement des énergies renouvelables pour l'électricité, la chaleur, le carburant, le gaz ainsi que l'hydrogène renouvelable et bas-carbone, pour deux périodes successives de cinq ans. Pour l'électricité d'origine hydraulique, les objectifs de développement portent sur l'évolution des capacités de production des installations hydrauliques, autorisées et concédées en application de l'article L. 511-5, ainsi que des stations de transfert d'électricité par pompage ;
+3° Les objectifs de développement et de stockage des énergies renouvelables pour l'électricité, la chaleur, le carburant, le gaz ainsi que l'hydrogène renouvelable et bas-carbone, pour deux périodes successives de cinq ans. Pour l'électricité d'origine hydraulique, les objectifs de développement et de stockage portent sur l'évolution des capacités de production des installations hydrauliques, autorisées et concédées en application de l'article L. 511-5, ainsi que des stations de transfert d'électricité par pompage ;
 
 4° Les objectifs de diversification du mix de production d'électricité, pour deux périodes successives de cinq ans ;
 

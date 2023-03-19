@@ -1,0 +1,6 @@
+##### Article L511-6-2
+
+En cas de menace grave sur la sécurité de l'approvisionnement en électricité sur tout ou partie du territoire national, l'autorité administrative peut autoriser temporairement la mise en œuvre de l'augmentation de puissance, prévue à l'article L. 511-6-1, d'une installation hydraulique concédée, en application de l'article L. 511-5, dès lors que le dossier de déclaration a été déposé auprès d'elle.
+
+Les mesures prévues au présent article s'appliquent pendant la durée strictement nécessaire au maintien de la sécurité d'approvisionnement. Elles sont proportionnées à la gravité de la menace pesant sur la sécurité d'approvisionnement. L'autorité publique informe sans délai le comité de suivi de l'exécution de la concession et de la gestion des usages de l'eau prévu à l'article L. 524-1 du présent code ou, le cas échéant, la commission locale de l'eau prévue à l'article L. 212-4 du code de l'environnement de la mise en place de ce fonctionnement exceptionnel. Durant cette période, un suivi prescrit par l'autorité administrative est mis en place par le concessionnaire pour évaluer les éventuelles répercussions observées sur l'environnement aquatique, notamment sur la vie piscicole.
+

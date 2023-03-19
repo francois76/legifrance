@@ -4,7 +4,7 @@ I. - Lorsque les capacités de production de biogaz destiné à être injecté d
 
 II. - Sous réserve des articles L. 2224-32 et L. 2224-33 du code général des collectivités territoriales, toute personne exploitant ou désirant construire et exploiter une unité de production, installée sur le territoire d'un Etat membre de l'Union européenne ou, dans le cadre de l'exécution d'accords internationaux, sur le territoire de tout autre Etat, peut participer à l'appel d'offres.
 
-III. - Les candidats retenus désignés par l'autorité administrative bénéficient, selon les modalités définies par l'appel d'offres, d'un contrat d'achat pour le biogaz injecté. L'acheteur du biogaz est un fournisseur de gaz naturel titulaire de l'autorisation administrative mentionnée à l'article L. 443-1 ou l'acheteur de dernier recours mentionné à l'article L. 446-4. L'achat du biogaz s'effectue au prix résultant de l'appel d'offres. Les surcoûts éventuels qui en résultent pour le fournisseur font l'objet d'une compensation.
+III. - Les candidats retenus désignés par l'autorité administrative bénéficient, selon les modalités définies par l'appel d'offres, d'un contrat d'achat pour tout ou partie du biogaz injecté. L'acheteur du biogaz est un fournisseur de gaz naturel titulaire de l'autorisation administrative mentionnée à l'article L. 443-1 ou l'acheteur de dernier recours mentionné à l'article L. 446-4. L'achat du biogaz s'effectue au prix résultant de l'appel d'offres. Les surcoûts éventuels qui en résultent pour le fournisseur font l'objet d'une compensation.
 
 IV. - Pour examiner, au titre de la recevabilité ou de la sélection, les offres soumises, l'autorité administrative se fonde notamment sur les critères suivants :
 

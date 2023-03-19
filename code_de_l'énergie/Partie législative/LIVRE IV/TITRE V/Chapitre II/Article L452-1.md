@@ -4,7 +4,7 @@ Les tarifs d'utilisation des réseaux de transport, les conditions commerciales 
 
 Figurent notamment parmi les coûts supportés par les gestionnaires des réseaux de transport les dépenses d'exploitation, de recherche et de développement nécessaires à la sécurité du réseau et à la maîtrise de la qualité du gaz naturel injecté ou soutiré ainsi que la partie du coût des renforcements des réseaux mentionnés à l'article L. 453-9 restant à la charge des gestionnaires de réseaux de transport.
 
-Pour les tarifs d'utilisation des réseaux de transport de gaz, ces coûts comprennent également une partie des coûts de raccordement à ces réseaux des installations de production de biogaz. Le niveau de prise en charge, arrêté par l'autorité administrative après avis de la Commission de régulation de l'énergie, ne peut excéder 60 % du coût du raccordement.
+Pour les tarifs d'utilisation des réseaux de transport de gaz, ces coûts comprennent également une partie des coûts de raccordement à ces réseaux des installations de production de gaz renouvelable, dont le biogaz, ou de gaz bas-carbone. Le niveau de prise en charge, arrêté par l'autorité administrative après avis de la Commission de régulation de l'énergie, ne peut excéder 60 % du coût du raccordement.
 
 Figurent notamment parmi les coûts supportés par les opérateurs des infrastructures de stockage mentionnées à l'article L. 421-3-1 une rémunération normale des capitaux investis, les coûts mentionnés au dernier alinéa de l'article L. 421-6, les dépenses de recherche et développement nécessaires à la sécurité de ces infrastructures et les coûts supportés par ces opérateurs au titre de la modification de la nature ou des caractéristiques du gaz acheminé dans les réseaux de gaz naturel.
 

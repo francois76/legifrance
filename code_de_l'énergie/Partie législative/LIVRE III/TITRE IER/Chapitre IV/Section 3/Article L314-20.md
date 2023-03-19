@@ -10,7 +10,11 @@ Les conditions du complément de rémunération pour les installations mentionn�
 
 4° De l'impact de ces installations sur l'atteinte des objectifs mentionnés aux articles L. 100-1 et L. 100-2 ;
 
-5° Des cas dans lesquels les producteurs sont également consommateurs de tout ou partie de l'électricité produite par les installations mentionnées à l'article L. 314-18.
+5° Des cas dans lesquels les producteurs sont également consommateurs de tout ou partie de l'électricité produite par les installations mentionnées à l'article L. 314-18 ;
+
+6° Des cas dans lesquels l'installation est détenue par une communauté d'énergie renouvelable au sens de l'article L. 291-1 ou par une communauté énergétique citoyenne au sens de l'article L. 292-1 ;
+
+7° Des cas dans lesquels l'installation est qualifiée d'agrivoltaïque au sens de l'article L. 314-36.
 
 Le niveau de ce complément de rémunération ne peut conduire à ce que la rémunération totale des capitaux immobilisés, résultant du cumul de toutes les recettes de l'installation et des aides financières ou fiscales, excède une rémunération raisonnable des capitaux, compte tenu des risques inhérents à ces activités. Le bénéfice du complément de rémunération peut, à cette fin, être subordonné à la renonciation, par le producteur, à certaines de ces aides financières ou fiscales.
 

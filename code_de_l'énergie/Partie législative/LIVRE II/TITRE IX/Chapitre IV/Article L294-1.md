@@ -8,5 +8,11 @@ III.-Les offres de participation au capital ou au financement mentionnées aux I
 
 Les offres de participation au capital ou au financement peuvent être faites par les porteurs des projets directement auprès des personnes mentionnées au I du présent article ou en recourant à des conseillers en investissements participatifs mentionnés au I de l'article L. 547-1 du code monétaire et financier, à des intermédiaires en financement participatif mentionnés au I de l'article L. 548-2 du même code ou à des prestataires de services d'investissement mentionnés à l'article L. 531-1 dudit code.
 
+III bis.-Les associés ou les actionnaires souhaitant constituer l'une des sociétés mentionnées aux I ou II du présent article en informent le maire de la commune d'implantation du ou des projets et le président de l'établissement public de coopération intercommunale d'implantation du ou des projets, au plus tard deux mois avant la signature des statuts, afin de leur permettre de proposer une offre de participation au capital mentionnée aux mêmes I et II.
+
+Les associés ou les actionnaires souhaitant vendre une participation en capital prévue auxdits I et II en informent le maire de la commune d'implantation du ou des projets et le président de l'établissement public de coopération intercommunale d'implantation du ou des projets, au plus tard deux mois avant la vente, afin de leur permettre de proposer une offre d'achat de cette participation.
+
+La constitution ou la vente mentionnée aux deux premiers alinéas du présent III bis peut intervenir avant l'expiration du délai de deux mois mentionné aux mêmes deux premiers alinéas lorsque la commune d'implantation du ou des projets ou l'établissement public de coopération intercommunale d'implantation du ou des projets a fait connaître sa décision de ne pas présenter d'offre. Le silence de la commune ou de l'établissement, à l'expiration d'un délai de deux mois, vaut refus de la demande.
+
 IV.-Sous réserve des dispositions des articles L. 2253-1, L. 3231-6 et L. 4211-1 du code général des collectivités territoriales, les collectivités territoriales et leurs groupements peuvent souscrire la participation en capital prévue aux I et II du présent article par décision prise par leur organe délibérant. Cette décision peut faire l'objet d'une délégation à l'exécutif.
 

@@ -8,7 +8,7 @@ Ces coûts comprennent notamment :
 
 2° Les surcoûts de recherche et de développement nécessaires à l'accroissement des capacités de transport des lignes électriques, en particulier de celles destinées à l'interconnexion avec les pays voisins et à l'amélioration de leur insertion esthétique dans l'environnement ;
 
-3° Une partie des coûts de raccordement à ces réseaux et une partie des coûts des prestations annexes réalisées à titre exclusif par les gestionnaires de ces réseaux, l'autre partie pouvant faire l'objet d'une contribution dans les conditions fixées aux articles L. 342-6 à L. 342-12.
+3° Une partie des coûts de raccordement à ces réseaux, l'autre partie pouvant faire l'objet d'une contribution dans les conditions fixées aux articles L. 341-2-1 et L. 342-6 à L. 342-12.
 
 Peuvent bénéficier de la prise en charge prévue au présent 3° :
 
@@ -31,6 +31,8 @@ a) Les indemnités versées aux producteurs d'électricité en cas de dépasseme
 b) Les indemnités versées aux producteurs d'électricité en application de l'article L. 342-7-1.
 
 Lorsque la cause du retard ou de la limitation de la production du fait d'une avarie ou d'un dysfonctionnement des ouvrages de raccordement des installations de production en mer est imputable au gestionnaire de réseau, ce dernier est redevable d'une partie de ces indemnités, dans la limite d'un pourcentage et d'un montant en valeur absolue calculés sur l'ensemble des installations par année civile, fixés par arrêté du ministre chargé de l'énergie pris après avis de la Commission de régulation de l'énergie.
+
+5° Une partie des coûts des prestations annexes réalisées à titre exclusif par les gestionnaires de ces réseaux.
 
 Pour le calcul du coût du capital investi par les gestionnaires de ces réseaux, la méthodologie est indépendante du régime juridique selon lequel sont exploités les réseaux d'électricité et de ses conséquences comptables. Elle peut se fonder sur la rémunération d'une base d'actifs régulée, définie comme le produit de cette base par le coût moyen pondéré du capital, établi à partir d'une structure normative du passif du gestionnaire de réseau, par référence à la structure du passif d'entreprises comparables du même secteur dans l'Union européenne.
 

@@ -1,0 +1,8 @@
+##### Article L292-4
+
+Une communauté énergétique citoyenne revêt la forme soit d'une société anonyme ou d'une société par actions simplifiée régies par le livre II du code de commerce, soit d'une société coopérative d'intérêt collectif prévue aux articles 19 quinquies à 19 sexdecies A de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, soit d'une association régie par la loi du 1er juillet 1901 relative au contrat d'association.
+
+A l'exception du cas de la participation directe d'au moins vingt personnes physiques, une communauté énergétique citoyenne comprend au moins deux des catégories de personnes énumérées au 2° de l'article L. 292-1 du présent code, parmi lesquelles figurent obligatoirement celles qui bénéficient, à titre gratuit ou onéreux, des avantages environnementaux, économiques ou sociaux que la communauté énergétique citoyenne s'est donnés pour objet.
+
+Les statuts déterminent les conditions d'appartenance à la communauté et les conditions de sa gouvernance. Une catégorie de personnes mentionnée au même 2° est présumée exercer un contrôle effectif lorsqu'elle dispose, directement ou indirectement, d'une fraction des droits de vote supérieure à 40 % et qu'aucune autre catégorie ne détient directement ou indirectement une fraction supérieure à la sienne. Les personnes physiques sont réputées constituer une catégorie lorsqu'elles sont au nombre de vingt. Les statuts garantissent que la participation des différentes catégories respecte le plafond précité pour la durée de la communauté.
+

@@ -1,8 +1,10 @@
 ##### Article L342-7
 
-Lorsque le gestionnaire du réseau public de transport est le maître d'ouvrage des travaux, les principes généraux de calcul de la contribution qui lui est due sont arrêtés par l'autorité administrative sur proposition de la Commission de régulation de l'énergie. Ils peuvent prendre la forme de barèmes.
+Lorsque le gestionnaire du réseau public de transport est le maître d'ouvrage des travaux, les principes généraux de calcul de la contribution qui lui est due sont arrêtés par l'autorité administrative sur proposition de la Commission de régulation de l'énergie.
 
-Les méthodes de calcul des coûts de la contribution mentionnée à l'alinéa précédent, établies par le gestionnaire du réseau public de transport, sont soumises à l'approbation de la Commission de régulation de l'énergie.
+Les méthodes de calcul des coûts de la contribution mentionnée à l'alinéa précédent, établies par le gestionnaire du réseau public de transport, sont soumises à l'approbation de la Commission de régulation de l'énergie. Elles peuvent prendre la forme de barèmes.
 
 Le demandeur d'un raccordement au réseau public de transport d'électricité est le redevable de cette contribution. Par exception, pour les installations de production d'électricité à partir de sources d'énergie renouvelable implantées en mer faisant l'objet d'une procédure de mise en concurrence prévue à l'article L. 311-10, lorsque le producteur ne choisit pas l'emplacement de la zone d'implantation du parc, le gestionnaire du réseau public de transport supporte le coût du raccordement correspondant aux conditions techniques prévues par le cahier des charges ou définies par le ministre chargé de l'énergie, y compris les coûts échoués en cas d'abandon de la procédure de mise en concurrence. Les éventuelles modifications de ces conditions à l'initiative du candidat retenu sont à la charge de ce dernier. En cas de défaillance du candidat retenu, ce dernier assume les coûts échoués dans les conditions prévues par le cahier des charges. (1)
+
+Après la publication de la cartographie des zones maritimes et terrestres mentionnée à l'article L. 219-5-1 du code de l'environnement, le ministre chargé de l'énergie peut demander au gestionnaire du réseau public de transport d'électricité d'engager par anticipation les études et les travaux pour le raccordement d'installations de production d'électricité en mer. La Commission de régulation de l'énergie veille à la pertinence technique et économique des investissements envisagés par le gestionnaire du réseau public de transport.
 
