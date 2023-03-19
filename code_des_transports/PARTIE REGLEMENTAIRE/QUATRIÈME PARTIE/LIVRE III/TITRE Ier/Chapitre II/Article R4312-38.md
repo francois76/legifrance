@@ -6,7 +6,7 @@ Les représentants suppléants sont désignés librement par les organisations s
 
 1° Par l'article 31 du décret du 20 novembre 2020 mentionné ci-dessus pour les agents mentionnés aux 1° à 3° de l'article L. 4312-3-1 du présent code ;
 
-2° Par l'article L. 2314-19 du code du travail pour les salariés mentionnés au 4° de l'article L. 4312-3-1 du présent code.
+2° Par l' article L. 2314-19 du code du travail pour les salariés mentionnés au 4° de l'article L. 4312-3-1 du présent code.
 
 Ces désignations interviennent dans un délai de quinze jours à compter de la proclamation des résultats.
 

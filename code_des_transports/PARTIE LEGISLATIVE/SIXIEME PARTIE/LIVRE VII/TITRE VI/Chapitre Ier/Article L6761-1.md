@@ -10,5 +10,5 @@ Pour l'application en Nouvelle-Calédonie de l'article L. 6111-1, les mots : “
 
 L'article L. 6142-1 est applicable en Nouvelle-Calédonie dans sa rédaction résultant de la loi n° 2021-1308 du 8 octobre 2021 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine des transports, de l'environnement, de l'économie et des finances.
 
-Les dispositions des articles L. 6123-1 et L. 6123-2 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de l'ordonnance n° 2021-1843 du 22 décembre 2021
+Les dispositions des articles L. 6123-1 et L. 6123-2 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de l'ordonnance n° 2021-1843 du 22 décembre 2021.
 

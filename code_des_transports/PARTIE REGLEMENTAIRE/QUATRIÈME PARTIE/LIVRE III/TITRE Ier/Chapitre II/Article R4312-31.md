@@ -4,5 +4,5 @@ A l'issue du dépouillement et sans délai, le bureau de vote central procède �
 
 A l'issue des dépouillements, les procès-verbaux des opérations électorales par collège sont transmis immédiatement aux représentants des listes de candidats.
 
-Le procès-verbal établi pour le collège prévu au 2° du B du I de l'article L. 4312-3-2 est transmis au prestataire mentionné au premier alinéa de l'article R. 2314-22 du code du travail.
+Le procès-verbal établi pour le collège prévu au 2° du B du I de l'article L. 4312-3-2 est transmis au prestataire mentionné au premier alinéa de l'article R. 2314-22 du code du travail .
 

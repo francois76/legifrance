@@ -1,6 +1,6 @@
 ###### Article L6523-2
 
-Le contrat de travail précise :
+Sans préjudice de l'article L. 1221-5-1 du code du travail, le contrat de travail précise :
 
 1° Le salaire minimum mensuel garanti indépendamment de l'activité ;
 
@@ -14,7 +14,7 @@ Le contrat de travail précise :
 
 6° Le délai de préavis à observer en cas de résiliation du contrat par l'une ou l'autre des parties ;
 
-7° Le montant de l'indemnité exclusive de départ allouée au personnel dont le contrat prend fin en application des articles L. 6521-4 et L. 6521-5 ;
+7° Le montant de l'indemnité exclusive de départ allouée au personnel dont le contrat prend fin en application des articles L. 6521-4 et L. 6521-5 du présent code ;
 
 8° Le cas échéant, les conditions de travail en zone d'hostilités civiles et militaires.
 

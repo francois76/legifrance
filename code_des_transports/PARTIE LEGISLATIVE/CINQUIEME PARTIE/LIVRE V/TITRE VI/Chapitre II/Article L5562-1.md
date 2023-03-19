@@ -1,6 +1,6 @@
 ###### Article L5562-1
 
-Les dispositions légales et les stipulations conventionnelles applicables aux salariés employés sur les navires mentionnés aux 1° à 3° de l'article L. 5561-1 sont celles applicables aux salariés employés par les entreprises de la même branche d'activité établies en France, pour les matières suivantes :
+Les dispositions légales et les stipulations conventionnelles applicables aux salariés employés sur les navires mentionnés aux 1° à 4° de l'article L. 5561-1 sont celles applicables aux salariés employés par les entreprises de la même branche d'activité établies en France, pour les matières suivantes :
 
 1° Libertés individuelles et collectives dans la relation de travail ;
 

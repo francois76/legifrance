@@ -1,6 +1,6 @@
 ###### Article A2271-50
 
-I. - L'opérateur des contrôles de sûreté s'assure :
+I.-L'opérateur des contrôles de sûreté s'assure :
 
 1°) De la validité des titres d'accès ;
 
@@ -12,5 +12,5 @@ I. - L'opérateur des contrôles de sûreté s'assure :
 
 5°) Du contrôle documentaire pour les marchandises.
 
-II. - L'opérateur effectue ces contrôles manuellement ou électroniquement, après vérification de la liste des titres de passage et laissez-passer volés, perdus, non-restitués.
+II.-L'opérateur effectue ces contrôles manuellement ou électroniquement, après vérification de la liste des titres de passage et laissez-passer volés, perdus, non-restitués.
 

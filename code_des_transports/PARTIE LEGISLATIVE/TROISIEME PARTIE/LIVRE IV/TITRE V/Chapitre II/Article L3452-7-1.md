@@ -6,7 +6,7 @@ Est puni de 15 000 € d'amende le fait, pour une entreprise de transport routie
 
 2° De ne pas achever, avec le même véhicule ou, s'il s'agit d'un ensemble de véhicules couplés, avec le même véhicule à moteur, le transport de cabotage dans un délai maximal de sept jours à compter du déchargement des marchandises ayant fait l'objet du transport international en provenance du Royaume-Uni ;
 
-3° Lorsque le transport routier international est à destination du territoire français, de méconnaître l'obligation d'effectuer, avec le même véhicule ou, s'il s'agit d'un ensemble de véhicules couplés, avec le même véhicule à moteur, plus d'un transport de cabotage sur le territoire français pendant une période de sept jours après l'achèvement du transport international en provenance du Royaume-Uni ;
+3° Lorsque le transport routier international est à destination du territoire français, de méconnaître l'interdiction d'effectuer, avec le même véhicule ou, s'il s'agit d'un ensemble de véhicules couplés, avec le même véhicule à moteur, plus d'un transport de cabotage sur le territoire français pendant une période de sept jours après l'achèvement du transport international en provenance du Royaume-Uni ;
 
 4° D'effectuer plus de deux opérations de transport routier sur le territoire de l'Union européenne après un transport international en provenance du Royaume-Uni ;
 

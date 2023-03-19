@@ -1,6 +1,6 @@
 ###### Article R2251-58
 
-I.- Le document de référence et de tarification des prestations de sûreté prévu à l'article L. 2251-1-1 dresse la liste des prestations de sûreté proposées par le service interne de sécurité de la SNCF conformément aux dispositions du I de l'article R. 2251-54, en distinguant les prestations susceptibles d'être fournies :
+I.-Le document de référence et de tarification des prestations de sûreté prévu à l'article L. 2251-1-1 dresse la liste des prestations de sûreté proposées par le service interne de sécurité de la SNCF conformément aux dispositions du I de l'article R. 2251-54, en distinguant les prestations susceptibles d'être fournies :
 
 1° Aux gestionnaires d'infrastructure ;
 

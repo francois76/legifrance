@@ -1,6 +1,6 @@
 ###### Article L5563-1
 
-Les gens de mer employés à bord d'un navire mentionné aux 1° à 3° de l'article L. 5561-1 bénéficient du régime de protection sociale de l'un des Etats membres de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
+Les gens de mer employés à bord d'un navire mentionné aux 1° à 4° de l'article L. 5561-1 bénéficient du régime de protection sociale de l'un des Etats membres de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
 
 Le régime de protection sociale comprend nécessairement :
 

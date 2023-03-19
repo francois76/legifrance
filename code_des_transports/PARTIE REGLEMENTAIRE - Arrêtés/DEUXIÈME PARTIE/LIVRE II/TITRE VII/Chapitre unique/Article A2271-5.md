@@ -1,6 +1,6 @@
 ###### Article A2271-5
 
-I. - En application du 2° de l'article R. 2271-7, et pour répondre à l'obligation posée au 1° et 2° du I de l'article L. 2271-1, chaque personne morale mentionnée au II de l'article L. 2271-1, en s'appuyant sur l'analyse des risques prévue à l'article A. 2271-4, détermine et détaille les mesures qu'elle met en place en ce qui concerne notamment :
+I.-En application du 2° de l'article R. 2271-7, et pour répondre à l'obligation posée au 1° et 2° du I de l'article L. 2271-1, chaque personne morale mentionnée au II de l'article L. 2271-1, en s'appuyant sur l'analyse des risques prévue à l'article A. 2271-4, détermine et détaille les mesures qu'elle met en place en ce qui concerne notamment :
 
 1° La protection périphérique, périmétrique et intérieure de la zone de sûreté, incluant notamment les équipements et systèmes de vidéoprotection destinés à la mise en œuvre du régime de sûreté ;
 
@@ -22,7 +22,7 @@ I. - En application du 2° de l'article R. 2271-7, et pour répondre à l'obliga
 
 7° La désignation d'un correspondant sûreté, notamment pour la mise en œuvre des articles de la sous-section 3 de la section 4.
 
-II. - En application du 2° de l'article R. 2271-7, et pour répondre à l'obligation posée au 1° et 2° du I de l'article L. 2271-1, chaque personne morale mentionnée au II de l'article L. 2271-1, en s'appuyant sur l'analyse des risques prévue à l'article A. 2271-4, détermine et détaille les procédures internes, notamment en ce qui concerne le traitement :
+II.-En application du 2° de l'article R. 2271-7, et pour répondre à l'obligation posée au 1° et 2° du I de l'article L. 2271-1, chaque personne morale mentionnée au II de l'article L. 2271-1, en s'appuyant sur l'analyse des risques prévue à l'article A. 2271-4, détermine et détaille les procédures internes, notamment en ce qui concerne le traitement :
 
 1° Des appels informant d'une menace d'acte d'intervention illicite ;
 

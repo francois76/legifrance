@@ -1,6 +1,6 @@
 ###### Article A2271-1
 
-I. - Conformément aux articles L. 2271-1 à L. 2271-8 et R. 2271-1 à R. 2271-39, pour l'application du présent arrêté on entend par :
+I.-Conformément aux articles L. 2271-1 à L. 2271-8 et R. 2271-1 à R. 2271-39, pour l'application du présent arrêté on entend par :
 
 a) « Documents d'identité » : documents en cours de validité devant être présentés par toute personne physique conformément aux dispositions du présent arrêté, à savoir :
 
@@ -11,11 +11,11 @@ a) « Documents d'identité » : documents en cours de validité devant être pr
 - un des documents de séjour délivrés en application des articles L. 311-1 et suivants du code de l'entrée et du séjour et du droit d'asile ;
 - un titre d'identité et de voyage pour réfugié ou pour apatride ;
 
-b) « Fouille manuelle » : opération consistant, pour les personnes mentionnées à l'article L. 2271- 6, à vérifier par une action manuelle la présence d'objets interdits dans un bagage, un objet transporté, un véhicule ou une marchandise ;
+b) « Fouille manuelle » : opération consistant, pour les personnes mentionnées à l'article L. 2271-6, à vérifier par une action manuelle la présence d'objets interdits dans un bagage, un objet transporté, un véhicule ou une marchandise ;
 
 c) « Inspection visuelle » : opération consistant, pour les personnes mentionnées à l'article L. 2271-6, à s'assurer par une vérification visuelle attentive de la présence en zone de sûreté d'objets interdits et de personnes non autorisées ;
 
-d) « Opérateur des contrôles de sûreté » : service de l'Etat, placé sous l'autorité du ministre chargé des douanes ou du ministre de l'intérieur, ou toute personne morale mentionnée au II de l'article L. 2271-1, désigné(e) par l'arrêté pris en application de l'article R. 2271-3, chargé(e) de la mise à disposition des équipements mentionnés à l'article R. 2271-8 ou de la réalisation des contrôles de sûreté prévus à l'article R. 2271-31 ;
+d) « Opérateur des contrôles de sûreté » : service de l'Etat, placé sous l'autorité du ministre chargé des douanes ou du ministre de l'intérieur, ou toute personne morale mentionnée au II de l'article L. 2271-1, désigné (e) par l'arrêté pris en application de l'article R. 2271-3, chargé (e) de la mise à disposition des équipements mentionnés à l'article R. 2271-8 ou de la réalisation des contrôles de sûreté prévus à l'article R. 2271-31 ;
 
 e) « Palpation de sûreté » : opération manuelle consistant pour les personnes mentionnées à l'article L. 2271-6 à rechercher sur une personne, la présence d'objets interdits en zone de sûreté ;
 

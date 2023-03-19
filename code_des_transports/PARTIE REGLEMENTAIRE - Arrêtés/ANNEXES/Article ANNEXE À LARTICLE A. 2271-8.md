@@ -1,6 +1,6 @@
 ### Article ANNEXE À L'ARTICLE A. 2271-8
 
-I. - Programme de formation destiné aux agents effectuant des contrôles de sûreté
+I.-Programme de formation destiné aux agents effectuant des contrôles de sûreté
 
 Le programme de formation comporte les informations suivantes :
 
@@ -27,7 +27,7 @@ Le programme de formation comporte les informations suivantes :
 - méthode d'évaluation : évaluations théoriques et pratiques réalisées à l'issue des modules de formation et d'entraînement, barèmes ou critères associés à ces tests, formations et entraînements complémentaires en cas de résultats insuffisants, y compris les modes de décision liés à ces situations ;
 - statistiques trimestrielles et indicateurs relatifs aux évaluations.
 
-II. - Références et qualifications professionnelles minimales des formateurs
+II.-Références et qualifications professionnelles minimales des formateurs
 
 L'employeur est tenu de vérifier que les formateurs :
 
@@ -37,7 +37,7 @@ L'employeur est tenu de vérifier que les formateurs :
 
 L'employeur doit être en mesure de produire les attestations et certificats correspondants pour chaque formateur ayant effectivement délivré une formation.
 
-III. - Formation initiale socle des titulaires d'un titre de passage permanent
+III.-Formation initiale socle des titulaires d'un titre de passage permanent
 
 Une formation initiale socle obligatoire, d'une durée minimale de 4 heures, est assurée par l'employeur à destination de tous ses salariés et sous-traitants auxquels s'impose le régime de sûreté prévu au I de l'article L. 2271-1 du code des transports.
 
@@ -54,24 +54,24 @@ Elle vise à la connaissance :
 - des conditions d'attribution, de suspension et de retrait du double agrément ;
 - des conditions du contrôle et de la supervision de l'activité des agents de sûreté.
 
-IV. - Formations initiales complémentaires pour les titulaires d'un titre de passage permanent
+IV.-Formations initiales complémentaires pour les titulaires d'un titre de passage permanent
 
 1. Trois formations initiales complémentaires obligatoires spécifiques sont assurées par l'employeur à destination des personnels mentionnés au IV de l'article L. 2271-6 réalisant certains contrôles de sûreté et recourant à certains équipements de contrôle ou de détection radioscopique :
 
-1.1. Module complémentaire n° 1 contrôles de sûreté , d'une durée minimale de deux jours, portant sur :
+1.1. Module complémentaire n° 1 contrôles de sûreté, d'une durée minimale de deux jours, portant sur :
 
 - la déontologie des contrôles de sûreté et le comportement vis-à-vis des passagers ;
 - les techniques de réalisation des palpations de sûreté ;
 - les techniques de réalisation de fouille des bagages, ainsi que des véhicules, y compris leur cargaison, d'une unité de transport intermodal pour vérifier la non présence d'objets interdits ou de personnes non autorisées ;
 - la mise en œuvre des techniques de maintien de l'intégrité des trains trans-Manche de ferroutage et des marchandises transportées à bord de trains trans-Manche de fret ;
 
-1.2. Module complémentaire n° 2 équipements de contrôle , d'une durée minimale d'une journée, portant sur :
+1.2. Module complémentaire n° 2 équipements de contrôle, d'une durée minimale d'une journée, portant sur :
 
 - les moyens de détection des objets interdits ;
 - l'emploi des détecteurs de métaux portatifs sur les personnes avec démonstrations pratiques ;
 - l'emploi des équipements de détection de trace d'explosif ;
 
-1.3. Module complémentaire n° 3 équipements d'imagerie radioscopique , d'une durée minimale de trois jours, à destination des agents de sûreté amenés à exploiter un équipement d'imagerie radioscopique, portant sur :
+1.3. Module complémentaire n° 3 équipements d'imagerie radioscopique, d'une durée minimale de trois jours, à destination des agents de sûreté amenés à exploiter un équipement d'imagerie radioscopique, portant sur :
 
 - l'aptitude à utiliser l'équipement conformément à ses spécifications ;
 - l'aptitude à utiliser méthodiquement toutes les fonctions afin de repérer les éventuels objets interdits dans les bagages.
@@ -83,15 +83,15 @@ Ce module complémentaire relève de la formation initiale, mais peut intervenir
 - soit préalablement à la prise de poste du personnel ;
 - soit postérieurement à sa prise de poste, dans le cadre de l'évolution des moyens de détection des objets interdits ;
 
-2. Une formation initiale complémentaire est assurée par tout employeur, lorsqu'il est opérateur des contrôles de sûreté, à destination de ceux de ses salariés désignés comme correspondants sûreté. D'une durée minimale de 4 heures, elle vise la connaissance approfondie des règles de gestion des titres d'accès et des laissez-passer telles que précisées à la sous-section 3 de la section 4 du chapitre unique du titre VII du livre II de la deuxième partie du code des transports (Partie réglementaire - Arrêtés).
+2. Une formation initiale complémentaire est assurée par tout employeur, lorsqu'il est opérateur des contrôles de sûreté, à destination de ceux de ses salariés désignés comme correspondants sûreté. D'une durée minimale de 4 heures, elle vise la connaissance approfondie des règles de gestion des titres d'accès et des laissez-passer telles que précisées à la sous-section 3 de la section 4 du chapitre unique du titre VII du livre II de la deuxième partie du code des transports (Partie réglementaire-Arrêtés).
 
-V. - Accompagnement à la prise de poste
+V.-Accompagnement à la prise de poste
 
 Un agent nouvellement formé est accompagné, lors de sa prise de poste, par un référent expérimenté. Cet accompagnement ne pourra être d'une durée inférieure à cinq jours à compter de la prise de poste.
 
 L'employeur prend les dispositions nécessaires pour assurer cet accompagnement.
 
-VI. - Formation continue et entraînements périodiques
+VI.-Formation continue et entraînements périodiques
 
 1. De la formation continue :
 
@@ -105,13 +105,13 @@ Sur une période de trois ans, la durée minimum de la formation continue ne peu
 
 Pour chaque agent utilisant un équipement d'imagerie radioscopique, l'employeur est tenu d'organiser un entraînement périodique. Sa durée ne peut être inférieure à six heures sur une période de trois mois, et à trois heures si l'employeur met en œuvre sur l'équipement un dispositif de test par projection d'image de menace utilisé en permanence.
 
-VII. - Reconnaissance des compétences acquises antérieurement
+VII.-Reconnaissance des compétences acquises antérieurement
 
 Les personnes réalisant des contrôles de sûreté prévues au IV de l'article L. 2271-6 depuis plus de douze mois à la date de publication du présent arrêté sont réputées satisfaire aux conditions de formation initiale définies au IV.
 
 En cas de changement d'activité, les dispositions relatives à l'accompagnement des personnes nouvellement formées prévues au V sont applicables pour une durée minimale de 7 heures à compter dudit changement.
 
-VIII. - Attestations de formation
+VIII.-Attestations de formation
 
 A l'issue de chaque formation initiale ou continue, ou de tout entraînement périodique, l'employeur est tenu d'établir des attestations individuelles de formation comportant les informations suivantes :
 

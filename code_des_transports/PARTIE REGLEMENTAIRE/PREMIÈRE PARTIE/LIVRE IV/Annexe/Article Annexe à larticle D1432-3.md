@@ -90,7 +90,7 @@ Le donneur d'ordre s'interdit de confier au commissionnaire de transport l'organ
 
 Le donneur d'ordre qui demande la fourniture d'un matériel d'un type particulier le spécifie et confirme sa demande au commissionnaire par écrit ou par tout moyen électronique de transmission et de conservation des données.
 
-3.4. Sous réserve des obligations du commissionnaire, notamment celles mentionnées à l'article 5, le donneur d'ordre supporte les conséquences résultant de déclarations ou de documents faux, erronés, incomplets, inadaptés ou remis tardivement au commissionnaire.
+3.4. Sous réserve des obligations du commissionnaire, notamment celles mentionnées à l'article 5, le donneur d'ordre supporte les conséquences résultant de déclarations ou de documents faux, erronés, incomplets, inadaptés ou remis tardivement au commissionnaire .
 
 Article 4
 
@@ -276,7 +276,7 @@ Conditions de paiement
 
 12.2. La compensation unilatérale du montant des dommages allégués sur le prix dû au commissionnaire est interdite.
 
-12.3. Tout retard dans le paiement entraîne de plein droit, le jour suivant la date de règlement figurant sur la facture, l'exigibilité d'intérêts de retard d'un montant équivalant à cinq fois le taux d'intérêt légal ainsi que d'une indemnité forfaitaire pour frais de recouvrement d'un montant de 40 € suivant l'article D. 441-5 du code de commerce et ce, sans préjudice de la réparation éventuelle, dans les conditions du droit commun, de tout autre dommage résultant directement de ce retard.
+12.3. Tout retard dans le paiement entraîne de plein droit, le jour suivant la date de règlement figurant sur la facture, l'exigibilité d'intérêts de retard d'un montant équivalant à cinq fois le taux d'intérêt légal ainsi que d'une indemnité forfaitaire pour frais de recouvrement d'un montant de 40 € suivant l' article D. 441-5 du code de commerce et ce, sans préjudice de la réparation éventuelle, dans les conditions du droit commun, de tout autre dommage résultant directement de ce retard.
 
 La date d'exigibilité du paiement, le taux d'intérêt des pénalités de retard ainsi que le montant de l'indemnité forfaitaire de compensation des frais de recouvrement doivent obligatoirement figurer sur la facture.
 

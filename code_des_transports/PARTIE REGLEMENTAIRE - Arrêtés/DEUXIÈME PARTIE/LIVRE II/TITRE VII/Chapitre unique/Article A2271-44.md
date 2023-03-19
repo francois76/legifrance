@@ -17,8 +17,8 @@ est ainsi établie :
 d'enregistrement préalable ou d'autorisation (B)</th>
  </tr>
  <tr>
-  <td align="justify">- Armes à feu sans permis, à l'exception des pistolets de départ</td>
-  <td>- Armes à feu autorisées
+  <td align="justify">-Armes à feu sans permis, à l'exception des pistolets de départ</td>
+  <td>-Armes à feu autorisées
 
 - Répliques d'armes, à l'exception des jouets n'ayant pas l'aspect d'une arme véritable
 - Arbalètes, et carreaux d'arbalètes
@@ -26,14 +26,14 @@ d'enregistrement préalable ou d'autorisation (B)</th>
 - Pistolets de départ</td>
  </tr>
  <tr>
-  <td align="justify">- Explosifs, dont engins explosifs, grenades, mines, stocks militaires d'explosifs, répliques d'engins explosifs, feux d'artifice, fusées éclairantes, articles pyrotechniques
+  <td align="justify">-Explosifs, dont engins explosifs, grenades, mines, stocks militaires d'explosifs, répliques d'engins explosifs, feux d'artifice, fusées éclairantes, articles pyrotechniques
 
 - Détonateurs
 - Cartouches fumigènes</td>
-  <td>- Munitions</td>
+  <td>-Munitions</td>
  </tr>
  <tr>
-  <td align="justify">- Articles contenant des substances incapacitantes, dont pistolets à gaz, pulvérisateurs de gaz lacrymogène, mace, acide, phosphore et autres produits chimiques dangereux risquant de causer des mutilations ou des handicap</td>
+  <td align="justify">-Articles contenant des substances incapacitantes, dont pistolets à gaz, pulvérisateurs de gaz lacrymogène, mace, acide, phosphore et autres produits chimiques dangereux risquant de causer des mutilations ou des handicap</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -58,18 +58,18 @@ d'enregistrement préalable ou d'autorisation (B)</th>
 - couteaux de cuisine ;
 - ciseaux ;
 - aiguilles à tricoter</td>
-  <td>- Rasoirs ouverts (également appelés rasoirs à main) ;
+  <td>-Rasoirs ouverts (également appelés rasoirs à main) ;
 
 - Armes de cérémonie ou cultuelles (par exemple Kukri, Skeandhu, Kirpan)
 - Armes destinées aux arts martiaux (dont l'escrime)
 - Epées anciennes
 - Cannes-épées
 - Javelots
-- Harpons/fusils sous-marins</td>
+- Harpons/ fusils sous-marins</td>
  </tr>
  <tr>
-  <td align="justify">- Toutes autres armes (en dehors des exceptions) que celles mentionnées ci-dessus (dans les deux colonnes) ; à l'exception des lance-pierres</td>
-  <td>- Tout article non mentionné (en dehors des exceptions) dans le présent tableau, si le responsable de la zone de sûreté ou l'entreprise ferroviaire, selon le cas, a des raisons de suspecter, au vu des circonstances, qu'une personne est susceptible de l'utiliser pour commettre une agression</td>
+  <td align="justify">-Toutes autres armes (en dehors des exceptions) que celles mentionnées ci-dessus (dans les deux colonnes) ; à l'exception des lance-pierres</td>
+  <td>-Tout article non mentionné (en dehors des exceptions) dans le présent tableau, si le responsable de la zone de sûreté ou l'entreprise ferroviaire, selon le cas, a des raisons de suspecter, au vu des circonstances, qu'une personne est susceptible de l'utiliser pour commettre une agression</td>
  </tr>
 </table>
 

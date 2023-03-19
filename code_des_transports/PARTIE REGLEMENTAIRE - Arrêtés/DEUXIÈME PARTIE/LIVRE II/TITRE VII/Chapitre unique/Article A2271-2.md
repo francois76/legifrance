@@ -15,9 +15,9 @@ En application de l'article R. 2271-6, la liste des sites trans-Manche est fixé
  </tr>
  <tr>
   <td align="justify" valign="middle">Pas-de-Calais</td>
-  <td align="justify">Gare de « Calais - Fréthun » (passagers)
+  <td align="justify">Gare de « Calais-Fréthun » (passagers)
 
-Site de fret international de « Calais - Fréthun »
+Site de fret international de « Calais-Fréthun »
 
 Terminal de Coquelles</td>
  </tr>
@@ -25,7 +25,7 @@ Terminal de Coquelles</td>
   <td align="justify" valign="middle">Savoie</td>
   <td align="justify">Gare de « Bourg-Saint-Maurice »
 
-Gare de « Moûtiers - Salins - Brides-les-Bains »</td>
+Gare de « Moûtiers-Salins-Brides-les-Bains »</td>
  </tr>
  <tr>
   <td align="justify" valign="middle">Paris</td>

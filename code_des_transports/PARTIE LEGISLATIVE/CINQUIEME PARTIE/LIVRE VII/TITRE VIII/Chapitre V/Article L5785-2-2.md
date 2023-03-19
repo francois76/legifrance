@@ -2,7 +2,7 @@
 
 Pour son application à Wallis-et-Futuna, l'article L. 5542-3 est ainsi rédigé :
 
-" Art. L. 5542-3.-I.-Le contrat est établi par écrit. Outre les clauses obligatoires définies par la loi n° 52-1322 du 15 décembre 1952 modifiée par l' ordonnance n° 2005-57 du 26 janvier 2005 instituant un code du travail dans les territoires associés relevant du ministère de la France d'outre-mer, il comporte les clauses obligatoires propres à l'engagement maritime.
+" Art. L. 5542-3.-I.-Le contrat est établi par écrit. Outre les clauses obligatoires définies par la loi n° 52-1322 du 15 décembre 1952 modifiée par l'ordonnance n° 2005-57 du 26 janvier 2005 instituant un code du travail dans les territoires associés relevant du ministère de la France d'outre-mer, il comporte les clauses obligatoires propres à l'engagement maritime.
 
 " II.-Les clauses obligatoires du contrat d'engagement maritime mentionnées au I sont les suivantes :
 

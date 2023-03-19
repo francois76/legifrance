@@ -1,6 +1,6 @@
 ###### Article R1332-3
 
-I. - L'entreprise veille à ce que le conducteur ait à sa disposition, sur support papier ou en format électronique, les documents suivants :
+I.-L'entreprise veille à ce que le conducteur ait à sa disposition, sur support papier ou en format électronique, les documents suivants :
 
 1° Une copie de la déclaration de détachement mentionnée à l'article R. 1332-2 ;
 
@@ -8,7 +8,7 @@ I. - L'entreprise veille à ce que le conducteur ait à sa disposition, sur supp
 
 3° Les enregistrements du tachygraphe, et en particulier les symboles pays des Etats membres où le conducteur a été présent lorsqu'il a procédé aux opérations de transport routier international ou aux transports de cabotage, conformément aux exigences en matière d'enregistrement et de conservation des relevés au titre des règlements (CE) n° 561/2006 et (UE) n° 165/2014.
 
-II. - L'entreprise veille à ce que le conducteur se trouvant dans l'un des cas mentionnés au I de l'article L. 1332-3 ait à sa disposition, sur support papier ou en format électronique, les documents mentionnés aux 2° et 3° du I.
+II.-L'entreprise veille à ce que le conducteur se trouvant dans l'un des cas mentionnés au I de l'article L. 1332-3 ait à sa disposition, sur support papier ou en format électronique, les documents mentionnés aux 2° et 3° du I.
 
-III. - Le conducteur conserve les documents mentionnés au I ou au II à bord du véhicule avec lequel est assuré le transport et les présente à la demande des agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail.
+III.-Le conducteur conserve les documents mentionnés au I ou au II à bord du véhicule avec lequel est assuré le transport et les présente à la demande des agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail.
 

@@ -1,6 +1,6 @@
 ###### Article A2271-59
 
-I. - Sont exemptés d'inspection-filtrage ainsi que les bagages et les objets qu'ils portent ou transportent et les animaux utilisés à des fins professionnelles :
+I.-Sont exemptés d'inspection-filtrage ainsi que les bagages et les objets qu'ils portent ou transportent et les animaux utilisés à des fins professionnelles :
 
 1° Les agents des douanes disposant d'un titre de passage valide pour le site trans-Manche et les personnes qu'ils accompagnent ou escortent ;
 
@@ -30,5 +30,5 @@ I. - Sont exemptés d'inspection-filtrage ainsi que les bagages et les objets qu
 
 Les catégories de personnes mentionnées au I du présent article sont soumises aux dispositions en vigueur relatives au contrôle d'accès, à l'exception des personnes mentionnées au 8°.
 
-II. - La valise diplomatique est exemptée d'inspection-filtrage, conformément aux dispositions de la Convention de Vienne sur les relations diplomatiques.
+II.-La valise diplomatique est exemptée d'inspection-filtrage, conformément aux dispositions de la Convention de Vienne sur les relations diplomatiques.
 

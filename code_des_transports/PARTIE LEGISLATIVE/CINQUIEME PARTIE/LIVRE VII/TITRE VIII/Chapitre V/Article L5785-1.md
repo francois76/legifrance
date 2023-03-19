@@ -449,7 +449,8 @@ II.-Sous réserve des dispositions d'adaptations prévues au présent chapitre, 
   <td>Résultant de la loi n° 2016-816 du 20 juin 2016</td>
  </tr>
  <tr>
-  <td>L. 5533-1et L. 5533-2</td>
+  <td>L. 5533-1et
+L. 5533-2</td>
   <td>Résultant de la loi n° 2013-619 du 16 juillet 2013</td>
  </tr>
  <tr>

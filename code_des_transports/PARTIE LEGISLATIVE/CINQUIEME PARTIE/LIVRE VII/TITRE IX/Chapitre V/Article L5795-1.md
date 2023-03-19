@@ -361,7 +361,7 @@ I.-Sont applicables aux Terres australes et antarctiques françaises, sous rése
   <td>Résultant de la loi n° 2016-816 du 20 juin 2016</td>
  </tr>
  <tr>
-  <td>L. 5521- 6</td>
+  <td>L. 5521-6</td>
   <td>Résultant de l'ordonnance n° 2021-1330 du 13 octobre 2021</td>
  </tr>
  <tr>

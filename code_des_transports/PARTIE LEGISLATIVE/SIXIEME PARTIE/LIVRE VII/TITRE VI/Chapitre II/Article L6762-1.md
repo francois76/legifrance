@@ -112,7 +112,8 @@ L. 6232-4</td>
   <td align="justify"/>
  </tr>
  <tr>
-<td align="justify">L. 6232-8 à L. 6232-9</td>
+<td align="justify">
+L. 6232-8 à L. 6232-9</td>
   <td align="justify">Résultant de la loi n° 2022-52 du 24 janvier 2022 relative à la responsabilité pénale et à la sécurité intérieure</td>
  </tr>
  <tr>

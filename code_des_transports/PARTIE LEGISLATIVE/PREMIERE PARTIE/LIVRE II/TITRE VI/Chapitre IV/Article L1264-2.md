@@ -12,7 +12,9 @@ Elle peut recueillir toutes les informations utiles auprès :
 
 4° Des personnes mentionnées aux articles L. 1115-10 à L. 1115-12 ;
 
-5° Des personnes mentionnées à l'article 9 du règlement délégué (UE) 2017/1926 de la Commission du 31 mai 2017 complétant la directive 2010/40/ UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l'ensemble de l'Union, de services d'informations sur les déplacements multimodaux, et à l'article L. 1115-5 du présent code.
+5° Des personnes mentionnées à l'article 9 du règlement délégué (UE) 2017/1926 de la Commission du 31 mai 2017 complétant la directive 2010/40/ UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l'ensemble de l'Union, de services d'informations sur les déplacements multimodaux, et à l'article L. 1115-5 du présent code ;
+
+6° Des percepteurs de péages, des prestataires du service européen de télépéage et de toute personne dont l'activité est liée à la prestation du service européen de télépéage.
 
 Elle peut également entendre toute personne dont l'audition lui paraît susceptible de contribuer à son information.
 
@@ -25,4 +27,8 @@ Les enquêtes donnent lieu à procès-verbal. Un double en est transmis dans les
 Les agents habilités de l'autorité reçoivent, à leur demande, communication des documents comptables et factures, de toute pièce ou document utile, en prennent copie et recueillent, sur convocation ou sur place, les renseignements et justifications propres à l'accomplissement de leur mission.
 
 Afin de vérifier le respect des dispositions relatives à la séparation comptable établies aux articles L. 2122-4, L. 2123-1-1, L. 2142-16, L. 2144-1, L. 2144-2 et L. 2251-1-2 et relatives à la transparence financière établies à l'article L. 2122-7-2-1, l'Autorité de régulation des transports est habilitée à effectuer des audits ou à commander des audits externes auprès des gestionnaires d'infrastructure, des exploitants d'installations de service et, le cas échéant, auprès des entreprises ferroviaires, ainsi qu'auprès des entités d'une entreprise verticalement intégrée, des exploitants de services de transport public urbain dans la région d'Ile-de-France sur les réseaux dont la Régie autonome des transports parisiens assure la mission de gestionnaire technique et de la Régie autonome des transports parisiens.
+
+Pour l'accomplissement des missions de l'Autorité de régulation des transports prévues aux articles 3 à 9 du règlement délégué (UE) 2017/1926 de la Commission du 31 mai 2017 complétant la directive 2010/40/ UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l'ensemble de l'Union, de services d'informations sur les déplacements multimodaux, aux articles L. 1115-1, L. 1115-3, L. 1115-5, au second alinéa de l'article L. 1115-6, aux articles L. 1115-7 et L. 1115-10 à L. 1115-12 du présent code ainsi qu'à l'avant-dernier alinéa de l'article L. 141-13 du code de la voirie routière, les agents habilités de l'autorité peuvent mettre en œuvre des collectes automatisées de données ou d'informations sur les déplacements multimodaux publiquement accessibles sur des services numériques. Les opérateurs de ces services numériques ne peuvent opposer un refus d'accès aux interfaces de programmation ou de collecte automatique sur les applications mobiles et les sites internet qu'ils ont développés et rendus accessibles aux tiers, ni de limites d'extraction des bases de données publiquement accessibles, ni d'interdictions prévues par les conditions générales d'utilisation des services numériques mettant ces données ou ces informations sur les déplacements multimodaux à la disposition du public.
+
+Ces collectes sont mises en œuvre de manière strictement nécessaire et proportionnée, dans des conditions et selon des modalités précisées par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
 

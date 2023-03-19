@@ -1,6 +1,6 @@
 ###### Article L6755-2
 
-Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 6511-11 , les mots : “ dispositions du règlement ” sont remplacés par les mots : “ règles applicables en métropole en vertu des dispositions du règlement ”.
+Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 6511-11, les mots : “ dispositions du règlement ” sont remplacés par les mots : “ règles applicables en métropole en vertu des dispositions du règlement ”.
 
 L'autorité administrative compétente peut accorder des dérogations aux exigences de fond précisées dans ces règles, en cas de circonstances opérationnelles ou de nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour autant que ces dérogations ne réduisent pas le niveau de sécurité.
 
