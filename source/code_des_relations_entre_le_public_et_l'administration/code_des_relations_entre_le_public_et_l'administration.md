@@ -501,7 +501,7 @@ Ainsi qu'il est dit à l'article L. 311-2 et dans les conditions posées à cet 
 
 ##### Article L114-8
 
-I. - Les administrations échangent entre elles toutes les informations ou les données strictement nécessaires pour traiter une demande présentée par le public ou une déclaration transmise par celui-ci en application d'une disposition législative ou d'un acte réglementaire.
+I.-Les administrations échangent entre elles toutes les informations ou les données strictement nécessaires pour traiter une demande présentée par le public ou une déclaration transmise par celui-ci en application d'une disposition législative ou d'un acte réglementaire.
 
 En application de l'article L. 114-10, lorsque, en raison d'une impossibilité technique, la transmission des informations ou des données, par les collectivités territoriales et les groupements de collectivités territoriales, dans le cadre des échanges prévus au premier alinéa du présent I, ne peut être réalisée, ces collectivités ou groupements ne sont pas tenus de procéder à cette transmission.
 
@@ -509,13 +509,13 @@ L'administration chargée de traiter la demande ou la déclaration fait connaît
 
 Le public est informé du droit d'accès et de rectification dont dispose chaque personne intéressée concernant les informations et les données mentionnées au présent article.
 
-II. - Les administrations peuvent échanger entre elles les informations ou les données strictement nécessaires pour informer les personnes sur leur droit au bénéfice éventuel d'une prestation ou d'un avantage prévus par des dispositions législatives ou des actes réglementaires et pour leur attribuer éventuellement lesdits prestations ou avantages. Les informations et les données ainsi recueillies et les traitements mis en œuvre en application du présent article pour procéder à ces échanges ne peuvent être ultérieurement utilisés à d'autres fins, en particulier pour la détection ou pour la sanction d'une fraude.
+II.-Les administrations peuvent échanger entre elles les informations ou les données strictement nécessaires pour informer les personnes sur leur droit au bénéfice éventuel d'une prestation ou d'un avantage prévus par des dispositions législatives ou des actes réglementaires et pour leur attribuer éventuellement lesdits prestations ou avantages. Les informations et les données ainsi recueillies et les traitements mis en œuvre en application du présent article pour procéder à ces échanges ne peuvent être ultérieurement utilisés à d'autres fins, en particulier pour la détection ou pour la sanction d'une fraude.
 
 Au plus tard au moment de la première communication individuelle avec la personne concernée, celle-ci est avisée de ses droits d'accès et de rectification ainsi que, le cas échéant, de son droit de s'opposer à la poursuite du traitement des données. En cas d'opposition exprimée par la personne de poursuivre le traitement ou si ce traitement révèle que la personne n'a pas droit à la prestation ou à l'avantage, les informations et les données obtenues à la suite de cet échange sont détruites sans délai.
 
 Un décret en Conseil d'Etat, pris après un avis motivé de la Commission nationale de l'informatique et des libertés rendu public, détermine les conditions d'application du présent II, notamment la durée et les modalités de conservation des informations et des données collectées à cette occasion.
 
-III. - Les administrations destinataires de ces informations ou de ces données ne peuvent se voir opposer le secret professionnel dès lors qu'elles sont, dans le cadre de leurs missions légales, habilitées à avoir connaissance des informations ou des données ainsi échangées.
+III.-Les administrations destinataires de ces informations ou de ces données ne peuvent se voir opposer le secret professionnel dès lors qu'elles sont, dans le cadre de leurs missions légales, habilitées à avoir connaissance des informations ou des données ainsi échangées.
 
 La liste des administrations qui se procurent directement des informations ou des données auprès d'autres administrations françaises en application du présent article, la liste des informations ou des données ainsi échangées et le fondement juridique sur lequel repose le traitement des procédures mentionnées au I du présent article font l'objet d'une diffusion publique dans les conditions prévues à l'article L. 312-1-1.
 
@@ -2004,20 +2004,20 @@ Les circulaires et instructions soumises aux dispositions de l'article R. 312-8 
 ###### Article D312-11
 
 Les sites internet mentionnés au premier alinéa de l'article L. 312-3 sont les suivants :
-- www.bulletin-officiel.developpement-durable.gouv.fr ;
-- www.culture.gouv.fr ;
-- www.defense.gouv.fr/sga ;
-- www.diplomatie.gouv.fr ;
-- www.economie.gouv.fr ;
-- www.education.gouv.fr ;
-- www.enseignementsup-recherche.gouv.fr ;
-- www.fonction-publique.gouv.fr ;
-- https://info.agriculture.gouv.fr ;
-- www.interieur.gouv.fr ;
-- https://solidarites-sante.gouv.fr ;
-- www.sports.gouv.fr ;
-- www.textes.justice.gouv.fr ;
-- https://travail-emploi.gouv.fr.
+- www. bulletin-officiel. developpement-durable. gouv. fr ;
+- www. culture. gouv. fr ;
+- www. defense. gouv. fr/ sga ;
+- www. diplomatie. gouv. fr ;
+- www. economie. gouv. fr ;
+- www. education. gouv. fr ;
+- www. enseignementsup-recherche. gouv. fr ;
+- www. fonction-publique. gouv. fr ;
+- https :// info. agriculture. gouv. fr ;
+- www. interieur. gouv. fr ;
+- https :// solidarites-sante. gouv. fr ;
+- www. sports. gouv. fr ;
+- www. textes. justice. gouv. fr ;
+- https :// travail-emploi. gouv. fr.
 
 Lorsque la page à laquelle renvoient les adresses mentionnées ci-dessus ne donne pas directement accès à la liste des documents mentionnés à l'article L. 312-3, elle comporte un lien direct vers cette liste, identifié par la mention “ Documents opposables ”.
 
@@ -3305,7 +3305,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>L. 110-1</td>
+<td>
+L. 110-1</td>
   <td>Résultant de l'ordonnance n° 2015-1341</td>
  </tr>
  <tr>
@@ -3357,7 +3358,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>L. 120-1</td>
+<td>
+L. 120-1</td>
   <td>Résultant de l'ordonnance n° 2015-1341</td>
  </tr>
  <tr>
@@ -3381,7 +3383,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>L. 131-1</td>
+<td>
+L. 131-1</td>
   <td>Résultant de l'ordonnance n° 2015-1341</td>
  </tr>
  <tr>
@@ -3614,7 +3617,7 @@ L. 240-1 et L. 240-2</td>
 
 Les dispositions du livre II mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<table><tbody>
+<table align="center" border="1" width="720"><tbody>
  <tr>
   <th>DISPOSITIONS APPLICABLES</th>
   <th>DANS LEUR RÉDACTION</th>
@@ -3630,8 +3633,6 @@ Les dispositions du livre II mentionnées dans la colonne de gauche du tableau c
 ###### Article L552-8
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
-
-<center></center>
 
 <table align="center" border="1"><tbody>
  <tr>
@@ -3972,8 +3973,6 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<center></center>
-
 <table align="center" border="1"><tbody>
  <tr>
   <td><center>DISPOSITIONS APPLICABLES</center></td>
@@ -4117,7 +4116,7 @@ Les mesures de publicité applicables aux actes pris par les autorités de la Po
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables aux relations entre le public et la Polynésie française, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par cette collectivité d'une mission de service public administratif et, le cas échéant, industriel et commercial, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>Dispositions applicables</th>
   <th>Dans leur rédaction</th>
@@ -4341,8 +4340,7 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>
-R. 112-4 et R. 112-5</td>
+<td>R. 112-4 et R. 112-5</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
@@ -4378,8 +4376,7 @@ R. 112-4 et R. 112-5</td>
   <td align="left"/>
  </tr>
  <tr>
-<td>
-R. 134-3 à R. 134-30</td>
+<td>R. 134-3 à R. 134-30</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
@@ -4534,8 +4531,6 @@ Les dispositions du livre II mentionnées dans la colonne de gauche du tableau c
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<center></center>
-
 <table border="1"><tbody>
  <tr>
   <th>DISPOSITIONS APPLICABLES</th>
@@ -4683,7 +4678,7 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
  </tr>
  <tr>
 <td>
-R.*311-12</td>
+R. *311-12</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
@@ -4694,11 +4689,11 @@ R.*311-12</td>
 <td/>
  </tr>
  <tr>
-  <td>R.* 322-4</td>
+  <td>R. * 322-4</td>
   <td>Résultant du décret n° 2016-308</td>
  </tr>
  <tr>
-  <td>R.* 325-6</td>
+  <td>R. * 325-6</td>
   <td>Résultant du décret n° 2016-308</td>
  </tr>
  <tr>
@@ -4710,7 +4705,7 @@ R.*311-12</td>
  </tr>
  <tr>
 <td>
-R.*343-4</td>
+R. *343-4</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
 </tbody></table>
@@ -4803,8 +4798,7 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>
-R. 330-2 à R. 330-4</td>
+<td>R. 330-2 à R. 330-4</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
@@ -4824,38 +4818,47 @@ R. 330-2 à R. 330-4</td>
  </tr>
  <tr>
   <td>R. 341-5-1</td>
-  <td>Résultant du</td>
+  <td>Résultant du décret n° 2022-1335 du 19 octobre 2022</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-6</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-7</td>
+  <td>Résultant du décret n° 2016-308</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-8</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-9</td>
+  <td>Résultant du décret n° 2016-308</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-16</td>
+  <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-17</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 342-4-1</td>
+  <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 342-5</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 343-1 à R. 343-3</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/>
-  <td>décret n° 2022-1335 du 19 octobre 2022R. 341-6Résultant du décret n° 2015-1342R. 341-7Résultant du décret n° 2016-308R. 341-8Résultant du décret n° 2015-1342R. 341-9Résultant du décret n° 2016-308R. 341-16Résultant du décret n° 2016-1564 du 21 novembre 2016R. 341-17Résultant du décret n° 2015-1342R. 342-4-1Résultant du décret n° 2016-1564 du 21 novembre 2016R. 342-5Résultant du décret n° 2015-1342R. 343-1 à R. 343-3Résultant du décret n° 2015-1342R. 343-3-1 à R. 343-3-2Résultant du décret n° 2022-1335 du 19 octobre 2022</td>
+  <td>R. 343-3-1 à R. 343-3-2</td>
+  <td>Résultant du décret n° 2022-1335 du 19 octobre 2022</td>
  </tr>
  <tr>
   <td>R. 343-5 à R. 343-12</td>
@@ -4866,8 +4869,6 @@ R. 330-2 à R. 330-4</td>
 ###### Article D562-11
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
-
-<center></center>
 
 <table align="center" border="1"><tbody>
  <tr>
@@ -5017,7 +5018,7 @@ Les mesures de publicité applicables aux actes pris par les autorités de la No
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables aux relations entre le public et la Nouvelle-Calédonie, ses provinces, leurs établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par ces collectivités d'une mission de service public administratif et, le cas échéant, industriel et commercial, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>Dispositions applicables</th>
   <th>Dans leur rédaction</th>
@@ -5229,8 +5230,7 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>
-R. 112-4 et R. 112-5</td>
+<td>R. 112-4 et R. 112-5</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
@@ -5266,8 +5266,7 @@ R. 112-4 et R. 112-5</td>
   <td align="left"/>
  </tr>
  <tr>
-<td>
-R. 133-3 à R. 133-13</td>
+<td>R. 133-3 à R. 133-13</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
@@ -5461,7 +5460,7 @@ Par conséquent, les dispositions du code qui suivent ne sont pas applicables da
 
 Les dispositions du livre II mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par lui d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>DISPOSITIONS APPLICABLES</th>
   <th>DANS LEUR RÉDACTION</th>
@@ -5483,8 +5482,6 @@ Les mesures de publicité applicables aux actes pris par les autorités de Walli
 ##### Article L574-1
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
-
-<center></center>
 
 <table border="1"><tbody>
  <tr>
@@ -5757,8 +5754,7 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>
-R. 330-2 à R. 330-4</td>
+<td>R. 330-2 à R. 330-4</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
@@ -5778,38 +5774,47 @@ R. 330-2 à R. 330-4</td>
  </tr>
  <tr>
   <td>R. 341-5-1</td>
-  <td>Résultant du</td>
+  <td>Résultant du décret n° 2022-1335 du 19 octobre 2022</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-6</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-7</td>
+  <td>Résultant du décret n° 2016-308</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-8</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-9</td>
+  <td>Résultant du décret n° 2016-308</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-16</td>
+  <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 341-17</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 342-4-1</td>
+  <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 342-5</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/><td/>
+  <td>R. 343-1 à R. 343-3</td>
+  <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-<td/>
-  <td>décret n° 2022-1335 du 19 octobre 2022R. 341-6Résultant du décret n° 2015-1342R. 341-7Résultant du décret n° 2016-308R. 341-8Résultant du décret n° 2015-1342R. 341-9Résultant du décret n° 2016-308R. 341-16Résultant du décret n° 2016-1564 du 21 novembre 2016R. 341-17Résultant du décret n° 2015-1342R. 342-4-1Résultant du décret n° 2016-1564 du 21 novembre 2016R. 342-5Résultant du décret n° 2015-1342R. 343-1 à R. 343-3Résultant du décret n° 2015-1342R. 343-3-1 à R. 343-3-2Résultant du décret n° 2022-1335 du 19 octobre 2022</td>
+  <td>R. 343-3-1 à R. 343-3-2</td>
+  <td>Résultant du décret n° 2022-1335 du 19 octobre 2022</td>
  </tr>
  <tr>
   <td>R. 343-5 à R. 343-12</td>
@@ -5820,8 +5825,6 @@ R. 330-2 à R. 330-4</td>
 ##### Article D574-4
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna entre le public, d'une part, et l'Etat, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
-
-<center></center>
 
 <table align="center" border="1"><tbody>
  <tr>
@@ -5872,9 +5875,7 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables aux relations entre le public, d'une part, et la collectivité de Wallis-et-Futuna, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par cette collectivité d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<center></center>
-
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>DISPOSITIONS APPLICABLES</th>
   <th>DANS LEUR RÉDACTION</th>
@@ -5937,7 +5938,7 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables aux relations entre le public, d'une part, et la collectivité de Wallis-et-Futuna, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par cette collectivité d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>TITRE II</th>
   <th></th>
@@ -6015,13 +6016,14 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables aux relations entre le public, d'une part, et la collectivité de Wallis-et-Futuna, ses établissements publics et les autres organismes et personnes de droit public et de droit privé chargés par cette collectivité d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>DISPOSITIONS APPLICABLES</th>
   <th>DANS LEUR RÉDACTION</th>
  </tr>
  <tr>
-  <td valign="middle"><div align="left">D. 324-5-1</td>
+  <td valign="middle"><div align="left">
+D. 324-5-1</td>
   <td valign="middle">Résultant du décret n° 2016-1617</td>
  </tr>
 </tbody></table>
