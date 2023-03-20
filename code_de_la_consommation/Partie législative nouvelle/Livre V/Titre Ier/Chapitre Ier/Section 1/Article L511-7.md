@@ -60,7 +60,9 @@ Les agents sont habilités à rechercher et à constater les infractions ou les 
 
 29° De l'article L. 101 du code des postes et des communications électroniques ;
 
-30° De l'article L. 113-15-3 du code des assurances et de l'article L. 221-10-4 du code de la mutualité.
+30° De l'article L. 113-15-3 du code des assurances et de l'article L. 221-10-4 du code de la mutualité ;
+
+31° De l'article L. 6323-8-1 du code du travail.
 
 Ils disposent à cet effet des pouvoirs définis à la section 1, aux sous-sections 1 à 5 de la section 2 ainsi qu'à la section 3 du chapitre II du présent titre et peuvent mettre en œuvre les mesures prévues à la section 1 du chapitre Ier du titre II.
 
