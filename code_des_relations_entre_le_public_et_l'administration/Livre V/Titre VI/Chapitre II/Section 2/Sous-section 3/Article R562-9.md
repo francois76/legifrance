@@ -13,7 +13,7 @@ Les dispositions du livre III mentionnées dans la colonne de gauche du tableau 
  </tr>
  <tr>
 <td>
-R.*311-12</td>
+R. *311-12</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
@@ -24,11 +24,11 @@ R.*311-12</td>
 <td/>
  </tr>
  <tr>
-  <td>R.* 322-4</td>
+  <td>R. * 322-4</td>
   <td>Résultant du décret n° 2016-308</td>
  </tr>
  <tr>
-  <td>R.* 325-6</td>
+  <td>R. * 325-6</td>
   <td>Résultant du décret n° 2016-308</td>
  </tr>
  <tr>
@@ -40,7 +40,7 @@ R.*311-12</td>
  </tr>
  <tr>
 <td>
-R.*343-4</td>
+R. *343-4</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
 </tbody></table>

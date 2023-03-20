@@ -2,8 +2,6 @@
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie française aux relations entre le public, d'une part, et les organismes et personnes organismes et personnes de droit public et de droit privé, autres que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-<center></center>
-
 <table align="center" border="1"><tbody>
  <tr>
   <th>DISPOSITIONS APPLICABLES</th>

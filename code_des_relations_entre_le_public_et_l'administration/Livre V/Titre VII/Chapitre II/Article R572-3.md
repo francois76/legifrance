@@ -12,8 +12,7 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>
-R. 112-4 et R. 112-5</td>
+<td>R. 112-4 et R. 112-5</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
@@ -49,8 +48,7 @@ R. 112-4 et R. 112-5</td>
   <td align="left"/>
  </tr>
  <tr>
-<td>
-R. 133-3 à R. 133-13</td>
+<td>R. 133-3 à R. 133-13</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>

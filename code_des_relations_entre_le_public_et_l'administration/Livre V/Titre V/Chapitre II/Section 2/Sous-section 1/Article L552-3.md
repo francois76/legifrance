@@ -12,7 +12,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>L. 110-1</td>
+<td>
+L. 110-1</td>
   <td>Résultant de l'ordonnance n° 2015-1341</td>
  </tr>
  <tr>
@@ -64,7 +65,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>L. 120-1</td>
+<td>
+L. 120-1</td>
   <td>Résultant de l'ordonnance n° 2015-1341</td>
  </tr>
  <tr>
@@ -88,7 +90,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="left"/>
  </tr>
  <tr>
-<td>L. 131-1</td>
+<td>
+L. 131-1</td>
   <td>Résultant de l'ordonnance n° 2015-1341</td>
  </tr>
  <tr>
