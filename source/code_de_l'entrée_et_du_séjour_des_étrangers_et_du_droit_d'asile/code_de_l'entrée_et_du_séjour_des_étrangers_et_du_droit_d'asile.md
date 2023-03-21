@@ -17697,6 +17697,12 @@ Les autorités diplomatiques ou consulaires, les services du ministère des affa
 
 Les modalités de fonctionnement de la commission sont définies par arrêté conjoint du ministre des affaires étrangères et du ministre chargé de l'immigration.
 
+####### Article R312-6
+
+La personne dont le recours a été rejeté par le sous-directeur des visas, la commission mentionnée à l'article D. 312-3 ou, lorsque celle-ci a émis une recommandation en application de l'article D. 312-5-1, par le ministre des affaires étrangères ou le ministre de l'intérieur, peut demander au tribunal administratif l'annulation de cette décision dans les délais prévus par les articles R. 421-1 et R. 421-2 du code de justice administrative.
+
+Les dispositions du 1° de l'article R. 421-3 du code de justice administrative et de l'article R. 421-7 du même code ne sont pas applicables.
+
 ###### Sous-section 2 :  Recours contre les refus d'autorisations de voyage
 
 ####### Article D312-7
@@ -17719,21 +17725,15 @@ La personne dont le recours a été rejeté par le sous-directeur des visas peut
 
 ###### Sous-section 3 :  Dispositions communes
 
-####### Article D312-8-1
-
-En l'absence de décision explicite prise dans le délai de deux mois, le recours administratif exercé devant les autorités mentionnées aux articles D. 312-3 et D. 312-7 est réputé rejeté pour les mêmes motifs que ceux de la décision contestée. L'administration en informe le demandeur dans l'accusé de réception de son recours.
-
-###### Article R312-6
-
-La personne dont le recours a été rejeté par le sous-directeur des visas, la commission mentionnée à l'article D. 312-3 ou, lorsque celle-ci a émis une recommandation en application de l'article D. 312-5-1, par le ministre des affaires étrangères ou le ministre de l'intérieur, peut demander au tribunal administratif l'annulation de cette décision dans les délais prévus par les articles R. 421-1 et R. 421-2 du code de justice administrative.
-
-Les dispositions du 1° de l'article R. 421-3 du code de justice administrative et de l'article R. 421-7 du même code ne sont pas applicables.
-
-###### Article R312-8
+####### Article R312-8
 
 Les recours administratifs doivent être motivés et rédigés en langue française. Ils sont seuls de nature à conserver le délai de recours contentieux jusqu'à l'intervention des décisions prévues aux articles D. 312-5-1, D. 312-5-2 et D. 312-7-2.
 
 Le sous-directeur des visas ou la commission, selon le cas, ne peut être régulièrement saisi que par la personne qui fait l'objet de la décision de refus contestée ou par un mandataire dûment habilité ou une personne établissant avoir un intérêt direct et certain à la contester.
+
+####### Article D312-8-1
+
+En l'absence de décision explicite prise dans le délai de deux mois, le recours administratif exercé devant les autorités mentionnées aux articles D. 312-3 et D. 312-7 est réputé rejeté pour les mêmes motifs que ceux de la décision contestée. L'administration en informe le demandeur dans l'accusé de réception de son recours.
 
 ##### Section 3 : Abrogation du visa par l'autorité préfectorale
 
