@@ -2107,9 +2107,17 @@ Si le titre de l'hypothèque est à ordre, sa négociation par voie d'endossemen
 
 ### Article 257
 
-Les transports effectués entre les ports de la France métropolitaine sont réservés aux navires exploités par des armateurs ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen et immatriculés dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et battant pavillon de ce même Etat.
+Les transports effectués entre les ports de France métropolitaine sont réservés aux navires exploités par des armateurs ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen et immatriculés dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et battant pavillon de ce même Etat, sous réserve que ces navires, lorsqu'ils ne battent pas pavillon français, remplissent toutes les conditions pour être admis à effectuer des transports équivalents entre les ports ou dans les eaux de l'Etat dont ils battent le pavillon.
 
-Toutefois, l'autorité administrative peut, dans des conditions fixées par décret, autoriser un navire ne satisfaisant pas à ces conditions à assurer un transport déterminé.
+Le premier alinéa est également applicable aux transports entre des ports français et les îles artificielles, les installations, les ouvrages et leurs installations connexes mis en place en mer territoriale française et liés à leur maintenance courante, ainsi qu'aux mêmes transports entre de tels îles artificielles, installations, ouvrages ou installations connexes.
+
+Toutefois, l'autorité administrative peut autoriser un navire ne satisfaisant pas ces conditions à assurer un transport déterminé.
+
+Les transports par navire à destination ou en provenance des îles artificielles, des installations, des ouvrages ou de leurs installations connexes mis en place en mer territoriale française et liés à leur maintenance courante sont en provenance ou à destination des ports des Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen.
+
+Les règles applicables aux transports par navire à destination ou en provenance des îles artificielles, des installations, des ouvrages ou de leurs installations connexes mis en place dans la zone économique exclusive ou sur le plateau continental adjacent sont fixées à l'article 37 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française.
+
+Un décret précise les conditions d'application du présent article.
 
 ### Article 258
 
@@ -2222,42 +2230,6 @@ En termes d'émissions de polluants atmosphériques, l'utilisation de ces huiles
 ### Article 265 quater
 
 La vente d'huile végétale pure en vue de son utilisation comme carburant agricole, comme carburant pour les véhicules des flottes captives des collectivités territoriales et de leurs groupements dans les conditions mentionnées au 3 de l'article 265 ter ou pour l'avitaillement des navires de pêche professionnelle ainsi que cette utilisation sont autorisées à compter du 1er janvier 2007. Un décret précise, au vu du bilan de l'application du 2 de l'article 265 ter, les modalités de production, de commercialisation et d'utilisation de ce produit.
-
-### Article 265 octies A
-
-Conformément au II du B de l'article 7 de la loi n° 2021-953 du 19 juillet 2021, ces dispositions entrent en vigueur le 1er janvier 2023. Se reporter aux conditions d'application prévues à l'article 7 susvisé.
-
-### Article 265 octies B
-
-Le tarif de la taxe intérieure de consommation applicable au gazole dont les caractéristiques physiques et chimiques sont fixées par arrêté du ministre chargé du budget et qui est utilisé pour le transport ferroviaire de personnes ou de marchandises sur le réseau ferré national est fixé à 18,82 € par hectolitre.
-
-### Article 265 octies C
-
-I.-Les entreprises grandes consommatrices d'énergie, au sens du a du 1 de l'article 17 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité, bénéficient du tarif réduit de la taxe intérieure de consommation sur les produits énergétiques mentionné au II du présent article pour leurs consommations de gazole dont les caractéristiques physiques et chimiques sont fixées par arrêté du ministre chargé du budget et qui est utilisé pour le fonctionnement des moteurs de tout engin ou machine qui :
-
-1° Soit réalise des travaux statiques, à l'exclusion des consommations utilisées pour véhiculer l'engin ou la machine ;
-
-2° Soit est utilisé pour des travaux de terrassement.
-
-II.-Le tarif réduit prévu au I est fixé à 3,86 € par hectolitre de gazole utilisé pour les besoins des activités suivantes :
-
-1° Extraction des produits suivants :
-
-a) Roches destinées à la transformation en pierre ornementale et de construction ;
-
-b) Gypse et anhydrite ;
-
-c) Pierre calcaire destinée à la production de chaux calcique et dolomitique pour l'industrie ;
-
-d) Roches et minéraux suivants destinés à la production de minéraux pour l'industrie : andalousite, carbonates de calcium comprenant 95 % de calcite, sables et roches siliceux comprenant 95 % de silice, talc, micas, feldspaths, bauxite, argiles kaoliniques, diatomite, kaolin, phonolite, dolomie comprenant 85 % de dolomite et pouzzolanes ;
-
-2° Manutention portuaire dans l'enceinte des ports suivants :
-
-a) Les ports maritimes mentionnés à l'article L. 5311-1 du code des transports ;
-
-b) Les ports fluviaux composant le réseau transeuropéen de transport défini à l'article 2 du règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l'Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/ UE ;
-
-c) Les ports fluviaux, autres que ceux mentionnés au b du présent 2°, qui sont situés sur un itinéraire du réseau transeuropéen de transport mentionné au même b et dont tout ou partie de l'activité est dédiée au transport international de marchandises.
 
 ### Article 266 sexies
 
@@ -2868,15 +2840,15 @@ V.-Lorsque le redevable n'est pas établi dans un Etat membre de l'Union europé
 
 ### Article 266 quindecies
 
-I.-Les redevables de la taxe intérieure de consommation prévue à l'article 265 sont redevables d'une taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports.
+I.-Les redevables de l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles, des essences et des carburéacteurs sont redevables d'une taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports.
 
 Pour l'application du présent article :
 
-1° Les essences s'entendent du carburant identifié à l'indice 11 du tableau du 1° du 1 de l'article 265 et des carburants autorisés conformément au 1 de l'article 265 ter auxquels il est équivalent, au sens du premier alinéa du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 7 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité dans sa rédaction en vigueur au 1er janvier 2019, à l'exception de ceux mis à la consommation en exonération de taxe en application des c ou e du 1 de l'article 265 bis ;
+1° Les essences s'entendent des produits de la catégorie fiscale des essences au sens de l'article L. 312-22 du code des impositions sur les biens et services autres que l'essence d'aviation mentionnée à l'article L. 312-82 du même code ;
 
-2° Les gazoles s'entendent du gazole identifié par l'indice 22 du même tableau, du gazole non exonéré utilisé comme carburant et relevant du a du 1 de l'article 265 B ainsi que des carburants autorisés auxquels ils sont équivalents, au sens du 1°, à l'exception de ceux mis à la consommation en exonération de taxe en application des c ou e du 1 de l'article 265 bis.
+2° Les gazoles s'entendent des produits de la catégorie fiscale des gazoles au sens de l'article L. 312-22 du code des impositions sur les biens et services ;
 
-3° Les carburéacteurs s'entendent des carburants identifiés aux indices 13 bis et 17 bis du tableau du 1° du 1 de l'article 265 et des carburants autorisés auxquels ils sont équivalents, au sens du 1° du présent I, y compris lorsqu'ils sont exonérés de la taxe prévue à l'article 265 ;
+3° Les carburéacteurs s'entendent des produits de la catégorie fiscale des carburéacteurs au sens de l'article L. 312-22 du code des impositions sur les biens et services, y compris ceux mentionnés à l'article L. 312-58 du même code ;
 
 4° La directive ENR s'entend de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables, dans sa rédaction en vigueur au 1er janvier de l'année au cours de laquelle intervient l'exigibilité de la taxe ;
 
@@ -2892,7 +2864,7 @@ Pour l'application du présent article :
 
 Par dérogation aux 1° et 2° du présent I, l'éthanol diesel mentionné à l'article L. 312-80 du code des impositions sur les biens et services est pris en compte comme une essence.
 
-II.-Le fait générateur intervient et la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est exigible au moment où la taxe intérieure de consommation prévue à l'article 265 devient exigible pour les produits mentionnés au I, y compris lorsqu'ils sont exonérés de cette taxe
+II.-Le fait générateur intervient et la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est exigible au moment où l'accise sur les énergies perçue sur les produits mentionnés au I devient exigible en application des dispositions mentionnées à l'article L. 312-88 du code des impositions sur les biens et services.
 
 III.-La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est assise sur le volume total, respectivement, des essences , des gazoles et des carburéacteurs pour lesquels elle est devenue exigible au cours de l'année civile.
 
@@ -3105,7 +3077,7 @@ IX.-La taxe incitative relative à l'utilisation d'énergie renouvelable dans le
 
 Toutefois, en cas de cessation définitive d'activité taxable, elle est déclarée et, le cas échéant, payée dans les trente jours qui suivent la date de cessation d'activité. Pour la détermination de l'assiette, seuls sont pris en compte les produits au titre desquels la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est devenue exigible avant cette date.
 
-La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe intérieure de consommation prévue à l'article 265. Les réclamations sont présentées, instruites et jugée selon les règles applicables à cette même taxe.
+La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles, des essences et des carburéacteurs. Les réclamations sont présentées, instruites et jugée selon les règles applicables à cette même taxe.
 
 X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
 
