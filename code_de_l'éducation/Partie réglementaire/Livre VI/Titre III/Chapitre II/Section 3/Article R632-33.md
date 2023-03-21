@@ -10,7 +10,7 @@ II.-Lorsque l'étudiant de troisième cycle des études de médecine prend part 
 
 Cet étudiant peut demander à accomplir son stage en surnombre. Dans ce cas, la validation du stage est soumise aux dispositions de l'article R. 6153-20 du code de la santé publique.
 
-A titre alternatif, il peut, par dérogation aux dispositions de l'alinéa précédent, opter pour un stage en surnombre choisi indépendamment de son rang de classement après accord conjoint du coordonnateur local de la spécialité suivie et du service universitaire de médecine préventive et de promotion de la santé. Dans ce cas, la validation du stage est soumise aux dispositions de l'article R. 6153-20 du code de la santé publique.
+A titre alternatif, il peut, par dérogation aux dispositions de l'alinéa précédent, opter pour un stage en surnombre choisi indépendamment de son rang de classement après accord conjoint du coordonnateur local de la spécialité suivie et du service universitaire de santé étudiante. Dans ce cas, la validation du stage est soumise aux dispositions de l'article R. 6153-20 du code de la santé publique.
 
 Pour toute demande de stage en surnombre, cet étudiant consulte, par dérogation à l'article R. 6153-7 du code de la santé publique, le service de santé au travail de son centre hospitalier universitaire de rattachement. Ce service se rapproche du service de santé au travail de l'entité où l'étudiant accomplit son stage. L'étudiant transmet au directeur général de l'agence régionale de santé dont il relève les justificatifs nécessaires dont les avis médicaux et l'avis du médecin du service de santé au travail.
 

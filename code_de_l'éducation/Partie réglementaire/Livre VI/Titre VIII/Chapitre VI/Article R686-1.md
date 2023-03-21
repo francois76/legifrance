@@ -12,8 +12,12 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
   <td align="justify">Résultant du décret n° 2017-851 du 6 mai 2017</td>
  </tr>
  <tr>
+  <td align="justify">R. 612-36-2-10 et R. 612-36-2-12</td>
+  <td align="justify">Résultant du décret n° 2023-179 du 15 mars 2023</td>
+ </tr>
+ <tr>
   <td align="justify">R. 612-36-3</td>
-  <td align="justify">Résultant du décret n° 2021-629 du 19 mai 2021</td>
+  <td align="justify">Résultant du décret n° 2023-179 du 15 mars 2023</td>
  </tr>
  <tr>
   <td align="justify">R. 613-32</td>
@@ -132,8 +136,12 @@ R. 632-2-3 et R. 632-28-4</td>
   <td align="justify">Résultant du décret n° 2019-1331 du 9 décembre 2019</td>
  </tr>
  <tr>
-  <td align="justify">R. 632-32 et R. 632-33</td>
+  <td align="justify">R. 632-32</td>
   <td align="justify">Résultant du décret n° 2021-1497 du 17 novembre 2021</td>
+ </tr>
+ <tr>
+  <td align="justify">R. 632-33</td>
+  <td align="justify">Résultant du décret n° 2023-179 du 15 mars 2023</td>
  </tr>
  <tr>
   <td align="justify">R. 632-34 à R. 632-43</td>
