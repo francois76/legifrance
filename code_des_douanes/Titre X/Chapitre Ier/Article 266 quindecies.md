@@ -1,14 +1,14 @@
 ### Article 266 quindecies
 
-I.-Les redevables de la taxe intérieure de consommation prévue à l'article 265 sont redevables d'une taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports.
+I.-Les redevables de l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles, des essences et des carburéacteurs sont redevables d'une taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports.
 
 Pour l'application du présent article :
 
-1° Les essences s'entendent du carburant identifié à l'indice 11 du tableau du 1° du 1 de l'article 265 et des carburants autorisés conformément au 1 de l'article 265 ter auxquels il est équivalent, au sens du premier alinéa du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 7 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité dans sa rédaction en vigueur au 1er janvier 2019, à l'exception de ceux mis à la consommation en exonération de taxe en application des c ou e du 1 de l'article 265 bis ;
+1° Les essences s'entendent des produits de la catégorie fiscale des essences au sens de l'article L. 312-22 du code des impositions sur les biens et services autres que l'essence d'aviation mentionnée à l'article L. 312-82 du même code ;
 
-2° Les gazoles s'entendent du gazole identifié par l'indice 22 du même tableau, du gazole non exonéré utilisé comme carburant et relevant du a du 1 de l'article 265 B ainsi que des carburants autorisés auxquels ils sont équivalents, au sens du 1°, à l'exception de ceux mis à la consommation en exonération de taxe en application des c ou e du 1 de l'article 265 bis.
+2° Les gazoles s'entendent des produits de la catégorie fiscale des gazoles au sens de l'article L. 312-22 du code des impositions sur les biens et services ;
 
-3° Les carburéacteurs s'entendent des carburants identifiés aux indices 13 bis et 17 bis du tableau du 1° du 1 de l'article 265 et des carburants autorisés auxquels ils sont équivalents, au sens du 1° du présent I, y compris lorsqu'ils sont exonérés de la taxe prévue à l'article 265 ;
+3° Les carburéacteurs s'entendent des produits de la catégorie fiscale des carburéacteurs au sens de l'article L. 312-22 du code des impositions sur les biens et services, y compris ceux mentionnés à l'article L. 312-58 du même code ;
 
 4° La directive ENR s'entend de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables, dans sa rédaction en vigueur au 1er janvier de l'année au cours de laquelle intervient l'exigibilité de la taxe ;
 
@@ -24,7 +24,7 @@ Pour l'application du présent article :
 
 Par dérogation aux 1° et 2° du présent I, l'éthanol diesel mentionné à l'article L. 312-80 du code des impositions sur les biens et services est pris en compte comme une essence.
 
-II.-Le fait générateur intervient et la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est exigible au moment où la taxe intérieure de consommation prévue à l'article 265 devient exigible pour les produits mentionnés au I, y compris lorsqu'ils sont exonérés de cette taxe
+II.-Le fait générateur intervient et la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est exigible au moment où l'accise sur les énergies perçue sur les produits mentionnés au I devient exigible en application des dispositions mentionnées à l'article L. 312-88 du code des impositions sur les biens et services.
 
 III.-La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est assise sur le volume total, respectivement, des essences , des gazoles et des carburéacteurs pour lesquels elle est devenue exigible au cours de l'année civile.
 
@@ -237,7 +237,7 @@ IX.-La taxe incitative relative à l'utilisation d'énergie renouvelable dans le
 
 Toutefois, en cas de cessation définitive d'activité taxable, elle est déclarée et, le cas échéant, payée dans les trente jours qui suivent la date de cessation d'activité. Pour la détermination de l'assiette, seuls sont pris en compte les produits au titre desquels la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est devenue exigible avant cette date.
 
-La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe intérieure de consommation prévue à l'article 265. Les réclamations sont présentées, instruites et jugée selon les règles applicables à cette même taxe.
+La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles, des essences et des carburéacteurs. Les réclamations sont présentées, instruites et jugée selon les règles applicables à cette même taxe.
 
 X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
 
