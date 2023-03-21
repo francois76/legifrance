@@ -10,7 +10,9 @@ II.-Ces plans ont pour objet, en tant que de besoin :
 
 3° De définir les mesures de prévention, de protection et de sauvegarde qui doivent être prises, dans les zones mentionnées au 1° et au 2°, par les collectivités publiques dans le cadre de leurs compétences, ainsi que celles qui peuvent incomber aux particuliers ;
 
-4° De définir, dans les zones mentionnées au 1° et au 2°, les mesures relatives à l'aménagement, l'utilisation ou l'exploitation des constructions, des ouvrages, des espaces mis en culture ou plantés existants à la date de l'approbation du plan qui doivent être prises par les propriétaires, exploitants ou utilisateurs.
+4° De définir, dans les zones mentionnées au 1° et au 2°, les mesures relatives à l'aménagement, l'utilisation ou l'exploitation des constructions, des ouvrages, des espaces mis en culture ou plantés existants à la date de l'approbation du plan qui doivent être prises par les propriétaires, exploitants ou utilisateurs ;
+
+5° De définir, dans les zones mentionnées aux mêmes 1° et 2°, des exceptions aux interdictions ou aux prescriptions afin de ne pas s'opposer à l'implantation d'installations de production d'énergie solaire dès lors qu'il n'en résulte pas une aggravation des risques.
 
 III.-La réalisation des mesures prévues aux 3° et 4° du II peut être rendue obligatoire en fonction de la nature et de l'intensité du risque dans un délai de cinq ans, pouvant être réduit en cas d'urgence. A défaut de mise en conformité dans le délai prescrit, le préfet peut, après mise en demeure non suivie d'effet, ordonner la réalisation de ces mesures aux frais du propriétaire, de l'exploitant ou de l'utilisateur.
 

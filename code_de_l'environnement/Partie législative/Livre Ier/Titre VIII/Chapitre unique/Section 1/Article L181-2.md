@@ -30,7 +30,11 @@ I.-L'autorisation environnementale tient lieu, y compris pour l'application des 
 
 14° Dérogation motivée au respect des objectifs mentionnés aux 1° à 4° du IV et au VI de l'article L. 212-1 du présent code, prévue au VII du même article L. 212-1 ;
 
-15° Autorisation de porter atteinte aux allées et alignements d'arbres prévue à l'article L. 350-3.
+15° Autorisation de porter atteinte aux allées et alignements d'arbres prévue à l'article L. 350-3 ;
+
+17° Autorisation unique et agrément prévus respectivement aux articles 20 et 28 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française, lorsqu'ils sont nécessaires à l'établissement des ouvrages de raccordement aux réseaux publics d'électricité afférents ;
+
+18° Arrêté d'approbation de la convention de concession d'utilisation du domaine public maritime situé en dehors des limites administratives des ports, lorsqu'il est nécessaire à l'établissement d'installations de production d'énergie renouvelable en mer ou des ouvrages de raccordement aux réseaux publics d'électricité afférents ainsi qu'à l'établissement des ouvrages d'interconnexion avec les réseaux électriques des Etats limitrophes.
 
 II.-Par dérogation au I, l'autorisation environnementale ne peut tenir lieu que des actes mentionnés aux 1° et 7° dudit I lorsqu'elle est demandée pour les projets suivants :
 

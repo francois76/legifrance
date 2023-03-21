@@ -14,6 +14,8 @@ II. – Le plan climat-air-énergie territorial définit, sur le territoire de l
 
 2° Le programme d'actions à réaliser afin notamment d'améliorer l'efficacité énergétique, de développer de manière coordonnée des réseaux de distribution d'électricité, de gaz et de chaleur, d'augmenter la production d'énergie renouvelable, de valoriser le potentiel en énergie de récupération, y compris le potentiel de récupération de chaleur à partir des centres de données, de développer le stockage et d'optimiser la distribution d'énergie, de développer les territoires à énergie positive, de réduire l'empreinte environnementale du numérique, de favoriser la biodiversité pour adapter le territoire au changement climatique, de limiter les émissions de gaz à effet de serre et d'anticiper les impacts du changement climatique. Sont inclus des objectifs relatifs aux installations de production de biogaz.
 
+Ce programme d'actions peut fixer des objectifs relatifs aux installations agrivoltaïques définies à l'article L. 314-36 du code de l'énergie.
+
 Lorsque l'établissement public exerce les compétences mentionnées à l'article L. 2224-37 du code général des collectivités territoriales, ce programme d'actions comporte un volet spécifique au développement de la mobilité sobre et décarbonée.
 
 Ce programme d'actions comporte un volet spécifique à la maîtrise de la consommation énergétique de l'éclairage public et de ses nuisances lumineuses.
@@ -21,6 +23,8 @@ Ce programme d'actions comporte un volet spécifique à la maîtrise de la conso
 Lorsque l'établissement public ou l'un des établissements membres du pôle d'équilibre territorial et rural auquel l'obligation d'élaborer un plan climat-air-énergie territorial a été transférée exerce la compétence en matière de réseaux de chaleur ou de froid mentionnée à l'article L. 2224-38 dudit code, ce programme d'actions comprend le schéma directeur prévu au II du même article L. 2224-38.
 
 Ce programme d'actions tient compte des orientations générales concernant les réseaux d'énergie arrêtées dans le projet d'aménagement et de développement durables prévu à l'article L. 151-5 du code de l'urbanisme ;
+
+2° bis Une carte qui identifie les zones d'accélération définies en application de l'article L. 141-5-3 du code de l'énergie ;
 
 3° Pour la métropole de Lyon, les établissements publics de coopération intercommunale à fiscalité propre regroupant plus de 100 000 habitants et ceux dont le territoire est couvert en tout ou partie par un plan de protection de l'atmosphère défini à l'article L. 222-4 du présent code, un plan d'action en vue d'atteindre des objectifs territoriaux biennaux, à compter de 2022, de réduction des émissions de polluants atmosphériques au moins aussi exigeants que ceux prévus au niveau national en application de l'article L. 222-9 et de respecter les normes de qualité de l'air mentionnées à l'article L. 221-1 dans les délais les plus courts possibles, et au plus tard en 2025. Ce plan d'action, élaboré après consultation de l'organisme agréé en application de l'article L. 221-3, contribue à atteindre les objectifs du plan de protection de l'atmosphère prévu à l'article L. 222-4, lorsque ce dernier existe.
 

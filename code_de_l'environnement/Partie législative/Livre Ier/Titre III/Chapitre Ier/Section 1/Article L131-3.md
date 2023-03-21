@@ -16,7 +16,9 @@ II.-Cet établissement public exerce des actions, notamment d'orientation et d'a
 
 6° La lutte contre les nuisances sonores ;
 
-7° La lutte contre le réchauffement climatique et l'adaptation au changement climatique.
+7° La lutte contre le réchauffement climatique et l'adaptation au changement climatique ;
+
+8° Le suivi statistique des installations agrivoltaïques définies à l'article L. 314-36 du code de l'énergie.
 
 III.-L'agence coordonne ses actions avec celles menées par les agences de l'eau dans des domaines d'intérêt commun.
 

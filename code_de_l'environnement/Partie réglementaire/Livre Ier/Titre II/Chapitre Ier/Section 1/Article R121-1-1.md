@@ -4,8 +4,6 @@ Pour l'application du IV de l'article L. 121-8, constituent des plans ou program
 
 Schéma décennal de développement du réseau prévu par l'article L. 321-6 du code de l'énergie ;
 
-Programmation pluriannuelle de l'énergie prévue par l'article L. 141-1 du code de l'énergie ;
-
 Stratégie nationale de mobilisation de la biomasse prévue par l'article L. 211-8 du code de l'énergie ;
 
 Document stratégique de façade prévu par l'article L. 219-3 du code de l'environnement ;

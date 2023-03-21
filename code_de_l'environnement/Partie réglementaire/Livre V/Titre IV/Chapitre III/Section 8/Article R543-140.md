@@ -1,10 +1,6 @@
 ###### Article R543-140
 
-Tout déchet de pneumatique collecté doit être traité selon les modes suivants, en privilégiant, par ordre :
+Les professionnels détenteurs de déchets de pneumatiques et les collectivités territoriales ou leurs groupements, lorsque ces collectivités ou ces groupements ont procédé à la collecte séparée des déchets de pneumatiques, prennent les dispositions nécessaires permettant de préserver le potentiel de réutilisation, de recyclage et de valorisation de ces déchets en attendant leur collecte, notamment en les conservant à l'abri des intempéries. Ils s'abstiennent de les rendre délibérément impropres à la réutilisation, au recyclage ou la valorisation.
 
-1° La préparation en vue de la réutilisation ;
-
-2° Le recyclage ;
-
-3° Les autres modes de valorisation, y compris la valorisation énergétique.
+Un arrêté du ministre chargé de l'environnement peut préciser les exigences applicables en vue de la préservation du potentiel de réutilisation, de recyclage et de valorisation des déchets de pneumatiques par les professionnels.
 

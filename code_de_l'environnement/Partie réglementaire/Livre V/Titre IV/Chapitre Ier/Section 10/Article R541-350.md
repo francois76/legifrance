@@ -6,7 +6,7 @@ II.-Au sens de la présente sous-section, on entend par :
 
 1° “ Emballages ”, ceux qui remplissent les conditions précisées à l'article R. 543-43 ;
 
-2° “ Producteur ”, toute personne qui, à titre professionnel, emballe ou fait emballer ses produits en vue de leur mise sur le marché, tout importateur dont les produits sont commercialisés dans des emballages ou, si le producteur ou l'importateur ne peuvent être identifiés, la personne responsable de la première mise sur le marché de ces produits ;
+2° "Producteur'', celui qui remplit les conditions précisées à l'article R. 543-43.
 
 3° “ Emballage réemployé ou réutilisé ”, un emballage faisant l'objet d'au moins une deuxième utilisation pour un usage de même nature que celui pour lequel il a été conçu, et dont le réemploi ou la réutilisation est organisé par ou pour le compte du producteur. Un emballage faisant l'objet d'au moins une deuxième utilisation en étant rempli au point de vente dans le cadre de la vente en vrac, ou à domicile s'il s'agit d'un dispositif de recharge organisé par le producteur, est réputé être réemployé.
 

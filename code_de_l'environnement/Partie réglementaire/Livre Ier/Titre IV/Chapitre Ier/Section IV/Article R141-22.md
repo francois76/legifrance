@@ -6,5 +6,5 @@ Le préfet instruit la demande. Lorsqu'elle est présentée dans un cadre régio
 
 Les conditions de présentation de la demande et la composition du dossier sont fixées par arrêté du ministre chargé de l'environnement.
 
-La demande est réputée refusée si, dans un délai de quatre mois à compter de l'avis de réception ou de la décharge, l'association agréée, l'organisme ou la fondation reconnue d'utilité publique n'a pas reçu notification de la décision.
+La décision est notifiée au demandeur dans un délai de quatre mois à compter de la date à laquelle la demande est déclarée complète. Passé ce délai, elle est réputée favorable. En cas de refus, la décision est motivée.
 

@@ -1,4 +1,4 @@
 ###### Article R543-142
 
-Tout distributeur est tenu de reprendre gratuitement les déchets de pneumatiques dans la limite des tonnages et des types de pneumatiques qu'il a lui-même vendus l'année précédente.
+Tout éco-organisme assure la gestion des déchets de pneumatiques relevant de son agrément, y compris lorsqu'ils ont été mis en vente ou distribués antérieurement à la date d'entrée en vigueur de l'obligation de responsabilité élargie du producteur.
 

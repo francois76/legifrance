@@ -14,3 +14,7 @@ IV.-Pour les ouvrages existant à la date de promulgation de la loi n° 2006-177
 
 V.-Le présent article n'est applicable ni au Rhin ni aux parties internationales des cours d'eau partagés.
 
+VI.-De manière exceptionnelle et temporaire, en cas de menace grave sur la sécurité de l'approvisionnement électrique constatée par l'autorité gestionnaire du réseau, l'autorité administrative peut accorder des dérogations au débit à laisser à l'aval d'un ou de plusieurs ouvrages, fixé dans les actes des concessions ou chaînes de concessions ou dans les règlements d'eau. Ces dérogations font l'objet de suivis systématiques des impacts. Au moins 80 % des bénéfices nets tirés de la production supplémentaire générée du fait de la dérogation sont affectés par le concessionnaire à des opérations de compensation ou de réduction des impacts ou concourant à l'atteinte du bon état écologique du cours d'eau ou du bassin versant concernés.
+
+Le premier alinéa du présent VI est également applicable aux concessions installées sur le Rhin.
+

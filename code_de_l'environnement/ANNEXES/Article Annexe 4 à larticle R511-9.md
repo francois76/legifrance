@@ -963,26 +963,21 @@ Le volume susceptible d'être stocké étant :</td>
   <td><center>5</center></td>
  </tr>
  <tr>
-  <td rowspan="5">2731</td>
-  <td>Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visés par les rubriques 2171 et 2355, des dépôts associés aux activités des établissements de diagnostic, de recherche et d'enseignement, des dépôts de biodéchets au sens de l' article R. 541-8 du code de l'environnement et des dépôts annexés et directement liés aux installations dont les activités sont visées par les rubriques 2101 à 2150,2170,2210,2221,2230,2240,2350,2690,2740,2780,2781,3532,3630,3641,3642,3643 et 3660 :</td>
+  <td rowspan="3">2731</td>
+  <td>Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visés par les rubriques 2171 et 2355, des dépôts associés aux activités des établissements de diagnostic, de recherche et d'enseignement, des dépôts de biodéchets au sens de l'article L. 541-1-1 du code de l'environnement et des dépôts annexés et directement liés aux installations dont les activités sont visées par les rubriques 2101 à 2150, 2170, 2210, 2221, 2230, 2240, 2350, 2690, 2740, 2780, 2781, 783, 3532,3630, 3641, 3642, 3643 et 3660 :</td>
 <td/><td/>
  </tr>
  <tr>
-  <td>1. Dépôt ou transit de sous-produits animaux dans des conteneurs étanches et couverts sans manipulation des sous-produits animaux.</td>
-  <td><center></center></td>
-  <td><center></center></td>
+  <td>1. Dépôt ou transit de sous-produits animaux dans des conteneurs étanches et couverts sans manipulation des sous-produits animaux :
+
+La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg et inférieure à 30 tonnes</td>
+  <td><center>E</center></td>
+  <td><center>-</center></td>
  </tr>
  <tr>
-  <td>La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg et inférieure à 30 tonnes</td>
-  <td align="center">E</td>
-  <td align="center">-</td>
- </tr>
- <tr>
-  <td>2. Autres installations que celles visées au 1 :</td>
-  <td align="center"/><td align="center"/>
- </tr>
- <tr>
-<td>La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg</td>
+  <td>2. Autres installations que celles visées au 1 :
+
+La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg</td>
   <td align="center">A</td>
   <td align="center">3</td>
  </tr>
@@ -1165,24 +1160,39 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t</td>
   <td><center>3</center></td>
  </tr>
  <tr>
+  <td rowspan="3">2783</td>
+  <td>Installation de déconditionnement de biodéchets ayant fait l'objet d'un tri à la source en vue de leur valorisation organique :</td>
+<td/><td/>
+ </tr>
+ <tr>
+  <td>La quantité de biodéchets déconditionnés étant :
+
+1. Supérieure ou égale à 30 t/ j</td>
+  <td align="center">E</td>
+  <td align="center">-</td>
+ </tr>
+ <tr>
+  <td>2. Inférieure à 30 t/ j</td>
+  <td align="center">DC</td>
+  <td align="center">-</td>
+ </tr>
+ <tr>
   <td>2790</td>
   <td>Installation de traitement de déchets dangereux, à l'exclusion des installations visées aux rubriques 2711, 2720, 2760, 2770, 2792, 2793 et 2795.</td>
   <td align="center">A</td>
   <td align="center">2</td>
  </tr>
  <tr>
-  <td rowspan="4">2791</td>
-  <td>Installation de traitement de déchets non dangereux, à l'exclusion des installations visées aux rubriques 2515, 2711, 2713, 2714, 2716, 2720, 2760, 2771, 2780, 2781, 2782, 2794, 2795 et 2971.</td>
+  <td rowspan="3">2791</td>
+  <td>Installation de traitement de déchets non dangereux, à l'exclusion des installations classées au titre des rubriques 2515, 2711, 2713, 2714, 2716, 2720, 2760, 2771, 2780, 2781, 2782, 2783, 2794, 2795 ou 2971 :</td>
 <td/><td/>
  </tr>
  <tr>
-  <td>La quantité de déchets traités étant :</td>
-<td/><td/>
- </tr>
- <tr>
-  <td>1. Supérieure ou égale à 10 t/j</td>
-  <td><center>A</center></td>
-  <td><center>2</center></td>
+  <td>La quantité de déchets traités étant :
+
+1. Supérieure ou égale à 10 t/j</td>
+  <td align="center">A</td>
+  <td align="center">2</td>
  </tr>
  <tr>
   <td>2. Inférieure à 10 t/j</td>
@@ -1661,7 +1671,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.</td>
  </tr>
  <tr>
   <td rowspan="3">2971</td>
-  <td>Installation de production de chaleur ou d'électricité à partir de déchets non dangereux préparés sous forme de combustibles solides de récupération dans une installation prévue à cet effet, associés ou non à un autre combustible.</td>
+  <td>Installation de production d'énergie, telle que la production de chaleur, d'électricité ou de gaz, à partir de déchets non dangereux préparés sous forme de combustibles solides de récupération dans une installation prévue à cet effet, associés ou non à un autre combustible :</td>
   <td><center></center></td>
 <td/>
  </tr>

@@ -1,8 +1,8 @@
 ###### Article R543-54
 
-Pour l'application de la présente sous-section, on entend :
+On entend par "dispositif harmonisé de règles de tri'', la liste des types de déchets d'emballages ménagers faisant l'objet d'une collecte séparée.
 
-1° Par “ emballage ”, toute forme de contenants ou de supports destinés à contenir un produit, en faciliter le transport ou la présentation à la vente de produits consommés ou utilisés par les ménages ;
+Ce dispositif concerne tous les déchets d'emballages ménagers constitués majoritairement de verre, d'acier, d'aluminium, de papier, de carton, de plastique ou de bois, ainsi que leurs bouchons et leurs couvercles, vidés de leur contenu.
 
-2° Par “ producteur ”, celui qui a cette qualité en vertu de l'article R. 541-350 pour des emballages relevant du 1° du présent article.
+Toute personne morale participant à la collecte séparée des déchets d'emballages ménagers, notamment les collectivités territoriales, leurs groupements ou les syndicats mixtes ayant instauré la collecte séparée des déchets d'emballages ménagers et les éco-organismes agréés, met en œuvre le dispositif harmonisé de règles de tri, au plus tard le 31 décembre 2022.
 

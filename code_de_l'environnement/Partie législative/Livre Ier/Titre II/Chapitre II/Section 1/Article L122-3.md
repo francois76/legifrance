@@ -30,7 +30,7 @@ L'étude d'impact expose également, pour les infrastructures de transport, une 
 
 6° Les modalités de la publication par voie électronique de l'étude d'impact par le maître d'ouvrage, prévue au VI de l'article L. 122-1 ;
 
-7° Les modalités et le contenu de la décision d'examen au cas par cas prise en application du IV de l'article L. 122-1 ;
+7° Les modalités et le contenu de la décision d'examen au cas par cas prise en application du IV de l'article L. 122-1 et les modalités d'application du V bis du même article L. 122-1 ;
 
 8° Les modalités des procédures d'autorisation prévues au II de l'article L. 122-1-1 ;
 

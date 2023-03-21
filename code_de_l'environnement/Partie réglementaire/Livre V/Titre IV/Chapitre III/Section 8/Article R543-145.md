@@ -1,14 +1,6 @@
 ###### Article R543-145
 
-I. – La collecte des déchets de pneumatiques est subordonnée à la délivrance d'un agrément, qui est accordé, pour une durée maximale de cinq ans, par arrêté du préfet du département où est située l'installation du demandeur.
+Dans chacune des collectivités territoriales régies par l'article 73 de la Constitution, à Saint-Martin et à Saint-Pierre-et-Miquelon, l'éco-organisme peut donner mandat à une personne morale afin que celle-ci mette en œuvre ou facilite la mise en œuvre pour son compte de tout ou partie des mesures de prévention et de gestion des déchets de pneumatiques relevant de son agrément. Ce mandat n'a pas pour effet de transférer tout ou partie des obligations de responsabilité élargie incombant à l'éco-organisme à cette personne, ni de limiter les obligations de l'éco-organisme dans l'atteinte des objectifs qui lui sont fixés.
 
-Les personnes qui sollicitent un agrément doivent justifier de leurs capacités techniques et financières à mener à bonne fin les opérations requises pour la collecte des déchets de pneumatiques. Elles doivent également justifier de l'existence d'un contrat ou d'une promesse de contrat avec au moins un metteur sur le marché ayant mis en place un système individuel ou un des éco-organismes prévus à l'article L. 541-10-8 ou, lorsqu'elles agissent en tant que sous-traitants, d'un contrat ou d'une promesse de contrat avec un collecteur lui-même lié par contrat avec au moins un metteur sur le marché ou un éco-organisme.
-
-Elles s'engagent à respecter le cahier des charges défini à l'article R. 543-146.
-
-Un arrêté conjoint des ministres chargés respectivement de l'environnement et de l'industrie fixe les conditions minimales de la collecte, la procédure d'agrément, le contenu du dossier de demande d'agrément ainsi que le contenu du cahier des charges annexé à l'agrément.
-
-II. – En cas de manquement aux obligations prévues par le cahier des charges, l'agrément peut être retiré, après mise en demeure de respecter le cahier des charges de l'agrément et, après que l'intéressé a été invité à présenter ses observations.
-
-III. – Le bénéficiaire de l'agrément peut recourir aux services d'autres collecteurs, également agréés, liées à lui par contrat et agissant sous son contrôle et sa responsabilité.
+Le mandat passé entre l'éco-organisme et cette personne peut notamment prévoir que ces mesures de prévention et de gestion sont alors mises en œuvre par cette personne dans les conditions d'agrément de l'éco-organisme, notamment au travers des contrats types de l'éco-organisme qui sont prévus aux articles R. 541-102, R. 541-104 et R. 541-105. Le mandat peut également prévoir que cette personne peut pourvoir à ces mesures en passant des marchés, pour le compte de l'éco-organisme, dans les conditions prévues aux I et II de l'article L. 541-10-6.
 

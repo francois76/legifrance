@@ -26,5 +26,7 @@ II.-L'autorisation environnementale ne peut être accordée que si les mesures q
 
 11° La conservation et la mise en valeur des sites patrimoniaux remarquables et des abords des monuments historiques, lorsque l'autorisation environnementale tient lieu des autorisations prévues aux articles L. 621-32 et L. 632-1 du code du patrimoine ;
 
-12° Le respect des conditions permettant la délivrance de l'autorisation de porter atteinte aux allées et alignements d'arbres prévue à l'article L. 350-3 du présent code lorsque l'autorisation environnementale en tient lieu.
+12° Le respect des conditions permettant la délivrance de l'autorisation de porter atteinte aux allées et alignements d'arbres prévue à l'article L. 350-3 du présent code lorsque l'autorisation environnementale en tient lieu ;
+
+13° Le respect des intérêts mentionnés à l'article L. 2124-1 du code général de la propriété des personnes publiques, lorsque l'autorisation environnementale tient lieu d'approbation de la concession d'utilisation du domaine public maritime mentionnée à l'article L. 2124-3 du même code.
 

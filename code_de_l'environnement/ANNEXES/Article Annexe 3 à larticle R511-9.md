@@ -2,7 +2,7 @@
 
 <center>NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
-DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES</center><center> </center><center> </center><center></center>
+DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES</center><center></center>
 
 <table border="1" cellpadding="0" cellspacing="0"><tbody>
  <tr>
@@ -1040,18 +1040,18 @@ La puissance maximum de l'ensemble des machines pouvant concourir simultanément
  </tr>
  <tr>
   <td rowspan="3">2415</td>
-  <td>Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés</td>
+  <td>Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés, à l'exclusion des installations classées au titre de la rubrique 3700, la quantité maximale de produits susceptible d'être présente dans les installations étant :</td>
 <td/><td/>
  </tr>
  <tr>
-  <td>1. La quantité susceptible d'être présente dans l'installation étant supérieure à 1 000 l</td>
-  <td><center>A</center></td>
-  <td><center>3</center></td>
+  <td>1. Supérieure à 1 000 L</td>
+  <td><center>E</center></td>
+  <td><center>-</center></td>
  </tr>
  <tr>
-  <td>2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25 t/ an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à 1 000 l</td>
+  <td>2. Supérieure ou égale à 200 L, mais inférieure ou égale à 1 000 L</td>
   <td><center>DC</center></td>
-<td/>
+  <td align="center">-</td>
  </tr>
  <tr>
   <td rowspan="5">2420</td>
@@ -1232,7 +1232,7 @@ La capacité de production étant :</td>
 <td/>
  </tr>
  <tr>
-  <td colspan="4">(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement (2) Rayon d'affichage en kilomètres</td>
+  <td colspan="4">(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement(2) Rayon d'affichage en kilomètres</td>
  </tr>
 </tbody></table>
 

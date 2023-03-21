@@ -1,4 +1,4 @@
 ###### Article R543-65
 
-Les opérateurs d'installations qui effectuent des opérations de tri sur des déchets d'emballages ménagers sont tenus de communiquer à l'Agence de l'environnement et de la maîtrise de l'énergie les données statistiques relatives aux quantités entrantes et sortantes traitées chaque année par catégories.
+Lorsqu'il couvre les coûts liés à la reprise par un opérateur de gestion des déchets d'emballages de la restauration et d'emballages mixtes alimentaires des professionnels ayant une activité de restauration, l'éco-organisme établit un contrat type conformément à l'article R. 541-104.
 

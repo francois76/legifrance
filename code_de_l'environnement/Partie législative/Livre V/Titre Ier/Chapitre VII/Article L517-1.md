@@ -1,6 +1,6 @@
 ##### Article L517-1
 
-En ce qui concerne les installations appartenant aux services et organismes dépendant de l'Etat qui sont inscrites sur une liste établie par décret, les pouvoirs attribués au préfet par le chapitre unique du titre VIII du livre Ier et le présent titre sont exercés soit par le ministre chargé des installations classées, soit par le ministre chargé de la défense pour les installations qui relèvent de son département à l'exception de la délivrance des certificats de projet prévus à l'article L. 181-6.
+En ce qui concerne les installations appartenant aux services et organismes dépendant de l'Etat qui sont inscrites sur une liste établie par décret, les pouvoirs attribués au préfet par le chapitre unique du titre VIII du livre Ier et le présent titre sont exercés soit par le ministre chargé des installations classées, soit par le ministre chargé de la défense pour les installations qui relèvent de son département.
 
 Les dispositions du chapitre unique du titre VIII du livre Ier et du présent titre ne sont pas applicables aux installations mises en œuvre à titre temporaire, sur une période inférieure à six mois consécutifs sur un même site, à partir de matériels et d'équipements opérationnels des forces armées déployés pour des missions de la défense nationale. Toutefois, ces installations sont mises en œuvre en limitant les atteintes aux intérêts mentionnés à l'article L. 511-1.
 
