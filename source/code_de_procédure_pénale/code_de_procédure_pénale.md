@@ -21339,6 +21339,134 @@ La notation établie par le procureur général près la cour d'appel de Paris e
 
 Les dispositions des articles R. 15-33-18 et R. 15-33-20 à R. 15-33-23 sont applicables à l'exercice des missions de police judiciaire par les agents des services fiscaux habilités.
 
+##### Section 10 : Des officiers judiciaires de l'environnement
+
+###### Paragraphe 1 : Désignation des officiers judiciaires de l'environnement
+
+####### Article R15-33-29-18
+
+Les inspecteurs de l'environnement de catégories A et B mentionnés à l'article 28-3 sont dénommés officiers judiciaires de l'environnement.
+
+####### Article R15-33-29-19
+
+La commission mentionnée au I de l'article 28-3 comprend :
+
+1° Le procureur général près la Cour de cassation ou son délégué choisi par lui parmi les premiers avocats généraux ou les avocats généraux à la Cour de cassation, président ;
+
+2° Trois magistrats du ministère public dont deux au plus peuvent être des magistrats honoraires ;
+
+3° Le directeur général de l'aménagement, du logement et de la nature ou son représentant ;
+
+4° Le directeur général de la gendarmerie nationale ou son représentant ;
+
+5° Le directeur général de l'Office français de la biodiversité ou son représentant.
+
+Les membres de la commission mentionnés au 2° ont chacun un suppléant désigné dans les mêmes conditions que le titulaire.
+
+Le secrétariat de la commission est assuré par l'Office français de la biodiversité.
+
+####### Article R15-33-29-20
+
+Les membres de la commission mentionnés au 2° de l'article R. 15-33-29-18 et leurs suppléants ainsi que, sur la proposition des membres mentionnés aux 3° et 4° du même article, les représentants de ces derniers, sont nommés par arrêté conjoint du garde des sceaux, ministre de la justice et du ministre chargé de l'environnement.
+
+####### Article R15-33-29-21
+
+Pour pouvoir être désignés officier judiciaire de l'environnement, les inspecteurs de l'environnement doivent avoir satisfait aux épreuves d'un examen technique.
+
+Les modalités d'organisation de cet examen et le programme des épreuves sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice et du ministre chargé de l'environnement.
+
+Par dérogation aux dispositions du premier alinéa, un arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de l'environnement fixe la liste des agents qui, ayant exercé des fonctions d'officier de police judiciaire pendant au moins trois ans, sont dispensés de l'examen technique.
+
+####### Article R15-33-29-22
+
+Le jury de l'examen technique est constitué par la commission mentionnée à l'article R. 15-33-29-19. Les membres de la commission ou leurs suppléants appelés à composer le jury doivent siéger pendant toute la durée de l'examen.
+
+Le jury établit la liste des candidats ayant satisfait à l'examen technique.
+
+####### Article R15-33-29-23
+
+Les officiers judiciaires de l'environnement sont désignés parmi les personnes mentionnées aux premier et troisième alinéa de l'article R. 15-33-29-21, par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de l'environnement, sur proposition du directeur général de l'Office français de la biodiversité et après avis conforme de la commission mentionnée à l'article R. 15-33-29-19.
+
+###### Paragraphe 2 :  Habilitation des officiers judiciaires de l'environnement
+
+####### Article R15-33-29-24
+
+Pour chacun des officiers judiciaires de l'environnement, une demande d'habilitation est adressée, sur proposition du directeur général de l'Office français de la biodiversité, au procureur général près la cour d'appel dans le ressort de laquelle se situe le siège du service de rattachement de l'officier judiciaire de l'environnement.
+
+Les officiers judiciaires de l'environnement ne peuvent exercer effectivement les attributions attachées à cette qualité ni se prévaloir de cette dernière que s'ils sont affectés à un emploi comportant cet exercice et en vertu d'une décision du procureur général près la cour d'appel les y habilitant personnellement. Tout changement d'affectation entraîne la caducité de cette habilitation.
+
+####### Article R15-33-29-25
+
+Le procureur général près la cour d'appel dans le ressort de laquelle se situe le siège du service de rattachement de l'officier judiciaire de l'environnement accorde ou refuse l'habilitation par arrêté. Lorsqu'il envisage de refuser l'habilitation, il en informe l'intéressé en lui précisant qu'il peut, dans un délai de quinze jours, prendre connaissance de son dossier et être entendu, le cas échéant, avec l'assistance d'un conseil de son choix.
+
+####### Article R15-33-29-26
+
+Le procureur général près la cour d'appel dans le ressort de laquelle se situe le siège du service de rattachement de l'officier judiciaire de l'environnement prononce le retrait ou la suspension, pour une durée n'excédant pas deux ans, de l'habilitation, par arrêté pris soit d'office, soit sur proposition du directeur général de l'Office français de la biodiversité.
+
+Il entend préalablement l'officier judiciaire de l'environnement, qui peut prendre connaissance du dossier relatif aux faits qui lui sont reprochés et se faire assister d'un conseil de son choix.
+
+L'officier judiciaire de l'environnement dont l'habilitation a été suspendue recouvre de plein droit, à l'expiration de la suspension, la faculté de disposer des mêmes prérogatives et obligations que celles attribuées aux officiers de police judiciaire. Le procureur général près la cour d'appel dans le ressort de laquelle se situe le siège du service de rattachement de l'officier judiciaire de l'environnement peut, à tout moment, abréger la durée de la suspension.
+
+Après un retrait, l'habilitation ne peut être rétablie que dans les formes prévues pour son attribution initiale.
+
+###### Paragraphe 3 :  Notation des officiers judiciaires de l'environnement
+
+####### Article R15-33-29-27
+
+Il est tenu en permanence au parquet général près la cour d'appel dans le ressort de laquelle se situe le siège du service de rattachement de l'officier judiciaire de l'environnement un dossier individuel concernant l'activité de ce dernier.
+
+Ce dossier comprend notamment :
+
+1° Les demandes d'habilitation et les documents qui y sont joints ;
+
+2° La copie des décisions prononcées par l'autorité judiciaire en application des dispositions des articles 28-3,224 à 230, R. 15-33-29-25 et R. 15-33-29-26, notamment la copie des arrêtés d'habilitation ;
+
+3° La copie de tout document émanant d'un magistrat relatif à l'exercice des activités judiciaires de l'intéressé ;
+
+4° Les notations établies en application des dispositions ci-après.
+
+Le dossier est communiqué à la chambre de l'instruction lorsque celle-ci se trouve saisie dans les conditions fixées à l'article 225.
+
+####### Article R15-33-29-28
+
+Le procureur de la République près le tribunal judiciaire dans le ressort duquel se situe le siège du service de rattachement de l'officier judiciaire de l'environnement, après avoir recueilli, le cas échéant, les observations des juges d'instruction et des présidents des chambres correctionnelles, établit, tous les deux ans, une proposition de notation qu'il transmet au procureur général près la cour d'appel dans le ressort de laquelle se situe le siège du service de rattachement de l'officier judiciaire de l'environnement.
+
+Celui-ci établit la notation après avoir recueilli, le cas échéant, les observations des présidents de la chambre de l'instruction et des autres procureurs généraux concernés.
+
+####### Article R15-33-29-29
+
+Les propositions de notation et les notations prévues à l'article R. 15-33-29-28 sont établies sur un imprimé conforme au modèle fixé par le ministre de la justice.
+
+Elles comportent une appréciation générale circonstanciée, ainsi qu'une note chiffrée de 0 à 10 et une appréciation sur chacun des éléments suivants lorsqu'ils ont été observés :
+
+1° Relations professionnelles avec l'autorité judiciaire ;
+
+2° Qualité de la coordination de l'activité de police judiciaire du service ;
+
+3° Qualité des procédures et de la rédaction des rapports et des procès-verbaux ;
+
+4° Qualité des constatations et des investigations techniques ;
+
+5° Valeur des informations données au parquet ;
+
+6° Engagement professionnel ;
+
+7° Capacité à conduire les investigations ;
+
+8° Degré de confiance accordé.
+
+Lorsque l'un de ces éléments n'a pas été observé, la mention : activité judiciaire non observée est substituée à la notation chiffrée et à l'appréciation correspondantes.
+
+####### Article R15-33-29-30
+
+La notation établie par le procureur général près la cour d'appel dans le ressort de laquelle se situe le siège du service de rattachement de l'officier judiciaire de l'environnement est portée directement à la connaissance de ce dernier qui peut présenter des observations par écrit dans un délai de quinze jours, délai à l'issue duquel la notation définitive est transmise immédiatement au directeur de l'Office français de la biodiversité et au directeur général de l'aménagement, du logement et de la nature. Elle est prise en compte pour la notation administrative de l'officier judiciaire de l'environnement intéressé établie par l'Office français de la biodiversité.
+
+###### Paragraphe 4 :  Modalités d'exercice des missions de police judiciaire par les officiers judiciaires de l'environnement habilités
+
+####### Article R15-33-29-31
+
+Les dispositions des articles R. 15-33-18 et R. 15-33-21 à R. 15-33-24 sont applicables à l'exercice des missions de police judiciaire par les officiers judiciaires de l'environnement habilités.
+
 #### Chapitre II : Du ministère public
 
 ##### Section 1 : Des délégués et des médiateurs du procureur de la République
@@ -28802,11 +28930,11 @@ Pour leur application à Saint-Barthélemy et à Saint-Martin, les mots : “ pr
 
 ##### Article R251
 
-I. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, du I de l'article R. 49-8-3, des articles R. 49-8-5 à R. 49-19, R. 63, R. 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2023-25 du 23 janvier 2023, sous réserve des adaptations prévues au présent titre.
+I. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, du I de l'article R. 49-8-3, des articles R. 49-8-5 à R. 49-19, R. 63, R. 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2023-187 du 17 mars 2023, sous réserve des adaptations prévues au présent titre.
 
-II. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Polynésie française dans sa rédaction résultant du décret n° 2023-25 du 23 janvier 2023, sous réserve des adaptations prévues au présent titre.
+II. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Polynésie française dans sa rédaction résultant du décret n° 2023-187 du 17 mars 2023, sous réserve des adaptations prévues au présent titre.
 
-III. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R. 64, R. 93-2, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2023-25 du 23 janvier 2023, sous réserve des adaptations prévues au présent titre.
+III. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R. 64, R. 93-2, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2023-187 du 17 mars 2023, sous réserve des adaptations prévues au présent titre.
 
 ##### Article R252
 
