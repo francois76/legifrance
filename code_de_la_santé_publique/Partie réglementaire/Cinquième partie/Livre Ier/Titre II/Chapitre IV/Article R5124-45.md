@@ -36,7 +36,7 @@ Outre leurs activités de distribution aux officines, aux pharmacies mutualistes
 
 17° Aux centres et structures disposant d'équipes mobiles de soins mentionnés à l'article L. 6325-1 les médicaments nécessaires au traitement des personnes en situation de précarité ou d'exclusion, sur commande écrite du pharmacien attaché au centre ou à la structure de soins, ou du médecin désigné comme responsable de l'action sanitaire ;
 
-18° Aux services universitaires et interuniversitaires de médecine préventive et de promotion de la santé, les médicaments contraceptifs indiqués dans la contraception d'urgence qu'ils délivrent en application du III de l'article L. 5134-1, sur commande écrite du médecin responsable du service ;
+18° Aux services universitaires de santé étudiante, les médicaments contraceptifs indiqués dans la contraception d'urgence qu'ils délivrent en application du III de l'article L. 5134-1, sur commande écrite du médecin responsable du service ;
 
 19° Aux entreprises fabriquant ou contrôlant des dispositifs médicaux de diagnostic in vitro sur commande écrite du directeur de l'entreprise ou, à défaut, de toute personne dûment habilitée par écrit par le directeur de cette entreprise les médicaments nécessaires à leurs activités de fabrication et de contrôle ;
 
