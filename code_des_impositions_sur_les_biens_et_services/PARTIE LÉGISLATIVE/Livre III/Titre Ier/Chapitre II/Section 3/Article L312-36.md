@@ -19,19 +19,19 @@ Les tarifs normaux, exprimés en euros par mégawattheure, des catégories fisca
  </tr>
  <tr>
   <td align="center">Fiouls lourds</td>
-  <td align="center">12,555</td>
+  <td align="center">13,95 €/100 kg nets</td>
  </tr>
  <tr>
   <td align="center">Fiouls domestiques</td>
-  <td align="center">15,62</td>
+  <td align="center">15,62 €/ hL</td>
  </tr>
  <tr>
   <td align="center">Pétroles lampants</td>
-  <td align="center">15,686</td>
+  <td align="center">15,25 €/ hL</td>
  </tr>
  <tr>
   <td align="center">Gaz de pétrole liquéfiés combustible</td>
-  <td align="center">5,189</td>
+  <td align="center">6,63 €/100 kg nets</td>
  </tr>
  <tr>
   <td align="center">Gaz naturels combustible</td>
