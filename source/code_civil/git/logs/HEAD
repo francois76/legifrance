@@ -1,3 +1,5 @@
 0000000000000000000000000000000000000000 c9f1530ac96e7f890c58069f523f18455a36930c francoisgognet <fgognet@gmail.com> 1678137783 +0100	clone: from https://archeo-lex.fr/codes/code_civil
 c9f1530ac96e7f890c58069f523f18455a36930c 844c5d3007d40d159c99b83fc89e81968a3d22df Github action <github@users.noreply.github.com> 1679276510 +0000	pull --rebase (start): checkout 844c5d3007d40d159c99b83fc89e81968a3d22df
 844c5d3007d40d159c99b83fc89e81968a3d22df 844c5d3007d40d159c99b83fc89e81968a3d22df Github action <github@users.noreply.github.com> 1679276510 +0000	pull --rebase (finish): returning to refs/heads/texte
+844c5d3007d40d159c99b83fc89e81968a3d22df d6c81e0a575c31189b7f2def67b9646deb78a804 Github action <github@users.noreply.github.com> 1679534950 +0000	pull --rebase (start): checkout d6c81e0a575c31189b7f2def67b9646deb78a804
+d6c81e0a575c31189b7f2def67b9646deb78a804 d6c81e0a575c31189b7f2def67b9646deb78a804 Github action <github@users.noreply.github.com> 1679534950 +0000	pull --rebase (finish): returning to refs/heads/texte
