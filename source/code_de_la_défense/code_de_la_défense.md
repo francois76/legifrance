@@ -4091,7 +4091,7 @@ L'attribution à une opération de la qualification d'opération sensible intér
 
 6° A la dispense, prévue au c de l'article L. 421-5 du code de l'urbanisme, de l'ensemble des formalités définies aux articles L. 421-1 à L. 421-4 du même code ;
 
-7° Aux régimes dérogatoires en matière de concertation prévus à l'article L. 103-7 et au dernier alinéa de l'article L. 300-2 du code de l'urbanisme ;
+7° Aux régimes dérogatoires en matière de concertation prévus à l'article L. 103-7 et à l'avant-dernier de l'article L. 300-2 du code de l'urbanisme ;
 
 8° Au régime dérogatoire en matière de participation du public prévu à l'article L. 121-24 du code de l'environnement.
 
