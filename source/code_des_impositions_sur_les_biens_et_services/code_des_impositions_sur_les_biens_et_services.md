@@ -410,9 +410,9 @@ Un décret détermine les modalités selon lesquelles le régime cesse de produi
 
 Si le déclarant a exercé une activité au cours de l'année civile précédant l'exercice comptable, le montant des opérations qu'il a réalisées au cours de cette année est inférieur ou égal à l'un des seuils suivants, déterminé en fonction de son activité principale :
 
-1° 840 000 € pour les activités de vente de biens corporels, de restauration ou de mise à disposition de logement ;
+1° 818 000 € pour les activités de vente de biens corporels, de restauration ou de mise à disposition de logement ;
 
-2° 254 000 € pour les autres activités.
+2° 247 000 € pour les autres activités.
 
 Les valeurs mentionnées au 1° et 2° sont celles de l'année 2021. Elles sont indexées dans les conditions prévues par le chapitre II du titre III, avec une évolution tous les trois ans. Les valeurs révisées sont arrondies au millier d'euros.
 
@@ -422,9 +422,9 @@ Les références aux seuils prévus au présent article s'entendent de référen
 
 Au cours de l'exercice comptable, le montant des opérations réalisées par le déclarant depuis le début de l'année civile est inférieur ou égal à l'un des seuils suivants, déterminé en fonction de son activité principale :
 
-1° 925 000 € pour les activités de vente de biens corporels, de restauration ou de mise à disposition de logements ;
+1° 901 000 € pour les activités de vente de biens corporels, de restauration ou de mise à disposition de logements ;
 
-2° 287 000 € pour les autres activités.
+2° 279 000 € pour les autres activités.
 
 Les valeurs mentionnées au 1° et 2° sont celles de l'année 2021. Elles sont indexées dans les conditions prévues par le chapitre II du titre III, avec une évolution tous les trois ans. Les valeurs révisées sont arrondies au millier d'euros.
 
