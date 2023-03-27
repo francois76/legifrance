@@ -1954,7 +1954,7 @@ Pour l'accomplissement de sa mission de protection de l'enfance, le président d
 
 Les modalités de cette transmission d'informations sont définies par décret en Conseil d'Etat, après avis de la Commission nationale de l'informatique et des libertés.
 
-Le service de l'aide sociale à l'enfance répond dans les meilleurs délais aux demandes de coopération transmises par une autorité centrale ou une autre autorité compétente, fondées sur les articles 55 et 56 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n° 1347/2000 et les articles 31 à 37 de la convention concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants, signée à la Haye le 19 octobre 1996.
+Le service de l'aide sociale à l'enfance répond dans les meilleurs délais aux demandes de coopération transmises par une autorité centrale ou une autre autorité compétente, fondées sur les articles 55 et 56 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n° 1347/2000, les articles 79 à 82 du règlement (UE) 2019/1111 du Conseil du 25 juin 2019 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, ainsi qu'à l'enlèvement international d'enfants et les articles 31 à 37 de la convention concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants, signée à la Haye le 19 octobre 1996.
 
 ##### Article L221-4
 
@@ -7028,7 +7028,7 @@ Sont applicables aux assistants maternels et assistants familiaux employés par 
 
 11° A la durée du congé payé, prévues par la section 2 du chapitre Ier du titre IV du livre Ier de la troisième partie ;
 
-12° Au congé pour événements familiaux, prévues par la sous-section 1 de la section 1 du chapitre II du titre IV du livre Ier de la troisième partie ;
+12° Aux congés pour événements familiaux, de solidarité familiale et de proche aidant, prévus aux articles L. 3142-1 à L. 3142-27 ;
 
 13° A l'égalité de rémunération entre les femmes et les hommes, prévues par le titre II du livre II de la troisième partie ;
 
@@ -20325,11 +20325,11 @@ La Caisse nationale des allocations familiales et la Caisse centrale de mutualit
 
 ####### Article R262-102
 
-Est autorisée la création, par la Caisse nationale des allocations familiales, d'un traitement de données à caractère personnel, dénommé " @ RSA ", mis à la disposition des organismes instructeurs du revenu de solidarité active et des organismes instructeurs de la prime d'activité. La finalité de ce traitement est d'instruire les demandes et de faciliter l'orientation des demandeurs vers un accompagnement social et professionnel adapté, ainsi que de faciliter l'accès à la protection complémentaire en matière de santé des demandeurs mentionnés à la dernière phrase du deuxième alinéa de l'article L. 861-5 du code de la sécurité sociale. A cet effet, il assure la mise en commun de données à caractère personnel et d'informations déjà détenues par ces organismes ainsi que par Pôle emploi.
+Est autorisée la création, par la Caisse nationale des allocations familiales, d'un traitement de données à caractère personnel, dénommé " @ RSA ", mis à la disposition des organismes instructeurs du revenu de solidarité active et des organismes instructeurs de la prime d'activité. La finalité de ce traitement est d'instruire les demandes et de faciliter l'orientation des demandeurs vers un accompagnement social et professionnel adapté, ainsi que de faciliter l'accès à la protection complémentaire en matière de santé des demandeurs du revenu de solidarité active. A cet effet, il assure la mise en commun de données à caractère personnel et d'informations déjà détenues par ces organismes ainsi que par Pôle emploi.
 
 Le traitement est composé de deux modules :
 
-1° Un module d'instruction, dont l'objet est, d'une part, le recueil des données relatives à la demande de revenu de solidarité active et de prime d'activité permettant aux organismes mentionnés au premier alinéa de réaliser l'instruction de cette demande et, d'autre part, le recueil des données relatives à la demande de protection complémentaire en matière de santé et leur transmission aux caisses d'assurance maladie mentionnées au premier alinéa de l'article L. 861-5 du code de la sécurité sociale pour les demandeurs dont les ressources sont présumées ne pas excéder le montant forfaitaire prévu au 2° de l'article L. 262-2 du code de l'action sociale et des familles ;
+1° Un module d'instruction, dont l'objet est, d'une part, le recueil des données relatives à la demande de revenu de solidarité active et de prime d'activité permettant aux organismes mentionnés au premier alinéa de réaliser l'instruction de cette demande et, d'autre part, le recueil des données relatives à l'attribution, sauf en cas de refus du demandeur, de la protection complémentaire en matière de santé et leur transmission aux caisses d'assurance maladie mentionnées au premier alinéa de l'article L. 861-5 du code de la sécurité sociale pour les demandeurs dont les ressources sont présumées ne pas excéder le montant forfaitaire prévu à l'article L. 262-2 du code de l'action sociale et des familles ;
 
 2° Un module d'aide à l'orientation, dont l'objet est le recueil des informations permettant de préparer la décision d'orientation des bénéficiaires du revenu de solidarité active prise par le président du conseil départemental.
 
@@ -20341,11 +20341,13 @@ A. - Les données communes d'identification, qui comportent :
 
 1° Pour chacun des membres du foyer :
 
-a) Le nom de famille et, le cas échéant, le nom marital ou le nom d'usage, les prénoms, la date de naissance, la situation familiale ;
+a) Le nom de famille et, le cas échéant, le nom marital ou le nom d'usage, les prénoms, la date de naissance ;
 
 b) Le numéro d'inscription au répertoire national d'identification des personnes physiques ;
 
 c) La nationalité, sous l'une des formes suivantes : Français, ressortissant d'un Etat membre de l'Union européenne ou partie à l'Espace économique européen, ressortissant d'un Etat tiers ;
+
+d) Le lien de parenté avec le demandeur.
 
 2° Pour le demandeur :
 
@@ -20353,7 +20355,9 @@ a) L'adresse ;
 
 b) L'organisme dont il relève pour le service du revenu de solidarité active ;
 
-c) Le numéro d'allocataire délivré par l'organisme débiteur des prestations familiales.
+c) Le numéro d'allocataire délivré par l'organisme débiteur des prestations familiales ;
+
+d) La situation familiale et la date depuis laquelle elle est constituée.
 
 B. - Les données relatives à la demande de revenu de solidarité active et de prime d'activité, qui comportent :
 
@@ -20367,7 +20371,7 @@ c) La situation professionnelle ;
 
 2° Pour le demandeur, la situation au regard du logement.
 
-C. - Les données relatives à la demande de protection complémentaire en matière de santé, qui comportent, pour chacun des membres du foyer :
+C.-L'information selon laquelle le bénéfice de la protection complémentaire en matière de santé n'a pas été sollicité par le demandeur et dans le cas contraire :
 
 1° L'organisme d'assurance maladie dont il relève ;
 
@@ -20377,7 +20381,7 @@ II. - Les données à caractère personnel mentionnées aux A et B du I peuvent 
 
 ####### Article R262-104
 
-Les données à caractère personnel et informations relatives aux bénéficiaires enregistrées dans le cadre du module d'aide à l'orientation sont celles prévues par le référentiel commun d'aide à la décision mentionné à l'article R. 262-66. Ces données et informations relèvent des catégories suivantes :
+Les données à caractère personnel et informations relatives aux bénéficiaires enregistrées dans le cadre du module d'aide à l'orientation sont les données de contact ainsi que celles prévues par le référentiel commun d'aide à la décision mentionné à l'article R. 262-66. Ces données et informations relèvent des catégories suivantes :
 
 1° Situation antérieure à la demande de revenu de solidarité active et justifiant celle-ci ;
 
@@ -20411,7 +20415,7 @@ Ces rubriques, à l'exception de la dernière, sont renseignées par " OUI " ou 
 
 ####### Article R262-104-1
 
-L'agent instructeur informe le demandeur des conditions dans lesquelles les données sont recueillies dans chaque module mentionné à l'article R. 262-102 ainsi que, pour la demande de protection complémentaire en matière de santé, de la nécessité de choix, par chacun des membres du foyer, de l'organisme mentionné au a ou b de l'article L. 861-4 du code de la sécurité sociale. Il procède à la saisine des informations mentionnées aux articles R. 262-103 et R. 262-104 du présent code et en vérifie l'exactitude auprès du demandeur. Le ou les récépissé (s) correspondant à ces saisies sont remis ensuite au demandeur. Ils indiquent la date de dépôt, auprès du service instructeur du revenu de solidarité active ou de la prime d'activité, de la demande de revenu de solidarité active ou de prime d'activité et celle, le cas échéant, de la demande de protection complémentaire en matière de santé.
+(article manquant)
 
 ####### Article R262-105
 
@@ -20423,21 +20427,23 @@ Les conventions ne peuvent prévoir de recueillir, dans le cadre du traitement a
 
 I.-Le système de traitement de données " @ RSA " conserve les données pendant la durée nécessaire à leur validation, d'une part, à leur transmission au département et aux organismes chargés du service de la prestation ou aux caisses d'assurance maladie mentionnées au premier alinéa de l'article L. 861-5 du code de la sécurité sociale, d'autre part. Cette durée est de cinq mois au plus à compter de la saisie des données.
 
-II.-Le demandeur donne son accord pour le recueil et la transmission des données relatives à la demande de protection complémentaire en matière de santé effectuée en application du deuxième alinéa de l'article L. 861-5 du code de la sécurité sociale. Le récépissé prévu à l'article R. 262-104-1 du présent code comporte la mention de cet accord.
+II.-Le demandeur donne son accord pour le recueil et la transmission des données relatives à l'attribution de la protection complémentaire en matière de santé effectuée en application de l'article L. 861-5 du code de la sécurité sociale. Le récépissé prévu à l'article R. 262-104-1 du présent code comporte la mention de cet accord. Lorsque le demandeur s'est opposé à l'attribution de la protection complémentaire en matière de santé, cette information est transmise aux caisses d'assurance maladie aux fins de la mise en œuvre des dispositions de l'article L. 261-1 du code de la sécurité sociale pour les périodes postérieures à celle à laquelle il a été renoncé.
 
-III.-Les organismes chargés du service du revenu de solidarité active, ceux chargés du service de la prime d'activité et ceux chargés de l'instruction des demandes de protection complémentaire en matière de santé conservent les données et informations pendant une durée de trois ans à dater de leur collecte ou de leur transmission, sous réserve des dispositions du IV.
+III.-Les organismes chargés du service du revenu de solidarité active, ceux chargés du service de la prime d'activité et ceux chargés de l'attribution de la protection complémentaire en matière de santé conservent les données et informations pendant une durée de trois ans à dater de leur collecte ou de leur transmission, sous réserve des dispositions du IV.
 
 IV.-La Caisse nationale des allocations familiales et la Caisse centrale de la mutualité sociale agricole conservent, sans limitation de durée et après application d'un codage informatique en garantissant l'anonymat, les données et informations nécessaires à l'établissement des statistiques qui leur incombe.
 
 ####### Article R262-107
 
-I.-Peuvent directement accéder aux données à caractère personnel et aux informations mentionnées aux A et B du I de l'article R. 262-103 et à l'article R. 262-104, pour les nécessités liées aux seules finalités mentionnées à l'article R. 262-102 et au IV de l'article R. 262-106, les agents individuellement habilités par le directeur de la caisse d'allocations familiales territorialement compétente.
+I. - Peuvent directement accéder aux données à caractère personnel et aux informations mentionnées aux A et B du I de l'article R. 262-103 et à l'article R. 262-104, pour les nécessités liées aux seules finalités mentionnées à l'article R. 262-102 et au IV de l'article R. 262-106, les agents individuellement habilités par le directeur de la caisse d'allocations familiales territorialement compétente
 
 Lorsqu'un autre organisme instructeur des demandes de revenu de solidarité active ou de prime d'activité utilise le traitement " @ RSA ", une convention passée entre le directeur de la caisse d'allocations familiales et le responsable de cet organisme fixe les conditions de délivrance et de renouvellement de l'habilitation des agents dudit organisme, leur durée ainsi que les prérogatives dont dispose le directeur de la caisse pour en contrôler le respect effectif sur pièces et sur place.
 
 Les traces des consultations, mises à jour et échanges sont conservées pendant une durée d'un an à compter de la réalisation de ces opérations.
 
-II.-Sont destinataires des données à caractère personnel et des informations relatives à la demande de protection complémentaire en matière de santé mentionnées aux A et C du I de l'article R. 262-103, transmises dans les conditions mentionnées au II de l'article R. 262-106, et pour les nécessités liées aux seules finalités mentionnées à l'article R. 262-102, les agents individuellement habilités par le directeur de la caisse d'assurance maladie territorialement compétente.
+II. - Sont destinataires des données à caractère personnel et des informations relatives à la demande de protection complémentaire en matière de santé mentionnées aux A et C du I de l'article R. 262-103, transmises dans les conditions mentionnées au II de l'article R. 262-106, et pour les nécessités liées aux seules finalités mentionnées à l'article R. 262-102, les agents individuellement habilités par le directeur de la caisse d'assurance maladie territorialement compétente.
+
+III. - Sont également destinataires des données à caractère personnel mentionnées à l'article R. 262-104, aux seules fins de participer à la mise en œuvre du dispositif d'orientation et du droit à l'accompagnement prévus aux articles L. 262-27 à L. 262-29, les agents individuellement habilités par le directeur général de Pôle emploi.
 
 ####### Article R262-108
 
@@ -20647,51 +20653,133 @@ L'Institut national de la statistique et des études économiques communique aux
 
 #### Chapitre III : Actions d'insertion
 
-##### Section 1 : Organisation départementale du dispositif d'insertion
+##### Section 1 : Partage de données entre acteurs de l'insertion
 
-###### Article D263-1
+###### Article R263-1
 
-Le bénéfice du fonds d'appui aux politiques d'insertion est ouvert aux départements signataires de la convention d'appui aux politiques d'insertion définie à l'article L. 263-2-1 du présent code. Cette convention est signée par le président du conseil départemental et le préfet de département, pour une durée de trois ans renouvelables. Elle détermine les priorités en matière d'insertion sociale et professionnelle des personnes en difficulté au regard des besoins identifiés localement. La convention est conforme à un modèle défini par arrêté du ministre chargé de la lutte contre l'exclusion.
+I.-Il est créé un traitement de données à caractère personnel dénommé " Parcours insertion emploi " visant à faciliter le partage et l'échange d'informations et de données relatives aux personnes rencontrant des difficultés sociales et professionnelles particulières entre les organismes mentionnés aux 1° à 4° du I de l'article L. 263-4-1.
 
-Cette convention détermine :
+Le traitement est placé sous la responsabilité du ministre chargé de l'insertion et est mis en œuvre, pour le compte de ce dernier, par le groupement d'intérêt public dénommé " Plateforme de l'inclusion ". L'Etat, représenté par les ministres chargés de l'insertion et, le cas échéant, de l'emploi ou des affaires sociales, détient la majorité des voix au sein des organes délibérants de ce groupement d'intérêt public.
 
-1° Un socle commun d'objectifs sur lequel s'engage le département et comprenant les actions d'insertion mentionnées aux articles L. 262-27, L. 262-29, L. 262-30, L. 262-36, L. 262-39 et L. 263-2 du présent code ainsi qu'aux articles L. 5132-3-1 et L. 5134-19-4du code du travail, ainsi qu'au moins deux actions visant à renforcer les coopérations entre l'ensemble des acteurs mobilisés en faveur de l'insertion sociale et professionnelle sur le territoire départemental. Pour l'ensemble de ces actions, des engagements de progrès sont définis chaque année sur proposition du département et font l'objet d'un descriptif synthétique incluant des indicateurs de suivi ou d'évaluation définis de façon concertée ;
+II.-Au sens de la présente section, on entend par :
 
-2° Au moins quatre actions supplémentaires, correspondant à des projets nouveaux ou au renforcement d'actions existantes sur le territoire. Au moins deux de ces actions répondent à des priorités nationales en matière d'insertion et au moins deux à des priorités d'insertion territoriales définies à partir de l'analyse des besoins locaux réalisée dans le cadre du pacte territorial pour l'insertion mentionné à l'article L. 263-2. Le descriptif synthétique de ces actions supplémentaires, incluant des indicateurs de suivi ou d'évaluation définis de façon concertée, est annexé à la convention.
+1° " Personnes en insertion " les personnes rencontrant des difficultés sociales et professionnelles particulières engagées dans un parcours d'insertion et bénéficiant des services fournis par un ou plusieurs des organismes mentionnés aux 1° à 4° du I de l'article L. 263-4-1 ;
 
-En contrepartie, l'Etat s'engage dans la convention à verser les crédits du fonds d'appui aux politiques d'insertion selon les modalités définies au II de l'article 89 de la loi n° 2016-1917 du 29 décembre 2016 de finances pour 2017.
+2° " Professionnels utilisateurs " les personnes physiques, qui interagissent au moyen des services numériques mis en œuvre dans le cadre du traitement mentionné au I, désignées, en leur sein, par les acteurs de l'insertion habilités, dans les conditions prévues à l'article R. 263-4, à avoir accès à tout ou partie des données à caractère personnel incluses dans ce traitement.
 
-Des avenants à la convention initiale sont signés chaque année avant le 30 avril entre le préfet et le président du conseil départemental sur la base du rapport d'exécution de la convention, afin d'actualiser l'ensemble des actions mentionnées aux 1° et 2° du présent article.
+###### Article R263-2
 
-###### Article D263-2
+Le traitement mentionné au I de l'article R. 263-1 a pour finalités :
 
-Chaque département dont le président souhaite bénéficier des crédits du fonds d'appui mentionné à l'article L. 263-2-1 indique au plus tard le 1er mars par courrier ou par voie électronique au préfet de département son intention de signer une convention. Le préfet de département en informe sans délai le ministre chargé de la lutte contre l'exclusion et le ministre chargé des collectivités territoriales.
+1° La mise à disposition, au moyen de services numériques, des informations et des données nécessaires à l'identification des personnes en insertion, à l'évaluation de leur situation, au suivi de leur parcours d'insertion, ainsi que, le cas échéant, à la réalisation des actions d'accompagnement social, socio-professionnel ou professionnel ;
 
-Chaque année, au plus tard le 15 mars, l'Agence de services et de paiement informe le préfet de département et le président du conseil départemental ayant manifesté son intention de signer une convention, ou l'ayant déjà signée, des moyens financiers annuels prévisionnels alloués à ce titre.
+2° Le partage et l'enrichissement, entre les acteurs de l'insertion habilités dans les conditions prévues à l'article R. 263-4, des données strictement nécessaires à la mise en œuvre de leurs missions ;
 
-Pour ouvrir droit au versement des crédits du fonds d'appui aux politiques d'insertion, la convention mentionnée à l'article L. 263-2-1 du présent code est signée au plus tard le 30 avril. Toute convention signée après le 30 avril ne pourra donner lieu à versement au titre de l'année en cours.
+3° L'accès des personnes en insertion aux informations relatives à leur parcours, par le biais d'un compte personnel dans le ou les services numériques correspondants, afin de favoriser leur mobilisation et leur participation à la définition du parcours ;
 
-Chaque année, le préfet de département informe le ministre chargé de la lutte contre l'exclusion, le ministre chargé des collectivités territoriales et l'Agence de services et de paiement de la signature d'une convention d'appui aux politiques d'insertion dans son département ou de la poursuite de la convention en cours au plus tard quinze jours après la signature.
+4° L'amélioration de la qualité du service rendu aux personnes en insertion et aux professionnels utilisateurs, notamment en leur évitant de communiquer ou de saisir plusieurs fois les mêmes informations ;
 
-L'Agence de services et de paiement notifie aux préfets de département et aux présidents des conseils départementaux les moyens financiers définitifs alloués au département au titre de la convention au regard du nombre de départements signataires de la convention. Ces moyens financiers font l'objet d'un avenant à la convention.
+5° La communication d'informations aux personnes en insertion ou leur sollicitation à des fins d'enquête ou d'évaluation ;
 
-Chaque année, l'Agence de services et de paiement verse au département les crédits dus au titre du fonds d'appui aux politiques d'insertion au plus tard le 31 juillet de l'exercice au titre duquel ils sont dus.
+6° La production de statistiques, nationales et locales, à des fins d'évaluation des politiques publiques.
 
-###### Article D263-3
+###### Article R263-3
 
-Le rapport sur l'exécution de la convention d'appui aux politiques d'insertion mentionné au troisième alinéa de l'article L. 263-2-1 comprend également un bilan global de l'ensemble des actions d'insertion conduites par le département et ses partenaires sur le territoire.
+I.-Peuvent être enregistrées dans le traitement mentionné au I de l'article R. 263-1, dans la stricte mesure où elles sont nécessaires à la poursuite des finalités mentionnées à l'article R. 263-2, les catégories d'informations ou de données suivantes :
 
-Sur la base de ce rapport, le préfet de département et le président du conseil départemental assurent un suivi annuel de l'exécution de la convention d'appui aux politiques d'insertion, en associant les acteurs locaux de l'insertion et les représentants des personnes en situation d'exclusion.
+1° Les données relatives aux personnes en insertion :
 
-Les membres du pacte territorial pour l'insertion mentionné à l'article L. 263-2 sont destinataires du rapport.
+a) Les données d'identité, dont le numéro d'inscription au répertoire d'identification des personnes physiques, et de contact ;
 
-###### Article D263-4
+b) Les données concernant la nature des prestations, allocations et aides individuelles perçues ;
 
-Les crédits versés chaque année au département au titre de la convention peuvent faire l'objet d'un reversement l'année suivante selon les modalités prévues au présent article.
+c) Les informations sur la situation et les contraintes familiales ;
 
-A compter de la seconde année de la convention, lorsque le préfet de département constate que le montant des crédits départementaux inscrits au budget départemental pour l'exercice budgétaire en cours au titre des dépenses d'insertion mentionnées à l'article 6 du présent décret, diminués du montant de la dotation annuelle du fonds d'appui aux politiques d'insertion de l'exercice en cours, est inférieur à 95 % du montant des crédits de l'année précédente au titre de ces mêmes dépenses, diminués le cas échéant de la dotation du fonds d'appui aux politiques d'insertion de l'exercice précédent, il demande au président du conseil départemental le remboursement intégral de la dotation versée l'année précédente.
+d) Les informations sur la situation sociale et professionnelle ;
 
-Le reversement d'une fraction du montant de la dotation peut également être demandé par le préfet de département lorsqu'il constate des manquements substantiels aux engagements de progrès pris par le président du conseil départemental dans le cadre de la convention au titre de l'année écoulée. La fraction faisant l'objet du reversement est déterminée à raison de l'importance des manquements constatés à partir du rapport mentionné au troisième alinéa de l'article L. 263-2-1 du présent code, sans pouvoir excéder 20 %.
+e) Les informations, relatives aux difficultés susceptibles de faire obstacle à l'insertion sociale et professionnelle, permettant de réaliser le diagnostic des besoins d'accompagnement et ayant trait au logement, aux difficultés financières, à l'accès et à l'utilisation des outils numériques, à la mobilité, aux difficultés administratives, à la maîtrise de la langue française, à l'emploi ou à la formation ;
+
+2° Les informations sur les étapes et les décisions administratives intervenant tout au long du parcours d'insertion, ainsi que les actions prescrites, engagées ou à engager ;
+
+3° Les données d'identité et de contact des acteurs de l'insertion habilités dans les conditions prévues à l'article R. 263-4 et des professionnels utilisateurs ;
+
+4° Les données relatives à la traçabilité des accès et actions des personnes en insertion et des professionnels utilisateurs, y compris les traces techniques.
+
+II.-Peuvent être enregistrées et faire l'objet d'échanges limités, dans les conditions prévues à l'article R. 263-5, dans la stricte mesure où elles sont nécessaires à la poursuite des finalités mentionnées à l'article R. 263-2 les données suivantes :
+
+1° Le cas échéant, l'information relative à l'existence d'une reconnaissance de la qualité de travailleur handicapé lorsqu'elle est nécessaire à l'accompagnement de la personne concernée ;
+
+2° Les données concernant la santé strictement nécessaires à l'accompagnement de la personne concernée ;
+
+3° Les informations relatives à la dénomination et à l'objet des acteurs de l'insertion, habilités dans les conditions prévues à l'article R. 263-4, pouvant révéler l'orientation sexuelle, les opinions politiques, les convictions philosophiques et religieuses, ainsi qu'à des condamnations pénales, des infractions ou des mesures de sûreté connexes.
+
+###### Article R263-4
+
+I.-L'utilisation des services numériques mis en œuvre dans le cadre du traitement mentionné au I de l'article R. 263-1 est soumise à la délivrance d'une habilitation dans les conditions définies au présent article.
+
+II.-Dans chaque département, le groupement d'intérêt public mentionné au I de l'article R. 263-1 habilite un ou plusieurs organismes administrateurs de territoire parmi les organismes mentionnés aux articles L. 5312-1 et L. 5314-1 du code du travail ou ceux mentionnés à l'article L. 262-16 et à l'avant-dernier alinéa de l'article L. 115-2 du présent code. L'organisme administrateur de territoire ou, à défaut, le groupement d'intérêt public mentionné au I de l'article R. 263-1 habilite tout organisme en faisant la demande parmi ceux mentionnés aux 1° à 3° du I de l'article L. 263-4-1.
+
+III.-L'habilitation des organismes mentionnés au 4° du I de l'article L. 263-4-1 qui en font la demande est subordonnée à la vérification préalable par l'organisme administrateur de territoire ou, à défaut, le groupement d'intérêt public mentionné au I de l'article R. 263-1 qu'ils fournissent un service à caractère social, socio-professionnel ou professionnel, dans le cadre d'une délégation de service public, d'un marché public ou d'une convention, pour le compte d'un des organismes suivants :
+
+1° Les organismes mentionnés aux 1° à 3° de l'article L. 5311-2, aux 1° bis et 2° de l'article L. 5311-4 et à l'article L. 5314-1 du code du travail, ainsi que les collectivités territoriales et les établissements publics de coopération intercommunale ;
+
+2° Les caisses d'allocations familiales et les caisses de mutualité sociale agricole.
+
+IV.-Sans préjudice des dispositions de l'article R. 263-5, l'habilitation d'un acteur de l'insertion ne permet l'accès qu'aux informations et données du traitement relatives aux personnes en insertion dont il assure l'accompagnement ou le suivi.
+
+V.-Lorsque plusieurs organismes administrateurs de territoire ont été habilités par le groupement d'intérêt public mentionné au I de l'article R. 263-1 dans un même département, un organisme tiers ne peut adresser une même demande d'habilitation qu'à un seul organisme administrateur de territoire de son choix.
+
+Les organismes administrateurs de territoire tiennent un registre des organismes qu'ils habilitent au titre des II et III. Ces registres contiennent les pièces justificatives requises au titre du III.
+
+###### Article R263-5
+
+I.-Sont autorisées à consulter ou à enregistrer les données du traitement mentionné au I de l'article R. 263-1, à raison de leurs attributions respectives et dans la limite du besoin d'en connaître et pour ce qui relève des finalités mentionnées à l'article R. 263-2, les personnes désignées et habilitées à cette fin par les acteurs de l'insertion habilités dans les conditions prévues à l'article R. 263-4.
+
+II.-Les acteurs de l'insertion habilités dans les conditions prévues à l'article R. 263-4 peuvent importer dans leurs propres systèmes de traitement de données à caractère personnel, le cas échéant de manière automatisée, tout ou partie des données enregistrées dans le traitement mentionné au I de l'article R. 263-1, à l'exception des informations ou données mentionnées aux 1° à 3° du II de l'article R. 263-3, dans la stricte mesure où leur exploitation est nécessaire à la poursuite des finalités définies à l'article R. 263-2.
+
+Par dérogation à l'alinéa précédent, peuvent seuls importer dans leurs propres systèmes de traitement de données à caractère personnel des informations ou données mentionnées aux 1° à 3° du II de l'article R. 263-3, sous réserve de la présentation des garanties appropriées pour assurer la sécurité et la confidentialité des données, les acteurs de l'insertion suivants, habilités dans les conditions prévues à l'article R. 263-4 :
+
+1° Les organismes mentionnés aux 1° et 2° de l'article L. 5311-2, aux 1° bis et 2° de l'article L. 5311-4 et à l'article L. 5314-1 du code du travail ;
+
+2° L'organisme mentionné à l'avant-dernier alinéa de l'article L. 115-2 du présent code ;
+
+3° Les centres communaux et intercommunaux d'action sociale ;
+
+4° Les caisses d'allocations familiales et les caisses de mutualité sociale agricole.
+
+III.-Les données mentionnées au a du 1° et au 3° du I de l'article R. 263-3 peuvent être accessibles en l'absence d'accompagnement ou de suivi, dans la stricte mesure où leur exploitation est nécessaire à la poursuite de la finalité mentionnée au 4° de l'article R. 263-2, aux acteurs de l'insertion suivants, habilités dans les conditions prévues à l'article R. 263-4 :
+
+1° Les organismes mentionnés aux 1° et 2° de l'article L. 5311-2, aux 1° bis et 2° de l'article L. 5311-4 et à l'article L. 5314-1 du code du travail, ainsi que les collectivités territoriales et les établissements publics de coopération intercommunale ;
+
+2° Les centres communaux et intercommunaux d'action sociale ;
+
+3° Les caisses d'allocations familiales et les caisses de mutualité sociale agricole.
+
+IV.-Les services de l'Etat chargés de l'emploi et de l'égalité professionnelle mentionnés au 1° de l'article L. 5311-2 du code du travail ont accès à l'ensemble des données du traitement mentionné au I de l'article R. 263-1 du présent code, dans la stricte mesure où leur exploitation est nécessaire à la poursuite de la finalité mentionnée au 6° de l'article R. 263-2.
+
+###### Article R263-6
+
+La personne en insertion titulaire d'un compte personnel attaché à un service numérique mis en œuvre dans le cadre du traitement mentionné au I de l'article R. 263-1 dispose d'un accès direct aux données à caractère personnel la concernant mentionnées aux 1° et 2° du I de l'article R. 263-3 en vue de les renseigner et de les actualiser. Elle dispose également d'un accès direct, aux seuls fins de consultation, aux données mentionnées au 3° du même I concernant les professionnels utilisateurs et les acteurs de l'insertion habilités dans les conditions prévues à l'article R. 263-4, qui lui fournissent un accompagnement, et aux données mentionnées au 4° de ce I la concernant.
+
+###### Article R263-7
+
+L'information des personnes en insertion est assurée conformément aux articles 13 et 14 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016, sur le site internet du groupement d'intérêt public mentionné au I de l'article R. 263-1 ou, le cas échéant, directement auprès des acteurs de l'insertion habilités dans les conditions prévues à l'article R. 263-4.
+
+Les droits d'accès et de rectification des données, les droits à l'effacement et à la limitation et le droit d'opposition, prévus respectivement aux articles 15,16,17,18 et 21 du même règlement, s'exercent auprès du groupement d'intérêt public mentionné au I de l'article R. 263-1.
+
+###### Article R263-8
+
+Sous réserve des dispositions prévues à l'article R. 263-9, les informations et données à caractère personnel et les informations enregistrées dans le traitement mentionné au I de l'article R. 263-1 sont conservées en base active pendant une durée de deux ans à compter de la dernière communication individuelle avec la personne en insertion. Elles sont ensuite conservées deux ans en base d'archivage intermédiaire.
+
+En cas de contentieux, les délais mentionnés au premier alinéa sont prorogés, le cas échéant, jusqu'à l'intervention d'une décision juridictionnelle définitive.
+
+Les données sont détruites sans délai lorsqu'il est constaté que la personne n'est pas bénéficiaire des services fournis par un ou plusieurs des organismes mentionnés au I de l'article L. 263-4-1.
+
+###### Article R263-9
+
+Toute opération relative au traitement mentionné au I de l'article R. 263-1 au moyen de services numériques fait l'objet d'un enregistrement comprenant l'identification de l'utilisateur du service, la date, l'heure et la nature de l'opération. Ces informations sont conservées pendant une durée de six mois.
+
+En cas de contentieux, ce délai est prorogé, le cas échéant, jusqu'à l'intervention d'une décision juridictionnelle définitive.
 
 ##### Section 2 : Dispositif local d'insertion
 
