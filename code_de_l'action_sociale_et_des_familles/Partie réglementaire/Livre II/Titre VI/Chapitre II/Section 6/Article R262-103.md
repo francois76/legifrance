@@ -6,11 +6,13 @@ A. - Les données communes d'identification, qui comportent :
 
 1° Pour chacun des membres du foyer :
 
-a) Le nom de famille et, le cas échéant, le nom marital ou le nom d'usage, les prénoms, la date de naissance, la situation familiale ;
+a) Le nom de famille et, le cas échéant, le nom marital ou le nom d'usage, les prénoms, la date de naissance ;
 
 b) Le numéro d'inscription au répertoire national d'identification des personnes physiques ;
 
 c) La nationalité, sous l'une des formes suivantes : Français, ressortissant d'un Etat membre de l'Union européenne ou partie à l'Espace économique européen, ressortissant d'un Etat tiers ;
+
+d) Le lien de parenté avec le demandeur.
 
 2° Pour le demandeur :
 
@@ -18,7 +20,9 @@ a) L'adresse ;
 
 b) L'organisme dont il relève pour le service du revenu de solidarité active ;
 
-c) Le numéro d'allocataire délivré par l'organisme débiteur des prestations familiales.
+c) Le numéro d'allocataire délivré par l'organisme débiteur des prestations familiales ;
+
+d) La situation familiale et la date depuis laquelle elle est constituée.
 
 B. - Les données relatives à la demande de revenu de solidarité active et de prime d'activité, qui comportent :
 
@@ -32,7 +36,7 @@ c) La situation professionnelle ;
 
 2° Pour le demandeur, la situation au regard du logement.
 
-C. - Les données relatives à la demande de protection complémentaire en matière de santé, qui comportent, pour chacun des membres du foyer :
+C.-L'information selon laquelle le bénéfice de la protection complémentaire en matière de santé n'a pas été sollicité par le demandeur et dans le cas contraire :
 
 1° L'organisme d'assurance maladie dont il relève ;
 

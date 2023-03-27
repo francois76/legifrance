@@ -1,6 +1,6 @@
 ###### Article R262-104
 
-Les données à caractère personnel et informations relatives aux bénéficiaires enregistrées dans le cadre du module d'aide à l'orientation sont celles prévues par le référentiel commun d'aide à la décision mentionné à l'article R. 262-66. Ces données et informations relèvent des catégories suivantes :
+Les données à caractère personnel et informations relatives aux bénéficiaires enregistrées dans le cadre du module d'aide à l'orientation sont les données de contact ainsi que celles prévues par le référentiel commun d'aide à la décision mentionné à l'article R. 262-66. Ces données et informations relèvent des catégories suivantes :
 
 1° Situation antérieure à la demande de revenu de solidarité active et justifiant celle-ci ;
 

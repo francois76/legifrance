@@ -24,7 +24,7 @@ Sont applicables aux assistants maternels et assistants familiaux employés par 
 
 11° A la durée du congé payé, prévues par la section 2 du chapitre Ier du titre IV du livre Ier de la troisième partie ;
 
-12° Au congé pour événements familiaux, prévues par la sous-section 1 de la section 1 du chapitre II du titre IV du livre Ier de la troisième partie ;
+12° Aux congés pour événements familiaux, de solidarité familiale et de proche aidant, prévus aux articles L. 3142-1 à L. 3142-27 ;
 
 13° A l'égalité de rémunération entre les femmes et les hommes, prévues par le titre II du livre II de la troisième partie ;
 
