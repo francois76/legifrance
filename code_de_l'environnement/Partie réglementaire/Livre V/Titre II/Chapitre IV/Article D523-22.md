@@ -5,7 +5,8 @@ Sont désignés, en application de l'article L. 523-3, comme organismes à la di
 - l'Institut national de veille sanitaire ;
 - l'Institut national de recherche et de sécurité ;
 - l'Institut national de l'environnement industriel et des risques ;
-- les organismes chargés de la toxicovigilance mentionnés à l'article L. 1341-1 du code de la santé publique.
+- les organismes chargés de la toxicovigilance mentionnés à l'article L. 1341-1 du code de la santé publique ;
+- le Haut Conseil de la santé publique.
 
 Cette mise à disposition est effectuée, à la demande des organismes mentionnés plus haut, à des fins d'évaluation des risques et dans la limite des informations correspondant à leur domaine d'expertise.
 
