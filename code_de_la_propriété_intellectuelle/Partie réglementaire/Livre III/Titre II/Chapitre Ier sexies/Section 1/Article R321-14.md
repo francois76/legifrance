@@ -1,8 +1,8 @@
 ###### Article R321-14
 
-I.-Les rapports prévus à l'article L. 326-1 sont publiés sur le site internet des organismes de gestion collective concernés et sont maintenus sur ce site, à la disposition du public, pendant au moins cinq ans.
+I. – Les rapports prévus à l'article L. 326-1 sont publiés sur le site internet des organismes de gestion collective concernés et sont maintenus sur ce site, à la disposition du public, pendant au moins cinq ans.
 
-II.-Le rapport de transparence annuel comprend les informations suivantes :
+II. – Le rapport de transparence annuel comprend les informations suivantes :
 
 1° Les états financiers comprenant un bilan, un compte de résultat, et une annexe, selon des normes fixées par l'Autorité des normes comptables ;
 
@@ -60,11 +60,11 @@ c) Le montant des frais de gestion et autres déductions effectuées sur les som
 
 d) Le montant des sommes réparties directement aux titulaires de droits provenant d'autres organismes, avec une ventilation par catégorie de droits et par organisme.
 
-III.-Le rapport de transparence annuel comporte également un rapport qui rend compte de l'utilisation des sommes déduites aux fins de la fourniture de services sociaux, culturels ou éducatifs et qui contient les informations suivantes :
+III. – Le rapport de transparence annuel comporte également un rapport qui rend compte de l'utilisation des sommes déduites aux fins de la fourniture de services sociaux, culturels ou éducatifs et qui contient les informations suivantes :
 
 1° Le montant des sommes déduites aux fins de services sociaux, culturels et éducatifs au cours de l'exercice, avec une ventilation par type de finalité, et pour chaque type de finalité avec une ventilation par catégorie de droits gérés et par type d'utilisation ;
 
 2° Une explication de l'utilisation de ces sommes, avec une ventilation par type de finalité, y compris le montant des frais découlant de la gestion des sommes déduites en vue de financer des services sociaux, culturels et éducatifs et des sommes distinctes utilisées aux fins de services sociaux, culturels et éducatifs.
 
-IV.-Le commissaire aux comptes de l'organisme s'assure de la sincérité et de la concordance des informations contenues dans le rapport de transparence annuel, comprenant notamment les états financiers et les informations financières prévus aux 1°, 7° à 10° du II et au III, avec les documents comptables de l'organisme. Le rapport spécial qu'il élabore à cette fin ainsi que ses réserves éventuelles doivent être intégralement reproduits dans le rapport de transparence annuel.
+IV. – Le commissaire aux comptes de l'organisme s'assure de la sincérité et de la concordance des informations contenues dans le rapport de transparence annuel, comprenant notamment les états financiers et les informations financières prévus aux 1°, 7° à 10° du II et au III, avec les documents comptables de l'organisme. Le rapport spécial qu'il élabore à cette fin ainsi que ses réserves éventuelles doivent être intégralement reproduits dans le rapport de transparence annuel.
 

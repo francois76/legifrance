@@ -1,6 +1,6 @@
 ###### Article R321-16
 
-I.-Les informations relatives à la gestion des droits qu'un organisme de gestion collective ou indépendant est tenu de mettre à la disposition de chaque titulaire de droits en application du I de l'article L. 326-3, comprennent les éléments suivants :
+I. – Les informations relatives à la gestion des droits qu'un organisme de gestion collective ou indépendant est tenu de mettre à la disposition de chaque titulaire de droits en application du I de l'article L. 326-3, comprennent les éléments suivants :
 
 1° Les coordonnées que le titulaire de droits l'a autorisé à utiliser afin de l'identifier et de le localiser ;
 
@@ -12,7 +12,7 @@ I.-Les informations relatives à la gestion des droits qu'un organisme de gestio
 
 5° Le montant des éventuels revenus provenant de l'exploitation des droits qui ont été répartis au titulaire de droits mais qui lui restent dus, quelle que soit la période au cours de laquelle ils ont été perçus par l'organisme.
 
-II.-Les informations relatives à la gestion des droits mentionnées au III de l'article L. 326-3 que l'organisme est tenu de mettre à la disposition de l'autre organisme de gestion avec lequel il est lié par un accord de représentation, comprennent les éléments suivants :
+II. – Les informations relatives à la gestion des droits mentionnées au III de l'article L. 326-3 que l'organisme est tenu de mettre à la disposition de l'autre organisme de gestion avec lequel il est lié par un accord de représentation, comprennent les éléments suivants :
 
 1° Le montant des revenus provenant de l'exploitation des droits qu'il a respectivement répartis et versés au titre de l'accord de représentation, en précisant leur ventilation par catégorie de droits gérés et par type d'utilisation ;
 
