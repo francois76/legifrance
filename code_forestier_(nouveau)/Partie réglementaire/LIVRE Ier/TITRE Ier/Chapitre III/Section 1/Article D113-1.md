@@ -1,6 +1,6 @@
 ###### Article D113-1
 
-Le Conseil supérieur de la forêt et du bois comprend, outre le ministre chargé des forêts, ou son représentant, qui le préside :
+Le Conseil supérieur de la forêt et du bois comprend, outre le ministre chargé des forêts, ou son représentant, qui en assure la présidence, et les ministres chargés de l'environnement et de l'industrie, ou leurs représentants, qui en assurent la vice-présidence :
 
 A.-Des représentants de l'Etat :
 
@@ -30,89 +30,123 @@ B.-Un collège d'élus comprenant :
 
 12° Deux députés et deux sénateurs ;
 
-13° Deux représentants des conseils régionaux et deux représentants des conseils départementaux désignés respectivement par l'Association des régions de France et l'Assemblée des départements de France ;
+13° Trois représentants des conseils régionaux, dont un représentant des conseils régionaux de Guadeloupe ou de La Réunion ou des assemblées de Martinique ou de Guyane ou du conseil départemental de Mayotte désignés par l'association Régions de France ;
 
-14° Deux représentants des communes dont un désigné par l'Association des maires de France et un désigné par la Fédération nationale des communes forestières de France ;
+14° Trois représentants des conseils départementaux, dont un des conseils départementaux de Guadeloupe ou de La Réunion ou de Mayotte ou des assemblées de Martinique ou de Guyane désignés par l'Assemblée des départements de France ;
 
-15° Le président de la Fédération des parcs naturels régionaux ;
+15° Deux représentants des communes dont un désigné par l'Association des maires de France et un désigné par la Fédération nationale des communes forestières de France ;
+
+16° Le président de la Fédération des parcs naturels régionaux ;
 
 C.-Un collège de représentants d'établissements publics et d'institutions comprenant :
 
-16° Le président du conseil d'administration du Centre national de la propriété forestière ;
+17° Le président du conseil d'administration du Centre national de la propriété forestière ;
 
-17° Le président du conseil d'administration de l'Office national des forêts ;
+18° Le président du conseil d'administration de l'Office national des forêts ;
 
-18° Le président du conseil d'administration de l'Office français de la biodiversité ;
+19° Le président du conseil d'administration de l'Office français de la biodiversité ;
 
-19° Le président du conseil d'administration de l'Institut national de l'information géographique et forestière ;
+20° Le président du conseil d'administration de l'Institut national de l'information géographique et forestière ;
 
-20° Le président du conseil d'administration de l'Institut technologique forêt, cellulose, bois-construction et ameublement ;
+21° Le président du conseil d'administration de l'Institut technologique forêt, cellulose, bois-construction et ameublement ;
 
-21° Le président du conseil d'administration du Centre technique du papier ;
+22° Le président du conseil d'administration du Centre technique du papier ;
 
-22° Le président du conseil d'administration de l'Agence de l'environnement et de la maîtrise de l'énergie ;
+23° Le président du conseil d'administration de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
-23° Le président de l'Institut national de recherche pour l'agriculture, l'alimentation et l'environnement ;
+24° Le président de l'Institut national de recherche pour l'agriculture, l'alimentation et l'environnement ;
 
-24° Le président de l'interprofession nationale de la filière forêt bois France Bois Forêt ;
+25° Le président de l'interprofession nationale de la filière forêt bois France Bois Forêt ;
 
-25° Le directeur général de l'Agence nationale de la cohésion des territoires ;
+26° Le directeur général de l'Agence nationale de la cohésion des territoires ;
 
-26° Le président de Chambres d'agriculture France ;
+27° Le président de Chambres d'agriculture France ;
 
-27° En application du troisième alinéa de l'article L. 113-1, un représentant du Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, lorsque les questions abordées ont une incidence sur les productions agricoles ;
+28° Le président du conseil de l'Ecole nationale supérieure des technologies et industries du bois ;
+
+29° Le président du conseil d'administration de l'Ecole supérieure du bois ;
+
+30° Le président du conseil d'administration de l'Institut des sciences et industries du vivant AgroParistech ;
+
+31° Le directeur général de Bpifrance ;
+
+32° Le président du Haut Conseil pour le climat ;
+
+33° Le président de l'Académie d'agriculture de France ;
+
+34° En application du troisième alinéa de l'article L. 113-1, un représentant du Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, lorsque les questions abordées ont une incidence sur les productions agricoles ;
 
 D.-Un collège de représentants de l'amont de la filière forêt bois comprenant :
 
-28° Quatre représentants des propriétaires forestiers particuliers ;
+35° Quatre représentants des propriétaires forestiers particuliers ;
 
-29° Le président de l'Association des sociétés et groupements fonciers et forestiers ;
+36° Le président de l'Association des sociétés et groupements fonciers et forestiers ;
 
-30° Le président de la Fédération Les coopératives forestières ;
+37° Le président de la Fédération Les coopératives forestières ;
 
-31° Le président d'Experts Forestiers de France ;
+38° Le président d'Experts Forestiers de France ;
 
-32° Le président de l'Association nationale des techniciens et gestionnaires forestiers indépendants ;
+39° Le président de l'Association nationale des techniciens et gestionnaires forestiers indépendants ;
 
-33° Un représentant des producteurs de plants forestiers ;
+40° Un représentant des producteurs de plants forestiers ;
 
-34° Le président de la Fédération nationale des entrepreneurs du territoire ;
+41° Le président de la Fédération nationale des entrepreneurs du territoire ;
 
-35° Le président de l'Union nationale des entreprises du paysage ;
+42° Le président de l'Union nationale des entreprises du paysage ;
 
-36° Un représentant des exploitants forestiers ;
+43° Un représentant des exploitants forestiers ;
 
 E.-Un collège de représentants de l'aval de la filière forêt bois comprenant :
 
-37° Un représentant des scieurs ;
+44° Un représentant des scieurs ;
 
-38° Trois représentants des industries du bois et de l'ameublement ;
+45° Cinq représentants des industries du bois et de l'ameublement ;
 
-39° Un représentant des producteurs de pâtes pour papiers et textiles artificiels ;
+46° Un représentant des producteurs de pâtes pour papiers et textiles artificiels ;
 
-40° Le président de France Bois Industrie Entreprises ;
+47° Le président de France Bois Industrie Entreprises ;
 
-41° Un représentant du commerce du bois ;
+48° Un représentant du commerce du bois ;
 
-42° Le président du Conseil national de l'ordre des architectes ;
+49° Le président du Conseil national de l'ordre des architectes ;
 
-43° Un représentant des professionnels de la construction ;
+50° Deux représentant des professionnels de la construction ;
 
-44° Le président du Syndicat des énergies renouvelables ;
+51° Le président du Syndicat des énergies renouvelables ;
+
+52° Le président-directeur général de la Société forestière de la Caisse des dépôts et consignations ;
+
+53° Le président du Comité interprofessionnel du bois-énergie ;
+
+54° Le président du réseau d'interprofessions régionales de la filière forêt-bois FIBOIS France ;
+
+55° Le président de la Fédération des magasins de bricolage et de l'aménagement de la maison ;
 
 F.-Un collège des représentants des autres parties intéressées comprenant :
 
-45° Trois représentants des salariés de la forêt et des professions du bois ;
+56° Trois représentants des salariés de la forêt et des professions du bois ;
 
-46° Deux représentants des associations d'usagers de la forêt ;
+57° Deux représentants des associations d'usagers de la forêt ;
 
-47° Quatre représentants des associations de protection de l'environnement agréées ;
+58° Six représentants des associations de protection de l'environnement agréées ;
 
-48° Le président de la Fédération nationale des chasseurs ;
+59° Le président de la Fédération nationale des chasseurs ;
 
-49° Le président de l'Assemblée générale du groupement d'intérêt public " ECOFOR ".
+60° Le président de l'Assemblée générale du groupement d'intérêt public " ECOFOR " ;
 
-Les membres mentionnés aux 28°, 33°, 36° à 39°, 41°, 43°, 45° et 46° sont nommés par le ministre chargé des forêts sur proposition des organisations représentatives du secteur concerné.
+61° Le président de la Société botanique de France ;
 
-Les membres mentionnés au 47° sont nommés par le ministre chargé des forêts sur proposition du ministre chargé de l'environnement.
+62° Le président de l'Institute for Climate Economics ;
+
+63° Le président de l'Institut du développement durable et des relations internationales ;
+
+64° Le président du Centre interprofessionnel technique d'études de la pollution atmosphérique ;
+
+65° Le président du conseil d'administration du Programme for the Endorsement of Forest Certification (PEFC) France ;
+
+66° Le président du conseil d'administration de Forest Stewardship Council (FSC) France ;
+
+Les membres mentionnés aux 35°, 40°, 43° à 46°, 48°, 50°, 56° et 57° sont nommés par le ministre chargé des forêts sur proposition des organisations représentatives du secteur concerné.
+
+Les membres mentionnés au 58° sont nommés par le ministre chargé des forêts sur proposition du ministre chargé de l'environnement.
 
