@@ -16,5 +16,7 @@ d) De leur permettre de produire des statistiques nécessaires à l'exercice de 
 
 3° Pour les organismes mentionnés au deuxième alinéa de l'article R. 161-69-10 autres que ceux mentionnés au 2° du présent article, de servir à l'appréciation des droits conformément au 1° de l'article L. 114-12 ;
 
-4° Pour les services de l'Etat placés sous l'autorité des ministres chargés de la sécurité sociale, de l'agriculture, du budget et de la fonction publique, de contribuer au pilotage du système de retraite, en leur permettant de réaliser des statistiques et des projections.
+4° Pour les services de l'Etat placés sous l'autorité des ministres chargés de la sécurité sociale, de l'agriculture, du budget et de la fonction publique, de contribuer au pilotage du système de retraite, en leur permettant de réaliser des statistiques et des projections ;
+
+5° Pour l'Agence de services et de paiement mentionnée à l'article L. 313-1 du code rural et de la pêche maritime, de lui permettre de recueillir les informations nécessaires à l'établissement des qualités d'agriculteur actif ou de nouvel agriculteur, définies aux articles D. 614-1 et D. 614-3 du code rural et de la pêche maritime, dans le cadre de l'instruction et du contrôle des conditions d'attribution des aides publiques relevant de la politique agricole commune.
 

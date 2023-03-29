@@ -8,3 +8,5 @@ III.-Sont destinataires des données mentionnées à l'article R. 161-69-9, dans
 
 IV.-Sont destinataires des données mentionnées à l'article R. 161-69-9, à l'exception des données mentionnées au b du 1°, dans le cadre de leur mission et pour les finalité mentionnées au d du 2° et au 4° de l'article R. 161-69-8, les agents exerçant des activités statistiques individuellement désignés et dûment habilités au sein des régimes et services mentionnés à l'article L. 161-17-1-2 et des services de l'Etat placés sous l'autorité respective des ministres chargés de la sécurité sociale, de l'agriculture, du budget et de la fonction publique.
 
+V.-Sont destinataires des données mentionnées aux a à d du 1° de l'article R. 161-69-9 et des dates de liquidation des pensions mentionnées au 2° du même article, dans le cadre de leurs missions et pour la finalité mentionnée au 5° de l'article R. 161-69-8, les agents individuellement désignés et dûment habilités au sein de l'Agence de services et de paiement.
+
