@@ -10048,13 +10048,13 @@ Les organismes de gestion collective établis hors de l'Union européenne géran
 
 ###### Article R321-2
 
-I.-Les organismes de gestion indépendants établis en France sont soumis aux dispositions de l'article R. 321-5, des 1° à 7°, du 10° et du 11° de l'article R. 321-15, de l'article R. 321-16, ainsi qu'aux dispositions des articles R. 321-26 à R. 321-34, R. 321-36 à R. 321-42, R. 321-44 et R. 321-46 à R. 321-48.
+I. – Les organismes de gestion indépendants établis en France sont soumis aux dispositions de l'article R. 321-5, des 1° à 7°, du 10° et du 11° de l'article R. 321-15, de l'article R. 321-16, ainsi qu'aux dispositions des articles R. 321-26 à R. 321-34, R. 321-36 à R. 321-42, R. 321-44 et R. 321-46 à R. 321-48.
 
-II.-Les organismes de gestion indépendants établis en France gérant les droits d'exploitation d'œuvres musicales protégées sont également soumis aux dispositions des articles R. 321-8 à R. 321-11.
+II. – Les organismes de gestion indépendants établis en France gérant les droits d'exploitation d'œuvres musicales protégées sont également soumis aux dispositions des articles R. 321-8 à R. 321-11.
 
-III.-Les organismes de gestion indépendants établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres ou autres objets protégés sont soumis aux dispositions de l'article R. 321-5, des 1° à 7° et du 10° de l'article R. 321-15 et du I de l'article R. 321-16, ainsi qu'aux dispositions des articles R. 321-26, R. 321-27, R. 321-30 à R. 321-34, R. 321-36 à R. 321-42, R. 321-44, R. 321-46 et R. 321-47.
+III. – Les organismes de gestion indépendants établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres ou autres objets protégés sont soumis aux dispositions de l'article R. 321-5, des 1° à 7° et du 10° de l'article R. 321-15 et du I de l'article R. 321-16, ainsi qu'aux dispositions des articles R. 321-26, R. 321-27, R. 321-30 à R. 321-34, R. 321-36 à R. 321-42, R. 321-44, R. 321-46 et R. 321-47.
 
-IV.-Les organismes de gestion indépendants établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres musicales protégées sont également soumis aux dispositions des articles R. 321-8 à R. 321-11.
+IV. – Les organismes de gestion indépendants établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres musicales protégées sont également soumis aux dispositions des articles R. 321-8 à R. 321-11.
 
 #### Chapitre Ier bis : Autorisation de gestion des droits
 
@@ -10116,19 +10116,19 @@ La liste mentionnée à l'article L. 324-14 précise au moins, sauf impossibilit
 
 ###### Article R321-6
 
-I.-L'aide à la création mentionnée à l'article L. 324-17 s'entend des concours apportés :
+I. – L'aide à la création mentionnée à l'article L. 324-17 s'entend des concours apportés :
 
 1° A la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou d'une interprétation sur un phonogramme ou un vidéogramme ;
 
 2° A des actions de défense, de promotion et d'information engagées dans l'intérêt des créateurs et de leurs œuvres.
 
-II.-L'aide à la diffusion du spectacle vivant mentionnée à l'article L. 324-17 s'entend des concours apportés :
+II. – L'aide à la diffusion du spectacle vivant mentionnée à l'article L. 324-17 s'entend des concours apportés :
 
 1° A des manifestations présentant, à titre principal ou accessoire, un spectacle vivant ;
 
 2° A des actions propres à assurer la diffusion des œuvres et des prestations artistiques du spectacle vivant.
 
-III.-L'aide à la formation d'artistes mentionnée à l'article L. 324-17 s'entend des concours apportés à des actions de formation professionnelle des auteurs et des artistes-interprètes.
+III. – L'aide à la formation d'artistes mentionnée à l'article L. 324-17 s'entend des concours apportés à des actions de formation professionnelle des auteurs et des artistes-interprètes.
 
 ###### Article R321-7
 
@@ -10154,7 +10154,7 @@ II. – Le traitement des données nécessaires à la gestion des autorisations 
 
 ##### Article R321-9
 
-I.-En réponse à une demande motivée, les organismes octroyant des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales fournissent, par voie électronique, aux prestataires de services en ligne auxquels ils ont octroyé une autorisation, aux titulaires des droits qu'ils gèrent et aux autres organismes de gestion collective, des informations actualisées permettant l'identification du répertoire de musique en ligne qu'ils représentent. Ces informations concernent :
+I. – En réponse à une demande motivée, les organismes octroyant des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales fournissent, par voie électronique, aux prestataires de services en ligne auxquels ils ont octroyé une autorisation, aux titulaires des droits qu'ils gèrent et aux autres organismes de gestion collective, des informations actualisées permettant l'identification du répertoire de musique en ligne qu'ils représentent. Ces informations concernent :
 
 1° Les œuvres musicales pour lesquelles ces autorisations ont été octroyées ;
 
@@ -10162,13 +10162,13 @@ I.-En réponse à une demande motivée, les organismes octroyant des autorisatio
 
 3° Les territoires couverts par ces autorisations.
 
-II.-Aux fins de la collecte des informations mentionnées au I, les organismes octroyant des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales permettent à l'ensemble des titulaires de droits pour lesquels ils gèrent les droits en ligne de leur communiquer ces informations par voie électronique. La communication des informations mentionnées au I respecte, lorsqu'elles existent, les normes et pratiques sectorielles volontaires élaborées à l'échelle internationale ou au niveau de l'Union européenne en matière d'échange de données.
+II. – Aux fins de la collecte des informations mentionnées au I, les organismes octroyant des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales permettent à l'ensemble des titulaires de droits pour lesquels ils gèrent les droits en ligne de leur communiquer ces informations par voie électronique. La communication des informations mentionnées au I respecte, lorsqu'elles existent, les normes et pratiques sectorielles volontaires élaborées à l'échelle internationale ou au niveau de l'Union européenne en matière d'échange de données.
 
-III.-Les dispositions prévues au II s'appliquent lorsque les autorisations d'exploitation sont octroyées au titre d'un accord de représentation conformément à l'article L. 325-3, à moins que les organismes en cause ne conviennent entre eux et pour les relations qu'ils entretiennent, d'autres modalités techniques de recueil des données.
+III. – Les dispositions prévues au II s'appliquent lorsque les autorisations d'exploitation sont octroyées au titre d'un accord de représentation conformément à l'article L. 325-3, à moins que les organismes en cause ne conviennent entre eux et pour les relations qu'ils entretiennent, d'autres modalités techniques de recueil des données.
 
-IV.-Dans la mise en œuvre du I, les organismes sollicités peuvent, s'ils l'estiment nécessaire, prendre les mesures appropriées pour préserver l'exactitude et l'intégrité des données, contrôler leur réutilisation et protéger les informations relevant du secret des affaires.
+IV. – Dans la mise en œuvre du I, les organismes sollicités peuvent, s'ils l'estiment nécessaire, prendre les mesures appropriées pour préserver l'exactitude et l'intégrité des données, contrôler leur réutilisation et protéger les informations relevant du secret des affaires.
 
-V.-Les titulaires de droits, les prestataires de services en ligne et les autres organismes peuvent demander à l'organisme qui gère leurs droits en ligne sur des œuvres musicales, de rectifier les informations mentionnées au I du présent article et au I de l'article R. 321-8. Cette demande doit être motivée et accompagnée des pièces justificatives. Dans ce cas, l'organisme saisi de la demande procède à la rectification des informations erronées dans un délai n'excédant pas trois mois.
+V. – Les titulaires de droits, les prestataires de services en ligne et les autres organismes peuvent demander à l'organisme qui gère leurs droits en ligne sur des œuvres musicales, de rectifier les informations mentionnées au I du présent article et au I de l'article R. 321-8. Cette demande doit être motivée et accompagnée des pièces justificatives. Dans ce cas, l'organisme saisi de la demande procède à la rectification des informations erronées dans un délai n'excédant pas trois mois.
 
 ##### Article R321-10
 
@@ -10192,39 +10192,39 @@ Le prestataire ne peut refuser la facture au seul motif de son format si l'organ
 
 ##### Article R321-11
 
-I.-Les organismes de gestion collective versent les sommes dues aux titulaires de droits au titre des autorisations d'exploitation multiterritoriales de droits en ligne octroyées sur leurs œuvres musicales dans un délai n'excédant pas neuf mois à compter de la fin de l'exercice au cours duquel ils ont reçu la déclaration d'utilisation de ces œuvres. Il ne peut être dérogé à ce délai et à l'exactitude du montant des versements qu'en raison de causes imputables aux prestataires de services en ligne.
+I. – Les organismes de gestion collective versent les sommes dues aux titulaires de droits au titre des autorisations d'exploitation multiterritoriales de droits en ligne octroyées sur leurs œuvres musicales dans un délai n'excédant pas neuf mois à compter de la fin de l'exercice au cours duquel ils ont reçu la déclaration d'utilisation de ces œuvres. Il ne peut être dérogé à ce délai et à l'exactitude du montant des versements qu'en raison de causes imputables aux prestataires de services en ligne.
 
-II.-Pour chaque versement effectué conformément au I, l'organisme communique au titulaire de droits au moins les informations suivantes :
+II. – Pour chaque versement effectué conformément au I, l'organisme communique au titulaire de droits au moins les informations suivantes :
 
 1° La période au cours de laquelle ont eu lieu les utilisations pour lesquelles les sommes lui sont dues, ainsi que les territoires dans lesquels ces utilisations ont eu lieu ;
 
 2° Les facturations opérées, les sommes perçues, les déductions effectuées et les sommes réparties par l'organisme pour chaque droit en ligne sur toute œuvre musicale que le titulaire de droits l'a autorisé à représenter et pour chaque prestataire de services en ligne.
 
-III.-Les dispositions du I s'appliquent aux organismes qui versent des sommes à d'autres organismes au titre d'un accord de représentation conformément à l'article L. 325-3. Ils sont également tenus de communiquer à ces organismes les informations prévues au II.
+III. – Les dispositions du I s'appliquent aux organismes qui versent des sommes à d'autres organismes au titre d'un accord de représentation conformément à l'article L. 325-3. Ils sont également tenus de communiquer à ces organismes les informations prévues au II.
 
 L'organisme destinataire verse ces sommes et communique ces informations aux titulaires de droits en cause, à moins que l'accord de représentation n'en dispose autrement.
 
 ##### Article R321-12
 
-I.-L'organisme de gestion collective sollicité par un autre organisme pour assurer la gestion d'autorisations d'exploitation multiterritoriales conformément à l'article L. 325-3 donne une réponse écrite dans un délai d'un mois, qui est motivée si elle est négative.
+I. – L'organisme de gestion collective sollicité par un autre organisme pour assurer la gestion d'autorisations d'exploitation multiterritoriales conformément à l'article L. 325-3 donne une réponse écrite dans un délai d'un mois, qui est motivée si elle est négative.
 
-II.-Le mandat donné à un organisme de gestion collective par un autre conformément à l'article L. 325-3 résulte de la conclusion d'un accord de représentation entre ces deux organismes. Cet accord est non exclusif.
+II. – Le mandat donné à un organisme de gestion collective par un autre conformément à l'article L. 325-3 résulte de la conclusion d'un accord de représentation entre ces deux organismes. Cet accord est non exclusif.
 
-III.-Dans le délai prévu par l'accord de représentation, l'organisme mandataire inclut les œuvres musicales de l'organisme mandant dans l'ensemble des offres qu'il propose aux prestataires de services en ligne.
+III. – Dans le délai prévu par l'accord de représentation, l'organisme mandataire inclut les œuvres musicales de l'organisme mandant dans l'ensemble des offres qu'il propose aux prestataires de services en ligne.
 
 Il informe l'organisme mandant des principales conditions auxquelles les autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales de celui-ci sont octroyées, en précisant la nature de l'exploitation, les éléments relatifs à la rémunération de ces autorisations et ceux pouvant avoir une incidence sur cette rémunération, la durée de validité des autorisations d'exploitation et les territoires qu'elles couvrent.
 
-IV.-L'organisme mandant informe ses membres des principaux termes de l'accord de représentation, y compris sa durée et le coût des services fournis par l'organisme mandataire.
+IV. – L'organisme mandant informe ses membres des principaux termes de l'accord de représentation, y compris sa durée et le coût des services fournis par l'organisme mandataire.
 
 Cette obligation d'information vaut aussi à l'égard des titulaires de droits non-membres de l'organisme mandant dès lors qu'ils ont une relation juridique directe avec lui relative aux droits en cause, par l'effet de la loi ou d'un contrat.
 
 ##### Article R321-13
 
-I.-Sous réserve des dispositions du présent article, l'organisme mandataire gère les œuvres musicales dont la gestion lui a été confiée conformément à l'article L. 325-3 dans les mêmes conditions que celles qu'il applique à la gestion de son propre répertoire musical.
+I. – Sous réserve des dispositions du présent article, l'organisme mandataire gère les œuvres musicales dont la gestion lui a été confiée conformément à l'article L. 325-3 dans les mêmes conditions que celles qu'il applique à la gestion de son propre répertoire musical.
 
-II.-Le montant des frais de gestion déduits au titre du service rendu à l'organisme mandant n'excède pas les coûts raisonnablement supportés par l'organisme mandataire.
+II. – Le montant des frais de gestion déduits au titre du service rendu à l'organisme mandant n'excède pas les coûts raisonnablement supportés par l'organisme mandataire.
 
-III.-L'organisme mandant met à la disposition de l'organisme mandataire les informations relatives à son propre répertoire musical nécessaires à l'octroi des autorisations d'exploitation multiterritoriales en ligne.
+III. – L'organisme mandant met à la disposition de l'organisme mandataire les informations relatives à son propre répertoire musical nécessaires à l'octroi des autorisations d'exploitation multiterritoriales en ligne.
 
 Lorsque ces informations sont insuffisantes ou fournies sous une forme qui ne permet pas à l'organisme mandataire de respecter les dispositions du présent chapitre, celui-ci peut facturer à l'organisme mandant les coûts supplémentaires liés à la mise en conformité avec ces dispositions, ou décider d'exclure de son répertoire les œuvres pour lesquelles les informations sont insuffisantes ou inutilisables.
 
@@ -10234,9 +10234,9 @@ Lorsque ces informations sont insuffisantes ou fournies sous une forme qui ne pe
 
 ###### Article R321-14
 
-I.-Les rapports prévus à l'article L. 326-1 sont publiés sur le site internet des organismes de gestion collective concernés et sont maintenus sur ce site, à la disposition du public, pendant au moins cinq ans.
+I. – Les rapports prévus à l'article L. 326-1 sont publiés sur le site internet des organismes de gestion collective concernés et sont maintenus sur ce site, à la disposition du public, pendant au moins cinq ans.
 
-II.-Le rapport de transparence annuel comprend les informations suivantes :
+II. – Le rapport de transparence annuel comprend les informations suivantes :
 
 1° Les états financiers comprenant un bilan, un compte de résultat, et une annexe, selon des normes fixées par l'Autorité des normes comptables ;
 
@@ -10294,13 +10294,13 @@ c) Le montant des frais de gestion et autres déductions effectuées sur les som
 
 d) Le montant des sommes réparties directement aux titulaires de droits provenant d'autres organismes, avec une ventilation par catégorie de droits et par organisme.
 
-III.-Le rapport de transparence annuel comporte également un rapport qui rend compte de l'utilisation des sommes déduites aux fins de la fourniture de services sociaux, culturels ou éducatifs et qui contient les informations suivantes :
+III. – Le rapport de transparence annuel comporte également un rapport qui rend compte de l'utilisation des sommes déduites aux fins de la fourniture de services sociaux, culturels ou éducatifs et qui contient les informations suivantes :
 
 1° Le montant des sommes déduites aux fins de services sociaux, culturels et éducatifs au cours de l'exercice, avec une ventilation par type de finalité, et pour chaque type de finalité avec une ventilation par catégorie de droits gérés et par type d'utilisation ;
 
 2° Une explication de l'utilisation de ces sommes, avec une ventilation par type de finalité, y compris le montant des frais découlant de la gestion des sommes déduites en vue de financer des services sociaux, culturels et éducatifs et des sommes distinctes utilisées aux fins de services sociaux, culturels et éducatifs.
 
-IV.-Le commissaire aux comptes de l'organisme s'assure de la sincérité et de la concordance des informations contenues dans le rapport de transparence annuel, comprenant notamment les états financiers et les informations financières prévus aux 1°, 7° à 10° du II et au III, avec les documents comptables de l'organisme. Le rapport spécial qu'il élabore à cette fin ainsi que ses réserves éventuelles doivent être intégralement reproduits dans le rapport de transparence annuel.
+IV. – Le commissaire aux comptes de l'organisme s'assure de la sincérité et de la concordance des informations contenues dans le rapport de transparence annuel, comprenant notamment les états financiers et les informations financières prévus aux 1°, 7° à 10° du II et au III, avec les documents comptables de l'organisme. Le rapport spécial qu'il élabore à cette fin ainsi que ses réserves éventuelles doivent être intégralement reproduits dans le rapport de transparence annuel.
 
 ###### Article R321-15
 
@@ -10330,7 +10330,7 @@ Les informations mentionnées au second alinéa de l'article L. 326-2 sont les s
 
 ###### Article R321-16
 
-I.-Les informations relatives à la gestion des droits qu'un organisme de gestion collective ou indépendant est tenu de mettre à la disposition de chaque titulaire de droits en application du I de l'article L. 326-3, comprennent les éléments suivants :
+I. – Les informations relatives à la gestion des droits qu'un organisme de gestion collective ou indépendant est tenu de mettre à la disposition de chaque titulaire de droits en application du I de l'article L. 326-3, comprennent les éléments suivants :
 
 1° Les coordonnées que le titulaire de droits l'a autorisé à utiliser afin de l'identifier et de le localiser ;
 
@@ -10342,7 +10342,7 @@ I.-Les informations relatives à la gestion des droits qu'un organisme de gestio
 
 5° Le montant des éventuels revenus provenant de l'exploitation des droits qui ont été répartis au titulaire de droits mais qui lui restent dus, quelle que soit la période au cours de laquelle ils ont été perçus par l'organisme.
 
-II.-Les informations relatives à la gestion des droits mentionnées au III de l'article L. 326-3 que l'organisme est tenu de mettre à la disposition de l'autre organisme de gestion avec lequel il est lié par un accord de représentation, comprennent les éléments suivants :
+II. – Les informations relatives à la gestion des droits mentionnées au III de l'article L. 326-3 que l'organisme est tenu de mettre à la disposition de l'autre organisme de gestion avec lequel il est lié par un accord de représentation, comprennent les éléments suivants :
 
 1° Le montant des revenus provenant de l'exploitation des droits qu'il a respectivement répartis et versés au titre de l'accord de représentation, en précisant leur ventilation par catégorie de droits gérés et par type d'utilisation ;
 
@@ -10433,13 +10433,13 @@ Ils ne peuvent délibérer que si trois de leurs membres sont présents ou le ca
 
 ###### Article R321-25
 
-I.-L'habilitation mentionnée au II de l'article L. 327-10 est délivrée, de manière individuelle, par le président de la commission de contrôle aux rapporteurs et agents de la commission pour une durée de cinq ans renouvelable.
+I. – L'habilitation mentionnée au II de l'article L. 327-10 est délivrée, de manière individuelle, par le président de la commission de contrôle aux rapporteurs et agents de la commission pour une durée de cinq ans renouvelable.
 
 Pour délivrer l'habilitation, le président de la commission vérifie que l'intéressé présente les capacités et les garanties requises au regard des missions confiées au collège de contrôle. Il tient compte notamment de son niveau de formation ou de son expérience.
 
-II.-Nul ne peut être habilité s'il a fait l'objet d'une condamnation à une peine correctionnelle ou criminelle inscrite au bulletin n° 2 du casier judiciaire, ou dans un document équivalent lorsqu'il s'agit d'un ressortissant de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+II. – Nul ne peut être habilité s'il a fait l'objet d'une condamnation à une peine correctionnelle ou criminelle inscrite au bulletin n° 2 du casier judiciaire, ou dans un document équivalent lorsqu'il s'agit d'un ressortissant de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
-III.-Les agents habilités dans les conditions définies au présent article prêtent serment devant l'un des deux collèges de la commission de contrôle. La formule de serment est la suivante :
+III. – Les agents habilités dans les conditions définies au présent article prêtent serment devant l'un des deux collèges de la commission de contrôle. La formule de serment est la suivante :
 
 “ Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ”.
 
@@ -15727,15 +15727,15 @@ Le président peut autoriser l'huissier à procéder à toute constatation utile
 
 Afin d'assurer la protection du secret des affaires, le président peut ordonner d'office le placement sous séquestre provisoire des pièces saisies, dans les conditions prévues à l'article R. 153-1 du code de commerce.
 
-###### Article R615-3
-
-Le délai prévu au dernier alinéa de l'article L. 615-5 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la description.
-
 ###### Article R615-2-1
 
 Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées avant qu'il soit procédé à la saisie.
 
 A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution de garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
+
+###### Article R615-3
+
+Le délai prévu au dernier alinéa de l'article L. 615-5 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la description.
 
 ###### Article R615-4
 
