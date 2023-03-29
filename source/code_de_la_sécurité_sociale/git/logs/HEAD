@@ -1,3 +1,5 @@
 0000000000000000000000000000000000000000 3a976a4193a3a28111ae5d9fe6e817cd2db847b6 francoisgognet <fgognet@gmail.com> 1678137955 +0100	clone: from https://archeo-lex.fr/codes/code_de_la_sécurité_sociale
 3a976a4193a3a28111ae5d9fe6e817cd2db847b6 6fa7966ebe1d2395e45d46b66ef8a2573c75f352 Github action <github@users.noreply.github.com> 1679017215 +0000	pull --rebase (start): checkout 6fa7966ebe1d2395e45d46b66ef8a2573c75f352
 6fa7966ebe1d2395e45d46b66ef8a2573c75f352 6fa7966ebe1d2395e45d46b66ef8a2573c75f352 Github action <github@users.noreply.github.com> 1679017215 +0000	pull --rebase (finish): returning to refs/heads/texte
+6fa7966ebe1d2395e45d46b66ef8a2573c75f352 ddf434cbbed16a4ad91d53a4752a29574fc381e0 Github action <github@users.noreply.github.com> 1680054421 +0000	pull --rebase (start): checkout ddf434cbbed16a4ad91d53a4752a29574fc381e0
+ddf434cbbed16a4ad91d53a4752a29574fc381e0 ddf434cbbed16a4ad91d53a4752a29574fc381e0 Github action <github@users.noreply.github.com> 1680054421 +0000	pull --rebase (finish): returning to refs/heads/texte
