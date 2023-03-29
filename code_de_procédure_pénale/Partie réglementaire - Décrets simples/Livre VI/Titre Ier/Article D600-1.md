@@ -4,5 +4,5 @@ Pour l'application des dispositions des titres Ier à IV, VI et XI du livre V du
 
 1° “ service pénitentiaire d'insertion et de probation ” par : “ conseiller pénitentiaire d'insertion et de probation ” ;
 
-2° “ directeur du service pénitentiaire d'insertion et de probation ” par : “ directeur interrégional, chef de la mission des services pénitentiaires de l'outre-mer ”.
+2° “ directeur du service pénitentiaire d'insertion et de probation ” par : “ directeur des services pénitentiaires d'outre-mer ”.
 
