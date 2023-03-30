@@ -25438,6 +25438,10 @@ L'autorisation provisoire de séjour est renouvelée automatiquement pendant tou
 
 Cette autorisation provisoire de séjour ouvre droit à l'exercice d'une activité professionnelle.
 
+###### Article R581-4-1
+
+Les ressortissants étrangers bénéficiaires de la protection temporaire peuvent bénéficier de la formation linguistique mentionnée au 2° de l'article L. 413-3 dans les conditions précisées par arrêté du ministre chargé de l'accueil et de l'intégration.
+
 ###### Article R581-5
 
 Sans préjudice des dispositions du troisième alinéa de l'article L. 581-3, l'autorisation provisoire de séjour est refusée ou retirée ou son renouvellement est refusé si l'étranger est exclu du bénéfice de la protection temporaire sur le fondement de l'article L. 581-5.
@@ -25449,10 +25453,6 @@ Conformément à l'article L. 581-9, les ressortissants étrangers bénéficiair
 Les dispositions prévues au chapitre III du titre V sont applicables aux ressortissants étrangers bénéficiaires de la protection temporaire.
 
 Le versement de l'allocation prend fin, sur demande de l'Office français de l'immigration et de l'intégration, à la date où s'achève cette protection ou à la date du transfert du bénéficiaire vers un autre Etat de l'Union européenne.
-
-###### Article R581-4-1
-
-Les ressortissants étrangers bénéficiaires de la protection temporaire peuvent bénéficier de la formation linguistique mentionnée au 2° de l'article L. 413-3 dans les conditions précisées par arrêté du ministre chargé de l'accueil et de l'intégration.
 
 ##### Section 2 : Transfert des bénéficiaires de la protection temporaire ou des membres de leur famille
 
