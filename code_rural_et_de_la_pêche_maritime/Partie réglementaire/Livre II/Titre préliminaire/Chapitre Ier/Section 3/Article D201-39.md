@@ -1,4 +1,4 @@
-###### Article R201-39
+###### Article D201-39
 
 Les organismes ou catégories d'organismes présentant des garanties de compétence, d'indépendance et d'impartialité mentionnés au premier alinéa de l'article L. 201-13 comprennent :
 
