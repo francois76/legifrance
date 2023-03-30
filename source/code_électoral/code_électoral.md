@@ -8706,11 +8706,11 @@ Le tableau des électeurs sénatoriaux est établi par le préfet et rendu publi
 
 #### Article R147
 
-Les recours visés à l'article L. 292 doivent être présentés au tribunal administratif dans les trois jours de la publication du tableau. Le président de ce tribunal notifie sans délai les réclamations dont il est saisi aux délégués élus et les invite en même temps soit à déposer leurs observations écrites au greffe du tribunal avant la date de l'audience, soit à présenter à l'audience leurs observations orales.
+Les recours visés à l'article L. 292 doivent être présentés au tribunal administratif dans les trois jours de la publication du tableau. Le président de ce tribunal notifie sans délai et par tous moyens les réclamations dont il est saisi aux délégués élus et les invite en même temps soit à déposer leurs observations écrites au greffe du tribunal avant la date de l'audience, soit à présenter à l'audience leurs observations orales.
 
 La date et l'heure de l'audience doivent être indiquées sur la convocation.
 
-Le tribunal administratif rend sa décision dans les trois jours à compter de l'enregistrement de la réclamation et la fait notifier aux parties intéressées et au préfet.
+Le tribunal administratif rend sa décision dans les trois jours à compter de l'enregistrement de la réclamation et la fait notifier par tous moyens aux parties intéressées et au préfet qui en informe sans délai le maire de la commune.
 
 #### Article R148
 
@@ -8788,9 +8788,9 @@ Le chapitre V bis, intitulé " Financement et plafonnement des dépenses électo
 
 ##### Article R155
 
-Chaque candidat ou liste de candidats ne peut faire adresser à chaque électeur, par la commission de propagande, qu'une seule circulaire d'un grammage de 70 grammes au mètre carré et d'un format de 210 mm x 297 mm.
+Chaque candidat ou liste de candidats ne peut faire adresser à chaque électeur, par la commission de propagande, qu'une seule circulaire d'un grammage compris entre au moins 70 et au plus 80 grammes au mètre carré et d'un format de 210 mm x 297 mm.
 
-Les bulletins de vote doivent être d'un grammage de 70 grammes au mètre carré et avoir les formats suivants :
+Les bulletins de vote doivent être d'un grammage compris entre au moins 70 et au plus 80 grammes au mètre carré et avoir les formats suivants :
 
 - 148 x 210 mm pour les listes ;
 - 105 x 148 mm pour les candidats isolés.
@@ -8861,12 +8861,14 @@ Sont mentionnés dans cette liste :
 - les nom et prénoms des électeurs ;
 - les date et lieu de naissance ;
 - la qualité ;
-- l 'adresse ;
+- l'adresse ;
 - les nom et prénoms du mandataire des délégués autorisés à voter par procuration.
 
 Le préfet peut modifier la liste jusqu'à sa division en sections de vote mentionnée à l'article R. 164, pour tenir compte des remplacements de délégués prévus par la loi.
 
-Les suppléants des délégués des conseils municipaux sont portés sur la liste en cas de décès ou de perte des droits civiques et politiques du délégué ou en cas d'empêchement majeur résultant d'une obligation professionnelle, d'un handicap, d'une raison de santé, de l'assistance apportée à une personne malade ou infirme, d'un placement en détention provisoire ou de l'exécution d'une peine privative de liberté n'entraînant pas une incapacité électorale. Le représentant de l'Etat avise immédiatement le délégué dont la demande de remplacement n'est pas valable.
+Les suppléants des délégués des conseils municipaux sont portés sur la liste en cas de décès ou de perte des droits civiques et politiques du délégué ou en cas d'empêchement majeur résultant d'une obligation professionnelle, d'un handicap, d'une raison de santé, de l'assistance apportée à une personne malade ou infirme, d'un placement en détention provisoire ou de l'exécution d'une peine privative de liberté n'entraînant pas une incapacité électorale.
+
+En cas d'empêchement majeur, le délégué adresse au maire une demande de remplacement motivée et accompagnée des pièces justificatives démontrant la réalité de l'empêchement. Le maire transmet la demande et les pièces au représentant de l'Etat accompagnée de son avis sur son bien-fondé. Le représentant de l'Etat examine la demande et, s'il l'accueille, modifie en conséquence la liste des électeurs du département. Le maire, le délégué empêché et son suppléant sont avisés sans délai du sens de la décision du représentant de l'Etat sur la demande.
 
 Dès qu'elle est arrêtée, la liste peut être communiquée à tout membre du collège électoral et à tout candidat qui en fait la demande. Elle peut être copiée et publiée.
 
@@ -8926,6 +8928,8 @@ Les membres du bureau et les électeurs composant le collège électoral du dép
 Le bureau statue sur toutes les difficultés et contestations qui peuvent s'élever au cours de l'élection.
 
 Les délégués qui ne figurent pas sur la liste électorale sont admis à voter sur présentation des pièces établissant leur qualité.
+
+Le suppléant d'un délégué empêché, pour l'une des raisons énumérées à l'article R. 162, postérieurement à la division en section de la liste d'émargement par le préfet, peut être admis à voter sur présentation des justificatifs démontrant la réalité de cet empêchement.
 
 ##### Article R167
 
@@ -10520,7 +10524,7 @@ Les exemplaires des procès-verbaux des opérations électorales de chaque burea
 
 ##### Article R271
 
-Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction résultant du décret n° 2021-270 du 11 mars 2021, les dispositions suivantes du livre II du code électoral (partie réglementaire) :
+Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction résultant du décret n° 2023-198 du 23 mars 2023, les dispositions suivantes du livre II du code électoral (partie réglementaire) :
 - le titre III ;
 - les chapitres IV à VII du titre IV, à l'exception des articles R. 164-1 et R. 169.
 
