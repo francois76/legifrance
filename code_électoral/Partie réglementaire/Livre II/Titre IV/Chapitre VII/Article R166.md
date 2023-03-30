@@ -10,3 +10,5 @@ Le bureau statue sur toutes les difficultés et contestations qui peuvent s'éle
 
 Les délégués qui ne figurent pas sur la liste électorale sont admis à voter sur présentation des pièces établissant leur qualité.
 
+Le suppléant d'un délégué empêché, pour l'une des raisons énumérées à l'article R. 162, postérieurement à la division en section de la liste d'émargement par le préfet, peut être admis à voter sur présentation des justificatifs démontrant la réalité de cet empêchement.
+
