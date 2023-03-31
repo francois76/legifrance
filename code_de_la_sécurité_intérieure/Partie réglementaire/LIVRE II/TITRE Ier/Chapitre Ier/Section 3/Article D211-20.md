@@ -2,7 +2,7 @@
 
 En application de l'article R. 211-18, outre les armes à feu prévues à l'article D. 211-19, est susceptible d'être utilisée pour le maintien de l'ordre public, à titre de riposte en cas d'ouverture du feu sur les représentants de la force publique, celle mentionnée ci-après :
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>APPELLATION</th>
   <th>CLASSIFICATION</th>

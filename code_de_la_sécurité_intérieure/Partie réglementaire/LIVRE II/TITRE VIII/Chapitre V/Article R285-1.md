@@ -188,7 +188,15 @@ Sont applicables en Polynésie française les dispositions du présent livre men
   <td>Résultant du décret n° 2020-1512 du 2 décembre 2020</td>
  </tr>
  <tr>
-  <td align="center"><center>R. 236-31 à R. 236-45</center></td>
+  <td align="center"><center>R. 236-31</center></td>
+  <td>Résultant du décret n° 2013-1113</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-32 à R. 236-37</td>
+  <td>Résultant du décret n° 2023-205 du 27 mars 2023</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-38 à R. 236-45</td>
   <td>Résultant du décret n° 2013-1113</td>
  </tr>
  <tr>

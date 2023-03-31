@@ -1,4 +1,4 @@
 ###### Article R236-36
 
-Les créations, modifications, consultations et suppressions de données du traitement mentionné à l'article R. 236-31 font l'objet d'un enregistrement comprenant l'identifiant du consultant, la date et l'heure de l'opération. Ces informations sont conservées pendant un délai de trois ans.
+Un dispositif de journalisation enregistre les opérations de collecte, de consultation, de modification, de communication, d'interconnexion et d'effacement des données à caractère personnel et informations contenues dans le traitement. L'enregistrement comprend l'auteur, la date, l'heure et le motif de l'opération ainsi que la référence des données à caractère personnel concernées, à l'exclusion de ces données elles-mêmes et, le cas échéant, le ou les destinataires de ces données. Les informations enregistrées par le dispositif de journalisation sont conservées pendant un délai de trois ans.
 
