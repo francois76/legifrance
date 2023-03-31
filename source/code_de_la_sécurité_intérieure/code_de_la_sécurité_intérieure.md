@@ -10564,7 +10564,7 @@ Les armes à feu susceptibles d'être utilisées par les représentants de la fo
 
 En application de l'article R. 211-18, outre les armes à feu prévues à l'article D. 211-19, est susceptible d'être utilisée pour le maintien de l'ordre public, à titre de riposte en cas d'ouverture du feu sur les représentants de la force publique, celle mentionnée ci-après :
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>APPELLATION</th>
   <th>CLASSIFICATION</th>
@@ -12474,7 +12474,7 @@ Le ministre de l'intérieur (direction générale de la gendarmerie nationale) e
 
 ###### Article R236-32
 
-Peuvent être enregistrées dans le traitement mentionné à l'article R. 236-31, dans le respect des dispositions de l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et dans la stricte mesure où elles sont nécessaires à la poursuite de la finalité mentionnée à l'article R. 236-31, les catégories de données à caractère personnel suivantes :
+Peuvent être enregistrées dans le traitement mentionné à l'article R. 236-31 les catégories de données à caractère personnel suivantes :
 
 1° S'agissant des personnes à l'origine de la demande d'intervention ou faisant l'objet de l'intervention :
 
@@ -12490,41 +12490,69 @@ e) Caractéristiques et immatriculation des véhicules ;
 
 f) Enregistrements sonores des demandes d'intervention ;
 
+g) Informations de localisation transmises par la personne à l'origine de l'intervention ;
+
+h) Photographies de la personne recherchée ou disparue ou d'un véhicule recherché ;
+
 2° S'agissant des personnes qui, à raison de leurs qualifications, peuvent être requises par la gendarmerie nationale ou de celles envers lesquelles existe une obligation d'information :
 
 a) Informations ayant trait à l'état civil (nom, prénoms) et à la qualité ou à la profession ;
 
-b) Adresses physiques et électroniques, numéros de téléphone.
+b) Adresses physiques et électroniques, numéros de téléphone ;
+
+3° Données de localisation des véhicules d'intervention de la gendarmerie nationale issues de l'utilisation d'un dispositif de géolocalisation ;
+
+4° S'agissant du titulaire de la ligne téléphonique utilisée pour l'appel :
+
+a) Informations ayant trait à l'état civil (nom, prénom) ou à la dénomination sociale ;
+
+b) Adresses physiques et électroniques, numéros de téléphone ;
+
+c) Informations de localisation de l'appel transmises en application de l'article D. 98-8 du code des postes et des communications électroniques ;
+
+5° S'agissant des personnels de la gendarmerie nationale engagés sur une intervention :
+
+a) Informations ayant trait à l'état civil et à la profession (grade, numéro d'identification, nom, prénoms, unité d'affectation) ;
+
+b) Numéros de téléphone ;
+
+6° Photographies de la scène d'intervention prises par les personnels de la gendarmerie nationale.
 
 ###### Article R236-33
 
-L'interdiction prévue au I de l'article 8 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'applique au traitement mentionné à l'article R. 236-31.
-
-Par dérogation, sont autorisés, pour les seules fins et dans le strict respect des conditions définies à la présente section, la collecte, la conservation et le traitement des données concernant les personnes mentionnées au 1° de l'article R. 236-32 et relatives soit à des signes physiques particuliers et objectifs comme éléments de leur signalement, soit à la santé lorsqu'elles sont nécessaires aux missions de secours, sauvetage et protection des personnes.
+Concernant les seules personnes mentionnées au 1° de l'article R. 236-32, ce traitement peut comprendre des données à caractère personnel de la nature de celles mentionnées au I de l'article 6 de la loi du 6 janvier 1978 susvisée, à l'exception des données génétiques et biométriques.
 
 Il est interdit de sélectionner dans le traitement une catégorie particulière de personnes à partir de ces seules données.
 
 ###### Article R236-34
 
-Les données mentionnées aux articles R. 236-32 et R. 236-33 ne peuvent être conservées plus de deux ans après la création des documents liés aux sollicitations ou à l'intervention ayant donné lieu à un enregistrement.
+Les données mentionnées aux articles R. 236-32 et R. 236-33 ne peuvent être conservées plus de deux ans après leur collecte.
+
+Par dérogation, les données mentionnées au h du 1°, au c du 4° et au 6° de l'article R. 236-32 ne peuvent être conservées plus de trente minutes après la fin de l'intervention ou, lorsque la sollicitation n'a donné lieu à aucune intervention, trente minutes après la fin de la gestion de la sollicitation.
+
+Les données mentionnées au 3° de l'article R. 236-32 ne peuvent être consultées qu'en temps réel et ne sont pas conservées dans le traitement. Par dérogation, lorsqu'elles concernent des véhicules de la gendarmerie nationale engagés sur une intervention, elles peuvent être conservées trente minutes après la fin de l'intervention.
 
 ###### Article R236-35
 
-Dans la limite du besoin d'en connaître, sont seuls autorisés à accéder aux données mentionnées aux articles R. 236-32 et R. 236-33 les membres de la gendarmerie nationale individuellement désignés et spécialement habilités.
+Dans la limite du besoin d'en connaître, sont seuls autorisés à accéder aux données mentionnées aux articles R. 236-32 et R. 236-33 les personnels de la gendarmerie nationale individuellement désignés et spécialement habilités.
 
-En outre, peut être destinataire des données mentionnées aux articles R. 236-32 et R. 236-33, dans la limite du besoin d'en connaître, tout autre membre d'une unité de la gendarmerie nationale ou agent d'un service de la police nationale, sur demande expresse précisant l'identité du demandeur, l'objet et les motifs de la consultation. Les demandes sont soumises selon le cas à l'agrément des commandants de groupement, des commandants de région ou du directeur général de la gendarmerie nationale.
+En outre, peut être destinataire des données mentionnées aux articles R. 236-32 et R. 236-33, dans la limite du besoin d'en connaître, tout autre personnel d'une unité de la gendarmerie nationale ou agent d'un service de la police nationale, sur demande expresse précisant l'identité du demandeur, l'objet et les motifs de la consultation. Les demandes sont soumises selon le cas à l'agrément des commandants de groupement, des commandants de région ou du directeur général de la gendarmerie nationale.
 
 Peut également être destinataire des données et informations mentionnées au 1° de l'article R. 236-32 et à l'article R. 236-33, pour les seules fins d'une mission de secours aux personnes et dans la limite du besoin d'en connaître, tout membre d'un service de secours d'urgence agissant dans le cadre de ses attributions légales et de protocoles d'intervention avec la gendarmerie nationale.
 
 ###### Article R236-36
 
-Les créations, modifications, consultations et suppressions de données du traitement mentionné à l'article R. 236-31 font l'objet d'un enregistrement comprenant l'identifiant du consultant, la date et l'heure de l'opération. Ces informations sont conservées pendant un délai de trois ans.
+Un dispositif de journalisation enregistre les opérations de collecte, de consultation, de modification, de communication, d'interconnexion et d'effacement des données à caractère personnel et informations contenues dans le traitement. L'enregistrement comprend l'auteur, la date, l'heure et le motif de l'opération ainsi que la référence des données à caractère personnel concernées, à l'exclusion de ces données elles-mêmes et, le cas échéant, le ou les destinataires de ces données. Les informations enregistrées par le dispositif de journalisation sont conservées pendant un délai de trois ans.
 
 ###### Article R236-37
 
-Conformément aux dispositions prévues à l'article 41 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, le droit d'accès aux données enregistrées dans le traitement mentionné à l'article R. 236-31 s'exerce, sauf en ce qui concerne les personnes mentionnées au 2° de l'article R. 236-32, auprès de la Commission nationale de l'informatique et des libertés.
+I. - Le droit d'opposition prévu à l'article 110 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ne s'applique pas au présent traitement.
 
-Le droit d'information prévu au I de l'article 32 de la même loi, en ce qui concerne les personnes mentionnées au 2° de l'article R. 236-32, et le droit d'opposition prévu à l'article 38 de la même loi ne s'appliquent pas au traitement mentionné à l'article R. 236-31.
+II. - Conformément aux articles 105 et 106 de la même loi, les droits d'accès, de rectification, d'effacement et à la limitation des données s'exercent directement auprès de la direction générale de la gendarmerie nationale.
+
+Afin d'éviter de gêner des enquêtes, des recherches ou des procédures administratives ou judiciaires ou de protéger la sécurité publique ou la sécurité nationale ou les droits et libertés d'autrui, les droits d'accès, de rectification, d'effacement et à la limitation peuvent faire l'objet de restrictions en application des 2° et 3° du II et du III de l'article 107 de la même loi.
+
+La personne concernée par ces restrictions exerce ses droits auprès de la Commission nationale de l'informatique et des libertés dans les conditions prévues à l'article 108 de la même loi.
 
 ##### Section 5 : Traitement de données à caractère personnel dénommé " Sécurisation des interventions et demandes particulières de protection "
 
@@ -13648,7 +13676,15 @@ Sont applicables en Polynésie française les dispositions du présent livre men
   <td>Résultant du décret n° 2020-1512 du 2 décembre 2020</td>
  </tr>
  <tr>
-  <td align="center"><center>R. 236-31 à R. 236-45</center></td>
+  <td align="center"><center>R. 236-31</center></td>
+  <td>Résultant du décret n° 2013-1113</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-32 à R. 236-37</td>
+  <td>Résultant du décret n° 2023-205 du 27 mars 2023</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-38 à R. 236-45</td>
   <td>Résultant du décret n° 2013-1113</td>
  </tr>
  <tr>
@@ -13978,7 +14014,15 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
   <td>Résultant du décret n° 2020-1512 du 2 décembre 2020</td>
  </tr>
  <tr>
-  <td align="center">R. 236-31 à R. 236-45</td>
+  <td align="center">R. 236-31</td>
+  <td>Résultant du décret n° 2013-1113</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-32 à R. 236-37</td>
+  <td>Résultant du décret n° 2023-205 du 27 mars 2023</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-38 à R. 236-45</td>
   <td>Résultant du décret n° 2013-1113</td>
  </tr>
  <tr>
@@ -14316,7 +14360,15 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
   <td>Résultant du décret n° 2020-1512 du 2 décembre 2020</td>
  </tr>
  <tr>
-  <td align="center">R. 236-31 à R. 236-45</td>
+  <td align="center">R. 236-31</td>
+  <td>Résultant du décret n° 2013-1113</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-32 à R. 236-37</td>
+  <td>Résultant du décret n° 2023-205 du 27 mars 2023</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-38 à R. 236-45</td>
   <td>Résultant du décret n° 2013-1113</td>
  </tr>
  <tr>
@@ -14626,7 +14678,15 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
   <td>Résultant du décret n° 2020-1512 du 2 décembre 2020</td>
  </tr>
  <tr>
-  <td align="center">R. 236-31 à R. 236-45</td>
+  <td align="center">R. 236-31</td>
+  <td>Résultant du décret n° 2013-1113</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-32 à R. 236-37</td>
+  <td>Résultant du décret n° 2023-205 du 27 mars 2023</td>
+ </tr>
+ <tr>
+  <td align="center">R. 236-38 à R. 236-45</td>
   <td>Résultant du décret n° 2013-1113</td>
  </tr>
  <tr>

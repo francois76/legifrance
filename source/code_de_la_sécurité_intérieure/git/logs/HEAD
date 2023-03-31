@@ -1,2 +1,4 @@
 0000000000000000000000000000000000000000 2efa2264157c1fd97963faa5dc7da92e86c96053 francoisgognet <fgognet@gmail.com> 1678137946 +0100	clone: from https://archeo-lex.fr/codes/code_de_la_sécurité_intérieure
 2efa2264157c1fd97963faa5dc7da92e86c96053 6d6e17aca3af40ef4d59e0d762dc27bb7a293123 Github action <github@users.noreply.github.com> 1678844520 +0000	pull --rebase: Fast-forward
+6d6e17aca3af40ef4d59e0d762dc27bb7a293123 519ff10a4e8f4e614247e7f3f85552d3e206bd7e Github action <github@users.noreply.github.com> 1680226691 +0000	pull --rebase (start): checkout 519ff10a4e8f4e614247e7f3f85552d3e206bd7e
+519ff10a4e8f4e614247e7f3f85552d3e206bd7e 519ff10a4e8f4e614247e7f3f85552d3e206bd7e Github action <github@users.noreply.github.com> 1680226691 +0000	pull --rebase (finish): returning to refs/heads/texte
