@@ -28,5 +28,13 @@ Figurent en annexe au plan local d'urbanisme, s'il y a lieu, les éléments suiv
 
 13° Les périmètres à l'intérieur desquels l'autorité compétente peut surseoir à statuer sur les demandes d'autorisation en application de l'article L. 424-1 ;
 
-14° Les périmètres de projet prévus à l'article L. 322-13.
+14° Les périmètres de projet prévus à l'article L. 322-13 ;
+
+15° La carte de préfiguration des zones soumises au recul du trait de côte établie dans les conditions définies à l'article L. 121-22-3 ;
+
+16° Les périmètres à l'intérieur desquels, en application du d de l'article R. * 421-12, les clôtures sont soumises à déclaration préalable ;
+
+17° Les périmètres à l'intérieur desquels, en application du e de l'article R. * 421-17-1, les travaux de ravalement sont soumis à autorisation ;
+
+18° Les périmètres à l'intérieur desquels, en application de l'article R. * 421-27, le permis de démolir a été institué.
 

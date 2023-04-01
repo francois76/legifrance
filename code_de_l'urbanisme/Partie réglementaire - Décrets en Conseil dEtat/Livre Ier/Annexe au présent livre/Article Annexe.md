@@ -17,7 +17,7 @@ Prescriptions et interdictions auxquelles sont soumis les propriétaires en appl
 
 b) Littoral maritime.
 
-Servitude de passage sur le littoral instituée en application des articles L. 121-29 et L. 121-32 du code de l'urbanisme.
+Servitudes de passage sur le littoral instituées en application des articles L. 121-31 à L. 121-34 et L. 121-51.
 
 c) Eaux.
 
@@ -210,6 +210,8 @@ Servitudes d'utilité publique instituées en application de l'article L. 214-4-
 Plans de prévention des risques technologiques établis en application de l'article L. 515-15 du code de l'environnement.
 
 Servitudes d'utilité publique instituées en application de l'article L. 593-5 du code de l'environnement.
+
+Servitudes d'utilité publique instituées en application de l' article L. 566-12-2 du code de l'environnement.
 
 Un arrêté du ministre chargé de l'urbanisme fixe la légende des différentes servitudes d'utilité publique figurant sur cette liste.
 
