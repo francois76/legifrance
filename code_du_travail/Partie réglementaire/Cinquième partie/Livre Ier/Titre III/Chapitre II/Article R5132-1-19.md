@@ -1,6 +1,6 @@
 ###### Article R5132-1-19
 
-Le ministre chargé de l'emploi met à disposition un téléservice permettant d'accomplir les démarches relatives aux parcours d'insertion par l'activité économique.
+Le groupement d'intérêt public dénommé “ Plateforme de l'inclusion ” met à disposition un téléservice permettant d'accomplir les démarches relatives aux parcours d'insertion par l'activité économique.
 
 Le traitement de données à caractère personnel mis en œuvre dans ce cadre a pour finalités :
 

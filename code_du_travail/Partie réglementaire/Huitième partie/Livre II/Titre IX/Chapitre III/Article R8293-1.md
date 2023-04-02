@@ -2,7 +2,7 @@
 
 I.-Lors de l'embauche d'un salarié, l'employeur mentionné au premier et au quatrième alinéa de l'article R. 8291-1 adresse une déclaration auprès de l'union des caisses mentionnée à l'article R. 8291-2, afin d'obtenir une carte d'identification professionnelle.
 
-La déclaration est accompagnée des renseignements mentionnés au 1° et au 5° de l'article R. 8292-2, au 1° de l'article R. 8292-2 et au 1° et au 2° de l'article R. 8295-2 et de la photographie d'identité du salarié.
+La déclaration est accompagnée des renseignements mentionnés au 1° de l'article R. 8292-1, au 1° et 5° de l'article R. 8292-2, et au 1° et au 2° de l'article R. 8295-2 et de la photographie d'identité du salarié.
 
 Cette déclaration est effectuée par voie dématérialisée sur un site internet dédié de l'union des caisses mentionnée à l'article R. 8291-2.
 

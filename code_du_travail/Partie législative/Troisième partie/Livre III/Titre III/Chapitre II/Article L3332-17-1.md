@@ -1,6 +1,6 @@
 ###### Article L3332-17-1
 
-I. - Peut prétendre à l'agrément " entreprise solidaire d'utilité sociale " l'entreprise qui relève de l'article 1er de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire et qui remplit les conditions cumulatives suivantes :
+I.-Peut prétendre à l'agrément " entreprise solidaire d'utilité sociale " l'entreprise qui relève de l'article 1er de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire et qui remplit les conditions cumulatives suivantes :
 
 1° L'entreprise poursuit à titre principal l'un au moins des objectifs suivants :
 
@@ -20,7 +20,7 @@ b) Les sommes versées, y compris les primes, au salarié ou dirigeant le mieux 
 
 5° La condition mentionnée au 1° figure dans les statuts.
 
-II. - Bénéficient de plein droit de l'agrément mentionné au I, sous réserve de satisfaire aux conditions fixées à l'article 1er de la loi n° 2014-856 du 31 juillet 2014 précitée et aux conditions fixées aux 3° et 4° du I du présent article :
+II.-Bénéficient de plein droit de l'agrément mentionné au I, sous réserve de satisfaire aux conditions fixées à l'article 1er de la loi n° 2014-856 du 31 juillet 2014 précitée et aux conditions fixées aux 3° et 4° du I du présent article :
 
 1° Les entreprises d'insertion ;
 
@@ -54,13 +54,13 @@ II. - Bénéficient de plein droit de l'agrément mentionné au I, sous réserve
 
 16° Les personnes morales ayant conclu une convention mentionnée au deuxième alinéa de l'article L. 281-2-1 dudit code et dont la mission principale est d'assurer le projet de vie sociale et partagée.
 
-III. - Sont assimilés aux entreprises solidaires d'utilité sociale agréées en application du présent article :
+III.-Sont assimilés aux entreprises solidaires d'utilité sociale agréées en application du présent article :
 
 1° Les organismes de financement dont l'actif est composé pour au moins 35 % de titres émis par des entreprises de l'économie sociale et solidaire définies à l'article 1er de la loi n° 2014-856 du 31 juillet 2014 précitée dont au moins cinq septièmes de titres émis par des entreprises solidaires d'utilité sociale définies au présent article ;
 
 2° Les établissements de crédit dont au moins 80 % de l'ensemble des prêts et des investissements sont effectués en faveur des entreprises solidaires d'utilité sociale.
 
-IV. - Les entreprises solidaires d'utilité sociale sont agréées par l'autorité compétente.
+IV.-Les entreprises solidaires d'utilité sociale sont agréées par l'autorité compétente.
 
-V. - Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+V.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 

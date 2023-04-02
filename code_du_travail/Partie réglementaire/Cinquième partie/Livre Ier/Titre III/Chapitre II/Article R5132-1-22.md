@@ -2,7 +2,7 @@
 
 I.-L'information des personnes concernées est assurée conformément aux articles 13 et 14 du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, en particulier par l'intermédiaire du site internet du téléservice mentionné à l'article R. 5132-1-19.
 
-II.-Les droits d'accès et de rectification, ainsi que le droit à la limitation du traitement, prévus aux articles 15,16 et 18 du règlement (UE) n° 2016/679 s'exercent auprès de la délégation générale à l'emploi et à la formation professionnelle ou de ses sous-traitants.
+II.-Les droits d'accès et de rectification, ainsi que le droit à la limitation du traitement, prévus aux articles 15,16 et 18 du règlement (UE) n° 2016/679 s'exercent auprès du groupement d'intérêt public mentionné au premier alinéa de l'article R. 5132-1-19.
 
 Le titulaire d'un compte en tant que candidat ou bénéficiaire d'un parcours d'insertion dispose en outre d'un accès direct aux données à caractère personnel le concernant, en vue de les renseigner et de les mettre à jour.
 

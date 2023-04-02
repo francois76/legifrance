@@ -1,6 +1,6 @@
 ###### Article L2372-1
 
-La participation des salariés est mise en œuvre conformément aux articles L. 225-28 à L. 225-56 et , L. 225-79 à L. 225-93, L. 22-10-8 à L. 22-10-17 et L. 22-10-23 à L. 22-10-30 du code de commerce.
+La participation des salariés est mise en œuvre conformément aux articles L. 225-28 à L. 225-56 et, L. 225-79 à L. 225-93, L. 22-10-8 à L. 22-10-17 et L. 22-10-23 à L. 22-10-30 du code de commerce.
 
 Par dérogation au premier alinéa, un groupe spécial de négociation, doté de la personnalité juridique, est institué dès que possible après la publication du projet de fusion lorsque l'une des conditions suivantes est satisfaite :
 

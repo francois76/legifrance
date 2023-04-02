@@ -16,5 +16,7 @@ II.-Sont destinataires de tout ou partie des données à caractère personnel in
 
 2° De l'Agence de services et de paiement ;
 
-3° Des collectivités et organismes en charge d'une mission d'accueil ou d'accompagnement social ou professionnel, ou intervenant sur le dispositif d'insertion par l'activité économique, dont la liste est fixée par arrêté du ministre chargé de l'emploi.
+3° Des collectivités et organismes en charge d'une mission d'accueil ou d'accompagnement social ou professionnel, ou intervenant sur le dispositif d'insertion par l'activité économique, dont la liste est fixée par arrêté du ministre chargé de l'emploi ;
+
+4° De la délégation générale à l'emploi et à la formation professionnelle.
 
