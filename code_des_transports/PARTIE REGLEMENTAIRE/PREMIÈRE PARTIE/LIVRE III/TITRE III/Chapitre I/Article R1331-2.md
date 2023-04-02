@@ -10,9 +10,9 @@ IV.-Cette attestation est établie en langue française avant le début de la pr
 
 1° Le nom ou la raison sociale ainsi que les adresses postale et électronique, les coordonnées téléphoniques de l'entreprise ou de l'établissement qui emploie habituellement le salarié, la forme juridique de l'entreprise, son numéro individuel d'identification fiscale au titre de l'assujettissement à la taxe sur la valeur ajoutée, les noms, prénoms, date et lieu de naissance du ou des dirigeants, l'Etat auquel est attaché la législation de sécurité sociale dont il relève au titre de l'activité qu'il réalise en France et, s'il s'agit d'un Etat autre que la France, si un formulaire concernant la législation de sécurité sociale applicable a été demandé à l'institution compétente ;
 
-2° Les nom et prénoms, les date et lieu de naissance, l'adresse de résidence habituelle, la nationalité, la date de signature du contrat de travail et le droit du travail applicable au contrat de travail, la qualification professionnelle du salarié détaché ;
+2° Les nom et prénoms, les date et lieu de naissance, l'adresse de résidence habituelle, la nationalité, le droit du travail applicable au contrat de travail, la qualification professionnelle du salarié détaché ;
 
-3° Le taux de salaire horaire brut, converti en euros le cas échéant, ainsi que les modalités de prise en charge par l'entreprise de frais engagés pour l'hébergement et les repas, par jour de détachement, attribués au salarié détaché ;
+3° Le taux de salaire horaire brut, converti en euros le cas échéant ;
 
 4° La désignation d'un représentant de l'entreprise pendant la durée de la prestation en France et jusqu'à dix-huit mois après la fin de celle-ci, le nom ou la raison sociale ainsi que le numéro SIRET de la personne désignée pour exercer cette mission, les coordonnées électroniques et téléphoniques du représentant, le lieu de conservation sur le territoire national des documents mentionnés à l'article R. 1331-4 ou les modalités permettant d'y avoir accès et de les consulter depuis le territoire national ;
 
