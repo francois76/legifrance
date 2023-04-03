@@ -24,8 +24,5 @@ g) S'agissant des produits ou matériaux de construction du secteur du bâtiment
 
 h) S'agissant des pneumatiques mentionnés au 16° de l'article L. 541-10-1 :
 
-- les obligations de reprise prévues au I de l'article L. 541-10-8 s'appliquent sans seuil ;
-- les obligations de reprise prévues au II du même article s'appliquent aux distributeurs de pneumatiques destinés aux voitures particulières et camionnettes ainsi qu'aux distributeurs de pneumatiques destinés aux véhicules à moteur à deux ou trois roues disposant, dans les magasins de détail, d'une surface de vente consacrée à ces produits d'au moins 250 m2, la surface de vente étant définie comme l'ensemble des surfaces dédiées à la vente de pneumatiques, y compris les surfaces de stockages attenantes qui y sont affectées. Ces obligations de reprise ne sont applicables qu'aux déchets de pneumatiques détenus par des particuliers, dans la limite de huit pneumatiques usagés par an et par détenteur.
-
-Les distributeurs concernés par les dispositions de l'alinéa précédent peuvent demander aux personnes leur apportant des déchets de pneumatiques d'établir une attestation sur l'honneur certifiant qu'elles n'ont pas apporté plus de huit pneumatiques usagés à des distributeurs au cours de l'année.
+- les obligations de reprise prévues au I de l'article L. 541-10-8 s'appliquent sans seuil.
 
