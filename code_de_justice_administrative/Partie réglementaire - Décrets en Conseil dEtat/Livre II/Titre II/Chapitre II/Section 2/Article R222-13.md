@@ -20,5 +20,7 @@ Le président du tribunal administratif ou le magistrat qu'il désigne à cette 
 
 9° Sur les litiges relatifs au permis de conduire ;
 
-10° Sauf en matière de contrat de la commande publique sur toute action indemnitaire ne relevant pas des dispositions précédentes, lorsque le montant des indemnités demandées n'excède pas le montant déterminé par les articles R. 222-14 et R. 222-15.
+10° Sauf en matière de contrat de la commande publique sur toute action indemnitaire ne relevant pas des dispositions précédentes, lorsque le montant des indemnités demandées n'excède pas le montant déterminé par les articles R. 222-14 et R. 222-15 ;
+
+11° Sur les litiges relatifs à la désignation des électeurs sénatoriaux mentionnés à l'article L. 292 du code électoral.
 

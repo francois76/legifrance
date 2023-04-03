@@ -12,5 +12,7 @@ Sans préjudice de l'application des dispositions spécifiques à certains conte
 
 5° Taxe d'habitation et taxe foncière sur les propriétés bâties afférentes aux locaux d'habitation et à usage professionnel au sens de l'article 1496 du code général des impôts ainsi que contribution à l'audiovisuel public ;
 
-6° Prestation, allocation ou droit attribués au titre de l'aide ou de l'action sociale, du logement ou en faveur des travailleurs privés d'emploi.
+6° Prestation, allocation ou droit attribués au titre de l'aide ou de l'action sociale, du logement ou en faveur des travailleurs privés d'emploi ;
+
+7° Désignation des électeurs sénatoriaux.
 
