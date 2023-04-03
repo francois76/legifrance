@@ -4311,7 +4311,9 @@ Le président du tribunal administratif ou le magistrat qu'il désigne à cette 
 
 9° Sur les litiges relatifs au permis de conduire ;
 
-10° Sauf en matière de contrat de la commande publique sur toute action indemnitaire ne relevant pas des dispositions précédentes, lorsque le montant des indemnités demandées n'excède pas le montant déterminé par les articles R. 222-14 et R. 222-15.
+10° Sauf en matière de contrat de la commande publique sur toute action indemnitaire ne relevant pas des dispositions précédentes, lorsque le montant des indemnités demandées n'excède pas le montant déterminé par les articles R. 222-14 et R. 222-15 ;
+
+11° Sur les litiges relatifs à la désignation des électeurs sénatoriaux mentionnés à l'article L. 292 du code électoral.
 
 ###### Article R222-14
 
@@ -7782,7 +7784,9 @@ Sans préjudice de l'application des dispositions spécifiques à certains conte
 
 5° Taxe d'habitation et taxe foncière sur les propriétés bâties afférentes aux locaux d'habitation et à usage professionnel au sens de l'article 1496 du code général des impôts ainsi que contribution à l'audiovisuel public ;
 
-6° Prestation, allocation ou droit attribués au titre de l'aide ou de l'action sociale, du logement ou en faveur des travailleurs privés d'emploi.
+6° Prestation, allocation ou droit attribués au titre de l'aide ou de l'action sociale, du logement ou en faveur des travailleurs privés d'emploi ;
+
+7° Désignation des électeurs sénatoriaux.
 
 ##### Article R732-2
 
