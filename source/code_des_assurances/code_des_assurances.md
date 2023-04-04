@@ -1744,46 +1744,6 @@ La valeur de transfert des plans d'épargne retraite et des sous-comptes frança
 
 #### Chapitre III : Retraite professionnelle supplémentaire
 
-##### Article L143-1
-
-La présente section s'applique aux opérations pratiquées par les fonds de retraite professionnelle supplémentaire dans le cadre de leur agrément administratif. Peuvent être proposés, dans le cadre de cet agrément, les contrats ayant pour objet la fourniture de prestations de retraite liées à une activité professionnelle, versées en supplément des prestations servies par les régimes de base et complémentaires légalement obligatoires ou attribuées par référence à la perspective d'atteindre la retraite. Ces contrats sont souscrits :
-
-1° Par un employeur ou un groupe d'employeurs au profit de leurs salariés ou anciens salariés, ou par un groupe professionnel représentatif d'employeurs au profit des salariés ou anciens salariés de ceux-ci. Ils revêtent un caractère collectif déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale ;
-
-2° Ou par une association mentionnée à l'article L. 144-1.
-
-##### Article L143-2
-
-Les prestations relatives aux contrats mentionnés à l'article L. 143-1 peuvent prévoir des garanties complémentaires en cas de décès de l'adhérent avant ou après la cessation d'activité professionnelle, ainsi qu'en cas d'invalidité et d'incapacité.
-
-Les droits individuels en cours de constitution relatifs aux contrats mentionnés à l'article L. 143-1 sont transférables vers un autre contrat mentionné à l'article L. 143-1, ainsi que, dans des conditions et des limites fixées par décret, vers un plan d'épargne retraite populaire défini à l'article L. 144-2. Ces droits sont également transférables vers un contrat offrant les prestations mentionnées à l'article L. 143-1, mais n'ayant pas été souscrit dans le cadre de l'agrément administratif mentionné au premier alinéa de cet article et réciproquement. La notice d'information précise les modalités d'exercice de la clause de transférabilité. Toutefois, lorsque l'adhésion à ces contrats revêt un caractère obligatoire déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale, les droits individuels relatifs à ces contrats ne sont transférables que lorsque le participant n'est plus tenu d'y adhérer.
-
-Il est institué, pour chaque contrat mentionné au 1° de l'article L. 143-1 dont le nombre des adhérents est supérieur à un seuil fixé par arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité, un comité de surveillance chargé de veiller à la bonne exécution du contrat et à la représentation des intérêts des adhérents. Ce comité est formé dans les six mois suivant le franchissement du seuil mentionné à la première phrase. Il est composé à parts égales de représentants des salariés et des employeurs. Les membres du comité de surveillance sont tenus au secret professionnel à l'égard des informations présentant un caractère confidentiel et données comme telles par les personnes consultées dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Le comité peut entendre le ou les commissaires aux comptes compétents, qui sont déliés de l'obligation du secret professionnel à l'égard du comité en ce qui concerne les comptes concernés. Lorsque, pour un même fonds de retraite professionnelle supplémentaire, un même souscripteur a souscrit plusieurs contrats pour lesquels doit être instauré un comité de surveillance, les comités de surveillance de ces contrats peuvent être regroupés au sein d'un unique comité chargé de veiller à la bonne exécution de l'ensemble des contrats concernés et à la représentation des intérêts des adhérents de l'ensemble de ces contrats.
-
-Par dérogation à l'alinéa précédent, les missions du comité de surveillance peuvent être confiées à une autre instance qui se substitue à lui, à condition que cette instance soit représentative, à parts égales, des salariés et des employeurs du contrat concerné et sous réserve que les membres de cette instance soient tenus aux mêmes obligations de secret professionnel que celles prévues pour les membres d'un comité de surveillance
-
-Les deuxième et troisième alinéas ne s'appliquent ni aux contrats à prestations définies bénéficiant du régime prévu au 2° et au 2° 0 bis de l'article 83 du code général des impôts, ni à ceux entrant dans le champ d'application de l'article L. 137-11 et de l'article L. 137-11-2 du code de la sécurité sociale. Ils ne s'appliquent pas non plus aux contrats ayant pour seul objet la prestation d'indemnités de départ en retraite mentionnées à l'article L. 1237-9 du code du travail.
-
-##### Article L143-2-1
-
-Les actifs de chaque contrat relevant de la présente section et faisant l'objet d'une comptabilité auxiliaire d'affectation sont conservés par un ou plusieurs dépositaires distincts du fonds de retraite professionnelle supplémentaire, qui exercent à titre principal le service mentionné au 1° de l'article L. 321-2 du code monétaire et financier et sont agréés en France ou dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen.
-
-Les autres actifs du fonds de retraite professionnelle supplémentaire sont également conservés par un ou plusieurs dépositaires distincts du fonds, dans les mêmes conditions.
-
-##### Article L143-2-2
-
-La notice mentionnée à l'article L. 141-4 indique que le contrat souscrit est un contrat de retraite professionnelle supplémentaire relevant de la présente section. Un arrêté du ministre chargé de l'économie fixe la liste des informations minimales que contient cette notice.
-
-Lors de la liquidation de ses droits, le fonds de retraite professionnelle supplémentaire informe chaque adhérent et bénéficiaire, dans des conditions définies par arrêté du ministre chargé de l'économie, du montant des prestations qui lui sont dues et des options de paiement correspondantes.
-
-Le fonds de retraite professionnelle supplémentaire établit et révise au moins tous les trois ans, globalement pour les opérations relevant de la présente section, un rapport indiquant sa politique de placement et les risques techniques et financiers correspondants. Il précise également les méthodes d'évaluation des risques d'investissement, les techniques de gestion des risques mises en œuvre et la répartition stratégique des actifs eu égard à la nature et à la durée des engagements de retraite, ainsi que la manière dont la politique d'investissement prend en considération les facteurs environnementaux, sociaux et de gouvernance. Ce rapport est mis à jour dans un délai de trois mois après tout changement majeur de la politique de placement. Il est mis à disposition du souscripteur, de l'adhérent et du bénéficiaire. Un arrêté du ministre chargé de l'économie précise le contenu du rapport et les autres informations qui, sur demande ou périodiquement, doivent être remises aux adhérents.
-
-Dès qu'un évènement engendre une variation significative des provisions techniques, le fonds de retraite professionnelle supplémentaire en informe par écrit les affiliés.
-
-##### Article L143-9
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre, notamment les règles techniques et de garantie applicables aux opérations mentionnées à l'article L. 143-1, les modalités de constitution et de fonctionnement du comité de surveillance mentionné à l'article L. 143-2 et les possibilités d'inclusion du rapport mentionné à l'article L. 143-2-2 dans le rapport sur la solvabilité et la situation financière du fonds de retraite professionnelle supplémentaire concerné ainsi que les modalités de sa mise à disposition.
-
 ##### Section I : Dispositions générales
 
 ###### Article L143-0
@@ -1805,6 +1765,42 @@ L'assureur informe le bénéficiaire, chaque année et le cas échéant sur dema
 Le présent article n'est pas applicable aux régimes relevant de l'article L. 137-11 du code de la sécurité sociale qui ont cessé au plus tard le 20 mai 2014 d'accepter de nouveaux affiliés actifs et restent fermés depuis au moins cette date à de nouvelles affiliations.
 
 ##### Section II : Opérations pratiquées par les fonds de retraite professionnelle supplémentaire
+
+###### Article L143-1
+
+La présente section s'applique aux opérations pratiquées par les fonds de retraite professionnelle supplémentaire dans le cadre de leur agrément administratif. Peuvent être proposés, dans le cadre de cet agrément, les contrats ayant pour objet la fourniture de prestations de retraite liées à une activité professionnelle, versées en supplément des prestations servies par les régimes de base et complémentaires légalement obligatoires ou attribuées par référence à la perspective d'atteindre la retraite. Ces contrats sont souscrits :
+
+1° Par un employeur ou un groupe d'employeurs au profit de leurs salariés ou anciens salariés, ou par un groupe professionnel représentatif d'employeurs au profit des salariés ou anciens salariés de ceux-ci. Ils revêtent un caractère collectif déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale ;
+
+2° Ou par une association mentionnée à l'article L. 144-1.
+
+###### Article L143-2
+
+Les prestations relatives aux contrats mentionnés à l'article L. 143-1 peuvent prévoir des garanties complémentaires en cas de décès de l'adhérent avant ou après la cessation d'activité professionnelle, ainsi qu'en cas d'invalidité et d'incapacité.
+
+Les droits individuels en cours de constitution relatifs aux contrats mentionnés à l'article L. 143-1 sont transférables vers un autre contrat mentionné à l'article L. 143-1, ainsi que, dans des conditions et des limites fixées par décret, vers un plan d'épargne retraite populaire défini à l'article L. 144-2. Ces droits sont également transférables vers un contrat offrant les prestations mentionnées à l'article L. 143-1, mais n'ayant pas été souscrit dans le cadre de l'agrément administratif mentionné au premier alinéa de cet article et réciproquement. La notice d'information précise les modalités d'exercice de la clause de transférabilité. Toutefois, lorsque l'adhésion à ces contrats revêt un caractère obligatoire déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale, les droits individuels relatifs à ces contrats ne sont transférables que lorsque le participant n'est plus tenu d'y adhérer.
+
+Il est institué, pour chaque contrat mentionné au 1° de l'article L. 143-1 dont le nombre des adhérents est supérieur à un seuil fixé par arrêté des ministres chargés de l'économie, de la sécurité sociale et de la mutualité, un comité de surveillance chargé de veiller à la bonne exécution du contrat et à la représentation des intérêts des adhérents. Ce comité est formé dans les six mois suivant le franchissement du seuil mentionné à la première phrase. Il est composé à parts égales de représentants des salariés et des employeurs. Les membres du comité de surveillance sont tenus au secret professionnel à l'égard des informations présentant un caractère confidentiel et données comme telles par les personnes consultées dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Le comité peut entendre le ou les commissaires aux comptes compétents, qui sont déliés de l'obligation du secret professionnel à l'égard du comité en ce qui concerne les comptes concernés. Lorsque, pour un même fonds de retraite professionnelle supplémentaire, un même souscripteur a souscrit plusieurs contrats pour lesquels doit être instauré un comité de surveillance, les comités de surveillance de ces contrats peuvent être regroupés au sein d'un unique comité chargé de veiller à la bonne exécution de l'ensemble des contrats concernés et à la représentation des intérêts des adhérents de l'ensemble de ces contrats.
+
+Par dérogation à l'alinéa précédent, les missions du comité de surveillance peuvent être confiées à une autre instance qui se substitue à lui, à condition que cette instance soit représentative, à parts égales, des salariés et des employeurs du contrat concerné et sous réserve que les membres de cette instance soient tenus aux mêmes obligations de secret professionnel que celles prévues pour les membres d'un comité de surveillance
+
+Les deuxième et troisième alinéas ne s'appliquent ni aux contrats à prestations définies bénéficiant du régime prévu au 2° et au 2° 0 bis de l'article 83 du code général des impôts, ni à ceux entrant dans le champ d'application de l'article L. 137-11 et de l'article L. 137-11-2 du code de la sécurité sociale. Ils ne s'appliquent pas non plus aux contrats ayant pour seul objet la prestation d'indemnités de départ en retraite mentionnées à l'article L. 1237-9 du code du travail.
+
+###### Article L143-2-1
+
+Les actifs de chaque contrat relevant de la présente section et faisant l'objet d'une comptabilité auxiliaire d'affectation sont conservés par un ou plusieurs dépositaires distincts du fonds de retraite professionnelle supplémentaire, qui exercent à titre principal le service mentionné au 1° de l'article L. 321-2 du code monétaire et financier et sont agréés en France ou dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen.
+
+Les autres actifs du fonds de retraite professionnelle supplémentaire sont également conservés par un ou plusieurs dépositaires distincts du fonds, dans les mêmes conditions.
+
+###### Article L143-2-2
+
+La notice mentionnée à l'article L. 141-4 indique que le contrat souscrit est un contrat de retraite professionnelle supplémentaire relevant de la présente section. Un arrêté du ministre chargé de l'économie fixe la liste des informations minimales que contient cette notice.
+
+Lors de la liquidation de ses droits, le fonds de retraite professionnelle supplémentaire informe chaque adhérent et bénéficiaire, dans des conditions définies par arrêté du ministre chargé de l'économie, du montant des prestations qui lui sont dues et des options de paiement correspondantes.
+
+Le fonds de retraite professionnelle supplémentaire établit et révise au moins tous les trois ans, globalement pour les opérations relevant de la présente section, un rapport indiquant sa politique de placement et les risques techniques et financiers correspondants. Il précise également les méthodes d'évaluation des risques d'investissement, les techniques de gestion des risques mises en œuvre et la répartition stratégique des actifs eu égard à la nature et à la durée des engagements de retraite, ainsi que la manière dont la politique d'investissement prend en considération les facteurs environnementaux, sociaux et de gouvernance. Ce rapport est mis à jour dans un délai de trois mois après tout changement majeur de la politique de placement. Il est mis à disposition du souscripteur, de l'adhérent et du bénéficiaire. Un arrêté du ministre chargé de l'économie précise le contenu du rapport et les autres informations qui, sur demande ou périodiquement, doivent être remises aux adhérents.
+
+Dès qu'un évènement engendre une variation significative des provisions techniques, le fonds de retraite professionnelle supplémentaire en informe par écrit les affiliés.
 
 ###### Article L143-2-3
 
@@ -1829,6 +1825,10 @@ Pour l'application des articles mentionnés au premier alinéa au fonds de retra
 2° “ Fonds de retraite professionnelle supplémentaire ” là où est mentionné : “ société de gestion de portefeuille ” ;
 
 3° “ Affilié à un contrat garanti par le fonds de retraite professionnelle supplémentaire ” là où est mentionné : “ porteurs de parts ou actionnaires ”.
+
+###### Article L143-9
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre, notamment les règles techniques et de garantie applicables aux opérations mentionnées à l'article L. 143-1, les modalités de constitution et de fonctionnement du comité de surveillance mentionné à l'article L. 143-2 et les possibilités d'inclusion du rapport mentionné à l'article L. 143-2-2 dans le rapport sur la solvabilité et la situation financière du fonds de retraite professionnelle supplémentaire concerné ainsi que les modalités de sa mise à disposition.
 
 #### Chapitre IV : Contrats de prévoyance et de retraite supplémentaire souscrits par des associations
 

@@ -1,2 +1,4 @@
 0000000000000000000000000000000000000000 2643ded2b5f8b8287d96c282dcf99c016b6a3c34 francoisgognet <fgognet@gmail.com> 1678137977 +0100	clone: from https://archeo-lex.fr/codes/code_des_assurances
 2643ded2b5f8b8287d96c282dcf99c016b6a3c34 f12e7c33f2eb0e7b2c15de4edf763a6980bd1b78 Github action <github@users.noreply.github.com> 1679017252 +0000	pull --rebase: Fast-forward
+f12e7c33f2eb0e7b2c15de4edf763a6980bd1b78 04cab422153462c14e5ad6121ce30ae763a31ebd Github action <github@users.noreply.github.com> 1680572315 +0000	pull --rebase (start): checkout 04cab422153462c14e5ad6121ce30ae763a31ebd
+04cab422153462c14e5ad6121ce30ae763a31ebd 04cab422153462c14e5ad6121ce30ae763a31ebd Github action <github@users.noreply.github.com> 1680572315 +0000	pull --rebase (finish): returning to refs/heads/texte
