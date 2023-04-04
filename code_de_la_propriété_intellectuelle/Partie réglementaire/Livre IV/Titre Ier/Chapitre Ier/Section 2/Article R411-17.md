@@ -1,6 +1,6 @@
 ###### Article R411-17
 
-L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont fixés par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre chargé du budget, à l'occasion des procédures et formalités suivantes :
+I. - L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont fixés par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre chargé du budget, à l'occasion des procédures et formalités suivantes :
 
 1° Pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
 
@@ -44,7 +44,6 @@ L'Institut national de la propriété industrielle perçoit des redevances, dont
 - dépôt ;
 - prorogation ;
 - régularisation, rectification, relevé de déchéance ;
-- enregistrement et gardiennage d'enveloppe spéciale ;
 
 6° Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles.-Palmarès et récompenses :
 
@@ -73,4 +72,10 @@ Sont également remboursées :
 
 - la redevance de rapport de recherche d'un brevet d'invention lorsqu'il est mis fin à la procédure de délivrance du brevet ou en cas de prorogation des interdictions de divulgation et de libre exploitation, si la procédure d'établissement du rapport de recherche n'a pas été engagée ;
 - la redevance de requête en limitation d'un brevet d'invention lorsqu'il est mis fin à la procédure de limitation dans les conditions prévues à l'article R. 613-45-3.
+
+II. - L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont fixés par délibération de son conseil d'administration, à l'occasion des procédures et formalités suivantes :
+
+1° La communication des pièces et actes dont il assure la conservation ;
+
+2° L'enregistrement et, le cas échéant, la conservation et la restitution d'enveloppes destinées à faciliter la preuve du contenu et la datation certaine des demandes annexes à la propriété industrielle.
 

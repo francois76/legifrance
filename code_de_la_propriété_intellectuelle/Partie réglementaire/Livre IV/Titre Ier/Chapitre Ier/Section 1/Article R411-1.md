@@ -12,7 +12,7 @@ L'Institut national de la propriété industrielle a notamment pour attributions
 
 4° L'organisation du dépôt, de la conservation et de la mise à disposition du public des cultures de micro-organismes utilisés par une invention pour laquelle un brevet est demandé ;
 
-5° La centralisation et la conservation des dépôts de dessins et modèles et leur publication, ainsi que l'enregistrement et la conservation du dépôt des enveloppes doubles destinées à faciliter la preuve de la création des dessins et modèles ;
+5° La centralisation, l'enregistrement, la conservation des dépôts de dessins et modèles et leur publication ;
 
 6° La tenue des registres de brevets, des marques et des dessins et modèles, l'inscription de tous actes affectant la propriété des brevets d'invention, des marques de produits ou de services et des dessins et modèles ;
 
@@ -32,7 +32,9 @@ L'Institut national de la propriété industrielle a notamment pour attributions
 
 14° L'examen des demandes d'homologation et des demandes de modification des cahiers des charges des indications géographiques définies à l'article L. 721-2, l'homologation et le retrait d'homologation de ces cahiers des charges ;
 
-15° La gestion, en sa qualité d’organisme unique prévu par l’article L. 123-33 du code de commerce, du service informatique mentionné à l’article R. 123-2 du même code, ainsi que la gestion du service informatique mentionné à l’article R. 123-30-9 du même code.
+15° La gestion, en sa qualité d’organisme unique prévu par l’article L. 123-33 du code de commerce, du service informatique mentionné à l’article R. 123-2 du même code, ainsi que la gestion du service informatique mentionné à l’article R. 123-30-9 du même code ;
+
+16° L'enregistrement et, le cas échéant, la conservation et la restitution d'enveloppes destinées à faciliter la preuve du contenu et la datation certaine des demandes annexes à la propriété industrielle, dans des conditions fixées par décision de son directeur général. Cette décision peut prévoir que ce dépôt, ainsi que toute transmission ou communication relative à cette procédure, s'effectue uniquement sous forme électronique.
 
 Pour l'exploitation de son fonds documentaire, l'institut peut constituer des banques de données, le cas échéant, en liaison avec d'autres fichiers ou registres. Il peut à cette fin constituer des sociétés filiales ou prendre des participations financières.
 
