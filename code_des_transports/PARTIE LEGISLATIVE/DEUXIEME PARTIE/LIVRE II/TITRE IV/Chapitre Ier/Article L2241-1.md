@@ -1,6 +1,6 @@
 ###### Article L2241-1
 
-I.-Sont chargés de constater par procès-verbaux les infractions aux dispositions du présent titre, les contraventions prévues à l'article 621-1 du code pénal ainsi que les contraventions prévues par les règlements relatifs à la police ou à la sûreté du transport et à la sécurité de l'exploitation des systèmes de transport ferroviaire ou guidé, outre les officiers et les agents de police judiciaire :
+I.-Sont chargés de constater par procès-verbaux les infractions aux dispositions du présent titre, la contravention d'outrage sexiste et sexuel, le délit prévu à l'article 222-33-1-1 du code pénal ainsi que les contraventions prévues par les règlements relatifs à la police ou à la sûreté du transport et à la sécurité de l'exploitation des systèmes de transport ferroviaire ou guidé, outre les officiers et les agents de police judiciaire :
 
 1° Les fonctionnaires ou agents de l'Etat assermentés missionnés à cette fin et placés sous l'autorité du ministre chargé des transports ;
 
