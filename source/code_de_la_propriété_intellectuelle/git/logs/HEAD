@@ -1,3 +1,4 @@
 0000000000000000000000000000000000000000 c0e03934e116166529278d0b9418595c97fa47fb francoisgognet <fgognet@gmail.com> 1678137914 +0100	clone: from https://archeo-lex.fr/codes/code_de_la_propriété_intellectuelle
 c0e03934e116166529278d0b9418595c97fa47fb 98696cf8ed8d615f23c7f7dd422de084c6158d6b Github action <github@users.noreply.github.com> 1680054349 +0000	pull --rebase (start): checkout 98696cf8ed8d615f23c7f7dd422de084c6158d6b
 98696cf8ed8d615f23c7f7dd422de084c6158d6b 98696cf8ed8d615f23c7f7dd422de084c6158d6b Github action <github@users.noreply.github.com> 1680054349 +0000	pull --rebase (finish): returning to refs/heads/texte
+98696cf8ed8d615f23c7f7dd422de084c6158d6b 4f39c55b8ae6154e7d531870e61829a5cb669edc Github action <github@users.noreply.github.com> 1680572259 +0000	pull --rebase: Fast-forward

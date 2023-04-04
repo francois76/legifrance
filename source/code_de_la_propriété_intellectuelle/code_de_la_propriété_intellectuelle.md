@@ -11992,7 +11992,7 @@ L'Institut national de la propriété industrielle a notamment pour attributions
 
 4° L'organisation du dépôt, de la conservation et de la mise à disposition du public des cultures de micro-organismes utilisés par une invention pour laquelle un brevet est demandé ;
 
-5° La centralisation et la conservation des dépôts de dessins et modèles et leur publication, ainsi que l'enregistrement et la conservation du dépôt des enveloppes doubles destinées à faciliter la preuve de la création des dessins et modèles ;
+5° La centralisation, l'enregistrement, la conservation des dépôts de dessins et modèles et leur publication ;
 
 6° La tenue des registres de brevets, des marques et des dessins et modèles, l'inscription de tous actes affectant la propriété des brevets d'invention, des marques de produits ou de services et des dessins et modèles ;
 
@@ -12012,7 +12012,9 @@ L'Institut national de la propriété industrielle a notamment pour attributions
 
 14° L'examen des demandes d'homologation et des demandes de modification des cahiers des charges des indications géographiques définies à l'article L. 721-2, l'homologation et le retrait d'homologation de ces cahiers des charges ;
 
-15° La gestion, en sa qualité d’organisme unique prévu par l’article L. 123-33 du code de commerce, du service informatique mentionné à l’article R. 123-2 du même code, ainsi que la gestion du service informatique mentionné à l’article R. 123-30-9 du même code.
+15° La gestion, en sa qualité d’organisme unique prévu par l’article L. 123-33 du code de commerce, du service informatique mentionné à l’article R. 123-2 du même code, ainsi que la gestion du service informatique mentionné à l’article R. 123-30-9 du même code ;
+
+16° L'enregistrement et, le cas échéant, la conservation et la restitution d'enveloppes destinées à faciliter la preuve du contenu et la datation certaine des demandes annexes à la propriété industrielle, dans des conditions fixées par décision de son directeur général. Cette décision peut prévoir que ce dépôt, ainsi que toute transmission ou communication relative à cette procédure, s'effectue uniquement sous forme électronique.
 
 Pour l'exploitation de son fonds documentaire, l'institut peut constituer des banques de données, le cas échéant, en liaison avec d'autres fichiers ou registres. Il peut à cette fin constituer des sociétés filiales ou prendre des participations financières.
 
@@ -12184,7 +12186,7 @@ Les règles relatives à la comptabilité, à la forme des budgets et des compte
 
 ###### Article R411-17
 
-L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont fixés par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre chargé du budget, à l'occasion des procédures et formalités suivantes :
+I. - L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont fixés par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre chargé du budget, à l'occasion des procédures et formalités suivantes :
 
 1° Pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
 
@@ -12228,7 +12230,6 @@ L'Institut national de la propriété industrielle perçoit des redevances, dont
 - dépôt ;
 - prorogation ;
 - régularisation, rectification, relevé de déchéance ;
-- enregistrement et gardiennage d'enveloppe spéciale ;
 
 6° Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles.-Palmarès et récompenses :
 
@@ -12258,13 +12259,19 @@ Sont également remboursées :
 - la redevance de rapport de recherche d'un brevet d'invention lorsqu'il est mis fin à la procédure de délivrance du brevet ou en cas de prorogation des interdictions de divulgation et de libre exploitation, si la procédure d'établissement du rapport de recherche n'a pas été engagée ;
 - la redevance de requête en limitation d'un brevet d'invention lorsqu'il est mis fin à la procédure de limitation dans les conditions prévues à l'article R. 613-45-3.
 
+II. - L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont fixés par délibération de son conseil d'administration, à l'occasion des procédures et formalités suivantes :
+
+1° La communication des pièces et actes dont il assure la conservation ;
+
+2° L'enregistrement et, le cas échéant, la conservation et la restitution d'enveloppes destinées à faciliter la preuve du contenu et la datation certaine des demandes annexes à la propriété industrielle.
+
 ###### Article R411-17-1
 
 L'Institut national de la propriété industrielle perçoit les droits prévus au II de l'article L. 123-54 du code de commerce.
 
 ###### Article R411-18
 
-Les recettes accessoires que l'Institut national de la propriété industrielle peut percevoir à l'occasion de la communication des pièces et actes dont il assure la conservation, de l'exploitation de son fonds documentaire et de la vente de ses publications sont instituées par des délibérations du conseil d'administration qui en fixent les modalités de perception et le montant.
+Les recettes accessoires que l'Institut national de la propriété industrielle peut percevoir à l'occasion de l'exploitation de son fonds documentaire et de la vente de ses publications sont instituées par décision de son directeur général qui en fixe les modalités de perception et le montant.
 
 ##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle
 
@@ -13420,7 +13427,7 @@ Les informations générales sur le droit de la propriété industrielle accompa
 
 ###### Article R511-1
 
-Tout créateur de dessins ou modèles appartenant à l'une des industries visées à l'article R. 511-2 ou à des industries similaires ayant intérêt à faire constater la date de création de dessins ou de modèles peut recourir à cet effet aux moyens de preuve prévus aux articles R. 511-3 à R. 511-6.
+Tout créateur de dessins ou modèles appartenant à l'une des industries visées à l'article R. 511-2 ou à des industries similaires ayant intérêt à faire constater la date de création de dessins ou de modèles peut recourir à cet effet aux moyens de preuve prévus aux articles R. 511-3 à R. 511-5 .
 
 ###### Article R511-2
 
@@ -13441,12 +13448,6 @@ Les documents ainsi copiés ou reproduits ne doivent occuper qu'un seul côté d
 ###### Article R511-5
 
 L'un ou l'autre de ces registres, régulièrement tenu par ordre de dates, sans blanc ni lacune, peut, en cas de contestations, être produit en vue d'établir la date de la création dont la priorité est discutée.
-
-###### Article R511-6
-
-En vue de compléter les preuves tirées de la tenue des registres sus-énoncés, les intéressés sont autorisés à établir en deux exemplaires identiques les dessins pour lesquels ils désirent s'assurer la date de priorité de création et à adresser ces deux exemplaires à l'Institut national de propriété industrielle, qui, après inscription et perforation de la date d'arrivée, retourne l'un d'eux à l'envoyeur et place l'autre dans ses archives.
-
-Un arrêté ministériel détermine les conditions d'envoi, de gardiennage et de restitution des dessins.
 
 #### Chapitre II : Formalités de dépôt
 
@@ -17882,7 +17883,7 @@ Les articles R. 321-4-1, R. 321-29, R. 328-1 à R. 328-8, R. 329-13 à R. 329-20
  </tr>
  <tr>
   <td align="center">Article R. 411-1</td>
-  <td align="center">Décret n° 2020-225 du 6 mars 2020</td>
+  <td align="center">Décret n° 2023-166 du 7 mars 2023</td>
  </tr>
  <tr>
   <td align="center">Articles R. 411-1-1 et R. 411-1-2</td>
@@ -17926,11 +17927,11 @@ Les articles R. 321-4-1, R. 321-29, R. 328-1 à R. 328-8, R. 329-13 à R. 329-20
  </tr>
  <tr>
   <td align="center">Article R. 411-17</td>
-  <td align="center">Décret n° 2020-225 du 6 mars 2020</td>
+  <td align="center">Décret n° 2023-166 du 7 mars 2023</td>
  </tr>
  <tr>
   <td align="center">Article R. 411-18</td>
-  <td align="center">Décret n° 95-385 du 10 avril 1995</td>
+  <td align="center">Décret n° 2023-166 du 7 mars 2023</td>
  </tr>
  <tr>
   <td align="center">Article R. 411-19</td>
