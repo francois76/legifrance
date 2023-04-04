@@ -3881,7 +3881,7 @@ Sont applicables en Polynésie française, dans leur rédaction résultant de la
 
 ##### Article L446-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2022-52 du 24 janvier 2022 relative à la responsabilité pénale et à la sécurité intérieure, les dispositions du présent livre, sous réserve des adaptations suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2022-52 du 24 janvier 2022 relative à la responsabilité pénale et à la sécurité intérieure, les dispositions du présent livre, sous réserve des adaptations suivantes :
 
 1° Lorsqu'ils sont exécutés en Nouvelle-Calédonie, le contrat de droit public des policiers adjoints mentionné à l'article L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations expresses contraires, aux dispositions applicables localement ;
 
