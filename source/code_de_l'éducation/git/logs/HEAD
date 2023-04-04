@@ -1,3 +1,5 @@
 0000000000000000000000000000000000000000 e17526c85afcc3eadbf42c630c286d4333a94c82 francoisgognet <fgognet@gmail.com> 1678137846 +0100	clone: from https://archeo-lex.fr/codes/code_de_l'éducation
 e17526c85afcc3eadbf42c630c286d4333a94c82 a82572ddbdf3c0c1ebe5a8922c3d46f2fed8db4e Github action <github@users.noreply.github.com> 1678633039 +0000	pull: Fast-forward
 a82572ddbdf3c0c1ebe5a8922c3d46f2fed8db4e 43c5c1ddf4c0eb954fbbe3037b7465ad51389a14 Github action <github@users.noreply.github.com> 1679362088 +0000	pull --rebase: Fast-forward
+43c5c1ddf4c0eb954fbbe3037b7465ad51389a14 826685b48d64ca1498a67d3335324d4b4ecb2722 Github action <github@users.noreply.github.com> 1680572190 +0000	pull --rebase (start): checkout 826685b48d64ca1498a67d3335324d4b4ecb2722
+826685b48d64ca1498a67d3335324d4b4ecb2722 826685b48d64ca1498a67d3335324d4b4ecb2722 Github action <github@users.noreply.github.com> 1680572190 +0000	pull --rebase (finish): returning to refs/heads/texte
