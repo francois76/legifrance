@@ -3200,7 +3200,31 @@ Les personnes morales déclarées responsables pénalement, dans les conditions 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
-##### Section 3 bis : Du harcèlement moral
+##### Section 4 : De l'outrage sexiste et sexuel
+
+###### Article 222-33-1-1
+
+I.-Est puni de 3 750 euros d'amende le fait, hors les cas prévus aux articles 222-13,222-32,222-33,222-33-2-2 et 222-33-2-3, d'imposer à une personne tout propos ou tout comportement à connotation sexuelle ou sexiste qui soit porte atteinte à sa dignité en raison de son caractère dégradant ou humiliant, soit crée à son encontre une situation intimidante, hostile ou offensante, lorsque ce fait est commis :
+
+1° Par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
+
+2° Sur un mineur ;
+
+3° Sur une personne dont la particulière vulnérabilité due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse est apparente ou connue de son auteur ;
+
+4° Sur une personne dont la particulière vulnérabilité ou dépendance résultant de la précarité de sa situation économique ou sociale est apparente ou connue de son auteur ;
+
+5° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+
+6° Dans un véhicule affecté au transport collectif de voyageurs ou au transport public particulier ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs ;
+
+7° En raison de l'orientation sexuelle ou de l'identité de genre, vraie ou supposée, de la victime ;
+
+8° Par une personne déjà condamnée pour la contravention d'outrage sexiste et sexuel et qui commet la même infraction en étant en état de récidive dans les conditions prévues au second alinéa de l'article 132-11.
+
+II.-Pour le délit prévu au I du présent article, y compris en cas de récidive, l'action publique peut être éteinte, dans les conditions prévues aux articles 495-17 à 495-25 du code de procédure pénale, par le versement d'une amende forfaitaire d'un montant de 300 euros. Le montant de l'amende forfaitaire minorée est de 250 euros et le montant de l'amende forfaitaire majorée est de 600 euros.
+
+##### Section 5 : Du harcèlement moral
 
 ###### Article 222-33-2
 
@@ -3250,7 +3274,7 @@ Les peines sont portées à dix ans d'emprisonnement et à 150 000 € d'amende 
 
 Le présent article est également applicable lorsque la commission des faits mentionnés au premier alinéa du présent article se poursuit alors que l'auteur ou la victime n'étudie plus ou n'exerce plus au sein de l'établissement.
 
-##### Section 3 ter : De l'enregistrement et de la diffusion d'images de violence
+##### Section 6 : De l'enregistrement et de la diffusion d'images de violence
 
 ###### Article 222-33-3
 
@@ -3260,7 +3284,7 @@ Le fait de diffuser l'enregistrement de telles images est puni de cinq ans d'emp
 
 Le présent article n'est pas applicable lorsque l'enregistrement ou la diffusion résulte de l'exercice normal d'une profession ayant pour objet d'informer le public ou est réalisé afin de servir de preuve en justice.
 
-##### Section 4 : Du trafic de stupéfiants
+##### Section 7 : Du trafic de stupéfiants
 
 ###### Article 222-34
 
@@ -3332,11 +3356,11 @@ La peine privative de liberté encourue par l'auteur ou le complice des infracti
 
 Toute personne qui a tenté de commettre les infractions prévues par la présente section est exempte de peine si, ayant averti l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas échéant, les autres auteurs ou complices.
 
-##### Section 5 : Peines complémentaires applicables aux personnes physiques
+##### Section 8 : Peines complémentaires applicables aux personnes physiques
 
 ###### Article 222-44
 
-I.-Les personnes physiques coupables des infractions prévues aux sections 1 à 4 du présent chapitre encourent également les peines complémentaires suivantes :
+I.-Les personnes physiques coupables des infractions prévues aux sections 1 à 7, à l'exception de la section 4 du présent chapitre encourent également les peines complémentaires suivantes :
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit, pour les infractions prévues par les articles 222-1 à 222-6,222-7,222-8,222-10, les 1° et 2° de l'article 222-14, les 1° à 3° de l'article 222-14-1, les articles 222-15,222-23 à 222-26,222-34,
 222-35,222-36,222-37,222-38 et 222-39, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ;
@@ -3375,13 +3399,13 @@ L. 413-1 du code de la route ou pour la contravention mentionnée à ce même ar
 
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 222-19-1 donne lieu de plein droit à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus.
 
-II.-En cas de condamnation pour les crimes ou pour les délits commis avec une arme prévus aux sections 1,3,3 ter et 4 du présent chapitre, le prononcé des peines complémentaires prévues aux 2° et 6° du I est obligatoire. La durée de la peine prévue au 2° du I est portée à quinze ans au plus.
+II.-En cas de condamnation pour les crimes ou pour les délits commis avec une arme prévus aux sections 1,3, 6 et 7 du présent chapitre, le prononcé des peines complémentaires prévues aux 2° et 6° du I est obligatoire. La durée de la peine prévue au 2° du I est portée à quinze ans au plus.
 
 Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une juridiction correctionnelle, décider de ne pas prononcer ces peines, en considération des circonstances de l'infraction et de la personnalité de son auteur.
 
 ###### Article 222-45
 
-Les personnes physiques coupables des infractions prévues par les sections 1, 1 bis, 3 et 4 encourent également les peines suivantes :
+Les personnes physiques coupables des infractions prévues par les sections 1, 1 bis, 3 et 7 encourent également les peines suivantes :
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ;
 
@@ -3417,7 +3441,7 @@ Pour les infractions prévues par l'alinéa précédent qui sont commises sur un
 
 ###### Article 222-48-2
 
-En cas de condamnation pour un crime ou un délit prévu aux sections 1, 3 ou 3 bis, commis par le père ou la mère sur la personne de son enfant ou de l'autre parent, la juridiction de jugement se prononce sur le retrait total ou partiel de l'autorité parentale ou sur le retrait de l'exercice de cette autorité, en application des articles 378, 379 et 379-1 du code civil. Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
+En cas de condamnation pour un crime ou un délit prévu aux sections 1, 3 ou 5, commis par le père ou la mère sur la personne de son enfant ou de l'autre parent, la juridiction de jugement se prononce sur le retrait total ou partiel de l'autorité parentale ou sur le retrait de l'exercice de cette autorité, en application des articles 378, 379 et 379-1 du code civil. Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
 
 ###### Article 222-48-3
 
@@ -3429,7 +3453,15 @@ Le prononcé de cette peine est obligatoire. Toutefois, la juridiction peut, par
 
 En cas de condamnation pour une infraction prévue à la section 3 du présent chapitre commise sur un mineur, la peine complémentaire d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs prévue au 3° de l'article 222-45 est prononcée à titre définitif. La juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer cette peine en considération des circonstances de l'infraction et de la personnalité de son auteur ou de la prononcer pour une durée de dix ans au plus.
 
-##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales
+###### Article 222-48-5
+
+Les personnes coupables du délit prévu à l'article 222-33-1-1 encourent également les peines complémentaires suivantes :
+
+1° La peine de stage prévue aux 1°, 4°, 5° ou 7° de l'article 131-5-1 ;
+
+2° La peine de travail d'intérêt général pour une durée de vingt à cent cinquante heures.
+
+##### Section 9 : Dispositions communes aux personnes physiques et aux personnes morales
 
 ###### Article 222-49
 
@@ -3455,7 +3487,7 @@ La fermeture temporaire prévue par l'article 222-50 emporte suspension de la li
 
 La fermeture définitive prévue par l'article 222-50 emporte retrait définitif de la licence de débit de boissons ou de restaurant.
 
-##### Section 7 : Du trafic d'armes
+##### Section 10 : Du trafic d'armes
 
 ###### Article 222-52
 
@@ -8908,38 +8940,6 @@ Le fait de solliciter, d'accepter ou d'obtenir des relations de nature sexuelle 
 
 Les personnes physiques coupables de la contravention prévue au présent article encourent également une ou plusieurs des peines complémentaires mentionnées à l'article 131-16 et au second alinéa de l'article 131-17.
 
-### Titre II :  De l'outrage sexiste
-
-#### Article 621-1
-
-I.-Constitue un outrage sexiste le fait, hors les cas prévus aux articles 222-13,222-32,222-33 et 222-33-2-2, d'imposer à une personne tout propos ou comportement à connotation sexuelle ou sexiste qui soit porte atteinte à sa dignité en raison de son caractère dégradant ou humiliant, soit crée à son encontre une situation intimidante, hostile ou offensante.
-
-II.-L'outrage sexiste est puni de l'amende prévue pour les contraventions de la 4e classe. Cette contravention peut faire l'objet des dispositions du code de procédure pénale relatives à l'amende forfaitaire, y compris celles concernant l'amende forfaitaire minorée.
-
-III.-L'outrage sexiste est puni de l'amende prévue pour les contraventions de la 5e classe lorsqu'il est commis :
-
-1° Par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
-
-2° Sur un mineur de quinze ans ;
-
-3° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
-
-4° Sur une personne dont la particulière vulnérabilité ou dépendance résultant de la précarité de sa situation économique ou sociale est apparente ou connue de son auteur ;
-
-5° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
-
-6° Dans un véhicule affecté au transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs ;
-
-7° En raison de l'orientation sexuelle, vraie ou supposée, de la victime.
-
-La récidive de la contravention prévue au présent III est réprimée conformément au premier alinéa de l'article 132-11.
-
-IV.-Les personnes coupables des contraventions prévues aux II et III du présent article encourent également les peines complémentaires suivantes :
-
-1° La peine de stage prévue aux 1°, 4°, 5° ou 7° de l'article 131-5-1 ;
-
-2° Dans le cas prévu au III, un travail d'intérêt général pour une durée de vingt à cent vingt heures.
-
 ## Livre VII : Dispositions relatives à l'outre-mer
 
 ### Titre Ier : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie
@@ -10224,6 +10224,18 @@ Les personnes morales déclarées responsables pénalement, dans les conditions 
 
 La récidive des contraventions prévues par la présente section est réprimée conformément aux articles 132-11 et 132-15.
 
+##### Section 4 : De l'outrage sexiste et sexuel
+
+###### Article R625-8-3
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait, hors les cas prévus aux articles 222-13, 222-32, 222-33, 222-33-1-1, 222-33-2-2 et 222-33-2-3, d'imposer à une personne tout propos ou comportement à connotation sexuelle ou sexiste qui soit porte atteinte à sa dignité en raison de son caractère dégradant ou humiliant, soit créé à son encontre une situation intimidante, hostile ou offensante.
+
+Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires suivantes :
+
+1° La peine de stage prévue aux 1°, 4°, 5° ou 7° de l'article 131-5-1 ;
+
+2° Un travail d'intérêt général pour une durée de vingt à cent vingt heures.
+
 ##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée
 
 ###### Article R625-9
@@ -10805,7 +10817,7 @@ Les dispositions du présent article ne sont pas applicables aux courses de taur
 ##### Article R711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5,
-R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis et Futuna dans leur rédaction résultant décret n° 2022-185 du 15 février 2022.
+R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2023-227 du 30 mars 2023.
 
 ##### Article R711-2
 
