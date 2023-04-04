@@ -1,4 +1,4 @@
-##### Article L143-2
+###### Article L143-2
 
 Les prestations relatives aux contrats mentionnés à l'article L. 143-1 peuvent prévoir des garanties complémentaires en cas de décès de l'adhérent avant ou après la cessation d'activité professionnelle, ainsi qu'en cas d'invalidité et d'incapacité.
 

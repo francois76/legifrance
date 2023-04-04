@@ -1,4 +1,4 @@
-##### Article L143-2-2
+###### Article L143-2-2
 
 La notice mentionnée à l'article L. 141-4 indique que le contrat souscrit est un contrat de retraite professionnelle supplémentaire relevant de la présente section. Un arrêté du ministre chargé de l'économie fixe la liste des informations minimales que contient cette notice.
 
