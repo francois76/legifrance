@@ -1,6 +1,25 @@
 ###### Article D2573-59
 
-I. – Les articles R. 2335-1 et R. 2335-2 ainsi que l'article D. 2335-3 sont applicables aux communes de la Polynésie française sous réserve des adaptations prévues aux II et III.
+I. - Les dispositions du chapitre V du titre III du livre III de la deuxième partie mentionnées dans la colonne de gauche des tableaux reproduits ci-après sont applicables en Polynésie française, dans leur rédaction indiquée dans la colonne de droite du même tableau, sous réserve des adaptations prévues aux II et III.
+
+<table border="1"><tbody>
+ <tr>
+  <th>DISPOSITIONS APPLICABLES</th>
+  <th>DANS LEUR REDACTION RESULTANT DU</th>
+ </tr>
+ <tr>
+  <td align="justify">R. 2335-1 et R. 2335-2</td>
+  <td align="justify">Décret n° 2020-606 du 19 mai 2020</td>
+ </tr>
+ <tr>
+  <td align="justify">D. 2335-3</td>
+  <td align="justify">Décret n° 2000-318 du 7 avril 2000</td>
+ </tr>
+ <tr>
+  <td align="justify">D. 2335-23</td>
+  <td align="justify">Décret n° 2023-206 du 27 mars 2023</td>
+ </tr>
+</tbody></table>
 
 II. - Pour l'application des articles R. 2335-1 et R. 2335-2 aux communes de Polynésie française :
 
