@@ -14,5 +14,9 @@ Les primes, indemnités et remboursements de frais mentionnés au 2° de l'artic
 
 6° Le cas échéant, l'indemnité forfaitaire de transport prévue au 7° du même article ;
 
-7° Le cas échéant, l'indemnité forfaitaire d'hébergement prévue au 8° du même article.
+7° Le cas échéant, l'indemnité forfaitaire d'hébergement prévue au 8° du même article ;
+
+8° Le cas échéant, l'indemnité spéciale prévue au 9° du même article ;
+
+9° Le cas échéant, le remboursement des frais de transport prévu au 10° du même article.
 

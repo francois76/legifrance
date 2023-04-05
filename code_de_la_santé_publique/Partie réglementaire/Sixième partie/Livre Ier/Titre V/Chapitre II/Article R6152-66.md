@@ -4,7 +4,7 @@ Le praticien en disponibilité cesse de bénéficier des émoluments mentionnés
 
 En cas de disponibilité prise en application du 2° du I de l'article R. 6152-64, le temps passé dans cette position est pris en compte pour l'avancement, dans la limite de cinq années. Pour les autres motifs de disponibilité, le praticien conserve ses droits à avancement dans la limite de cinq ans à condition qu'il exerce une activité professionnelle.
 
-L'activité professionnelle mentionnée au premier alinéa recouvre toute activité lucrative, salariée ou indépendante, exercée à temps complet ou à temps partiel et qui :
+L'activité professionnelle mentionnée au deuxième alinéa recouvre toute activité lucrative, salariée ou indépendante, exercée à temps complet ou à temps partiel et qui :
 
 1° Pour une activité salariée, correspond à une quotité de travail minimale de 600 heures par an ;
 
