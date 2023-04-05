@@ -751,7 +751,7 @@ De rendre compte à leurs chefs hiérarchiques de tous crimes, délits ou contra
 
 De constater, en se conformant aux ordres de leurs chefs, les infractions à la loi pénale et de recueillir tous les renseignements en vue de découvrir les auteurs de ces infractions, le tout dans le cadre et dans les formes prévues par les lois organiques ou spéciales qui leur sont propres ;
 
-De constater par procès-verbal les contraventions aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat ainsi que les contraventions prévues à l'article 621-1 du code pénal.
+De constater par procès-verbal les contraventions aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat ainsi que la contravention d'outrage sexiste et sexuel et le délit prévu à l'article 222-33-1-1 du code pénal.
 
 Lorsqu'ils constatent une infraction par procès-verbal, les agents de police judiciaire adjoints peuvent recueillir les éventuelles observations du contrevenant.
 
@@ -23818,7 +23818,7 @@ A l'expiration du délai d'opposition, le chef du greffe donne avis au comptable
 
 Le comptable de la direction générale des finances publiques procède au recouvrement de l'ordonnance pénale à l'expiration du délai de trente jours à compter de la date d'envoi de la lettre recommandée prévue à l'article R. 42, à moins qu'il ne soit fait opposition.
 
-#### Chapitre II bis : Amende forfaitaire et amende forfaitaire majorée
+#### Chapitre II bis : De la procédure de l'amende forfaitaire
 
 ##### Article R48-1
 
@@ -23924,6 +23924,8 @@ II.-Les contraventions de la cinquième classe pour lesquelles l'action publique
 
 1° Contraventions réprimées par les première et dernière phrases du troisième alinéa de l'article L. 3136-1 du code de la santé publique.
 
+2° Contravention d'outrage sexiste et sexuel réprimée par l'article R. 625-8-3 du code pénal.
+
 ##### Article R49
 
 Le montant de l'amende forfaitaire prévue par l'article 529 est fixé ainsi qu'il suit :
@@ -23997,6 +23999,10 @@ Si, avant l'expiration du délai de trois mois courant à compter de l'envoi de 
 Dans le cas où l'amende forfaitaire n'a pas été payée dans le délai imparti, le comptable engage la phase contentieuse du recouvrement de l'amende forfaitaire majorée.
 
 L'application des dispositions du présent article se fait sans préjudice de celles de l'article R. 322-7 du code de la route réprimant le défaut de déclaration de changement de domicile dans le délai d'un mois auprès du service d'immatriculation des véhicules.
+
+##### Article 49-6-2
+
+Le montant de l'amende forfaitaire minorée prévue par l'article 529-2-1 est fixé à 150 euros pour les contraventions de la cinquième classe.
 
 ##### Article R49-7
 
@@ -28930,11 +28936,11 @@ Pour leur application à Saint-Barthélemy et à Saint-Martin, les mots : “ pr
 
 ##### Article R251
 
-I. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, du I de l'article R. 49-8-3, des articles R. 49-8-5 à R. 49-19, R. 63, R. 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2023-187 du 17 mars 2023, sous réserve des adaptations prévues au présent titre.
+I. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, du I de l'article R. 49-8-3, des articles R. 49-8-5 à R. 49-19, R. 63, R. 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2023-227 du 30 mars 2023, sous réserve des adaptations prévues au présent titre.
 
-II. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Polynésie française dans sa rédaction résultant du décret n° 2023-187 du 17 mars 2023, sous réserve des adaptations prévues au présent titre.
+II. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Polynésie française dans sa rédaction résultant du décret n° 2023-227 du 30 mars 2023, sous réserve des adaptations prévues au présent titre.
 
-III. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R. 64, R. 93-2, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2023-187 du 17 mars 2023, sous réserve des adaptations prévues au présent titre.
+III. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R. 64, R. 93-2, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2023-227 du 30 mars 2023, sous réserve des adaptations prévues au présent titre.
 
 ##### Article R252
 
@@ -32623,7 +32629,172 @@ Tant que les consultations directes sont en cours, les autorités compétentes d
 
 Si, au cours des consultations directes engagées, un consensus a été dégagé sur la poursuite de la procédure pénale dans un seul Etat membre, l'autorité compétente de cet Etat membre en informe la ou les autorités compétentes de l'autre ou des autres Etats membres.
 
-### Titre XI
+### Titre XI : Du Parquet européen
+
+#### Chapitre Ier : Des signalements au procureur européen délégué et de l'exercice de sa compétence
+
+##### Section 1 : Des obligations de signalement au procureur européen délégué
+
+###### Article D47-1-30
+
+Pour l'application des articles 696-108 et 696-111, les infractions commises après le 20 novembre 2017 relevant de la compétence du Parquet européen et pour lesquelles il doit être procédé aux signalements prévus par l'article 696-111 sont celles prévues par les articles D. 47-1-31 à D. 47-1-34.
+
+###### Article D47-1-31
+
+I.-Il doit être procédé au signalement des délits suivants'ils portent atteinte aux recettes perçues, aux dépenses exposées ou aux avoirs qui relèvent du budget de l'Union européenne, des budgets des institutions, organes et organismes de l'Union européenne ou des budgets gérés et contrôlés directement par eux, et si le montant du préjudice causé à l'Union européenne est susceptible d'être au moins égal à 10 000 euros :
+
+1° Délits d'escroquerie prévus à la section 1 du chapitre III du titre I du livre III du code pénal ;
+
+2° Délits d'abus de confiance prévus à la section 1 du chapitre IV du titre I du livre III du code pénal ;
+
+3° Délits de soustraction, détournement ou destruction de biens prévus au paragraphe 5 de la section 3 du chapitre II du titre III du livre IV du code pénal ;
+
+4° Délits de corruption prévus aux articles 432-11,433-1,435-1 et 435-3 du code pénal ;
+
+5° Délits de contrebande, d'importation ou d'exportation frauduleuse prévus à l'article 414-2 du code des douanes ;
+
+6° Délits de blanchiment prévus à l'article 415 du code des douanes, lorsqu'ils portent sur des fonds provenant de délits mentionnés aux 1° à 5° du présent I ;
+
+7° Délits de blanchiment prévus à la section 1 du chapitre IV du titre II du livre III du code pénal, lorsqu'ils portent sur des fonds provenant de délits mentionnés aux 1° à 5° du présent I.
+
+II.-Lorsque les délits mentionnés au I ont causé ou sont susceptibles d'avoir causé un préjudice d'un montant inférieur à 10 000 euros, le signalement ne doit intervenir que si l'une au moins des conditions suivantes est remplie :
+
+1° Les répercussions du dossier à l'échelle de l'Union sont de nature à rendre nécessaire la conduite d'une enquête par le Parquet européen ;
+
+2° Des fonctionnaires ou d'autres agents de l'Union, ou des membres des institutions de l'Union pourraient être soupçonnés d'avoir commis l'infraction.
+
+Le signalement doit toutefois également intervenir lorsqu'il n'est pas possible de déterminer si les critères prévus aux 1° et 2° ci-dessus sont remplis.
+
+###### Article D47-1-32
+
+Lorsque l'infraction porte sur la taxe sur la valeur ajoutée, il ne doit être procédé au signalement des délits mentionnés au I de l'article D. 47-1-31 que si les conditions suivantes sont remplies :
+
+1° Le montant du préjudice total en résultant s'élève à au moins dix millions d'euros ;
+
+2° L'infraction a un lien avec le territoire d'au moins deux États mentionnés ci-dessous, qui participent à la coopération renforcée concernant la création du Parquet européen :
+
+- l'Allemagne,
+- l'Autriche,
+- la Belgique,
+- la Bulgarie,
+- Chypre,
+- la Croatie,
+- l'Espagne,
+- l'Estonie,
+- l'Italie,
+- la Finlande,
+- la France,
+- la Grèce,
+- la Lettonie,
+- la Lituanie,
+- le Luxembourg,
+- Malte,
+- les Pays-Bas,
+- le Portugal,
+- la République tchèque,
+- la Roumanie,
+- la Slovaquie,
+- la Slovénie.
+
+###### Article D47-1-33
+
+Il doit être procédé au signalement du délit d'association de malfaiteurs prévu par l'article 450-1 du code pénal lorsqu'il vise à la préparation et la commission des infractions prévues aux articles D. 47-1-31 et D. 47-1-32.
+
+###### Article D47-1-34
+
+Il doit être procédé au signalement des infractions connexes aux délits prévus aux articles D. 47-1-31 à D. 47-1-32 lorsqu'elles sont indissociablement liées avec ces délits.
+
+###### Article D47-1-35
+
+Lorsque les signalements prévus aux 1 à 3 et au 5 de l'article 24 du règlement (UE) 2017/1939 du Conseil du 12 octobre 2017 mettant en œuvre une coopération renforcée concernant la création du Parquet européen sont, conformément à la première phrase de l'article 696-111, directement adressés au procureur européen délégué par les autorités nationales compétentes mentionnées à l'article 19, au second alinéa de l'article 40 et à l'article 80 du présent code, ces autorités en informent alors simultanément :
+
+1° Le procureur de la République financier prévu par l'article 705, si l'une au moins des infractions faisant l'objet du signalement relève de cet article ;
+
+2° Le procureur de la République territorialement compétent près la juridiction interrégionale spécialisée en matière économique et financière prévu par l'article 704, si l'une au moins des infractions faisant l'objet du signalement relève de sa compétence ;
+
+3° Le procureur de la République territorialement compétent.
+
+Lorsque le signalement concerne une infraction prévue par le code des douanes, l'administration des douanes est informée.
+
+###### Article D47-1-36
+
+Le procureur de la République financier mentionné à l'article 705 et les procureurs de la République territorialement compétents près les juridictions interrégionales spécialisée en matière économique et financière prévues par l'article 704 adressent au procureur européen délégué dans les meilleurs délais les signalements relevant de l'article qui précède et qui leur ont été transmis, conformément à la seconde phrase de l'article 696-111, par les autorités nationales compétentes mentionnées à l'article 19, au second alinéa de l'article 40 et à l'article 80, ou par le procureur de la République territorialement compétent.
+
+Lorsque la procédure faisant l'objet du signalement concerne une infraction prévue par le code des douanes, l'administration des douanes est informée de la transmission effectuée.
+
+###### Article D47-1-37
+
+Les signalements prévus aux articles D. 47-1-35 et D. 47-1-36 comprennent à tout le moins les éléments suivants :
+
+1° Une description des faits, y compris une évaluation du préjudice causé ou susceptible d'être causé à l'Union européenne et, le cas échéant, à d'autres victimes ;
+
+2° La ou les qualifications juridiques possibles ;
+
+3° Toute information disponible sur les victimes potentielles, les suspects et toute autre personne impliquée, notamment si sont mis en cause ou susceptibles d'être mis en cause un ou plusieurs fonctionnaires ou autres agents de l'Union européenne, ou des membres des institutions de l'Union européenne.
+
+4° S'il existe une ou plusieurs infractions connexes dans les conditions prévues à l'article D. 47-1-34, il est précisé si la peine privative de liberté maximale encourue pour cette ou ces infractions est équivalente ou supérieure à la peine encourue pour les délits prévus aux articles D. 47-1-31 à D. 47-1-33, et si l'infraction connexe a ou non contribué à la réalisation de l'infraction financière.
+
+5° S'il y a lieu de supposer que le préjudice causé ou susceptible d'être causé aux intérêts financiers de l'Union par une infraction visée aux articles D. 47-1-31 ou D. 47-1-32 n'excède pas le préjudice causé ou susceptible d'être causé à une autre victime.
+
+6° Dans les cas prévus aux 4° et 5°, il est précisé si l'autorité judiciaire estime que, conformément au paragraphe 3 de l'article 25 du règlement (UE) 2017/1939 du Conseil du 12 octobre 2017, le Parquet européen pourrait ne pas exercer sa compétence.
+
+##### Section 2 : De l'exercice de sa compétence par le procureur européen délégué
+
+###### Article D47-1-38
+
+Pour l'application de l'article 696-112, le magistrat national initialement saisi de l'enquête adresse sans délai l'ensemble de la procédure au procureur européen délégué dès que ce dernier l'avise qu'il retient sa saisine, sauf conflits de compétences prévus aux articles 696-135 et 696-136. Lorsque l'enquête concerne une infraction prévue par le code des douanes, l'administration des douanes est informée de ce dessaisissement.
+
+La décision de dessaisissement du procureur de la République ou l'ordonnance rendue à cette fin par le juge d'instruction sont des mesures d'administration judiciaire insusceptibles de recours.
+
+###### Article D47-1-39
+
+Pour l'application de l'article 696-135, le procureur général compétent pour décider si les investigations seront poursuivies par le procureur de la République ayant refusé de se dessaisir ou par le procureur européen délégué est le procureur général près la cour d'appel dans le ressort de laquelle se trouve la juridiction interrégionale spécialisée en matière économique et financière prévue par l'article 704 dans le ressort de laquelle se trouve ce procureur de la République, ou, si ce procureur ayant refusé de se dessaisir est le procureur de la République financier, le procureur général près la cour d'appel de Paris.
+
+Le procureur de la République chargé par le procureur général compétent de poursuivre les investigations peut décider que celles-ci seront poursuivies par l'administration des douanes, conformément aux dispositions du code des douanes, lorsque l'infraction concernée relève dudit code.
+
+La décision du procureur général, qui constitue une mesure d'administration judiciaire insusceptible de recours, est adressée par tout moyen et dans les meilleurs délais au procureur de la République et au procureur européen délégué.
+
+###### Article D47-1-40
+
+Le procureur général compétent pour recevoir, en application du 2° de l'article 696-137, l'information du procureur européen délégué indiquant qu'il renvoie aux autorités nationales une infraction connexe qu'il envisageait de classer sans suite est le procureur général mentionné à l'article D. 47-1-39.
+
+Lorsque le procureur général reçoit l'information qu'une affaire est classée sans suite par le Parquet européen, il en informe sans délai l'administration des douanes, aux fins de recouvrement des ressources propres, conformément à l'article 39 § 4 du règlement (UE) 2017/1039 du Conseil du 12 octobre 2017.
+
+###### Article D47-1-41
+
+Tous les signalements, informations, avis et procédures adressés au procureur européen délégué ou transmis ou par lui peuvent être établis ou convertis sous format numérique et communiqués par voie électronique conformément aux dispositions des articles 801-1,803-1 et D. 589 à D. 592.
+
+#### Chapitre II : Des procédures suivies par le procureur européen délégué
+
+##### Article D47-1-42
+
+Lorsqu'il procède à des investigations selon la procédure prévue par l'article 696-114, le procureur européen délégué est assisté d'un greffier dans les mêmes conditions que le juge d'instruction.
+
+Les ordonnances prises par le juge des libertés et de la détention dans le cadre de cette procédure peuvent faire l'objet d'un appel de la part du procureur européen délégué dans les conditions prévues à l'article 185.
+
+Les ordonnances prises par le juge des libertés et de la détention en matière de contrôle judiciaire, d'assignation à résidence avec surveillance électronique ou de détention provisoire peuvent faire l'objet d'un appel, de la part de la personne mise en examen par le procureur européen délégué, dans les conditions prévues à l'article 186, en faisant le cas échéant application des articles 187-1 et 187-2.
+
+Les ordonnances prises par le procureur européen délégué en application des articles 80-1-1,87,139 et 140 ainsi que du quatrième aliéna de l'article 167 peuvent faire l'objet d'un appel de la part de la personne mise en examen dans les conditions prévues à l'article 186.
+
+Les ordonnances prises par le procureur européen délégué en application de l'article 87 peuvent faire l'objet d'un appel de la partie civile dans les conditions prévues à l'article 186.
+
+Les parties peuvent également former appel des ordonnances mentionnées à l'article 186-1, lorsqu'elles sont rendues par le procureur européen délégué, dans les conditions prévues par cet article.
+
+##### Article D47-1-43
+
+Pour l'application de l'article 696-119, lorsque le procureur européen délégué ordonne le placement de la personne mise en examen sous contrôle judiciaire, il l'avise qu'elle peut immédiatement contester cette décision devant le juge des libertés et de la détention. Si la personne ou son avocat déclare contester cette ordonnance, le dossier de la procédure doit être transmis sans délai au juge des libertés et de la détention, et au plus tard dans le délai de vingt-quatre heures.
+
+L'ordonnance du juge des libertés et de la détention peut faire l'objet d'un appel par le procureur européen délégué dans les conditions prévues à l'article 185, et par la personne mise en examen dans les conditions prévues à l'article 186.
+
+En l'absence de contestation immédiate devant le juge des libertés et de la détention, la personne mise en examen peut former appel de l'ordonnance du procureur européen délégué dans les conditions prévues à l'article 186.
+
+##### Article D47-1-44
+
+Lorsque le procureur européen délégué saisi d'une demande de mise en liberté estime ne pas pouvoir faire droit à celle-ci, ni pouvoir placer la personne sous contrôle judiciaire, mais considère que celle-ci pourrait être placée sous assignation à résidence avec surveillance électronique, il en avise le juge des libertés et de la détention lorsqu'il le saisit en application du dernier alinéa de l'article 696-122.
+
+##### Article D47-1-45
+
+Lorsque, conformément aux dispositions du premier alinéa de l'article 696-109, le procureur européen délégué exerce les fonctions de procureur général devant la chambre de l'instruction ou devant la chambres des appels correctionnels, il peut former un pourvoi en cassation contre les décisions rendues par ces juridictions, dans les conditions prévues par articles 567,568 et 585-2.
 
 ### Titre XII
 
