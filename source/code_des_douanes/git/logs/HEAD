@@ -1,3 +1,4 @@
 0000000000000000000000000000000000000000 d79f8af374ffd1abc1751aad3563a790a0a73b21 francoisgognet <fgognet@gmail.com> 1678137993 +0100	clone: from https://archeo-lex.fr/codes/code_des_douanes
 d79f8af374ffd1abc1751aad3563a790a0a73b21 4aa4c2e0b66d4e2e425084a888ad4d1f51c5bffb Github action <github@users.noreply.github.com> 1679362223 +0000	pull --rebase (start): checkout 4aa4c2e0b66d4e2e425084a888ad4d1f51c5bffb
 4aa4c2e0b66d4e2e425084a888ad4d1f51c5bffb 4aa4c2e0b66d4e2e425084a888ad4d1f51c5bffb Github action <github@users.noreply.github.com> 1679362223 +0000	pull --rebase (finish): returning to refs/heads/texte
+4aa4c2e0b66d4e2e425084a888ad4d1f51c5bffb 5a7909ebb04579572771928ee695130185853405 Github action <github@users.noreply.github.com> 1680657465 +0000	pull --rebase: Fast-forward

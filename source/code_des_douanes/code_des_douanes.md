@@ -3567,6 +3567,10 @@ L'avis de mise en recouvrement indique le fait générateur de la créance ainsi
 
 Les recours prévus aux articles 346 et 347 ne suspendent pas l'exécution de l'avis de mise en recouvrement.
 
+#### Article 345-0 bis
+
+Sont recouvrées par l'administration des finances publiques comme en matière d'amendes pénales, sans préjudice de la compétence de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués prévue à l'article 707-1 du code de procédure pénale, les amendes, pénalités et confiscations en valeur prévues par les codes, lois et règlements que l'administration des douanes est chargée d'appliquer lorsqu'elles sont prononcées par une juridiction.
+
 #### Article 345 bis
 
 I.-Lorsque le redevable a appliqué un texte fiscal selon l'interprétation que l'administration avait fait connaître par ses instructions ou circulaires publiées et qu'elle n'avait pas rapportées à la date des opérations constituant le fait générateur, elle ne peut constater par voie d'avis de mise en recouvrement et recouvrer les droits et taxes perçus selon les modalités du présent code, en soutenant une interprétation différente.
