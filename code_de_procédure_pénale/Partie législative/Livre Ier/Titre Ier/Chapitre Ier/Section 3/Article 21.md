@@ -26,7 +26,7 @@ De rendre compte à leurs chefs hiérarchiques de tous crimes, délits ou contra
 
 De constater, en se conformant aux ordres de leurs chefs, les infractions à la loi pénale et de recueillir tous les renseignements en vue de découvrir les auteurs de ces infractions, le tout dans le cadre et dans les formes prévues par les lois organiques ou spéciales qui leur sont propres ;
 
-De constater par procès-verbal les contraventions aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat ainsi que les contraventions prévues à l'article 621-1 du code pénal.
+De constater par procès-verbal les contraventions aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat ainsi que la contravention d'outrage sexiste et sexuel et le délit prévu à l'article 222-33-1-1 du code pénal.
 
 Lorsqu'ils constatent une infraction par procès-verbal, les agents de police judiciaire adjoints peuvent recueillir les éventuelles observations du contrevenant.
 
