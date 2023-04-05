@@ -1,12 +1,12 @@
 ###### Article L6222-42
 
-I. - Le contrat d'apprentissage peut être exécuté en partie à l'étranger pour une durée qui ne peut excéder un an.
+I.-Le contrat d'apprentissage peut être exécuté en partie à l'étranger pour une durée qui ne peut excéder un an.
 
 La durée d'exécution du contrat en France doit être au minimum de six mois.
 
 Pendant la période de mobilité à l'étranger, les dispositions de l'article L. 6211-2 ne s'appliquent pas.
 
-II. - Pendant la période de mobilité dans un Etat membre de l'Union européenne autre que la France ou hors de l'Union européenne, l'entreprise ou le centre de formation d'accueil est seul responsable des conditions d'exécution du travail de l'apprenti, telles qu'elles sont déterminées par les dispositions légales et conventionnelles en vigueur dans le pays d'accueil, notamment ce qui a trait :
+II.-Pendant la période de mobilité dans un Etat membre de l'Union européenne autre que la France ou hors de l'Union européenne, l'entreprise ou le centre de formation d'accueil est seul responsable des conditions d'exécution du travail de l'apprenti, telles qu'elles sont déterminées par les dispositions légales et conventionnelles en vigueur dans le pays d'accueil, notamment ce qui a trait :
 
 1° A la santé et à la sécurité au travail ;
 

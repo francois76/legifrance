@@ -6,7 +6,7 @@ L'autorisation de travail accordée à l'étranger est limitée au département 
 
 2° De la carte de séjour temporaire portant la mention " stagiaire ICT (famille) " et " stagiaire mobile ICT (famille) ", prévues aux articles L. 421-32 et L. 421-33 du même code ;
 
-3° De la carte de séjour pluriannuelle portant la mention "passeport talent (famille)" prévue aux articles L. 421-22, L. 421-23 ou L. 422-13 dudit code ;
+3° De la carte de séjour pluriannuelle portant la mention " passeport talent (famille) " prévue aux articles L. 421-22, L. 421-23 ou L. 422-13 dudit code ;
 
 4° De la carte de séjour pluriannuelle portant la mention " salarié détaché ICT (famille) " et " salarié détaché mobile ICT (famille) ", prévues aux articles L. 421-28 et L. 421-29 du même code ;
 
