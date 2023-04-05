@@ -1,6 +1,6 @@
 ## Article Emplois classés
 
-<center>Code des pensions civiles et militaires de retraite </center><center>(Article L 24 I 1°) </center><center>Emplois classés dans la catégorie B ou active </center>En vertu du 1° du I de l'article L. 24 modifié du code des pensions civiles et militaires de retraite, les agents ayant occupé l'un des emplois énumérés dans le tableau ci-dessous et y ayant accompli 17 années de services effectifs, peuvent sur leur demande obtenir leur admission à la retraite et la concession d'une pension à jouissance immédiate dès l'âge de 57 ans.
+<center>Code des pensions civiles et militaires de retraite</center><center>(Article L 24 I 1°)</center><center>Emplois classés dans la catégorie B ou active</center>En vertu du 1° du I de l'article L. 24 modifié du code des pensions civiles et militaires de retraite, les agents ayant occupé l'un des emplois énumérés dans le tableau ci-dessous et y ayant accompli 17 années de services effectifs, peuvent sur leur demande obtenir leur admission à la retraite et la concession d'une pension à jouissance immédiate dès l'âge de 57 ans.
 
 <center>AGRICULTURE</center>
 
@@ -506,6 +506,11 @@ décret n° 2006-1761 du 23.12.2006
 65 ans</td>
   <td>(1) chargés exclusivement de fonctions de surveillance, de recherche ou de mission de police judiciaire. Dans ce cas, ils sont soumis à la limite d'âge de 60 ans. Les fonctions de ces personnels, dont l'emploi est classé en catégorie active, sont fixées par l'arrêté du 13.03.2008 (J. O. du 26.03.2008).</td>
  </tr>
+ <tr>
+<td/>
+  <td>Chef de service de surveillance chargé exclusivement de fonctions de surveillance</td>
+<td/><td/><td/><td/>
+ </tr>
 </tbody></table>
 
 <center>INTERIEUR</center>
@@ -835,8 +840,8 @@ Services du tri dans les recettes centralisatrices</td>
  </tr>
  <tr>
   <td>Autres</td>
-  <td></td>
-  <td></td>
+  <td><center></center></td>
+  <td><center></center></td>
   <td>Cat. A
 
 65 ans</td>
@@ -1310,7 +1315,7 @@ A/ C du 01.01.1975</td>
   <td>Décret n° 65-306 du 12.04.1965
 
 (J. O. du 21.04.1965)</td>
-  <td></td>
+  <td><center></center></td>
 <td/>
   <td>Décret n° 81-402 du 22.04.1981 (J. O. du 28.04.1981)</td>
   <td>Cat. B
@@ -1335,7 +1340,7 @@ A/ C du 01.01.1975</td>
  <tr>
   <td>6967</td>
   <td>Contremaître (La Poste-France Télécom)</td>
-  <td></td>
+  <td><center></center></td>
 <td/><td/>
  </tr>
  <tr>
@@ -1350,7 +1355,7 @@ A/ C du 01.01.1975</td>
  <tr>
   <td>6970</td>
   <td>Contremaître Polynésie (La Poste-France Télécom)</td>
-  <td></td>
+  <td><center></center></td>
 <td/><td/>
  </tr>
  <tr>
