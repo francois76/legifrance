@@ -8055,30 +8055,6 @@ La condition de transfert de l'ensemble des contrats de fourniture de gaz des cl
 
 ##### Section 1 : Champ d'application
 
-###### Article L445-3
-
-Les tarifs réglementés de vente du gaz naturel sont définis en fonction des caractéristiques intrinsèques des fournitures et des coûts liés à ces fournitures. Ils couvrent l'ensemble de ces coûts à l'exclusion de toute subvention en faveur des clients qui ont exercé leur droit prévu à l'article L. 441-1. Ils sont harmonisés dans les zones de desserte respectives des différents gestionnaires de réseaux de distribution mentionnés à l'article L. 111-53. Les différences de tarifs n'excèdent pas les différences relatives aux coûts de raccordement des distributions au réseau de transport de gaz naturel à haute pression.
-
-###### Article L445-4
-
-Un consommateur final de gaz naturel ne peut pas bénéficier des tarifs réglementés de vente de gaz naturel mentionnés à l'article L. 445-3, sauf pour un site de consommation faisant encore l'objet de ces tarifs.
-
-Toutefois, un consommateur final de gaz naturel consommant moins de 30 000 kilowattheures par an peut bénéficier, sur tout site de consommation, des tarifs réglementés de vente de gaz naturel mentionnés à l'article L. 445-3.
-
-Les consommateurs finals non domestiques consommant plus de 30 000 kilowattheures par an et bénéficiant encore des tarifs réglementés de vente de gaz naturel mentionnés à l'article L. 445-3 ne sont plus éligibles à ces tarifs aux dates suivantes :
-
-1° Pour les consommateurs non domestiques raccordés au réseau de transport, à l'expiration d'un délai de trois mois à compter de la publication de la loi n° 2014-344 du 17 mars 2014 relative à la consommation ;
-
-2° Pour les consommateurs non domestiques dont le niveau de consommation est supérieur à 200 000 kilowattheures par an, au plus tard le 31 décembre 2014 ;
-
-3° Pour les consommateurs non domestiques dont le niveau de consommation est supérieur à 30 000 kilowattheures par an, au plus tard le 31 décembre 2015.
-
-Toutefois et par dérogation aux 1° à 3° :
-
-a) Le propriétaire unique d'un immeuble à usage principal d'habitation consommant moins de 150 000 kilowattheures par an ou le syndicat des copropriétaires d'un tel immeuble peuvent bénéficier des tarifs réglementés pour les sites de consommation faisant encore l'objet de ces tarifs. Cette exception fait l'objet d'un réexamen régulier, au regard de l'évolution des marchés, conduit conjointement par la Commission de régulation de l'énergie et par le Gouvernement ;
-
-b) Les entreprises locales de distribution faisant encore l'objet de tarifs réglementés et dont la consommation est inférieure à 100 000 mégawattheures par an peuvent continuer à en bénéficier jusqu'au 31 décembre 2015.
-
 ###### Article L445-1
 
 Les dispositions du présent chapitre s'appliquent aux gaz renouvelables lorsqu'ils sont injectés dans le réseau de gaz naturel en vue de leur commercialisation.
@@ -8101,21 +8077,79 @@ La section 12 du chapitre VI du présent titre est également applicable aux gaz
 
 La vente de gaz renouvelable injecté dans le réseau de gaz naturel n'est pas soumise à autorisation de fourniture, lorsque ce gaz est vendu par le producteur à un fournisseur de gaz naturel.
 
+##### Section 3 : Garanties d'origine de gaz renouvelable injecté dans le réseau de gaz naturel
+
+###### Article L445-3
+
+Les garanties d'origine de gaz renouvelable injecté dans le réseau de gaz naturel ont valeur de certification de l'origine renouvelable du gaz concerné et prouvent à un client final raccordé à ce réseau la part ou la quantité de gaz renouvelable que contient l'offre commerciale contractée auprès de son fournisseur de gaz naturel.
+
+Les garanties d'origine de biogaz mentionnées à l ‘ article L. 446-18 et les certificats de production de biogaz mentionnés à l'article L. 446-31 ont la même valeur de certification et apportent la même preuve.
+
+###### Article L445-4
+
+La délivrance, le transfert et l'annulation des garanties d'origine de gaz renouvelable injecté dans le réseau de gaz naturel sont assurés par un organisme désigné par l'autorité administrative.
+
+Cet organisme établit et tient à jour un registre électronique des garanties d'origine de gaz renouvelable injecté dans le réseau de gaz naturel.
+
+Ce registre est accessible au public.
+
 ###### Article L445-5
 
-Les clients domestiques ayant droit à la tarification spéciale produit de première nécessité mentionnée à l'article L. 337-3 bénéficient également, pour une part de leur consommation, d'un tarif spécial de solidarité applicable à la fourniture de gaz naturel et aux services qui lui sont liés. Les modalités d'application de la tarification spéciale " produit de première nécessité " prévues à ce même article L. 337-3 sont applicables à la mise en place du tarif spécial de solidarité, notamment pour la transmission des fichiers aux fournisseurs de gaz naturel.
+L'organisme mentionné à l'article L. 445-4 délivre aux producteurs qui en font la demande des garanties d'origine de gaz renouvelable injecté dans le réseau de gaz naturel, à proportion de la quantité de gaz renouvelable injectée dans le réseau de gaz naturel.
 
-Les conditions d'attribution du tarif de première nécessité aux gestionnaires des résidences sociales mentionnées à l'article L. 633-1 du code de la construction et de l'habitation qui font l'objet de la convention prévue à l'article L. 353-1 du même code et de reversement aux occupants des chambres ou des logements situés dans ces résidences s'appliquent également à l'attribution du tarif spécial de solidarité relatif à la fourniture de gaz naturel et aux services qui lui sont liés.
-
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat, en particulier pour les clients domestiques résidant dans un immeuble d'habitation chauffé collectivement.
+Le coût du service correspondant à la délivrance et au suivi de ces garanties d'origine est à la charge du demandeur.
 
 ###### Article L445-6
 
-Pour les consommateurs domestiques bénéficiant de la tarification spéciale prévue à la présente section, la mise à la disposition des données de comptage en application de l'article L. 453-7 s'accompagne d'une offre, par les fournisseurs, de transmission des données de consommation, exprimées en euros, au moyen d'un dispositif déporté.
+Il ne peut être émis plus d'une garantie d'origine de gaz renouvelable injecté dans le réseau de gaz naturel pour chaque unité de gaz produite et injectée dans le réseau de gaz naturel correspondant à un mégawattheure.
 
-La fourniture de ces services et de ces dispositifs ne donne pas lieu à facturation.
+###### Article L445-7
 
-Un décret précise les modalités d'application du présent article, qui tiennent compte du déploiement des dispositifs prévus au premier alinéa de l'article L. 453-7.
+Chaque unité de gaz renouvelable produite et injectée dans un réseau de gaz naturel ne peut être prise en compte qu'une seule fois.
+
+###### Article L445-8
+
+Une garantie d'origine de gaz renouvelable injecté dans le réseau de gaz naturel est valable dans les douze mois suivant l'injection de l'unité de gaz renouvelable correspondante dans le réseau de gaz naturel.
+
+###### Article L445-9
+
+L'utilisation d'une garantie d'origine de gaz renouvelable injecté dans le réseau de gaz naturel valide peut toutefois être déclarée à l'organisme mentionné à l'article L. 445-4 dans un délai supplémentaire de six mois suivant l'expiration de sa période de validité.
+
+###### Article L445-10
+
+La garantie d'origine de gaz renouvelable injecté dans le réseau de gaz naturel est annulée dès qu'elle a été utilisée.
+
+###### Article L445-11
+
+L'émission par le producteur d'une garantie d'origine portant sur du gaz renouvelable produit et injecté ou vendu dans le cadre d'un contrat d'obligation d'achat entraîne, sous les conditions et selon les modalités fixées par décret en Conseil d'Etat, la résiliation immédiate du contrat. Cette résiliation immédiate s'applique aux contrats conclus à compter du 30 juin 2021.
+
+Cette résiliation entraîne également le remboursement des sommes actualisées perçues au titre de l'obligation d'achat, dans la limite des surcoûts mentionnés au 3° de l'article L. 121-36 qui en résultent. Toutefois, ce remboursement ne peut porter que sur les sommes versées à compter du 30 juin 2021.
+
+###### Article L445-12
+
+Les agents de l'organisme gestionnaire du registre des garanties d'origine ou ceux d'organismes agréés à cet effet sont habilités à contrôler l'exactitude des éléments sur lesquels reposent les demandes de garanties d'origine. Ces agents sont habilités à procéder à des contrôles, dans les mêmes conditions que celles prévues aux articles L. 142-21 à L. 142-29.
+
+Ce contrôle ne peut porter que sur des garanties d'origine émises depuis moins de trois ans.
+
+Tout demandeur de garanties d'origine est tenu de conserver toutes les informations et documents utiles à ces contrôles pendant trois ans suivant la date de sa demande.
+
+Chaque gestionnaire d'un réseau de distribution ou de transport de gaz naturel sur lequel est raccordée au moins une installation de production de gaz renouvelable enregistrée sur le registre national des garanties d'origine est tenu, dans des conditions fixées par voie réglementaire, de mettre gratuitement à disposition du gestionnaire du registre les données nécessaires à l'exécution de ses missions, notamment à la vérification des éléments figurant dans les dossiers de demandes de garanties d'origine, en matière de comptage du volume de gaz renouvelable injecté sur son réseau ou de données permettant d'en calculer la valeur.
+
+###### Article L445-13
+
+Tout contrôle mettant en évidence des demandes de garanties d'origine reposant sur des informations erronées fait l'objet d'un procès-verbal mentionnant la date, le lieu et la nature des constatations effectuées. Le procès-verbal est notifié au demandeur de la garantie d'origine ainsi qu'aux autorités administratives.
+
+###### Article L445-14
+
+Les gestionnaires des réseaux de distribution et de transport de gaz naturel sont responsables des données qu'ils mettent à disposition de l'organisme gestionnaire du registre des garanties d'origine et sont tenus de corriger les erreurs commises de bonne foi dans leurs demandes, selon des modalités fixées par voie réglementaire.
+
+###### Article L445-15
+
+Les garanties d'origine de gaz renouvelable injecté dans le réseau de gaz naturel provenant d'autres Etats membres de l'Union européenne émises conformément aux dispositions de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables sont reconnues et traitées par l'organisme mentionné à l'article L. 445-4 de la même manière que des garanties d'origine de gaz renouvelable injecté dans le réseau de gaz naturel liées à une unité de production située sur le territoire national.
+
+###### Article L445-16
+
+Les conditions de délivrance, de transfert et d'annulation des garanties d'origine de gaz renouvelable injecté dans le réseau de gaz naturel, leurs caractéristiques et conditions d'utilisation ainsi que les modalités de tenue du registre, les tarifs d'accès à ce service et les modalités des contrôles sont précisées par voie réglementaire.
 
 #### Chapitre VI : Les dispositions particulières relatives à la vente de biogaz
 
@@ -8448,6 +8482,12 @@ Un certificat de production de biogaz peut être délivré dans les douze mois s
 ####### Article L446-40
 
 Un producteur de biogaz ne peut bénéficier simultanément, à raison de la même quantité de biogaz, de la délivrance d'un certificat de production de biogaz et d'une garantie d'origine de gaz renouvelable, ou d'un certificat de production de biogaz et d'une garantie d'origine de biogaz.
+
+####### Article L446-41
+
+Les gestionnaires des réseaux de transport et de distribution de gaz naturel et l'organisme mentionné à l'article L. 445-4 ne peuvent refuser à l'organisme mentionné à l'article L. 446-34 les informations nécessaires au bon accomplissement de ses missions.
+
+Les gestionnaires des réseaux de transport et de distribution de gaz naturel sont responsables des données qu'ils mettent à disposition de l'organisme mentionné au même article L. 446-34 et sont tenus de corriger les erreurs commises de bonne foi dans leurs demandes, selon des modalités fixées par voie réglementaire.
 
 ###### Sous-section 3 :  Obligation de restitution à l'Etat de certificats de production de biogaz
 
@@ -10771,6 +10811,10 @@ Les gestionnaires de réseaux publics de transport ou de distribution sont autor
 
 Le gestionnaire du réseau public de transport et les gestionnaires des réseaux publics de distribution sont autorisés à échanger entre eux, ainsi qu'avec les services gestionnaires de réseaux étrangers, toute information mentionnée à l'article R. 111-26, lorsque la communication de ces informations est nécessaire au bon accomplissement de leurs missions respectives.
 
+####### Article R111-29-1
+
+Les gestionnaires des réseaux publics de distribution sont autorisés à transmettre au ministre chargé de l'énergie, à la Commission de régulation de l'énergie, à Electricité de France, aux entreprises locales de distribution, aux organismes agréés et aux producteurs concernés les éléments d'identification ou de caractérisation des installations bénéficiant d'un soutien public au titre des articles L. 121-7, L. 311-10, L. 314-1, L. 314-6-1, L. 314-18, L. 314-26 et L. 314-31, ainsi que les informations relatives à l'avancement des travaux de raccordement afférents, dans la mesure où la transmission de ces informations est nécessaire à la mise en œuvre du soutien public dont bénéficient ces installations.
+
 ####### Article R111-30
 
 Les gestionnaires des réseaux publics de transport ou de distribution d'électricité sont dispensés de l'obligation de préserver la confidentialité des informations énumérées à l'article R. 111-26 lorsque l'application de dispositions législatives et réglementaires implique nécessairement la communication de tout ou partie de ces informations ou lorsque cette communication est nécessaire au bon accomplissement de leurs missions, en particulier pour mettre en œuvre les mesures de protection qui s'imposent en cas de menace pour la sécurité des personnes et des biens ou pour la sécurité et la sûreté des réseaux publics.
@@ -10939,9 +10983,11 @@ Le ministre chargé de l'énergie se prononce dans les conditions prévues aux a
 
 Les fonctionnaires et agents mentionnés aux articles L. 135-3 et L. 142-21 sont chargés de procéder au contrôle du respect des décisions prises en application du présent paragraphe.
 
-##### Section 7 : Mise à disposition des personnes publiques de données annuelles et locales  relatives au transport, à la distribution et la production d'électricité, de gaz naturel et de biométhane
+##### Section 7 : Mise à disposition des personnes publiques de données relatives au transport, à la distribution et la production d'électricité, de gaz naturel et de biométhane
 
-###### Article D111-52
+###### Sous-section 1 : Données annuelles et locales relatives au transport, à la distribution et à la production d'électricité, de gaz naturel et de biométhane
+
+####### Article D111-52
 
 Pour l'application de la présente section :
 
@@ -10963,7 +11009,7 @@ Pour l'application de la présente section :
 
 9° Les termes " point de livraison " sont à entendre au sens de " point de mesure " pour le gaz.
 
-###### Article D111-53
+####### Article D111-53
 
 Les données mentionnées au quatrième alinéa de l'article L. 111-72, au quatrième alinéa de l'article L. 111-73 et aux troisième et quatrième alinéas de l'article L. 111-77 sont ainsi définies :
 
@@ -10989,11 +11035,11 @@ II.-Pour les gestionnaires de réseaux publics de distribution d'électricité e
 
 6° Pour les gestionnaires de réseaux publics de distribution d'électricité, données sur les installations de production rendues publiques dans le cadre du registre national des installations de production d'électricité et de stockage mentionné à l'article L. 142-9-1.
 
-###### Article D111-54
+####### Article D111-54
 
 Pour les gestionnaires des réseaux publics de distribution d'électricité ou de gaz, les informations mentionnées à la sixième phrase du troisième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales comprennent la présentation du réseau, à la maille régionale et intercommunale, sur la base d'une cartographie commentée.
 
-###### Article D111-55
+####### Article D111-55
 
 I. - Chaque gestionnaire de réseau de transport ou de distribution de gaz et chaque gestionnaire de réseau public de transport ou de distribution d'électricité transmet au service statistique du ministère chargé de l'énergie, au plus tard le 30 juin de chaque année, les données annuelles définies à l'article D. 111-53 pour les installations raccordées aux réseaux qu'il exploite, y compris les données dont la diffusion est susceptible de porter atteinte au secret des affaires ou statistique, à l'exception de celles mentionnées au 3° du I et au 6° du II.
 
@@ -11059,13 +11105,13 @@ VII. - Les gestionnaires de réseaux publics de distribution mettent les informa
 
 VIII. - Le traitement, par un tiers aux gestionnaires de réseaux visés par cet article, des données mentionnées à l'article D. 111-53 faisant l'objet d'une transmission ou diffusion publique en application du présent article ne peut avoir pour objet ou pour effet de reconstituer les données individuelles des personnes concernées.
 
-###### Article D111-56
+####### Article D111-56
 
 Les fournisseurs doivent, au plus tard le 30 novembre de l'année précédant la collecte, transmettre aux gestionnaires de réseaux d'électricité ou de gaz concernés le SIRET et le code NAF sur deux positions (88 modalités) de leurs clients à une date comprise entre le 1er et le 31 août de l'année en cours. Ils transmettent également le code NAF du site lorsqu'il est différent de celui du client.
 
 Les gestionnaires de réseau réalisent tous les ans un bilan sur la transmission des SIRET et des NAF par les fournisseurs. Tous les trois ans, ce bilan analyse la qualité des données transmises et propose des pistes d'amélioration proportionnées en coût aux bénéfices évalués de la mise à disposition des données.
 
-###### Article D111-57
+####### Article D111-57
 
 Pour les gestionnaires de réseaux publics de distribution de gaz ou d'électricité, sont définies les données suivantes, par réseau :
 
@@ -11079,11 +11125,17 @@ Pour les gestionnaires de réseaux publics de distribution de gaz ou d'électric
 
 Après avis de la Commission nationale de l'informatique et des libertés et de la Commission de régulation de l'énergie, le ministre chargé de l'énergie arrête les modalités de recueil et de gestion du consentement nécessaire à la transmission aux personnes publiques des données visées au présent article pour l'exercice de leurs compétences.
 
-###### Article D111-58
+####### Article D111-58
 
 I. - La transmission ou la mise à disposition des données mentionnées aux articles D. 111-53 et D. 111-54 n'est pas facturée, y compris pour les données par bâtiment fournies par les gestionnaires de réseaux après traitement informatique fondé uniquement sur la base de leurs référentiels d'adresses.
 
 II. - La mise à disposition par les gestionnaires des réseaux publics de distribution d'électricité ou de gaz des données mentionnées à l'article D. 111-57 et des données pour des bâtiments, lorsqu'ils sont spécifiquement précisés par les personnes publiques, intervient dans les délais prévus par le catalogue de prestation des gestionnaires de réseaux de distribution d'électricité et de gaz à compter de la réception de la demande complète. Les tarifs des prestations de transmission ou de mise à disposition par les gestionnaires des réseaux publics de distribution d'électricité ou de gaz de ces données sont définis par la Commission de régulation de l'énergie.
+
+###### Sous-section 2 : Données relatives aux installations bénéficiant d'un soutien public
+
+####### Article R111-58-1
+
+Les gestionnaires de réseaux publics transmettent, à leur demande, au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au préfet les éléments d'identification ou de caractérisation des installations bénéficiant d'un soutien public au titre des articles L. 121-7, L. 121-36, L. 311-10, L. 314-1, L. 314-6-1, L. 314-18, L. 314-26 et L. 314-31, L. 446-4, L. 446-5, L. 446-7, L. 446-14, L. 446-15 et L. 446-24 ainsi que les informations relatives à l'avancement des travaux de raccordement afférents.
 
 ##### Section 8 : Mise à disposition du public de courbes de mesure relatives au transport et à la distribution d'électricité et de gaz naturel
 
@@ -12619,7 +12671,10 @@ L'Agence de services et de paiement adresse chaque année, avant le 15 juin, au 
 
 ###### Article R124-16
 
-I.-Les bénéficiaires du chèque énergie bénéficient également de la gratuité de la mise en service et de l'enregistrement de leur contrat de fourniture d'électricité ou de gaz naturel ainsi que d'un abattement de 80 % sur la facturation d'un déplacement en raison d'une interruption de fourniture imputable à un défaut de règlement.
+I. - Les bénéficiaires du chèque énergie bénéficient également :
+- de la gratuité de la mise en service et de l'intervention pour la réduction de puissance dans le cadre de la période minimale d'alimentation en électricité prévue à l'article 2 du décret n° 2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures d'électricité, de gaz, de chaleur et d'eau ;
+- de l'enregistrement de leur contrat de fourniture d'électricité ou de gaz naturel ;
+- d'un abattement de 80 % sur la facturation d'un déplacement en raison d'une interruption de fourniture imputable à un défaut de règlement.
 
 Les pertes de recettes et les coûts occasionnés par ces dispositions sont compensés dans le cadre des dispositions prévues aux articles L. 121-8 et L. 121-36.
 
@@ -14601,6 +14656,26 @@ Les actions menées par les personnes mentionnées à l'article L. 221-7 qui peu
 
 Les personnes éligibles mentionnées à l'article L. 221-7 transmettent, chaque trimestre, au ministre chargé de l'énergie des informations concernant l'engagement des opérations standardisées mentionnées au 1° de l'article R. 221-14, et les pondérations mentionnées à l'article R. 221-18 associées, pour lesquelles ces personnes assurent le rôle actif et incitatif prévu à l'article R. 221-22. La première transmission d'informations concerne les opérations engagées au cours du premier trimestre 2022. Un arrêté du ministre chargé de l'énergie précise les informations à communiquer et les modalités de cette transmission.
 
+###### Article R221-14-2
+
+I. - Les dispositifs d'identification, d'évaluation et de gestion des risques mentionnés au deuxième alinéa de l'article L. 221-8 comportent les éléments suivants :
+
+1° Un document établi sous la responsabilité de l'acquéreur indiquant la forme juridique, la dénomination, le numéro d'immatriculation ainsi que l'adresse du siège social de la personne cédante et, s'il est différent, du premier détenteur des certificats d'économie d'énergie cédés, et décrivant les procédures internes mises en place ayant conduit au choix du cédant et à la décision d'achat ;
+
+2° Un contrat de cession précisant l'origine des certificats faisant l'objet de la cession, identifiés par numéro de décision de délivrance, ainsi que les vérifications requises de l'acquéreur en vertu du II du présent article avant le transfert effectif des certificats.
+
+II. - Les vérifications mentionnées au 2° du I consistent, pour l'acquéreur, à recueillir et évaluer les informations concernant :
+
+1° Les données ou notations financières ou d'autres indices permettant d'évaluer le risque de défaillance de la personne cédante ;
+
+2° Les liens capitalistiques supérieurs ou égaux à 25 % entre la personne cédante, le premier détenteur, les organismes de contrôle intervenus dans le cadre de la production des certificats, et les professionnels intervenus dans le cadre de la réalisation des opérations ayant donné lieu à la délivrance des certificats ;
+
+3° Les procédures d'identification, d'évaluation et de gestion des risques mises en place par le premier détenteur et par la personne cédante et, s'il existe, la description du système de management de la qualité du premier détenteur et de la personne cédante couvrant leur activité relative aux certificats d'économies d'énergie ;
+
+4° La nature du rôle actif et incitatif du premier détenteur, au sens de l'article R. 221-22 et tel que défini par l'arrêté relatif aux conditions de délivrance des certificats d'économies d'énergie prévu par l'article L. 221-7 ;
+
+5° Les modalités de contrôle des opérations qui font l'objet de la délivrance de certificats réalisées par le premier détenteur, ou éventuellement par la personne cédante, et les taux de conformité de ces contrôles.
+
 ###### Article R221-15
 
 Les opérations correspondant au seul respect de la réglementation en vigueur au 1er janvier de la première année d'une période d'obligation d'économie d'énergie fixée à l'article R. 221-1 ne donnent pas lieu à délivrance de certificats d'économies d'énergie au titre de cette période.
@@ -14746,6 +14821,8 @@ Le ministre chargé de l'énergie communique au délégataire, pour inscription 
 ###### Article R221-29
 
 A l'occasion de chaque transaction portant sur un ou plusieurs certificats, les titulaires de compte sont tenus d'informer le gestionnaire du registre du nombre de certificats cédés et de leur prix de vente.
+
+Les documents mentionnés au I de l'article R. 221-14-2 sont conservés par les acquéreurs de certificats et sont tenus à la disposition des fonctionnaires et agents mentionnés à l'article L. 222-9 pendant une durée de six ans à compter de l'acquisition des certificats.
 
 ###### Article R221-30
 
@@ -16661,7 +16738,7 @@ a) Des caractéristiques énergétiques et techniques du type d'installations co
 
 b) Des conditions économiques et financières de leur exploitation, en particulier de la durée et des modalités financières du contrat d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ;
 
-c) Des prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou lors de son démantèlement ou de la remise en état de son site d'implantation, et, le cas échéant, de l'obligation de constituer des garanties financières dont la nature et le montant sont précisées ;
+c) Des prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou lors de son démantèlement ou de la remise en état de son site d'implantation, et, le cas échéant, de l'obligation de constituer une garantie financière, telle qu'une consignation auprès de la Caisse des dépôts et consignations, dont la nature, le montant, les modalités de fixation de son montant, de son actualisation et de sa modification ainsi que les conditions de sa mise en œuvre sont précisées ;
 
 d) Du délai de mise en service industrielle de l'installation ;
 
@@ -16685,7 +16762,7 @@ Lorsque l'installation objet de la procédure est située sur le domaine public 
 
 1° La répartition des risques entre l'Etat et l'exploitant, notamment les conditions d'indemnisation de l'exploitant relatives à l'occupation domaniale ;
 
-2° La constitution de garanties financières ou une consignation auprès de la Caisse des dépôts et consignations, aux fins d'assurer la réversibilité effective des modifications apportées au milieu naturel. Le montant de ces garanties ou consignation est établi compte tenu du coût estimé des opérations de remise en état, de restauration ou de réhabilitation du site. Il peut être modifié en cas de constatation, dans le suivi initial des lieux, d'une modification des impacts sur le milieu naturel. Les conditions de la mise en œuvre de ces garanties ou consignation sont précisées par le cahier des charges.
+2° La constitution d'une garantie financière, telle qu'une consignation auprès de la Caisse des dépôts et consignations, aux fins d'assurer la réversibilité effective des modifications apportées au milieu naturel. Son montant est établi compte tenu du coût estimé des opérations de remise en état, de restauration ou de réhabilitation du site. Il peut être modifié en cas de constatation, dans le suivi initial des lieux, d'une modification des impacts sur le milieu naturel. Les conditions de la mise en œuvre de cette garantie financière sont précisées par le cahier des charges.
 
 Par dérogation à l'article R. 2124-8 et au quatrième alinéa de l'article R. 2124-9 du code général de la propriété des personnes publiques, les clauses mentionnées aux 1° à 2° sont reprises dans la concession d'utilisation du domaine public maritime délivrée en application de l'article L. 2124-3 du même code.
 
@@ -16729,7 +16806,7 @@ Elle prend les mesures nécessaires pour qu'aucun dépôt de candidature ne soit
 
 Avant une date limite fixée dans le cahier des charges de l'appel d'offres, chaque candidat peut adresser, par voie électronique, des demandes d'informations à la Commission de régulation de l'énergie.
 
-La commission les transmet au ministre chargé de l'énergie et lui fixe un délai pour y répondre. Elle publie sur le site de candidature les réponses apportées à ces demandes.
+La commission les transmet au ministre chargé de l'énergie. Elle publie sur le site de candidature les réponses apportées à ces demandes, au plus tard quinze jours avant la date d'ouverture du dépôt des offres.
 
 ####### Article R311-19
 
@@ -16767,7 +16844,7 @@ Au vu du nombre, de la qualité et des performances économiques des offres remi
 
 Le ministre chargé de l'énergie désigne les candidats retenus et avise tous les autres candidats du rejet de leurs offres.
 
-Dans le cas où, après l'examen des projets retenus par la Commission de régulation de l'énergie, le choix envisagé par le ministre n'est pas conforme au classement de la commission, le ministre recueille préalablement l'avis de la commission sur le choix qu'il envisage. Elle dispose pour ce faire d'un délai de quinze jours au-delà duquel son avis est réputé donné.
+Dans le cas où, après l'examen des projets proposés par la Commission de régulation de l'énergie, le choix envisagé par le ministre n'est pas conforme au classement de la commission, le ministre recueille préalablement l'avis de la commission sur le choix qu'il envisage. Elle dispose pour ce faire d'un délai de quinze jours au-delà duquel son avis est réputé donné.
 
 La commission publie la liste des candidats retenus ainsi qu'une version non confidentielle du rapport de synthèse sur l'analyse des offres sur son site.
 
@@ -16885,7 +16962,7 @@ Toute information susceptible de modifier l'offre finale des candidats est commu
 
 ####### Article R311-25-11
 
-Durant la phase de dialogue concurrentiel, un candidat ne peut pas être exclu. En revanche, il peut retirer sa candidature à tout moment de cette phase.
+Durant la phase de dialogue concurrentiel, un candidat ne peut pas être exclu, sauf en cas de non-respect d'une disposition du règlement de consultation mentionné à l'article R. 311-25-8 du code de l'énergie. En revanche, il peut retirer sa candidature à tout moment de cette phase.
 
 ####### Article R311-25-12
 
@@ -16937,7 +17014,7 @@ La transmission des offres s'effectue selon les modalités prévues à l'article
 
 ####### Article R311-25-15
 
-Les articles R. 311-18, R. 311-20, R. 311-22, R. 311-23 et R. 311-25 sont applicables.
+Les articles R. 311-13-1, R. 311-18, R. 311-20, R. 311-22, R. 311-23 et R. 311-25 sont applicables.
 
 ###### Sous-section 3 : Dispositions applicables aux candidats retenus
 
@@ -16991,11 +17068,13 @@ Le producteur qui demande la résiliation de son contrat à la suite de l'arrêt
 
 ####### Article R311-27-4
 
-Electricité de France et les entreprises locales de distribution transmettent au ministre chargé de l'énergie et au préfet, sur leur demande, les informations concernant les caractéristiques des installations pour lesquelles un contrat conclu en application du 1° ou du 2° de l'article L. 311-12 est signé. Ces informations ne sont accessibles qu'aux agents dûment habilités mentionnés à l'article L. 142-21.
+Electricité de France et les entreprises locales de distribution transmettent au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au préfet, sur leur demande, toutes informations contenues dans les contrats conclus en application du 1° ou du 2° de l'article L. 311-12 ainsi que dans les demandes de contrat, et toutes informations relatives à la conclusion et à l'exécution de ces contrats.
+
+Electricité de France et les entreprises locales de distribution ainsi que les organismes agréés sont par ailleurs autorisés à transmettre au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au producteur concerné les informations mentionnées à l'alinéa précédent, dans la mesure où la transmission de ces informations est nécessaire à la mise en œuvre du soutien public dont bénéficient les installations concernées.
 
 Electricité de France et les entreprises locales de distribution transmettent trimestriellement, au ministre chargé de l'énergie et au préfet, un bilan par filière des contrats conclus en application du 1° ou du 2° de l'article L. 311-12 ainsi que les capacités correspondantes en mégawatt, sur l'année écoulée à l'échelle départementale pour le préfet et à l'échelle nationale pour le ministre.
 
-Electricité de France et les entreprises locales de distribution préservent la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont le service chargé de la négociation et de la conclusion du contrat d'achat d'électricité ou du contrat de complément de rémunération a connaissance dans l'accomplissement de ses missions et dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination. En particulier, ce service prend les mesures nécessaires pour que ces informations ne soient pas divulguées en dehors de lui. Il peut toutefois transmettre au ministre chargé de l'énergie ou au préfet, à leur demande, les informations nécessaires à l'exercice de leurs missions. Le ministre ou le préfet préservent, dans les mêmes conditions, la confidentialité de ces informations.
+Electricité de France et les entreprises locales de distribution préservent la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont le service chargé de la négociation et de la conclusion du contrat d'achat d'électricité ou du contrat de complément de rémunération a connaissance dans l'accomplissement de ses missions et dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination. En particulier, ce service prend les mesures nécessaires pour que ces informations ne soient pas divulguées en dehors de lui. Il peut toutefois transmettre au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au préfet, à leur demande, les informations nécessaires à l'exercice de leurs missions. Le ministre, la Commission de régulation de l'énergie et le préfet préservent, dans les mêmes conditions, la confidentialité de ces informations.
 
 ####### Article R311-27-5
 
@@ -17073,11 +17152,11 @@ e) Est effectué le calcul des pénalités tarifaires fixées par les cahiers de
 
 Le projet de modification du cahier des charges est transmis, pour avis, par le ministre chargé de l'énergie à la Commission de régulation de l'énergie.
 
-La commission dispose d'un délai de quinze jours pour s'assurer du respect des conditions posées à la présente sous-section. Si tel est le cas, elle publie la modification du cahier des charges, sur son site internet, au plus tard le premier jour ouvré suivant la date d'expiration de ce délai.
+La commission dispose d'un délai de quinze jours pour s'assurer du respect des conditions posées à la présente sous-section. Lorsque son avis est favorable, la Commission publie la modification du cahier des charges sur son site internet. A défaut d'avis de la Commission dans un délai de quinze jours, son avis est réputé donné. Dans les deux cas, la Commission publie la modification du cahier des charges, sur son site internet, le premier jour ouvré suivant la date d'expiration de ce délai.
 
-Si elle estime que tel n'est pas le cas, le ministre dispose d'un délai de quinze jours à compter de la réception de l'avis défavorable de la commission pour réexaminer son projet de modification.
+Lorsque la Commission transmet un avis défavorable au ministre dans ce délai de quinze jours, le ministre dispose d'un délai de quinze jours à compter de la réception de cet avis pour réexaminer le projet de modification.
 
-Le premier jour ouvré suivant l'expiration de ce dernier délai, le cahier des charges modifié retenu par le ministre est publié par la commission, sur son site internet.
+Lorsque le ministre, à la suite d'un avis défavorable de la Commission, décide de modifier le cahier des charges, la Commission publie le cahier des charges modifié sur son site internet le jour où la décision du ministre lui est transmise. Lorsque le ministre n'a pas pris de décision explicite au terme du délai de quinze jours, il est regardé comme ayant renoncé à la modification qu'il avait proposée.
 
 ####### Article R311-27-15
 
@@ -17127,9 +17206,9 @@ Dès l'achèvement des mesures de régularisation de la situation de son install
 
 A l'issue de ce délai et, le cas échéant, au vu des résultats de la vérification effectuée, le préfet indique par courrier au producteur s'il estime que les mesures prises permettent de regarder la situation de son installation comme régularisée.
 
-Si tel est le cas, le préfet de région enjoint sans délai au cocontractant de lever la suspension de l'exécution du contrat et du versement des sommes mentionnées à l'article R. 311-29, par lettre recommandée avec demande d'avis de réception dont il transmet une copie à la Commission de régulation de l'énergie. Il en informe le producteur par la même voie. Le cocontractant dispose de deux semaines à compter de la réception de la demande du préfet pour lever la suspension du contrat.
+Si tel est le cas, le préfet de région enjoint sans délai au cocontractant de lever la suspension de l'exécution du contrat et du versement des sommes mentionnées à l'article R. 311-29, par lettre recommandée avec demande d'avis de réception dont il transmet une copie à la Commission de régulation de l'énergie. Il en informe le producteur par la même voie. Le cocontractant dispose de deux semaines à compter de la réception de la demande du préfet pour initier la procédure de levée de la suspension du contrat. La suspension du contrat est levée à la date de transmission de l'attestation de conformité de l'installation mentionnée, selon les cas, aux articles R. 311-27-1 et R. 314-7.
 
-La levée de la suspension du contrat prend effet à la date du constat de la régularisation de la situation de l'installation, indiquée dans le courrier du préfet mentionné au deuxième alinéa. Elle ne donne pas lieu au remboursement des sommes, mentionnées à l'article R. 311-29, non perçues durant la période de suspension.
+La levée de la suspension du contrat ne donne pas lieu au remboursement des sommes, mentionnées à l'article R. 311-29, non perçues durant la période de suspension. Dans le cas où les sommes mentionnées à l'article R. 311-29 sont négatives durant la période de suspension du contrat, le producteur est redevable de cette somme.
 
 ###### Article R311-32
 
@@ -17343,13 +17422,18 @@ Seuls les éléments suivants peuvent faire l'objet d'une demande modificative :
 
 - les données relatives au producteur ;
 - la puissance, dans la limite du seuil d'éligibilité à l'obligation d'achat ou au complément de rémunération et dans les limites fixées par les arrêtés mentionnés à l'article R. 314-12 ainsi que dans la limite de 30 % de la puissance déclarée dans la demande initiale, pour les installations d'une puissance installée strictement supérieure à 100 kilowatts ;
+- la tension de livraison ;
 - les autres éléments éventuellement prévus par les arrêtés mentionnés à l'article R. 314-12.
 
 Tout autre élément de la demande ne peut être modifié que dans le cadre d'une nouvelle demande de contrat.
 
 Si le contrat a été signé, il peut être modifié par avenant, dans les mêmes limites que ci-dessus. La demande d'avenant comporte exclusivement les éléments objet de modifications.
 
-II. - Les arrêtés mentionnés à l'article R. 314-12 prévoient les cas dans lesquels le producteur peut demander des modifications de son contrat après la transmission de l'attestation de conformité initiale mentionnée à l'article R. 314-7 et en fixent les modalités. Le producteur indique, dans sa demande, si ces modifications peuvent conduire à une modification des conditions initiales relatives à la construction ou au fonctionnement de l'installation. Il précise, le cas échéant, la nature de cette modification des conditions initiales.
+II. - Les arrêtés mentionnés à l'article R. 314-12 prévoient les cas dans lesquels le producteur peut demander des modifications de son contrat après la transmission de l'attestation de conformité initiale mentionnée à l'article R. 314-7 et en fixent les modalités.
+
+En outre, le producteur peut demander la modification de la tension de livraison même lorsque l'arrêté mentionné à l'article R. 314-12 qui lui est applicable ne le prévoit pas.
+
+Le producteur indique, dans sa demande, si ces modifications peuvent conduire à une modification des conditions initiales relatives à la construction ou au fonctionnement de l'installation. Il précise, le cas échéant, la nature de cette modification des conditions initiales.
 
 ####### Article R314-6
 
@@ -17429,11 +17513,13 @@ Ces révisions des conditions d'achat et de celles de complément de rémunérat
 
 ####### Article R314-13
 
-Le cocontractant transmet au ministre chargé de l'énergie et au préfet, sur leur demande, les informations concernant les caractéristiques des installations pour lesquelles un contrat d'achat ou de complément de rémunération a été signé, ainsi que les demandes qui n'ont pu aboutir à la signature d'un contrat. Ces informations ne sont accessibles qu'aux agents dûment habilités mentionnés à l'article L. 142-21.
+Electricité de France, les entreprises locales de distribution et les organismes agréés transmettent au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au préfet, sur leur demande, toutes informations contenues dans les contrats d'achat ou de complément de rémunération qui ont été signés, ainsi que dans les demandes de contrat, et toutes informations relatives à la conclusion et l'exécution de ces contrats.
+
+Electricité de France, les entreprises locales de distribution et les organismes agréés sont par ailleurs autorisés à transmettre au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au producteur concerné les informations mentionnées à l'alinéa précédent, dans la mesure où la transmission de ces informations est nécessaire à la mise en œuvre du soutien public dont bénéficient les installations concernées.
 
 Le cocontractant transmet au ministre chargé de l'énergie et au préfet, trimestriellement, un bilan par filière des demandes de contrat d'achat et de contrat de complément de rémunération et des contrats signés par trimestre ainsi que les capacités correspondantes en mégawatt, à l'échelle départementale pour le préfet et à l'échelle nationale pour le ministre.
 
-Le cocontractant préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont le service chargé de la négociation et de la conclusion du contrat d'achat d'électricité ou du contrat de complément de rémunération a connaissance dans l'accomplissement de ses missions et dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination. En particulier, ce service prend les mesures nécessaires pour que ces informations ne soient pas divulguées en dehors de lui. Il peut toutefois transmettre au ministre chargé de l'énergie ou au préfet, à leur demande, les informations nécessaires à l'exercice de leurs missions. Le ministre ou le préfet préservent, dans les mêmes conditions, la confidentialité de ces informations.
+Le cocontractant préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont le service chargé de la négociation et de la conclusion du contrat d'achat d'électricité ou du contrat de complément de rémunération a connaissance dans l'accomplissement de ses missions et dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination. En particulier, ce service prend les mesures nécessaires pour que ces informations ne soient pas divulguées en dehors de lui. Il peut toutefois transmettre au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au préfet, à leur demande, les informations nécessaires à l'exercice de leurs missions. Le ministre, la Commission de régulation de l'énergie et le préfet préservent, dans les mêmes conditions, la confidentialité de ces informations.
 
 ####### Article R314-14
 
@@ -17863,11 +17949,13 @@ Les organismes mentionnés à l'article L. 314-6-1 sont agréés par le ministre
 
 Cet agrément est nominatif et incessible sauf autorisation préalable du ministre chargé de l'énergie.
 
-Il fixe le nombre maximal de contrats d'achat que l'organisme est autorisé à gérer et la puissance installée maximale correspondante.
+Il fixe le nombre maximal de contrats d'achat que l'organisme est autorisé à gérer et la puissance installée maximale correspondante, qui ne peut être inférieure à 10 mégawatts électriques.
 
 Il est délivré, à peine de retrait, sous la condition que l'organisme s'engage à respecter, outre les conditions techniques et financières prévues à l'article R. 314-52-1, celles prévues à l'alinéa précédent ainsi que l'ensemble des obligations applicables en vertu du présent code à tout contrat d'achat d'électricité conclu en application des articles L. 314-1 à L. 314-13 et du 1° de l'article L. 311-12.
 
 Le ministre chargé de l'énergie établit et rend publique la liste des organismes auxquels il délivre un agrément.
+
+En cas de retrait de l'agrément d'un organisme par le ministre chargé de l'énergie, les contrats conclus avec cet organisme sont repris par un autre cocontractant dans les conditions prévues à l'article R. 314-52-6.
 
 ######## Article R314-52-3
 
@@ -17881,6 +17969,8 @@ Le contenu et les modalités de transmission de cette demande sont arrêtés par
 
 L'organisme agréé porte sans délai à la connaissance du ministre chargé de l'énergie toute modification des éléments au vu desquels l'agrément lui a été délivré.
 
+L'organisme agréé informe le producteur, le ministre chargé de l'énergie et la Commission de régulation de l'énergie de tout élément ou circonstance susceptible de remettre en cause l'agrément délivré dès qu'il en a connaissance.
+
 ######## Article R314-52-5
 
 Le ministre chargé de l'énergie peut demander l'évaluation du respect des engagements pris par un organisme agréé dans le cadre de son agrément.
@@ -17888,6 +17978,10 @@ Le ministre chargé de l'énergie peut demander l'évaluation du respect des eng
 ######## Article R314-52-6
 
 Lorsque l'agrément lui est retiré en application du quatrième alinéa de l'article R. 314-52-2, l'organisme en informe dans un délai de sept jours, par lettre recommandée avec demande d'avis de réception, les producteurs avec lesquels il a conclu un contrat d'achat.
+
+Electricité de France ou une entreprise locale de distribution se substituent à cet organisme comme partie aux contrats d'achat conclus avec lui pour la durée restant à courir, à la demande des producteurs. Cette substitution n'emporte aucune modification des droits et obligations des parties. A cette fin, le producteur demande la reprise du contrat, selon les cas, par Electricité de France ou une entreprise locale de distribution, dans un délai prévu par arrêté du ministre chargé de l'énergie. A défaut, le ministre chargé de l'énergie peut lui infliger une sanction financière dans les conditions prévues au paragraphe 2 de la sous-section 3 de la section 2 du chapitre II du titre IV du livre Ier de la partie législative du code de l'énergie.
+
+Les conditions et les modalités de cette substitution sont définies par arrêté du ministre chargé de l'énergie. Cet arrêté précise les informations transmises par l'organisme au nouveau cocontractant et au producteur ainsi que leur mode de transmission, notamment celui des informations nécessaires au calcul des indemnités de résiliation.
 
 ####### Paragraphe 2 : Modalités de cession du contrat d'achat à un organisme agréé
 
@@ -25355,11 +25449,13 @@ Le producteur transmet chaque année à la Commission de régulation de l'énerg
 
 ####### Article R446-15-1
 
-Le cocontractant transmet au ministre chargé de l'énergie et au préfet de région, sur leur demande, les informations concernant les caractéristiques des installations pour lesquelles un contrat d'achat mentionné aux articles D. 446-8, R. 446-12-19 ou à la sous-section 3 de la section 8 du présent chapitre ou un contrat de complément de rémunération mentionné aux articles R. 446-12-52 ou R. 446-12-57 a été signé, ainsi que sa date d'entrée en vigueur le cas échéant, ainsi que les demandes qui n'ont pu aboutir à la signature d'un contrat. Ces informations ne sont accessibles qu'aux fonctionnaires et agents dûment habilités mentionnés à l'article L. 142-21.
+Le cocontractant transmet au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au préfet, sur leur demande, les informations relatives à la conclusion et à l'exécution des contrats d'achat mentionnés aux articles D. 446-8, R. 446-12-19 ou à la sous-section 3 de la section 8 du présent chapitre ou de complément de rémunération mentionné aux articles R. 446-12-52 ou R. 446-12-57 qui ont été signés, ainsi que dans les demandes de contrat.
 
-Le cocontractant transmet au ministre chargé de l'énergie et au préfet de région, trimestriellement, un bilan par filière des demandes de contrat d'achat et de contrat de complément de rémunération, des contrats signés et des contrats pour lesquels l'installation de production a été mise en service par trimestre, ainsi que les productions annuelles prévisionnelles correspondantes en gigawattheure par an, à l'échelle régionale pour le préfet de région et à l'échelle nationale pour le ministre.
+Les cocontractants sont par ailleurs autorisés à transmettre au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au producteur concerné les informations mentionnées à l'alinéa précédent, dans la mesure où la transmission de ces informations est nécessaire à la mise en œuvre du soutien public dont bénéficient les installations concernées.
 
-Le cocontractant préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont le service chargé de la négociation et de la conclusion du contrat d'achat ou de complément de rémunération a connaissance dans l'accomplissement de ses missions et dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination. En particulier, ce service prend les mesures nécessaires pour que ces informations ne soient pas divulguées en dehors de lui. Il peut toutefois transmettre au ministre chargé de l'énergie ou au préfet de région, à leur demande, les informations nécessaires à l'exercice de leurs missions. Le ministre ou le préfet de région préservent, dans les mêmes conditions, la confidentialité de ces informations.
+Le cocontractant transmet au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au préfet, trimestriellement, un bilan par filière des demandes de contrat d'achat et de contrat de complément de rémunération, des contrats signés et des contrats pour lesquels l'installation de production a été mise en service par trimestre, ainsi que les productions annuelles prévisionnelles correspondantes en gigawattheure par an, à l'échelle régionale pour le préfet de région et à l'échelle nationale pour le ministre.
+
+Le cocontractant préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont le service chargé de la négociation et de la conclusion du contrat d'achat ou de complément de rémunération a connaissance dans l'accomplissement de ses missions et dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination. En particulier, ce service prend les mesures nécessaires pour que ces informations ne soient pas divulguées en dehors de lui. Il peut toutefois transmettre au ministre chargé de l'énergie, à la Commission de régulation de l'énergie et au préfet, à leur demande, les informations nécessaires à l'exercice de leurs missions. Le ministre, la Commission de régulation de l'énergie et le préfet préservent, dans les mêmes conditions, la confidentialité de ces informations.
 
 ###### Sous-section 2 :  Contrôle des installations et constatation des manquements
 
@@ -25539,7 +25635,7 @@ Les transferts de garanties d'origine, pris séparément ou en liaison avec le t
 
 Le gestionnaire du registre national des garanties d'origine du biogaz injecté dans le réseau de gaz naturel, prévu à l'article L. 446-18, est désigné par le ministre chargé de l'énergie, après mise en concurrence et pour une durée qui ne peut dépasser cinq ans.
 
-La mise en concurrence a pour objet l'émission, le transfert et l'annulation des garanties d'origine de biogaz, en application de l'article L. 446-18.
+La mise en concurrence a pour objet l'émission, le transfert et l'annulation des garanties d'origine de biogaz, en application de l'article L. 446-18, ainsi que la mise aux enchères des garanties d'origine de biogaz mentionnée à l'article L. 446-19.
 
 Le ministre chargé de l'énergie élabore un cahier des charges comportant notamment les éléments suivants :
 
@@ -25725,13 +25821,19 @@ A la demande d'un consommateur titulaire d'un contrat de raccordement d'un site 
 
 Le gestionnaire du registre des garanties d'origine vérifie par sondage l'exactitude des éléments figurant dans les dossiers de demande de garanties d'origine qu'il a reçus. Cette vérification ne peut porter que sur des garanties d'origine émises depuis moins de trois ans.
 
+Les agents chargés des contrôles sont habilités par les préfets de région au vu de leurs connaissances techniques et juridiques sur proposition du gestionnaire du registre des garanties d'origine. Le silence gardé par le préfet de région pendant plus de deux mois sur une demande d'habilitation vaut décision d'acceptation. L'habilitation est délivrée pour une durée de cinq ans. Elle peut être restreinte ou retirée lorsque les conditions au vu desquelles l'habilitation a été délivrée cessent d'être remplies.
+
+Les contrôleurs peuvent recueillir auprès des demandeurs de garanties d'origine les éléments permettant de vérifier l'exactitude des informations mentionnées aux articles D. 446-25. Dans les conditions générales prévues aux articles L. 142-20 à L. 142-29, ils ont accès, entre 8 heures et 20 heures, aux installations de production de biogaz pour lesquelles une garantie d'origine a été demandée ou obtenue, à l'exception de tous locaux servant de domicile. Ils sont tenus de préserver la confidentialité des informations dont ils ont connaissance à l'occasion de leurs contrôles.
+
 Le gestionnaire du registre des garanties d'origine vérifie notamment la cohérence entre le nombre de garantie d'origine dont l'émission a été demandée et la production injectée de l'installation correspondante.
 
 Tout contrôle mettant en évidence des demandes de garanties d'origine reposant sur des informations erronées fait l'objet d'un procès-verbal mentionnant la date, le lieu et la nature des constatations effectuées. Le procès-verbal est notifié dans les trente jours qui suivent sa clôture au demandeur de la garantie d'origine, ainsi qu'au préfet de la région où est située l'installation, et au ministre chargé de l'énergie par lettre recommandée avec accusé de réception ou par tout autre moyen établissant la date de la réception.
 
+Si le contrôle établit que la garantie d'origine repose sur des informations erronées, le biogaz produit postérieurement à la période sur laquelle portait la dernière garantie d'origine émise ne peut donner lieu à délivrance d'une garantie d'origine. Une nouvelle garantie d'origine ne pourra être délivrée que pour une période postérieure à un nouveau contrôle établissant la conformité aux éléments de la demande de garantie d'origine figurant à l'articles D. 446-25. Ce nouveau contrôle sera réalisé à la demande et aux frais du demandeur.
+
 ####### Article D446-32
 
-Chaque gestionnaire d'un réseau de distribution ou de transport de gaz naturel sur lequel est raccordée au moins une installation de production de biogaz enregistrée sur le registre national des garanties d'origine, met gratuitement à disposition du gestionnaire du registre des garanties d'origine les données nécessaires à l'exécution de ses missions et permettant la vérification des éléments figurant dans les dossiers de demandes de garanties d'origine, notamment les données de comptage du volume de biogaz injecté sur son réseau ou les données permettant de calculer cette valeur. Le format de ces données est défini par le gestionnaire du registre des garanties d'origine en concertation avec les gestionnaires de réseau de distribution et de transport de gaz naturel. Les modalités de cette mise à disposition sont définies dans le cadre d'un contrat approuvé par le ministre chargé de l'énergie.
+Chaque gestionnaire d'un réseau de distribution ou de transport de gaz naturel sur lequel est raccordée au moins une installation de production de biogaz enregistrée sur le registre national des garanties d'origine, met gratuitement à disposition du gestionnaire du registre des garanties d'origine les données nécessaires à l'exécution de ses missions et permettant la vérification des éléments figurant dans les dossiers de demandes de garanties d'origine, notamment les données de comptage du volume de biogaz injecté sur son réseau ou les données permettant de calculer cette valeur. Le format de ces données est défini par le gestionnaire du registre des garanties d'origine en concertation avec les gestionnaires de réseau de distribution et de transport de gaz naturel. Les modalités de cette mise à disposition, qui couvre également les données prévues aux articles D. 446-35 et D. 446-36, sont définies dans le cadre d'un contrat approuvé par le ministre chargé de l'énergie.
 
 Les gestionnaires des réseaux de distribution et de transport de gaz naturel sont responsables des données qu'ils mettent à disposition du gestionnaire du registre des garanties d'origine. En cas d'erreur sur la quantité de biogaz injecté d'une installation transmise par un gestionnaire de réseau, celui-ci transmet la valeur corrigée au gestionnaire du registre des garanties d'origine de biogaz qui procède à une régularisation sur la quantité de garanties d'origine de l'installation concernée au titre de l'injection du mois suivant sa transmission ou, le cas échéant, du premier mois pendant lequel l'installation injecte à nouveau dans le réseau.
 
@@ -25764,6 +25866,88 @@ Chaque gestionnaire de réseau de distribution et de transport de gaz naturel cr
 Chaque cocontractant transmet annuellement au gestionnaire de réseau de distribution et aux gestionnaires de réseaux de transport les données permettant la mise à jour de la base de données mentionnée à l'alinéa précédent.
 
 Le contenu de la base de données est mis à disposition du gestionnaire du registre des garanties d'origine qui s'engage à préserver la confidentialité des informations dont il a connaissance et à respecter les règles de protection spécifiques dont elles feraient l'objet.
+
+####### Article D446-36
+
+Chaque gestionnaire de réseau de distribution et de transport de gaz naturel met à disposition du gestionnaire du registre des garanties d'origine, dans les deux mois qui suivent chaque mois d'injection, la valeur de la quantité mensuelle de biogaz injecté par chacune des installations mentionnées à l'article D. 446-34 et raccordées à son réseau.
+
+Pour l'application du présent article, chaque gestionnaire de réseau de distribution de gaz naturel peut mandater un autre gestionnaire de réseau de distribution de gaz naturel ou une entité regroupant plusieurs gestionnaires de réseaux de distribution de gaz naturel pour la détermination des valeurs des quantités mensuelles de biogaz injecté mentionnées à l'alinéa précédent et pour leur mise à disposition au gestionnaire du registre des garanties d'origine. Il en informe celui-ci.
+
+####### Article D446-37
+
+Le ministre chargé de l'énergie fixe les conditions générales de la mise aux enchères prévue au quatrième alinéa de l'article L. 446-19 et en informe le gestionnaire du registre des garanties d'origine.
+
+Ces conditions générales portent notamment sur :
+
+1° La fréquence des mises aux enchères, qui ne peut ni être inférieure à un mois ni être supérieure à six mois ;
+
+2° Le prix minimal de vente des garanties d'origine, qui ne peut être inférieur aux coûts administratifs induits par les mises aux enchères ;
+
+3° La ou les zones géographiques couvertes ;
+
+4° Le nombre de lots ainsi que la description de chaque lot.
+
+####### Article D446-38
+
+Le gestionnaire du registre des garanties d'origine transmet au ministre chargé de l'énergie un projet de cahier des charges des mises aux enchères dans le délai imparti par celui-ci. Ce délai, qui court de la date de réception des conditions générales fixées par le ministre, ne peut ni être inférieur à un mois ni être supérieur à six mois.
+
+Le ministre chargé de l'énergie apporte au projet les modifications qu'il juge nécessaires et approuve définitivement le cahier des charges.
+
+Le cahier des charges est publié par le gestionnaire du registre des garanties d'origine chargé de la mise aux enchères sur son site internet.
+
+Il peut couvrir plusieurs périodes successives de mises aux enchères.
+
+Il peut être modifié sur décision du ministre chargé de l'énergie qui fixe la date de prise d'effet de ces modifications. Cette date ne peut ni être inférieure à trois mois ni être supérieure à six mois après la publication des modifications apportées.
+
+####### Article D446-39
+
+Le cahier des charges des mises aux enchères comporte notamment :
+
+1° La description des lots faisant l'objet de la mise aux enchères et le prix minimal de vente des garanties d'origine ;
+
+2° La date et l'heure limites d'envoi des offres ;
+
+3° L'adresse électronique ou la plateforme électronique par le biais de laquelle le candidat fait parvenir son offre.
+
+####### Article D446-40
+
+Seul un titulaire de compte sur le registre national des garanties d'origine prévu à l'article L. 446-18 peut participer à une mise aux enchères.
+
+####### Article D446-41
+
+Les volumes sont attribués dans l'ordre décroissant du prix des offres jusqu'à épuisement du volume mis aux enchères.
+
+En cas d'offres égales et d'épuisement du volume, les volumes restants sont attribués à chaque lauréat au prorata du volume initial demandé.
+
+Les offres en dessous du prix de réserve sont éliminées.
+
+Les garanties d'origines allouées à l'issue d'une mise aux enchères sont transférées par le gestionnaire du registre des garanties d'origine à leur nouveau titulaire dans les deux jours ouvrés qui suivent leur allocation. Les frais de transfert sont à la charge du nouveau titulaire.
+
+####### Article D446-42
+
+Dans les sept jours ouvrés suivant chaque mise aux enchères, le gestionnaire du registre des garanties d'origine publie :
+
+1° Le nombre de lauréats par lot ;
+
+2° Le volume attribué par lot ;
+
+3° Le prix moyen obtenu par lot.
+
+####### Article D446-43
+
+Le gestionnaire du registre des garanties d'origine reverse à l'Etat les revenus tirés de la mise aux enchères des garanties d'origine dans les trente jours ouvrés suivant chaque mise aux enchères.
+
+####### Article D446-44
+
+Le gestionnaire du registre des garanties d'origine adresse, chaque année, au ministre chargé de l'énergie et à la Commission de régulation de l'énergie un rapport de synthèse sur la mise aux enchères des garanties d'origine. Ce rapport indique notamment, pour chaque enchère :
+
+1° Le nombre de participants à l'enchère et par lot ;
+
+2° Le nombre de lauréats par lot ;
+
+3° Le volume attribué par lot et le prix moyen obtenu.
+
+Une version non confidentielle de ce rapport de synthèse est publiée sur le site du ministère chargé de l'énergie.
 
 ##### Section 8 : Le contrat d'expérimentation
 
