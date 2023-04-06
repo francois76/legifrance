@@ -14,7 +14,7 @@ a) Des caractéristiques énergétiques et techniques du type d'installations co
 
 b) Des conditions économiques et financières de leur exploitation, en particulier de la durée et des modalités financières du contrat d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ;
 
-c) Des prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou lors de son démantèlement ou de la remise en état de son site d'implantation, et, le cas échéant, de l'obligation de constituer des garanties financières dont la nature et le montant sont précisées ;
+c) Des prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou lors de son démantèlement ou de la remise en état de son site d'implantation, et, le cas échéant, de l'obligation de constituer une garantie financière, telle qu'une consignation auprès de la Caisse des dépôts et consignations, dont la nature, le montant, les modalités de fixation de son montant, de son actualisation et de sa modification ainsi que les conditions de sa mise en œuvre sont précisées ;
 
 d) Du délai de mise en service industrielle de l'installation ;
 

@@ -1,6 +1,9 @@
 ###### Article R124-16
 
-I.-Les bénéficiaires du chèque énergie bénéficient également de la gratuité de la mise en service et de l'enregistrement de leur contrat de fourniture d'électricité ou de gaz naturel ainsi que d'un abattement de 80 % sur la facturation d'un déplacement en raison d'une interruption de fourniture imputable à un défaut de règlement.
+I. - Les bénéficiaires du chèque énergie bénéficient également :
+- de la gratuité de la mise en service et de l'intervention pour la réduction de puissance dans le cadre de la période minimale d'alimentation en électricité prévue à l'article 2 du décret n° 2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures d'électricité, de gaz, de chaleur et d'eau ;
+- de l'enregistrement de leur contrat de fourniture d'électricité ou de gaz naturel ;
+- d'un abattement de 80 % sur la facturation d'un déplacement en raison d'une interruption de fourniture imputable à un défaut de règlement.
 
 Les pertes de recettes et les coûts occasionnés par ces dispositions sont compensés dans le cadre des dispositions prévues aux articles L. 121-8 et L. 121-36.
 

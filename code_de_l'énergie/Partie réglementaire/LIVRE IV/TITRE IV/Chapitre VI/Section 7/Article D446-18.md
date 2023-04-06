@@ -2,7 +2,7 @@
 
 Le gestionnaire du registre national des garanties d'origine du biogaz injecté dans le réseau de gaz naturel, prévu à l'article L. 446-18, est désigné par le ministre chargé de l'énergie, après mise en concurrence et pour une durée qui ne peut dépasser cinq ans.
 
-La mise en concurrence a pour objet l'émission, le transfert et l'annulation des garanties d'origine de biogaz, en application de l'article L. 446-18.
+La mise en concurrence a pour objet l'émission, le transfert et l'annulation des garanties d'origine de biogaz, en application de l'article L. 446-18, ainsi que la mise aux enchères des garanties d'origine de biogaz mentionnée à l'article L. 446-19.
 
 Le ministre chargé de l'énergie élabore un cahier des charges comportant notamment les éléments suivants :
 
