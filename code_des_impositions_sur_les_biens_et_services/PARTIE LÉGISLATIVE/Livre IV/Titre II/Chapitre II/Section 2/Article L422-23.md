@@ -17,7 +17,7 @@ OU DU GROUPEMENT D'AÉRODROMES</th>
  <tr>
   <td align="center">1</td>
   <td align="center">4,3</td>
-  <td align="center">10,8</td>
+  <td align="center">11,8</td>
  </tr>
  <tr>
   <td align="center">2</td>
@@ -27,7 +27,7 @@ OU DU GROUPEMENT D'AÉRODROMES</th>
  <tr>
   <td align="center">3</td>
   <td align="center">2,6</td>
-  <td align="center">15</td>
+  <td align="center">16</td>
  </tr>
 </tbody></table>
 
