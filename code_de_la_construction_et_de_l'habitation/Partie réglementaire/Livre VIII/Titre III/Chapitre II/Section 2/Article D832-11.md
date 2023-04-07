@@ -10,7 +10,7 @@ où :
 
 1° " K " est le coefficient de prise en charge, arrondi à deux décimales par défaut. Lorsque le calcul le porte à une valeur supérieure à 0,95, il est considéré comme égal à 0,95 ;
 
-2° " R " représente la limite supérieure de l'intervalle dans lequel se situent les ressources du ménage, appréciées conformément aux dispositions de la section 2 du chapitre II du titre II du présent livre et arrondies à la centaine d'euros supérieure ;
+2° " R " représente les ressources du ménage, appréciées conformément aux dispositions de la section 2 du chapitre II du titre II du présent livre et arrondies à la centaine d'euros supérieure ;
 
 3° " cm " est un coefficient multiplicateur fixé par arrêté ;
 

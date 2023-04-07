@@ -12,7 +12,7 @@ où :
 
 a) " K " est le coefficient de prise en charge, arrondi à deux décimales par défaut. Lorsque le calcul le porte à une valeur supérieure à 0,95, il est considéré égal à 0,95 ;
 
-b) " R " représente la limite supérieure de l'intervalle dans lequel se situent les ressources du ménage, appréciées selon les modalités prévues à la section 2 du chapitre II du titre II du présent livre et arrondies à la centaine d'euros supérieure ;
+b) " R " représente les ressources du ménage, appréciées selon les modalités prévues à la section 2 du chapitre II du titre II du présent livre et arrondies à la centaine d'euros supérieure ;
 
 c) " r " est un coefficient fixé par arrêté ;
 
@@ -20,12 +20,10 @@ d) " cm " est un coefficient multiplicateur fixé par arrêté ;
 
 e) " N " représente le nombre de parts déterminé selon le barème suivant :
 
-<div align="center">
-
-<table border="1">
+<table border="1"><tbody>
  <tr>
-  <td valign="bottom">bénéficiaire isolé</td>
-  <td align="center" valign="middle">1,4</td>
+  <td>bénéficiaire isolé</td>
+  <td align="center">1,4</td>
  </tr>
  <tr>
   <td>ménage sans personne à charge</td>
@@ -51,9 +49,7 @@ e) " N " représente le nombre de parts déterminé selon le barème suivant :
   <td>majoration par personne à charge supplémentaire</td>
   <td align="center">0,5</td>
  </tr>
-</table>
-
-</div>
+</tbody></table>
 
 2°
 
@@ -63,18 +59,16 @@ où :
 
 a) " K " est le coefficient de prise en charge, arrondi à deux décimales par défaut ; lorsque le calcul le porte à une valeur supérieure à 0,90, il est considéré égal à 0,90 ;
 
-b) " R " représente la limite supérieure de l'intervalle dans lequel se situent les ressources du ménage, appréciées selon les modalités prévues à la section 2 du chapitre II du titre II du présent livre et arrondies à la centaine d'euros supérieure ;
+b) " R " représente les ressources du ménage, appréciées selon les modalités prévues à la section 2 du chapitre II du titre II du présent livre et arrondies à la centaine d'euros supérieure ;
 
 c) " cm " est un coefficient multiplicateur fixé par arrêté ;
 
 d) " N " représente le nombre de parts déterminé selon le barème suivant :
 
-<div align="center">
-
-<table border="1">
+<table border="1"><tbody>
  <tr>
-  <td valign="bottom">bénéficiaire isolé</td>
-  <td align="center" valign="middle">1,2</td>
+  <td>bénéficiaire isolé</td>
+  <td align="center">1,2</td>
  </tr>
  <tr>
   <td>ménage sans personne à charge</td>
@@ -100,7 +94,5 @@ d) " N " représente le nombre de parts déterminé selon le barème suivant :
   <td>majoration par personne à charge supplémentaire</td>
   <td align="center">0,5</td>
  </tr>
-</table>
-
-</div>
+</tbody></table>
 

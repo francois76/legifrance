@@ -1,4 +1,12 @@
 ###### Article D323-17
 
-Peuvent seuls donner lieu à l'attribution de subventions les travaux définis par arrêté du ministre chargé de la construction et de l'habitation et ayant pour effet de mettre les logements en conformité avec les normes minimales d'habitabilité ou d'en améliorer la qualité.
+Peuvent faire l'objet d'une subvention :
+
+1° Les travaux de réhabilitation énergétique ainsi que les autres travaux destinés à la réalisation d'économies de charges ;
+
+2° Les travaux destinés à l'amélioration de la vie quotidienne et au confort dans les logements, y compris les travaux d'accessibilité de l'immeuble et d'adaptation des logements aux besoins des personnes handicapées et des personnes âgées et ceux destinés au renforcement de la sécurité des biens et des personnes dans les immeubles ;
+
+3° Les travaux réalisés sur des immeubles dégradés ;
+
+4° Les travaux de restructuration interne des immeubles et des logements ou de reprise de l'architecture extérieure.
 
