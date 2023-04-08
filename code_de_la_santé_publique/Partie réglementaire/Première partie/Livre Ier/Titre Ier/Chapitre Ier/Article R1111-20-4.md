@@ -1,8 +1,8 @@
 ###### Article R1111-20-4
 
-Le bénéficiaire de l'assurance maladie ou son représentant légal peut demander la clôture du dossier pharmaceutique à tout moment auprès d'un pharmacien d'officine ou exerçant dans une pharmacie à usage intérieur. Le pharmacien remet au bénéficiaire ou à son représentant légal une attestation de clôture mentionnant qu'elle a été réalisée à sa demande.
+Le titulaire du dossier pharmaceutique peut exercer le droit d'accès aux données le concernant prévu à l'article 15 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 auprès du Conseil national de l'ordre des pharmaciens ou d'un professionnel de santé habilité à consulter le dossier conformément à l'article L. 1111-23. Lorsqu'il est exercé auprès du Conseil national de l'ordre des pharmaciens, ce droit porte sur les données du dossier pharmaceutique et l'ensemble des traces des actions mentionnées à l'article R. 1111-20-2. Lorsqu'il est exercé auprès d'un professionnel de santé habilité, ce droit porte sur les données du dossier pharmaceutique et les traces des actions réalisées dans l'officine ou l'établissement dans lequel ce professionnel exerce.
 
-Le dossier pharmaceutique est automatiquement clos, s'il n'a fait l'objet d'aucun accès pendant une durée de trois ans.
+Le titulaire du dossier pharmaceutique peut exercer le droit de rectification prévu à l'article 16 du même règlement pour les données mentionnées au I de l'article R. 1111-20-2 qui seraient inexactes ou incomplètes. Il peut également exercer son droit à la limitation du traitement des données de son dossier pharmaceutique dans les conditions prévues par l'article 18 de ce règlement. Ces droits sont exercés auprès du Conseil national de l'ordre des pharmaciens ou d'un professionnel de santé habilité à alimenter le dossier conformément à l'article L. 1111-23.
 
-Lorsque le dossier pharmaceutique est clos, son contenu est détruit.
+En application du e du 1 de l'article 23 du règlement 2016/679 du 27 avril 2016, le titulaire du dossier pharmaceutique ne peut pas demander la suppression des données qui ont été enregistrées dans son dossier pharmaceutique par un professionnel de santé mentionné à l'article L. 1111-23.
 

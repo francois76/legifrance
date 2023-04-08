@@ -1,18 +1,24 @@
 ###### Article R1111-20-2
 
-I. – Le dossier pharmaceutique comporte les informations relatives :
+I.-Le dossier pharmaceutique contient :
 
-1° Au bénéficiaire de l'assurance maladie :
+a) Les données relatives à l'identité et à l'identification de son titulaire, notamment son identifiant national de santé, ainsi que, le cas échéant, les données relatives à l'identité de son représentant légal ou de la personne chargée de l'exercice d'une mesure de protection juridique avec représentation relative à sa personne ;
 
-a) Nom de famille ou nom d'usage, prénom usuel, date de naissance ;
+b) Les coordonnées de son titulaire et, le cas échéant, celles de son représentant légal ou de la personne chargée de l'exercice d'une mesure de protection juridique avec représentation relative à sa personne ;
 
-b) Sexe et, en cas de naissance multiple, rang de naissance.
+c) L'identification, les caractéristiques, la quantité des médicaments, produits et objets définis à l'article L. 4211-1, dispensés avec ou sans prescription médicale au titulaire, ainsi que les dates et les modalités de la dispensation et de la prescription médicale.
 
-2° A la dispensation des médicaments :
+II.-Les données relatives à l'identité et aux coordonnées mentionnées au a et au b du I concernant le titulaire du dossier pharmaceutique sont conservées dans le dossier jusqu'à sa clôture.
 
-a) Identification et quantité des médicaments, produits et objets définis à l'article L. 4211-1 dispensés pour l'usage du bénéficiaire, avec ou sans prescription médicale ;
+Les données mentionnées au a et au b du I concernant le représentant légal ou la personne chargée de l'exercice d'une mesure de protection juridique avec représentation relative à la personne sont conservées dans le dossier jusqu'à sa clôture. Ces données sont automatiquement effacées, avant la clôture du dossier, lorsque le titulaire atteint la majorité ou lorsque le Conseil national de l'ordre des pharmaciens est informé par tout moyen qu'il a été mis fin à la mesure de protection juridique dont le titulaire bénéficiait.
 
-b) Dates de dispensation.
+III.-Les données mentionnées au c du I sont conservées pendant les durées suivantes :
 
-II. – Chaque intervention sur le dossier pharmaceutique aux fins de création, de consultation, d'alimentation de clôture ou, à la demande du bénéficiaire ou de son représentant légal, de rectification des informations ou édition d'une copie fait l'objet d'une trace d'intervention consignée au dossier. Cette trace d'intervention comprend l'objet, la date de l'intervention en cause ainsi que l'identification du médecin mentionné à l'article L. 1111-23 ou celle du pharmacien d'officine ou exerçant dans une pharmacie à usage intérieur qui a effectué cette intervention.
+- cinq ans en ce qui concerne les médicaments biologiques mentionnés au 14° de l'article L. 5121-1 ;
+- vingt-trois ans en ce qui concerne les vaccins mentionnés au b du 6° de l'article L. 5121-1 ;
+- trois ans en ce qui concerne les autres médicaments, produits et objets définis à l'article L. 4211-1.
+
+Au terme de ces durées, les données sont automatiquement effacées.
+
+IV.-Le dossier pharmaceutique conserve la trace des actions réalisées, notamment la date, l'heure de l'intervention ainsi que l'identification de son auteur.
 

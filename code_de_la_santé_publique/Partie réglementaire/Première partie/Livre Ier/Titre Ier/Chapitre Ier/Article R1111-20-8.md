@@ -1,4 +1,6 @@
 ###### Article R1111-20-8
 
-Les dispositions de la présente section s'appliquent, sous le contrôle et la responsabilité des pharmaciens d'officine ou exerçant dans une pharmacie à usage intérieur, aux professionnels de santé habilités par la loi à les seconder dans la dispensation des médicaments. Ces professionnels utilisent leur propre carte de professionnel de santé, délivrée dans les conditions mentionnées au III de l'article R. 161-55 du code de la sécurité sociale ou, le cas échéant, le moyen d'authentification personnel prévu à l'article R. 1111-20-5, pour consulter et alimenter le dossier pharmaceutique.
+Le dossier pharmaceutique est accessible aux professionnels de santé mentionnés à l'article L. 1111-23 au moyen d'outils et systèmes d'information qui respectent les référentiels d'interopérabilité et de sécurité mentionnés aux articles L. 1470-2 et L. 1470-5, selon les modalités techniques et organisationnelles définies par le conseil national de l'ordre des pharmaciens, responsable du traitement au sens de l'article 3 de la loi n° 78-17 modifiée relative à l'informatique, aux fichiers et aux libertés.
+
+L'accès au dossier pharmaceutique est réalisé dans le respect des règles déontologiques applicables à chaque professionnel de santé.
 
