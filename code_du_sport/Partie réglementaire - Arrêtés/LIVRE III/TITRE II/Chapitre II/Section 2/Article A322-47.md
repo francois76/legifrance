@@ -42,7 +42,7 @@ Les équipements individuels de flottabilité de type gonflable et de type hybri
 
 2° De chaussures fermées ;
 
-3° D'un casque de protection répondant à la norme NF EN 1385 pour les activités en rivière à partir de la classe III ;
+3° Pour les activités en rivière à partir de la classe III, d'un casque de protection garantissant la sécurité. Le respect de la norme NF EN 1385 : 2012 est présumé satisfaire à cette exigence ;
 
 4° De vêtements de protection adaptés aux conditions de pratique du moment.
 
