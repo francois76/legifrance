@@ -16967,7 +16967,7 @@ Les équipements individuels de flottabilité de type gonflable et de type hybri
 
 2° De chaussures fermées ;
 
-3° D'un casque de protection répondant à la norme NF EN 1385 pour les activités en rivière à partir de la classe III ;
+3° Pour les activités en rivière à partir de la classe III, d'un casque de protection garantissant la sécurité. Le respect de la norme NF EN 1385 : 2012 est présumé satisfaire à cette exigence ;
 
 4° De vêtements de protection adaptés aux conditions de pratique du moment.
 
@@ -16997,7 +16997,7 @@ L'encadrant est équipé :
 
 2° De chaussures fermées ;
 
-3° D'un casque de protection répondant à la norme NF EN 1385 pour les activités en rivière à partir de la classe III ;
+3° Pour les activités en rivière à partir de la classe III, d'un casque de protection garantissant la sécurité. Le respect de la norme NF EN 1385 : 2012 est présumé satisfaire à cette exigence ;
 
 4° De vêtements de protection adaptés aux conditions de pratique du moment.
 
@@ -20613,7 +20613,7 @@ QUALIFICATION</th>
   <td colspan="4">Diplôme délivré par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " éducateur sportif ", mention " activités physiques pour tous ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " activités physiques pour tous ", délivré jusqu'au 1er mars 2028.</td>
   <td>4</td>
   <td>Encadrement et animation des activités physiques ou sportives.</td>
   <td>A l'exclusion des pratiques compétitives.</td>
@@ -20794,7 +20794,7 @@ Encadrement, initiation et conduite de cycles d'apprentissage des activités de 
 Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " éducateur sportif ", mention " activités de la forme " option " haltérophilie, musculation ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " activités de la forme " option " haltérophilie, musculation ", délivré jusqu'au 8 novembre 2027.</td>
   <td>4</td>
   <td>Découverte d'activités de loisir et d'animation des activités de la forme.
 Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio-training et en haltérophilie.</td>
@@ -20803,7 +20803,7 @@ Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en
  <tr>
 <td align="left">
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités de la forme " option " cours collectifs ", délivré jusqu'au 1er janvier 2024.</td>
+BP JEPS, spécialité " éducateur sportif " mention " activités de la forme option " cours collectifs ", délivré jusqu'au 8 novembre 2027.</td>
   <td>4</td>
   <td>Découverte d'activités de loisir et d'animation des activités de la forme.
 Encadrement, initiation et conduite de cycles d'apprentissage des activités de la forme en cours collectifs.</td>
@@ -20961,7 +20961,7 @@ Diplôme délivré par le ministère chargé de la santé</td>
 Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>DE JEPS, spécialité " perfectionnement sportif " mention " activités physiques et sportives adaptées ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>DE JEPS, spécialité " perfectionnement sportif " mention " activités physiques et sportives adaptées ", délivré jusqu'au 1er février 2028.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -21158,47 +21158,9 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " aviron et disciplines associées ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron et disciplines associées.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-BP JEPS, spécialité " activités nautiques " mention plurivalente " aviron de mer ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition, en aviron de mer.</td>
-  <td>A l'exclusion des bateaux d'aviron non utilisables en mer, pour tout public, sur le milieu marin.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " aviron d'initiation et de découverte ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation.</td>
-  <td>Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " éducateur sportif " mention " aviron et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " aviron et disciplines associées ", délivré jusqu'au 9 octobre 2027.</td>
   <td>4</td>
   <td>Encadrement, animation et conduite de cycles d'apprentissage et de séances d'entraînement en aviron et disciplines associées.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-UCC " aviron de mer " associée au BP JEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation en aviron de mer, sur des bateaux d'aviron utilisables en mer, sur le milieu marin.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-UCC " aviron d'initiation et de découverte " associée au BP JEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, sur des plans d'eau calmes, abrités et délimités.</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -21332,17 +21294,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités sports collectifs ", mention " basket-ball ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans les sports collectifs.
-
-Conduite d'une séance d'entraînement en basket-ball.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-BP JEPS, spécialité "éducateur sportif" mention "basket-ball", délivré jusqu'au 8 septembre 2027.</td>
+  <td>BP JEPS, spécialité "éducateur sportif" mention "basket-ball", délivré jusqu'au 8 septembre 2027.</td>
   <td>4</td>
   <td>Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage en basket-ball.</td>
   <td align="left"/>
@@ -21399,7 +21351,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " éducateur sportif " mention " boxe ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " boxe ", délivré jusqu'au 8 novembre 2027.</td>
   <td>4</td>
   <td>Encadrement, initiation et conduite de cycles d'apprentissage en boxe.</td>
   <td align="left"/>
@@ -21407,7 +21359,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
  <tr>
 <td align="left">
 
-DE JEPS, spécialité " perfectionnement sportif " mention " boxe ", délivré jusqu'au 1er janvier 2024.</td>
+DE JEPS, spécialité " perfectionnement sportif " mention " boxe ", délivré jusqu'au 8 novembre 2027.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -21415,7 +21367,7 @@ DE JEPS, spécialité " perfectionnement sportif " mention " boxe ", délivré j
  <tr>
 <td align="left">
 
-DES JEPS, spécialité " performance sportive " mention " boxe ", délivré jusqu'au 1er janvier 2024.</td>
+DES JEPS, spécialité " performance sportive" mention " boxe ", délivré jusqu'au 8 novembre 2027.</td>
   <td>6</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -21445,38 +21397,6 @@ Licence professionnelle mention " animation, gestion et organisation des activit
  </tr>
  <tr>
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " canoë-kayak et disciplines associées ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en canoë-kayak en eau calme et en rivière d'eau vive.</td>
-  <td>Pour tout public en eau calme. En rivière jusqu'en classe III incluse.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " canoë-kayak eau calme et rivière d'eau vive ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en canoë-kayak en eau calme et en rivière d'eau vive.</td>
-  <td>Pour tout public en eau calme. En rivière jusqu'en classe III incluse.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " canoë-kayak eau calme, mer et vagues ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en canoë-kayak en eau calme, mer et vagues. Conduite de séances d'initiation en kayak de vagues.</td>
-  <td>Pour tout public en eau calme et en mer, dans la limite de la navigation en 6ème catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution.</td>
- </tr>
- <tr>
-  <td>UCC " canoë-kayak, eau calme, mer et vagues " associée au BP JEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation en canoë-kayak, eau calme, mer et vagues.</td>
-  <td>En eau calme et en mer, dans la limite de la navigation en 6ème catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution.</td>
- </tr>
- <tr>
-  <td>UCC " canoë-kayak, eau calme et rivière d'eau vive " associée au BP JEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, en canoë-kayak, eau calme et rivière d'eau vive.</td>
-  <td>En rivière dans la limite de la classe III incluse.</td>
  </tr>
  <tr>
   <td>BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 Beaufort ", délivré jusqu'au 1er janvier 2024.</td>
@@ -21570,12 +21490,6 @@ CANYONISME-ENVIRONNEMENT SPÉCIFIQUE</td>
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " canoë-kayak et disciplines associées ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement des activités de canyonisme dans les canyons cotés jusqu'à V1, A5 et E II inclus.</td>
-  <td>En eau vive jusqu'en classe III incluse.</td>
- </tr>
- <tr>
   <td>BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement du canyonisme, jusqu'à la cotation V1, A 5 et E II incluse.</td>
@@ -21597,12 +21511,6 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " glisse aérotractée ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en glisse aérotractée.</td>
-  <td>Activités de cerf-volant, de cerf-volant de traction terrestre, de cerf-volant de traction nautique ou de planche nautique ou de planche nautique tractée dite " kitesurf " pour tout public et sur tout lieu nautique ou terrestre de pratique de l'activité.</td>
- </tr>
- <tr>
   <td>BP JEPS, spécialité " éducateur sportif " mention " glisse aérotractée et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement, animation et enseignement des activités de découverte et d'initiation du cerf-volant.</td>
@@ -21618,26 +21526,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente "char à voile ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation en char à voile : char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, pour tout lieu de pratique de l'activité aménagé et ouvert.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">BP JEPS, spécialité " activités nautiques " mention plurivalente " char à voile d'initiation et de découverte ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation en char à voile, sur des parcours école aménagés.</td>
-  <td>A l'exception des activités tractées.</td>
- </tr>
- <tr>
-  <td>UCC " char à voile d'initiation et de découverte " associée au BPJEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation en char à voile, sur des parcours école aménagés.</td>
-  <td>A l'exception des activités tractées.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " éducateur sportif " mention " char à voile ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " char à voile ", délivré jusqu'au 10 octobre 2027.</td>
   <td>4</td>
   <td>Encadrement et animation d'activités de découverte et d'initiation en char à voile : char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, sur tout lieu de pratique de l'activité aménagé et ouvert.</td>
   <td align="left"/>
@@ -21645,7 +21534,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
  <tr>
 <td align="left">
 
-DE JEPS, spécialité " perfectionnement sportif " mention " char à voile ", délivré jusqu'au 1er janvier 2024.</td>
+DE JEPS, spécialité " perfectionnement sportif " mention " char à voile ", délivré jusqu'au 1er décembre 2026.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -21653,7 +21542,7 @@ DE JEPS, spécialité " perfectionnement sportif " mention " char à voile ", d�
  <tr>
 <td align="left">
 
-DES JEPS, spécialité " performance sportive " mention " char à voile ", délivré jusqu'au 1er janvier 2024.</td>
+DES JEPS, spécialité " performance sportive " mention " char à voile ", délivré jusqu'au 1er juin 2027.</td>
   <td>6</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -21821,25 +21710,7 @@ DES JEPS, spécialité " performance sportive " mention " cyclisme ", délivré 
  <tr>
 <td align="left" colspan="4">
 
-DELTAPLANE-ENVIRONNEMENT SPÉCIFIQUE</td>
- </tr>
- <tr>
-  <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
- </tr>
- <tr>
-  <td>DE JEPS, spécialité " perfectionnement sportif " mention " deltaplane ", délivré jusqu'au 1er janvier 2024.</td>
-  <td>5</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
-  <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.</td>
- </tr>
- <tr>
-  <td>DES JEPS, spécialité " performance sportive " mention " deltaplane ", délivré jusqu'au 1er janvier 2024.</td>
-  <td>6</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
-  <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.</td>
- </tr>
- <tr>
-  <td colspan="4">ÉQUITATION
+ÉQUITATION
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.</td>
  </tr>
  <tr>
@@ -21918,19 +21789,10 @@ Titres à finalité professionnelle délivrés par la fédération française d'
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation des entreprises équestres</td>
  </tr>
  <tr>
-  <td>CQP " enseignant animateur d'équitation ", délivré jusqu'au 21 décembre 2022.</td>
+  <td>CQP " enseignant animateur d'équitation ", délivré jusqu'au 14 décembre 2027.</td>
   <td align="left"/><td align="left">
 
 Conduite de séances d'initiation aux pratiques équestres.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-CQP " organisateur de randonnées équestres ", délivré jusqu'au 21 décembre 2022.</td>
-  <td align="left"/><td align="left">
-
-Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres.</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -22101,24 +21963,6 @@ DES JEPS, spécialité " performance sportive " mention " escrime ", délivré j
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport</td>
  </tr>
  <tr>
-  <td>CQP moniteur d'escrime , option fleuret , délivré du 14 octobre 2020 au 14 octobre 2022.</td>
-  <td>3</td>
-  <td>Encadrement des activités de l'escrime sportive au fleuret par la découverte et l'initiation.</td>
-  <td>Dans la limite de 20 pratiquants.</td>
- </tr>
- <tr>
-  <td>CQP moniteur d'escrime , option épée , délivré du 14 octobre 2020 au 14 octobre 2022.</td>
-  <td>3</td>
-  <td>Encadrement des activités de l'escrime sportive à l'épée par la découverte et l'initiation.</td>
-  <td>Dans la limite de 20 pratiquants.</td>
- </tr>
- <tr>
-  <td>CQP moniteur d'escrime , option sabre , délivré du 14 octobre 2020 au 14 octobre 2022.</td>
-  <td>3</td>
-  <td>Encadrement des activités de l'escrime sportive au sabre par la découverte et l'initiation.</td>
-  <td>Dans la limite de 20 pratiquants.</td>
- </tr>
- <tr>
   <td colspan="4">FOOTBALL
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.</td>
  </tr>
@@ -22143,13 +21987,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS spécialité " activités sports collectifs " mention " football ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. Conduite en autonomie d'une séance d'entraînement en football.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">DES JEPS, spécialité " performance sportive " mention " football ", délivré jusqu'au 1er octobre 2026.</td>
+  <td>DES JEPS, spécialité " performance sportive " mention " football ", délivré jusqu'au 1er octobre 2026.</td>
   <td>6</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -22217,12 +22055,6 @@ GLISSE AÉROTRACTÉE-ENVIRONNEMENT SPECIFIQUE</td>
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " glisse aérotractée ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en glisse aérotractée.</td>
-  <td>Activités de cerf-volant, de cerf-volant de traction terrestre, de cerf-volant de traction nautique ou de planche nautique ou de planche nautique tractée dite " kitesurf ", pour tout public et sur tout lieu nautique ou terrestre de pratique de l'activité.</td>
- </tr>
- <tr>
   <td>BP JEPS, spécialité " éducateur sportif " mention " glisse aérotractée et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement, animation et enseignement :
@@ -22250,7 +22082,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS spécialité " éducateur sportif " mention " golf ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS spécialité " éducateur sportif " mention " golf ", délivré jusqu'au 8 novembre 2027.</td>
   <td>4</td>
   <td>Encadrement, initiation et conduite de cycle d'apprentissage en golf.</td>
   <td align="left"/>
@@ -22272,11 +22104,10 @@ DES JEPS spécialité " performance sportive " mention " golf ", délivré jusqu
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">GRIMPE D'ARBRES</td>
-  <td align="left"/><td align="left"/><td align="left"/>
+<td align="left" colspan="4">GRIMPE D'ARBRES</td>
  </tr>
  <tr>
-<td align="left">Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport</td>
+  <td>Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport</td>
   <td align="left"/><td align="left"/><td align="left"/>
  </tr>
  <tr>
@@ -22313,7 +22144,7 @@ mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " éducateur sportif ", mention " activités gymniques ", option " activités gymniques acrobatiques ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif ", mention " activités gymniques ", option " activités gymniques acrobatiques ", délivré jusqu'au 1er janvier 2028.</td>
   <td>4</td>
   <td>Encadrement des activités de découverte, d'animation et conduite de cycles d'apprentissage des activités gymniques. Entraînement des activités gymniques acrobatiques.</td>
   <td align="left"/>
@@ -22321,7 +22152,7 @@ mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du
  <tr>
 <td align="left">
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités gymniques ", option " gymnastique rythmique ", délivré jusqu'au 1er janvier 2024.</td>
+BP JEPS, spécialité " éducateur sportif ", mention " activités gymniques ", option " gymnastique rythmique ", délivré jusqu'au 1er janvier 2028.</td>
   <td>4</td>
   <td>Encadrement des activités de découverte, d'animation et conduite de cycles d'apprentissage des activités gymniques. Entraînement de la gymnastique rythmique.</td>
   <td align="left"/>
@@ -22399,6 +22230,27 @@ DES JEPS, spécialité " performance sportive " mention " tumbling ", délivré 
   <td align="left"/>
  </tr>
  <tr>
+<td align="left" colspan="4">Certificats de qualification délivrés par la Commission paritaire nationale emploi formation du sport</td>
+ </tr>
+ <tr>
+  <td>CQP " animateur des activités gymniques ", option " expression " délivré jusqu'au 24 octobre 2025.</td>
+  <td>3</td>
+  <td>Conduite de séances de découverte et d'initiation des activités gymniques d'expression.</td>
+  <td align="left"/>
+ </tr>
+ <tr>
+<td align="left">CQP " animateur des activités gymniques ", option " éveil petite enfance " délivré jusqu'au 24 octobre 2025.</td>
+  <td>3</td>
+  <td>Conduite de séances de découverte et d'initiation des activités gymniques d'éveil pour la petite enfance.</td>
+  <td align="left"/>
+ </tr>
+ <tr>
+<td align="left">CQP " animateur des activités gymniques ", option " acrobatique " délivré jusqu'au 24 octobre 2025.</td>
+  <td>3</td>
+  <td>Conduite de séances de découverte et d'initiation des activités gymniques acrobatiques.</td>
+  <td align="left"/>
+ </tr>
+ <tr>
 <td align="left" colspan="4">
 
 HALTEROPHILIE MUSCULATION FORCE ATHLETIQUE CULTURISME
@@ -22438,16 +22290,17 @@ Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en
 Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " éducateur sportif ", mention " activités de la forme " option " haltérophilie, musculation ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif ", mention " activités de la forme " option " haltérophilie, musculation ", délivré jusqu'au 8 novembre 2027.</td>
   <td>4</td>
-  <td>Découverte d'activités de loisir et d'animation des activités de la forme.
-Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio training et en haltérophilie.</td>
+  <td>Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio training et en haltérophilie.
+
+Découverte d'activités de loisir et d'animation des activités de la forme.</td>
   <td align="left"/>
  </tr>
  <tr>
 <td align="left">
 
-DE JEPS, spécialité " perfectionnement sportif " mention " haltérophilie, musculation et force athlétique ", délivré jusqu'au 1er janvier 2024.</td>
+DE JEPS, spécialité " perfectionnement sportif " mention " haltérophilie, musculation et force athlétique ", délivré jusqu'au 8 novembre 2027.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -22492,15 +22345,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS spécialité " activités sports collectifs " mention " handball ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. Conduite en autonomie, d'une séance d'entraînement en handball.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-DE JEPS, spécialité " perfectionnement sportif " mention " handball ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>DE JEPS, spécialité " perfectionnement sportif " mention " handball ", délivré jusqu'au 1er janvier 2024.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -22580,15 +22425,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS spécialité " activités sports collectifs " mention " hockey ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. Conduite en autonomie, d'une séance d'entraînement en hockey.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-BP JEPS, spécialité " éducateur sportif " mention " hockey ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " hockey ", délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement, initiation et conduite de cycle d'apprentissage et de séances d'entrainement en hockey.</td>
   <td align="left"/>
@@ -22758,6 +22595,15 @@ DES JEPS, spécialité " performance sportive ", mention " karaté et discipline
   <td align="left"/>
  </tr>
  <tr>
+<td align="left" colspan="4">Titre à finalité professionnelle délivré par la Fédération française de karaté</td>
+ </tr>
+ <tr>
+  <td>Moniteur professionnel karaté wushu et disciplines associées, délivré jusqu'au 24 octobre 2024.</td>
+  <td>3</td>
+  <td>Conduite de séances de découverte, d'initiation et d'apprentissage en karaté, wushu et disciplines associées.</td>
+  <td align="left"/>
+ </tr>
+ <tr>
 <td align="left" colspan="4">
 
 KENDO
@@ -22812,13 +22658,7 @@ Dans le cas où l'activité est organisée dans une zone de baignade surveillée
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">BP JEPS spécialité " activités nautiques " quelle que soit la mention, délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement du longe-côte.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">BP JEPS spécialité " éducateur sportif " mention " char à voile ", délivré jusqu'au 1er janvier 2024.</td>
+<td align="left">BP JEPS spécialité " éducateur sportif " mention " char à voile ", délivré jusqu'au 10 octobre 2027.</td>
   <td>4</td>
   <td>Encadrement du longe-côte.</td>
   <td align="left"/>
@@ -22848,7 +22688,7 @@ Dans le cas où l'activité est organisée dans une zone de baignade surveillée
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">BPJEPS spécialité " éducateur sportif " mention " ski nautique-wakeboard, disciplines associées et tous supports de glisse tractés " délivré jusqu'au 1er janvier 2024.</td>
+<td align="left">BP JEPS spécialité " éducateur sportif " mention " ski nautique-wakeboard, disciplines associées et tous supports de glisse tractés " délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement du longe-côte.</td>
   <td align="left"/>
@@ -22872,13 +22712,13 @@ Dans le cas où l'activité est organisée dans une zone de baignade surveillée
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">BP JEPS spécialité " éducateur sportif " mention " aviron et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td>
+<td align="left">BP JEPS spécialité " éducateur sportif " mention " aviron et disciplines associées ", délivré jusqu'au 9 octobre 2027.</td>
   <td>4</td>
   <td>Encadrement du longe-côte.</td>
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">BPJEPS spécialité " éducateur sportif " mention " plongée subaquatique ", délivré jusqu'au 1er janvier 2024.</td>
+<td align="left">BP JEPS spécialité " éducateur sportif " mention " plongée subaquatique ", délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement du longe-côte.</td>
   <td align="left"/>
@@ -22901,13 +22741,13 @@ Dans le cas où l'activité est organisée dans une zone de baignade surveillée
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">DE JEPS spécialité " perfectionnement sportif " mention " triathlon " délivré jusqu'au 1er janvier 2024.</td>
+<td align="left">DE JEPS spécialité " perfectionnement sportif " mention " triathlon "délivré jusqu'au 1er septembre 2023.</td>
   <td>5</td>
   <td>Encadrement du longe-côte.</td>
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">DE JEPS spécialité " perfectionnement sportif " mention " char à voile " délivré jusqu'au 1er janvier 2024.</td>
+<td align="left">DE JEPS spécialité " perfectionnement sportif " mention " char à voile " délivré jusqu'au 1er décembre 2026.</td>
   <td>5</td>
   <td>Encadrement du longe-côte.</td>
   <td align="left"/>
@@ -22967,6 +22807,12 @@ Dans le cas où l'activité est organisée dans une zone de baignade surveillée
   <td align="left"/>
  </tr>
  <tr>
+<td align="left">DE JEPS spécialité " perfectionnement sportif " mention " triathlon et disciplines enchaînées " , délivré jusqu'au 1er janvier 2027.</td>
+  <td>5</td>
+  <td>Encadrement du longe-côte.</td>
+  <td align="left"/>
+ </tr>
+ <tr>
 <td align="left">DES JEPS spécialité " performance sportive " mention " plongée subaquatique " délivré jusqu'au 1er janvier 2024.</td>
   <td>6</td>
   <td>Encadrement du longe-côte.</td>
@@ -22979,31 +22825,13 @@ Dans le cas où l'activité est organisée dans une zone de baignade surveillée
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">DES JEPS spécialité " performance sportive " mention " canoë-kayak et disciplines associées en eau vive et en mer " délivré jusqu'au 1er janvier 2024.</td>
-  <td>6</td>
-  <td>Encadrement du longe-côte.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">DES JEPS spécialité " performance sportive " mention " char à voile " délivré jusqu'au 1er janvier 2024.</td>
+<td align="left">DES JEPS spécialité " performance sportive " mention " char à voile " délivré jusqu'au 1er juin 2027.</td>
   <td>6</td>
   <td>Encadrement du longe-côte.</td>
   <td align="left"/>
  </tr>
  <tr>
 <td align="left">DES JEPS spécialité " performance sportive " mention " aviron et disciplines associées " délivré jusqu'au 1er janvier 2024.</td>
-  <td>6</td>
-  <td>Encadrement du longe-côte.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">DES JEPS, spécialité " performance sportive ", mention " ski nautique et disciplines associées ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>6</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">DES JEPS spécialité " performance sportive " mention " surf " délivré jusqu'au 1er janvier 2024.</td>
   <td>6</td>
   <td>Encadrement du longe-côte.</td>
   <td align="left"/>
@@ -23036,12 +22864,6 @@ Dans le cas où l'activité est organisée dans une zone de baignade surveillée
 <td align="left">DES JEPS spécialité " performance sportive " mention " voile " délivré jusqu'au 1er janvier 2024.</td>
   <td>6</td>
   <td>Encadrement du longe-côte.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">DES JEPS, spécialité " performance sportive " mention " glisses aérotractées nautiques ", délivré jusqu'au 1er juin 2022.</td>
-  <td>6</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -23102,16 +22924,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>UCC " conduite de loisirs sur quad " associée au BP JEPS, spécialité " sport automobile ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte en quad.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-DE JEPS, spécialité " perfectionnement sportif " mention " motocyclisme ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>DE JEPS, spécialité " perfectionnement sportif " mention " motocyclisme ", délivré jusqu'au 1er janvier 2024.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -23134,59 +22947,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " motonautisme ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation en motonautisme.</td>
-  <td>Activités de jet, bateau à moteur, engins tractés pour tout public et sur tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " engins tractés ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation, en engins tractés.</td>
-  <td>Pratique d'engins flottants tractés sur l'eau (bouées, ski-bus, fly fish …) pour tout public et sur tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " jet " (véhicule nautique à moteur), délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation, en jet.</td>
-  <td>Activités de véhicule nautique à moteur pour tout public et sur tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " bateau à moteur d'initiation et de découverte ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités d'initiation et de découverte.</td>
-  <td>Tous types de bateaux définis, pour tout public et sur tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
-  <td>UCC " jet " associée au BPJEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation en jet.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-UCC " bateau à moteur d'initiation et de découverte " associée au BPJEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités d'initiation et de découverte sur tous types de bateaux définis.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-UCC " engins tractés " associée au BPJEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, en engins tractés.
-Pratique d'engins flottants tractés sur l'eau (bouées, ski-bus, fly fish...).</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-BP JEPS, spécialité " éducateur sportif " mention " motonautisme et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " motonautisme et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement et animation en motonautisme et disciplines associées des activités de véhicules nautiques à moteur à bras et à selle ; d'engins tractés et d'engins à sustentation hydro propulsés ; de bateau à moteur en initiation et découverte.</td>
   <td align="left"/>
@@ -23337,8 +23098,8 @@ Surveillance et sauvetage en milieu aquatique.</td>
   <td>Autorisation d'exercer pour une durée d'un an renouvelée à l'issue d'une formation de mise à niveau.</td>
  </tr>
  <tr>
-  <td>DE JEPS, " spécialité perfectionnement sportif " mention " activités du parachutisme ", délivré jusqu'au 1er janvier 2024.</td>
-  <td>5</td>
+  <td>DE JEPS, spécialité " perfectionnement sportif " mention " activités du parachutisme ", délivré jusqu'au 1er novembre 2028.</td>
+  <td>4</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
  </tr>
@@ -23352,67 +23113,14 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " parachutisme ascensionnel nautique " délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en parachutisme ascensionnel nautique.</td>
-  <td>Avec des voilures hémisphériques à tuyères, dans tous les modes de pratique, pour tout public et sut tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
-  <td>UCC " parachutisme ascensionnel nautique " associée au BPJEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation en parachutisme ascensionnel nautique, avec des voilures hémisphériques à tuyères.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left" colspan="4">
-
-PARAPENTE-ENVIRONNEMENT SPÉCIFIQUE</td>
- </tr>
- <tr>
-  <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
- </tr>
- <tr>
-  <td>DE JEPS, spécialité " perfectionnement sportif " mention " parapente " obtenu à partir du 1er janvier 2020 et délivré jusqu'au 1er janvier 2024.</td>
-  <td>5</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
-  <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
-A l'exception de l'enseignement du parapente en milieu aménagé au-dessus de l'eau.</td>
- </tr>
- <tr>
-  <td>DES JEPS, spécialité " performance sportive " mention " parapente ", obtenu à partir du 1er janvier 2020 et délivré jusqu'au 1er janvier 2024.</td>
-  <td>6</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
-  <td>A l'exception de l'enseignement du parapente en milieu aménagé au-dessus de l'eau.
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau</td>
- </tr>
- <tr>
-  <td>CC " enseignement en milieu aménagé " associé au :
-
-- DE JEPS spécialité
-
-" perfectionnement sportif " mention " parapente "
-
-- DES JEPS spécialité
-
-" performance sportive " mention " parapente "</td>
-  <td align="left"/><td align="left">
-
-Enseignement du parapente en milieu aménagé au-dessus de l'eau.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left" colspan="4">
-
-PÊCHE
+  <td colspan="4">PÊCHE
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.</td>
  </tr>
  <tr>
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS spécialité " éducateur sportif " mention " pêche de loisirs ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS spécialité " éducateur sportif " mention " pêche de loisirs ", délivré jusqu'au 14 novembre 2027.</td>
   <td>4</td>
   <td>Encadrement, animation et initiation d'activités de pêche de loisirs et sportive en eau douce et depuis le bord sur le littoral.</td>
   <td align="left"/>
@@ -23595,13 +23303,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités sports collectifs " mention " rugby à XIII " délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. Conduite d'une séance d'entraînement en rugby à XIII.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">DE JEPS, spécialité " perfectionnement sportif " mention " rugby à XIII ", délivré jusqu'au 1er octobre 2026.</td>
+  <td>DE JEPS, spécialité " perfectionnement sportif " mention " rugby à XIII ", délivré jusqu'au 1er octobre 2026.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -23633,13 +23335,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " rugby à XV " délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. Conduite d'une séance d'entraînement en rugby à XV.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">BP JEPS spécialité " éducateur sportif " mention " rugby à XV " délivré jusqu'au 1er septembre 2026</td>
+  <td>BP JEPS spécialité " éducateur sportif " mention " rugby à XV " délivré jusqu'au 1er septembre 2026</td>
   <td>4</td>
   <td>Conduite de séances et de cycles d'animation, d'initiation et d'apprentissage en rugby à XV.</td>
   <td align="left"/>
@@ -23647,16 +23343,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
  <tr>
 <td align="left">
 
-BP JEPS, spécialité " activités sports collectifs " mention " rugby à XV ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs.
-Conduite d'une séance d'entraînement en rugby.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-DE JEPS, spécialité " perfectionnement sportif " mention " rugby à XV ", délivré jusqu'au 1er janvier 2024.</td>
+DE JEPS, spécialité " perfectionnement sportif " mention " rugby à XV ", délivré jusqu'au 2 avril 2027.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -23664,7 +23351,7 @@ DE JEPS, spécialité " perfectionnement sportif " mention " rugby à XV ", dél
  <tr>
 <td align="left">
 
-DES JEPS, spécialité " performance sportive " mention " rugby à XV ", délivré jusqu'au 1er janvier 2024.</td>
+DES JEPS, spécialité " performance sportive mention rugby à XV ", délivré jusqu'au 2 avril 2027.</td>
   <td>6</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -23766,28 +23453,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " ski nautique et disciplines associées ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en ski nautique et disciplines associées.</td>
-  <td>Activités du ski nautique et des disciplines associées (téléski nautique, wakeboard, nu-pied et courses) pour tout public et sur tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " ski nautique d'initiation et de découverte ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation en ski nautique.</td>
-  <td>Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
-  <td>UCC " ski nautique d'initiation et de découverte ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation en ski nautique : activités du ski nautique (bi-ski, wakeboard).</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-BP JEPS, spécialité " éducateur sportif ", mention " ski nautique-wakeboard, disciplines associées et tous supports de glisse ", option " traction bateau ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif ", mention " ski nautique-wakeboard, disciplines associées et tous supports de glisse ", option " traction bateau ", délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement, enseignement et animation du ski nautique-wakeboard, des disciplines associées et de tous supports de glisse tractés dans l'option.</td>
   <td align="left"/>
@@ -23801,20 +23467,26 @@ BP JEPS, spécialité " éducateur sportif ", mention " ski nautique-wakeboard, 
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">DES JEPS, spécialité " performance sportive ", mention " ski nautique et disciplines associées ", délivré jusqu'au 31 décembre 2022.</td>
+<td align="left">DES JEPS, spécialité " performance sportive " , mention " ski nautique, wakeboard et disciplines associées ", délivré jusqu'au 1er mars 2027.</td>
   <td>6</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
+  <td>Enseignement, animation, encadrement ou entrainement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
   <td align="left"/>
  </tr>
  <tr>
 <td align="left" colspan="4">
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport</td>
+Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport</td>
  </tr>
  <tr>
   <td>CQP " animateur ski nautique, wakeboard et engins tractés ", délivré jusqu'au 29 juin 2023.</td>
   <td>3</td>
   <td>Conduite de séances de découverte, d'animation et d'initiation en ski nautique, wakeboard, engins tractés dans le mode de traction " bateau ".</td>
+  <td align="left"/>
+ </tr>
+ <tr>
+<td align="left">CQP " accompagnateur en téléski nautique ", délivré jusqu'au 14 décembre 2027.</td>
+  <td>3</td>
+  <td>Conduite d'activités de découverte en téléski nautique sur différents supports de glisse.</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -23826,7 +23498,7 @@ SPÉLÉOLOGIE-ENVIRONNEMENT SPÉCIFIQUE</td>
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>DE JEPS, spécialité " perfectionnement sportif ", mention " spéléologie ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>DE JEPS, spécialité " perfectionnement sportif ", mention " spéléologie ", délivré jusqu'au 7 décembre 2027.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.</td>
@@ -23843,36 +23515,6 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
  </tr>
  <tr>
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " sport automobile " mention " circuit ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en circuit.</td>
-  <td>A l'exclusion de la conduite sur glace</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " sport automobile " mention " karting " délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en karting.</td>
-  <td>A l'exclusion de la conduite sur glace pour des karts autres que les catégories B1 et B2</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " sport automobile " mention " perfectionnement du pilotage ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en perfectionnement du pilotage.</td>
-  <td>A l'exclusion de la conduite sur glace</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " sport automobile " mention " rallye ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en rallye.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">BP JEPS, spécialité " sport automobile " mention " tout terrain ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en tout-terrain.</td>
-  <td>A l'exclusion de la préparation à la conduite sur circuit revêtue</td>
  </tr>
  <tr>
   <td>BP JEPS, spécialité " éducateur sportif " mention " sport automobile " option " perfectionnement du pilotage ", délivré jusqu'au 1er octobre 2026.</td>
@@ -23893,44 +23535,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td>A l'exclusion de l'entrainement à la compétition de haut niveau</td>
  </tr>
  <tr>
-  <td>UCC " conduite sur glace " associée au BP JEPS spécialité sport automobile .</td>
-  <td align="left"/><td align="left">Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en conduite sur glace.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-DE JEPS, spécialité " perfectionnement sportif " mention " sport automobile circuit ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>5</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-DE JEPS, spécialité " perfectionnement sportif " mention " sport automobile karting ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>5</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-DE JEPS, spécialité " perfectionnement sportif " mention " sport automobile rallye ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>5</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-DE JEPS, spécialité " perfectionnement sportif " mention " sport automobile tout terrain ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>5</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">DE JEPS, spécialité "perfectionnement sportif" mention "sport automobile" option "circuit", délivré jusqu'au 11 juillet 2027.</td>
+  <td>DE JEPS, spécialité "perfectionnement sportif" mention "sport automobile" option "circuit", délivré jusqu'au 11 juillet 2027.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
   <td align="left"/>
@@ -23984,7 +23589,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " éducateur sportif " mention " sport de contact et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " sport de contact et disciplines associées ", délivré jusqu'au 8 novembre 2027.</td>
   <td>4</td>
   <td>Encadrement, initiation et conduite de cycles d'apprentissage en sports de contact et disciplines associées.</td>
   <td align="left"/>
@@ -23999,18 +23604,6 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 <td align="left">DE JEPS, spécialité " perfectionnement sportif " mention " kick boxing ", délivré jusqu'au 31 décembre 2023.</td>
   <td>5</td>
   <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">DES JEPS, spécialité " performance sportive ", mention " boxe thaï-muay thaï ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>6</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">DES JEPS, spécialité " performance sportive ", mention " kick boxing ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>6</td>
-  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -24064,7 +23657,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option disciplines d'expression sur glace ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option " disciplines d'expression sur glace ", délivré jusqu'au 14 novembre 2027.</td>
   <td>4</td>
   <td>Encadrement en sécurité d'activités de loisir et de découverte des sports de glace. Conduite de cycles d'apprentissage dans les disciplines d'expression sur glace.</td>
   <td align="left"/>
@@ -24072,7 +23665,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
  <tr>
 <td align="left">
 
-BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option disciplines de vitesse sur glace ", délivré jusqu'au 1er janvier 2024.</td>
+BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option " disciplines de vitesse sur glace ", délivré jusqu'au 14 novembre 2027.</td>
   <td>4</td>
   <td>Encadrement en sécurité d'activités de loisir et de découverte des sports de glace. Conduite de cycles d'apprentissage dans les disciplines de vitesse sur glace.</td>
   <td align="left"/>
@@ -24080,7 +23673,7 @@ BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option 
  <tr>
 <td align="left">
 
-BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option " disciplines de descente sur glace ", délivré jusqu'au 1er janvier 2024.</td>
+BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option " disciplines de descente sur glace ", délivré jusqu'au 14 novembre 2027.</td>
   <td>4</td>
   <td>Encadrement en sécurité d'activités de loisir et de découverte des sports de glace.
 Conduite de cycles d'apprentissage dans les disciplines de descente sur glace.</td>
@@ -24089,7 +23682,7 @@ Conduite de cycles d'apprentissage dans les disciplines de descente sur glace.</
  <tr>
 <td align="left">
 
-BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option " disciplines d'adresse sur glace ", délivré jusqu'au 1er janvier 2024.</td>
+BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option " disciplines d'adresse sur glace ", délivré jusqu'au 14 novembre 2027.</td>
   <td>4</td>
   <td>Encadrement en sécurité d'activités de loisir et de découverte des sports de glace. Conduite de cycles d'apprentissage dans les disciplines d'adresse sur glace.</td>
   <td align="left"/>
@@ -24212,7 +23805,7 @@ mer ", délivré jusqu'au 1er janvier 2024.</td>
   <td>A l'exclusion des activités dérivées du surf de mer.</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " éducateur sportif ", mention " surf ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " surf et disciplines associées " , délivré jusqu'au 14 octobre 2027</td>
   <td>4</td>
   <td>Encadrement et animation du stand up paddle (SUP).</td>
   <td align="left"/>
@@ -24221,95 +23814,6 @@ mer ", délivré jusqu'au 1er janvier 2024.</td>
 <td align="left">BP JEPS, spécialité " éducateur sportif ", mention " glisses aérotractées et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " surf ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">BP JEPS, spécialité " activités nautiques " mention monovalente " canoë-kayak et disciplines associées ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " voile ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " glisses aérotractées ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " canoë-kayak eau calme et rivière d'eau vive ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " canoë-kayak eau calme mer et vagues ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " planche à voile ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " multicoques et dériveurs ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " croisière côtière ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>UCC " canoë-kayak, eau calme, mer et vagues " associée au BP JEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>UCC " canoë-kayak, eau calme et rivière d'eau vive " associée au BP JEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>UCC " planche à voile " associée au BP JEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>UCC " multicoques et dériveurs " associée au BP JEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
-  <td>UCC " croisière côtière " associée au BP JEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation du stand up paddle (SUP).</td>
   <td>A l'exclusion des activités dérivées du surf de mer.</td>
  </tr>
  <tr>
@@ -24363,12 +23867,6 @@ DE JEPS, " perfectionnement sportif " mention " voile ", délivré jusqu'au 1er 
   <td>A l'exclusion des activités dérivées du surf de mer.</td>
  </tr>
  <tr>
-  <td>DES JEPS, spécialité " performance sportive " mention " canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2024.</td>
-  <td>6</td>
-  <td>Encadrement et animation du stand up paddle (SUP).</td>
-  <td>A l'exclusion des activités dérivées du surf de mer.</td>
- </tr>
- <tr>
   <td colspan="4">Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport</td>
  </tr>
  <tr>
@@ -24385,15 +23883,9 @@ Encadrement et animation du stand up paddle (SUP).</td>
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " surf ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif ", mention " surf et disciplines associées " , délivré jusqu'au 14 octobre 2027.</td>
   <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition.</td>
-  <td>Activités de surf (shortboard, longboard, bodyboard, bodysurf, kneeboard, skimboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " éducateur sportif ", mention " surf et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation, conduite de cycles d'apprentissage en surf et disciplines associées dont le stand up paddle.</td>
+  <td>Encadrement et animation d'activités de découverte et d'initiation, conduite de cycles d'apprentissage en surf et disciplines associées.</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -24538,7 +24030,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " éducateur sportif ", mention " tennis de table ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>BP JEPS, spécialité " éducateur sportif ", mention " tennis de table ", délivré jusqu'au 13 octobre 2027.</td>
   <td>4</td>
   <td>Encadrement, animation et conduite de cycles d'apprentissage et de séances d'entraînement en tennis de table.</td>
   <td align="left"/>
@@ -24669,6 +24161,12 @@ DE JEPS, spécialité " perfectionnement sportif ", mention " triathlon ", déli
   <td align="left"/>
  </tr>
  <tr>
+<td align="left">DE JEPS, spécialité " perfectionnement sportif ", mention " triathlon et disciplines enchaînées ", délivré jusqu'au 1er janvier 2027.</td>
+  <td>5</td>
+  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
+  <td align="left"/>
+ </tr>
+ <tr>
 <td align="left" colspan="4">
 
 VOILE
@@ -24695,30 +24193,6 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention monovalente " voile ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en voile.</td>
-  <td>Activités de multicoque, dériveur, croisière (jusqu'à 12 milles nautiques d'un abri) et planche à voile pour tout public et sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un abri, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " croisière côtière ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en croisière côtière.</td>
-  <td>Sur des voiliers autres que les embarcations légères de plaisance, pour tout public jusqu'à 12 milles nautiques d'un abri. Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " multicoques et dériveurs ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en multicoques et dériveurs.</td>
-  <td>Pour tout public et sur tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
-  <td>BP JEPS, spécialité " activités nautiques " mention plurivalente " planche à voile ", délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en planche à voile.</td>
-  <td>Pour tout public et sur tout lieu de pratique de l'activité.</td>
- </tr>
- <tr>
   <td>BP JEPS spécialité " éducateur sportif " mention " voile multi-supports jusqu'à 6 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2024.</td>
   <td>4</td>
   <td>Encadrement, animation d'activités de découverte et d'initiation de la voile et entraînement sur l'ensemble des supports.</td>
@@ -24733,32 +24207,7 @@ Dans la limite de 6 milles nautiques d'un abri.</td>
 Dans la limite de 200 milles nautiques d'un abri.</td>
  </tr>
  <tr>
-  <td>UCC " croisière côtière " associée au BPJEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, en croisière côtière sur des voiliers autres que les embarcations légères de plaisance.</td>
-  <td>Dans la limite de 12 milles nautiques d'un abri. Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
- </tr>
- <tr>
-  <td>UCC " multicoques et dériveurs " associée au BPJEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation en multicoques et dériveurs.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-UCC " planche à voile " associée au BPJEPS spécialité " activités nautiques ".</td>
-  <td align="left"/><td align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation en planche à voile.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-CC " voile multi-supports à moins de 6 milles nautiques d'un abri " associé au BP JEPS spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ".</td>
+  <td>CC " voile multi-supports à moins de 6 milles nautiques d'un abri " associé au BP JEPS spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ".</td>
   <td align="left"/><td align="left">
 
 Encadrement, animation d'activités de découverte et d'initiation de la voile et entraînement sur l'ensemble des supports.</td>
@@ -24868,6 +24317,62 @@ VOL EN SOUFFLERIE</td>
   <td align="left"/>
  </tr>
  <tr>
+<td align="left" colspan="4">VOL LIBRE ENVIRONNEMENT SPÉCIFIQUE (à l'exception de l'activité de cerf-volant acrobatique et de combat)</td>
+ </tr>
+ <tr>
+  <td>DE JEPS, spécialité " perfectionnement sportif " mention " vol libre " option " deltaplane ", délivré jusqu'au 1er mai 2028.</td>
+  <td>5</td>
+  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par l'option considérée.</td>
+  <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.</td>
+ </tr>
+ <tr>
+  <td>DE JEPS, spécialité " perfectionnement sportif " mention " vol libre " option " parapente ", délivré jusqu'au 1er mai 2028.</td>
+  <td>5</td>
+  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par l'option considérée.</td>
+  <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.</td>
+ </tr>
+ <tr>
+  <td>DE JEPS, spécialité " perfectionnement sportif " mention " deltaplane ", délivré jusqu'au 1er février 2025.</td>
+  <td>5</td>
+  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
+  <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.</td>
+ </tr>
+ <tr>
+  <td>DE JEPS, spécialité " perfectionnement sportif " mention " parapente " obtenu à partir du 1er janvier 2020 et délivré jusqu'au 1er février 2025.</td>
+  <td>5</td>
+  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td>
+  <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+A l'exception de l'enseignement du parapente en milieu aménagé au-dessus de l'eau.</td>
+ </tr>
+ <tr>
+  <td>DES JEPS, spécialité " performance sportive " mention " deltaplane ", délivré jusqu'au 1er janvier 2024.</td>
+  <td>6</td>
+  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
+  <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.</td>
+ </tr>
+ <tr>
+  <td>DES JEPS, spécialité " performance sportive " mention " parapente ", obtenu à partir du 1er janvier 2020 et délivré jusqu'au 1er janvier 2024.</td>
+  <td>6</td>
+  <td>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td>
+  <td>A l'exception de l'enseignement du parapente en milieu aménagé au-dessus de l'eau.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau</td>
+ </tr>
+ <tr>
+  <td>CC " enseignement en milieu aménagé " associé au :
+
+- DE JEPS spécialité
+
+" perfectionnement sportif " mention " parapente "
+
+- DES JEPS spécialité
+
+" performance sportive " mention " parapente "</td>
+  <td align="left"/><td align="left">Enseignement du parapente en milieu aménagé au-dessus de l'eau.</td>
+  <td align="left"/>
+ </tr>
+ <tr>
 <td align="left" colspan="4">
 
 VOLLEY-BALL
@@ -24894,15 +24399,7 @@ Licence professionnelle mention " animation, gestion et organisation des activit
   <td colspan="4">Diplômes délivrés par le ministère chargé des sports</td>
  </tr>
  <tr>
-  <td>BP JEPS, spécialité " activités sports collectifs " mention " volley-ball " délivré jusqu'au 31 décembre 2022.</td>
-  <td>4</td>
-  <td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. Conduite en autonomie d'une séance d'entraînement en volley-ball.</td>
-  <td align="left"/>
- </tr>
- <tr>
-<td align="left">
-
-BP JEPS, spécialité " éducateur sportif " mention " volley-ball et disciplines associées ", délivré jusqu'au 8 septembre 2027.</td>
+  <td>BP JEPS, spécialité " éducateur sportif " mention " volley-ball et disciplines associées ", délivré jusqu'au 8 septembre 2027.</td>
   <td>4</td>
   <td>Encadrement, initiation et conduite de cycles d'apprentissage en volley-ball et disciplines associées.</td>
   <td align="left"/>
@@ -24963,6 +24460,15 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 <td align="left">CQP " moniteur d'arts martiaux " option " arts martiaux chinois internes et externes ", délivré du 25 février 2022 au 25 février 2024</td>
   <td>3</td>
   <td>Encadrement de séances de découverte et d'animation des activités d'arts martiaux chinois internes et externes</td>
+  <td align="left"/>
+ </tr>
+ <tr>
+<td align="left" colspan="4">Titre à finalité professionnelle délivré par la Fédération française de karaté</td>
+ </tr>
+ <tr>
+  <td>Moniteur professionnel de karaté wushu et disciplines associées, délivré jusqu'au 24 octobre 2024.</td>
+  <td>3</td>
+  <td>Conduite de séances de découverte, d'initiation et d'apprentissage en karaté, wushu et disciplines associées.</td>
 <td align="left"/>
  </tr>
 </tbody></table>
