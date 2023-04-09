@@ -5390,6 +5390,232 @@ Le silence gardé par l'administration pendant deux mois sur une demande d'autor
 
 La présente section est applicable dans les îles Wallis et Futuna.
 
+##### Section 8 : Agence des communications mobiles opérationnelles de sécurité et de secours
+
+###### Sous-section 1 : Dispositions générales
+
+####### Article R20-29-18
+
+L'Agence des communications mobiles opérationnelles de sécurité et de secours, ci-après dénommée “ l'agence ”, est un établissement public à caractère administratif de l'Etat placé sous la tutelle du ministre de l'intérieur.
+
+Son siège est fixé par l'autorité de tutelle.
+
+####### Article R20-29-19
+
+Pour l'exercice de ses missions définies à l'article L. 34-17, l'agence assure :
+
+1° La conception, le développement, la fourniture d'un service de communications mobiles critiques à très haut débit et sécurisé destiné à des missions de sécurité, de secours et d'aide médicale urgente ainsi que la continuité de ce service, sa disponibilité, son interopérabilité et sa résilience ;
+
+2° La participation à la définition des normes techniques relatives aux équipements du réseau mentionné au 1° du I de l'article L. 34-17, au contrôle et à l'évaluation de leur application ainsi qu'à la surveillance de l'interopérabilité des dispositifs techniques correspondants ;
+
+3° La participation à l'animation de la veille technologique, de la recherche et du développement ainsi que de la normalisation dans le domaine des réseaux de radiocommunication mobile sécurisés et de communications sans fil ;
+
+4° L'hébergement, l'organisation et la gestion technique, administrative et financière des systèmes du service de communications mobiles critiques de sécurité et de secours mentionné au 1° ainsi que la garantie de la cohérence de ces systèmes ;
+
+5° L'organisation, la structuration, l'architecture et l'ingénierie du réseau de communications mentionné au 2° ;
+
+6° L'exploitation et la maintenance du service de communications mobiles critiques de sécurité et de secours mentionné au 1° ;
+
+7° La réalisation des études techniques, administratives, juridiques et financières nécessaires à l'accomplissement de ses missions.
+
+####### Article R20-29-20
+
+Pour l'exercice de ses missions, l'agence s'appuie sur des réseaux et des systèmes d'infrastructures spécifiques assurant l'acheminement prioritaire des communications mobiles critiques à très haut débit dans le cas prévu prévue au II de l'article L. 34-16.
+
+####### Article R20-29-21
+
+Pour l'exercice de ses missions et après accord de l'autorité de tutelle, l'agence peut conclure des conventions de coopération avec d'autres établissements, publics ou privés, français ou étrangers, et participer à des groupements d'intérêt public ou toute autre forme de groupement public ou privé.
+
+####### Article R20-29-22
+
+Dans le cadre de conventions, l'agence peut, à la demande des services utilisateurs des systèmes de communication mobile critique de sécurité et de secours, assurer une fourniture complémentaire d'équipements, d'applications de communication radio professionnelle et de services de gestion, d'administration ou de supervision de ces équipements et applications compatibles avec le service assuré au titre du 1° de l'article R. 20-29-19. Elle peut également, dans le cadre de conventions, assurer le maintien en condition opérationnelle et de sécurité de ces équipements à la demande des services utilisateurs.
+
+####### Article R20-29-23
+
+L'agence conclut avec l'Etat un contrat d'objectifs et de performance qui définit pour une durée de cinq ans ses objectifs et ses orientations générales. Elle rend compte chaque année de la mise en œuvre de ce contrat à l'autorité de tutelle.
+
+###### Sous-section 2 : Organisation et fonctionnement
+
+####### Article R20-29-24
+
+Outre son président, le conseil d'administration comprend :
+
+1° Dix-sept représentants de l'Etat :
+
+a) Le secrétaire général du ministère de l'intérieur ou son représentant ;
+
+b) Le directeur général de la police nationale ou son représentant ;
+
+c) Le directeur général de la gendarmerie nationale ou son représentant ;
+
+d) Le directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
+
+e) Le directeur général de la sécurité intérieure ou son représentant ;
+
+f) Le directeur général des entreprises ou son représentant ;
+
+g) Le préfet de police ou son représentant ;
+
+h) Le directeur du numérique du ministère de l'intérieur ou son représentant ;
+
+i) Le directeur interministériel du numérique ou son représentant ;
+
+j) Le secrétaire général de la défense et de la sécurité nationale ou son représentant ;
+
+k) Un représentant du ministre chargé du budget ;
+
+l) Un représentant du ministre de la défense ;
+
+m) Un représentant du ministre chargé des collectivités territoriales ;
+
+n) Un représentant du ministre chargé des douanes ;
+
+o) Un représentant du ministre chargé de la santé ;
+
+p) Un représentant du ministre de la justice ;
+
+q) Un représentant du ministre chargé de l'écologie.
+
+Les représentants mentionnés aux k, l, m, n, o, p et q sont nommés par arrêté du ministre de l'intérieur sur proposition du ministre qu'ils représentent.
+
+2° Cinq représentants des collectivités territoriales, des services d'incendie et de secours, des associations représentant les membres des conseils d'administration de ces établissements et des organismes d'importance vitale :
+
+a) Le président de l'Assemblée des départements de France ou son représentant ;
+
+b) Le président de l'Association des maires de France et des présidents d'intercommunalité ou son représentant ;
+
+c) Deux présidents ou vice-présidents de conseils d'administration de services départementaux d'incendie et de secours élus pour une durée de trois ans dans des conditions fixées par arrêté du ministre de l'intérieur ;
+
+d) Un représentant d'organisme d'importance vitale désigné pour une durée de trois ans par le président de la commission interministérielle de défense et de sécurité des secteurs d'activité d'importance vitale mentionnée à l'article R. 1332-10 du code de la défense dans des conditions fixées par arrêté du ministre de l'intérieur ;
+
+3° Une personnalité qualifiée dans les domaines de compétence de l'agence nommée pour une durée de trois ans par le ministre de l'intérieur ;
+
+4° Un représentant du personnel, élu pour trois ans, dans les conditions fixées par arrêté du ministre de l'intérieur, ou son suppléant, élu dans les mêmes conditions.
+
+####### Article R20-29-25
+
+Les membres du conseil d'administration mentionnés aux k, l, m, n, o, p et q du 1° et aux c et d du 2° de l'article R. 20-29-24 peuvent se faire représenter par un suppléant désigné dans les mêmes conditions.
+
+En cas de vacance d'un siège pour quelque cause que ce soit, un autre membre est désigné ou élu dans les mêmes conditions jusqu'à l'expiration du mandat en cours, sauf si cette vacance intervient moins de six mois avant l'expiration du mandat.
+
+En cas d'absence momentanée, d'empêchement ou de vacance du président, la présidence de séance est assurée par le secrétaire général du ministère de l'intérieur ou son représentant.
+
+####### Article R20-29-26
+
+Assistent aux réunions du conseil d'administration avec voix consultative :
+
+1° Le directeur de l'agence, le directeur adjoint, l'autorité chargée du contrôle budgétaire, l'agent comptable ainsi que toute personne qualifiée dont la présence est jugée utile par le président ;
+
+2° Le président de la commission consultative des polices municipales mentionnée à l'article R. 514-1 du code de la sécurité intérieure ou son représentant ;
+
+3° Le président du conseil d'administration du Conseil national des activités privées de sécurité mentionné à l'article R. 632-2 du code de la sécurité intérieure ou son représentant ;
+
+4° Le chef du service des technologies et des systèmes d'information de la sécurité intérieure ou son représentant.
+
+####### Article R20-29-27
+
+Les fonctions de membre du conseil d'administration sont gratuites. Toutefois, ces fonctions ouvrent droit aux indemnités de déplacement et de séjour dans les conditions fixées par la réglementation applicable aux personnels civils de l'Etat.
+
+####### Article R20-29-28
+
+Le conseil d'administration se réunit, sur convocation de son président, aussi souvent que la bonne marche de l'établissement l'exige et au moins deux fois par an. La convocation est de droit si elle est demandée par le ministre de l'intérieur ou par la moitié au moins des membres sur un ordre du jour déterminé.
+
+Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente. Si le quorum n'est pas atteint, il est procédé dans les quinze jours à une seconde délibération sans condition de quorum.
+
+Les délibérations sont adoptées à la majorité des voix des membres présents ou représentés. En cas de partage égal des voix, celle du président est prépondérante.
+
+Il est établi un procès-verbal de chaque séance du conseil d'administration, signé par le président de séance et par le secrétaire de séance. Le procès-verbal est adressé sans délai au ministre de l'intérieur.
+
+Le conseil établit son règlement intérieur.
+
+####### Article R20-29-29
+
+I.-Le conseil d'administration règle, par ses délibérations, les affaires de l'agence. Les délibérations portent notamment sur :
+
+1° Les orientations générales de l'agence, son programme annuel d'activités et d'investissement ainsi que le projet de contrat d'objectifs et de performance mentionné à l'article R. 20-29-23 ;
+
+2° Le rapport annuel d'activité ;
+
+3° L'organisation générale des services de l'agence ;
+
+4° Le budget initial et ses modifications ;
+
+5° Le compte financier et l'affectation du résultat de l'exercice ;
+
+6° La conclusion d'emprunts ;
+
+7° Les baux et locations d'immeubles ;
+
+8° L'acquisition ou l'aliénation de biens immobiliers ;
+
+9° Les actions en justice, les transactions ainsi que le recours à l'arbitrage ;
+
+10° L'acceptation ou le refus de dons et legs ;
+
+11° Les modalités générales de passation des contrats et les contrats qui, en raison de leur nature ou de leur montant financier, doivent lui être soumis pour approbation ;
+
+12° Les conditions générales de recrutement, d'emploi et de rémunération des agents.
+
+II.-Les délibérations portent également sur :
+
+1° Les tarifications des prestations ainsi que les projets de convention mentionnés à l'article R. 20 29-22 ;
+
+2° Le montant et les modalités financières et comptables des subventions d'investissement et de fonctionnement de services participant au financement de l'agence.
+
+III.-Le conseil d'administration se prononce en outre sur toutes les questions qui lui sont soumises par le directeur de l'agence ou l'autorité de tutelle.
+
+IV.-Le conseil d'administration approuve le règlement intérieur de l'agence.
+
+####### Article R20-29-30
+
+Les projets de délibérations budgétaires, notamment celles prévues aux 4° à 7° du I de l'article R. 20-29-29, sont communiqués au ministre de l'intérieur et au ministre chargé du budget quinze jours au moins avant leur présentation au conseil d'administration.
+
+A l'exception de celles prévues aux 3° à 7° du I de l'article R. 20-29-29, les délibérations sont exécutoires à l'expiration d'un délai de quinze jours à compter de leur transmission au ministre de l'intérieur, si ce dernier n'y a pas fait opposition. En cas d'urgence, le ministre peut en autoriser l'exécution immédiate.
+
+Les délibérations prévues aux 3°, 6° et 7° du I de l'article R. 20-29-29 ne sont exécutoires qu'après approbation expresse du ministre de l'intérieur et du ministre chargé du budget.
+
+Les délibérations prévues aux 4° et 5° du I de l'article R. 20-29-29 sont rendues exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+
+####### Article R20-29-31
+
+Le directeur assure, conformément aux orientations définies par le conseil d'administration, la direction de l'agence. A ce titre :
+
+1° Il prépare le contrat d'objectifs et de performance prévu à l'article R. 20-29-23 le soumet pour approbation au conseil d'administration, en assure l'exécution et en rend compte annuellement ;
+
+2° Il prépare les délibérations du conseil d'administration et en assure l'exécution ;
+
+3° Il a autorité sur l'ensemble du personnel de l'agence et en assure la gestion. Il recrute les agents contractuels et nomme à toutes les fonctions, à l'exception de celle de directeur adjoint ;
+
+4° Il organise les directions et les services ;
+
+5° Il est ordonnateur des recettes et des dépenses de l'agence ;
+
+6° Il conclut les contrats se rapportant aux missions de l'agence ;
+
+7° Il représente l'agence en justice et dans tous les actes de la vie civile. A ce titre, il procède notamment, au nom de l'agence, au dépôt de brevets ou de dossiers de propriété industrielle et à tout acte relatif à la propriété intellectuelle ;
+
+8° Il établit chaque année le rapport d'activité ;
+
+9° Il peut prendre, en cas d'urgence, toute mesure nécessaire pour la défense des intérêts de l'agence. Il en rend compte au conseil d'administration à sa plus proche séance ;
+
+10° Il fait des propositions au ministre de l'intérieur relatives au développement et à l'optimisation des radiocommunications de sécurité et de secours.
+
+Il peut, dans la limite de ses attributions, déléguer sa signature au directeur adjoint ainsi qu'à des agents de l'établissement, fonctionnaires ou contractuels.
+
+####### Article R20-29-32
+
+Le directeur est assisté d'un directeur adjoint qui le supplée en cas d'absence ou d'empêchement. Le directeur adjoint est nommé par arrêté du ministre de l'intérieur, sur proposition du directeur de l'agence.
+
+###### Sous-section 3 : Dispositions économiques et financières
+
+####### Article R20-29-33
+
+L'agence est soumise aux dispositions des titres Ier et III du décret du 7 novembre 2012 mentionné ci-dessus.
+
+####### Article R20-29-34
+
+Des régies d'avances et de recettes peuvent être créées par le directeur de l'agence, avec l'accord de l'agent comptable et du contrôleur budgétaire. Elles sont soumises aux dispositions relatives à la réglementation applicable aux régies des organismes publics nationaux.
+
 #### Chapitre III : Les obligations de service public.
 
 ##### Article R20-30
