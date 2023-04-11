@@ -38,7 +38,9 @@ La participation de l'assuré prévue au I de l'article L. 160-13 est fixée par
 
 18° De 35 % à 45 % pour les frais de séances d'accompagnement psychologique mentionnées à l'article L. 162-58 ;
 
-19° De 35 à 45 % pour les frais relatifs aux activités de télésurveillance médicale mentionnées à l'article L. 162-48.
+19° De 35 à 45 % pour les frais relatifs aux activités de télésurveillance médicale mentionnées à l'article L. 162-48;
+
+20° De 35 à 45 % pour les frais relatifs aux dispositifs médicaux numériques à visée thérapeutique et aux activités de télésurveillance médicale pris en charge au titre de l'article L. 162-1-23.
 
 Dans le cas des préparations magistrales incluant une ou plusieurs spécialités pharmaceutiques déconditionnées, et dès lors que ce déconditionnement est autorisé conformément aux dispositions de l'article R. 5132-8 du code de la santé publique, le taux de participation de l'assuré est égal au plus faible de ceux applicables à ces spécialités.
 

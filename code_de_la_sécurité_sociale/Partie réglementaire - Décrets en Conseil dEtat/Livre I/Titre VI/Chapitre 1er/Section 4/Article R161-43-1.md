@@ -8,6 +8,7 @@ Il peut être dérogé aux dispositions de l'article R. 161-43 dans les cas suiv
 - pour les feuilles de soins relatives à la facturation de certains produits ou prestations visés à l'article L. 165-1 et dont la liste est fixée par arrêté des ministres chargés de la santé et de l'assurance maladie ;
 - pour les feuilles de soins relatives à la facturation des activités de télésurveillance médicale inscrites sous forme de marque ou de nom commercial sur la liste prévue à l'article L. 162-52 ou se rattachant à une ligne générique inscrite sur cette liste ;
 - pour les feuilles de soins électroniques ou les feuilles de soins sur support papier, lorsqu'elles sont envoyées directement à l'organisme d'assurance maladie, relatives à la facturation des actes effectués ou des prestations servies par les laboratoires de biologie médicale et les anatomo-cyto-pathologistes, dans les conditions prévues à l'article R. 161-46 ;
+- pour les feuilles de soins relatives à la facturation des dispositifs médicaux numériques à visée thérapeutique ou des activités de télésurveillance médicale faisant l'objet d'une prise en charge anticipée au titre de l'article L. 162-1-23 ;
 - pour les éléments de facturation mentionnés au b du 11° de l'article R. 161-42, quels que soient le support et le mode de transmission du bordereau ;
 - pour la facturation des actes de télémédecine et des activités de télésoin mentionnés aux articles L. 6316-1 et L. 6316-2 du code de la santé publique.
 

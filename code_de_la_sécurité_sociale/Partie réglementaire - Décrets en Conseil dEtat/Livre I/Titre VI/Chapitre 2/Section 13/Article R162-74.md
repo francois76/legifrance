@@ -6,7 +6,7 @@ Cet intérêt est évalué dans chacune des indications de l'activité de la té
 
 1° L'amélioration clinique de l'état de santé du patient par rapport au suivi médical conventionnel ou, le cas échéant, par rapport à une activité de télésurveillance déjà inscrite, en considérant les effets indésirables et les risques liés à chaque mode de suivi ;
 
-2° Le gain significatif dans l'organisation des soins qu'elle permet au regard des moyens humains et matériels ainsi que des traitements thérapeutiques mobilisés, sans perte de chance pour le patient ;
+2° Le gain significatif dans l'organisation des soins qu'elle permet au regard des moyens humains et matériels ainsi que des traitements thérapeutiques mobilisés, sans altération de la qualité des soins ;
 
 3° L'intérêt de santé publique au regard notamment de son impact attendu sur la santé de la population en termes de mortalité, de morbidité et de qualité de vie et de capacité à répondre à un besoin thérapeutique non couvert, eu égard à la gravité de la pathologie, et l'impact sur les politiques et programmes de santé publique.
 

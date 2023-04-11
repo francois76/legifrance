@@ -14,7 +14,7 @@ Le prescripteur y fait mention, quel que soit le support :
 
 5° Le cas échéant, la mention de la disposition législative en vertu de laquelle la participation financière de l'assuré est limitée ou supprimée ;
 
-6° Le cas échéant, des éléments requis en application de l'article L. 162-19-1 et précisés par les arrêtés d'inscription mentionnés aux articles R. 162-34-13, R. 162-37-2, R. 162-38, R. 162-73, R. 163-2, R. 165-1 et R. 165-93 ou par la décision des ministres prévue aux articles R. 163-32 et R. 163-51.
+6° Le cas échéant, des éléments requis en application de l'article L. 162-19-1 et précisés par les arrêtés d'inscription mentionnés aux articles R. 162-34-13, R. 162-37-2, R. 162-38, R. 162-73, R. 163-2, R. 165-1 et R. 165-93 ou par la décision des ministres prévue aux articles R. 163-32, R. 162-116 et R. 163-51.
 
 L'ordonnance est signée du prescripteur. Ce dernier indique en outre, s'il y a lieu, sur l'ordonnance écrite remise au bénéficiaire des soins, que la prescription est transmise électroniquement à l'organisme d'assurance maladie, conformément aux dispositions du 1° du I de l'article R. 161-48.
 

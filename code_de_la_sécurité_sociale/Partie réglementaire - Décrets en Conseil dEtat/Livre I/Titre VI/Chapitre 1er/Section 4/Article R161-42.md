@@ -30,7 +30,7 @@ a) De l'acte figurant dans la nomenclature mentionnée à l'article R. 162-52 et
 
 b) De l'acte figurant dans la nomenclature mentionnée à l'article R. 162-18 et sa cotation ;
 
-c) Des produits et prestations inscrits sur la liste prévue à l'article L. 165-1 ;
+c) Des produits et prestations inscrits sur la liste prévue à l'article L. 165-1 ou faisant l'objet d'une prise en charge anticipée au titre de l'article L. 162-1-23 ;
 
 d) Des médicaments spécialisés, préparations magistrales ou fournitures pharmaceutiques mentionnés sur les listes de l'article L. 162-17 et, le cas échéant, du médicament prescrit auquel le pharmacien en a substitué un autre, conformément à la réglementation en vigueur lorsque la prescription est libellée en dénomination commune, au sens de l'article L. 5125-23 du code de la santé publique, le numéro de code du médicament délivré par le pharmacien est complété par la mention correspondante ;
 
@@ -38,10 +38,10 @@ e) Des produits sanguins labiles mentionnés à l'article L. 666-9 du code de la
 
 f) Des médicaments inscrits sur la liste mentionnée à l'article L. 618 du code de la santé publique et facturés à l'unité, par dérogation au forfait pharmaceutique journalier défini au 3° de l'article 10 du décret n° 92-1257 du 3 décembre 1992 relatif aux établissements de soins privés ;
 
-g) Pour les activités de télésurveillance médicale inscrites sur la liste prévue à l'article L. 162-52 sous forme de marque ou de nom commercial ou rattachées à une ligne générique inscrite sur cette liste :
+g) Pour les activités de télésurveillance médicale inscrites sur la liste prévue à l'article L. 162-52 sous forme de marque ou de nom commercial ou rattachées à une ligne générique inscrite sur cette liste, ou faisant l'objet d'une prise en charge anticipée au titre de l'article L. 162-1-23 :
 
-- de la catégorie tarifaire, définie par l'arrêté prévu au II de l'article R. 162-95, applicable pour le calcul du forfait opérateur ;
-- d'identification individuelle du dispositif médical numérique et, le cas échéant, des accessoires de collecte associés, mentionné à l'article R. 162-102
+- de la catégorie tarifaire, définie par l'arrêté prévu au II de l'article R. 162-95 ou l'arrêté prévu au III de l'article R. 162-116, applicable pour le calcul du forfait opérateur ;
+- d'identification individuelle du dispositif médical numérique et, le cas échéant, des accessoires de collecte associés, mentionné à l'article R. 162-102 ou figurant dans l'arrêté prévu au I de l'article R. 162-116 ;
 
 6° Le cas échéant, la référence de l'accord préalable ;
 

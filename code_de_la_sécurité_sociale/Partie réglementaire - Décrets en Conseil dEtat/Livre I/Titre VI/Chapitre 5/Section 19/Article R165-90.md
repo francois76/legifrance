@@ -22,11 +22,23 @@ I.-La prise en charge transitoire par l'assurance maladie au titre de l'article 
 
 10° Le produit ne fait pas l'objet dans l'indication considérée d'une prise en charge financière au titre des prestations d'hospitalisation mentionnées à l'article L. 162-22-6 ;
 
-11° Pour les dispositifs médicaux, le produit n'a pas fait l'objet d'une décision prise en application de l'article L. 5312-1 du code de la santé publique.
+11° Pour les dispositifs médicaux, le produit ne fait pas l'objet d'une décision de suspension ou d'interdiction prise en application de l'article L. 5312-1 du code de la santé publique;
 
-II.-En vue de la prise en charge transitoire mentionnée au I de l'article L. 165-1-5, la commission mentionnée à l'article L. 165-1 rend un avis comportant, pour chaque indication considérée, l'appréciation des conditions mentionnées du 1° au 5° du I du présent article. Cet avis est rendu dans un délai de quarante-cinq jours à compter de la réception par le ministre chargé de la sécurité sociale de la demande complète mentionnée au I de l'article R. 165-89.
+12° Le produit ou la prestation fait l'objet, dans la ou les indications considérées, d'études en cours de nature à apporter, dans un délai de douze mois à compter de la demande de prise en charge transitoire, des données suffisantes pour que la commission visée à l'article R. 165-18 puisse rendre un avis relatif à la demande d'inscription sur la liste mentionnée à l'article L. 165-1 ;
+
+13° Le produit n'est pas un dispositif médical numérique répondant à la définition mentionnée au quatrième alinéa de l'article L. 162-48 et présentant une visée thérapeutique ou utilisé dans le cadre des activités de télésurveillance médicale telles que définies à l'article L. 162-48 ;
+
+14° Lorsque le produit ou la prestation intègre un dispositif médical numérique répondant à la définition mentionnée au premier alinéa du II de l'article L. 162-48, ce dernier est conforme aux règles relatives à la protection des données personnelles ainsi qu'aux référentiels mentionnés à l'article L. 1470-5 du code de la santé publique.
+
+II.-En vue de la prise en charge transitoire mentionnée au I de l'article L. 165-1-5, la commission mentionnée à l'article L. 165-1 rend un avis comportant, pour chaque indication considérée, l'appréciation des conditions mentionnées aux 1° à 5° et aux 12° et 13° du I du présent article. Cet avis est rendu dans un délai de soixante jours à compter de la réception par le ministre chargé de la sécurité sociale de la demande complète mentionnée au I de l'article R. 165-89.
 
 L'avis est communiqué aux ministres chargés de la santé et de la sécurité sociale et à l'entreprise exploitant le produit ou la prestation. Il est rendu public sans délai.
 
-III.-La prise en charge du produit et de la prestation, dans une indication donnée, au titre de l'article L. 165-1-5 est également subordonnée à l'information orale et écrite de chaque patient par le prescripteur sur le caractère précoce et dérogatoire de cette prise en charge, et sur les modalités selon lesquelles cette prise en charge peut, le cas échéant, être interrompue ou suspendue. Le prescripteur veille à la bonne compréhension de ces informations par le patient. Un arrêté des ministres en charge de la santé et de la sécurité sociale précise les mentions figurant sur l'ordonnance portant prescription du produit et de la prestation considérés.
+III.-Lorsque le produit ou la prestation intègre un dispositif médical numérique répondant à la définition mentionnée au premier alinéa du II de l'article L. 162-48, le groupement d'intérêt public mentionné à l'article L. 1111-24 du code de la santé publique rend un avis comportant une appréciation du respect de la condition mentionnée au 14° du I du présent article. En cas d'avis positif, il établit un certificat de conformité aux référentiels mentionnés à l'article L. 1470-5 du code de la santé publique.
+
+Cet avis est rendu dans un délai de soixante jours à compter de la délivrance de l'accusé de réception mentionné au quatrième alinéa de l'article R. 165-89.
+
+Il est communiqué simultanément aux ministres chargés de la santé et de la sécurité sociale et à l'exploitant.
+
+IV.-La prise en charge du produit et de la prestation, dans une indication donnée, au titre de l'article L. 165-1-5 est également subordonnée à l'information orale et écrite de chaque patient par le prescripteur sur le caractère précoce et dérogatoire de cette prise en charge, et sur les modalités selon lesquelles cette prise en charge peut, le cas échéant, être interrompue ou suspendue. Le prescripteur veille à la bonne compréhension de ces informations par le patient. Un arrêté des ministres en charge de la santé et de la sécurité sociale précise les mentions figurant sur l'ordonnance portant prescription du produit et de la prestation considérés.
 
