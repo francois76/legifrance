@@ -2,7 +2,7 @@
 
 Sont applicables en Nouvelle-Calédonie, sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions du livre Ier de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>DISPOSITIONS APPLICABLES</th>
   <th>DANS LEUR RÉDACTION</th>

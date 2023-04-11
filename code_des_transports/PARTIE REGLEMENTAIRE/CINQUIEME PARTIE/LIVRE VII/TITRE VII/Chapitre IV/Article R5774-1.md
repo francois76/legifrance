@@ -9,10 +9,18 @@ Sont applicables en Polynésie française, sous réserve des dispositions d'adap
  </tr>
  <tr>
   <td align="justify">R. 5442-1</td>
-  <td align="justify">Résultant du décret n° 2017-944 du 10 mai 2017</td>
+  <td align="justify">Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
-  <td align="justify">R. 5442-2 à R. 5442-5</td>
+  <td align="justify">R. 5442-2</td>
+  <td align="justify">Résultant du décret n° 2014-1416 du 28 novembre 2014</td>
+ </tr>
+ <tr>
+  <td align="justify">R. 5442-3</td>
+  <td align="justify">Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td align="justify">R. 5442-4 et R. 5442-5</td>
   <td align="justify">Résultant du décret n° 2014-1416 du 28 novembre 2014</td>
  </tr>
  <tr>

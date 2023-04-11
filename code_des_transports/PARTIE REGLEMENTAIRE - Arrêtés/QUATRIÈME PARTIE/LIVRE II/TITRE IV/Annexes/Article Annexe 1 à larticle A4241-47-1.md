@@ -2,7 +2,7 @@
 
 Lettre ou groupe de lettres distinctif du pays du port d'attache ou du lieu d'immatriculation des bateaux
 
-<table><tbody>
+<table align="center" border="1"><tbody>
  <tr>
   <td>ALLEMAGNE</td>
   <td align="center">D</td>

@@ -4,7 +4,7 @@
 
 1° Les signaux principaux définis en annexe 5 section I ont des dimensions correspondant à l'une des quatre gammes ci-dessous, on appelle longueur caractéristique, notée Ld, d'une gamme de panneau la longueur d'un coté du panneau carré de la gamme.
 
-<table><tbody>
+<table align="center" border="1" cellpadding="0" cellspacing="0"><tbody>
  <tr>
   <td><center>Gamme</center></td>
   <td><center>Carré</center></td>

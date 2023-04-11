@@ -12,7 +12,7 @@ Il faut se tenir à une distance suffisante des balises pour ne pas courir le ri
 
 <center></center>2. Définitions
 
-<table><thead>
+<table align="center" border="1" cellpadding="0" cellspacing="0"><thead>
  <tr>
   <td>Côté rive droite/gauche :</td>
   <td valign="top" width="566">les désignations "côté rive droite", "côté rive gauche" de la voie de navigation intérieure ou du chenal s'entendent pour un observateur tourné vers l'aval. Pour les canaux, les lacs et les voies de navigation intérieure de grande largeur, les termes "droite" et "gauche" sont définis par les autorités.</td>

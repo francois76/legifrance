@@ -6,7 +6,7 @@ A.-Exigences essentielles de sécurité en matière de conception et de construc
 
 1. Catégories de conception des bateaux :
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>CATÉGORIE DE CONCEPTION</th>
   <th>FORCE DU VENT
@@ -294,7 +294,7 @@ Les moteurs de propulsion sont conçus, construits et assemblés de telle maniè
 
 Tableau 1 :
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>TYPE DE MOTEUR</th>
   <th colspan="3">MONOXYDE DE CARBONE
@@ -360,7 +360,7 @@ Où " A ", " B " et " n " désignent des constantes conformément au tableau et 
 
 Tableau 2.-Limites des émissions gazeuses des moteurs à allumage par compression (APC) (**)
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>VOLUME BALAYÉ
 
@@ -431,7 +431,7 @@ Pour les moteurs à allumage par compression (APC) à vitesse variable, le cycle
 
 Pour les moteurs à explosion à vitesse variable, le cycle d'essai E4 s'applique.
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>CYCLE E1, MODE NUMÉRO</th>
   <th>1</th>
@@ -578,7 +578,7 @@ Un moteur parent est sélectionné dans une famille de moteurs de façon à ce q
 
 Le carburant d'essai utilisé pour les essais relatifs aux émissions gazeuses répond aux critères suivants :
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th colspan="5">CARBURANTS ESSENCE</th>
  </tr>
@@ -754,7 +754,7 @@ Les bateaux de plaisance munis d'un moteur in-bord ou à embase arrière sans é
 
 1.1. Les bateaux de plaisance munis d'un moteur " in-bord " ou à embase arrière sans échappement intégré, les véhicules nautiques à moteur, les moteurs hors-bord et les moteurs à embase arrière avec échappement intégré sont conçus, construits et assemblés de telle sorte que les émissions sonores ne dépassent pas les valeurs limites reprises dans le tableau suivant :
 
-<table><tbody>
+<table border="1"><tbody>
  <tr>
   <th>PUISSANCE NOMINALE DU MOTEUR (MOTEUR UNIQUE)
 
