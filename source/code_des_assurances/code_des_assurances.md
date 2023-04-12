@@ -19906,7 +19906,7 @@ Lorsqu'en application du dernier alinéa du II de l'article L. 441-10 un adhére
 
 ###### Article R442-2
 
-Les garanties relatives aux risques mentionnés à l'article L. 432-2 sont accordées par décision du ministre chargé de l'économie, prise après avis de la commission des garanties et du crédit au commerce extérieur mentionnée à l'article L. 432-3.
+Les garanties relatives aux risques mentionnés à l'article L. 432-2 sont accordées par décision du ministre chargé de l'économie, prise après avis de la commission des garanties et du crédit au commerce extérieur mentionnée à l'article L. 432-3, sauf dans les cas prévus au second alinéa de l'article R. 442-7-2.
 
 L'organisme mentionné à l'article L. 432-2 délivre les polices d'assurance qui couvrent les risques mentionnés au même article ; pour l'établissement des conditions des polices relatives, notamment, aux obligations des assurés, à la perception des primes, aux faits générateurs de sinistres, aux délais de règlement des indemnités, à la répartition des sommes récupérées sur créances sinistrées, et l'exécution de ces polices, cet organisme se conforme aux décisions du ministre chargé de l'économie prises après avis de la commission des garanties et du crédit au commerce extérieur.
 
@@ -19932,7 +19932,7 @@ a) Lorsqu'elles sont de nature à modifier substantiellement les relations de l'
 
 b) Lorsqu'elles sont de nature à compromettre l'exercice des missions confiées par l'Etat à l'organisme ;
 
-c) Ou lorsqu'elles sont de nature, eu égard aux secrets de la défense nationale dont est dépositaire l'organisme dans l'exercice des responsabilités que lui a confiées l'Etat ou aux garanties portant sur les opérations mentionnées au 3° du I de l'article R. 442-8-2, à porter atteinte aux intérêts du pays en matière de défense nationale ou de sécurité d'approvisionnement en ressources énergétiques et en matières premières.
+c) Ou lorsqu'elles sont de nature, eu égard aux secrets de la défense nationale dont est dépositaire l'organisme dans l'exercice des responsabilités que lui a confiées l'Etat, à porter atteinte aux intérêts du pays en matière de défense nationale ou de sécurité d'approvisionnement en ressources énergétiques et en matières premières.
 
 Sans préjudice de l'application des dispositions du second alinéa de l'article L. 432-4-1, ces décisions font l'objet d'une information préalable du représentant du ministre chargé de l'économie.
 
@@ -19958,6 +19958,14 @@ Les demandes de garanties sont adressées à l'organisme mentionné à l'article
 
 Le ministre chargé de l'économie détermine, après avis de la commission des garanties et du crédit au commerce extérieur, quelles affaires doivent être soumises à la commission par l'organisme avant la délivrance de la garantie et celles dont il doit lui être seulement rendu compte. Pour ces dernières, il fixe le cadre général des conditions dans lesquelles la garantie peut être accordée.
 
+Dans ce dernier cas, la garantie est signée, au nom et pour le compte de l'Etat, par le directeur général de l'organisme mentionné à l'article L. 432-2, qui peut déléguer sa signature à :
+
+1° Des salariés de l'organisme, placés sous son autorité hiérarchique ;
+
+2° Des salariés du groupe d'appartenance de cet organisme, qui sont mis à sa disposition et qui participent, sous l'autorité fonctionnelle de son directeur général, à l'instruction et à la délivrance des demandes de garantie accordées sur le fondement soit du a bis du 1°, soit du dernier alinéa de l'article L. 432-2.
+
+La liste des délégataires est tenue à disposition du représentant de l'Etat mentionné à l'article L. 432-4-1.
+
 ###### Article R442-7-3
 
 La convention mentionnée à l'article L. 432-4 précise les conditions de mise en œuvre du mandat prévu au même article, notamment celles relatives à la rémunération de l'organisme mentionné à l'article L. 432-2.
@@ -19970,17 +19978,17 @@ La garantie des risques peut porter sur les catégories d'opérations définies 
 
 ###### Article R442-8-2
 
-I. - La garantie des risques politiques peut porter sur les deux catégories d'opérations ci-après :
+I. - La garantie des risques politiques peut porter sur les deux catégories de contrats ci-après :
 
-1° Opérations d'exportation ou contrats de prêts traités avec une administration publique ou avec une société chargée d'un service public, ou donnant naissance à une obligation contractée par une administration publique ou par une société chargée d'un service public ;
+1° Tout contrat concourant directement ou indirectement à une opération d'exportation ou contrat de prêt traité avec une administration publique ou avec une société chargée d'un service public, ou donnant naissance à une obligation contractée par une administration publique ou par une société chargée d'un service public ;
 
-2° Opérations d'exportation autres que celles qui sont mentionnées au 1° ci-dessus et contrats de prêts conclus avec des emprunteurs autres que ceux mentionnés au 1° ci-dessus ;
+2° Tout contrat concourant directement ou indirectement à une opération d'exportation autre que celles qui sont mentionnées au 1° ci-dessus et contrat de prêt conclu avec des emprunteurs autres que ceux mentionnés au 1° ci-dessus ;
 
 II. - Le risque politique est réalisé :
 
 1° Pour les opérations prévues au 1° du I, lorsque le débiteur ne s'est pas acquitté de sa dette ou que l'exécution du contrat a été interrompue ;
 
-2° Pour les opérations prévues au 2° du I, lorsque le débiteur ne s'est pas acquitté de sa dette ou que l'exécution du contrat a été interrompue, pour autant que le non-paiement provienne de l'une des causes suivantes :
+2° Pour les opérations prévues au 2° du I, lorsque le débiteur ne s'est pas acquitté de sa dette ou que l'exécution du contrat a été interrompue, pour autant que le non-paiement ou l'interruption du contrat provienne de l'une des causes suivantes :
 
 a) Guerre civile ou étrangère, révolution, émeute ou autres faits analogues survenus hors de France ;
 
@@ -19988,7 +19996,7 @@ b) Moratoire édicté par les autorités administratives du pays de résidence d
 
 c) Acte ou décision d'un Gouvernement étranger ou d'une autorité administrative étrangère faisant obstacle à l'exécution du contrat ;
 
-d) Acte ou décision des autorités administratives françaises faisant obstacle à l'exécution du contrat ;
+d) Acte ou décision des autorités administratives françaises ou des autorités de l'Union européenne faisant obstacle à l'exécution du contrat ;
 
 3° Nonobstant les dispositions des 1° et 2° ci-dessus, le risque politique ne sera pas couvert par la garantie de l'Etat dès lors que le non-paiement ou l'interruption du contrat sont dus à l'inexécution par le bénéficiaire de la garantie des clauses et conditions du contrat d'exportation ou du contrat de prêt, à l'exception des cas où l'inexécution par le bénéficiaire provient des cas mentionnés au 2° ci-dessus.
 
@@ -20000,7 +20008,7 @@ Le risque catastrophique est réalisé lorsque le débiteur est empêché de ten
 
 Les risques monétaires comprennent le risque de transfert et le risque de change.
 
-Le risque de transfert est réalisé lorsque des événements politiques, des difficultés économiques ou la législation du pays de résidence du débiteur empêchent ou retardent le transfert des fonds versés par ce dernier.
+Le risque de transfert est réalisé lorsque des événements politiques, des difficultés économiques ou des mesures législatives ou administratives qui sont prises hors de France empêchent ou retardent le transfert des fonds versés par le débiteur.
 
 Le risque de change est réalisé lorsque le cours de la monnaie étrangère prévue par le contrat est, le jour de l'encaissement de la créance garantie, inférieur au cours sur la base duquel la garantie est accordée. Ce risque ne peut être garanti que s'il n'existe pas d'autre moyen de le couvrir dans des conditions équivalentes.
 
@@ -20010,15 +20018,15 @@ La garantie de l'Etat portant sur les opérations de gestion des opérations et 
 
 La garantie peut porter sur le risque de non-paiement des sommes dues par des entreprises françaises :
 
-a) A des établissements de crédit, des entreprises d'assurance français ou étrangers ou des sociétés de financement au titre des cautions, garanties ou contre-garanties émises par eux dans le cadre d'opérations d'exportation ;
+a) A des établissements de crédit, des entreprises d'assurance français ou étrangers ou des sociétés de financement au titre des cautions, garanties ou contre-garanties émises par eux dans le cadre de contrats concourant directement ou indirectement à des opérations d'exportation ;
 
-b) A des établissements de crédits français ou étrangers ou des sociétés de financement au titre d'opérations de crédit consenties pour le financement ou le préfinancement d'opérations d'exportation.
+b) A des établissements de crédits français ou étrangers ou des sociétés de financement au titre de contrats concourant directement ou indirectement à des opérations de crédit consenties pour le financement ou le préfinancement de contrats concourant directement ou indirectement à des opérations d'exportation.
 
 ###### Article R442-8-9
 
 La garantie de l'Etat prévue au e du 1° de l'article L. 432-2 est accordée par décision du ministre chargé de l'économie après constatation d'une défaillance du marché de l'assurance-crédit.
 
-La défaillance de marché est établie soit par la production par le demandeur d'au moins quatre lettres de refus de couverture provenant d'assureurs-crédit, soit par la constatation d'une baisse significative de l'encours de garanties attestée par les informations agrégées communiquées au ministre chargé de l'économie par la Banque de France en application de l'article R. 344-6.
+La défaillance de marché est établie soit par une décision de la Commission européenne relative à la politique d'assurance-crédit de court terme à l'exportation, soit par la production par le demandeur d'au moins quatre lettres de refus de couverture provenant d'assureurs-crédit, soit par la constatation d'une baisse significative de l'encours de garanties attestée par les informations agrégées communiquées au ministre chargé de l'économie par la Banque de France en application de l'article R. 344-6.
 
 ###### Article R442-8-10
 
@@ -20108,7 +20116,7 @@ La garantie prévue au a ter du 1° de l'article L. 432-2 peut être accordée a
 
 La garantie porte sur les risques politiques, catastrophiques ou de non-paiement.
 
-Le risque politique est réalisé lorsque le débiteur ne s'est pas acquitté de sa dette, pour autant que le non-paiement ne soit pas dû à l'inexécution des clauses et conditions du contrat et provienne de l'une des causes suivantes :
+Le risque politique est réalisé lorsque le débiteur ne s'est pas acquitté de sa dette, ou que l'exécution du contrat a été interrompue, pour autant que le non-paiement ou l'interruption du contrat ne soit pas dû à l'inexécution des clauses et conditions du contrat par le bénéficiaire de la garantie et provienne de l'une des causes suivantes :
 
 a) Guerre civile ou étrangère, révolution, émeute ou autres faits analogues ;
 
@@ -20116,7 +20124,7 @@ b) Moratoire édicté par les autorités administratives du pays de résidence d
 
 c) Acte ou décision d'un Gouvernement étranger ou d'une autorité administrative étrangère faisant obstacle à l'exécution du contrat ;
 
-d) Acte ou décision des autorités administratives françaises faisant obstacle à l'exécution du contrat.
+d) Acte ou décision des autorités administratives françaises ou des autorités de l'Union européenne faisant obstacle à l'exécution du contrat.
 
 Le risque catastrophique est réalisé lorsque le débiteur est empêché de tenir ses engagements par suite d'un cataclysme tel que cyclone, inondation, raz de marée, tremblement de terre, éruption volcanique.
 
@@ -20166,11 +20174,11 @@ b) Moratoire édicté par les autorités administratives du pays de résidence d
 
 c) Acte ou décision d'un gouvernement étranger ou d'une autorité administrative étrangère faisant obstacle à l'exécution du contrat ;
 
-d) Acte ou décision des autorités administratives françaises faisant obstacle à l'exécution du contrat.
+d) Acte ou décision des autorités administratives françaises ou des autorités de l'Union européenne faisant obstacle à l'exécution du contrat.
 
 Le risque catastrophique est réalisé lorsque le débiteur est empêché de tenir ses engagements par suite d'un cataclysme tel que cyclone, inondation, raz de marée, tremblement de terre, éruption volcanique.
 
-Le risque monétaire, s'entend du risque de transfert. Il est réalisé lorsque des événements politiques, des difficultés économiques ou la législation du pays de résidence du débiteur empêchent ou retardent le transfert des fonds versés par ce dernier.
+Le risque monétaire, s'entend du risque de transfert. Il est réalisé lorsque des événements politiques, des difficultés économiques ou des mesures législatives ou administratives qui sont prises dans le pays de résidence du débiteur empêchent ou retardent le transfert des fonds versés par ce dernier.
 
 ###### Article R442-11-3
 
@@ -20182,7 +20190,7 @@ I. - L'octroi de la garantie, sauf lorsqu'elle est accordée à un établissemen
 
 II. - L'opération concernée par la garantie représente un montant supérieur à 10 millions d'euros.
 
-III. - Lorsqu'elle n'est pas accordée à un établissement de crédit, une société de financement, une entreprise d'assurance et de réassurance, une mutuelle et institution de prévoyance, de droit français ou étranger, ou un organisme mentionné à l'article L. 214-1 du code monétaire et financier, la garantie ne peut être accordée que si elle est nécessaire pour améliorer substantiellement les conditions de participation de l'entreprise française à l'opération concernée par cette garantie, ou s'il existe un risque qu'en son absence, des difficultés de financement compromettent sa réalisation.
+III. - La garantie ne peut être accordée que si elle est nécessaire pour améliorer substantiellement les conditions de participation de l'entreprise française à l'opération concernée par cette garantie, ou s'il existe un risque qu'en son absence, des difficultés de financement compromettent sa réalisation.
 
 IV. - La garantie est octroyée dans les conditions suivantes :
 
