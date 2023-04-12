@@ -10,9 +10,9 @@ b) Moratoire édicté par les autorités administratives du pays de résidence d
 
 c) Acte ou décision d'un gouvernement étranger ou d'une autorité administrative étrangère faisant obstacle à l'exécution du contrat ;
 
-d) Acte ou décision des autorités administratives françaises faisant obstacle à l'exécution du contrat.
+d) Acte ou décision des autorités administratives françaises ou des autorités de l'Union européenne faisant obstacle à l'exécution du contrat.
 
 Le risque catastrophique est réalisé lorsque le débiteur est empêché de tenir ses engagements par suite d'un cataclysme tel que cyclone, inondation, raz de marée, tremblement de terre, éruption volcanique.
 
-Le risque monétaire, s'entend du risque de transfert. Il est réalisé lorsque des événements politiques, des difficultés économiques ou la législation du pays de résidence du débiteur empêchent ou retardent le transfert des fonds versés par ce dernier.
+Le risque monétaire, s'entend du risque de transfert. Il est réalisé lorsque des événements politiques, des difficultés économiques ou des mesures législatives ou administratives qui sont prises dans le pays de résidence du débiteur empêchent ou retardent le transfert des fonds versés par ce dernier.
 

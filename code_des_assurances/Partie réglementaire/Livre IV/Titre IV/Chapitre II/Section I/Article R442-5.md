@@ -6,7 +6,7 @@ a) Lorsqu'elles sont de nature à modifier substantiellement les relations de l'
 
 b) Lorsqu'elles sont de nature à compromettre l'exercice des missions confiées par l'Etat à l'organisme ;
 
-c) Ou lorsqu'elles sont de nature, eu égard aux secrets de la défense nationale dont est dépositaire l'organisme dans l'exercice des responsabilités que lui a confiées l'Etat ou aux garanties portant sur les opérations mentionnées au 3° du I de l'article R. 442-8-2, à porter atteinte aux intérêts du pays en matière de défense nationale ou de sécurité d'approvisionnement en ressources énergétiques et en matières premières.
+c) Ou lorsqu'elles sont de nature, eu égard aux secrets de la défense nationale dont est dépositaire l'organisme dans l'exercice des responsabilités que lui a confiées l'Etat, à porter atteinte aux intérêts du pays en matière de défense nationale ou de sécurité d'approvisionnement en ressources énergétiques et en matières premières.
 
 Sans préjudice de l'application des dispositions du second alinéa de l'article L. 432-4-1, ces décisions font l'objet d'une information préalable du représentant du ministre chargé de l'économie.
 

@@ -8,7 +8,7 @@ I. - L'octroi de la garantie, sauf lorsqu'elle est accordée à un établissemen
 
 II. - L'opération concernée par la garantie représente un montant supérieur à 10 millions d'euros.
 
-III. - Lorsqu'elle n'est pas accordée à un établissement de crédit, une société de financement, une entreprise d'assurance et de réassurance, une mutuelle et institution de prévoyance, de droit français ou étranger, ou un organisme mentionné à l'article L. 214-1 du code monétaire et financier, la garantie ne peut être accordée que si elle est nécessaire pour améliorer substantiellement les conditions de participation de l'entreprise française à l'opération concernée par cette garantie, ou s'il existe un risque qu'en son absence, des difficultés de financement compromettent sa réalisation.
+III. - La garantie ne peut être accordée que si elle est nécessaire pour améliorer substantiellement les conditions de participation de l'entreprise française à l'opération concernée par cette garantie, ou s'il existe un risque qu'en son absence, des difficultés de financement compromettent sa réalisation.
 
 IV. - La garantie est octroyée dans les conditions suivantes :
 
