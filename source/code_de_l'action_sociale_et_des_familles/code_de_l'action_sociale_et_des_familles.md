@@ -11105,6 +11105,12 @@ L'organisme mentionné au II de l'article D. 121-12-15 a pour mission :
 
 3° De transmettre sur une base trimestrielle les informations relatives aux montants versés au titre de l'article D. 121-12-15 au ministre chargé des affaires sociales et de la santé, au ministre chargé des droits des femmes et au ministre chargé du budget et des comptes publics.
 
+###### Sous-section 5 : Directeur général de l'agence régionale de santé
+
+####### Article R121-12-19
+
+Les dispositions des articles R. 1435-40 à R. 1435-42 du code de la santé publique sont applicables aux décisions prises par le directeur général de l'agence régionale de santé en application du présent code.
+
 ##### Section 4 : Organismes de sécurité sociale.
 
 ##### Section 7 : Service civil volontaire
