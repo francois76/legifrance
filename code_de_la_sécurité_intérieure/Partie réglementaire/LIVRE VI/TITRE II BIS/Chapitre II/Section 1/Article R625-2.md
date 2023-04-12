@@ -26,9 +26,13 @@ II.-Lorsque les activités mentionnées à l'article L. 625-1 sont exercées par
 
 3° Pour les associations, une copie de la mention de la création de l'association parue au Journal officiel, une copie des statuts ainsi que du dernier procès-verbal de l'assemblée générale.
 
-III.-Lorsque le demandeur souhaite dispenser une formation qui implique le maniement d'armes, la demande comporte également le nom de la personne ou des personnes désignées comme responsables du respect des règles de conservation des armes définies aux articles R. 613-3-4 et R. 613-3-5. Cette personne ne doit pas être interdite d'acquisition ou de détention d'armes.
+III.-Lorsque le demandeur souhaite dispenser une formation qui implique le maniement d'armes, la demande comporte également le nom de la personne ou des personnes désignées comme responsables du respect des règles de conservation des armes définies aux articles R. 613-3-4 et R. 613-3-5 et, s'agissant de l'activité de protection des navires, à l'article R. 5442-3 du code des transports. Cette personne ne doit pas être interdite d'acquisition ou de détention d'armes.
 
-IV.-Le prestataire de formation bénéficiaire de l'autorisation mentionnée à l'article L. 625-2 délivrée au vu d'un certificat attestant de sa compétence en matière de formation au maniement des armes ou de l'autorisation mentionnée à l'article L. 625-3 et justifiant de son engagement dans une démarche d'obtention d'un tel certificat peut être autorisé à acquérir et détenir des armes mentionnées au 1° du II et au III de l'article R. 613-3 ainsi que les munitions correspondantes et les systèmes d'alimentation mentionnés à l'article R. 613-3-1, selon les modalités fixées par arrêté du ministre de l'intérieur, à des fins de formation et d'entraînement des personnes exerçant l'une des activités soumises au livre VI du présent code.
+IV.-Le prestataire de formation bénéficiaire de l'autorisation mentionnée à l'article L. 625-2 délivrée au vu d'un certificat attestant sa compétence en matière de formation au maniement des armes ou de l'autorisation mentionnée à l'article L. 625-3 et justifiant de son engagement dans une démarche d'obtention d'un tel certificat peut être autorisé à acquérir et détenir :
+
+1° Des armes mentionnées au 1° du II et au III de l'article R. 613-3 ainsi que les munitions correspondantes et les systèmes d'alimentation mentionnés à l'article R. 613-3-1, selon les modalités fixées par arrêté du ministre de l'intérieur, à des fins de formation et d'entraînement des personnes exerçant l'une des activités mentionnées à l'article R. 612-38 ;
+
+2° Des armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 5442-1 du code des transports et, le cas échéant, leurs éléments et munitions ainsi que les systèmes d'alimentation mentionnés à l'article R. 5442-1 du code des transports selon les modalités fixées par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports maritimes, à des fins de formation et d'entraînement des personnes exerçant l'activité mentionnée à l'article R. 616-1.
 
 L'autorisation d'acquisition et de détention d'armes est délivrée pour une durée de cinq ans, renouvelable dans les mêmes conditions, par le préfet du département où se situe l'établissement dispensant la formation ou, à Paris, par le préfet de police et, dans le cas où l'établissement est situé dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
@@ -42,7 +46,7 @@ Le dossier de demande d'autorisation comprend :
 
 L'autorisation devient caduque lorsque le prestataire de formation ne dispose plus de l'une des autorisations mentionnées aux articles L. 625-2 et L. 625-3 ou en cas d'interdiction d'exercice de l'activité mentionnée à l'article L. 625-1 à titre temporaire prévue à l'article L. 634-9.
 
-Le prestataire de formation qui ne dispose plus de l'autorisation d'acquisition et de détention d'armes se dessaisit des armes, de leurs éléments et des munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 dans un délai de trois mois, selon l'une des conditions fixées aux articles R. 312-74 et R. 312-75.
+Le prestataire de formation qui ne dispose plus de l'autorisation d'acquisition et de détention d'armes se dessaisit des armes, de leurs éléments et des munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 ou, le cas échéant, à l'article R. 5442-1 du code des transports, dans un délai de trois mois, selon l'une des conditions fixées aux articles R. 312-74 et R. 312-75.
 
 Une copie de l'autorisation est transmise au directeur du Conseil national des activités privées de sécurité.
 

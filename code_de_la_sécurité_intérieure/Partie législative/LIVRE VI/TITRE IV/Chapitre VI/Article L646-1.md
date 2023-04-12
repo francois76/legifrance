@@ -42,11 +42,11 @@ b) Le dernier alinéa est supprimé ;
 
 12° A l'article L. 617-16, le deuxième alinéa est supprimé ;
 
-12° bis A l'article L. 634-4, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables localement " ;
-
 12° bis 0 A l'article L. 622-19, le 2° est ainsi rédigé :
 
 “2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire de la Nouvelle-Calédonie et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions applicables localement,”
+
+12° bis A l'article L. 634-4, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables localement " ;
 
 13° A l'article L. 634-2 :
 

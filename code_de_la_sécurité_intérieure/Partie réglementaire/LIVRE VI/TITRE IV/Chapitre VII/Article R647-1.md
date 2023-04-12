@@ -87,7 +87,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-20</td>
-  <td>Résultant du du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
  </tr>
  <tr>
   <td>R. 612-21</td>
@@ -257,8 +257,12 @@ R. 613-88 à R. 613-92</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
-  <td>R. 616-11 et R. 616-12</td>
+  <td>R. 616-11</td>
   <td>Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 616-12</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>R. 616-13</td>
@@ -304,7 +308,7 @@ R. 625-1</td>
  </tr>
  <tr>
   <td>R. 625-2</td>
-  <td>Résultant du décret n° 2021-631 du 21 mai 2021</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>R. 625-3 à R. 625-6</td>
@@ -324,17 +328,26 @@ R. 625-1</td>
  </tr>
  <tr>
   <td>R. 625-17</td>
-  <td>Résultant du décret n°2018-1270 du 26 décembre 2018</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
-  <td>R. 625-18 à R. 625-21</td>
+  <td>R. 625-18</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
-  <td align="left"/>
  </tr>
  <tr>
-<td align="left">
-
-Au titre III</td>
+  <td>R. 625-19</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td>R. 625-20</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 625-21</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td>Au titre III</td>
   <td align="left"/>
  </tr>
  <tr>

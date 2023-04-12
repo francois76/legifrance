@@ -10,7 +10,7 @@ a) Aux procédures mentionnées à l'article R. 616-2 ;
 
 b) A l'environnement maritime, notamment aux opérations et aux contraintes d'exploitation des navires ainsi qu'à la chaîne de commandement à bord ;
 
-3° Justifier de leurs compétences théoriques et pratiques relatives à l'usage des armes à feu, munitions et autres matériels de sûreté spécifiques déployés à bord du navire ;
+3° Justifier de leurs compétences théoriques et pratiques relatives à l'usage des armes à feu, munitions et autres matériels de sûreté spécifiques déployés à bord du navire et, à cette fin, suivre des entraînements réguliers ;
 
 4° Justifier d'une formation médicale adaptée ;
 

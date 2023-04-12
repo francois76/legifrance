@@ -116,8 +116,12 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
-  <td>R. 616-1 à R. 616-12</td>
+  <td>R. 616-1 à R. 616-11</td>
   <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des navires</td>
+ </tr>
+ <tr>
+  <td>R. 616-12</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>R. 616-13</td>

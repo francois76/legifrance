@@ -303,8 +303,12 @@ R. 613-41</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
-  <td>R. 616-11 à R. 616-12</td>
+  <td>R. 616-11</td>
   <td>Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 616-12</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>R. 616-13</td>
@@ -366,17 +370,26 @@ R. 625-1 à R. 625-6</td>
  </tr>
  <tr>
   <td>R. 625-17</td>
-  <td>Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
-  <td>R. 625-18 à R. 625-21</td>
+  <td>R. 625-18</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
-  <td align="left"/>
  </tr>
  <tr>
-<td align="left">
-
-Au titre III</td>
+  <td>R. 625-19</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td>R. 625-20</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 625-21</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td>Au titre III</td>
   <td align="left"/>
  </tr>
  <tr>
