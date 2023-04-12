@@ -5768,11 +5768,15 @@ b) Le dernier alinéa est supprimé ;
 
 11° A l'article L. 617-16, le deuxième alinéa est supprimé ;
 
-11° bis A l'article L. 634-4, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables localement " ;
+11° bis 0 A l'article L. 622-19, le 2° est ainsi rédigé :
+
+“2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire de la Polynésie française et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions applicables localement ;”
 
 11° bis 0 A l'article L. 622-19, le 2° est ainsi rédigé :
 
 “2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire de la Polynésie française et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions applicables localement ;”
+
+11° bis A l'article L. 634-4, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables localement " ;
 
 12° A l'article L. 634-2 :
 
@@ -5830,11 +5834,11 @@ b) Le dernier alinéa est supprimé ;
 
 12° A l'article L. 617-16, le deuxième alinéa est supprimé ;
 
-12° bis A l'article L. 634-4, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables localement " ;
-
 12° bis 0 A l'article L. 622-19, le 2° est ainsi rédigé :
 
 “2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire de la Nouvelle-Calédonie et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions applicables localement,”
+
+12° bis A l'article L. 634-4, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables localement " ;
 
 13° A l'article L. 634-2 :
 
@@ -5892,11 +5896,11 @@ b) Le dernier alinéa est supprimé ;
 
 11° A l'article L. 617-16, le deuxième alinéa est supprimé ;
 
-11° bis A l'article L. 634-4, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables localement " ;
-
 11° bis 0 A l'article L. 622-19, le 2° est ainsi rédigé :
 
 “2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité dans les îles Wallis et Futuna et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions applicables localement ;”
+
+11° bis A l'article L. 634-4, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables localement " ;
 
 12° Au premier alinéa de l'article L. 634-2, les mots : " tribunal judiciaire " sont remplacés par les mots : " tribunal de première instance " ;
 
@@ -8075,7 +8079,7 @@ a) Des personnes physiques ayant accès aux informations et supports protégés 
 
 b) Des personnes physiques convoyant des informations ou supports protégés au titre du secret de la défense nationale ;
 
-c) Des personnes physiques employées pour participer à une activité privée de surveillance et de gardiennage, de transport de fonds, de protection physique des personnes ou de vidéoprotection ou à une activité de recherches privées, ou suivant un stage pratique dans une entreprise exerçant une telle activité ;
+c) Des personnes physiques employées pour participer à une activité privée de surveillance et de gardiennage, de transport de fonds, de protection physique des personnes, de protection des navires ou de vidéoprotection ou à une activité de recherches privées, ou suivant un stage pratique dans une entreprise exerçant une telle activité ;
 
 d) Des agents des services internes de sécurité de la Société nationale des chemins de fer français et de la Régie autonome des transports parisiens, préalablement à leur affectation ;
 
@@ -8149,7 +8153,7 @@ f) Des agents de la ville de Paris chargés d'un service de police ;
 
 g) Des gardes particuliers ;
 
-h) Des personnes physiques exerçant à titre individuel une activité privée de surveillance et de gardiennage, de transport de fonds, de protection physique des personnes ou de vidéoprotection ou une activité de recherches privées ou exerçant les fonctions de dirigeant, de gérant ou d'associé d'une personne morale exerçant cette activité ;
+h) Des personnes physiques exerçant à titre individuel une activité privée de surveillance et de gardiennage, de transport de fonds, de protection physique des personnes, de protection des navires ou de vidéoprotection ou une activité de recherches privées ou exerçant les fonctions de dirigeant, de gérant ou d'associé d'une personne morale exerçant cette activité ;
 
 i) Des agents du service d'ordre des manifestations sportives, récréatives ou culturelles, habilités à procéder à des palpations de sécurité en application de l'article L. 613-3 du présent code ;
 
@@ -25811,7 +25815,7 @@ La personne titulaire d'une carte professionnelle est réputée détenir une aut
 
 1° Soit permet l'exercice des activités qui relèvent de l'article L. 6342-4 du code des transports et dont l'exercice requiert une certification au titre du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile ;
 
-2° Soit implique le maniement d'une des armes mentionnées aux a et b du 1° du II et au III de l'article R. 613-3 et à l'article R. 613-41.
+2° Soit implique le maniement d'une des armes mentionnées aux a et b du 1° du II et au III de l'article R. 613-3 et à l'article R. 613-41 du présent code et à l'article R. 5442-1 du code des transports.
 
 ####### Article R612-21
 
@@ -27349,7 +27353,7 @@ a) Aux procédures mentionnées à l'article R. 616-2 ;
 
 b) A l'environnement maritime, notamment aux opérations et aux contraintes d'exploitation des navires ainsi qu'à la chaîne de commandement à bord ;
 
-3° Justifier de leurs compétences théoriques et pratiques relatives à l'usage des armes à feu, munitions et autres matériels de sûreté spécifiques déployés à bord du navire ;
+3° Justifier de leurs compétences théoriques et pratiques relatives à l'usage des armes à feu, munitions et autres matériels de sûreté spécifiques déployés à bord du navire et, à cette fin, suivre des entraînements réguliers ;
 
 4° Justifier d'une formation médicale adaptée ;
 
@@ -27911,9 +27915,13 @@ II.-Lorsque les activités mentionnées à l'article L. 625-1 sont exercées par
 
 3° Pour les associations, une copie de la mention de la création de l'association parue au Journal officiel, une copie des statuts ainsi que du dernier procès-verbal de l'assemblée générale.
 
-III.-Lorsque le demandeur souhaite dispenser une formation qui implique le maniement d'armes, la demande comporte également le nom de la personne ou des personnes désignées comme responsables du respect des règles de conservation des armes définies aux articles R. 613-3-4 et R. 613-3-5. Cette personne ne doit pas être interdite d'acquisition ou de détention d'armes.
+III.-Lorsque le demandeur souhaite dispenser une formation qui implique le maniement d'armes, la demande comporte également le nom de la personne ou des personnes désignées comme responsables du respect des règles de conservation des armes définies aux articles R. 613-3-4 et R. 613-3-5 et, s'agissant de l'activité de protection des navires, à l'article R. 5442-3 du code des transports. Cette personne ne doit pas être interdite d'acquisition ou de détention d'armes.
 
-IV.-Le prestataire de formation bénéficiaire de l'autorisation mentionnée à l'article L. 625-2 délivrée au vu d'un certificat attestant de sa compétence en matière de formation au maniement des armes ou de l'autorisation mentionnée à l'article L. 625-3 et justifiant de son engagement dans une démarche d'obtention d'un tel certificat peut être autorisé à acquérir et détenir des armes mentionnées au 1° du II et au III de l'article R. 613-3 ainsi que les munitions correspondantes et les systèmes d'alimentation mentionnés à l'article R. 613-3-1, selon les modalités fixées par arrêté du ministre de l'intérieur, à des fins de formation et d'entraînement des personnes exerçant l'une des activités soumises au livre VI du présent code.
+IV.-Le prestataire de formation bénéficiaire de l'autorisation mentionnée à l'article L. 625-2 délivrée au vu d'un certificat attestant sa compétence en matière de formation au maniement des armes ou de l'autorisation mentionnée à l'article L. 625-3 et justifiant de son engagement dans une démarche d'obtention d'un tel certificat peut être autorisé à acquérir et détenir :
+
+1° Des armes mentionnées au 1° du II et au III de l'article R. 613-3 ainsi que les munitions correspondantes et les systèmes d'alimentation mentionnés à l'article R. 613-3-1, selon les modalités fixées par arrêté du ministre de l'intérieur, à des fins de formation et d'entraînement des personnes exerçant l'une des activités mentionnées à l'article R. 612-38 ;
+
+2° Des armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 5442-1 du code des transports et, le cas échéant, leurs éléments et munitions ainsi que les systèmes d'alimentation mentionnés à l'article R. 5442-1 du code des transports selon les modalités fixées par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports maritimes, à des fins de formation et d'entraînement des personnes exerçant l'activité mentionnée à l'article R. 616-1.
 
 L'autorisation d'acquisition et de détention d'armes est délivrée pour une durée de cinq ans, renouvelable dans les mêmes conditions, par le préfet du département où se situe l'établissement dispensant la formation ou, à Paris, par le préfet de police et, dans le cas où l'établissement est situé dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
@@ -27927,7 +27935,7 @@ Le dossier de demande d'autorisation comprend :
 
 L'autorisation devient caduque lorsque le prestataire de formation ne dispose plus de l'une des autorisations mentionnées aux articles L. 625-2 et L. 625-3 ou en cas d'interdiction d'exercice de l'activité mentionnée à l'article L. 625-1 à titre temporaire prévue à l'article L. 634-9.
 
-Le prestataire de formation qui ne dispose plus de l'autorisation d'acquisition et de détention d'armes se dessaisit des armes, de leurs éléments et des munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 dans un délai de trois mois, selon l'une des conditions fixées aux articles R. 312-74 et R. 312-75.
+Le prestataire de formation qui ne dispose plus de l'autorisation d'acquisition et de détention d'armes se dessaisit des armes, de leurs éléments et des munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 ou, le cas échéant, à l'article R. 5442-1 du code des transports, dans un délai de trois mois, selon l'une des conditions fixées aux articles R. 312-74 et R. 312-75.
 
 Une copie de l'autorisation est transmise au directeur du Conseil national des activités privées de sécurité.
 
@@ -28057,9 +28065,9 @@ Ils lui fournissent les explications nécessaires à la compréhension et à l'a
 
 ###### Article R625-17
 
-Le nombre d'armes pouvant être acquises par le prestataire de formation sur le fondement de l'article R. 625-2, pour chacun des types d'armes mentionnées aux II et III de l'article R. 613-3, ainsi que les munitions correspondantes et les systèmes d'alimentation mentionnés à l'article R. 613-3-1 sont fixés par arrêté du ministre de l'intérieur en tenant compte notamment du nombre de stagiaires susceptibles d'être accueillis dans le centre de formation et du nombre de formateurs encadrant la formation.
+Le nombre d'armes pouvant être acquises par le prestataire de formation sur le fondement de l'article R. 625-2, pour chacun des types d'armes mentionnées aux II et III de l'article R. 613-3, ainsi que les munitions correspondantes et les systèmes d'alimentation mentionnés à l'article R. 613-3-1 sont fixés par arrêté du ministre de l'intérieur en tenant compte notamment du nombre de stagiaires susceptibles d'être accueillis dans le centre de formation et du nombre de formateurs encadrant la formation. Pour les armes mentionnées à l'article R. 5442-1 du code des transports, leurs éléments et munitions ainsi que les systèmes d'alimentation mentionnés à l'article R. 5442-1 du code des transports, ce nombre est fixé par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports maritimes.
 
-Seules les personnes responsables désignées par le prestataire de formation ont accès aux armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 613-3 et, le cas échéant, à leurs éléments et munitions ainsi qu'aux systèmes d'alimentation mentionnés à l'article R. 613-3-1. Le prestataire de formation tient un registre d'inventaire des armes, éléments d'armes, munitions et, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 permettant leur identification ainsi qu'un état journalier retraçant les sorties et les réintégrations des armes et munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 figurant au registre d'inventaire dans les conditions fixées par arrêté du ministre de l'intérieur.
+Seules les personnes responsables désignées par le prestataire de formation ont accès aux armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 613-3 du présent code et à l'article R. 5442-1 du code des transports et, le cas échéant, à leurs éléments et munitions ainsi qu'aux systèmes d'alimentation mentionnés à l'article R. 613-3-1 du présent code et à l'article R. 5442-1 du code des transports. Le prestataire de formation tient un registre d'inventaire des armes, éléments d'armes, munitions et, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 du présent code et à l'article R. 5442-1 du code des transports permettant leur identification ainsi qu'un état journalier retraçant les sorties et les réintégrations des armes et munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 du présent code et à l'article R. 5442-1 du code des transports figurant au registre d'inventaire dans les conditions fixées par arrêté du ministre de l'intérieur.
 
 Les états journaliers sont conservés pendant un délai de trois ans par le prestataire de formation.
 
@@ -28071,7 +28079,7 @@ En-dehors de toute session de formation, les armes, leurs éléments et munition
 
 ###### Article R625-19
 
-Le prestataire de formation bénéficiaire de l'autorisation mentionnée à l'article R. 625-2 ne peut former que les personnes bénéficiaires de l'autorisation préalable d'entrée en formation ou de la carte professionnelle permettant d'exercer l'une des activités mentionnées à l'article R. 612-38.
+Le prestataire de formation bénéficiaire de l'autorisation mentionnée à l'article R. 625-2 ne peut former que les personnes bénéficiaires de l'autorisation préalable d'entrée en formation ou de la carte professionnelle permettant d'exercer l'une des activités mentionnées aux articles R. 612-38 et R. 616-1.
 
 ###### Article R625-20
 
@@ -28083,7 +28091,7 @@ Les personnes recevant une formation doivent être détenteurs d'un carnet de ti
 
 Est puni de l'amende prévue pour les contraventions de la 4e classe le fait, pour tout prestataire de formation bénéficiaire de l'autorisation mentionnée aux articles L. 625-2 et L. 625-3 :
 
-1° D'acquérir, de détenir un nombre d'armes pour chacun des types d'armes mentionnées aux II et III de l'article R. 613-3, ainsi que les munitions correspondantes, en violation de l'article R. 625-17 ;
+1° D'acquérir, de détenir un nombre d'armes pour chacun des types d'armes mentionnées aux II et III de l'article R. 613-3 du présent code ou, le cas échéant, à l'article R. 5442-1 du code des transports, ainsi que les munitions correspondantes, en violation de l'article R. 625-17 ;
 
 2° De ne pas mettre en œuvre les moyens nécessaires à la traçabilité des armes qu'il a acquises, en violation de l'article R. 625-17 ;
 
@@ -29227,8 +29235,12 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
-  <td>R. 616-11 à R. 616-12</td>
+  <td>R. 616-11</td>
   <td>Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 616-12</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>R. 616-13</td>
@@ -29286,11 +29298,23 @@ R. 625-1 à R. 625-6</td>
  </tr>
  <tr>
   <td>R. 625-17</td>
-  <td>Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
-  <td>R. 625-18 à R. 625-21</td>
+  <td>R. 625-18</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 625-19</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td>R. 625-20</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 625-21</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>Au titre III</td>
@@ -29827,8 +29851,12 @@ R. 613-41</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
-  <td>R. 616-11 à R. 616-12</td>
+  <td>R. 616-11</td>
   <td>Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 616-12</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>R. 616-13</td>
@@ -29890,17 +29918,26 @@ R. 625-1 à R. 625-6</td>
  </tr>
  <tr>
   <td>R. 625-17</td>
-  <td>Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
-  <td>R. 625-18 à R. 625-21</td>
+  <td>R. 625-18</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
-  <td align="left"/>
  </tr>
  <tr>
-<td align="left">
-
-Au titre III</td>
+  <td>R. 625-19</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td>R. 625-20</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 625-21</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td>Au titre III</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -30098,7 +30135,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-20</td>
-  <td>Résultant du du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
  </tr>
  <tr>
   <td>R. 612-21</td>
@@ -30268,8 +30305,12 @@ R. 613-88 à R. 613-92</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
-  <td>R. 616-11 et R. 616-12</td>
+  <td>R. 616-11</td>
   <td>Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 616-12</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>R. 616-13</td>
@@ -30315,7 +30356,7 @@ R. 625-1</td>
  </tr>
  <tr>
   <td>R. 625-2</td>
-  <td>Résultant du décret n° 2021-631 du 21 mai 2021</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>R. 625-3 à R. 625-6</td>
@@ -30335,17 +30376,26 @@ R. 625-1</td>
  </tr>
  <tr>
   <td>R. 625-17</td>
-  <td>Résultant du décret n°2018-1270 du 26 décembre 2018</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
-  <td>R. 625-18 à R. 625-21</td>
+  <td>R. 625-18</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
-  <td align="left"/>
  </tr>
  <tr>
-<td align="left">
-
-Au titre III</td>
+  <td>R. 625-19</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td>R. 625-20</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 625-21</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+ </tr>
+ <tr>
+  <td>Au titre III</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -30648,8 +30698,12 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
-  <td>R. 616-1 à R. 616-12</td>
+  <td>R. 616-1 à R. 616-11</td>
   <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des navires</td>
+ </tr>
+ <tr>
+  <td>R. 616-12</td>
+  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>R. 616-13</td>
