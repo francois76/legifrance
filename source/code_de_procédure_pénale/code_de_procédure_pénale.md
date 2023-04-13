@@ -32916,7 +32916,7 @@ Par application des dispositions de l'article 706-2 du code de procédure pénal
  <tr>
   <td><center>TRIBUNAUX
 
-judicaires compétents</center></td>
+judiciaires compétents</center></td>
   <td><center>COMPÉTENCE TERRITORIALE
 
 s'étendant au ressort des cours d'appel
