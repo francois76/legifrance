@@ -12,5 +12,5 @@ Les systèmes d'automatisation et de contrôle des bâtiments mentionnés à l'a
 
 Les systèmes techniques considérés sont ceux reliés au système d'automatisation et de contrôle dans les conditions prévues au II de l'article R. 175-2.
 
-Les données produites et archivées sont accessibles au propriétaire du système d'automatisation et de contrôle, qui en a la propriété. Celui-ci transmet à chacun des exploitants des différents systèmes techniques reliés les données qui les concernent.
+Les données produites et archivées sont accessibles au propriétaire du système d'automatisation et de contrôle, qui en a la propriété. Ce dernier les met à disposition du gestionnaire du bâtiment, à sa demande, et transmet à chacun des exploitants des différents systèmes techniques reliés les données qui les concernent.
 
