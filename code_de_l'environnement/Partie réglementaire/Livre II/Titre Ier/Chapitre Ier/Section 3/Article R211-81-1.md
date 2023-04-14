@@ -2,9 +2,18 @@
 
 I. – Les programmes d'actions régionaux comprennent, sur tout ou partie des zones vulnérables, les mesures prévues aux 1°, 3°, 7° et 8° du I de l'article R. 211-81, renforcées au regard des objectifs fixés au II de l'article R. 211-80, des caractéristiques et des enjeux propres à chaque zone vulnérable ou partie de zone vulnérable.
 
-II. – Les programmes d'actions régionaux délimitent les zones correspondant aux zones de captage de l'eau destinée à la consommation humaine mentionnées au 1° du I de l'article R. 212-4 dont la teneur en nitrate est supérieure à 50 milligrammes par litre et aux bassins connaissant d'importantes marées vertes sur les plages, mentionnés au 8° du II de l'article L. 211-3, définis par les schémas directeurs d'aménagement et de gestion des eaux. Ces zones peuvent être étendues afin d'assurer la cohérence territoriale des mesures.
+II. – Les programmes d'actions régionaux délimitent les zones correspondant aux zones de captage de l'eau destinée à la consommation humaine mentionnées au 1° du I de l'article R. 212-4 dont la teneur en nitrate est supérieure à 50 milligrammes par litre et aux bassins connaissant d'importantes marées vertes sur les plages, mentionnés au 8° du II de l'article L. 211-3, définis par les schémas directeurs d'aménagement et de gestion des eaux.
 
-Dans ces zones, les programmes d'actions régionaux comprennent une ou plusieurs mesures parmi les mesures suivantes :
+Ils peuvent également délimiter les zones correspondant aux zones de captage de l'eau destinée à la consommation humaine mentionnées au 1° du I de l'article R. 212-4 dont la teneur en nitrate est comprise entre 40 et 50 milligrammes par litre, en tenant notamment compte de l'évolution de cette teneur au cours des dernières années.
+
+Les zones mentionnées aux deux précédents alinéas sont identifiées conformément à l'article R. 211-81-1-1 et peuvent être étendues afin d'assurer la cohérence territoriale des mesures.
+
+Dans ces zones, les programmes d'actions régionaux comprennent :
+
+- soit l'obligation d'une couverture végétale des sols entre une culture principale récoltée en été ou en automne et une culture semée à l'été ou à l'automne et, au minimum, une autre mesure de renforcement ;
+- soit, au minimum, trois autres mesures de renforcement.
+
+Les mesures de renforcement susceptibles d'être mises en œuvre dans ces zones sont les suivantes :
 
 1° L'une ou plusieurs des mesures prévues au I, renforcées au regard de l'état d'atteinte par la pollution des zones considérées ;
 
@@ -20,7 +29,9 @@ Lorsque cette mesure est mise en œuvre, les déclarations annuelles prévues au
 
 4° La limitation du solde du bilan azoté calculé à l'échelle de l'exploitation agricole exprimé en kilogrammes d'azote par hectare ;
 
-5° L'obligation de traiter ou d'exporter l'azote issu des animaux d'élevage au-delà d'un seuil d'azote produit par les animaux d'élevage à l'échelle de l'exploitation agricole, lorsque les surfaces exploitées ne sont pas suffisantes pour permettre l'épandage des effluents dans le respect de l'équilibre de la fertilisation azotée mentionné au 3° du I de l'article R. 211-81.
+5° L'obligation de traiter ou d'exporter l'azote issu des animaux d'élevage au-delà d'un seuil d'azote produit par les animaux d'élevage à l'échelle de l'exploitation agricole, lorsque les surfaces exploitées en propre ne sont pas suffisantes pour permettre l'épandage des effluents dans le respect de l'équilibre de la fertilisation azotée mentionné au 3° du I de l'article R. 211-81 ;
+
+6° L'obligation de respecter un seuil de quantité d'azote restant dans les sols à la fin de la période de culture ou en entrée de l'hiver.
 
 III. – 1° Dans les cantons en excédent structurel d'azote lié aux élevages qui ont été arrêtés à la date du 21 décembre 2011 par les préfets de département en application du décret n° 2011-1257 du 10 octobre 2011, les programmes d'actions régionaux comprennent les mesures définies au 3°, 4° et 5° du II.
 

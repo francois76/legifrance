@@ -324,8 +324,8 @@ La capacité de production étant :</td>
  </tr>
  <tr>
   <td>La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :</td>
-  <td><center>A</center></td>
-  <td><center>3</center></td>
+  <td><center></center></td>
+  <td><center></center></td>
  </tr>
  <tr>
   <td>1. Supérieure à 1 000 kW</td>
