@@ -1,12 +1,20 @@
 ###### Article R243-59-1
 
-Lorsque les documents et les données nécessaires à l'agent chargé du contrôle sont dématérialisés, il peut, après avoir informé la personne contrôlée par écrit, procéder aux opérations de contrôle par la mise en œuvre de traitements automatisés en ayant recours au matériel informatique utilisé par la personne contrôlée. A la demande de l'agent chargé du contrôle, la personne contrôlée met à disposition un utilisateur habilité pour réaliser les opérations sur son matériel.
+I.-Lorsque les documents et les données nécessaires à l'agent chargé du contrôle sont disponibles sous formes dématérialisées, les opérations de contrôle peuvent être réalisées par la mise en œuvre de traitements automatisés sur le matériel professionnel de l'agent.
 
-A compter de la date de réception de la demande de l'agent chargé du contrôle, la personne contrôlée dispose de quinze jours pour s'opposer par écrit à la mise en œuvre de traitements automatisés sur son matériel et l'informer de son choix, soit de :
+L'agent chargé du contrôle en informe la personne contrôlée.
 
-1° Mettre à la disposition de l'agent chargé du contrôle les copies des documents, des données et des traitements nécessaires à l'exercice du contrôle. Ces copies sont faites sur fichier informatique répondant aux normes définies par l'agent chargé du contrôle permettant les traitements automatisés et sont détruites avant l'engagement de la mise en recouvrement ;
+Dans ce cas, la personne contrôlée est tenue de mettre à la disposition de l'agent les copies numériques des documents, des données et des traitements nécessaires sous formes de fichiers à l'exercice du contrôle. Les fichiers correspondant répondent aux formats informatiques indiqués par l'agent.
 
-2° Prendre en charge lui-même tout ou partie des traitements automatisés. Dans ce cas, l'agent chargé du contrôle lui indique par écrit les traitements à réaliser, les délais accordés pour les effectuer ainsi que les normes des fichiers des résultats attendus.
+En cas de refus écrit dans le délai de quinze jours à compter de l'information mentionnée au deuxième alinéa, ou d'impossibilité technique avérée de mise en œuvre d'un traitement automatisé sur le matériel de l'agent, la personne contrôlée est tenue :
 
-A défaut de réponse de la personne contrôlée dans le délai mentionné au deuxième alinéa, l'agent chargé du contrôle peut procéder aux opérations de contrôle par la mise en place de traitements automatisés sur le matériel de la personne contrôlée.
+1° Soit de réaliser elle-même les traitements sur son propre matériel et de produire les résultats au format et dans les délais indiqués par l'agent chargé du contrôle ;
+
+2° Soit d'autoriser l'agent chargé du contrôle à procéder lui-même ou par l'intermédiaire d'un utilisateur habilité par la personne contrôlée, sur le matériel de la personne contrôlée, aux opérations de contrôle, par la mise en place de traitements automatisés.
+
+II.-Dans le cas où le contrôle est effectué pour rechercher des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail, les dispositions du deuxième et du quatrième au sixième alinéas du I ne sont pas applicables.
+
+Toutefois, lorsqu'il n'est pas possible pour l'agent chargé du contrôle, notamment en cas d'impossibilité technique avérée de mettre en œuvre un traitement automatisé sur son matériel professionnel, il procède lui-même ou par l'intermédiaire d'un utilisateur habilité par la personne contrôlée, sur le matériel de la personne contrôlée, aux opérations de contrôle, par la mise en place de traitements automatisés.
+
+III.-Les copies des fichiers transmis en application du présent article sont détruites au plus tard à la date soit de l'envoi de la mise en demeure prévue à l'article L. 244-2 soit de la communication des observations ne conduisant pas à redressement ou de la notification d'un solde créditeur, mentionnées au IV de l'article R. 243-59.
 

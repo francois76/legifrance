@@ -1,6 +1,6 @@
 ###### Article R381-3-1
 
-La cotisation due au titre des personnes bénéficiaires du complément du libre choix d'activité de la prestation d'accueil du jeune enfant ou de l'allocation journalière de présence parentale mentionnées à l'article L. 381-1 est égale au taux cumulé de la cotisation employeur et salarié dans le régime général de sécurité sociale, pour la couverture du risque vieillesse. Il en est de même pour les personnes ayant la charge d'un enfant handicapé ou assumant au foyer familial la charge d'un adulte handicapé et pour les bénéficiaires du congé de proche aidant.
+La cotisation due au titre des personnes bénéficiaires de la prestation partagée d'éducation de l'enfant ou de l'allocation journalière de présence parentale mentionnées à l'article L. 381-1 est égale au taux cumulé de la cotisation employeur et salarié dans le régime général de sécurité sociale, pour la couverture du risque vieillesse. Il en est de même pour les personnes ayant la charge d'un enfant handicapé ou assumant au foyer familial la charge d'un adulte handicapé et pour les bénéficiaires du congé de proche aidant.
 
 Cette cotisation est assise sur une assiette forfaitaire égale :
 
