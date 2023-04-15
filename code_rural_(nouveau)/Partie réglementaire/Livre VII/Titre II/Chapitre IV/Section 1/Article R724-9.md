@@ -1,22 +1,26 @@
 ###### Article R724-9
 
-Les dispositions des articles R. 243-59 à R. 243-59-9 du code de la sécurité sociale sont applicables aux contrôles effectués en application de l'article L. 724-7 du présent code auprès des cotisants mentionnés à l'article L. 724-11, sous réserve des adaptations particulières suivantes :
+Les dispositions des articles R. 243-59 à R. 243-59-10 du code de la sécurité sociale sont applicables aux contrôles effectués en application de l'article L. 724-7 du présent code auprès des cotisants mentionnés à l'article L. 724-11, sous réserve des adaptations particulières suivantes :
 
 1° Pour l'application de l'article R. 243-59 :
 
-a) La “ Charte du cotisant contrôlé ” mentionnée au cinquième alinéa du I est approuvée par arrêté du ministre chargé de l'agriculture ;
+a) La “ Charte du cotisant contrôlé ” mentionnée au cinquième alinéa du I est approuvée par arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité sociale ;
 
 b) Aux I, II et III, la référence à l'article L. 243-7 du code de la sécurité sociale est remplacée par la référence à l'article L. 724-7 du présent code ;
 
 c) Au III, la référence à l'article L. 243-7-2 du code de la sécurité sociale est remplacée par la référence à l'article L. 725-25 du présent code ;
 
-d) Au III et au IV, la référence à l'article L. 243-7-1 A du code de la sécurité sociale est remplacée par la référence à l'article L. 724-11 du présent code ;
+d) Au III, la référence à l'article L. 243-7-1 A du code de la sécurité sociale est remplacée par la référence à l'article L. 724-11 du présent code ;
 
 e) Les agents de contrôle peuvent remettre en mains propres, contre récépissé, la lettre d'observations prévue au III de l'article R. 243-59 du code de la sécurité sociale. Le récépissé est daté et signé par la personne contrôlée ;
 
+f) Au III, la référence au premier alinéa de l'article L. 244-2 du code de la sécurité sociale est remplacée par la référence à l'article L. 725-3 du présent code ;
+
+1 bis Pour l'application de l'article R. 243-59-1, la référence à l'article L. 244-2 du code de la sécurité sociale est remplacée par la référence à l'article L. 725-3 du présent code ;
+
 2° Pour l'application de l'article R. 243-59-2 :
 
-a) Les méthodes de vérification par échantillonnage et extrapolation mentionnées au premier alinéa sont définies par arrêté du ministre chargé de l'agriculture ;
+a) Les méthodes de vérification par échantillonnage et extrapolation mentionnées au premier alinéa sont définies par arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité sociale ;
 
 b) Les missions de l'inspecteur ou du contrôleur du recouvrement sont assurées par tout agent de contrôle de la caisse de mutualité sociale agricole répondant aux conditions prévues à l'article L. 724-7 du présent code ;
 

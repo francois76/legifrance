@@ -4,6 +4,16 @@ Les dispositions des articles R. 242-2, R. 243-1-1, R. 243-6, R. 243-6-1, R. 243
 
 Pour l'application de l' article R. 243-11 du code de la sécurité sociale , la référence à l'article R. 243-21 du même code est remplacée par la référence à l'article R. 726-1 du présent code.
 
+Pour l'application de l'article R. 243-17 du code de la sécurité sociale :
+
+a) La référence à l'article L. 243-7-2 du code de la sécurité sociale est remplacée par la référence à l'article L. 725-25 du présent code ;
+
+b) Les références aux articles L. 243-7-6 et L. 243-7-7 du code de la sécurité sociale sont remplacées par la référence à l'article L. 725-22-1 du présent code ;
+
+c) La référence à l'article L. 243-12-1 du code de la sécurité sociale est remplacée par la référence à l'article L. 724-13 du présent code.
+
+Pour l'application de l'article R. 243-18 du code de la sécurité sociale, la référence au premier alinéa de l'article L. 244-2 est remplacée par la référence à l'article L. 725-3 du présent code.
+
 Pour l'application de l'article R. 243-22 du code de la sécurité sociale, la référence au premier alinéa de l'article R. 243-20 est remplacée par la référence à l'article R. 741-26 du présent code et la référence à l'article R. 243-19 du code de la sécurité sociale est remplacée par la référence à l'article R. 741-24 du présent code.
 
 Pour l'application de l'article R. 243-23 du code de la sécurité sociale, les références aux articles L. 611-7, L. 626-6 et L. 631-19 sont complétées par la référence à l'article L. 351-4 du présent code.
