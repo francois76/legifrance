@@ -10,5 +10,5 @@ a) Aux salariés occupant des emplois entrant dans le champ des services mention
 
 b) Aux organismes et personnes mentionnés au B de l'article L. 1271-1 du présent code ;
 
-c) Aux assistants maternels agréés en application de l'article L. 421-1 du code de l'action sociale et des familles.
+c) Aux assistants maternels agréés en application de l'article L. 421-1 du code de l'action sociale et des familles .
 

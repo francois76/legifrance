@@ -462,7 +462,7 @@ Avranches</td>
  </tr>
  <tr>
   <td align="center" rowspan="4">Lille</td>
-  <td align="center">Lannoy</td>
+  <td align="center">Lys-Lez-Lannoy</td>
   <td>Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud.</td>
  </tr>
  <tr>

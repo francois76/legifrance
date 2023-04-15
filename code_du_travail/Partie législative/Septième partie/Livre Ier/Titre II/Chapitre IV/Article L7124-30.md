@@ -6,7 +6,7 @@ Est puni d'un emprisonnement de cinq ans et d'une amende de 75 000 Euros, le fai
 
 2° Pour toute personne autre que les père et mère pratiquant les professions d'acrobate saltimbanque, montreur d'animaux, directeur de cirque ou d'attraction foraine, d'employer dans ses représentations un enfant âgé de moins de seize ans ;
 
-3° Pour le père et la mère exerçant des professions mentionnées aux 1° et 2° , d'employer dans leurs représentations leur enfant âgé de moins de douze ans ;
+3° Pour le père et la mère exerçant des professions mentionnées aux 1° et 2°, d'employer dans leurs représentations leur enfant âgé de moins de douze ans ;
 
 4° Pour toute personne, d'employer comme mannequin un enfant durant une période de vacances scolaires pour un nombre de jours supérieur à la moitié de la durée des vacances.
 

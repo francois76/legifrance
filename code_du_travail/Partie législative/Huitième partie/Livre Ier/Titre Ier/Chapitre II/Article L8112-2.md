@@ -8,7 +8,7 @@ Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8
 
 3° Les infractions aux dispositions relatives à l'interdiction de fumer dans les lieux affectés à un usage collectif, prévues à l'article L. 3511-7 du code de la santé publique ;
 
-4° Les infractions relatives aux conditions d'entrée et de séjour des étrangers en France, prévues par les articles L. 622-1 et L. 622-5 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
+4° Les infractions relatives aux conditions d'entrée et de séjour des étrangers en France, prévues par les articles L. 823-1, L. 823-2 et L. 823-3 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
 5° Les infractions aux dispositions de la section 4 du chapitre V du titre Ier du livre Ier du code de la consommation, relatives à la certification des services et produits autres qu'alimentaires, ainsi qu'au livre II de ce même code, relatives à la conformité et la sécurité des produits et des services ;
 

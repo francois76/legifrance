@@ -2,7 +2,7 @@
 
 Le salarié étranger a droit au titre de la période d'emploi illicite :
 
-1° Au paiement du salaire et des accessoires de celui-ci, conformément aux dispositions légales , conventionnelles et aux stipulations contractuelles applicables à son emploi, déduction faite des sommes antérieurement perçues au titre de la période considérée. A défaut de preuve contraire, les sommes dues au salarié correspondent à une relation de travail présumée d'une durée de trois mois. Le salarié peut apporter par tous moyens la preuve du travail effectué ;
+1° Au paiement du salaire et des accessoires de celui-ci, conformément aux dispositions légales, conventionnelles et aux stipulations contractuelles applicables à son emploi, déduction faite des sommes antérieurement perçues au titre de la période considérée. A défaut de preuve contraire, les sommes dues au salarié correspondent à une relation de travail présumée d'une durée de trois mois. Le salarié peut apporter par tous moyens la preuve du travail effectué ;
 
 2° En cas de rupture de la relation de travail, à une indemnité forfaitaire égale à trois mois de salaire, à moins que l'application des règles figurant aux articles L. 1234-5, L. 1234-9, L. 1243-4 et L. 1243-8 ou des stipulations contractuelles correspondantes ne conduise à une solution plus favorable.
 

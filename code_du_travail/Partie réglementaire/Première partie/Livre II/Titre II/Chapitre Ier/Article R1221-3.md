@@ -6,5 +6,5 @@ La déclaration préalable à l'embauche est adressée par l'employeur :
 
 2° Soit, s'il s'agit d'un salarié relevant du régime de la protection sociale agricole, à la caisse de mutualité sociale agricole du lieu de travail de ce salarié.
 
-3° Soit, s'il s'agit d'un salarié relevant du régime spécial des marins, à l'union pour le recouvrement des cotisations de sécurité sociale et d'allocations familiales mentionnée à l'article L. 213-4 du code de la sécurité sociale.
+3° Soit, s'il s'agit d'un salarié relevant du régime spécial des marins, à l'union pour le recouvrement des cotisations de sécurité sociale et d'allocations familiales mentionnée à l' article L. 213-4 du code de la sécurité sociale .
 

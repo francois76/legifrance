@@ -10,7 +10,7 @@ II. — Les mesures prévues dans le cadre d'une démarche volontaire de l'entre
 
 1° Les limites géographiques du ou des bassins d'emplois d'intervention ;
 
-2° La nature des mesures et le montant auquel chacune est valorisée pour venir en déduction du montant de la contribution prévue aux articles L. 1233-86 et L.1237-19-11 ;
+2° La nature des mesures et le montant auquel chacune est valorisée pour venir en déduction du montant de la contribution prévue aux articles L. 1233-86 et L. 1237-19-11 ;
 
 3° La date de début de mise en œuvre de chacune des mesures ;
 
