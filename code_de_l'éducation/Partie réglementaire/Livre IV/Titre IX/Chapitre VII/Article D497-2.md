@@ -8,6 +8,10 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
   <th>DANS LEUR REDACTION</th>
  </tr>
  <tr>
+  <td>D. 426-12 à D. 426-13-2</td>
+  <td>Résultant du décret n° 2023-267 du 12 avril 2023</td>
+ </tr>
+ <tr>
   <td>D. 441-1</td>
   <td>Résultant du décret n° 2019-1558 du 30 décembre 2019</td>
  </tr>

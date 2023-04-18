@@ -17,27 +17,37 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
  </tr>
  <tr>
   <td align="justify">R. 426-2</td>
-  <td align="justify">Résultant du décret n° 2009-238 du 27 février 2009</td>
+  <td align="justify">Résultant du décret n° 2023-267 du 12 avril 2023</td>
  </tr>
  <tr>
   <td align="justify">R. 426-2-1</td>
   <td align="justify">Résultant du décret n° 2012-16 du 5 janvier 2012</td>
  </tr>
  <tr>
-  <td align="justify">R. 426-3 et R. 426-4</td>
+  <td align="justify">R. 426-3</td>
   <td align="justify">Résultant du décret n° 2008-263 du 14 mars 2008</td>
  </tr>
  <tr>
-  <td align="justify">R. 426-5</td>
-  <td align="justify">Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+  <td align="justify">R. 426-4</td>
+  <td align="justify">Résultant du décret n° 2023-267 du 12 avril 2023</td>
  </tr>
  <tr>
-  <td align="justify">R. 426-6 et R. 426-7</td>
+  <td align="justify">R. 426-5</td>
+  <td align="justify">Résultant du</td>
+ </tr>
+ <tr>
+  <td align="justify"></td>
+  <td align="justify">décret n° 2023-267 du 12 avril 2023
+R. 426-6
+Résultant du décret n° 2023-267 du 12 avril 2023</td>
+ </tr>
+ <tr>
+  <td align="justify">R. 426-7</td>
   <td align="justify">Résultant du décret n° 2008-263 du 14 mars 2008</td>
  </tr>
  <tr>
   <td align="justify">R. 426-8</td>
-  <td align="justify">Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+  <td align="justify">Résultant du décret n° 2023-267 du 12 avril 2023</td>
  </tr>
  <tr>
   <td align="justify">R. 426-9</td>
@@ -48,12 +58,26 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
   <td align="justify">Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
  </tr>
  <tr>
-  <td align="justify">R. 426-11 à R. 426-19</td>
+  <td align="justify">R. 426-11</td>
+  <td align="justify">Résultant du décret n° 2008-263 du 14 mars 2008</td>
+ </tr>
+ <tr>
+  <td align="justify">R. 426-14</td>
+  <td align="justify">Résultant du</td>
+ </tr>
+ <tr>
+  <td align="justify"/><td align="justify"/>
+ </tr>
+ <tr>
+<td align="justify"/><td align="justify">décret n° 2023-267 du 12 avril 2023R. 426-15Résultant du décret n° 2008-263 du 14 mars 2008 R. 426-16Résultant du décret n° 2023-267 du 12 avril 2023</td>
+ </tr>
+ <tr>
+  <td align="justify">R. 426-18 et R. 426-19</td>
   <td align="justify">Résultant du décret n° 2008-263 du 14 mars 2008</td>
  </tr>
  <tr>
   <td align="justify">R. 426-20</td>
-  <td align="justify">Résultant du décret n° 2009-238 du 27 février 2009</td>
+  <td align="justify">Résultant du décret n° 2023-267 du 12 avril 2023</td>
  </tr>
  <tr>
   <td align="justify">R. 426-21</td>

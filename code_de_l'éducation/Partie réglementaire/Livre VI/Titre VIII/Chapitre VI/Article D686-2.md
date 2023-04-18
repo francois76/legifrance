@@ -74,8 +74,12 @@ D. 612-1-11, 1er, 2e, 3e et 5e alinéas</td>
   <td>Résultant du décret n° 2020-181 du 28 février 2020</td>
  </tr>
  <tr>
-  <td>D. 612-1-13 et D. 612-1-14</td>
+  <td>D. 612-1-13</td>
   <td>Résultant du décret n° 2021-226 du 26 février 2021</td>
+ </tr>
+ <tr>
+  <td>D. 612-1-14</td>
+  <td>Résultant du décret n° 2022-924 du 22 juin 2022</td>
  </tr>
  <tr>
   <td>D. 612-1-14-1</td>

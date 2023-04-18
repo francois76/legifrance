@@ -8,3 +8,5 @@ Le centre favorise le développement, notamment à l'étranger, de cet enseignem
 
 Le Centre national d'enseignement à distance assure, pour le compte de l'Etat, le service public de l'enseignement à distance.A ce titre, il dispense un service d'enseignement à destination des élèves, notamment ceux qui relèvent de l'instruction obligatoire, ayant vocation à être accueillis dans un des établissements mentionnés aux articles L. 132-1 et L. 132-2 et ne pouvant être scolarisés totalement ou partiellement dans un de ces établissements.
 
+Le Centre national d'enseignement à distance contribue, pour le compte de l'Etat, aux missions du service public du numérique éducatif prévues aux 1° et 4° de l'article L. 131-2.
+

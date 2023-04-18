@@ -6,5 +6,5 @@ Les décisions prises par le directeur général par délégation du conseil d'a
 
 Les délibérations relatives aux 8° et 11° du même article doivent, pour devenir exécutoires, faire l'objet d'une approbation expresse des ministres chargés de l'éducation, de l'enseignement supérieur et du budget.
 
-Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Il en est de même pour les délibérations portant sur les droits d'inscription mentionnés au troisième alinéa de l'article R. 426-2-1.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 

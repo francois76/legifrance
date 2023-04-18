@@ -72,8 +72,12 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
   <td>Résultant du décret n° 2020-181 du 28 février 2020</td>
  </tr>
  <tr>
-  <td>D. 612-1-13 et D. 612-1-14</td>
+  <td>D. 612-1-13</td>
   <td>Résultant du décret n° 2021-226 du 26 février 2021</td>
+ </tr>
+ <tr>
+  <td>D. 612-1-14</td>
+  <td>Résultant du décret n° 2022-924 du 22 juin 2022</td>
  </tr>
  <tr>
   <td>D. 612-1-14-1</td>
@@ -100,8 +104,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
   <td>Résultant du décret n° 2019-231 du 26 mars 2019</td>
  </tr>
  <tr>
-  <td>D. 612-1-20
-D. 612-1-21, 1er et 2e alinéas
+  <td>D. 612-1-20 D. 612-1-21, 1er et 2e alinéas
 
 D. 612-1-22</td>
   <td>Résultant du décret n° 2019-1558 du 30 décembre 2019</td>
@@ -215,8 +218,7 @@ D. 612-1-22</td>
   <td>Résultant du décret n° 2015-1168 du 21 septembre 2015</td>
  </tr>
  <tr>
-  <td>D. 612-32-5
-D. 612-33</td>
+  <td>D. 612-32-5 D. 612-33</td>
   <td>Résultant du décret n° 2017-83 du 25 janvier 2017</td>
  </tr>
  <tr>
@@ -244,8 +246,7 @@ D. 612-33</td>
   <td>Résultant du décret n° 2017-83 du 25 janvier 2017</td>
  </tr>
  <tr>
-  <td>D. 612-37 à D. 612-41
-D. 613-1 à D. 613-5</td>
+  <td>D. 612-37 à D. 612-41 D. 613-1 à D. 613-5</td>
   <td>Résultant du décret n° 2013-756 du 19 août 2013</td>
  </tr>
  <tr>
@@ -297,8 +298,7 @@ D. 613-1 à D. 613-5</td>
   <td>Résultant du décret n° 2015-652 du 10 juin 2015</td>
  </tr>
  <tr>
-  <td>D. 613-46 à D. 613-50
-D. 614-1</td>
+  <td>D. 613-46 à D. 613-50 D. 614-1</td>
   <td>Résultant du décret n° 2013-756 du 19 août 2013</td>
  </tr>
  <tr>
@@ -350,8 +350,7 @@ D. 614-1</td>
   <td>Résultant du décret n° 2019-1022 du 4 octobre 2019</td>
  </tr>
  <tr>
-  <td>D. 633-23
-D. 633-29</td>
+  <td>D. 633-23 D. 633-29</td>
   <td>Résultant du décret n° 2013-756 du 19 août 2013</td>
  </tr>
  <tr>
@@ -367,8 +366,7 @@ D. 633-29</td>
   <td>Résultant du décret n° 2019-1126 du 4 novembre 2019</td>
  </tr>
  <tr>
-  <td>D. 635-4 et D. 635-5
-D. 636-1</td>
+  <td>D. 635-4 et D. 635-5 D. 636-1</td>
   <td>Résultant du décret n° 2013-756 du 19 août 2013</td>
  </tr>
  <tr>
@@ -424,15 +422,13 @@ D. 636-1</td>
   <td>Résultant du décret n° 2018-633 du 18 juillet 2018</td>
  </tr>
  <tr>
-  <td>D. 642-1 à D. 642-4,
-D. 642-11 à D. 642-15
+  <td>D. 642-1 à D. 642-4, D. 642-11 à D. 642-15
 
 D. 642-17</td>
   <td>Résultant du décret n° 2013-756 du 19 août 2013</td>
  </tr>
  <tr>
-  <td>D. 642-18, 1er à 7e alinéas
-D. 642-19</td>
+  <td>D. 642-18, 1er à 7e alinéas D. 642-19</td>
   <td>Résultant du décret n° 2020-56 du 28 janvier 2020</td>
  </tr>
  <tr>
@@ -468,8 +464,7 @@ D. 642-19</td>
   <td>Résultant du décret n° 2020-1677 du 23 décembre 2020</td>
  </tr>
  <tr>
-  <td>D. 642-31
-D. 642-33</td>
+  <td>D. 642-31 D. 642-33</td>
   <td>Résultant du décret n° 2013-756 du 19 août 2013</td>
  </tr>
  <tr>
