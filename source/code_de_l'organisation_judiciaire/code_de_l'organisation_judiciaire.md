@@ -2379,6 +2379,14 @@ Un bilan annuel écrit des délégations prononcées au sein du ressort de la co
 
 Les agents délégués dans une autre juridiction perçoivent les indemnités dans les mêmes conditions que les fonctionnaires de leur catégorie et suivant les mêmes taux.
 
+###### Article R123-17-1
+
+(article manquant)
+
+###### Article R123-17-2
+
+(article manquant)
+
 ###### Article R123-18
 
 Les heures d'ouverture et de fermeture au public des greffes sont fixées par le premier président de la cour d'appel, après avis de l'assemblée des magistrats du siège et du parquet et de l'assemblée des fonctionnaires. La détermination de ces horaires tient compte, le cas échéant, des particularités locales.
