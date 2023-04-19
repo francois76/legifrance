@@ -1,6 +1,6 @@
 ###### Article D731-40
 
-Lorsque le cotisant de solidarité, n'a pas fourni la déclaration définie à l'article D. 731-18 un mois après la date fixée par la caisse de mutualité sociale agricole le montant de la cotisation due au titre de l'année considérée est calculé sur l'assiette de la cotisation due au titre de l'année précédente.
+Lorsque le cotisant de solidarité, n'a pas rempli l'obligation de déclaration mentionnée à l'article L. 731-13-2 un mois après la date limite de dépôt fixée à l' article 175 du code général des impôts le montant de la cotisation due au titre de l'année considérée est calculé sur l'assiette de la cotisation due au titre de l'année précédente.
 
 L'intéressé en est informé par lettre recommandée avec demande d'avis de réception valant mise en demeure. Il dispose d'un délai d'un mois à compter de la première présentation de la mise en demeure pour régulariser sa situation.
 

@@ -1,12 +1,10 @@
 ###### Article D781-19
 
-Les majorations prévues aux premier et deuxième alinéas de l'article D. 781-18 font l'objet d'une remise automatique lorsque les conditions suivantes sont réunies :
+Lorsqu'un chef d'exploitation ou d'entreprise agricole exerçant leur activité en Guadeloupe, en Guyane, en Martinique, à la Réunion, à Mayotte, à Saint Barthélemy et à Saint-Martin, n'a pas versé les cotisations et contributions sociales dont il est redevable à la date limite d'exigibilité et s'en acquitte dans un délai de trente jours ou a souscrit, dans ce même délai, un échéancier de paiement avec la caisse de mutualité sociale agricole dont il relève dans les conditions prévues par le 4° de l'article R. 726-1 et en respecte les termes, les majorations prévues aux premier et deuxième alinéas de l'article D. 781-18 du présent code ne sont pas dues si les conditions suivantes sont réunies :
 
 1° Aucune infraction n'a été constatée au cours des vingt-quatre mois précédents ;
 
-2° Leur montant est inférieur au plafond de la sécurité sociale applicable aux rémunérations ou gains versés par mois, fixé pour l'année civile en cours ;
-
-3° Dans le mois suivant la date limite d'exigibilité des cotisations, le cotisant a réglé les cotisations dues.
+2° Le montant des majorations applicables est inférieur à la valeur mensuelle du plafond de la sécurité sociale.
 
 Les comités de gestion mentionnés à l'article D. 781-78 peuvent accorder en cas de bonne foi dûment prouvée la remise des majorations de retard prévues au premier alinéa de l'article D. 781-18 dans des conditions fixées par arrêté du ministre de l'agriculture.
 
