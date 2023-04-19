@@ -5,9 +5,9 @@ Les organismes de sécurité sociale et les fonds mentionnés au présent articl
 1° Le produit de la taxe sur les salaires mentionnée à l'article 231 du code général des impôts, nette des frais d'assiette et de recouvrement déterminés dans les conditions prévues au III de l'article 1647 du même code, est versé :
 
 - à la branche mentionnée au 3° de l'article L. 200-2 du présent code, pour une fraction correspondant à 53,37 % ;
-- à la branche mentionnée au 4° du même article, pour une fraction correspondant à 17,19 % ;
+- à la branche mentionnée au 4° du même article, pour une fraction correspondant à 16,87 % ;
 - à la branche mentionnée au 1° du même article, pour une fraction correspondant à 25,19 % ;
-- à la branche mentionnée au 5° du même article, pour une fraction correspondant à 4,25 % ;
+- à la branche mentionnée au 5° du même article, pour une fraction correspondant à 4,57 % ;
 
 2° Le produit des taxes sur l'affectation des véhicules de tourisme à des fins économiques prévues au 1° de l'article L. 421-94 du code des impositions sur les biens et services est affecté à la branche mentionnée au 4° de l'article L. 200-2 du présent code ;
 

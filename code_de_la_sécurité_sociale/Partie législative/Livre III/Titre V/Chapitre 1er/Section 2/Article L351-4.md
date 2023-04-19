@@ -4,7 +4,7 @@ I.-Une majoration de durée d'assurance de quatre trimestres est attribuée aux 
 
 II.-Il est institué au bénéfice de l'un ou l'autre des deux parents assurés sociaux une majoration de durée d'assurance de quatre trimestres attribuée pour chaque enfant mineur au titre de son éducation pendant les quatre années suivant sa naissance ou son adoption.
 
-Les parents désignent d'un commun accord le bénéficiaire de la majoration ou, le cas échéant, définissent la répartition entre eux de cet avantage.
+Les parents désignent d'un commun accord le bénéficiaire de la majoration ou, le cas échéant, définissent la répartition entre eux de cet avantage. Le bénéfice de cette majoration en faveur de la mère assurée sociale ne peut être inférieur à deux trimestres.
 
 Cette option est exprimée auprès de la caisse d'assurance vieillesse compétente dans le délai de six mois à compter du quatrième anniversaire de la naissance de l'enfant ou de son adoption. Lorsqu'aucun des parents n'a la qualité d'assuré à cette date, ce délai court à compter de la date à laquelle le premier d'entre eux acquiert cette qualité.
 
@@ -18,7 +18,7 @@ La décision, y compris implicite, des parents ou l'attribution de la majoration
 
 III.-Une majoration de durée d'assurance de quatre trimestres est attribuée, pour chaque enfant adopté durant sa minorité, à ses parents au titre de l'incidence sur leur vie professionnelle de l'accueil de l'enfant et des démarches préalables à celui-ci.
 
-Les parents désignent d'un commun accord le bénéficiaire de la majoration ou, le cas échéant, définissent la répartition entre eux de cet avantage. Cette option est exprimée auprès de la caisse d'assurance vieillesse compétente dans le délai de six mois à compter du quatrième anniversaire de l'adoption de l'enfant ou, lorsqu'aucun des parents n'a la qualité d'assuré à cette date, à compter de la date à laquelle le premier d'entre eux acquiert cette qualité. En cas de désaccord exprimé par l'un ou l'autre des parents dans ce délai, la majoration est attribuée par la caisse d'assurance vieillesse compétente à celui des parents qui établit avoir assumé à titre principal l'accueil et les démarches mentionnés à l'alinéa précédent ou, à défaut, est partagée par moitié entre les deux parents.
+Les parents désignent d'un commun accord le bénéficiaire de la majoration ou, le cas échéant, définissent la répartition entre eux de cet avantage. Cette option est exprimée auprès de la caisse d'assurance vieillesse compétente dans le délai de six mois à compter du quatrième anniversaire de l'adoption de l'enfant ou, lorsqu'aucun des parents n'a la qualité d'assuré à cette date, à compter de la date à laquelle le premier d'entre eux acquiert cette qualité. Le bénéfice de cette majoration en faveur de la mère assurée sociale ne peut être inférieur à deux trimestres. En cas de désaccord exprimé par l'un ou l'autre des parents dans ce délai, la majoration est attribuée par la caisse d'assurance vieillesse compétente à celui des parents qui établit avoir assumé à titre principal l'accueil et les démarches mentionnés à l'alinéa précédent ou, à défaut, est partagée par moitié entre les deux parents.
 
 Le défaut d'option dans le délai mentionné à l'alinéa précédent est réputé, en l'absence de désaccord exprimé, valoir décision conjointe implicite de désignation de la mère adoptante. Lorsque les deux parents adoptants sont de même sexe, la majoration est partagée par moitié entre eux.
 
@@ -29,6 +29,10 @@ IV.-Sont substitués dans les droits des parents pour l'application du II les as
 V.-L'assuré ne peut bénéficier de la majoration prévue au II s'il a été privé de l'exercice de l'autorité parentale ou s'est vu retirer l'autorité parentale par une décision de justice au cours des quatre premières années de l'enfant.
 
 VI.-L'assuré ne peut bénéficier, au titre de la majoration prévue au II, d'un nombre de trimestres supérieur au nombre d'années durant lesquelles il a résidé avec l'enfant au cours de la période mentionnée au premier alinéa du même II.
+
+Par dérogation au premier alinéa du présent VI, en cas de décès de l'enfant avant la fin de la quatrième année suivant sa naissance ou son adoption, la majoration est égale à quatre trimestres.
+
+Sur décision du juge pénal, en cas de condamnation définitive d'une personne pour meurtre dans les situations prévues aux 1°, 3° et 4° ter de l'article 221-4 du code pénal lorsque la victime est l'enfant ouvrant droit à la majoration prévue au II du présent article, la personne condamnée ne peut bénéficier de cette majoration.
 
 VII.-Lors de la liquidation de la pension de retraite, la majoration prévue au II ne peut être attribuée à l'un ou l'autre des parents lorsque chacun d'eux ne justifie pas d'une durée d'assurance minimale de deux ans auprès d'un régime de retraite légalement obligatoire d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou de la Confédération suisse. Ces dispositions ne sont pas applicables au parent qui a élevé seul l'enfant pendant tout ou partie de la période mentionnée au premier alinéa du II.
 

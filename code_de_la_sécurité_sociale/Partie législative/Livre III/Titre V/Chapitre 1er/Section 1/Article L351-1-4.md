@@ -1,10 +1,10 @@
 ###### Article L351-1-4
 
-I. ― La condition d'âge prévue au premier alinéa de l'article L. 351-1 est abaissée, dans des conditions fixées par décret, pour les assurés qui justifient d'une incapacité permanente au sens de l'article L. 434-2 au moins égale à un taux déterminé par décret, lorsque cette incapacité est reconnue au titre d'une maladie professionnelle mentionnée à l'article L. 461-1 ou au titre d'un accident de travail mentionné à l'article L. 411-1 et ayant entraîné des lésions identiques à celles indemnisées au titre d'une maladie professionnelle.
+I. ― La condition d'âge prévue au premier alinéa de l'article L. 351-1 est abaissée à soixante ans pour les assurés qui justifient d'une incapacité permanente au sens de l'article L. 434-2 au moins égale à un taux déterminé par décret, lorsque cette incapacité est reconnue au titre d'une maladie professionnelle mentionnée à l'article L. 461-1 ou au titre d'un accident de travail mentionné à l'article L. 411-1 et ayant entraîné des lésions identiques à celles indemnisées au titre d'une maladie professionnelle.
 
 II. ― La pension de retraite liquidée en application du présent article est calculée au taux plein même si l'assuré ne justifie pas de la durée requise d'assurance ou de périodes équivalentes dans le régime général et un ou plusieurs autres régimes obligatoires.
 
-III. ― Les I et II sont également applicables à l'assuré justifiant d'une incapacité permanente d'un taux inférieur à celui mentionné au I, sous réserve :
+III. ― Lorsque l'assuré justifie d'une incapacité permanente d'un taux inférieur à celui mentionné au I du présent article et que cette incapacité est reconnue au titre d'une maladie professionnelle mentionnée à l'article L. 461-1 ou au titre d'un accident de travail mentionné à l'article L. 411-1, la condition d'âge prévue au premier alinéa de l'article L. 351-1 est abaissée de deux ans et le II du présent article s'applique, sous réserve :
 
 1° Que le taux d'incapacité permanente de l'assuré soit au moins égal à un taux déterminé par décret ;
 

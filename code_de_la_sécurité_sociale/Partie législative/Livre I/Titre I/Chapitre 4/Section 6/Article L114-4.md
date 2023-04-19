@@ -14,6 +14,8 @@ II.-Le comité rend, au plus tard le 15 juillet, en s'appuyant notamment sur les
 
 3° Analysant l'évolution du pouvoir d'achat des retraités, avec une attention prioritaire à ceux dont les revenus sont inférieurs au seuil de pauvreté.
 
+4° Examinant si le montant de la majoration prévue au premier alinéa de l'article L. 351-10 permet aux assurés mentionnés aux articles L. 311-2 et L. 631-1 du présent code et à l'article L. 722-20 du code rural et de la pêche maritime ayant travaillé à temps complet avec un revenu équivalent au salaire minimum de croissance et justifiant d'une durée d'assurance cotisée, tant au régime général que dans un ou plusieurs autres régimes obligatoires, identique à la durée d'assurance nécessaire pour bénéficier d'une pension à taux plein de se voir servir par les régimes légaux ou rendus légalement obligatoires, de base et complémentaires, lors de la liquidation de leur pension, un montant brut mensuel total des pensions de vieillesse de droit personnel au moins égal à 85 % du montant mensuel du salaire minimum de croissance net des cotisations et des contributions sociales obligatoires d'origine légale ou conventionnelle.
+
 Dans le cas prévu au 1°, le comité :
 
 a) Adresse au Parlement, au Gouvernement, aux caisses nationales des régimes obligatoires de base d'assurance vieillesse, aux services de l'Etat chargés de la liquidation des pensions et aux régimes de retraite complémentaire légalement obligatoires des recommandations, rendues publiques, destinées à garantir le respect des objectifs mentionnés au 1° du présent II, dans les conditions prévues aux III et IV ;
@@ -30,7 +32,9 @@ III.-Les recommandations mentionnées au II portent notamment sur :
 
 4° Le niveau du taux de cotisation d'assurance vieillesse, de base et complémentaire ;
 
-5° L'affectation d'autres ressources au système de retraite, notamment pour financer les prestations non contributives.
+5° L'affectation d'autres ressources au système de retraite, notamment pour financer les prestations non contributives ;
+
+6° Les mesures permettant d'atteindre l'objectif mentionné au 4° du II.
 
 IV.-Les recommandations mentionnées au II ne peuvent tendre à :
 

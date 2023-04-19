@@ -1,6 +1,6 @@
 ###### Article L242-5
 
-Le taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est déterminé annuellement pour chaque catégorie de risques par la caisse d'assurance retraite et de la santé au travail d'après les règles fixées par décret.
+Le taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est déterminé annuellement pour chaque catégorie de risques par la caisse d'assurance retraite et de la santé au travail d'après les règles fixées par décret. Ce décret prévoit que les modalités de calcul du taux de cotisation permettent la mutualisation entre les entreprises des coûts liés aux maladies professionnelles dont l'effet est différé dans le temps, dans l'objectif de favoriser l'emploi des salariés âgés.
 
 Les risques sont classés dans les différentes catégories par la caisse d'assurance retraite et de la santé au travail, sauf recours, de la part soit de l'employeur, soit de l'autorité administrative, à la juridiction compétente pour connaître du contentieux mentionné au 7° de l'article L. 142-1, laquelle statue en premier et dernier ressort.
 

@@ -56,5 +56,7 @@ Les personnes qui contribuent de façon occasionnelle à l'exécution d'une miss
 
 27° Les médecins réalisant l'examen nécessaire à l'établissement d'un certificat de décès, au titre des rémunérations versées sous forme de forfait par les organismes d'assurance maladie en application de l'article L. 162-5-14-2 ;
 
-28° Les médecins habilités par le ministre chargé des gens de mer et les médecins membres des collèges médicaux maritimes mentionnés à l'article 6 et au III de l'article 18 du décret n° 2015-1574 du 3 décembre 2015 relatif au service de santé des gens de mer, au titre des frais et honoraires versés en application de ces articles.
+28° Les médecins habilités par le ministre chargé des gens de mer et les médecins membres des collèges médicaux maritimes mentionnés à l'article 6 et au III de l'article 18 du décret n° 2015-1574 du 3 décembre 2015 relatif au service de santé des gens de mer, au titre des frais et honoraires versés en application de ces articles ;
+
+29° Les représentants des retraités militaires au sein du Conseil supérieur de la fonction militaire mentionné à l'article L. 4124-1 du code de la défense, au titre des indemnités versées en application du décret n° 2023-271 du 14 avril 2023.
 

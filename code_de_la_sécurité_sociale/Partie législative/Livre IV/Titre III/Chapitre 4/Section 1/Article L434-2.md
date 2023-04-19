@@ -10,3 +10,5 @@ En cas d'accidents successifs, le taux ou la somme des taux d'incapacité perman
 
 Lorsque l'état d'invalidité apprécié conformément aux dispositions du présent article est susceptible d'ouvrir droit, si cet état relève de l'assurance invalidité, à une pension dans les conditions prévues par les articles L. 341-1 et suivants, la rente accordée à la victime en vertu du présent titre dans le cas où elle est inférieure à ladite pension d'invalidité, est portée au montant de celle-ci. Toutefois, cette disposition n'est pas applicable si la victime est déjà titulaire d'une pension d'invalidité des assurances sociales.
 
+Les victimes titulaires d'une rente sont informées, selon des modalités prévues par décret, des dispositions prévues à l'article L. 351-1-4 avant un âge fixé par décret.
+
