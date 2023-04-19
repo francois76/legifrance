@@ -8,7 +8,7 @@ Le financement de l'assurance vieillesse et veuvage du régime de protection soc
 
 2° bis (abrogé)
 
-3° Une fraction égale à 26,67 % du produit de l'accise sur les alcools mentionnée à l'article L. 313-1 du code des impositions sur les biens et services perçue sur les produits relevant de la catégorie fiscale des alcools ainsi que le produit de cette même accise perçue sur les produits relevant des autres catégories fiscales ;
+3° Une fraction égale à 26,02 % du produit de l'accise sur les alcools mentionnée à l'article L. 313-1 du code des impositions sur les biens et services perçue sur les produits relevant de la catégorie fiscale des alcools ainsi que le produit de cette même accise perçue sur les produits relevant des autres catégories fiscales ;
 
 4° (abrogé)
 
