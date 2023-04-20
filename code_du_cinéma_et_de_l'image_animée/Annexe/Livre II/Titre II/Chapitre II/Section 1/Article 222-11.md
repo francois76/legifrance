@@ -4,7 +4,7 @@ I.-Lorsque l'agrément de distribution a été délivré pour une œuvre cinéma
 
 II.-Toutefois, si l'agrément de production n'est pas délivré dans un délai de huit mois à compter de la délivrance du visa d'exploitation cinématographique, les aides financières sont attribuées à titre définitif et il est procédé au calcul et à l'inscription des sommes sur le compte automatique distribution cinéma de l'entreprise de distribution, lorsque les conditions suivantes sont remplies :
 
-1° L'entreprise de distribution n'est pas également productrice ou coproductrice de l'œuvre concernée ;
+1° L'entreprise de distribution n'est pas également productrice déléguée ou coproductrice déléguée de l'œuvre concernée ;
 
 2° L'entreprise de distribution fournit tous documents, dès lors qu'ils n'ont pas déjà été fournis par l'entreprise de production, permettant de vérifier que l'œuvre a été réalisée dans les conditions prévues à l'article 211-7 et à l'article 211-13.
 
