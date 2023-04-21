@@ -315,7 +315,7 @@ Le minimum garanti est versé sous réserve que le montant mensuel total des pen
 
 En cas de dépassement de ce montant, le minimum garanti est réduit à due concurrence du dépassement sans pouvoir être inférieur au montant de la pension civile ou militaire sans application du minimum garanti. Ne peuvent bénéficier du minimum garanti que les agents qui, à la date de liquidation de la pension à laquelle ils ont droit au titre du présent code, ont fait valoir leurs droits aux pensions personnelles de retraite de droit direct auxquels ils peuvent prétendre au titre des régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français et étrangers, ainsi que des régimes des organisations internationales.
 
-Un décret en Conseil d'Etat fixe les modalités d'application des deux précédents alinéas.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles les périodes validées en application des articles L. 381-1 et L. 381-2 du code de la sécurité sociale ou les périodes pendant lesquelles les fonctionnaires, les magistrats et les militaires vérifiaient les conditions d'affiliation obligatoire à l'assurance vieillesse du régime général mentionnées aux mêmes articles L. 381-1 et L. 381-2 mais étaient affiliés à un régime spécial sont considérées comme des périodes de services effectifs pour l'application du présent article.
 
 ##### Paragraphe IV : Avantages de pension de caractère familial.
 
@@ -335,7 +335,7 @@ Les enfants placés sous tutelle du titulaire de la pension ou de son conjoint, 
 
 Les enfants recueillis à son foyer par le titulaire de la pension ou son conjoint, qui justifie, dans les conditions fixées par décret en Conseil d'Etat, en avoir assumé la charge effective et permanente.
 
-III. – A l'exception des enfants décédés par faits de guerre, les enfants devront avoir été élevés pendant au moins neuf ans, soit avant leur seizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 à R. 512-3 du code de la sécurité sociale.
+III. – A l'exception des enfants décédés, les enfants devront avoir été élevés pendant au moins neuf ans, soit avant leur seizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 à R. 512-3 du code de la sécurité sociale.
 
 Pour satisfaire la condition de durée ci-dessus, il sera tenu compte, le cas échéant, du temps pendant lequel les enfants auront été élevés par le conjoint après le décès du titulaire.
 
