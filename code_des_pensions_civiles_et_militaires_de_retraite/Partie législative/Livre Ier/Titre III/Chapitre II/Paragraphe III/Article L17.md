@@ -16,5 +16,5 @@ Le minimum garanti est versé sous réserve que le montant mensuel total des pen
 
 En cas de dépassement de ce montant, le minimum garanti est réduit à due concurrence du dépassement sans pouvoir être inférieur au montant de la pension civile ou militaire sans application du minimum garanti. Ne peuvent bénéficier du minimum garanti que les agents qui, à la date de liquidation de la pension à laquelle ils ont droit au titre du présent code, ont fait valoir leurs droits aux pensions personnelles de retraite de droit direct auxquels ils peuvent prétendre au titre des régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français et étrangers, ainsi que des régimes des organisations internationales.
 
-Un décret en Conseil d'Etat fixe les modalités d'application des deux précédents alinéas.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles les périodes validées en application des articles L. 381-1 et L. 381-2 du code de la sécurité sociale ou les périodes pendant lesquelles les fonctionnaires, les magistrats et les militaires vérifiaient les conditions d'affiliation obligatoire à l'assurance vieillesse du régime général mentionnées aux mêmes articles L. 381-1 et L. 381-2 mais étaient affiliés à un régime spécial sont considérées comme des périodes de services effectifs pour l'application du présent article.
 
