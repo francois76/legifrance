@@ -12,3 +12,7 @@ II.-Pour leur application en Nouvelle-Calédonie et en Polynésie française :
 
 4° L'article L. 5143-2 s'applique uniquement aux vétérinaires des armées mentionnés à son quatrième alinéa.
 
+III.-Le IV de l'article L. 5211-3 est applicable en Nouvelle-Calédonie et en Polynésie française dans sa rédaction résultant de l'ordonnance n° 2022-582 du 20 avril 2022 ;
+
+IV.-Le IV de l'article L. 5221-3 est applicable en Nouvelle-Calédonie et en Polynésie française dans sa rédaction résultant de l'ordonnance n° 2022-1086 du 29 juillet 2022.
+

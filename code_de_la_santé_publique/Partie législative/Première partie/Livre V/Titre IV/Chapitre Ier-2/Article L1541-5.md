@@ -24,7 +24,7 @@ b) Au III, les mots : “ responsable d'un centre d'assistance médicale à la p
 
 3° L'article L. 1131-1-2, dans sa rédaction résultant de la loi n° 2021-1017 du 2 août 2021, sous réserve du remplacement au troisième alinéa des mots : “ consultation chez un médecin qualifié en génétique ” par les mots : “ consultation de nature à assurer une prise en charge adaptée ”
 
-4° L'article L. 1131-1-3 à l'exception au II des mots : “ Par dérogation à l'article L. 6211-11 et au II de l'article L. 6211-19 ” et des mots : “ autorisé en application de l'article L. 1131-2-1 ” ;
+4° L'article L. 1131-1-3 est applicable dans sa rédaction résultant de la loi n° 2021-1017 du 2 août 2021, à l'exception au II des mots : “ Par dérogation à l'article L. 6211-11 et au II de l'article L. 6211-19 ” et des mots : “ autorisé en application de l'article L. 1131-2-1 ” ;
 
 5° L'article L. 1131-3, dans sa rédaction résultant de la loi n° 2021-1017 du 2 août 2021, à l'exception des mots : “ Sous réserve des dispositions du troisième alinéa de l'article L. 1131-2-1, ” ;
 

@@ -4,8 +4,11 @@ I. – Le chapitre préliminaire du titre Ier du livre Ier de la présente parti
 
 L'article L. 1110-2-1 est applicable à Wallis-et-Futuna dans sa rédaction résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République.
 
-Les articles L. 1110-4,
-L. 1110-4-1, L. 1110-8, L. 1110-12 et L. 1110-13 sont applicables à Wallis-et-Futuna dans leur rédaction résultant de la loi n° 2016-41 du 26 janvier 2016, et sous réserve des adaptations prévues au II.
+L'article L. 1110-3 est applicable aux îles Wallis et Futuna dans sa rédaction résultant de la loi n° 2022-295 du 2 mars 2022.
+
+L'article L. 1110-4, à l'exception du III bis, est applicable dans sa rédaction résultant de la loi n° 2021-1017 du 2 août 2021.
+
+Les articles L. 1110-4-1, L. 1110-8, L. 1110-12 et L. 1110-13 sont applicables à Wallis-et-Futuna dans leur rédaction résultant de la loi n° 2016-41 du 26 janvier 2016, et sous réserve des adaptations prévues au II.
 
 II. – Pour leur application à Wallis-et-Futuna :
 
@@ -27,7 +30,15 @@ Les membres de l'inspection générale des affaires sociales titulaires d'un dip
 
 3° Au troisième alinéa de l'article L. 1110-11, les mots : " le représentant de l'Etat dans la région, en accord avec le directeur régional de l'action sanitaire et sociale, " sont remplacés par les mots : " l'administrateur supérieur du territoire " ;
 
-4° A l'article L. 1110-3-1, les mots : " A Mayott " sont remplacés par les mots : " A Wallis-et-Futuna " ;
+4° A l'article L. 1110-3 :
+
+a) Au deuxième alinéa, les mots : “ ou au motif qu'elle est bénéficiaire de la protection complémentaire en matière de santé prévue à l'article L. 861-1 du code de la sécurité sociale, ou du droit à l'aide prévue à l'article L. 251-1 du code de l'action sociale et des familles. ” sont supprimés ;
+
+b) Au troisième alinéa, les mots : “ le directeur de l'organisme local d'assurance maladie ou ” sont supprimés ;
+
+c) Au quatrième alinéa, les mots : “ une commission mixte à parité de représentants du conseil territorialement compétent de l'ordre professionnel concerné et de l'organisme local d'assurance maladie. ” sont remplacés par les mots : “ une commission de représentants du conseil territorialement compétent de l'ordre professionnel concerné ” ;
+
+d) Le sixième alinéa est supprimé.
 
 5° Au 1° de l'article L. 1110-12, les mots : “ dans le même établissement de santé, au sein du service de santé des armées ” sont remplacés par les mots : “ à l'agence de santé ” et les mots : “ mentionné au I de l'article L. 312-1 du code de l'action sociale et des familles ” sont supprimés.
 
