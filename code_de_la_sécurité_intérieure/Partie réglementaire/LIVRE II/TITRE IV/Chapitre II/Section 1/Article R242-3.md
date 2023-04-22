@@ -1,4 +1,4 @@
-##### Article R242-3
+###### Article R242-3
 
 I. ‒ Peuvent accéder, à raison de leurs attributions et dans la limite du besoin d'en connaître, aux données mentionnées à l'article R. 242-2 :
 

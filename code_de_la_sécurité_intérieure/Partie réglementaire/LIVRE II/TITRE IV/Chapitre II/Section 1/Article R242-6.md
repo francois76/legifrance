@@ -1,4 +1,4 @@
-##### Article R242-6
+###### Article R242-6
 
 I. ‒ L'information du public sur l'emploi des caméras installées sur des aéronefs est délivrée sur le site internet du service, de l'unité ou de l'association autorisé à recourir à ces caméras ou, à défaut, par voie d'affichage dans les locaux du service, de l'unité ou de l'association, ou par tout moyen approprié, sauf si l'urgence ou les conditions de l'opération de secours l'interdisent. Une information générale du public sur l'emploi des dispositifs aéroportés de captation d'images est organisée par le ministère de l'intérieur.
 

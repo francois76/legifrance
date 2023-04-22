@@ -216,6 +216,10 @@ Sont applicables en Polynésie française les dispositions du présent livre men
   <td>Résultant du décret n° 2022-712 du 27 avril 2022</td>
  </tr>
  <tr>
+  <td align="center">R. 242-8 à R. 242-14</td>
+  <td>Résultant du décret n° 2023-283 du 19 avril 2023</td>
+ </tr>
+ <tr>
   <td align="center"><center>Au titre V</center></td>
   <td align="center"/>
  </tr>
