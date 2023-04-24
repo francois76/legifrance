@@ -2,7 +2,7 @@
 
 I.-Lorsque la plateforme de mise en relation par voie électronique demande l'homologation de la charte, elle saisit le directeur général du travail.
 
-La saisine est opérée sur support électronique sur le site internet (https://demarches-simplifiees.fr).
+La saisine est opérée sur support électronique sur le site internet ( https :// demarches-simplifiees. fr).
 
 Un récépissé est délivré à la plateforme.
 

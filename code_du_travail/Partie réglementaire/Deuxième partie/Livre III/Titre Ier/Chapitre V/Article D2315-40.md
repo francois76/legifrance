@@ -4,8 +4,9 @@ Pour la consolidation, la certification et l'intervention d'un expert-comptable 
 
 <table border="1"><tbody>
  <tr>
-  <th rowspan="2"></th>
-  <th colspan="3">SEUILS</th>
+  <th rowspan="2"/><th colspan="3">
+
+SEUILS</th>
  </tr>
  <tr>
   <th>Effectif de salariés</th>

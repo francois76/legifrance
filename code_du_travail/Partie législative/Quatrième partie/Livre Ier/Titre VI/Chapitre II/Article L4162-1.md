@@ -1,6 +1,6 @@
 ###### Article L4162-1
 
-I.-Les employeurs d'au moins cinquante salariés, y compris les entreprises et les établissements publics mentionnés aux articles L. 2211-1 et L. 2233-1 employant au moins cinquante salariés, ainsi que les entreprises appartenant à un groupe au sens de l'article L. 2133-1 dont l'effectif comprend au moins cinquante salariés, engagent une négociation d'un accord en faveur de la prévention des effets de l'exposition aux facteurs de risques professionnels mentionnés à l'article L. 4161-1 :
+I.-Les employeurs d'au moins cinquante salariés, y compris les entreprises et les établissements publics mentionnés aux articles L. 2211-1 et L. 2233-1 employant au moins cinquante salariés, ainsi que les entreprises appartenant à un groupe au sens de l'article L. 2331-1 dont l'effectif comprend au moins cinquante salariés, engagent une négociation d'un accord en faveur de la prévention des effets de l'exposition aux facteurs de risques professionnels mentionnés à l'article L. 4161-1 :
 
 1° Soit lorsqu'ils emploient une proportion minimale, fixée par décret, de salariés déclarés exposés au titre du dispositif mentionné à l'article L. 4163-1 ;
 

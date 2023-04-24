@@ -6,7 +6,7 @@ La déclaration unique et simplifiée permet de satisfaire :
 
 a) Articles 87 A et 87-0 A du code général des impôts ;
 
-b) Articles L. 922-2, R. 243-2, R. 243-13, R. 243-14 et R. 312-4 du code de la sécurité sociale ;
+b) Articles L. 922-2 , R. 243-2 , R. 243-13 , R. 243-14 et R. 312-4 du code de la sécurité sociale ;
 
 c) Articles L. 1221-10 et L. 1221-11, relatifs à la déclaration préalable à l'embauche ;
 
@@ -34,7 +34,7 @@ c) Aux institutions mettant en œuvre les régimes de retraite complémentaire m
 
 d) Aux services de santé au travail interentreprises organisés en application de l'article L. 4622-2 ;
 
-e) A l' opérateur de compétences chargé du recouvrement de la contribution mentionnée à l'article L. 6331-55 ;
+e) A l'opérateur de compétences chargé du recouvrement de la contribution mentionnée à l'article L. 6331-55 ;
 
 f) A la caisse des congés payés mentionnée à l'article D. 7121-38 ;
 

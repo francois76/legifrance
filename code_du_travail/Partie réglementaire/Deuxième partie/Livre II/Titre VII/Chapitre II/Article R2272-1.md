@@ -26,7 +26,7 @@ II. - Lorsque la commission mentionnée au I est consultée sur les projets de l
 
 6° Deux représentants des départements.
 
-III.-Lorsque la commission mentionnée au I est consultée sur l'extension et l'élargissement des conventions et accords mentionnés à l'article L. 911-1 du code de la sécurité sociale, ainsi que sur l'abrogation des arrêtés d'extension ou d'élargissement, elle comprend également le ministre chargé de la sécurité sociale ou son représentant, qui assure la présidence de la commission.
+III.-Lorsque la commission mentionnée au I est consultée sur l'extension et l'élargissement des conventions et accords mentionnés à l' article L. 911-1 du code de la sécurité sociale , ainsi que sur l'abrogation des arrêtés d'extension ou d'élargissement, elle comprend également le ministre chargé de la sécurité sociale ou son représentant, qui assure la présidence de la commission.
 
 IV.-Lorsque la commission mentionnée au I est consultée sur les projets de loi, d'ordonnance et de décret relatifs aux dispositifs d'intéressement, de participation et d'épargne salariale, elle comprend également :
 

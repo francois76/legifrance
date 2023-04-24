@@ -6,5 +6,5 @@ La validité de cette attestation provisoire cesse dans un délai fixé par l'ar
 
 La carte d'identification professionnelle est adressée par l'union des caisses mentionnée à l'article R. 8291-2 à l'employeur ou à l'entreprise utilisatrice d'un salarié intérimaire détaché, par tout moyen lui conférant date certaine.
 
-L'union des caisses lui transmet également l'adresse du site internet du ministère chargé du travail relatif au détachement ( https://travail-emploi.gouv.fr/droit-du-travail/detachement-des-salaries/) en vue d'être communiquée par l'employeur ou l'entreprise utilisatrice au salarié détaché concerné.
+L'union des caisses lui transmet également l'adresse du site internet du ministère chargé du travail relatif au détachement ( https :// travail-emploi. gouv. fr/ droit-du-travail/ detachement-des-salaries-posting-of-employees/) en vue d'être communiquée par l'employeur ou l'entreprise utilisatrice au salarié détaché concerné.
 

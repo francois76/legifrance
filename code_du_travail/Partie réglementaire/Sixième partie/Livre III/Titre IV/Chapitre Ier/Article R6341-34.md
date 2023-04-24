@@ -8,5 +8,5 @@ Dès le début du stage, le directeur de l'établissement ou du centre de format
 
 3° Lorsqu'il s'agit de stages agréés par la région, donne suite à la demande conformément aux instructions du président du conseil régional.
 
-L' établissement mentionné à l'article L. 5315-1 du code du travail assure les obligations prévues par l'article R. 6341-33 pour les stagiaires dont elle est chargée par convention de gérer la rémunération.
+L'établissement mentionné à l'article L. 5315-1 du code du travail assure les obligations prévues par l'article R. 6341-33 pour les stagiaires dont elle est chargée par convention de gérer la rémunération.
 

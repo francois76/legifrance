@@ -1,6 +1,6 @@
 ###### Article D6332-79
 
-I. - Lorsque France compétences identifie des contrats d'apprentissage dont le niveau de prise en charge n'a pas été fixé, elle invite les branches concernées, par tout moyen donnant date certaine à la réception de cette demande, à le déterminer,
+I.-Lorsque France compétences identifie des contrats d'apprentissage dont le niveau de prise en charge n'a pas été fixé, elle invite les branches concernées, par tout moyen donnant date certaine à la réception de cette demande, à le déterminer,
 
 II.-Les commissions paritaires nationales de l'emploi, ou le cas échéant les commissions paritaires des branches professionnelles, disposent de deux mois à compter de cette demande pour transmettre le niveau de prise en charge qu'elles ont déterminé en application de l'article D. 6332-78 à l'opérateur de compétences dont elles relèvent, qui le communique à France compétences.
 
@@ -10,5 +10,5 @@ IV.-La prise en compte des recommandations de France compétences prévue au 1°
 
 V.-Le niveau de prise en charge du contrat d'apprentissage est établi pour une période minimale de deux ans, sans préjudice des modifications rendues nécessaires par la prise en compte des recommandations de France compétences.
 
-VI. - L'arrêté mentionné à l'article D. 6332-78-2 fixe le niveau de prise en charge du contrat d'apprentissage à défaut de la détermination de ce niveau par la commission paritaire nationale de l'emploi ou, le cas échéant, par la commission paritaire de la branche professionnelle, ou à défaut de la prise en compte des recommandations de France compétences par celle-ci, dans les conditions mentionnées au II et IV. Il fixe également la date de conclusion des contrats d'apprentissage à compter de laquelle s'appliquent à ces contrats les niveaux de prise en charge déterminés en application des mêmes II et IV ou du présent VI.
+VI.-L'arrêté mentionné à l'article D. 6332-78-2 fixe le niveau de prise en charge du contrat d'apprentissage à défaut de la détermination de ce niveau par la commission paritaire nationale de l'emploi ou, le cas échéant, par la commission paritaire de la branche professionnelle, ou à défaut de la prise en compte des recommandations de France compétences par celle-ci, dans les conditions mentionnées au II et IV. Il fixe également la date de conclusion des contrats d'apprentissage à compter de laquelle s'appliquent à ces contrats les niveaux de prise en charge déterminés en application des mêmes II et IV ou du présent VI.
 

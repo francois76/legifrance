@@ -1,6 +1,6 @@
 ###### Article D7342-6
 
-I. - Les données mentionnées à l'article L. 7342-7 sont les données à caractère personnel au sens de l'article 4 du règlement (UE) 2016/679 du 27 avril 2016 du Parlement européen et du Conseil relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE. Ces données, détenues par la plateforme de mise en relation par voie électronique mentionnée à l'article L. 7341-1, se rapportent à l'exercice de l'activité professionnelle du travailleur indépendant mentionné à ce même article et proviennent de l'une des sources suivantes :
+I.-Les données mentionnées à l'article L. 7342-7 sont les données à caractère personnel au sens de l'article 4 du règlement (UE) 2016/679 du 27 avril 2016 du Parlement européen et du Conseil relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE. Ces données, détenues par la plateforme de mise en relation par voie électronique mentionnée à l'article L. 7341-1, se rapportent à l'exercice de l'activité professionnelle du travailleur indépendant mentionné à ce même article et proviennent de l'une des sources suivantes :
 
 1° Elles ont été communiquées par le travailleur, ou ont été engendrées par son activité propre au sein de la plateforme ;
 
@@ -8,7 +8,7 @@ I. - Les données mentionnées à l'article L. 7342-7 sont les données à carac
 
 3° Elles ont été créées par la plateforme à partir du traitement des données mentionnées au 1° et au 2° afin de les rendre lisibles, claires et intelligibles par le travailleur, notamment en les agrégeant et les présentant sous forme de moyennes.
 
-II. - Les données personnelles mentionnées au I comprennent notamment :
+II.-Les données personnelles mentionnées au I comprennent notamment :
 
 1° Les données relatives à l'immatriculation ou à l'inscription du travailleur en tant que travailleur indépendant, en application des dispositions de l'article L. 8221-6 ;
 
@@ -28,7 +28,7 @@ b) L'intitulé des actions permettant de faire valider les acquis de l'expérien
 
 c) Le montant de l'abondement au compte personnel de formation prévu à l'article L. 7342-3.
 
-III. - Sans préjudice de l'exercice des droits prévus aux articles 15 à 21 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, le travailleur a le droit de recevoir et de transférer les données à caractère personnel mentionnées au I, dans un format structuré, couramment utilisé et lisible par machine, et a le droit de transmettre ces données à un tiers sans que la plateforme à laquelle les données à caractère personnel ont été communiquées y fasse obstacle.
+III.-Sans préjudice de l'exercice des droits prévus aux articles 15 à 21 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, le travailleur a le droit de recevoir et de transférer les données à caractère personnel mentionnées au I, dans un format structuré, couramment utilisé et lisible par machine, et a le droit de transmettre ces données à un tiers sans que la plateforme à laquelle les données à caractère personnel ont été communiquées y fasse obstacle.
 
 Lorsque le travailleur exerce le droit mentionné au premier alinéa du présent III, il a le droit d'obtenir que ces données soient transmises directement d'une plateforme à une autre, lorsque cela est techniquement possible.
 

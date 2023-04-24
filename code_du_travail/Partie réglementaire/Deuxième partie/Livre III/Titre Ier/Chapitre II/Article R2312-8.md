@@ -110,7 +110,7 @@ a) Capitaux propres de l'entreprise ;</td>
   <td>a) Frais de personnel y compris cotisations sociales, évolutions salariales par catégorie et par sexe, salaire de base minimum, salaire moyen ou médian, par sexe et par catégorie professionnelle ;</td>
  </tr>
  <tr>
-  <td>b) Pour les entreprises soumises aux dispositions de l'article L. 225-115 du code de commerce, montant global des rémunérations visées au 4° de cet article ;</td>
+  <td>b) Pour les entreprises soumises aux dispositions de l'article L. 225-115 du code de commerce , montant global des rémunérations visées au 4° de cet article ;</td>
  </tr>
  <tr>
   <td>c) Epargne salariale : intéressement, participation ;</td>
@@ -197,7 +197,7 @@ entre les entités du groupe :</td>
  </tr>
  <tr>
   <td rowspan="2">B-Economie circulaire :</td>
-  <td>a) Prévention et gestion de la production de déchets : évaluation de la quantité de déchets dangereux définis à l'article R. 541-8 du code de l'environnement et faisant l'objet d'une émission du bordereau mentionné à l'article R. 541-45 du même code ;</td>
+  <td>a) Prévention et gestion de la production de déchets : évaluation de la quantité de déchets dangereux définis à l' article R. 541-8 du code de l'environnement et faisant l'objet d'une émission du bordereau mentionné à l'article R. 541-45 du même code ;</td>
  </tr>
  <tr>
   <td align="justify">b) Utilisation durable des ressources : consommation d'eau et consommation d'énergie ;</td>
@@ -207,7 +207,7 @@ entre les entités du groupe :</td>
   <td align="justify">a) Identification des postes d'émissions directes de gaz à effet de serre produites par les sources fixes et mobiles nécessaires aux activités de l'entreprise (communément appelées " émissions du scope 1 ") et, lorsque l'entreprise dispose de cette information, évaluation du volume de ces émissions de gaz à effet de serre ;</td>
  </tr>
  <tr>
-  <td>b) Bilan des émissions de gaz à effet de serre prévu par l'article L. 229-25 du code de l'environnement ou bilan simplifié prévu par l'article 244 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021 pour les entreprises tenues d'établir ces différents bilans.</td>
+  <td>b) Bilan des émissions de gaz à effet de serre prévu par l' article L. 229-25 du code de l'environnement ou bilan simplifié prévu par l' article 244 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021 pour les entreprises tenues d'établir ces différents bilans.</td>
  </tr>
  <tr>
   <td align="justify" colspan="2">Notes :
