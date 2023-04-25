@@ -1,4 +1,4 @@
-###### Article D224-53
+###### Article D224-58
 
 I.-Préalablement à la conclusion d'un contrat, les fournisseurs de services de communications électroniques accessibles au public communiquent, en application du 1° de l'article L. 224-27-1, les informations suivantes :
 

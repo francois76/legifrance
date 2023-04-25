@@ -1,4 +1,4 @@
-###### Article D224-54
+###### Article D224-59
 
 En application de l'article L. 224-42-3, les fournisseurs de services d'accès à l'internet ou de services de communications interpersonnelles accessibles au public qui soumettent la fourniture de ces services à certaines conditions, publient, sous une forme claire, complète, actualisée, lisible par machine et accessible pour les personnes handicapées, les informations suivantes :
 
