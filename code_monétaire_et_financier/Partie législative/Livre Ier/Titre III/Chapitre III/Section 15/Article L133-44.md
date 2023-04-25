@@ -14,3 +14,5 @@ III. – En ce qui concerne l'obligation du I, les prestataires de services de p
 
 IV. – Le prestataire de services de paiement gestionnaire du compte autorise le prestataire de services de paiement fournissant un service d'initiation de paiement et le prestataire de services de paiement fournissant le service d'information sur les comptes à se fonder sur ses procédures d'authentification lorsqu'ils agissent pour l'un de leurs utilisateurs conformément aux I et III et, lorsque le prestataire de services de paiement fournissant le service d'initiation de paiement intervient, conformément aux I, II et III.
 
+V.-Le prestataire de services de paiement s'assure que les méthodes d'authentification qu'il fournit à ses clients respectent les exigences d'accessibilité fixées à l'article L. 412-13 du code de la consommation.
+
