@@ -5035,6 +5035,10 @@ Lorsque le dépassement se prolonge au-delà de trois mois, le prêteur propose 
 
 Les dispositions des articles L. 312-27, L. 312-92 et L. 312-93 s'appliquent aux opérations de crédit consenties sous la forme d'un dépassement mentionné au 11° de l'article L. 311-1.
 
+###### Article L312-95
+
+Le prêteur s'assure que les contrats prévus à la présente section répondent aux exigences d'accessibilité aux personnes handicapées fixées à l'article L. 412-13.
+
 #### Chapitre III : Crédit immobilier
 
 ##### Section 1 : Champ d'application
@@ -5693,6 +5697,12 @@ Lorsque le prêteur envisage de ne plus rendre accessibles ces informations et d
 ###### Article L314-31
 
 Les dispositions de la présente section ne s'appliquent pas aux contrats conclus à distance portant sur des services financiers régis par le chapitre II du titre II du livre II du présent code ainsi qu'au démarchage et à la fourniture à distance de services financiers régis par les chapitres I et III du titre IV du livre III du code monétaire et financier.
+
+##### Section 10 : Obligations d'accessibilité
+
+###### Article L314-32
+
+Le prêteur s'assure que les fiches d'informations prévues aux articles L. 312-12 et L. 313-7 ainsi que les offres et les contrats de crédit prévus aux articles L. 312-13, L. 312-28 et L. 313-24 qu'il fournit à sa clientèle répondent aux exigences d'accessibilité aux personnes handicapées fixées à l'article L. 412-13.
 
 #### Chapitre V : Prêt viager hypothécaire et prêt avance mutation
 
@@ -6969,6 +6979,28 @@ Afin de ne pas induire en erreur le consommateur quant à l'origine de la bière
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat après que la Commission européenne a déclaré compatible avec le droit de l'Union européenne l'obligation prévue au présent article.
 
+##### Section 3 : Accessibilité des produits et services
+
+###### Article L412-13
+
+I.-Sous réserve du II du présent article et sans préjudice des articles 47 et 48 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, les opérateurs économiques mettent sur le marché des produits et fournissent des services conformes aux exigences d'accessibilité prévues par arrêté conjoint des ministres chargés de l'économie et des personnes handicapées.
+
+Un décret fixe la liste des produits et des services soumis au respect de ces exigences et détermine les cas dans lesquels ces produits et ces services sont présumés conformes à ces exigences.
+
+Un décret détermine les obligations applicables aux opérateurs économiques qui mettent sur le marché des produits et fournissent des services soumis à ces exigences.
+
+Les entreprises employant moins de dix personnes qui fournissent des services et dont le chiffre d'affaires annuel n'excède pas deux millions d'euros ou dont le total du bilan n'excède pas deux millions d'euros sont dispensées des exigences d'accessibilité mentionnées au présent article et de toutes les obligations qui y sont liées.
+
+II.-Les exigences d'accessibilité des produits et des services mentionnées au I s'appliquent uniquement dans la mesure où la conformité :
+
+1° N'exige pas une modification significative du produit ou du service entraînant une modification fondamentale de la nature de celui-ci ;
+
+2° N'impose pas une charge disproportionnée aux opérateurs économiques concernés. Un décret détermine les critères d'évaluation du caractère disproportionné de la charge.
+
+Les opérateurs économiques effectuent une évaluation, dans des conditions définies par décret, afin de déterminer si la conformité aux exigences d'accessibilité mentionnées au même I introduit une modification fondamentale ou impose une charge disproportionnée.
+
+Lorsqu'ils perçoivent un financement public ou privé provenant d'autres sources que leurs ressources propres dans l'objectif d'améliorer l'accessibilité d'un produit ou d'un service mentionné audit I, les opérateurs économiques ne peuvent pas se prévaloir du 2° du présent II pour ce produit ou ce service.
+
 #### Chapitre III : Falsifications et autres infractions relatives aux produits
 
 ##### Section 1 : Falsifications
@@ -8102,6 +8134,22 @@ Les agents mentionnés à l'article L. 511-22 sont habilités à procéder aux c
 ###### Article L511-25
 
 Les agents mentionnés au 8° de l'article L. 511-22 sont habilités à procéder aux contrôles de conformité des fruits et légumes frais originaires ou en provenance des pays tiers dans les conditions définies aux articles L. 511-17 et L. 511-18.
+
+###### Article L511-25-1
+
+Outre les agents de la concurrence, de la consommation et de la répression des fraudes, sont habilités à rechercher et à constater les infractions à l'article L. 412-13 :
+
+1° S'agissant des services de communications électroniques : les agents de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse ;
+
+2° S'agissant des services des éditeurs et des distributeurs de services de communication audiovisuelle fournissant un accès à des services de médias audiovisuels : les agents de l'Autorité de régulation de la communication audiovisuelle et numérique ;
+
+3° S'agissant des services bancaires :
+
+a) Les agents de l'Autorité de contrôle prudentiel et de résolution et de l'Autorité des marchés financiers, qui s'assurent, dans le champ de leurs compétences respectives, du caractère compréhensible des informations fournies au consommateur et de leur niveau de complexité, qui ne doit pas être supérieur à un niveau fixé par arrêté conjoint des ministres chargés de l'économie et des personnes handicapées ;
+
+b) Les agents de la Banque de France, qui s'assurent que les méthodes d'identification, les signatures électroniques et les services de sécurité et de paiement sont perceptibles, utilisables, compréhensibles et robustes.
+
+Les agents prévus aux 1° à 3° du présent article disposent à cet effet des pouvoirs définis à la section 1 et aux sous-sections 1 à 5 de la section 2 du chapitre II du présent titre et peuvent mettre en œuvre les mesures prévues à l'article L. 521-1 ainsi qu'à la sous-section 2 de la section 2 du chapitre Ier du titre II du présent livre.
 
 ###### Article L511-26
 
@@ -10871,6 +10919,498 @@ f) Haut-parleurs.
 
 Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
 
+##### Article R111-4-4
+
+I.-Pour l'application de l'article L. 111-4-1, les outils de bricolage et de jardinage motorisés suivants sont soumis aux dispositions du présent article :
+
+1° Tondeuses à gazon autoportées ou à conducteur marchant ou robot ;
+
+2° Tronçonneuses (scies à chaîne) ;
+
+3° Taille-haies ;
+
+4° Débroussailleuses ;
+
+5° Motoculteurs et motobineuses ;
+
+6° Broyeurs de végétaux ;
+
+7° Nettoyeurs haute pression.
+
+II.-Les fabricants et les importateurs d'outils de bricolage et de jardinage motorisés mentionnés au I, à l'exception des nettoyeurs haute pression à moteur électrique ou thermique, assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Outils de coupe tels que lames, chaînes, rotors, couteaux ou rouleaux ;
+
+b) Interrupteurs marche-arrêt ;
+
+c) Commutateurs marche-arrêt ;
+
+d) Roues ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Moteurs électriques ou thermiques ;
+
+b) Dispositifs de réglage de la vitesse ;
+
+c) Batteries ;
+
+d) Chargeurs ;
+
+e) Capteurs ;
+
+f) Ecrans de contrôle ;
+
+g) Carburateurs ;
+
+h) Systèmes de démarrage ;
+
+i) Systèmes de traction et éléments de transmission.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de dix ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+III.-Les fabricants et importateurs de nettoyeurs haute pression assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Pistolets, lances ou buses ;
+
+b) Condensateurs ;
+
+c) Interrupteurs marche-arrêt ;
+
+d) Commutateurs marche-arrêt ;
+
+e) Flexibles haute-pression ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Charbons ;
+
+b) Batteries ;
+
+c) Chargeurs ;
+
+d) Pistons distributeurs ;
+
+e) Filtres ou tamis ;
+
+f) Kits de réparation des clapets anti-retours ;
+
+g) Kits de réparation de l'étanchéité des pistons ;
+
+h) Kits de réparation du système de régulation de la pression de la pompe ;
+
+i) Cadres de poignée.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de dix ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+##### Article R111-4-5
+
+I.-Pour l'application de l'article L. 111-4-1, les articles de sport et de loisirs suivants sont soumis aux dispositions du présent article :
+
+1° Les bicyclettes, telles que définies à l'article 1er du décret n° 2016-364 du 29 mars 2016 fixant les exigences de sécurité concernant les bicyclettes ;
+
+2° Les bicyclettes à assistance électrique, telles que définies au 6.11 de l'article R. 311-1 du code de la route ;
+
+3° Les trottinettes non motorisées ;
+
+4° Les tentes de loisir ;
+
+5° Les tables de tennis de table ;
+
+6° Les tapis de course ;
+
+7° Les vélos elliptiques ;
+
+8° Les vélos d'appartement ;
+
+9° Les rameurs.
+
+II.-Les fabricants et les importateurs de bicyclettes mentionnées au I assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Roues ;
+
+b) Pédales ;
+
+c) Axes de pédalier ;
+
+d) Systèmes de freinage ;
+
+e) Dérailleurs et câbles de dérailleurs ;
+
+f) Chaînes ou courroies de transmission ;
+
+g) Selles ;
+
+h) Garde-boue et porte-bagages ;
+
+i) Poignées ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Fourches ;
+
+b) Pédaliers ;
+
+c) Cassettes de pignons ou systèmes de changements de vitesses intégrés au moyeu ;
+
+d) Guidons ;
+
+e) Potences ;
+
+f) Amortisseurs de cadre.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de sept ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+III.-Les fabricants et les importateurs de bicyclettes à assistance électrique mentionnées au I assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Roues ;
+
+b) Pédales ;
+
+c) Axes de pédalier ;
+
+d) Systèmes de freinage ;
+
+e) Dérailleurs et câbles de dérailleurs ;
+
+f) Chaînes ou courroies de transmission ;
+
+g) Selles ;
+
+h) Garde-boue et porte-bagages ;
+
+i) Poignées ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Moteurs ;
+
+b) Ecrans de contrôle ;
+
+c) Batteries ;
+
+d) Chargeurs ;
+
+e) Faisceaux électriques ;
+
+f) Capteurs et régulateurs de puissance et de vitesse ;
+
+g) Commandes ;
+
+h) Fourches ;
+
+i) Pédaliers ;
+
+j) Cassettes de pignons ou systèmes de changement de vitesses intégrés au moyeu ;
+
+k) Guidons ;
+
+l) Potences ;
+
+m) Amortisseurs de cadre.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+IV.-Les fabricants et les importateurs de trottinettes non motorisées assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Roues ;
+
+b) Systèmes de freinage ;
+
+c) Systèmes de pliage ;
+
+d) Garde-boue ;
+
+e) Poignées ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Fourches ;
+
+b) Axes ;
+
+c) Guidons et tubes de guidon.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+V.-Les fabricants et les importateurs de tentes de loisir assurent, au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Mâts ;
+
+b) Joncs d'arceaux.
+
+Ils assurent également la disponibilité de ces pièces détachées pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+VI.-Les fabricants et les importateurs de tables de tennis de table assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Roues ;
+
+b) Systèmes de freinage ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Plateaux ;
+
+b) Systèmes de sécurité ;
+
+c) Pieds ;
+
+d) Poteaux du filet.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+VII.-Les fabricants et les importateurs de tapis de course assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Bandes de course ;
+
+b) Planches de course ;
+
+c) Marchepieds ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Cartes de contrôle ;
+
+b) Moteurs ;
+
+c) Batteries ;
+
+d) Interrupteurs ;
+
+e) Consoles ;
+
+f) Vérins de pliage ;
+
+g) Capteurs de vitesse ;
+
+h) Capots inférieurs ;
+
+i) Cordons d'alimentation ;
+
+j) Rouleaux avant et arrière ;
+
+k) Carters ;
+
+l) Dispositifs d'arrêt d'urgence.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+VIII.-Les fabricants et les importateurs de vélos elliptiques assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Pédales ;
+
+b) Axes de pédalier ;
+
+c) Bras de pédales ;
+
+d) Bras mobiles ;
+
+e) Roulettes de bras ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Cartes de contrôle ;
+
+b) Moteurs ;
+
+c) Batteries ;
+
+d) Contrôleurs de tension ;
+
+e) Consoles ;
+
+f) Capteurs ;
+
+g) Interrupteurs ;
+
+h) Galets tendeurs ;
+
+i) Pédaliers monoblocs ;
+
+j) Roues d'inertie ;
+
+k) Croix de manivelle ;
+
+l) Guidons ;
+
+m) Potences ;
+
+n) Vérins ;
+
+o) Rails ;
+
+p) Châssis ;
+
+q) Carters.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+IX.-Les fabricants et les importateurs de vélos d'appartement assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Pédales ;
+
+b) Axes de pédalier ;
+
+c) Sangles pour pédale ;
+
+d) Selles ;
+
+e) Poignées ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Cartes de contrôle ;
+
+b) Moteurs ;
+
+c) Batteries ;
+
+d) Contrôleurs de tension ;
+
+e) Transformateurs ;
+
+f) Consoles ;
+
+g) Capteurs ;
+
+h) Galets tendeurs ;
+
+i) Pédaliers monobloc ;
+
+j) Roues d'inertie ;
+
+k) Axes de plateau ;
+
+l) Guidons ;
+
+m) Potences ;
+
+n) Molettes ;
+
+o) Pieds ;
+
+p) Carters.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+X.-Les fabricants et les importateurs de rameurs assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Repose-pieds ;
+
+b) Sangles pour repose-pieds ;
+
+c) Roulettes guide sangle ;
+
+d) Barres de tirage ;
+
+e) Selles ;
+
+f) Roulettes de selle ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Cartes de contrôle ;
+
+b) Moteurs ;
+
+c) Batteries ;
+
+d) Contrôleurs de tension ;
+
+e) Transformateurs ;
+
+f) Consoles ;
+
+g) Capteurs ;
+
+h) Galets tendeurs ;
+
+i) Ressorts à spirale ;
+
+j) Câbles mécaniques inférieurs ;
+
+k) Volants d'inertie ;
+
+l) Rails ;
+
+m) Pieds ;
+
+n) Carters.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
+##### Article R111-4-6
+
+I.-Pour l'application de l'article L. 111-4-1, les engins de déplacement personnel motorisés, tels que définis au 6.15 de l'article R. 311-1 du code de la route, sont soumis aux dispositions du présent article.
+
+II.-Les fabricants et les importateurs d'engins de déplacement personnel motorisés assurent :
+
+1° Dès la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Roues ;
+
+b) Systèmes de freinage ;
+
+c) Systèmes de pliage ;
+
+d) Garde-boue ;
+
+e) Poignées ;
+
+f) Gâchettes d'accélérateur ;
+
+g) Coques ;
+
+2° Au plus tard deux ans après la date de la mise sur le marché national de la première unité d'un modèle, la disponibilité des pièces détachées suivantes :
+
+a) Moteurs ;
+
+b) Batteries ;
+
+c) Chargeurs ;
+
+d) Contrôleurs ;
+
+e) Cartes de contrôle ;
+
+f) Faisceaux électriques ;
+
+g) Ecrans de contrôle ;
+
+h) Dispositifs de régulation de la vitesse ;
+
+i) Commandes ;
+
+j) Fourches ;
+
+k) Axes ;
+
+l) Guidons et tubes de guidon ;
+
+m) Amortisseurs.
+
+Ils assurent également la disponibilité des pièces détachées mentionnées aux 1° et 2° pendant une durée minimale de cinq ans à compter de la date de mise sur le marché national de la dernière unité du modèle concerné.
+
 ##### Article D111-5
 
 L'obligation de fournir des pièces détachées mentionnée au deuxième alinéa de l'article L. 111-4 est mise en œuvre sans préjudice de l'application des règles de concurrence relatives aux réseaux et accords de distribution sélective et exclusive.
@@ -12459,6 +12999,20 @@ g) Harnais ;
 
 h) Dispositifs anti-basculement.
 
+###### Article D224-53
+
+A l'entrée du local où le public est reçu pour effectuer une demande d'entretien ou de réparation, le professionnel, mentionné à l'article L. 224-111, informe le consommateur de la possibilité d'opter pour l'utilisation de pièces issues de l'économie circulaire, telles que définies à l'article R. 224-50, par un affichage clair, visible et lisible depuis l'extérieur.
+
+Cet affichage précise les catégories de pièces concernées par catégorie d'équipements et le fait que le professionnel n'est pas tenu de les proposer dans les cas prévus par l'article R. 224-51.
+
+Ces mêmes informations figurent, si le professionnel en dispose, sur son interface en ligne.
+
+Si la prestation d'entretien ou de réparation est effectuée sur le lieu d'utilisation de l'équipement concerné, sans déplacement préalable du consommateur dans le local du professionnel, ce dernier fournit cette information de manière claire, visible et lisible sur un support durable, au sens du 8° de l'article liminaire de la partie législative du code de la consommation, préalablement à la conclusion du contrat de prestation.
+
+###### Article D224-54
+
+Dans les documents et affichages prévus par la présente section, les pièces issues de l'économie circulaire sont désignées par l'expression : “pièces issues de l'économie circulaire”.
+
 ###### Article D224-55
 
 Le professionnel communique au consommateur qui effectue une demande d'entretien ou de réparation, une offre de prestation lui permettant d'opter pour l'utilisation de pièces issues de l'économie circulaire. Le professionnel recueille, sur support durable, le choix du consommateur d'utiliser des pièces issues de l'économie circulaire. Sous cette option, une mention, rédigée de manière claire et lisible, précise que la fourniture de ces pièces est effectuée sous réserve des exceptions prévues par l'article R. 224-51 du code de la consommation.
@@ -12475,7 +13029,7 @@ Le professionnel conserve un double des documents communiqués au consommateur p
 
 ##### Section 15 : Contrats de services de communications électroniques
 
-###### Article D224-53
+###### Article D224-58
 
 I.-Préalablement à la conclusion d'un contrat, les fournisseurs de services de communications électroniques accessibles au public communiquent, en application du 1° de l'article L. 224-27-1, les informations suivantes :
 
@@ -12536,7 +13090,7 @@ III.-Préalablement à la conclusion d'un contrat, les fournisseurs de services 
 
 2° Le droit du consommateur de décider de faire figurer ou non les données à caractère personnel le concernant dans un annuaire, et les types de données concernées, conformément à l' article L. 34 du code des postes et des communications électroniques .
 
-###### Article D224-54
+###### Article D224-59
 
 En application de l'article L. 224-42-3, les fournisseurs de services d'accès à l'internet ou de services de communications interpersonnelles accessibles au public qui soumettent la fourniture de ces services à certaines conditions, publient, sous une forme claire, complète, actualisée, lisible par machine et accessible pour les personnes handicapées, les informations suivantes :
 
@@ -12557,6 +13111,408 @@ e) Les informations sur l'accès aux services d'urgence et la localisation de l'
 f) Les détails sur les produits et services, y compris toute fonction, pratique, stratégie et procédure ainsi que les modifications du fonctionnement du service, spécifiquement conçus pour les personnes handicapées ;
 
 3° Les mécanismes de règlement des litiges, y compris ceux qui sont mis en place par l'entreprise.
+
+##### Section 16 : Entretien et réparation des outils de bricolage et de jardinage motorisés
+
+###### Article R224-60
+
+Pour l'application de l'article L. 224-112, on entend par pièces issues de l'économie circulaire, les composants et éléments issus d'une opération de préparation en vue de leur réutilisation au sens des dispositions des articles L. 541-1-1 et L. 541-4-3 du code de l'environnement.
+
+###### Article R224-61
+
+L'obligation prévue par l'article L. 224-112 ne s'applique pas dans les cas suivants :
+
+1° Lorsque les pièces issues de l'économie circulaire ne sont pas disponibles dans le délai compatible avec la date ou le délai de la fourniture de la prestation d'entretien ou de réparation déterminé dans les conditions prévues par l'article L. 216-1 ;
+
+2° Lorsque la prestation d'entretien ou de réparation ne peut pas être mise en œuvre dans le respect de la sécurité des utilisateurs.
+
+###### Article R224-62
+
+1° L'obligation prévue par l'article L. 224-112 s'applique aux catégories d'outils de bricolage et de jardinage motorisés suivantes :
+
+a) Tondeuses à gazon autoportées ou à conducteur marchant ou robot ;
+
+b) Tronçonneuses (scies à chaîne) ;
+
+c) Taille-haies ;
+
+d) Débroussailleuses ;
+
+e) Motoculteurs et motobineuses ;
+
+f) Broyeurs de végétaux ;
+
+g) Nettoyeurs haute pression ;
+
+2° L'obligation prévue par l'article L. 224-112 s'applique, pour les catégories d'outils mentionnées au 1°, aux catégories de pièces de rechange suivantes :
+
+a) Moteurs électriques ou thermiques ;
+
+b) Dispositifs de réglage de la vitesse ou de la pression ;
+
+c) Batteries ;
+
+d) Chargeurs ;
+
+e) Capteurs ;
+
+f) Ecrans de contrôle ;
+
+g) Carburateurs ;
+
+h) Systèmes de démarrage ;
+
+i) Systèmes de traction et éléments de transmission ;
+
+j) Outils de coupe tels que lames, chaînes, rotors, couteaux ou rouleaux ;
+
+k) Interrupteurs marche-arrêt ;
+
+l) Commutateurs marche-arrêt ;
+
+m) Roues ;
+
+n) Pièces spécifiques aux nettoyeurs haute pression, tels que pistolets, lances ou buses, condensateurs, flexibles haute-pression, pistons distributeurs, filtres ou tamis, cadres de poignée.
+
+###### Article D224-63
+
+Pour l'application de la présente section, on entend par support durable : un support durable au sens du 8° de l'article liminaire de la partie législative du code de la consommation.
+
+###### Article D224-64
+
+A l'entrée du local où le public est reçu pour effectuer une demande d'entretien ou de réparation d'un équipement mentionné à l'article R. 224-62, le professionnel, mentionné à l'article L. 224-112, informe le consommateur de la possibilité d'opter, à l'occasion de la prestation proposée d'entretien ou de réparation, pour l'utilisation de pièces issues de l'économie circulaire, par un affichage clair, visible et lisible de l'extérieur.
+
+Cet affichage précise les catégories d'équipements concernés et le fait que le professionnel n'est pas tenu de proposer des pièces issues de l'économie circulaire dans le cas prévu par l'article R. 224-61.
+
+Lorsque le professionnel dispose d'un site Internet, les informations mentionnées au deuxième alinéa apparaissent, de manière claire, visible et lisible sur celui-ci.
+
+###### Article D224-65
+
+Dans le cadre d'une offre de prestation d'entretien ou de réparation d'un équipement nécessitant l'utilisation d'une pièce relevant d'une catégorie mentionnée à l'article R. 224-62, le professionnel permet au consommateur, avant que celui-ci accepte l'offre, d'opter pour l'utilisation d'une pièce correspondante, issue de l'économie circulaire.
+
+Le professionnel recueille, sur support durable, le choix du consommateur pour utiliser cette pièce à la place d'une pièce neuve.
+
+Dans le cas où le professionnel ne dispose pas d'une pièce correspondante issue de l'économie circulaire au moment de l'offre de prestation, une mention rédigée de manière claire et lisible figure sous cette option et précise que la fourniture de ces pièces est effectuée sous réserve de l'exception prévue par l'article R. 224-61 du code de la consommation.
+
+###### Article D224-66
+
+Lorsque plusieurs pièces issues de l'économie circulaire peuvent être proposées pour remplacer une même pièce défectueuse, notamment lorsque le choix de l'une d'elles a des conséquences sur le délai ou le prix de réparation ou d'entretien, la possibilité de choisir entre les différentes pièces et options est présentée clairement au consommateur. Ce dernier précise son choix sur support durable.
+
+###### Article D224-67
+
+Le professionnel conserve, le cas échéant sous forme dématérialisée, un double des documents communiqués au consommateur pendant une durée de deux ans.
+
+##### Section 17 : Entretien et réparation des articles de sport et de loisirs et des engins de déplacement personnel motorisés
+
+###### Article R224-68
+
+Pour l'application de l'article L. 224-113, on entend par pièces issues de l'économie circulaire, les composants et éléments issus d'une opération de préparation en vue de leur réutilisation au sens des dispositions des articles L. 541-1-1 et L. 541-4-3 du code de l'environnement.
+
+###### Article R224-69
+
+L'obligation prévue par l'article L. 224-113 ne s'applique pas dans les cas suivants :
+
+1° Lorsque les pièces issues de l'économie circulaire ne sont pas disponibles dans le délai compatible avec la date ou le délai de la fourniture de la prestation d'entretien ou de réparation déterminé dans les conditions prévues par l'article L. 216-1 ;
+
+2° Lorsque la prestation d'entretien ou de réparation ne peut pas être mise en œuvre dans le respect de la sécurité des utilisateurs.
+
+###### Article R224-70
+
+L'obligation prévue par l'article L. 224-113 s'applique aux catégories de produits et de pièces de rechange suivantes :
+
+1° Bicyclettes, telles que définies à l'article 1er du décret n° 2016-364 du 29 mars 2016 fixant les exigences de sécurité concernant les bicyclettes :
+
+a) Roues ;
+
+b) Pédales ;
+
+c) Axes de pédalier ;
+
+d) Pédaliers ;
+
+e) Dérailleurs ;
+
+f) Chaînes ;
+
+g) Selles ;
+
+h) Porte-bagages ;
+
+i) Fourches ;
+
+j) Cassettes de pignons ou systèmes de changements de vitesses intégrés au moyeu ;
+
+k) Guidons ;
+
+l) Potences ;
+
+m) Amortisseurs de cadre ;
+
+2° Bicyclettes à assistance électrique, telles que définies au 6.11 de l'article R. 311-1 du code de la route :
+
+a) Catégories de pièces mentionnées au 1° ci-dessus ;
+
+b) Moteurs ;
+
+c) Ecrans de contrôle ;
+
+d) Batteries ;
+
+e) Chargeurs ;
+
+f) Faisceaux électriques ;
+
+g) Capteurs et régulateurs de puissance et de vitesse ;
+
+h) Commandes ;
+
+3° Engins de déplacement personnel motorisés, tels que définis au 6.15 de l'article R. 311-1 du code de la route :
+
+a) Systèmes de pliage ;
+
+b) Gâchettes d'accélérateur ;
+
+c) Coques ;
+
+d) Moteurs ;
+
+e) Batteries ;
+
+f) Chargeurs ;
+
+g) Contrôleurs ;
+
+h) Cartes de contrôle ;
+
+i) Faisceaux électriques ;
+
+j) Ecrans de contrôle ;
+
+k) Dispositifs de régulation de la vitesse ;
+
+l) Commandes ;
+
+m) Fourches ;
+
+n) Guidons et tubes de guidon ;
+
+o) Amortisseurs ;
+
+4° Trottinettes non motorisées :
+
+a) Systèmes de pliage ;
+
+b) Fourches ;
+
+c) Guidons et tubes de guidon ;
+
+5° Tentes de loisirs :
+
+a) Joncs d'arceaux ;
+
+b) Mâts ;
+
+6° Tables de tennis de table :
+
+a) Roues ;
+
+b) Freins ;
+
+c) Plateaux ;
+
+d) Systèmes de sécurité ;
+
+e) Pieds ;
+
+f) Poteaux du filet ;
+
+7° Tapis de course :
+
+a) Bandes de course ;
+
+b) Planches de course ;
+
+c) Marchepieds ;
+
+d) Cartes de contrôle ;
+
+e) Moteurs ;
+
+f) Batteries ;
+
+g) Interrupteurs ;
+
+h) Consoles ;
+
+i) Vérins de pliage ;
+
+j) Capteurs de vitesse ;
+
+k) Capots inférieurs ;
+
+l) Cordons d'alimentation ;
+
+m) Rouleaux avant et arrière ;
+
+n) Carters ;
+
+o) Dispositifs d'arrêt d'urgence ;
+
+8° Vélos elliptiques :
+
+a) Pédales ;
+
+b) Axes de pédalier ;
+
+c) Bras de pédales ;
+
+d) Bras mobiles ;
+
+e) Roulettes de bras ;
+
+f) Cartes de contrôle ;
+
+g) Moteurs ;
+
+h) Batteries ;
+
+i) Contrôleurs de tension ;
+
+j) Consoles ;
+
+k) Capteurs ;
+
+l) Interrupteurs ;
+
+m) Galets tendeurs ;
+
+n) Pédaliers monobloc ;
+
+o) Roues d'inertie ;
+
+p) Croix de manivelle ;
+
+q) Guidons ;
+
+r) Potences ;
+
+s) Vérins ;
+
+t) Rails ;
+
+u) Châssis ;
+
+v) Carters ;
+
+9° Vélos d'appartement :
+
+a) Pédales ;
+
+b) Axes de pédaliers ;
+
+c) Sangles pour pédales ;
+
+d) Selles ;
+
+e) Cartes de contrôle ;
+
+f) Moteurs ;
+
+g) Batteries ;
+
+h) Contrôleurs de tension ;
+
+i) Transformateurs ;
+
+j) Consoles ;
+
+k) Capteurs ;
+
+l) Galets tendeur ;
+
+m) Pédaliers monobloc ;
+
+n) Roues d'inertie ;
+
+o) Axes de plateau ;
+
+p) Guidons ;
+
+q) Potences ;
+
+r) Molettes ;
+
+s) Pieds ;
+
+t) Carters ;
+
+10° Rameurs :
+
+a) Repose-pieds ;
+
+b) Sangles pour repose-pieds ;
+
+c) Roulettes guide sangle ;
+
+d) Barres de tirage ;
+
+e) Selles ;
+
+f) Roulettes de selle ;
+
+g) Cartes de contrôle ;
+
+h) Moteurs ;
+
+i) Batteries ;
+
+j) Contrôleurs de tension ;
+
+k) Transformateurs ;
+
+l) Consoles ;
+
+m) Capteurs ;
+
+n) Galets tendeurs ;
+
+o) Ressorts à spirale ;
+
+p) Volants d'inertie ;
+
+q) Rails ;
+
+r) Pieds ;
+
+s) Carters.
+
+###### Article D224-71
+
+Pour l'application de la présente section, on entend par “support durable” : un support durable au sens du 8° de l'article liminaire de la partie législative du code de la consommation.
+
+###### Article D224-72
+
+A l'entrée du local où le public est reçu pour effectuer une demande d'entretien ou de réparation d'un équipement mentionné à l'article R. 224-70, le professionnel, mentionné à l'article L. 224-113, informe le consommateur de la possibilité d'opter, à l'occasion de la prestation proposée d'entretien ou de réparation, pour l'utilisation de pièces issues de l'économie circulaire, par un affichage clair, visible et lisible de l'extérieur.
+
+Cet affichage précise les catégories d'équipements concernés et le fait que le professionnel n'est pas tenu de proposer des pièces issues de l'économie circulaire dans le cas prévu par l'article R. 224-69.
+
+Lorsque le professionnel dispose d'un site internet, les informations visées au deuxième alinéa apparaissent, de manière claire, visible et lisible sur celui-ci.
+
+###### Article D224-73
+
+Dans le cadre d'une offre de prestation d'entretien ou de réparation d'un équipement nécessitant l'utilisation d'une pièce relevant d'une catégorie mentionnée à l'article R. 224-70, le professionnel permet au consommateur, avant que celui-ci accepte l'offre, d'opter pour l'utilisation d'une pièce correspondante, issue de l'économie circulaire.
+
+Le professionnel recueille, sur support durable, le choix du consommateur pour utiliser cette pièce à la place d'une pièce neuve.
+
+Dans le cas où le professionnel ne dispose pas d'une pièce correspondante issue de l'économie circulaire au moment de l'offre de prestation, une mention rédigée de manière claire et lisible figure sous cette option et précise que la fourniture de ces pièces est effectuée sous réserve de l'exception prévue par l'article R. 224-69 du code de la consommation.
+
+###### Article D224-74
+
+Lorsque plusieurs pièces issues de l'économie circulaire peuvent être proposées pour remplacer une même pièce défectueuse, notamment lorsque le choix de l'une d'elles a des conséquences sur le délai ou le prix de réparation ou d'entretien, la possibilité de choisir entre les différentes pièces et options est présentée clairement au consommateur. Ce dernier précise son choix sur support durable.
+
+###### Article D224-75
+
+Le professionnel conserve, le cas échéant sous forme dématérialisée, un double des documents communiqués au consommateur pendant une durée de deux ans.
 
 ### Titre III : LOI APPLICABLE AUX CONTRATS TRANSFRONTALIERS
 
