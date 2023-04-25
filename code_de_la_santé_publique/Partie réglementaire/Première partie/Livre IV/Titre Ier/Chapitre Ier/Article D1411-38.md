@@ -1,6 +1,7 @@
 ###### Article D1411-38
 
 Participent notamment, avec voix consultative, aux travaux de la Conférence nationale de santé :
+
 - le président du Conseil économique, social et environnemental ou son représentant ;
 - le défenseur des droits ou son représentant ;
 - le président du Conseil national consultatif des personnes handicapées ou son représentant ;
@@ -42,7 +43,7 @@ Participent notamment, avec voix consultative, aux travaux de la Conférence nat
 - le président du Comité national de l'organisation sanitaire et sociale ou son représentant ;
 - le président du Haut Conseil du travail social ou son représentant ;
 - le président du Conseil national du sida et des hépatites virales ou son représentant ;
-- le président du GIP Enfance en danger ou son représentant ;
+- le président du GIP pour la protection de l'enfance, l'adoption et l'accès aux origines personnelles ou son représentant ;
 - le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
 - le président de l'Observatoire national de la démographie des professions de santé ou son représentant ;
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;

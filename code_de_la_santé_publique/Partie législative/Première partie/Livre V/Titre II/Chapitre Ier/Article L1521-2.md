@@ -14,7 +14,7 @@ Les articles L. 1111-8-1 et L. 1111-26 sont applicables dans les îles Wallis et
 
 II. – Pour leur application à Wallis-et-Futuna :
 
-1° Au premier alinéa de l'article L. 1111-7, les mots : " par des maisons de naissance, par le service de santé des armées ou par l'Institution nationale des invalidesv" sont supprimés et au deuxième alinéa de l'article L. 1111-7, les mots : “ ou lorsque la commission départementale des soins psychiatriques est saisie en application du quatrième alinéa ” ainsi que le quatrième alinéa ne sont pas applicables ;
+1° Au premier alinéa de l'article L. 1111-7, les mots : " par des maisons de naissance, par le service de santé des armées ou par l'Institution nationale des invalides " sont supprimés et au deuxième alinéa de l'article L. 1111-7, les mots : “ ou lorsque la commission départementale des soins psychiatriques est saisie en application du quatrième alinéa ” ainsi que le quatrième alinéa ne sont pas applicables ;
 
 2° A l'article L. 1111-9, les mots : “ établies par la Haute Autorité de santé et ” ne sont pas applicables.
 
