@@ -6,11 +6,13 @@ La contribution annuelle, avant déductions prévues aux articles L. 5212-10-1, 
 
 2° par les montants suivants, déterminés en fonction de l'effectif d'assujettissement de l'entreprise :
 
-1° 400 fois le salaire horaire minimum de croissance brut pour les entreprises de 20 à moins de 250 salariés ;
+a) 400 fois le salaire horaire minimum de croissance brut pour les entreprises de 20 à moins de 250 salariés ;
 
-2° 500 fois le salaire horaire minimum de croissance brut pour les entreprises de 250 à moins de 750 salariés ;
+b) 500 fois le salaire horaire minimum de croissance brut pour les entreprises de 250 à moins de 750 salariés ;
 
-3° 600 fois le salaire horaire minimum de croissance brut pour les entreprises de 750 salariés et plus.
+c) 600 fois le salaire horaire minimum de croissance brut pour les entreprises de 750 salariés et plus.
+
+Le coefficient applicable en fonction de l'effectif d'assujettissement de l'entreprise mentionné au III de l'article R. 243-15 du code de la sécurité sociale correspond aux montants définis au 2°.
 
 Le salaire horaire minimum de croissance brut applicable mentionné au deuxièmement est le salaire applicable au 31 décembre de l'année au titre de laquelle la contribution est due.
 
