@@ -901,9 +901,9 @@ n ter) L'obligation de mettre à disposition des utilisateurs professionnels les
 
 o) Un accès des utilisateurs finals handicapés à des services de communications électroniques à un tarif abordable et aux services d'urgence, équivalent à celui dont bénéficie la majorité des utilisateurs finals ;
 
-p) (1) Un accès des utilisateurs finals sourds, malentendants, sourdaveugles et aphasiques à une offre de services de communications électroniques incluant, pour les appels passés et reçus, la fourniture d'un service de traduction simultanée écrite et visuelle défini au IV de l'article 105 de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique.
+p) (1) Un accès des utilisateurs finals sourds, malentendants, sourdaveugles et aphasiques à une offre de services de communications électroniques proposée sans surcoût pour l'utilisateur final et incluant, pour les appels passés et reçus, la fourniture d'un service de traduction simultanée écrite et visuelle défini au IV de l'article 105 de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique, dans la limite d'un usage raisonnable, dans des conditions définies par décret et dans le respect des conditions de qualité définies par l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse.
 
-Cette offre est proposée sans surcoût aux utilisateurs finals, dans la limite d'un usage raisonnable dont les conditions sont définies par décret et dans le respect de conditions de qualité définies par l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse.
+Cette offre répond également, pour les appels passés et reçus, aux exigences d'accessibilité prévues à l'article L. 412-13 du code de la consommation.
 
 Elle garantit les conditions de neutralité et de confidentialité mentionnées au b du présent I ainsi que la prévention de la violation des données à caractère personnel mentionnée à l'article 83 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
 
