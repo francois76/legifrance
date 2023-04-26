@@ -11967,7 +11967,7 @@ s) Le président du Conseil d'orientation des politiques de jeunesse ;
 
 t) Le président du Conseil national consultatif des personnes handicapées ;
 
-u) Le président du GIP Enfance en danger ;
+u) Le président du GIP pour la protection de l'enfance, l'adoption et l'accès aux origines personnelles ;
 
 3° Vingt-six membres représentant des associations et personnes morales de droit public ou privé, autres que l'Etat et les collectivités territoriales, concourant à la politique de l'enfance et de l'adolescence :
 
@@ -13157,19 +13157,19 @@ En cas de cessation des fonctions d'un membre du conseil national en cours de ma
 
 ####### Article R147-5
 
-Le conseil national se réunit à la demande de son président, du ministre chargé de la famille ou de la majorité de ses membres.
+Le conseil national se réunit à la demande de son président, du ministre chargé de l'enfance ou de la majorité de ses membres.
 
 ####### Article R147-6
 
-Le président peut appeler à participer aux travaux du conseil national, à titre consultatif, toute personne dont le concours lui paraît utile, notamment les correspondants départementaux du conseil national désignés en application de l'article L. 223-7 ainsi que les représentants des organismes autorisés ou habilités pour l'adoption.
+Le président peut appeler à participer aux travaux du conseil national, à titre consultatif, toute personne dont le concours lui paraît utile, notamment les correspondants départementaux du conseil national désignés en application de l'article L. 223-7, les représentants des organismes autorisés ou habilités pour l'adoption ainsi que le président du groupement d'intérêt public mentionné à l'article L. 147-14 ou son représentant.
 
 ####### Article R147-7
 
-Le conseil national est assisté d'un secrétaire général nommé par le ministre chargé de la famille. Le secrétaire général est placé sous l'autorité du président. Il prépare les travaux du conseil et signe tous actes pour lesquels il a reçu délégation du président.
+La préparation des travaux du conseil national et le suivi de l'exécution de ses décisions sont assurés par son secrétariat général.
 
 ####### Article R147-8
 
-Pour l'exercice de ses missions, le conseil national peut se faire assister de personnes nommées ou recrutées sur contrat par le ministère de la famille.
+Le président signe tous les actes pour lesquels il a reçu une délégation de pouvoir du conseil national. Il peut déléguer sa signature à un représentant du secrétariat général du conseil national désigné par le groupement d'intérêt public mentionné à l'article L. 147-14.
 
 ####### Article R147-9
 
@@ -13177,7 +13177,7 @@ Le conseil national établit un rapport annuel d'activité dans lequel il prése
 
 ####### Article R147-10
 
-Pour l'exercice de sa mission d'information des collectivités et organismes mentionnés à l'article L. 147-1, le conseil national organise ou fait organiser des sessions d'information auxquelles peuvent être associés les personnels concernés des établissements de santé, des centres de planification et d'éducation familiale et de toute association intéressée.
+Pour l'exercice de sa mission d'information des collectivités et organismes mentionnés à l'article L. 147-1, le conseil national organise ou fait organiser des sessions d'information auxquelles peuvent être associés les personnels concernés des établissements de santé, des centres de santé sexuelle et de toute association intéressée.
 
 ####### Article D147-11
 
@@ -13190,7 +13190,7 @@ En application du dernier alinéa de l'article L. 223-7, le conseil national org
 
 Le conseil national établit et diffuse tous documents utiles à l'information des collectivités et organismes prévus au deuxième alinéa de l'article L. 147-1 et à la formation de ses correspondants départementaux.
 
-Il veille à la coordination des actions des centres de planification et d'éducation familiale, des services départementaux, des établissements de santé et des associations.
+Il veille à la coordination des actions des centres de santé sexuelle, des services départementaux, des établissements de santé et des associations.
 
 ####### Article R147-13
 
@@ -13208,11 +13208,11 @@ Le président du conseil départemental transmet au conseil national, dans le mo
 
 ####### Article R147-15
 
-Lorsque le conseil national reçoit une demande d'accès à la connaissance des origines alors que le secret de l'identité du ou des parents de naissance n'a pas été levé, il procède à la nomination d'un de ses membres ou d'une des personnes mentionnées à l'article R. 147-8 aux fins d'ouverture du pli fermé mentionné à l'article L. 222-6.
+Lorsque le conseil national reçoit une demande d'accès à la connaissance des origines alors que le secret de l'identité du ou des parents de naissance n'a pas été levé, il procède à la nomination d'un de ses membres ou d'un agent du secrétariat général mentionné à l'article R. 147-7 aux fins d'ouverture du pli fermé mentionné à l'article L. 222-6.
 
 ####### Article R147-16
 
-Pour recueillir le consentement du parent de naissance à la levée du secret ou vérifier l'absence de volonté de secret de l'identité de la mère ou du père de naissance, le conseil national peut mandater une des personnes mentionnées à l'article R. 147-8, un correspondant départemental ou une personne particulièrement qualifiée à cette fin. Pour l'exercice de ces missions, les personnes mandatées veillent au respect de la vie privée et à la confidentialité des informations qui s'y attachent. Elles rendent compte du résultat de leur action au conseil national.
+Pour recueillir le consentement du parent de naissance à la levée du secret ou vérifier l'absence de volonté de secret de l'identité de la mère ou du père de naissance, le conseil national peut mandater un agent du secrétariat général mentionné à l'article R. 147-7, un correspondant départemental ou une personne particulièrement qualifiée à cette fin. Pour l'exercice de ces missions, les personnes mandatées veillent au respect de la vie privée et à la confidentialité des informations qui s'y attachent. Elles rendent compte du résultat de leur action au conseil national.
 
 ####### Article R147-17
 
@@ -13355,7 +13355,7 @@ Peuvent également être enregistrés dans le traitement ORPER les relevés seme
 
 ####### Article R147-29
 
-Sont seuls habilités à enregistrer et consulter les données du traitement ORPER le président et le secrétaire général du Conseil national pour l'accès aux origines personnelles ainsi que les personnes mentionnées à l'article R. 147-8, dans les limites de leur besoin d'en connaître.
+Sont seuls habilités à enregistrer et consulter les données du traitement ORPER le président et le secrétaire général du Conseil national pour l'accès aux origines personnelles ainsi que les agents du secrétariat général mentionné à l'article R. 147-7, dans les limites de leur besoin d'en connaître.
 
 Les personnes, établissements, services et organismes mentionnés aux articles L. 147-4 à L. 147-6, L. 147-8 et L. 147-9 peuvent être rendus destinataires des documents et données mentionnées aux articles R. 147-26 et R. 147-27, dans la mesure où cette communication est strictement nécessaire pour obtenir de leur part des informations permettant d'instruire une demande d'accès aux origines personnelles.
 
@@ -13495,7 +13495,7 @@ e) le directeur général de l'offre de soins ou son représentant ;
 
 f) le directeur général de la santé ou son représentant ;
 
-g) l'ambassadeur chargé de l'adoption internationale ou son représentant ;
+g) le directeur des Français à l'étranger et de l'administration consulaire ou son représentant ;
 
 h) le président de la formation enfance du Haut Conseil de la famille, de l'enfance et de l'âge ou son représentant ;
 
@@ -13581,7 +13581,7 @@ L'Autorité centrale pour l'adoption internationale bénéficie, en tant que de 
 
 Des magistrats, des fonctionnaires des autres services de l'Etat et des fonctionnaires territoriaux peuvent être mis à sa disposition ou détachés auprès d'elle dans les conditions prévues par l'ordonnance n° 58-1270 du 22 décembre 1958, la loi n° 84-53 du 26 janvier 1984 et le décret n° 85-986 du 16 septembre 1985.
 
-Les services compétents des départements, l'Agence française de l'adoption et les organismes privés autorisés et habilités pour l'adoption internationale peuvent également lui apporter leur concours.
+Les services compétents des départements, le groupement d'intérêt public mentionné à l'article L. 147-14 et les organismes privés autorisés et habilités pour l'adoption internationale peuvent également lui apporter leur concours.
 
 ###### Article R148-6
 
@@ -13597,7 +13597,7 @@ L'Autorité centrale pour l'adoption internationale exerce une mission permanent
 
 3° Les conditions de l'adoption internationale dans les différents pays d'origine, en particulier au regard du respect des droits des enfants ;
 
-4° L'implantation et la complémentarité dans les différents pays d'origine de l'Agence française de l'adoption et des organismes privés autorisés et habilités pour l'adoption internationale ; à ce titre, l'Autorité centrale pour l'adoption internationale peut définir, au nom de l'Etat et par convention avec lesdits organismes, les modalités de leur intervention dans les pays d'origine des enfants.
+4° L'implantation et la complémentarité dans les différents pays d'origine du groupement d'intérêt public mentionné à l'article L. 147-14 et des organismes privés autorisés et habilités pour l'adoption internationale ; à ce titre, l'Autorité centrale pour l'adoption internationale peut définir, au nom de l'Etat et par convention avec lesdits organismes, les modalités de leur intervention dans les pays d'origine des enfants.
 
 ###### Article R148-8
 
@@ -13605,7 +13605,7 @@ L'Autorité centrale pour l'adoption internationale conduit des missions de coop
 
 ###### Article R148-9
 
-L'Autorité centrale pour l'adoption internationale peut saisir le Conseil supérieur de l'adoption de toute question relative à l'adoption internationale. Elle reçoit communication des avis et propositions de ce conseil.
+L'Autorité centrale pour l'adoption internationale peut saisir le Conseil national de l'adoption de toute question relative à l'adoption internationale. Elle reçoit communication des avis et propositions de ce conseil.
 
 ###### Article R148-10
 
@@ -13613,7 +13613,7 @@ L'Autorité centrale pour l'adoption internationale instruit les demandes et pr�
 
 1° L'habilitation des organismes privés autorisés pour l'adoption ainsi que, le cas échéant, la modification, la suspension ou le retrait de cette habilitation, dans les conditions prévues à l'article L. 225-12 ;
 
-2° L'habilitation de l'Agence française de l'adoption dans les Etats non parties à la convention de La Haye du 29 mai 1993 ainsi que, le cas échéant, la modification, la suspension ou le retrait de cette habilitation, dans les conditions prévues à l'article L. 225-15 ;
+2° L'habilitation du groupement d'intérêt public mentionné à l'article L. 147-14 dans les Etats non parties à la convention de La Haye du 29 mai 1993 ainsi que, le cas échéant, la modification, la suspension ou le retrait de cette habilitation, dans les conditions prévues à l'article L. 225-15 ;
 
 3° Le cas échéant, la suspension, la cessation ou la reprise de l'activité de l'Agence française de l'adoption dans les Etats parties à la convention de La Haye du 29 mai 1993, dans les conditions prévues à l'article L. 225-15 ;
 
@@ -13625,11 +13625,11 @@ L'Autorité centrale pour l'adoption internationale établit les instructions pa
 
 ###### Article R148-11-1
 
-L'Autorité centrale pour l'adoption internationale établit chaque année un rapport d'activité qui est communiqué au Conseil supérieur de l'adoption ainsi qu'au ministre de la justice et au ministre chargé de la famille.
+L'Autorité centrale pour l'adoption internationale établit chaque année un rapport d'activité qui est communiqué au Conseil national de l'adoption ainsi qu'au ministre de la justice et au ministre chargé de la famille.
 
 ###### Article R148-11-2
 
-L'Autorité centrale pour l'adoption internationale peut confier à l'Agence française de l'adoption et aux organismes privés autorisés et habilités pour l'adoption internationale les fonctions prévues par les stipulations des a, b, c et e de l'article 9, des articles 14 à 17, 19, 20 et par le 1 de l'article 30 de la convention de La Haye du 29 mai 1993.
+L'Autorité centrale pour l'adoption internationale peut confier au groupement d'intérêt public mentionné à l'article L. 147-14 et aux organismes privés autorisés et habilités pour l'adoption internationale les fonctions prévues par les stipulations des a, b, c et e de l'article 9, des articles 14 à 17, 19, 20 et par le 1 de l'article 30 de la convention de La Haye du 29 mai 1993.
 
 #### Chapitre IX : Institutions communes aux personnes âgées et aux personnes handicapées
 
@@ -15608,7 +15608,7 @@ Un document récapitulant ces informations doit être remis aux personnes ;
 
 4° Des principes régissant l'adoption internationale et résultant notamment de la convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption internationale, des spécificités afférentes à l'adoption d'enfants étrangers et des institutions françaises compétentes en matière d'adoption internationale ;
 
-5° Des conditions de fonctionnement de l'Agence française de l'adoption et des organismes autorisés et habilités pour servir d'intermédiaires pour l'adoption ou le placement en vue d'adoption d'enfants, et de la liste des organismes autorisés ou ayant régulièrement déposé une déclaration de fonctionnement dans le département ;
+5° Des conditions de fonctionnement du groupement d'intérêt public mentionné à l'article L. 147-14 et des organismes autorisés et habilités pour servir d'intermédiaires pour l'adoption ou le placement en vue d'adoption d'enfants, et de la liste des organismes autorisés ou ayant régulièrement déposé une déclaration de fonctionnement dans le département ;
 
 6° Du nombre de demandeurs et de personnes agréées dans le département ;
 
@@ -15943,7 +15943,7 @@ L'organisme doit fournir :
 
 Les décisions d'habilitation et de retrait sont prises par arrêté du ministre des affaires étrangères.
 
-Le ministre apprécie s'il y a lieu d'accorder l'habilitation compte tenu de la situation propre du pays concerné, des garanties assurées aux enfants, à leurs parents et aux futurs adoptants, de la qualité du projet présenté, de la connaissance du pays concerné, notamment des institutions locales chargées de l'adoption, ainsi que de l'intervention éventuelle de l'Agence française de l'adoption et d'autres organismes privés autorisés et habilités pour l'adoption internationale déjà habilités au titre du pays considéré.
+Le ministre apprécie s'il y a lieu d'accorder l'habilitation compte tenu de la situation propre du pays concerné, des garanties assurées aux enfants, à leurs parents et aux futurs adoptants, de la qualité du projet présenté, de la connaissance du pays concerné, notamment des institutions locales chargées de l'adoption, ainsi que de l'intervention éventuelle du groupement d'intérêt public mentionné à l'article L. 147-14 et d'autres organismes privés autorisés et habilités pour l'adoption internationale déjà habilités au titre du pays considéré.
 
 L'arrêté d'habilitation mentionne les pays dans lesquels l'organisme peut exercer son activité.
 
@@ -16033,41 +16033,31 @@ Les organismes autorisés et habilités doivent établir entre eux des relations
 
 L'Etat aide à la mise en place d'un réseau structuré d'organismes autorisés conformément aux articles L. 225-11 et L. 225-12.
 
-##### Section 3 : Agence française de l'adoption
+##### Section 3 : Groupement d'intérêt public pour la protection de l'enfance, l'adoption et l'accès aux origines personnelles
 
 ###### Article R225-47
 
-L'Agence française de l'adoption exerce les activités prévues aux 1° et 2° de l'article R. 225-12 et à l'article R. 225-13.
+Le groupement d'intérêt public mentionné à l'article L. 147-14 exerce les activités prévues aux 1° et 2° de l'article R. 225-12 et à l'article R. 225-13.
 
 L'activité prévue au 3° de l'article R. 225-12 est exercée par le service de l'aide sociale à l'enfance du département où réside l'enfant dans les conditions fixées à l'article L. 225-18.
 
 ###### Article R225-48
 
-En vue d'obtenir l'habilitation prévue à l'article L. 225-12, l'Agence française pour l'adoption doit fournir les pièces prévues aux 4°, 7°, 8°, 9°, 10° et 11° de l'article R. 225-33.
+En vue d'obtenir l'habilitation prévue à l'article L. 225-12, le groupement d'intérêt public mentionné à l'article L. 147-14 pour l'adoption doit fournir les pièces prévues aux 4°, 7°, 8°, 9°, 10° et 11° de l'article R. 225-33.
 
 ###### Article R225-49
 
-Pour l'exercice de ses missions, l'agence s'appuie sur des correspondants départementaux désignés conformément à l'article L. 225-16.
+Pour l'exercice de ses missions, le groupement d'intérêt public mentionné à l'article L. 147-14 s'appuie sur des correspondants départementaux désignés conformément à l'article L. 225-16.
 
 Les correspondants départementaux exercent une mission d'information et de conseil, notamment sur les aspects techniques et juridiques de la procédure d'adoption.
 
 ###### Article R225-50
 
-Les dispositions des articles R. 225-34 à R. 225-37, R. 225-38, à l'exception du 1°, R. 225-39, du premier alinéa de l'article R. 225-41 et de l'article R. 225-44 sont applicables à l'Agence française de l'adoption.
+Les dispositions des articles R. 225-34 à R. 225-37, R. 225-38, à l'exception du 1°, R. 225-39, du premier alinéa de l'article R. 225-41 et de l'article R. 225-44 sont applicables au groupement d'intérêt public mentionné à l'article L. 147-14.
 
 ###### Article R225-51
 
-Les personnes souhaitant adopter un enfant définissent avec l'agence les éléments essentiels de leur projet d'adoption, en ce qui concerne notamment le pays d'origine et l'âge du ou des enfants qui pourraient leur être confiés. Une copie du projet d'adoption leur est remis.
-
-###### Article R225-52
-
-L'Etat contribue sous la forme d'une dotation financière annuelle au fonctionnement de l'Agence française de l'adoption.
-
-Les départements contribuent à l'exercice des missions de l'agence par la désignation au sein de leurs services d'au moins un correspondant local qui assure les fonctions définies à l'article R. 225-49. Ils peuvent apporter, le cas échéant, des moyens complémentaires de fonctionnement.
-
-###### Article R225-53
-
-Sous réserve des dispositions de la présente section, le décret n° 2012-91 du 26 janvier 2012 relatif aux groupements d'intérêt public est applicable au groupement d'intérêt public régi par les dispositions de l'article L. 225-15 du présent code.
+Les personnes souhaitant adopter un enfant définissent avec le groupement d'intérêt public mentionné à l'article L. 147-14 les éléments essentiels de leur projet d'adoption, en ce qui concerne notamment le pays d'origine et l'âge du ou des enfants qui pourraient leur être confiés. Une copie du projet d'adoption leur est remis.
 
 ##### Section 4 : Adoption internationale
 
@@ -16111,13 +16101,13 @@ A l'issue de la formation prévue à l'article D. 226-1-1, l'organisme de format
 
 ###### Article R226-2
 
-Le service d'accueil téléphonique mentionné à l'article L. 226-6 est assisté d'un comité technique composé des représentants du conseil d'administration du groupement d'intérêt public et des associations concourant à la protection de l'enfance et de la famille ainsi que d'experts et de personnes qualifiées.
+Le service d'accueil téléphonique mentionné à l'article L. 226-6 est assisté d'un comité technique composé des représentants du conseil d'administration du groupement d'intérêt public mentionné à l'article L. 147-14 et des associations concourant à la protection de l'enfance et de la famille ainsi que d'experts et de personnes qualifiées.
 
 Le comité technique est consulté sur l'organisation et l'activité du service, ainsi que sur les conditions de collaboration entre celui-ci et les départements. Il donne son avis préalablement à la publication de l'étude épidémiologique mentionnée à l'article L. 226-6.
 
 ###### Article R226-2-1
 
-Sous réserve des dispositions de la présente section, le décret n° 2012-91 du 26 janvier 2012 relatif aux groupements d'intérêt public est applicable au groupement d'intérêt public régi par l'article L. 226-6 du présent code.
+Sous réserve des dispositions de la présente section, le décret n° 2012-91 du 26 janvier 2012 relatif aux groupements d'intérêt public est applicable au groupement d'intérêt public mentionné à l'article L. 147-14 du présent code.
 
 ##### Section 2 bis : Information préoccupante
 
@@ -16296,7 +16286,7 @@ En tant que de besoin, l'observatoire associe à ses travaux tout organisme ou p
 
 ###### Article D226-3-3
 
-Le président du conseil départemental transmet annuellement les informations mentionnées à l'article D. 226-3-5, pour ce qui le concerne, à l'observatoire départemental de la protection de l'enfance et à l'Observatoire national de la protection de l'enfance, pour l'exercice de leurs missions définies respectivement à l'article L. 226-3-1 et au troisième alinéa de l'article L. 226-6. Le ministre de la justice transmet annuellement les informations mentionnées à l'article D. 226-3-5, pour ce qui le concerne, à l'Observatoire national de la protection de l'enfance.
+Le président du conseil départemental transmet annuellement les informations mentionnées à l'article D. 226-3-5, pour ce qui le concerne, à l'observatoire départemental de la protection de l'enfance et à l'Observatoire national de la protection de l'enfance, pour l'exercice de leurs missions définies respectivement à l'article L. 226-3-1 et au deuxième alinéa de l'article L. 226-6. Le ministre de la justice transmet annuellement les informations mentionnées à l'article D. 226-3-5, pour ce qui le concerne, à l'Observatoire national de la protection de l'enfance.
 
 Cette transmission a pour objet :
 
