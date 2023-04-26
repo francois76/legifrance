@@ -1045,6 +1045,14 @@ Pour l'application du premier alinéa du présent article, il y a lieu d'entendr
 
 Le présent article n'est pas applicable à la couverture des risques professionnels.
 
+#### Chapitre X : L'assurance des risques de cyberattaques
+
+##### Article L12-10-1
+
+Le versement d'une somme en application de la clause d'un contrat d'assurance visant à indemniser un assuré des pertes et dommages causés par une atteinte à un système de traitement automatisé de données mentionnée aux articles 323-1 à 323-3-1 du code pénal est subordonné au dépôt d'une plainte de la victime auprès des autorités compétentes au plus tard soixante-douze heures après la connaissance de l'atteinte par la victime.
+
+Le présent article s'applique uniquement aux personnes morales et aux personnes physiques dans le cadre de leur activité professionnelle.
+
 ### Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation
 
 #### Chapitre Ier : Dispositions générales.
@@ -23843,6 +23851,13 @@ d) Le nom et l'adresse des autorités chargées du contrôle de l'entreprise d'a
 2° Informent par lettre recommandée ou envoi recommandé électronique, deux mois avant la fin de la période de couverture mentionnée au 1°, de l'arrivée à échéance du contrat et recommandent à l'assuré, au souscripteur ou à l'adhérent de rechercher une nouvelle garantie auprès d'un assureur autorisé à pratiquer des opérations d'assurance directe ou de réassurance sur le territoire de la République française.
 
 Cette obligation d'information ne s'applique pas aux engagements dont l'échéance interviendrait moins de trois mois après l'information prévue au 1°.
+
+###### Article A310-2
+
+Les seuils mentionnés au 1° de l'article L. 310-3-1 sont les suivants :
+- au a : 5,4 millions d'euros ;
+- au b : 26,6 millions d'euros ;
+- au d : 600 000 euros s'agissant du montant relatif aux encaissements de primes ou de cotisations brutes émises et 2,7 millions d'euros s'agissant du montant des provisions techniques.
 
 ##### Section II : Autorité de contrôle des assurances.
 
