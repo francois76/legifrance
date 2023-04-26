@@ -174,7 +174,7 @@ s) Le président du Conseil d'orientation des politiques de jeunesse ;
 
 t) Le président du Conseil national consultatif des personnes handicapées ;
 
-u) Le président du GIP Enfance en danger ;
+u) Le président du GIP pour la protection de l'enfance, l'adoption et l'accès aux origines personnelles ;
 
 3° Vingt-six membres représentant des associations et personnes morales de droit public ou privé, autres que l'Etat et les collectivités territoriales, concourant à la politique de l'enfance et de l'adolescence :
 

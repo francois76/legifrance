@@ -4,7 +4,7 @@ L'Autorité centrale pour l'adoption internationale instruit les demandes et pr�
 
 1° L'habilitation des organismes privés autorisés pour l'adoption ainsi que, le cas échéant, la modification, la suspension ou le retrait de cette habilitation, dans les conditions prévues à l'article L. 225-12 ;
 
-2° L'habilitation de l'Agence française de l'adoption dans les Etats non parties à la convention de La Haye du 29 mai 1993 ainsi que, le cas échéant, la modification, la suspension ou le retrait de cette habilitation, dans les conditions prévues à l'article L. 225-15 ;
+2° L'habilitation du groupement d'intérêt public mentionné à l'article L. 147-14 dans les Etats non parties à la convention de La Haye du 29 mai 1993 ainsi que, le cas échéant, la modification, la suspension ou le retrait de cette habilitation, dans les conditions prévues à l'article L. 225-15 ;
 
 3° Le cas échéant, la suspension, la cessation ou la reprise de l'activité de l'Agence française de l'adoption dans les Etats parties à la convention de La Haye du 29 mai 1993, dans les conditions prévues à l'article L. 225-15 ;
 

@@ -4,5 +4,5 @@ L'Autorité centrale pour l'adoption internationale bénéficie, en tant que de 
 
 Des magistrats, des fonctionnaires des autres services de l'Etat et des fonctionnaires territoriaux peuvent être mis à sa disposition ou détachés auprès d'elle dans les conditions prévues par l'ordonnance n° 58-1270 du 22 décembre 1958, la loi n° 84-53 du 26 janvier 1984 et le décret n° 85-986 du 16 septembre 1985.
 
-Les services compétents des départements, l'Agence française de l'adoption et les organismes privés autorisés et habilités pour l'adoption internationale peuvent également lui apporter leur concours.
+Les services compétents des départements, le groupement d'intérêt public mentionné à l'article L. 147-14 et les organismes privés autorisés et habilités pour l'adoption internationale peuvent également lui apporter leur concours.
 

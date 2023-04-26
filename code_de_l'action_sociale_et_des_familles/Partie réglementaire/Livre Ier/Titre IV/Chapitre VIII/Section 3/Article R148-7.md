@@ -8,5 +8,5 @@ L'Autorité centrale pour l'adoption internationale exerce une mission permanent
 
 3° Les conditions de l'adoption internationale dans les différents pays d'origine, en particulier au regard du respect des droits des enfants ;
 
-4° L'implantation et la complémentarité dans les différents pays d'origine de l'Agence française de l'adoption et des organismes privés autorisés et habilités pour l'adoption internationale ; à ce titre, l'Autorité centrale pour l'adoption internationale peut définir, au nom de l'Etat et par convention avec lesdits organismes, les modalités de leur intervention dans les pays d'origine des enfants.
+4° L'implantation et la complémentarité dans les différents pays d'origine du groupement d'intérêt public mentionné à l'article L. 147-14 et des organismes privés autorisés et habilités pour l'adoption internationale ; à ce titre, l'Autorité centrale pour l'adoption internationale peut définir, au nom de l'Etat et par convention avec lesdits organismes, les modalités de leur intervention dans les pays d'origine des enfants.
 

@@ -16,7 +16,7 @@ e) le directeur général de l'offre de soins ou son représentant ;
 
 f) le directeur général de la santé ou son représentant ;
 
-g) l'ambassadeur chargé de l'adoption internationale ou son représentant ;
+g) le directeur des Français à l'étranger et de l'administration consulaire ou son représentant ;
 
 h) le président de la formation enfance du Haut Conseil de la famille, de l'enfance et de l'âge ou son représentant ;
 

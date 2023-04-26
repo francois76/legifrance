@@ -18,7 +18,7 @@ Un document récapitulant ces informations doit être remis aux personnes ;
 
 4° Des principes régissant l'adoption internationale et résultant notamment de la convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption internationale, des spécificités afférentes à l'adoption d'enfants étrangers et des institutions françaises compétentes en matière d'adoption internationale ;
 
-5° Des conditions de fonctionnement de l'Agence française de l'adoption et des organismes autorisés et habilités pour servir d'intermédiaires pour l'adoption ou le placement en vue d'adoption d'enfants, et de la liste des organismes autorisés ou ayant régulièrement déposé une déclaration de fonctionnement dans le département ;
+5° Des conditions de fonctionnement du groupement d'intérêt public mentionné à l'article L. 147-14 et des organismes autorisés et habilités pour servir d'intermédiaires pour l'adoption ou le placement en vue d'adoption d'enfants, et de la liste des organismes autorisés ou ayant régulièrement déposé une déclaration de fonctionnement dans le département ;
 
 6° Du nombre de demandeurs et de personnes agréées dans le département ;
 

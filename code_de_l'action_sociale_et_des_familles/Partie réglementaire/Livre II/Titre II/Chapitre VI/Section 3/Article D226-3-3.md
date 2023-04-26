@@ -1,6 +1,6 @@
 ###### Article D226-3-3
 
-Le président du conseil départemental transmet annuellement les informations mentionnées à l'article D. 226-3-5, pour ce qui le concerne, à l'observatoire départemental de la protection de l'enfance et à l'Observatoire national de la protection de l'enfance, pour l'exercice de leurs missions définies respectivement à l'article L. 226-3-1 et au troisième alinéa de l'article L. 226-6. Le ministre de la justice transmet annuellement les informations mentionnées à l'article D. 226-3-5, pour ce qui le concerne, à l'Observatoire national de la protection de l'enfance.
+Le président du conseil départemental transmet annuellement les informations mentionnées à l'article D. 226-3-5, pour ce qui le concerne, à l'observatoire départemental de la protection de l'enfance et à l'Observatoire national de la protection de l'enfance, pour l'exercice de leurs missions définies respectivement à l'article L. 226-3-1 et au deuxième alinéa de l'article L. 226-6. Le ministre de la justice transmet annuellement les informations mentionnées à l'article D. 226-3-5, pour ce qui le concerne, à l'Observatoire national de la protection de l'enfance.
 
 Cette transmission a pour objet :
 
