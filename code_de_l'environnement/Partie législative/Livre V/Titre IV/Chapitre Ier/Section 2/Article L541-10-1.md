@@ -2,11 +2,11 @@
 
 Relèvent du principe de responsabilité élargie du producteur en application du premier alinéa du I de l'article L. 541-10 :
 
-1° Les emballages servant à commercialiser les produits consommés ou utilisés par les ménages, y compris ceux consommés hors foyer ;
+1° Les emballages servant à commercialiser les produits consommés ou utilisés par les ménages, y compris ceux susceptibles de l'être et ceux consommés hors foyer, les imprimés papiers, à l'exception des livres, émis, y compris à titre gratuit, par des donneurs d'ordre ou pour leur compte et les papiers à usage graphique, à destination des utilisateurs finaux qui produisent des déchets ménagers et assimilés ;
 
 2° Les emballages servant à commercialiser les produits consommés ou utilisés par les professionnels et qui ne sont pas déjà couverts par le 1° du présent article, à compter du 1er janvier 2025, à l'exception de ceux qui sont consommés ou utilisés par les professionnels ayant une activité de restauration, pour lesquels ces dispositions s'appliquent à compter du 1er janvier 2023. Un organisme qui remplit les obligations de responsabilité élargie du producteur pour le secteur de l'agrofourniture conformément à un accord conclu avec le ministre chargé de l'environnement avant le 31 décembre 2019 n'est pas soumis à agrément tant que cet accord est renouvelé. Les clauses de cet accord valent cahier des charges au sens du II de l'article L. 541-10. Les autres dispositions de la présente sous-section applicables à l'organisme sont précisées dans l'accord, sous réserve des articles L. 541-10-13 à L. 541-10-16, qui lui sont applicables de plein droit ;
 
-3° Les imprimés papiers, à l'exception des livres, émis, y compris à titre gratuit, par des donneurs d'ordre ou pour leur compte, et les papiers à usage graphique, à destination des utilisateurs finaux qui produisent des déchets ménagers et assimilés ;
+3° (Abrogé) ;
 
 4° Les produits ou matériaux de construction du secteur du bâtiment destinés aux ménages ou aux professionnels, à compter du 1er janvier 2022, afin que les déchets de construction ou de démolition qui en sont issus soient repris sans frais lorsqu'ils font l'objet d'une collecte séparée et afin qu'une traçabilité de ces déchets soit assurée. Un décret en Conseil d'Etat définit les modalités d'application du présent 4° ainsi que les conditions minimales du maillage des points de reprise ;
 
