@@ -13,4 +13,3 @@ Lorsque sont portées à la connaissance des parties civiles et de leur avocats 
 La diffusion des débats aux parties civiles se fait en différé. Elle peut être interrompue à tout moment par le président d'audience.
 
 La chaîne de retransmission est sécurisée de l'encodeur jusqu'à la plateforme de diffusion. Un encodage et un flux redondé sont mis en œuvre de la réception du flux en régie jusqu'à la plateforme de diffusion. Le flux de diffusion est chiffré de bout en bout.
-
