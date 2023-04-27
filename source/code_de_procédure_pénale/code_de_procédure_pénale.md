@@ -37619,7 +37619,7 @@ Les candidats ayant échoué à quatre sessions ne peuvent plus être autorisés
 
 ####### Article A13
 
-Peuvent être admis à subir l'examen technique d'officier de police judiciaire de la police nationale prévu à l'article R. 5 du présent code les fonctionnaires du corps d'encadrement et d'application comptant au moins trois ans de services dans le corps au 1er janvier de l'année de l'examen et ayant suivi une formation adaptée, organisée par leur administration d'origine.
+Peuvent être admis à subir l'examen technique d'officier de police judiciaire de la police nationale prévu à l'article R. 5 du présent code les fonctionnaires du corps d'encadrement et d'application comptant au moins trois ans de services dans le corps au 1er janvier de l'année de l'examen.
 
 ####### Article A14
 
@@ -37817,10 +37817,6 @@ La note définitive attribuée à la copie correspond à la moyenne des notes de
 La commission prévue à l'article 16 (2° et 4°) du présent code émet un avis sur les listes mentionnées au 4° de l'article A. 21 du même code dans un délai maximum de quatre mois après la date de l'examen.
 
 Elles sont adressées à la direction générale de la police nationale, accompagnées des copies des candidats et du procès-verbal de séance.
-
-####### Article A23
-
-Les candidats ayant échoué à quatre sessions ne peuvent plus être autorisés à se présenter à l'examen technique d'officier de police judiciaire.
 
 ###### Paragraphe 3 : Affectation de fonctionnaires du corps d'encadrement et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visées à l'article 16 (4°)
 
@@ -42717,97 +42713,3 @@ Lorsque sont portées à la connaissance des parties civiles et de leur avocats 
 La diffusion des débats aux parties civiles se fait en différé. Elle peut être interrompue à tout moment par le président d'audience.
 
 La chaîne de retransmission est sécurisée de l'encodeur jusqu'à la plateforme de diffusion. Un encodage et un flux redondé sont mis en œuvre de la réception du flux en régie jusqu'à la plateforme de diffusion. Le flux de diffusion est chiffré de bout en bout.
-
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
-
-### Article A54
-
-Par dérogation aux dispositions du second alinéa de l'article D. 77, l'orientation des condamnés à une longue peine relève, dans les départements où est établie une maison centrale, de la commission de l'application des peines instituée à l'article D. 95.
-
-Dans les autres départements visés au présent titre, l'orientation est effectuée, après avis du juge de l'application des peines, par le fonctionnaire de l'administration pénitentiaire exerçant pour ces départements les attributions dévolues aux directeurs régionaux.
-
-### Article A55
-
-Le bulletin concernant chaque condamné ayant à subir une longue peine et visé à l'article D. 80 est adressé par le chef de l'établissement de détention au fonctionnaire de l'administration pénitentiaire exerçant les attributions dévolues au directeur régional.
-
-L'examen du bulletin est effectué, selon les distinctions visées à l'article A. 54, par ce fonctionnaire ou par la commission de l'application des peines à laquelle le bulletin est alors transmis. Cet examen donne lieu :
-
-Soit à une décision d'affectation dans un établissement pénitentiaire du département où est situé l'établissement de détention ;
-
-Soit à une proposition d'affectation dans un des autres départements visés au présent titre. Cette proposition est soumise, pour décision, au ministre de la justice.
-
-### Article A56
-
-L'enquête prévue à l'article D. 81 sur la situation du condamné avant son incarcération est demandée au service social de l'administration pénitentiaire ou à défaut aux services sociaux locaux, par le fonctionnaire visé à l'article A. 54.
-
-### Article A57
-
-Dans les départements de la Guadeloupe et de La Réunion, les directeurs des centres pénitentiaires de Baie-Mahault et du Port assurent, dans les limites des délégations de compétences qui leur sont consenties, la gestion de l'ensemble des personnels affectés dans les établissements de leur département respectif.
-
-## Livre VII : Dispositions applicables en Nouvelle-Calédonie
-
-### Article A58
-
-Le siège du service pénitentiaire d'insertion et de probation et la liste des antennes locales d'insertion et de probation de la Nouvelle-Calédonie prévus par l'article D.N.C. 572 sont fixés conformément au tableau ci-dessous :
-
-<table align="center" border="1" cellpadding="0" cellspacing="0" width="700"><tbody>
- <tr>
-  <td><center>SPIP</center></td>
-  <td><center>SIÈGE</center></td>
-  <td><center>ANTENNE</center></td>
-  <td><center>RESSORT DE COMPÉTENCE</center></td>
- </tr>
- <tr>
-  <td valign="top">Nouvelle-Calédonie.</td>
-  <td valign="top">Nouméa.</td>
-  <td valign="top">Nouméa.</td>
-  <td valign="top">Camp est.</td>
- </tr>
- <tr>
-  <td valign="top"/><td valign="top"/><td valign="top"/><td valign="top">Province sud.</td>
- </tr>
- <tr>
-  <td valign="top"/><td valign="top"/><td valign="top"/><td valign="top">Province des îles Loyauté.</td>
- </tr>
- <tr>
-  <td valign="top"/><td valign="top"/><td valign="top">Koné.</td>
-  <td valign="top">Province nord.</td>
- </tr>
-</tbody></table>
-
-## Livre VIII : Dispositions applicables en Polynésie française
-
-### Article A59
-
-Le siège du service pénitentiaire d'insertion et de probation et la liste des antennes locales d'insertion et de probation de la Polynésie française prévus par l'article D.P. 572 sont fixés conformément au tableau ci-dessous :
-
-<table align="center" border="1" cellpadding="0" cellspacing="0"><tbody>
- <tr>
-  <td><center>POLYNESIE
-
-française</center></td>
-  <td><center>SIÈGE</center></td>
-  <td><center>ANTENNE</center></td>
-  <td><center>RESSORT DE COMPÉTENCE</center></td>
- </tr>
- <tr>
-  <td rowspan="3">Polynésie française</td>
-  <td rowspan="3">Papeete.</td>
-  <td>Antenne de Papéari</td>
-  <td>Centre de détention Tatutu de Papéari</td>
- </tr>
- <tr>
-  <td>Antenne de Papeete.</td>
-  <td>Collectivité d'outre-mer de la Polynésie française, à l'exception des îles Sous-le-Vent.
-
-Centre pénitentiaire de Faa'a-Nuutania.
-
-Centre de détention de Taiohae (Marquises).</td>
- </tr>
- <tr>
-  <td>Antenne d'Uturoa.</td>
-  <td>Iles Sous-le-Vent.
-
-Centre de détention d'Uturoa (Raïatea).</td>
- </tr>
-</tbody></table>
