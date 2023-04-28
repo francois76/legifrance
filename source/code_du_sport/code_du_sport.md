@@ -4318,7 +4318,7 @@ Le délégué territorial transmet au directeur général de l'agence les décis
 
 ####### Article R112-34
 
-Le préfet de région, en qualité de délégué territorial de l'Agence nationale du sport, est assisté d'un délégué territorial adjoint, qui est le délégué régional académique à la jeunesse, à l'engagement et aux sports, auquel il peut déléguer sa signature. Il peut également déléguer sa signature aux personnes placées sous son autorité pour l'exercice des différentes attributions mentionnées à l'article R. 112-33, à l'exception de celles mentionnées aux 3° à 5°.
+Le préfet de région, en qualité de délégué territorial de l'Agence nationale du sport, est assisté d'un délégué territorial adjoint, qui est le délégué régional académique à la jeunesse, à l'engagement et aux sports, auquel il peut déléguer sa signature. Il peut également déléguer sa signature aux agents de la délégation régionale académique à la jeunesse, à l'engagement et aux sports pour l'exercice des différentes attributions mentionnées à l'article R. 112-33, à l'exception de celles mentionnées au 4°.
 
 ####### Article R112-35
 
@@ -4577,7 +4577,7 @@ Conformément au I. de l'article L. 4424-8 du code général des collectivités 
 
 ######## Article R112-50
 
-Les dispositions des articles R. 112-40 et R. 112-45 ne sont pas applicables en Guyane, en Martinique, à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre et Miquelon, dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie, en ce qu'elles concernent la composition des collèges des conférences régionales du sport et des collèges des conférences des financeurs du sport qui est fixée, dans ces collectivités, par arrêté conjoint du ministre chargé du sport et du ministre chargé des outre-mer, en tenant compte des caractéristiques des collectivités et dans le respect des compétences propres à leurs institutions.
+Les dispositions des articles R. 112-40 et R. 112-45 ne sont pas applicables en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre et Miquelon, dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie, en ce qu'elles concernent la composition des collèges des conférences régionales du sport et des collèges des conférences des financeurs du sport qui est fixée, dans ces collectivités, par arrêté conjoint du ministre chargé du sport et du ministre chargé des outre-mer, en tenant compte des caractéristiques des collectivités et dans le respect des compétences propres à leurs institutions.
 
 #### Chapitre III : Collectivités territoriales
 
@@ -13132,7 +13132,7 @@ Les fédérations agréées peuvent recevoir un concours financier de l'Etat dan
 
 Les fédérations sportives agréées, les collectivités territoriales et leurs groupements et toute personne publique menant une action dans le champ du sport peuvent recevoir un concours financier de l'Agence nationale du sport mentionnée à l'article L. 112-10 dans des conditions fixées par des conventions annuelles ou pluriannuelles d'objectifs conclues avec elle, concernant le développement de la haute performance sportive.
 
-Les fédérations sportives agréées, les associations qui leur sont affiliées, les collectivités territoriales et leurs groupements, les associations dont l'agrément ne résulte pas de l'affiliation à une fédération sportive agréée peuvent recevoir un concours financier de l'agence dans des conditions fixées par des conventions annuelles ou pluriannuelles d'objectifs conclues avec elle, concernant le développement des pratiques sportives.
+Les fédérations sportives agréées, les associations qui leur sont affiliées, les collectivités territoriales et leurs groupements, les associations dont l'agrément ne résulte pas de l'affiliation à une fédération sportive agréée, les sociétés coopératives d'intérêt collectif peuvent recevoir un concours financier de l'agence dans des conditions fixées par des conventions annuelles ou pluriannuelles d'objectifs conclues avec elle, concernant le développement des pratiques sportives.
 
 En Corse, l'agence attribue les concours financiers relatifs au développement des pratiques sportives selon la procédure prévue à l'article L. 4424-8 du code général des collectivités territoriales.
 
