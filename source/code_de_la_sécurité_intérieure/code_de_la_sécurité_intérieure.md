@@ -248,26 +248,6 @@ L'exercice des pouvoirs de police dans les communes où le régime de la police 
 
 #### Chapitre II : Prévention de la délinquance
 
-##### Section 3 : Dispositions particulières à Paris  et à la métropole du Grand Paris
-
-###### Article L132-11
-
-Sous réserve des pouvoirs de l'autorité judiciaire et dans le cadre de leurs compétences respectives, le préfet de police et le maire de Paris animent la politique de prévention de la délinquance et en coordonnent la mise en œuvre à Paris.
-
-Ils président le conseil local de sécurité et de prévention de la délinquance.
-
-###### Article L132-12
-
-Sous réserve des dispositions du code de procédure pénale relatives à l'exercice de la mission de police judiciaire, le préfet de police associe le maire de Paris à la définition des actions de lutte contre l'insécurité et l'informe régulièrement des résultats obtenus.
-
-Les modalités de l'association et de l'information du maire mentionnées au premier alinéa peuvent être définies par des conventions que le maire signe avec l'Etat.
-
-Les actions de prévention de la délinquance conduites par le département de Paris, la commune de Paris et leurs établissements publics ne doivent pas être incompatibles avec le plan de prévention de la délinquance arrêté conjointement par le préfet de Paris et le préfet de police.
-
-###### Article L132-12-1
-
-Les établissements publics territoriaux créés en application de l'article L. 5219-2 du code général des collectivités territoriales exercent leur compétence en matière d'animation et de coordination des dispositifs de prévention de la délinquance dans les conditions prévues aux articles L. 132-13 et L. 132-14 du présent code.
-
 ##### Section 1 : Rôle du maire
 
 ###### Article L132-1
@@ -368,6 +348,26 @@ III. – Les modalités d'application du présent article sont fixées par décr
 ###### Article L132-10-2
 
 Lorsque, en application de l'article L. 132-4, un conseil local de sécurité et de prévention de la délinquance est mis en place, le procureur de la République ou son représentant peut créer et présider un ou plusieurs groupes locaux de traitement de la délinquance. Les missions et la composition de ces groupes sont précisées par décret.
+
+##### Section 3 : Dispositions particulières à Paris  et à la métropole du Grand Paris
+
+###### Article L132-11
+
+Sous réserve des pouvoirs de l'autorité judiciaire et dans le cadre de leurs compétences respectives, le préfet de police et le maire de Paris animent la politique de prévention de la délinquance et en coordonnent la mise en œuvre à Paris.
+
+Ils président le conseil local de sécurité et de prévention de la délinquance.
+
+###### Article L132-12
+
+Sous réserve des dispositions du code de procédure pénale relatives à l'exercice de la mission de police judiciaire, le préfet de police associe le maire de Paris à la définition des actions de lutte contre l'insécurité et l'informe régulièrement des résultats obtenus.
+
+Les modalités de l'association et de l'information du maire mentionnées au premier alinéa peuvent être définies par des conventions que le maire signe avec l'Etat.
+
+Les actions de prévention de la délinquance conduites par le département de Paris, la commune de Paris et leurs établissements publics ne doivent pas être incompatibles avec le plan de prévention de la délinquance arrêté conjointement par le préfet de Paris et le préfet de police.
+
+###### Article L132-12-1
+
+Les établissements publics territoriaux créés en application de l'article L. 5219-2 du code général des collectivités territoriales exercent leur compétence en matière d'animation et de coordination des dispositifs de prévention de la délinquance dans les conditions prévues aux articles L. 132-13 et L. 132-14 du présent code.
 
 ##### Section 4 : Rôle des établissements publics de coopération intercommunale compétents en matière de prévention de la délinquance
 
@@ -1472,7 +1472,7 @@ Dans des conditions déterminées par décret en Conseil d'Etat, elle peut égal
 
 ##### Article L234-3
 
-La consultation des traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de procédure pénale peut également être effectuée, y compris pour des données portant sur des procédures judiciaires en cours, pour l'exercice de missions ou d'interventions lorsque la nature de celles-ci ou les circonstances particulières dans lesquelles elles doivent se dérouler comportent des risques d'atteinte à l'ordre public ou à la sécurité des personnes et des biens, ainsi qu'au titre des mesures de protection ou de défense prises dans les secteurs de sécurité des installations prioritaires de défense mentionnés à l'article L. 1321-2 du code de la défense. Cette consultation est effectuée par des agents individuellement désignés et spécialement habilités de la police et de la gendarmerie nationales , par des agents des douanes individuellement désignés et spécialement habilités, pour le seul exercice des missions et des interventions qui le justifient, dans le cadre des pouvoirs qui leur sont conférés en application des sections 2,7 et 7 bis du chapitre IV du titre II du code des douanes, ainsi que, dans la limite de leurs attributions et dans des conditions fixées par décret en Conseil d'Etat, des services de renseignement désignés par le ministre de la défense, aux fins de protection de la sécurité de leurs personnels.
+La consultation des traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de procédure pénale peut également être effectuée, y compris pour des données portant sur des procédures judiciaires en cours, pour l'exercice de missions ou d'interventions lorsque la nature de celles-ci ou les circonstances particulières dans lesquelles elles doivent se dérouler comportent des risques d'atteinte à l'ordre public ou à la sécurité des personnes et des biens, ainsi qu'au titre des mesures de protection ou de défense prises dans les secteurs de sécurité des installations prioritaires de défense mentionnés à l'article L. 1321-2 du code de la défense. Cette consultation est effectuée par des agents individuellement désignés et spécialement habilités de la police et de la gendarmerie nationales, par des agents des douanes individuellement désignés et spécialement habilités, pour le seul exercice des missions et des interventions qui le justifient, dans le cadre des pouvoirs qui leur sont conférés en application des sections 2,7 et 7 bis du chapitre IV du titre II du code des douanes, ainsi que, dans la limite de leurs attributions et dans des conditions fixées par décret en Conseil d'Etat, des services de renseignement désignés par le ministre de la défense, aux fins de protection de la sécurité de leurs personnels.
 
 ##### Article L234-4
 
