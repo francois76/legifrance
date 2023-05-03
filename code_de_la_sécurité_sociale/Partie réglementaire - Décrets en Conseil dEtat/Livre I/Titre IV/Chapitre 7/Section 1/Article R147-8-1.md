@@ -8,7 +8,7 @@ I.-La pénalité prononcée au titre du 1° au 5° de l'article R. 147-8 est fix
 
 3° La moitié du plafond mensuel de la sécurité sociale lorsqu'il est constaté un ou plusieurs faits relevant des cas prévus au 4° de l'article R. 147-8 ;
 
-4° Une fois le plafond mensuel de la sécurité sociale pour les faits mentionnés au 5° de l'article R. 147-8. Cette sanction n'est pas exclusive d'une nouvelle période de mise sous accord préalable telle que prévue à l'article L. 162-1-15 qui peut être prononcée au cours de la même procédure.
+4° Deux fois le plafond mensuel de la sécurité sociale pour les faits mentionnés au 5° de l'article R. 147-8 ou quatre fois ce même plafond si le niveau de prescriptions ou de réalisations du même acte, produit ou prestation ou groupe d'actes, produits ou prestations, ou du montant de remboursement est supérieur de plus du double à la moyenne régionale et pour une activité comparable. Cette sanction n'est pas exclusive d'une nouvelle période de mise sous accord préalable telle que prévue à l'article L. 162-1-15 qui peut être prononcée au cours de la même procédure.
 
 II. - La pénalité prononcée au titre du 6° de l'article R. 147-8 est fixée, en tenant compte de l'importance du niveau de non-réalisation de l'objectif et de tous les éléments relatifs à la pratique du médecin pendant la période concernée, à un maximum de deux fois le plafond mensuel de la sécurité sociale. Cette sanction est infligée indépendamment d'une mise sous accord préalable du praticien qui peut être prononcée pour les mêmes faits.
 
