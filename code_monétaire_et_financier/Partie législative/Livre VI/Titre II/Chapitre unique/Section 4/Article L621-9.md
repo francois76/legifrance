@@ -38,7 +38,7 @@ II. – L'Autorité des marchés financiers veille également au respect des obl
 
 10° Les conseillers en investissements financiers ;
 
-10° bis Les conseillers en investissements participatifs ;
+10° bis Les prestataires de services de financement participatif, y compris au titre de leurs activités mentionnées à l'article L. 547-4 ;
 
 11° Les personnes, autres que celles mentionnées aux 1° et 7°, produisant et diffusant des analyses financières ;
 
@@ -52,7 +52,7 @@ II. – L'Autorité des marchés financiers veille également au respect des obl
 
 16° Les succursales agréées conformément à l'article L. 532-48 ;
 
-17° Les associations professionnelles agréées mentionnées aux articles L. 541-4 et L. 547-4 ;
+17° Les associations professionnelles agréées mentionnées à l'article L. 541-4 ;
 
 18° Les prestataires de services de communication de données agréés par l'Autorité des marchés financiers ;
 
