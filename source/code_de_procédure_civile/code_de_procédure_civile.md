@@ -2206,6 +2206,8 @@ Lorsque la procédure est introduite par acte d'huissier, l'avis mentionné à l
 
 Dans toute convention soumise à l'homologation du juge aux affaires familiales selon la procédure prévue par l'article 1143 ou par les articles 1565 et suivants, mention est faite que le mineur capable de discernement a été avisé de son droit à être entendu et assisté d'un avocat et, le cas échéant, qu'il n'a pas souhaité faire usage de cette faculté.
 
+Dans toute décision concernant un mineur capable de discernement, mention est faite que le ou les titulaires de l'exercice de l'autorité parentale, le tuteur ou, le cas échéant, la personne ou le service à qui il a été confié, se sont acquittés de leur obligation d'information prévue au premier alinéa.
+
 ### Article 338-2
 
 La demande d'audition est présentée sans forme au juge par le mineur lui-même ou par les parties. Elle peut l'être en tout état de la procédure et même pour la première fois en cause d'appel.
@@ -12900,6 +12902,10 @@ Lorsque l'accord auquel sont parvenues les parties à une médiation, une concil
 La demande est formée par écrit, en double exemplaire, auprès du greffe de la juridiction du domicile du demandeur matériellement compétente pour connaître du contentieux de la matière dont relève l'accord.
 
 Le greffier n'appose la formule exécutoire qu'après avoir vérifié sa compétence et la nature de l'acte.
+
+#### Article 1568-1
+
+Lorsque l'accord porte sur les modalités d'exercice de l'autorité parentale, il est fait mention dans l'acte de ce que le mineur capable de discernement a été avisé de son droit à être entendu et, le cas échéant, qu'il n'a pas souhaité faire usage de cette faculté. A défaut, le greffier rejette la demande.
 
 #### Article 1569
 
