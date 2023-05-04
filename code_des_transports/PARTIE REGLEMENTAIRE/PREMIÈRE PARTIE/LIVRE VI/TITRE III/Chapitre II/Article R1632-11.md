@@ -14,5 +14,5 @@ La certification technique mentionnée au 2° de l'article R. 1632-2 est délivr
 
 Les modalités et le contenu de l'évaluation, notamment la nature des matières explosives mentionnées au 1°, sont définis par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports.
 
-L'évaluation est effectuée par un service placé sous l'autorité du ministre de l'intérieur. Elle donne lieu à la perception d'un droit d'inscription dont le tarif est fixé par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports.
+L'évaluation est effectuée par un service placé sous l'autorité du ministre de l'intérieur. Elle donne lieu à la perception d'un droit d'inscription dans les conditions définies à l'article R. 613-16-6 du code de la sécurité intérieure.
 
