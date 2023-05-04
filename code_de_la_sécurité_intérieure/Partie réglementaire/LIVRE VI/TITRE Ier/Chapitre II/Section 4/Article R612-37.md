@@ -1,6 +1,6 @@
 ###### Article R612-37
 
-I. - Outre les connaissances et savoir-faire prévus à l'article R. 612-26 et, le cas échéant, aux articles R. 612-27 et R. 612-28, la certification professionnelle et le certificat de qualification professionnelle des employés attestent notamment de savoir-faire relatifs :
+I. - Outre les connaissances et savoir-faire prévus à l'article R. 612-26 et, le cas échéant, aux articles R. 612-27 à R. 612-28-1, la certification professionnelle et le certificat de qualification professionnelle des employés attestent notamment de savoir-faire relatifs :
 
 1° Aux gestes élémentaires de premier secours ;
 

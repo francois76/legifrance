@@ -95,7 +95,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-20</td>
-  <td>Résultant du décret n° 2022-198 du 17 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 612-21</td>
@@ -118,7 +118,15 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
  </tr>
  <tr>
-  <td>R. 612-26 à R. 612-29</td>
+  <td>R. 612-26 à R. 612-28</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-28-1</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-29</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
@@ -139,10 +147,22 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-37</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
-  <td>R. 612-38 et R. 612-41</td>
+  <td>R. 612-38</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 612-39</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-40</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-41</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
@@ -196,6 +216,10 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  <tr>
   <td>R. 613-16-1 et R. 613-16-2</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 613-16-4 à R. 613-16-16</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 613-19</td>
@@ -283,7 +307,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 614-1</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-2 à R. 614-5</td>
@@ -291,7 +315,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 614-6</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-7 à R. 614-10</td>
@@ -362,6 +386,10 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
+  <td>R. 617-2-3</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
   <td>R. 617-3</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
@@ -397,23 +425,11 @@ R. 625-1 à R. 625-6</td>
  </tr>
  <tr>
   <td>R. 625-17</td>
-  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+  <td>Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
  </tr>
  <tr>
-  <td>R. 625-18</td>
+  <td>R. 625-18 à R. 625-21</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
- </tr>
- <tr>
-  <td>R. 625-19</td>
-  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
- </tr>
- <tr>
-  <td>R. 625-20</td>
-  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
- </tr>
- <tr>
-  <td>R. 625-21</td>
-  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>Au titre III</td>
@@ -434,7 +450,31 @@ R. 631-1 à R. 631-22</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
-  <td>R. 632-1 à R. 634-19</td>
+  <td>R. 632-1</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
+ </tr>
+ <tr>
+  <td>R. 632-2</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 632-3 à R. 634-8</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
+ </tr>
+ <tr>
+  <td>R. 634-9</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 634-10 à R. 634-14</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
+ </tr>
+ <tr>
+  <td>R. 634-15</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 634-16 à R. 634-19</td>
   <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
  </tr>
 </tbody></table>

@@ -87,7 +87,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-20</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 612-21</td>
@@ -106,7 +106,15 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2016-515 du 26 avril 2016</td>
  </tr>
  <tr>
-  <td>R. 612-26 à R. 612-29</td>
+  <td>R. 612-26 à R. 612-28</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-28-1</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-29</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
@@ -123,10 +131,22 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-37</td>
-  <td>Résultat du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
-  <td>R. 612-38 et R. 612-41</td>
+  <td>R. 612-38</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 612-39</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-40</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-41</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
@@ -182,6 +202,10 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
+  <td>R. 613-16-4 à R. 613-16-16</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
   <td>R. 613-19</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
@@ -222,7 +246,7 @@ R. 613-88 à R. 613-92</td>
  </tr>
  <tr>
   <td>R. 614-1</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-2 à R. 614-5</td>
@@ -230,7 +254,7 @@ R. 613-88 à R. 613-92</td>
  </tr>
  <tr>
   <td>R. 614-6</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-7 à R. 614-10</td>
@@ -287,6 +311,10 @@ R. 617-1</td>
  <tr>
   <td>R. 617-2-1 et R. 617-2-2</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 617-2-3</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 617-3</td>
@@ -370,7 +398,7 @@ R. 631-1 à R. 631-22</td>
  </tr>
  <tr>
   <td>R. 632-2</td>
-  <td>Résultant du décret n° 2016-515 du 26 avril 2016</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 632-3</td>

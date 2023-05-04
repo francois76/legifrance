@@ -69,7 +69,7 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  </tr>
  <tr>
   <td>R. 612-20</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 612-21</td>
@@ -88,8 +88,16 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
   <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité</td>
  </tr>
  <tr>
-  <td>R. 612-26 à R. 612-29</td>
-  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+  <td>R. 612-26 à R. 612-28</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-28-1</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-29</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
   <td>R. 612-31 et R. 612-32</td>
@@ -105,7 +113,11 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  </tr>
  <tr>
   <td>R. 612-37</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du</td>
+ </tr>
+ <tr>
+<td/>
+  <td>décret n° 2023-50 du 1er février 2023R. 612-39Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 612-41</td>
@@ -114,6 +126,10 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  <tr>
   <td>R. 612-42</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 613-16-4 à R. 613-16-16</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 616-1 à R. 616-11</td>
@@ -130,6 +146,10 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  <tr>
   <td>R. 616-14</td>
   <td>Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 617-2-3</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 631-1 à R. 631-32</td>
@@ -149,7 +169,7 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  </tr>
  <tr>
   <td>R. 632-2</td>
-  <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 632-3</td>
