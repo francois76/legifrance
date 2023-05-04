@@ -25927,7 +25927,9 @@ La personne titulaire d'une carte professionnelle est réputée détenir une aut
 
 1° Soit permet l'exercice des activités qui relèvent de l'article L. 6342-4 du code des transports et dont l'exercice requiert une certification au titre du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile ;
 
-2° Soit implique le maniement d'une des armes mentionnées aux a et b du 1° du II et au III de l'article R. 613-3 et à l'article R. 613-41 du présent code et à l'article R. 5442-1 du code des transports.
+2° Soit implique le maniement d'une des armes mentionnées aux a et b du 1° du II et au III de l'article R. 613-3 et à l'article R. 613-41 du présent code et à l'article R. 5442-1 du code des transports ;
+
+3° Soit permet l'exercice de la mission mentionnée à l'article L. 613-7-1 A.
 
 ####### Article R612-21
 
@@ -26065,7 +26067,7 @@ Ils attestent, en outre, de savoir-faire relatifs à la mise en œuvre de ces di
 
 ####### Article R612-27
 
-Sans préjudice des connaissances, aptitudes et savoir-faire mentionnés aux articles R. 612-26 et R. 612-37, lorsque l'activité mentionnée au 1° de l'article L. 611-1 est exercée avec l'usage d'un chien, la certification professionnelle et le certificat de qualification professionnelle attestent des connaissances relatives :
+Sans préjudice des connaissances, aptitudes et savoir-faire mentionnés aux articles R. 612-26 et R. 612-37, lorsque l'activité mentionnée au 1° de l'article L. 611-1 est exercée avec l'usage d'un chien dans les conditions définies à l'article L. 613-7, la certification professionnelle et le certificat de qualification professionnelle attestent des connaissances relatives :
 
 1° Aux dispositions du code rural et de la pêche maritime relatives aux conditions de détention et d'entretien des chiens ;
 
@@ -26082,6 +26084,34 @@ La certification professionnelle et le certificat de qualification professionnel
 2° L'hygiène, l'habitat et l'entretien du chien, la connaissance des principales maladies, de la vaccination et de la psychologie canines ;
 
 3° Le filtrage, le contrôle des accès, les rondes de surveillance et les modalités d'intervention avec un chien.
+
+####### Article R612-28-1
+
+I.-Sans préjudice des connaissances, aptitudes et savoir-faire mentionnés aux articles R. 612-26 et R. 612-37, lorsque les agents exercent la mission mentionnée à l'article L. 613-7-1 A, la certification professionnelle et le certificat de qualification professionnelle attestent notamment de connaissances relatives :
+
+1° Aux dispositions du code rural et de la pêche maritime relatives aux conditions de détention et d'entretien des chiens ;
+
+2° Aux dispositions du code civil relatives aux principes de la responsabilité civile ;
+
+3° A la réglementation en matière d'identification et d'usage du chien ;
+
+4° A la réglementation et au maniement des matières explosives ;
+
+5° A l'organisation des services intervenant dans la mise en évidence d'un risque lié à la présence de matières explosives ;
+
+6° Aux différents protocoles d'intervention d'une équipe cynotechnique ;
+
+7° A l'analyse d'un environnement et à la recherche d'indices liés à la présence de matières ou d'engins explosifs.
+
+II.-La certification professionnelle et le certificat de qualification professionnelle mentionnés au I attestent également de compétences théoriques et pratiques portant au moins sur :
+
+1° Les techniques d'obéissance et de maîtrise de son animal, l'adaptabilité du chien à son environnement, les techniques de maintien à un niveau opérationnel des qualités physiques et techniques de l'équipe cynotechnique ;
+
+2° L'hygiène, l'habitat et l'entretien du chien, la connaissance des principales maladies, de la vaccination et de la psychologie canines ;
+
+3° La conduite du chien en action de mise en évidence d'un risque lié à la présence de matières explosives sur ou dans un objet délaissé dans la limite des lieux dont ils ont la garde, y compris dans les périmètres de protection institués en application de l'article L. 226-1 ;
+
+4° La conduite du chien en action de mise en évidence d'un risque lié à la présence de matières explosives dans le cadre de la sécurisation d'une zone relevant des lieux mentionnés au 3°.
 
 ####### Article R612-29
 
@@ -26133,7 +26163,7 @@ Ces mêmes personnes sont réputées justifier de l'aptitude à exercer l'activi
 
 ####### Article R612-37
 
-I. - Outre les connaissances et savoir-faire prévus à l'article R. 612-26 et, le cas échéant, aux articles R. 612-27 et R. 612-28, la certification professionnelle et le certificat de qualification professionnelle des employés attestent notamment de savoir-faire relatifs :
+I. - Outre les connaissances et savoir-faire prévus à l'article R. 612-26 et, le cas échéant, aux articles R. 612-27 à R. 612-28-1, la certification professionnelle et le certificat de qualification professionnelle des employés attestent notamment de savoir-faire relatifs :
 
 1° Aux gestes élémentaires de premier secours ;
 
@@ -26188,6 +26218,18 @@ Des entraînements réguliers doivent être suivis par les agents exerçant, ave
 4° Activité de protection de l'intégrité physique des personnes mentionnée au 3° de l'article L. 611-1.
 
 Les entraînements réguliers mentionnés au premier alinéa portent notamment sur le maniement des armes, la sécurité des armes et, le cas échéant, le tir, dans les conditions fixées par arrêté du ministre de l'intérieur.
+
+####### Article R612-39
+
+Des entraînements réguliers doivent être suivis par les agents exerçant l'activité prévue à l'article L. 613-7-1 A. Les entraînements sont réalisés avec chacun de leurs chiens.
+
+A l'issue de chaque séance, les entraînements sont inscrits dans le carnet d'entraînement de l'agent. Ce carnet mentionne le nom, le prénom, la date et le lieu de naissance de l'agent, le numéro de sa carte professionnelle ainsi que le numéro d'identification du chien. Il précise pour chaque séance la date, la durée, la nature de l'exercice, le lieu de l'entraînement, la dénomination et les quantités des matières explosives utilisées ainsi que leurs modalités de conditionnement lors de l'exercice. Lorsque l'entraînement est réalisé au moyen de supports qui ne sont pas des matières explosives, le carnet en précise en outre le type ainsi que les matières explosives à la mise en évidence desquelles les supports ont servi à entraîner le chien.
+
+Le carnet mentionne également le résultat des tests réalisés, le cas échéant de manière inopinée, par les services spécialisés mentionnés à l'article R. 733-1. Ces résultats sont communiqués à l'employeur de l'agent cynophile. En cas d'échec, ils sont également communiqués au service placé sous l'autorité du ministre de l'intérieur chargé de la certification technique mentionnée à l'article R. 613-16-4 et au représentant de l'Etat dans le département sur le territoire duquel le dispositif est employé ou, à Paris, le préfet de police, ou, dans le département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône.
+
+Les entraînements réguliers mentionnés au premier alinéa portent notamment sur la conduite du chien dans le cadre d'une activité de la mise en évidence d'un risque lié à la présence de matières explosives.
+
+Les conditions d'application du présent article, notamment la périodicité des entraînements et les caractéristiques des matières utilisées, sont définies par arrêté du ministre de l'intérieur.
 
 ####### Article R612-41
 
@@ -26428,6 +26470,110 @@ Durant le temps de la mission, lorsque l'agent n'est pas en service, les armes m
 ######## Article R613-16-3
 
 Le nombre d'armes pouvant être acquises et détenues par l'entreprise pour l'exercice des missions autorisées sur le fondement de l'article R. 613-16-1 ne peut être, pour chacun des types d'armes mentionnées au I de l'article R. 613-3, supérieur de plus de vingt pour cent au nombre d'agents de l'entreprise bénéficiaires de la carte professionnelle autorisant l'exercice de l'activité mentionnée au 1° de l'article L. 611-1 avec le port d'une arme.
+
+####### Paragraphe 6 : Utilisation d'un chien afin de mettre en évidence l'existence d'un risque lié à la présence de matières explosives
+
+######## Sous-paragraphe 1 : Conditions d'exercice
+
+######### Article R613-16-4
+
+Sans préjudice de l'article L. 612-20, nul ne peut exercer la mission mentionnée à l'article L. 613-7-1 A en tant qu'agent sans détenir une certification technique délivrée par le ministre de l'intérieur dans les conditions déterminées au sous-paragraphe 2 du présent paragraphe.
+
+######### Article R613-16-5
+
+Les services mentionnés à l'article R. 733-1 sont compétents pour réaliser des tests, le cas échéant de manière inopinée, aux fins de s'assurer de la capacité de l'agent cynophile et de son chien à mettre en évidence un risque lié à la présence de matières explosives dans le respect des procédures mentionnées à l'article R. 613-16-14.
+
+######## Sous-paragraphe 2 :  Certification technique
+
+######### Article R613-16-6
+
+La certification technique mentionnée à l'article R. 613-16-4 est délivrée à chaque agent cynophile par le ministre de l'intérieur à l'issue d'une évaluation portant sur :
+
+1° La mémorisation olfactive, par le chien, des matières explosives ;
+
+2° La capacité de l'agent cynophile et de son chien à mettre en évidence un risque lié à la présence de matières explosives sur ou dans un objet délaissé dans un lieu dont ils ont la garde ou au sein des périmètres de protection institués en application de l'article L. 226-1 ;
+
+3° La capacité de l'agent cynophile et de son chien à réaliser une action de mise en évidence d'un risque lié à la présence de matières explosives dans le cadre de la sécurisation d'une zone relevant des lieux mentionnés au 2° ;
+
+4° La capacité de l'agent à conduire son chien dans des conditions optimales de sécurité ;
+
+5° La capacité de l'agent à respecter les procédures d'intervention mentionnées à l'article R. 613-16-14.
+
+Les modalités et le contenu de l'évaluation, notamment la nature des matières explosives mentionnées au 1°, sont définis par arrêté du ministre de l'intérieur.
+
+L'évaluation est réalisée par un service placé sous l'autorité du ministre de l'intérieur. Elle donne lieu à la perception d'un droit d'inscription dont le tarif est fixé par arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
+
+######### Article R613-16-7
+
+La demande de certification technique précise le nom, les prénoms, la date et le lieu de naissance ainsi que le domicile du demandeur et, le cas échéant, de son employeur. Elle est également accompagnée des documents suivants :
+
+1° Une copie de la carte d'identification, du passeport et du carnet de vaccination du chien ;
+
+2° La copie du carnet d'entraînement de l'agent.
+
+######### Article R613-16-8
+
+Le document attestant de la certification technique mentionne :
+
+1° Le nom, les prénoms et la date de naissance du titulaire ;
+
+2° Le numéro de la carte professionnelle autorisant l'exercice de la mission mentionnée à l'article L. 613-7-1 A, lorsque le demandeur en est titulaire ;
+
+3° Le numéro d'identification du chien ;
+
+4° La date de l'évaluation de l'équipe sous l'autorité du ministre de l'intérieur ;
+
+5° La date de fin de validité de la certification technique.
+
+######### Article R613-16-9
+
+Un chien ne peut faire l'objet d'une certification technique qu'avec un seul agent sur une période donnée. Un agent ne peut bénéficier simultanément de plus de deux certifications techniques avec deux chiens.
+
+######### Article R613-16-10
+
+La certification technique est valable un an à compter de sa délivrance. Elle peut être retirée par le ministre de l'intérieur si l'agent ne dispose plus de la carte professionnelle permettant l'exercice de la mission mentionnée à l'article L. 613-7-1 A, s'il ne respecte pas les obligations prévues au présent livre, en cas d'échec lors d'un test réalisé, le cas échéant de manière inopinée, par les services mentionnés à l'article R. 733-1 du code de la sécurité intérieure, ou pour des raisons d'ordre public.
+
+En cas d'urgence, la certification technique peut être suspendue par le ministre de l'intérieur. Ce dernier, au plus tard trois mois après le début de la suspension, peut mettre fin à celle-ci ou retirer la certification technique. Dans ce délai, l'agent et son chien peuvent être convoqués par le service mentionné à l'article R. 613-16-6 afin de réaliser une partie de l'évaluation prévue par ce même article. Cette évaluation ne donne pas lieu à la perception d'un droit d'inscription mentionné à ce même article.
+
+Un même agent et son chien ne peuvent se présenter à une évaluation s'ils ont déjà échoué trois fois à celle-ci au cours des douze derniers mois.
+
+######### Article R613-16-11
+
+Le renouvellement de la certification technique intervient dans les mêmes conditions que celles prévues par le présent sous-paragraphe pour une demande initiale.
+
+La demande est accompagnée d'une copie de la carte professionnelle autorisant l'exercice de la mission mentionnée à l'article L. 613-7-1 A.
+
+L'échec de l'agent cynophile et de son chien à l'évaluation réalisée en vue de renouveler la certification technique conduit au retrait de la certification technique en cours de validité.
+
+######## Sous-paragraphe 3 :  Modalités d'exercice
+
+######### Article R613-16-12
+
+Le chien ne peut être utilisé à d'autres fins que la mise en évidence d'un risque lié à la présence de matières explosives.
+
+######### Article R613-16-13
+
+Sans préjudice de l'article R. 631-32, l'agent est responsable de l'engagement, de l'efficacité et du bien-être de son chien et veille notamment au respect de ses temps de repos fixés par arrêté du ministre de l'intérieur.
+
+######### Article R613-16-14
+
+L'agent cynophile et son chien interviennent exclusivement selon des procédures fixées par arrêté du ministre de l'intérieur, décrivant les étapes du traitement d'un objet délaissé et de la sécurisation d'une zone, les règles de sécurité ainsi que, le cas échéant, les modalités d'alerte et de coordination avec les autres personnes concernées, notamment avec les services de police, les unités de gendarmerie et les services mentionnés à l'article R. 733-1.
+
+La procédure relative à l'intervention pour le traitement des objets délaissés décrit, en outre, les mesures que le donneur d'ordre, et le cas échéant, l'employeur de l'agent cynophile, mettent impérativement en œuvre pour préparer le recours à l'agent cynophile et à son chien, notamment les mesures de sécurité destinées à assurer la protection du public présent sur les lieux ainsi que la réalisation d'une enquête visant à déterminer que l'environnement à proximité du lieu de dépose de l'objet ne comporte aucun élément suspect.
+
+La procédure relative à l'intervention dans le cadre de la sécurisation d'une zone prévoit que l'intervention ne peut se tenir en présence du public.
+
+Dans tous les cas, ces procédures s'appliquent de manière à ce que l'agent et son chien n'interviennent jamais seuls.
+
+######### Article R613-16-15
+
+Avant de déployer un agent cynophile et son chien dans un lieu ou au sein d'un périmètre de protection institué en application de l'article L. 226-1, l'employeur de l'agent cynophile en informe le représentant de l'Etat dans le département sur le territoire duquel le dispositif est employé ou, à Paris, le préfet de police, ou, dans le département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône.
+
+Cette déclaration préalable mentionne l'objet du recours à un agent et son chien parmi ceux énumérés aux 2° et 3° de l'article R. 613-16-5. Une copie est adressée au directeur du Conseil national des activités privées de sécurité.
+
+######### Article R613-16-16
+
+L'aptitude professionnelle de l'agent et de son chien doit pouvoir être attestée à tout moment, au moyen de la carte professionnelle de l'agent et du document établissant sa certification technique ainsi que de son carnet d'entraînement lors de toute réquisition des services de police, de gendarmerie et des services mentionnés à l'article R. 733-1 ainsi qu'aux agents du Conseil national des activités privées de sécurité. Le carnet d'entraînement peut être visé par ces services.
 
 ###### Sous-section 2 : Coordination avec les services de la police nationale et de la gendarmerie nationale
 
@@ -27552,6 +27698,28 @@ La récidive des contraventions prévues au présent article est réprimée conf
 et
 132-15
 du code pénal.
+
+###### Article R617-2-3
+
+I.-Est puni de l'amende prévue pour les contraventions de la cinquième classe, le fait pour un agent mentionné à l'article L. 613-7-1 A :
+
+1° D'utiliser le chien avec lequel il forme une équipe cynotechnique à d'autres fins que celle mentionnée à l'article L. 613-7-1 A ;
+
+2° De partager la conduite d'un même chien, en méconnaissance de l'article R. 613-16-9 ;
+
+3° De détenir simultanément plus de deux certifications techniques et de conduire plus de deux chiens, en méconnaissance de l'article R. 613-16-9 ;
+
+4° De ne pas respecter les procédures d'intervention, en méconnaissance de l'article R. 613-16-14.
+
+Est également puni de l'amende prévue pour les contraventions de la cinquième classe le fait d'employer, aux fins d'exercer la mission mentionnée à l'article L. 613-7-1 A, un agent qui ne satisfait pas aux conditions prévues à l'article R. 613-16-4.
+
+La récidive des contraventions prévues au présent I est réprimée dans les conditions prévues par les articles 132-11 et 132-15 du code pénal.
+
+II.-Est puni de l'amende prévue pour les contraventions de la quatrième classe :
+
+1° Le fait pour un agent mentionné à l'article L. 613-7-1 A de ne pas être porteur de sa certification technique et de son carnet d'entraînement, en méconnaissance de l'article R. 613-16-16 ;
+
+2° Le fait pour l'employeur d'un agent cynophile de ne pas informer, avant le déploiement de l'agent cynophile et de son chien, le représentant de l'Etat dans le département sur le territoire duquel le dispositif est employé ou, à Paris, le préfet de police, ou, dans le département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, en méconnaissance de l'article R. 613-16-15.
 
 ###### Article R617-3
 
@@ -29108,7 +29276,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-20</td>
-  <td>Résultant du décret n° 2022-198 du 17 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 612-21</td>
@@ -29131,7 +29299,15 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
  </tr>
  <tr>
-  <td>R. 612-26 à R. 612-29</td>
+  <td>R. 612-26 à R. 612-28</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-28-1</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-29</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
@@ -29152,10 +29328,22 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-37</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
-  <td>R. 612-38 et R. 612-41</td>
+  <td>R. 612-38</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 612-39</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-40</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-41</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
@@ -29209,6 +29397,10 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  <tr>
   <td>R. 613-16-1 et R. 613-16-2</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 613-16-4 à R. 613-16-16</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 613-19</td>
@@ -29296,7 +29488,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 614-1</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-2 à R. 614-5</td>
@@ -29304,7 +29496,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 614-6</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-7 à R. 614-10</td>
@@ -29375,6 +29567,10 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
+  <td>R. 617-2-3</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
   <td>R. 617-3</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
@@ -29410,23 +29606,11 @@ R. 625-1 à R. 625-6</td>
  </tr>
  <tr>
   <td>R. 625-17</td>
-  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+  <td>Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
  </tr>
  <tr>
-  <td>R. 625-18</td>
+  <td>R. 625-18 à R. 625-21</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
- </tr>
- <tr>
-  <td>R. 625-19</td>
-  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
- </tr>
- <tr>
-  <td>R. 625-20</td>
-  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
- </tr>
- <tr>
-  <td>R. 625-21</td>
-  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
  </tr>
  <tr>
   <td>Au titre III</td>
@@ -29447,7 +29631,31 @@ R. 631-1 à R. 631-22</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
-  <td>R. 632-1 à R. 634-19</td>
+  <td>R. 632-1</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
+ </tr>
+ <tr>
+  <td>R. 632-2</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 632-3 à R. 634-8</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
+ </tr>
+ <tr>
+  <td>R. 634-9</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 634-10 à R. 634-14</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
+ </tr>
+ <tr>
+  <td>R. 634-15</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 634-16 à R. 634-19</td>
   <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
  </tr>
 </tbody></table>
@@ -29498,15 +29706,25 @@ Pour l'application en Polynésie française des dispositions des titres Ier et I
 
 "2° Soit d'un certificat professionnel élaboré et délivré par la branche professionnelle de l'activité concernée, agréée par le haut-commissaire de la République en Polynésie française ;"
 
+6° bis A l'article R. 612-28-1, la référence au code rural et de la pêche maritime est remplacée par la référence aux dispositions applicables localement ayant le même objet ;
+
 7° A l'article R. 612-35, les mots : "pendant deux ans dans la période comprise entre le 10 septembre 2003 et le 9 septembre 2008 inclus" sont remplacés par les mots : "pendant deux ans dans la période comprise entre le 10 juin 2009 et le 1er septembre 2013" ;8° Les 1° et 2° de l'article R. 612-38 sont remplacés par les dispositions suivantes :
 
 "1° Soit de manière continue entre le 1er septembre 2012 et le 1er septembre 2013 inclus ;
 
 " 2° Soit pendant 1 607 heures durant une période de trente-six mois comprise entre le 1er janvier 2010 et le 1er septembre 2013." ;
 
+8° bis A l'article R. 612-39 et à l'article R. 613-16-10, les mots : “, le cas échéant de manière inopinée, par les services spécialisés mentionnés à l'article R. 733-1 ” sont supprimés ;
+
 9° Le 1° de l'article R. 613-7 est remplacé par les dispositions suivantes :
 
 “ 1° Un extrait du registre du commerce mentionnant la raison sociale de l'entreprise ; ”
+
+9° bis L'article R. 613-16-5 est supprimé ;
+
+9° ter A l'article R. 613-16-14, les mots : “ et les services mentionnés à l'article R. 733-1 ” sont supprimés ;
+
+9° quater A l'article R. 613-16-16, les mots : “ et des services mentionnés à l'article R. 733-1 ” sont supprimés ;
 
 10° L'article R. 613-24 est ainsi rédigé :
 
@@ -29604,7 +29822,7 @@ Pour l'application en Polynésie française des dispositions des titres Ier et I
 
 a) (Abrogé)
 
-b) Les mots : " classés au a du 2° de la catégorie D" sont supprimés ;
+b) Les mots : " classés au a de la catégorie D" sont supprimés ;
 
 c) Les mots : "mentionnés à l'article L. 271-1" sont remplacés par les mots : "mentionnés au 9° de l'article L. 645-1" ;
 
@@ -29755,7 +29973,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-20</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 612-21</td>
@@ -29778,7 +29996,15 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
  </tr>
  <tr>
-  <td>R. 612-26 à R. 612-29</td>
+  <td>R. 612-26 à R. 612-28</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-28-1</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-29</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
@@ -29799,10 +30025,22 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-37</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
-  <td>R. 612-38 et R. 612-41</td>
+  <td>R. 612-38</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 612-39</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-40</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-41</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
@@ -29863,6 +30101,10 @@ R. 613-4</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
+  <td>R. 613-16-4 à R. 613-16-16</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
   <td>R. 613-19</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
@@ -29912,7 +30154,7 @@ R. 613-41</td>
  </tr>
  <tr>
   <td>R. 614-1</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-2 à R. 614-5</td>
@@ -29920,7 +30162,7 @@ R. 613-41</td>
  </tr>
  <tr>
   <td>R. 614-6</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-7 à R. 614-10</td>
@@ -29995,6 +30237,10 @@ R. 617-1</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
+  <td>R. 617-2-3</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
   <td>R. 617-3</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
@@ -30030,26 +30276,17 @@ R. 625-1 à R. 625-6</td>
  </tr>
  <tr>
   <td>R. 625-17</td>
-  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
+  <td>Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
  </tr>
  <tr>
-  <td>R. 625-18</td>
+  <td>R. 625-18 à R. 625-21</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+  <td align="left"/>
  </tr>
  <tr>
-  <td>R. 625-19</td>
-  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
- </tr>
- <tr>
-  <td>R. 625-20</td>
-  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
- </tr>
- <tr>
-  <td>R. 625-21</td>
-  <td>Résultant du décret n° 2023-252 du 4 avril 2023</td>
- </tr>
- <tr>
-  <td>Au titre III</td>
+<td align="left">
+
+Au titre III</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -30067,8 +30304,32 @@ R. 631-1 à R. 631-22</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
-  <td>R. 632-1 à R. 634-19</td>
-  <td>Résultant du décret n° 2022-499 du 30 mars 2022</td>
+  <td>R. 632-1</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
+ </tr>
+ <tr>
+  <td>R. 632-2</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 632-3 à R. 634-8</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
+ </tr>
+ <tr>
+  <td>R. 634-9</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 634-10 à R. 634-14</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
+ </tr>
+ <tr>
+  <td>R. 634-15</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 634-16 à R. 634-19</td>
+  <td>Résultant du décret n° 2022-449 du 30 mars 2022</td>
  </tr>
 </tbody></table>
 
@@ -30116,6 +30377,8 @@ Pour l'application des dispositions des titres I et III du présent livre en Nou
 
 "2° Soit d'un certificat professionnel élaboré et délivré par la branche professionnelle de l'activité concernée, agréée par le haut-commissaire de la République en Nouvelle-Calédonie et inscrit au répertoire de la certification professionnelle de la Nouvelle-Calédonie ;"
 
+6° bis A l'article R. 612-28-1, les références au code rural et de la pêche maritime et au code civil sont remplacées par la référence aux dispositions applicables localement ayant le même objet ;
+
 7° A l'article R. 612-35, les mots : " pendant deux ans dans la période comprise entre le 10 septembre 2003 et le 9 septembre 2008 inclus " sont remplacés par les mots : " pendant deux ans dans la période comprise entre le 10 juin 2009 et le 1er septembre 2013 " ;
 
 8° Les 1° et 2° de l'article R. 612-38 sont remplacés par les dispositions suivantes :
@@ -30128,15 +30391,17 @@ Pour l'application des dispositions des titres I et III du présent livre en Nou
 
 “ 1° Un extrait du registre du commerce mentionnant la raison sociale de l'entreprise ; ”
 
-9° (Abrogé)
+8° ter A l'article R. 612-39 et R. 613-16-10, les mots : “, le cas échéant de manière inopinée, par les services spécialisés mentionnés à l'article R. 733-1 ” sont supprimés ;
 
-10° (Abrogé)
-
-11° (Abrogé)
+8° quater L'article R. 613-16-5 est supprimé ;
 
 9° - Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
 
 "III. - Les titres de formation professionnelle maritime délivrés par l'autorité localement compétente en Nouvelle-Calédonie sont reconnus dans les conditions prévues aux articles R. 374-6 à R. 374-12 du code de l'éducation."
+
+9° bis A l'article R. 613-16-14, les mots : “ et les services mentionnés à l'article R. 733-1 ” sont supprimés ;
+
+9° ter A l'article R. 613-16-16, les mots : “ et des services mentionnés à l' article R. 733-1 ” sont supprimés ;
 
 10° A l'article R. 625-2 :
 
@@ -30247,7 +30512,7 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-20</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 612-21</td>
@@ -30266,7 +30531,15 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2016-515 du 26 avril 2016</td>
  </tr>
  <tr>
-  <td>R. 612-26 à R. 612-29</td>
+  <td>R. 612-26 à R. 612-28</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-28-1</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-29</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
@@ -30283,10 +30556,22 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
  </tr>
  <tr>
   <td>R. 612-37</td>
-  <td>Résultat du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
-  <td>R. 612-38 et R. 612-41</td>
+  <td>R. 612-38</td>
+  <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 612-39</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-40</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-41</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
@@ -30342,6 +30627,10 @@ R. 611-1 (à l'exception du 1°) et R. 611-2</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
  </tr>
  <tr>
+  <td>R. 613-16-4 à R. 613-16-16</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
   <td>R. 613-19</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
@@ -30382,7 +30671,7 @@ R. 613-88 à R. 613-92</td>
  </tr>
  <tr>
   <td>R. 614-1</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-2 à R. 614-5</td>
@@ -30390,7 +30679,7 @@ R. 613-88 à R. 613-92</td>
  </tr>
  <tr>
   <td>R. 614-6</td>
-  <td>Résultant du décret n° 2018-542 du 29 juin 2018</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 614-7 à R. 614-10</td>
@@ -30447,6 +30736,10 @@ R. 617-1</td>
  <tr>
   <td>R. 617-2-1 et R. 617-2-2</td>
   <td>Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+ </tr>
+ <tr>
+  <td>R. 617-2-3</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 617-3</td>
@@ -30530,7 +30823,7 @@ R. 631-1 à R. 631-22</td>
  </tr>
  <tr>
   <td>R. 632-2</td>
-  <td>Résultant du décret n° 2016-515 du 26 avril 2016</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 632-3</td>
@@ -30646,6 +30939,8 @@ Pour l'application des dispositions des titres Ier et III du présent livre dans
 
 " Art. R. 612-24.-Les exploitants individuels, les dirigeants et les gérants ainsi que les employés des entreprises exerçant l'une des activités mentionnées à l'article L. 611-1 du présent code justifient de leur aptitude professionnelle par la détention de l'un des justificatifs exigés en métropole, en Nouvelle-Calédonie ou en Polynésie française." ;
 
+6° bis A l'article R. 612-28-1, la référence au code rural et de la pêche maritime est remplacée par la référence aux dispositions applicables localement ayant le même objet ;
+
 7° A l'article R. 612-35, les mots : "pendant deux ans dans la période comprise entre le 10 septembre 2003 et le 9 septembre 2008 inclus" sont remplacés par les mots : "pendant deux ans dans la période comprise entre le 10 juin 2009 et le 1er septembre 2013" ;
 
 8° Les 1° et 2° de l'article R. 612-38 sont remplacés par les dispositions suivantes :
@@ -30654,13 +30949,21 @@ Pour l'application des dispositions des titres Ier et III du présent livre dans
 
 "2° Soit pendant 1 607 heures durant une période de trente-six mois comprise entre le 1er janvier 2010 et le 1er septembre 2013." ;
 
+8° bis A l'article R. 612-39 et R. 613-16-10, les mots : “, le cas échéant de manière inopinée, par les services spécialisés mentionnés à l'article R. 733-1 ” sont supprimés ;
+
 9° Le 1° de l'article R. 613-7 est remplacé par les dispositions suivantes :
 
 “ 1° Un extrait du registre du commerce mentionnant la raison sociale de l'entreprise ; ”
 
+9° bis L'article R. 613-16-5 est supprimé ;
+
+9° ter A l'article R. 613-16-14, les mots : “ et les services mentionnés à l'article R. 733-1 ” sont supprimés ;
+
+9° quater A l'article R. 613-16-16, les mots : “ et des services mentionnés à l'article R. 733-1 ” sont supprimés ;
+
 10° Aux articles R. 614-1 et R. 614-6 :
 
-a) Les mots : "des armes classées au 8° de la catégorie B et au b du 2° de la catégorie D" sont remplacés par les mots : "des armes classées selon la réglementation applicable localement" ;
+a) Les mots : "des armes classées au 8° de la catégorie B et au b de la catégorie D" sont remplacés par les mots : "des armes classées selon la réglementation applicable localement" ;
 
 b) Les mots : "classés au a du 2° de la catégorie D" sont supprimés ;
 
@@ -30763,7 +31066,7 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  </tr>
  <tr>
   <td>R. 612-20</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 612-21</td>
@@ -30782,8 +31085,16 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
   <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité</td>
  </tr>
  <tr>
-  <td>R. 612-26 à R. 612-29</td>
-  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+  <td>R. 612-26 à R. 612-28</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 612-28-1</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
+ </tr>
+ <tr>
+  <td>R. 612-29</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
  </tr>
  <tr>
   <td>R. 612-31 et R. 612-32</td>
@@ -30799,7 +31110,11 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  </tr>
  <tr>
   <td>R. 612-37</td>
-  <td>Résultant du décret n° 2022-209 du 18 février 2022</td>
+  <td>Résultant du</td>
+ </tr>
+ <tr>
+<td/>
+  <td>décret n° 2023-50 du 1er février 2023R. 612-39Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 612-41</td>
@@ -30808,6 +31123,10 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  <tr>
   <td>R. 612-42</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 613-16-4 à R. 613-16-16</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 616-1 à R. 616-11</td>
@@ -30824,6 +31143,10 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  <tr>
   <td>R. 616-14</td>
   <td>Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+ </tr>
+ <tr>
+  <td>R. 617-2-3</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 631-1 à R. 631-32</td>
@@ -30843,7 +31166,7 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
  </tr>
  <tr>
   <td>R. 632-2</td>
-  <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité</td>
+  <td>Résultant du décret n° 2023-50 du 1er février 2023</td>
  </tr>
  <tr>
   <td>R. 632-3</td>
@@ -30923,7 +31246,17 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
 
 Pour l'application du titre Ier du présent livre dans les Terres australes et antarctiques françaises :
 
-1° Au second alinéa de l'article R. 612-5, les mots : “ unique d'identification ” sont remplacés par les mots : “ d'immatriculation au registre du commerce et des sociétés ”.
+1° Au second alinéa de l'article R. 612-5, les mots : “ unique d'identification ” sont remplacés par les mots : “ d'immatriculation au registre du commerce et des sociétés ” ;
+
+2° A l'article R. 612-28-1, la référence au code rural et de la pêche maritime est remplacée par la référence aux dispositions applicables localement ayant le même objet ;
+
+3° L'article R. 613-16-5 est supprimé ;
+
+4° Aux articles R. 612-39 et R. 613-16-10, les mots : “, le cas échéant de manière inopinée, par les services mentionnés à l'article R. 733-1 du code de la sécurité intérieure ” sont supprimés ;
+
+5° A l'article R. 613-16-14, les mots : “ et les services mentionnés à l'article R. 733-1 ” sont supprimés ;
+
+5° bis A l'article R. 613-16-16, les mots : “ et des services mentionnés à l'article R. 733-1 ” sont supprimés.
 
 ## LIVRE VII : SÉCURITÉ CIVILE
 
