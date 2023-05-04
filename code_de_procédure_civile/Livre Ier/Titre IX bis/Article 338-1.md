@@ -8,3 +8,5 @@ Lorsque la procédure est introduite par acte d'huissier, l'avis mentionné à l
 
 Dans toute convention soumise à l'homologation du juge aux affaires familiales selon la procédure prévue par l'article 1143 ou par les articles 1565 et suivants, mention est faite que le mineur capable de discernement a été avisé de son droit à être entendu et assisté d'un avocat et, le cas échéant, qu'il n'a pas souhaité faire usage de cette faculté.
 
+Dans toute décision concernant un mineur capable de discernement, mention est faite que le ou les titulaires de l'exercice de l'autorité parentale, le tuteur ou, le cas échéant, la personne ou le service à qui il a été confié, se sont acquittés de leur obligation d'information prévue au premier alinéa.
+
