@@ -1,4 +1,6 @@
 ###### Article R461-13
 
-Le ministre chargé de la culture prend la décision de reconnaissance mentionnée à l'article L. 361-2 au vu d'un rapport d'inspection portant sur le respect des dispositions des articles R. 461-8 à R. 461-11.
+Avant l'expiration du délai mentionné à l'article R. 461-12, le préfet de région peut diligenter une mission d'expertise chargée de poursuivre l'instruction de la demande. Le demandeur en est informé. La mission est conduite par le service compétent de la direction générale de la création artistique.
+
+Le délai mentionné à l'article R. 461-12 est alors porté à dix mois.
 
