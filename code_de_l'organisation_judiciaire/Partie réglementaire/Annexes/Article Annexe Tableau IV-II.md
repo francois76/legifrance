@@ -273,7 +273,7 @@ DE PROXIMITE</th>
  </tr>
  <tr>
   <td>Boulogne-sur-Mer</td>
-  <td>Montreuil, Calais.</td>
+  <td>Montreuil-sur-Mer, Calais.</td>
  </tr>
  <tr>
   <td>Dunkerque</td>

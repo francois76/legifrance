@@ -467,7 +467,7 @@ Cantons de Brantôme, Bussière-Badil, Champagnac-de-Belair, Excideuil, Hautefor
   <td>Bordeaux</td>
   <td align="left"/><td align="justify">
 
-Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon.</td>
+Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac-sur-Garonne, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon.</td>
  </tr>
  <tr>
   <td align="left"/><td align="left">
@@ -886,8 +886,8 @@ Cantons de Boulogne-sur-Mer-Nord-Est, Boulogne-sur-Mer-Nord-Ouest, Boulogne-sur-
  <tr>
   <td align="left"/><td align="left">
 
-Montreuil</td>
-  <td align="justify">Cantons de Berck, Campagne-lès-Hesdin, Étaples, Fruges, Hesdin, Hucqueliers et Montreuil.</td>
+Montreuil-sur-Mer</td>
+  <td align="justify">Cantons de Berck, Campagne-lès-Hesdin, Étaples, Fruges, Hesdin, Hucqueliers et Montreuil-sur-Mer.</td>
  </tr>
  <tr>
   <td align="left"/><td align="left">
