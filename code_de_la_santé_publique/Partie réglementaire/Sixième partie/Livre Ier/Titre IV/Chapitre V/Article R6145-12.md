@@ -10,7 +10,7 @@ Les dépenses et les recettes imputables aux activités assurées par les établ
 
 4° Les établissements et services d'hébergement des personnes âgées, mentionnés au 6° du I de l'article L. 312-1 du code de l'action sociale et des familles ;
 
-5° Les services de soins infirmiers à domicile ;
+5° Les services autonomie à domicile relevant du 1° de l'article L. 313-1-3 du code de l'action sociale et des familles au titre de leur activité de soins ;
 
 6° Les autres activités mentionnées au premier alinéa de l'article L. 6111-3, regroupées en un ou plusieurs comptes de résultat prévisionnels annexes ;
 

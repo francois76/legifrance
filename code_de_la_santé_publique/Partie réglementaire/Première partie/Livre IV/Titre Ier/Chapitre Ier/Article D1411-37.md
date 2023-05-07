@@ -90,7 +90,7 @@ ii) Trois représentants des conférences des présidents de commissions et conf
 
 iii) Un représentant des établissements assurant une activité d'hospitalisation à domicile, désigné sur proposition d'une organisation représentative dans cette activité ;
 
-iv) Un représentant des services de soins infirmiers à domicile, désigné sur proposition d'une organisation représentative de ces services ;
+iv) Un représentant des services autonomie à domicile relevant du 1° de l'article L. 313-1-3 du code de l'action sociale et des familles au titre de leur activité de soins, désigné sur proposition d'une organisation représentative de ces services ;
 
 v) Un représentant des personnes morales gestionnaires d'institutions accompagnant des personnes handicapées, désigné sur proposition du conseil national consultatif des personnes handicapées ;
 
