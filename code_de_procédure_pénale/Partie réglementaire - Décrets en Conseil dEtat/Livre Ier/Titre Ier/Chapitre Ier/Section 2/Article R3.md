@@ -16,7 +16,7 @@ La commission prévue à l'article 16 (2° et 4°) du code de procédure pénale
 
 7° Le chef de l'inspection générale de la gendarmerie nationale ou son représentant ;
 
-8° Le directeur des personnels militaires de la gendarmerie nationale ou son représentant.
+8° Le commandant des écoles de la gendarmerie nationale ou son représentant.
 
 En cas de partage des voix, le président de la commission a voix prépondérante.
 

@@ -8,7 +8,7 @@ Le jury de l'examen technique d'officier de police judiciaire de la gendarmerie 
 
 3° Le chef de l'inspection générale de la gendarmerie nationale ou son représentant ;
 
-4° Le directeur des personnels militaires de la gendarmerie nationale ou son représentant ;
+4° Le commandant des écoles de la gendarmerie nationale ou son représentant ;
 
 5° Des magistrats en activité ou honoraires ;
 

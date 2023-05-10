@@ -1,6 +1,6 @@
 ###### Article R15-2
 
-Le procureur général prononce le retrait ou, pour une durée n'excédant pas deux ans, la suspension de l'habilitation à exercer les attributions attachées à la qualité d'officier de police judiciaire, par arrêté pris soit d'office, soit sur la proposition du commandant du groupement ou du commandant régional de la gendarmerie.
+Le procureur général du lieu d'exercice habituel des fonctions de l'officier de police judiciaire prononce le retrait ou, pour une durée n'excédant pas deux ans, la suspension de l'habilitation à exercer les attributions attachées à la qualité d'officier de police judiciaire, par arrêté pris soit d'office, soit sur la proposition du commandant du groupement ou du commandant régional de la gendarmerie.
 
 Il entend préalablement l'officier de police judiciaire qui peut prendre connaissance du dossier relatif aux faits qui lui sont reprochés et se faire assister d'un conseil de choix.
 

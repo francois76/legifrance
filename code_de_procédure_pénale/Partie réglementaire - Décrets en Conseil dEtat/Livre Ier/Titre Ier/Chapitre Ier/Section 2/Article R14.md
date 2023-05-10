@@ -1,6 +1,6 @@
 ###### Article R14
 
-La demande d'habilitation est adressée au procureur général près la cour d'appel dans le ressort de laquelle l'officier de police judiciaire exerce habituellement ses fonctions d'officier de police judiciaire. Cette demande est transmise par :
+La demande d'habilitation est adressée au procureur général près la cour d'appel dans le ressort de laquelle intervient la première affectation de l'officier de police judiciaire. Cette demande est transmise par :
 
 a) Le directeur général de la gendarmerie nationale pour les commandants de région, les commandants des formations de gendarmerie directement rattachées à l'administration centrale et les chefs des services et commandants d'unités à compétence nationale ;
 

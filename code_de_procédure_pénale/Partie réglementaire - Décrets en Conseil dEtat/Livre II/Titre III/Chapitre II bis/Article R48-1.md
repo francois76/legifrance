@@ -84,7 +84,7 @@ b) Contraventions réprimées par les articles R. 1337-7 et R. 1337-9 du code de
 
 13° Contraventions réprimées par l'article R. 644-4 du code pénal relatif à la participation à une manifestation interdite sur la voie publique ;
 
-14° Contraventions en matière d'aéronefs circulant sans personne à bord réprimées par les articles R. 151-2 et R. 151-3 du code de l'aviation civile ;
+14° Contraventions en matière d'aéronefs circulant sans équipage à bord réprimées par les articles R. 151-2 à R. 151-3-1 du code de l'aviation civile ;
 
 15° Contraventions réprimées par l'article R. 644-3 du code pénal relatif à l'acquisition de produits du tabac manufacturé vendus à la sauvette ;
 
