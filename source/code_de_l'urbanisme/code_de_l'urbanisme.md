@@ -20184,8 +20184,6 @@ La déclaration préalable portant sur un projet de construction prévue aux art
 
 Lorsque les travaux portent sur une maison individuelle ou ses annexes, la déclaration préalable peut être établie conformément au formulaire enregistré par le secrétariat général pour la modernisation de l'action publique sous le numéro Cerfa 13703.
 
-La déclaration préalable précise également les éléments nécessaires au calcul des impositions prévus à l'article R. 431-35, établis conformément au modèle joint aux formulaires susmentionnés.
-
 ###### Article A431-2
 
 Le déclarant annexe à la déclaration préalable un bordereau de dépôt, établi conformément au modèle annexé au formulaire mentionné à l'article A. 431-1, identifiant celles des pièces qui sont jointes à la déclaration.
@@ -20203,8 +20201,6 @@ La demande de permis de construire prévue aux articles R. 421-1 et R. 421-14 à
 a) Sous le numéro Cerfa 13406 lorsque la demande porte sur une maison individuelle ou ses annexes ;
 
 b) Sous le numéro Cerfa 13409 lorsque la demande porte sur une construction autre qu'une maison individuelle ou ses annexes.
-
-La demande de permis de construire contient également la déclaration des éléments nécessaires au calcul des impositions prévus à l'article R. 431-5, établie conformément au modèle joint aux formulaires susmentionnés.
 
 ###### Article A431-5
 
@@ -20260,7 +20256,7 @@ d) Une notice explicative portant sur le cheminement des charges verticales et h
 
 ##### Article A434-1
 
-Les modèles de formulaires, de bordereaux de dépôt des pièces jointes, de récépissés et de déclarations des éléments nécessaires au calcul des impositions prévus par les sections I et II du chapitre Ier peuvent être obtenus auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme et sont disponibles sur le site internet officiel de l'administration française : http://www.service-public.fr/.
+Les modèles de formulaires, de bordereaux de dépôt des pièces jointes et de récépissés prévus par les sections I et II du chapitre Ier peuvent être obtenus auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme et sont disponibles sur le site internet officiel de l'administration française : http://www.service-public.fr/.
 
 ### Titre  IV : Dispositions propres aux aménagements
 
@@ -20287,8 +20283,6 @@ Le récépissé de déclaration préalable portant sur un projet d'aménagement 
 ###### Article A441-4
 
 La demande de permis d'aménager prévue aux articles R. 421-18 à R. 421-22 est établie conformément au formulaire enregistré par le secrétariat général pour la modernisation de l'action publique sous le numéro Cerfa 13409.
-
-La demande de permis d'aménager contient également la déclaration des éléments nécessaires au calcul des impositions prévus à l'article R. 441-1, établie conformément au modèle joint au formulaire susmentionné.
 
 ###### Article A441-5
 
@@ -20326,7 +20320,7 @@ Lorsque la demande prévoit l'édification, par l'aménageur, de constructions �
 
 ##### Article A444-1
 
-Les modèles de formulaires, de bordereaux de dépôt des pièces jointes, de récépissés et de déclarations des éléments nécessaires au calcul des impositions prévus par les sections I et II du chapitre Ier peuvent être obtenus auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme et sont disponibles sur le site internet officiel de l'administration française : http://www.service-public.fr/.
+Les modèles de formulaires, de bordereaux de dépôt des pièces jointes et de récépissés prévus par les sections I et II du chapitre Ier peuvent être obtenus auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme et sont disponibles sur le site internet officiel de l'administration française : http://www.service-public.fr/.
 
 ### Titre  V : Dispositions propres aux démolitions
 
