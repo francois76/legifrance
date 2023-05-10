@@ -20347,7 +20347,7 @@ La commission prévue à l'article 16 (2° et 4°) du code de procédure pénale
 
 7° Le chef de l'inspection générale de la gendarmerie nationale ou son représentant ;
 
-8° Le directeur des personnels militaires de la gendarmerie nationale ou son représentant.
+8° Le commandant des écoles de la gendarmerie nationale ou son représentant.
 
 En cas de partage des voix, le président de la commission a voix prépondérante.
 
@@ -20355,13 +20355,13 @@ Les membres de la commission mentionnés au 2° sont nommés par arrêté conjoi
 
 ####### Article R4
 
-Le secrétariat de la commission est assuré par la sous-direction des compétences de la gendarmerie nationale et la direction centrale du recrutement et de la formation de la police nationale.
+Le secrétariat de la commission est assuré par le commandement des écoles de la gendarmerie nationale et la direction centrale du recrutement et de la formation de la police nationale.
 
 ####### Article R5
 
 La qualité d'officier de police judiciaire peut être attribuée :
-- aux sous-officiers de carrière de gendarmerie ayant satisfait aux épreuves d'un examen technique ;
-- aux fonctionnaires du corps d'encadrement et d'application de la police nationale ayant satisfait aux épreuves d'un examen technique et comptant au moins trois ans de service dans ce corps.
+- aux sous-officiers de gendarmerie ayant satisfait aux épreuves d'un examen technique et comptant au moins trente mois de services à compter du début de leur formation initiale, dont au moins six mois effectués dans un emploi comportant l'exercice des attributions attachées à la qualité d'agent de police judiciaire ;
+- aux fonctionnaires du corps d'encadrement et d'application de la police nationale ayant satisfait aux épreuves d'un examen technique et comptant au moins trente mois de services à compter du début de leur formation initiale, dont au moins six mois effectués dans un emploi comportant l'exercice des attributions attachées à la qualité d'agent de police judiciaire.
 
 Les modalités d'organisation et le programme des épreuves de l'examen technique prévu aux deuxième et troisième alinéas sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'intérieur.
 
@@ -20379,7 +20379,7 @@ Le jury de l'examen technique d'officier de police judiciaire de la gendarmerie 
 
 3° Le chef de l'inspection générale de la gendarmerie nationale ou son représentant ;
 
-4° Le directeur des personnels militaires de la gendarmerie nationale ou son représentant ;
+4° Le commandant des écoles de la gendarmerie nationale ou son représentant ;
 
 5° Des magistrats en activité ou honoraires ;
 
@@ -20435,13 +20435,19 @@ L'attribution de la qualité d'officier de police judiciaire aux candidats reçu
 
 ####### A : Habilitation des officiers de police judiciaire de la gendarmerie
 
+######## Article R11
+
+Ne sont pas considérées comme donnant lieu à une première affectation au sens de l'avant-dernier alinéa de l'article 16, les étapes du cursus au cours desquelles les officiers de gendarmerie mentionnés au 2° du même article bénéficient, pour les besoins et dans le cadre de leur formation initiale et complémentaire, de la qualité d'officier de police judiciaire. Dans ce cas, une habilitation est délivrée pour toute la durée de la scolarité par le procureur général près la cour d'appel dans le ressort de laquelle est implanté le lieu de formation et prend fin à l'issue de celle-ci.
+
+Par dérogation au précédent alinéa, les élèves admis à l'Ecole des officiers de la gendarmerie au titre du décret n° 2008-946 du 12 septembre 2008 portant statut particulier du corps des officiers de gendarmerie qui disposent d'une habilitation d'officier de police judiciaire conservent le bénéfice de cette habilitation pendant leur formation initiale et complémentaire et à l'issue de leur scolarité.
+
 ######## Article R13
 
-Les militaires de la gendarmerie mentionnés à l'article 16 (2°) ne peuvent être habilités à exercer effectivement les attributions attachées à leur qualité d'officier de police judiciaire que lorsqu'ils sont affectés à un emploi comportant l'exercice de ces attributions.
+Les militaires de la gendarmerie mentionnés au 2° de l'article 16 ne peuvent être habilités à exercer effectivement les attributions attachées à leur qualité d'officier de police judiciaire que lorsqu'ils sont affectés à un emploi comportant l'exercice de ces attributions.
 
 ######## Article R14
 
-La demande d'habilitation est adressée au procureur général près la cour d'appel dans le ressort de laquelle l'officier de police judiciaire exerce habituellement ses fonctions d'officier de police judiciaire. Cette demande est transmise par :
+La demande d'habilitation est adressée au procureur général près la cour d'appel dans le ressort de laquelle intervient la première affectation de l'officier de police judiciaire. Cette demande est transmise par :
 
 a) Le directeur général de la gendarmerie nationale pour les commandants de région, les commandants des formations de gendarmerie directement rattachées à l'administration centrale et les chefs des services et commandants d'unités à compétence nationale ;
 
@@ -20455,9 +20461,9 @@ d) Le chef de service dont dépend l'officier de police judiciaire lorsqu'il est
 
 La demande précise la nature des fonctions confiées à l'officier de police judiciaire et le service ou l'unité au sein duquel il sera appelé à les exercer habituellement.
 
-Elle précise également si, au cours du précédent emploi pour lequel il avait été habilité, l'officier de police judiciaire a été définitivement sanctionné pour des fautes disciplinaires constituant des manquements à l'honneur, à la probité ou des insuffisances professionnelles graves.
+Elle précise également si, au cours d'une précédente affectation, la personne a été définitivement sanctionnée pour des fautes disciplinaires constituant des manquements à l'honneur, à la probité ou des insuffisances professionnelles graves.
 
-Le procureur général saisi de la demande est informé, dans les meilleurs délais, des sanctions éventuellement intervenues pour des manquements à l'honneur, à la probité ou des insuffisances professionnelles graves, commis au cours du précédent emploi pour lequel l'officier de police judiciaire avait été habilité, lorsque, au moment de la demande :
+Le procureur général saisi de la demande est informé, dans les meilleurs délais, des sanctions éventuellement intervenues pour des manquements à l'honneur, à la probité ou des insuffisances professionnelles graves, commis au cours d'une précédente affectation lorsque, au moment de la demande :
 
 1° Une procédure disciplinaire était en cours ;
 
@@ -20471,13 +20477,11 @@ Lorsque l'officier de police judiciaire est appelé à exercer habituellement se
 
 Le procureur général accorde ou refuse par arrêté l'habilitation à exercer effectivement les attributions attachées à la qualité d'officier de police judiciaire.
 
-L'arrêté d'habilitation indique les fonctions en vue desquelles cette habilitation est accordée et précise qu'elle vaut seulement pour le temps pendant lequel l'officier de police judiciaire exercera lesdites fonctions.
-
 Lorsqu'il envisage de refuser l'habilitation, le procureur général en informe l'intéressé, en lui précisant qu'il peut, dans un délai de quinze jours, prendre connaissance de son dossier et être entendu, le cas échéant, avec l'assistance d'un conseil de son choix.
 
 ######## Article R15-2
 
-Le procureur général prononce le retrait ou, pour une durée n'excédant pas deux ans, la suspension de l'habilitation à exercer les attributions attachées à la qualité d'officier de police judiciaire, par arrêté pris soit d'office, soit sur la proposition du commandant du groupement ou du commandant régional de la gendarmerie.
+Le procureur général du lieu d'exercice habituel des fonctions de l'officier de police judiciaire prononce le retrait ou, pour une durée n'excédant pas deux ans, la suspension de l'habilitation à exercer les attributions attachées à la qualité d'officier de police judiciaire, par arrêté pris soit d'office, soit sur la proposition du commandant du groupement ou du commandant régional de la gendarmerie.
 
 Il entend préalablement l'officier de police judiciaire qui peut prendre connaissance du dossier relatif aux faits qui lui sont reprochés et se faire assister d'un conseil de choix.
 
@@ -20529,21 +20533,25 @@ Les décisions de refus, de suspension ou de retrait de l'habilitation mentionn�
 
 ######## Article R15-3
 
-Les fonctionnaires de la police nationale nationale visés à l'article 16 (3°) ne peuvent être habilités à exercer effectivement les attributions attachées à leur qualité d'officier de police judiciaire que lorsqu'ils sont affectés à un emploi comportant l'exercice desdites attributions.
+Les fonctionnaires de la police nationale mentionnés au 3° de l'article 16 ne peuvent être habilités à exercer effectivement les attributions attachées à leur qualité d'officier de police judiciaire que lorsqu'ils sont affectés à un emploi comportant l'exercice de ces attributions.
 
-Pour chaque fonctionnaire affecté à un tel emploi, une demande d'habilitation est adressée par le chef du service auquel appartient ce fonctionnaire, au procureur général près la cour d'appel dans le ressort de laquelle l'officier de police judiciaire exerce habituellement ses fonctions d'officier de police judiciaire.
+Pour chaque fonctionnaire affecté à un tel emploi, une demande d'habilitation est adressée par le chef du service auquel appartient ce fonctionnaire, au procureur général près la cour d'appel dans le ressort de laquelle intervient la première affectation de l'officier de police judiciaire.
 
-La demande doit préciser la nature des fonctions confiées à cet officier de police judiciaire et les limites territoriales dans lesquelles il sera appelé à les exercer habituellement.
+La demande précise la nature des fonctions confiées à l'officier de police judiciaire et le service ou l'unité au sein duquel il sera appelé à les exercer habituellement.
 
-Elle précise également si, au cours du précédent emploi pour lequel il avait été habilité, l'officier de police judiciaire a été définitivement sanctionné pour des fautes disciplinaires constituant des manquements à l'honneur, à la probité ou des insuffisances professionnelles graves.
+Elle précise également si, au cours d'une précédente affectation, la personne a été définitivement sanctionnée pour des fautes disciplinaires constituant des manquements à l'honneur, à la probité ou des insuffisances professionnelles graves.
 
-Le procureur général saisi de la demande est informé, dans les meilleurs délais, des sanctions éventuellement intervenues pour des manquements à l'honneur, à la probité ou des insuffisances professionnelles graves, commis au cours du précédent emploi pour lequel l'officier de police judiciaire avait été habilité, lorsque, au moment de la demande :
+Le procureur général saisi de la demande est informé, dans les meilleurs délais, des sanctions éventuellement intervenues pour des manquements à l'honneur, à la probité ou des insuffisances professionnelles graves, commis au cours d'une précédente affectation lorsque, au moment de la demande :
 
 1° Une procédure disciplinaire était en cours ;
 
 2° La sanction prononcée pour ces fautes n'était pas définitive.
 
 Si l'officier de police judiciaire est affecté dans une unité de la gendarmerie nationale, la demande d'habilitation est transmise selon les distinctions prévues aux a, b ou c de l'article R. 14.
+
+Ne sont pas considérées comme donnant lieu à une première affectation au sens de l'avant-dernier alinéa de l'article 16, les périodes au cours desquelles les fonctionnaires de police mentionnés au 3° de l'article 16 bénéficient, pour les besoins et dans le cadre de leur formation initiale, de la qualité d'officier de police judiciaire. Dans ce cas, une habilitation est délivrée pour toute la durée de la scolarité par le procureur général près la cour d'appel dans le ressort de laquelle est implanté le lieu de formation et prend fin à l'issue de celle-ci.
+
+Par dérogation au précédent alinéa, les fonctionnaires de police issus des concours internes et des voies d'accès professionnelles et disposant d'une habilitation d'officier de police judiciaire conservent le bénéfice de cette habilitation pendant leur formation et à l'issue de leur scolarité.
 
 ######## Article R15-4
 
@@ -20553,13 +20561,11 @@ Lorsque l'officier de police judiciaire est appelé à exercer habituellement se
 
 Le procureur général accorde ou refuse par arrêté l'habilitation à exercer effectivement les attributions attachées à la qualité d'officier de police judiciaire.
 
-L'arrêté d'habilitation indique les fonctions en vue desquelles cette habilitation est accordée et précise qu'elle vaut seulement pour le temps pendant lequel l'officier de police exercera lesdites fonctions.
-
 Lorsqu'il envisage de refuser l'habilitation, le procureur général en informe l'intéressé, en lui précisant qu'il peut, dans un délai de quinze jours, prendre connaissance de son dossier et être entendu, le cas échéant, avec l'assistance d'un conseil de son choix.
 
 ######## Article R15-6
 
-Le procureur général prononce le retrait ou, pour une durée n'excédant pas deux ans, la suspension de l'habilitation à exercer les attributions attachées à la qualité d'officier de police judiciaire, par arrêté pris soit d'office, soit sur la proposition du chef de service. Il entend préalablement l'officier de police judiciaire qui peut prendre connaissance du dossier relatif aux faits qui lui sont reprochés et se faire assister d'un conseil de son choix.
+Le procureur général du lieu d'exercice habituel des fonctions de l'officier de police judiciaire prononce le retrait ou, pour une durée n'excédant pas deux ans, la suspension de l'habilitation à exercer les attributions attachées à la qualité d'officier de police judiciaire, par arrêté pris soit d'office, soit sur la proposition du chef de service. Il entend préalablement l'officier de police judiciaire qui peut prendre connaissance du dossier relatif aux faits qui lui sont reprochés et se faire assister d'un conseil de son choix.
 
 L'officier de police judiciaire dont l'habilitation a été suspendue reprend de plein droit, à l'expiration de la suspension, l'exercice des attributions attachées à sa qualité. Le procureur général peut, à tout moment, abréger la durée de la suspension.
 
@@ -23906,7 +23912,7 @@ b) Contraventions réprimées par les articles R. 1337-7 et R. 1337-9 du code de
 
 13° Contraventions réprimées par l'article R. 644-4 du code pénal relatif à la participation à une manifestation interdite sur la voie publique ;
 
-14° Contraventions en matière d'aéronefs circulant sans personne à bord réprimées par les articles R. 151-2 et R. 151-3 du code de l'aviation civile ;
+14° Contraventions en matière d'aéronefs circulant sans équipage à bord réprimées par les articles R. 151-2 à R. 151-3-1 du code de l'aviation civile ;
 
 15° Contraventions réprimées par l'article R. 644-3 du code pénal relatif à l'acquisition de produits du tabac manufacturé vendus à la sauvette ;
 
@@ -28936,11 +28942,11 @@ Pour leur application à Saint-Barthélemy et à Saint-Martin, les mots : “ pr
 
 ##### Article R251
 
-I. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, du I de l'article R. 49-8-3, des articles R. 49-8-5 à R. 49-19, R. 63, R. 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2023-227 du 30 mars 2023, sous réserve des adaptations prévues au présent titre.
+I. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, du I de l'article R. 49-8-3, des articles R. 49-8-5 à R. 49-19, R. 63, R. 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2023-345 du 4 mai 2023, sous réserve des adaptations prévues au présent titre.
 
-II. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Polynésie française dans sa rédaction résultant du décret n° 2023-227 du 30 mars 2023, sous réserve des adaptations prévues au présent titre.
+II. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R 64, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable en Polynésie française dans sa rédaction résultant du décret n° 2023-345 du 4 mai 2023, sous réserve des adaptations prévues au présent titre.
 
-III. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R. 64, R. 93-2, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2023-227 du 30 mars 2023, sous réserve des adaptations prévues au présent titre.
+III. – A l'exception des articles R. 15-29 à R. 15-33-23, R. 15-33-43 et R. 15-33-59, R. 48-1, R. 49-8-1 à R. 49-19, R. 63, R. 64, R. 93-2, R. 93-3 et R. 95, le présent code (Décrets en Conseil d'Etat) est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2023-345 du 4 mai 2023, sous réserve des adaptations prévues au présent titre.
 
 ##### Article R252
 
@@ -32388,6 +32394,10 @@ La signification demeure régulière même si elle a été accomplie après l'ex
 #### Article D46-6-2
 
 L'acte de citation établi en application de l'article 390 précise que la personne peut demander l'assistance d'un avocat immédiatement ou à tout moment au cours de la procédure. Il précise également les conditions lui permettant de bénéficier de l'aide juridictionnelle ainsi que l'adresse des structures où elle peut recevoir des conseils juridiques.
+
+#### Article D46-6-3
+
+Les significations peuvent être réalisées par voie électronique conformément aux dispositions de l'article 803-1 dans les cas et selon les modalités prévues par l'article D. 593-1-1.
 
 ## Livre III
 
@@ -37033,7 +37043,7 @@ Le magistrat sous la direction duquel l'enquête est menée peut décider de ne 
 
 Les modalités d'application des dispositions de la présente section sont précisées par arrêté du garde des sceaux, ministre de la justice et du ministre de l'intérieur.
 
-#### Chapitre II : Des transmissions de demandes ou des notifications par un moyen de télécommunication électronique
+#### Chapitre II : Des transmissions de demandes, notifications ou significations par un moyen de télécommunication électronique
 
 ##### Article D590
 
@@ -37101,7 +37111,7 @@ Selon les modalités figurant dans une convention passée entre le ministère de
 
 Toute autre demande prévue par des dispositions du présent code et pour laquelle ces dispositions permettent qu'elle soit faite par simple lettre peut également être transmise conformément aux dispositions du présent article.
 
-La réception de la demande sur la boîte aux lettres électronique du destinataire donne lieu à l'émission d'un accusé de réception électronique, qui fait, s'il y a lieu, courir les délais prévus par le présent code. Toutefois, lorsque la demande a été reçue en dehors des jours ouvrables ou avant 9 heures ou après 17 heures, les délais ne commencent à courir que le premier jour ouvrable suivant. Toute demande transmise à une adresse électronique ne figurant pas sur la liste des adresses transmise par le ministère de la justice en application de la convention prévue au premier alinéa est irrecevable.
+La réception de la demande sur la boîte aux lettres électronique du destinataire donne lieu à l'émission d'un accusé de réception électronique, qui fait, s'il y a lieu, courir les délais prévus par le présent code. Toutefois, lorsque la demande a été reçue en dehors des jours ouvrables ou après 17 heures, les délais ne commencent à courir que le premier jour ouvrable suivant. Toute demande transmise à une adresse électronique ne figurant pas sur la liste des adresses transmise par le ministère de la justice en application de la convention prévue au premier alinéa est irrecevable.
 
 ##### Article D592
 
@@ -37114,6 +37124,28 @@ Les dispositions de l'article D. 591 ne sont pas applicables aux demandes de mis
 ##### Article D593-1
 
 En application du premier alinéa du I de l'article 801-1, les actes des avocats au Conseil d'Etat et à la Cour de cassation prévus par les dispositions du présent code dans le cadre de leur mandat de représentation et notamment les constitutions, les mémoires ainsi que les pièces qui leur sont associées, les observations, les demandes de prorogation et de dérogation et les requêtes peuvent être établis et transmis à la chambre criminelle de la Cour de cassation sous format numérique, selon les modalités techniques concernant la procédure de communication par voie électronique devant la Cour de cassation qui ont été arrêtées en application de l'article 748-6 du code de procédure civile.
+
+##### Article D593-1-1
+
+I.-Les significations par voie électronique prévues par les dispositions du dernier alinéa du II de l'article 803-1 peuvent intervenir soit lorsqu'elles sont faites au ministère public, soit lorsqu'elles sont faites à la demande du ministère public, dans les conditions prévues par le présent article, sans préjudice du respect des conditions prévues par les articles 550 à 555 et 564 à 566.
+
+Ces significations sont réalisées par l'intermédiaire de plateformes d'échanges dématérialisés qui permettent l'envoi d'un avis de mise à disposition au destinataire invitant ce dernier à télécharger l'acte faisant l'objet de la signification et d'un avis de réception par le destinataire au moment où ce dernier télécharge cet acte. Il est conservé une trace de ces avis.
+
+II.-Il est procédé aux significations au ministère public selon les modalités figurant dans une convention passée entre le ministère de la justice et la chambre nationale des commissaires de justice.
+
+La réception, sur la boîte aux lettres électronique du ministère public, de l'avis de mise à disposition de l'acte donne lieu à l'émission d'un accusé de réception électronique, qui fait, s'il y a lieu, courir les délais prévus par le présent code. Toutefois, lorsque la signification a été reçue en dehors des jours ouvrables ou après 17 heures, les délais ne commencent à courir que le premier jour ouvrable suivant. Tout avis de mise à disposition transmis à une adresse électronique ne figurant pas sur la liste des adresses communiquées par le ministère de la justice en application de la convention prévue au premier alinéa du présent II est irrecevable.
+
+III.-Lorsque le mandement de signification adressé par le ministère public au commissaire de justice concerne un dossier de procédure pénale pour lequel le destinataire de la signification a expressément consenti à la communication électronique, le commissaire de justice peut procéder à une signification selon les modalités prévues par le présent III.
+
+Le commissaire de justice adresse au destinataire, à l'adresse choisie par celui-ci, un avis électronique de mise à disposition sur une plateforme dédiée d'échanges dématérialisés de l'acte faisant l'objet de la signification, en l'invitant à télécharger ce document, cet avis indiquant la date et, le cas échéant, l'heure de la mise à disposition. La date et l'heure de la signification par voie électronique sont celles de l'envoi de cet avis de mise à disposition. Toutefois, à l'égard du destinataire, la signification ne produit ses effets qu'à compter du jour du téléchargement de l'acte ou, au plus tard, à l'issue du délai visé au quatrième alinéa du présent III.
+
+Ce téléchargement doit se faire selon des modalités qui garantissent la fiabilité de l'identification de la personne, l'intégrité de l'acte, la sécurité, la confidentialité et la conservation de la transmission et permettent d'établir de manière certaine la date du téléchargement.
+
+Lorsque le téléchargement intervient dans les cinq jours de la transmission de l'acte, il vaut signification à personne.
+
+Dans les autres cas, la signification est considérée comme faite à domicile le sixième jour après l'envoi de l'avis de mise à disposition prévu au deuxième alinéa du présent III et le commissaire de justice adresse à la personne, conformément aux alinéas deux ou quatre de l'article 558, une lettre recommandée avec demande d'avis de réception ou une lettre simple comportant un récépissé. Les dispositions des alinéas trois, cinq et six de cet article 558 sont alors applicables. En application de l'alinéa six de l'article 558, si l'exploit est une citation à comparaître, il ne pourra produire les effets visés aux troisième et cinquième alinéas de l'article 558 du code de procédure pénale que si le délai entre, d'une part, le jour où l'acte a été téléchargé et d'autre part le jour indiqué pour la comparution devant le tribunal correctionnel ou de police est au moins égal à celui fixé, compte tenu de l'éloignement du domicile de l'intéressé, par l'article 552.
+
+IV.-Les modalités d'application du présent article sont précisées par arrêté du ministre de la justice.
 
 #### Chapitre III : De l'accès des avocats au dossier de la procédure
 
@@ -37294,11 +37326,11 @@ Pour l'application de l'article 883-2, il ne peut être recouru, pour le déroul
 
 ##### Article D603
 
-I.-Le présent code (décrets simples) est applicable en Nouvelle-Calédonie, dans sa rédaction résultant du décret n° 2023-89 du 13 février 2023, sous réserve des adaptations prévues au présent titre.
+I.-Le présent code (décrets simples) est applicable en Nouvelle-Calédonie, dans sa rédaction résultant du décret 2023-332 du 3 mai 2023, sous réserve des adaptations prévues au présent titre.
 
-II.-Le présent code (décrets simples) est applicable en Polynésie française, dans sa rédaction résultant du décret n° 2023-89 du 13 février 2023, sous réserve des adaptations prévues au présent titre.
+II.-Le présent code (décrets simples) est applicable en Polynésie française, dans sa rédaction résultant du décret 2023-332 du 3 mai 2023, sous réserve des adaptations prévues au présent titre.
 
-III.-A l'exception des articles D. 15-4-1 à D. 15-4-8, D. 31-1, D. 31-2, D. 31-4 et D. 32-2-3, le présent code (décrets simples) est applicable dans les îles de Wallis et Futuna, dans sa rédaction résultant du décret n° 2023-89 du 13 février 2023, sous réserve des adaptations prévues au présent titre.
+III.-A l'exception des articles D. 15-4-1 à D. 15-4-8, D. 31-1, D. 31-2, D. 31-4 et D. 32-2-3, le présent code (décrets simples) est applicable dans les îles de Wallis et Futuna, dans sa rédaction résultant du décret 2023-332 du 3 mai 2023, sous réserve des adaptations prévues au présent titre.
 
 ##### Article D604
 
