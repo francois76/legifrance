@@ -6,5 +6,3 @@ a) Sous le numéro Cerfa 13406 lorsque la demande porte sur une maison individue
 
 b) Sous le numéro Cerfa 13409 lorsque la demande porte sur une construction autre qu'une maison individuelle ou ses annexes.
 
-La demande de permis de construire contient également la déclaration des éléments nécessaires au calcul des impositions prévus à l'article R. 431-5, établie conformément au modèle joint aux formulaires susmentionnés.
-
