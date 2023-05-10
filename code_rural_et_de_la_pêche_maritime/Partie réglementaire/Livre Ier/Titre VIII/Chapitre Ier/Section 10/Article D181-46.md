@@ -26,5 +26,5 @@ Pour leur application à La Réunion, le deuxième alinéa de l'article D. 113-2
 
 “ II.-Le montant total de l'ICHN à l'échelle de l'exploitation divisé par le nombre d'hectares primés ne peut être inférieur à 25 euros par hectare et est plafonné à 450 euros par hectares.
 
-“ III.-Pour les groupements agricoles d'exploitation en commun totaux, ce calcul est effectué selon les modalités prévues à l'article R. 323-52. ”.
+“ III.-Pour les groupements agricoles d'exploitation en commun totaux, ce calcul est effectué selon les modalités prévues à l'article D. 323-52. ”.
 

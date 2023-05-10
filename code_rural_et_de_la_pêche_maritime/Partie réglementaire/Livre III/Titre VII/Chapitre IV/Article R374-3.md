@@ -8,7 +8,7 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon :
 
 3° Les articles R. 313-45 à R. 313-47 ;
 
-4° Les articles R. 323-52 à R. 323-54 ;
+4° Les articles D. 323-52 à R. 323-54 ;
 
 5° Les articles D. 330-2 et D. 330-3 ;
 

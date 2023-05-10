@@ -2,7 +2,7 @@
 
 L'éligibilité à l'aide est soumise au respect des règles d'identification et d'enregistrement des animaux prévues par le règlement (UE) n° 2016/429 du Parlement européen et du Conseil du 9 mars 2016.
 
-L'article R. 323-52 est applicable aux modalités de calcul de l'aide.
+L'article D. 323-52 est applicable aux modalités de calcul de l'aide.
 
 Un arrêté du ministre chargé de l'agriculture précise la date à laquelle sont vérifiées les exigences en matière d'identification et d'enregistrement des animaux, ainsi que la forme de l'aide, les seuils d'accès à l'aide, les différents niveaux de paiement de l'aide, les éventuels plafonnements et majorations applicables. Cet arrêté détermine les critères d'éligibilité à l'aide, et notamment les conditions relatives aux caractéristiques de la production de l'exploitation et celles relatives à la détention des animaux. L'arrêté précise également :
 
