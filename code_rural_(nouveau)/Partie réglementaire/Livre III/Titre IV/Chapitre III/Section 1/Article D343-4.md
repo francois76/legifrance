@@ -19,7 +19,7 @@ Pour être éligible au bénéfice des aides mentionnées au I de l'article D. 3
 
 7° S'installer sur une exploitation répondant à des exigences minimales et maximales de potentiel de production brute standard (PBS) définies par arrêté du ministre chargé de l'agriculture.
 
-Par dérogation au 4°, peut être regardé comme justifiant de la capacité professionnelle agricole le candidat auquel le préfet accorde l'acquisition progressive de cette capacité, dès lors qu'il remplit les conditions suivantes :
+Par dérogation au 4°, peut être regardé comme justifiant de la capacité professionnelle agricole le candidat auquel l'autorité de gestion régionale mentionnée à l'article 78 de la loi n° 2014-58 du 27 janvier 2014 accorde l'acquisition progressive de cette capacité, dès lors qu'il remplit les conditions suivantes :
 
 - se trouver dans une situation d'urgence l'obligeant à s'installer ;
 - justifier d'un diplôme, titre ou certificat d'un niveau équivalent au brevet d'études professionnelles agricoles ou au brevet professionnel agricole ou d'un diplôme de niveau 4 non agricole ;

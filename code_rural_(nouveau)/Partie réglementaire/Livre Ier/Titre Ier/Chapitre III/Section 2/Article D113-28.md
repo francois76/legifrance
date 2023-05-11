@@ -8,5 +8,5 @@ II.-Pour les surfaces cultivées destinées à la commercialisation, le montant 
 
 III.-Le montant de l'aide à l'exploitation divisé par le nombre d'hectares primés ne peut être inférieur à 25 euros par hectare et est plafonné à 450 euros par hectare en zone de montagne au sens de l'article D. 113-14 et à 250 euros par hectare en zone soumise à des contraintes naturelles ou en zone soumise à des contraintes spécifiques au sens de l'article D. 113-15.
 
-IV.-Pour les groupements agricoles d'exploitation en commun totaux, ce calcul est effectué selon les modalités prévues à l'article R. 323-52.
+IV.-Pour les groupements agricoles d'exploitation en commun totaux, ce calcul est effectué selon les modalités prévues à l'article D. 323-52.
 
