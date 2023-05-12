@@ -5196,6 +5196,12 @@ La constatation des indus sur l'indemnité représentative de logement est faite
 
 Le trop-perçu est imputé sur l'indemnité représentative de logement restant à verser. Lorsque son montant est supérieur à celui de l'indemnité, l'apurement se poursuit le ou les mois suivants. Lorsque le trop-perçu ne peut être récupéré selon ces modalités, les actes de poursuite relatifs à son recouvrement s'effectuent sans l'autorisation de l'ordonnateur. Le recouvrement est assuré par le comptable public.
 
+##### Section 5 : Dotation relative à l'enregistrement des demandes et à la remise des titres sécurisés
+
+###### Article R. 234-12-5
+
+L'article D. 2335-23 du code général des collectivités territoriales est applicable aux communes de Nouvelle-Calédonie.
+
 #### Chapitre V : Subventions
 
 ##### Article D235-1
