@@ -76,7 +76,7 @@ I.-Les dispositions du chapitre III, du titre II, du livre Ier de la deuxième p
   <td>Décret n° 2005-235 du 14 mars 2005</td>
  </tr>
  <tr>
-  <td>D. 2123-22-4-A à D. 2123-22-4-C</td>
+  <td>D. 2123-22-4-A</td>
   <td>Décret n° 2020-948 du 30 juillet 2020</td>
  </tr>
  <tr>
@@ -86,10 +86,6 @@ I.-Les dispositions du chapitre III, du titre II, du livre Ier de la deuxième p
  <tr>
   <td>D. 2123-22-6</td>
   <td>Décret n° 2020-948 du 30 juillet 2020</td>
- </tr>
- <tr>
-  <td>D. 2123-29</td>
-  <td>Décret n° 2022-1008 du 15 juillet 2022</td>
  </tr>
 </tbody></table>
 
@@ -162,6 +158,4 @@ XIV. – Pour l'application de l'article R. 2123-22-3 :
 2° Au deuxième alinéa, les mots : " à l'article L. 2123-23 " sont remplacés par les mots : " fixé par arrêté du Haut-commissaire de la République en vertu de l'article L. 2123-23 ";
 
 XV. – Le montant maximum de l'aide financière prévue à l'article D. 2123-22-4 est fixé par arrêté du haut-commissaire de la République en Polynésie française.
-
-XVI.-Pour l'application de l'article D. 2123-29, le dernier alinéa du II est supprimé.
 

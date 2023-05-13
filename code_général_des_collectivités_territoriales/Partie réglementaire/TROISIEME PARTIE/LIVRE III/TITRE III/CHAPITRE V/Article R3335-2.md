@@ -10,7 +10,7 @@
 
 4° Le revenu pris en compte au titre des V à VII est le dernier revenu fiscal de référence connu. La population prise en compte pour déterminer ce revenu par habitant et le nombre d'habitants au kilomètre carré est celle définie au premier alinéa de l'article L. 3334-2 ;
 
-5° Les taux d'imposition de taxe foncière sur les propriétés bâties sont ceux de l'année précédant l'année de répartition ;
+5° Les taux d'imposition de taxe foncière sur les propriétés bâties sont ceux de l'année 2020 ;
 
 6° Le taux de pauvreté mentionné au c du V est le taux publié sur le site de l'Institut national de la statistique et des études économiques au 1er janvier de l'année de répartition. Dans le cas où ce taux ne serait pas disponible pour un département, il est réputé supérieur à 15 % dans ce département ;
 
