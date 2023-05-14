@@ -1594,21 +1594,59 @@ Est puni de l'amende prévue pour les contraventions de la troisième classe le 
 
 #### Article R151-2
 
-I.-Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un télépilote, de faire circuler à des fins de loisir un aéronef civil sans personne à bord dont la masse est comprise dans les limites fixées par l'article D. 136-7, sans avoir obtenu l'attestation de suivi de formation mentionnée à l'article D. 136-8, ou le certificat ou l'attestation de suivi d'une formation reconnue comme équivalente mentionnés aux articles D. 136-9 et D. 136-10.
+I.-Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un télépilote, de faire circuler, dans le cadre de l'activité d'une association d'aéromodélisme entrant dans le champ de l'article 16 du règlement d'exécution (UE) 2019/947 de la Commission du 24 mai 2019 concernant les règles et procédures applicables à l'exploitation d'aéronefs sans équipage à bord, un aéronef civil sans équipage à bord dont la masse au décollage est supérieure à celle mentionnée à l'article L. 6214-2 du code des transports, sans avoir obtenu l'attestation de suivi de formation mentionnée à l'article D. 136-8, ou le certificat ou l'attestation de suivi d'une formation reconnue comme équivalente mentionnés aux articles D. 136-9 et D. 136-10.
 
-II.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour un télépilote, de faire circuler à des fins autres que le loisir un aéronef civil sans personne à bord sans avoir obtenu le certificat d'aptitude théorique de télépilote délivré par le ministre chargé de l'aviation civile ainsi que l'attestation de suivi de formation délivrée par l'exploitant en charge de la formation, mentionnés à l'article D. 136-2, ou sans avoir obtenu l'attestation d'aptitude aux fonctions de télépilote dans le cadre du ou des scénarios opérationnels pour lesquels il opère, mentionnée à l'article D. 136-2-2, ou tout autre justificatif équivalent mentionné à l'article D. 136-5.
+II.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour un télépilote, de faire circuler, dans le cadre des scénarios standards nationaux mentionnés au paragraphe 4 de l'article 23 du règlement d'exécution (UE) 2019/947 mentionné au I, un aéronef civil sans équipage à bord sans avoir obtenu le certificat d'aptitude théorique de télépilote délivré par le ministre chargé de l'aviation civile ainsi que l'attestation de suivi de formation délivrée par l'exploitant en charge de la formation, mentionnés à l'article D. 136-2, ou sans avoir obtenu l'attestation d'aptitude aux fonctions de télépilote dans le cadre du ou des scénarios opérationnels pour lesquels il opère, mentionnée à l'article D. 136-2-2, ou tout autre justificatif équivalent mentionné à l'article D. 136-5.
 
-III.-Est puni de l'amende prévue pour les contraventions de la première classe le fait, pour un télépilote faisant circuler un aéronef civil sans personne à bord, de ne pas présenter immédiatement aux fonctionnaires et agents compétents pour la constatation des infractions aux dispositions du présent livre, l'un des documents mentionnés aux I et II attestant du suivi de la formation exigée pour l'activité qu'il exerce.
+III. - Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un télépilote, de faire circuler, dans les conditions prévues au a ou au c de l'article 22 du règlement d'exécution (UE) 2019/947 mentionné au I, un aéronef civil sans équipage à bord de masse supérieure à 250 g, sans avoir obtenu l'un des documents suivants :
+
+a) L'attestation de suivi de formation mentionnée à l'article D. 136-8 ;
+
+b) L'attestation de suivi d'une formation reconnue comme équivalente mentionnée à l'article D. 136-10 ;
+
+c) L'attestation de réussite à un examen théorique en ligne conformément au b du 4 du point UAS.OPEN.020 de l'annexe du règlement d'exécution (UE) 2019/947 mentionné au I ;
+
+d) Le certificat d'aptitude théorique de télépilote délivré par le ministre chargé de l'aviation civile ainsi que l'attestation de suivi de formation délivrée par l'exploitant en charge de la formation mentionnés à l'article D. 136-2 ;
+
+e) L'attestation d'aptitude aux fonctions de télépilote mentionnée à l'article D. 136-2-2 ;
+
+f) Tout autre justificatif équivalent mentionné à l'article D. 136-5, accompagné, le cas échéant, d'une attestation de suivi de formation.
+
+IV. - Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour un télépilote, de faire circuler, dans les conditions prévues au b de l'article 22 du règlement d'exécution (UE) 2019/947 mentionné ci-dessus, un aéronef civil sans équipage à bord de masse supérieure à 250 g sans avoir obtenu l'un des documents suivants :
+
+a) Les attestations de réussite aux examens définis au 2 du point UAS.OPEN.030 de l'annexe du règlement d'exécution (UE) 2019/947 mentionné au I : l'examen théorique en ligne conformément au a ainsi que l'examen théorique complémentaire conformément au c ;
+
+b) Le certificat d'aptitude théorique de télépilote délivré par le ministre chargé de l'aviation civile ainsi que l'attestation de suivi de formation délivrée par l'exploitant en charge de la formation mentionnés à l'article D. 136-2 ;
+
+c) L'attestation d'aptitude aux fonctions de télépilote mentionnée à l'article D. 136-2-2 ;
+
+d) Tout autre justificatif équivalent mentionné à l'article D. 136-5, accompagné, le cas échéant, d'une attestation de suivi de formation.
+
+V. - Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un télépilote, de faire circuler un aéronef civil sans équipage à bord, dans les conditions des sous-catégories A1 ou A3 prévues respectivement aux points UAS.OPEN.020 et UAS.OPEN.040 de l'annexe du règlement d'exécution (UE) 2019/947 mentionné au I, sans avoir obtenu l'attestation de réussite à un examen théorique en ligne conformément aux points UAS.OPEN.020 ou UAS.OPEN.040 de l'annexe du même règlement.
+
+VI. - Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour un télépilote, de faire circuler un aéronef civil sans équipage à bord, dans les conditions de la sous-catégorie A2 prévue au point UAS.OPEN.030 de l'annexe du règlement d'exécution (UE) 2019/947 mentionné au I, sans avoir obtenu le brevet d'aptitude de pilote à distance prévu au point UAS.OPEN.030 de l'annexe du même règlement.
+
+VII. - Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour un télépilote, de faire circuler un aéronef civil sans équipage à bord, dans le cadre de scénarios standards prévus par l'appendice 1 de l'annexe du règlement d'exécution (UE) 2019/947 mentionné au I, sans avoir obtenu le certificat d'aptitude théorique de pilote à distance et l'attestation de réussite de la formation pratique prévus à cet appendice de l'annexe du même règlement pour le scénario considéré.
+
+VIII.-Est puni de l'amende prévue pour les contraventions de la première classe le fait, pour un télépilote faisant circuler un aéronef civil sans équipage à bord, de ne pas présenter immédiatement aux fonctionnaires et agents compétents pour la constatation des infractions aux dispositions du présent livre, l'un des documents mentionnés aux I à VII attestant du suivi de la formation exigée pour l'activité qu'il exerce.
 
 #### Article R151-3
 
-I.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait de faire circuler un aéronef civil sans personne à bord d'une masse supérieure ou égale au seuil défini par l'article D. 124-1 sans qu'il ait été procédé à l'enregistrement de cet aéronef conformément aux articles R. 124-1 et R. 124-2.
+I.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait de faire circuler un aéronef civil sans équipage à bord d'une masse supérieure ou égale au seuil défini par l'article D. 124-1 sans qu'il ait été procédé à l'enregistrement de cet aéronef conformément aux articles R. 124-1 et R. 124-2.
 
 II.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour le propriétaire ou le copropriétaire ayant réalisé l'enregistrement ou leur représentant légal, de fournir, lors de l'enregistrement de l'aéronef par voie électronique mentionné aux articles R. 124-1 et R. 124-2, des informations erronées sur son identité ou sur son adresse ou sur l'identifiant du dispositif de signalement électronique ou numérique lorsqu'un tel dispositif est obligatoire ou sur les caractéristiques principales de l'aéronef, ou de ne pas mettre à jour ces informations dans les conditions prévues à l'article R. 124-3.
 
-III.-Est puni de l'amende prévue pour les contraventions de la première classe le fait, pour tout télépilote faisant circuler un aéronef civil sans personne à bord, de ne pas présenter immédiatement aux fonctionnaires et agents compétents pour la constatation des infractions aux dispositions du présent livre, l'un des documents attestant de l'enregistrement de cet aéronef mentionné au II.
+III.-Est puni de l'amende prévue pour les contraventions de la première classe le fait, pour tout télépilote faisant circuler un aéronef civil sans équipage à bord, de ne pas présenter immédiatement aux fonctionnaires et agents compétents pour la constatation des infractions aux dispositions du présent livre, l'un des documents attestant de l'enregistrement de cet aéronef mentionné au II.
 
-IV.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait de faire circuler un aéronef civil sans personne à bord sans que son numéro d'enregistrement ait été apposé dans les conditions prévues aux articles R. 124-2 et R. 124-4.
+IV.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait de faire circuler un aéronef civil sans équipage à bord sans que son numéro d'enregistrement ait été apposé dans les conditions prévues aux articles R. 124-2 et R. 124-4.
+
+#### Article R151-3-1
+
+I. - Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour l'exploitant d'aéronefs civils sans équipage à bord remplissant l'une des conditions mentionnées au paragraphe 5 de l'article 14 du règlement d'exécution (UE) 2019/947 du 24 mai 2019, de faire circuler un aéronef civil sans équipage à bord sans s'être enregistré conformément à l'article 14 du même règlement.
+
+II. - Est puni de la même peine le fait, pour cet exploitant, de fournir, lors de son enregistrement par voie électronique, des informations erronées sur son identité ou sur son adresse ou de ne pas mettre à jour ces informations.
+
+III. - Est puni de l'amende prévue pour les contraventions de la première classe le fait, pour un exploitant d'aéronefs civils sans équipage à bord, de ne pas présenter immédiatement aux fonctionnaires et agents compétents pour la constatation des infractions aux dispositions du présent livre, l'un des documents attestant de son enregistrement mentionné au II.
 
 #### Article R151-5
 
@@ -1650,9 +1688,13 @@ IV.-L'action publique est éteinte lorsque l'auteur de l'infraction a payé la s
 
 #### Article R151-9
 
-Les dispositions de l'article R. 151-2, dans leur rédaction résultant du décret n° 2019-1253 du 28 novembre 2019 relatif aux sanctions pénales applicables en cas de manquements aux obligations destinées à renforcer la sécurité de l'usage des aéronefs civils circulant sans personne à bord, sont applicables dans les îles Wallis et Futuna, en Polynésie française et dans les Terres australes et antarctiques françaises.
+Les dispositions de l'article R. 151-2, dans leur rédaction résultant du décret n° 2023-336 du 3 mai 2023 relatif aux sanctions pénales applicables en cas de manquement aux obligations destinées à renforcer la sécurité de l'usage des aéronefs civils sans équipage à bord,, sont applicables dans les îles Wallis et Futuna, en Polynésie française et dans les Terres australes et antarctiques françaises.
 
-Les dispositions de l'article R. 151-3, dans leur rédaction résultant du décret n° 2019-1253 du 28 novembre 2019 relatif aux sanctions pénales applicables en cas de manquements aux obligations destinées à renforcer la sécurité de l'usage des aéronefs civils circulant sans personne à bord, sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+Les dispositions de l'article R. 151-3, dans leur rédaction résultant du décret n° 2023-336 du 3 mai 2023 relatif aux sanctions pénales applicables en cas de manquement aux obligations destinées à renforcer la sécurité de l'usage des aéronefs civils sans équipage à bord,, sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+
+Les dispositions de l'article R. 151-3-1, dans leur rédaction résultant du décret n° 2023-336 du 3 mai 2023 relatif aux sanctions pénales applicables en cas de manquement aux obligations destinées à renforcer la sécurité de l'usage des aéronefs civils sans équipage à bord, sont applicables dans les îles Wallis et Futuna, en Polynésie française, et dans les Terres australes et antarctiques françaises.
+
+Pour l'application des articles R. 151-2 et R. 151-3-1 à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie française et dans les Terres australes et antarctiques françaises, les références aux règlements européens et leurs annexes sont remplacées par les références aux règles en vigueur en métropole en vertu des mêmes règlements européens et leurs annexes.
 
 #### Article R151-10
 
