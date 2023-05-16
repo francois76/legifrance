@@ -12,8 +12,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="justify">Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-  <td align="justify">D. 113-14</td>
-  <td align="justify">Résultant du décret n° 2019-33 du 18 janvier 2019</td>
+  <td align="justify">D. 114-9-1 et D. 114-9-2</td>
+  <td align="justify">Résultant du décret n° 2023-362 du 11 mai 2023</td>
  </tr>
  <tr>
   <td align="justify">D. 114-12 à D. 114-15</td>

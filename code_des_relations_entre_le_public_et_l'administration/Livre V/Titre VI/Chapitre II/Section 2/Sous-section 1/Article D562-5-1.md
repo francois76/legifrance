@@ -8,8 +8,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <th>DANS LEUR RÉDACTION</th>
  </tr>
  <tr>
-  <td>D. 113-14</td>
-  <td>Résultant du décret n° 2019-33 du 18 janvier 2019</td>
+  <td>D. 114-9-1 et D. 114-9-2</td>
+  <td>Résultant du décret n° 2023-362 du 11 mai 2023</td>
  </tr>
  <tr>
   <td>D. 114-12 à D. 114-15</td>

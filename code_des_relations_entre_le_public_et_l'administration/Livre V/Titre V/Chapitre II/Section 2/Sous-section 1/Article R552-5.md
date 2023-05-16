@@ -33,16 +33,8 @@ R. 112-4 et R. 112-5</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-  <td>R. 114-9-1 et R. 114-9-2</td>
-  <td>Résultant du décret n° 2019-31 du 18 janvier 2019</td>
- </tr>
- <tr>
-  <td>R. 114-9-3 et R. 114-9-4</td>
-  <td>Résultant du décret n° 2021-464 du 16 avril 2021</td>
- </tr>
- <tr>
-  <td>R. 114-9-5 à R. 114-9-8</td>
-  <td>Résultant du décret n° 2019-31 du 18 janvier 2019</td>
+  <td>R. 114-9-5 à R. 114-9-7</td>
+  <td>Résultant du décret n° 2023-361 du 11 mai 2023</td>
  </tr>
  <tr>
   <td>Titre III</td>
