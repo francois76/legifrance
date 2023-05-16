@@ -211,7 +211,7 @@ Plans de prévention des risques technologiques établis en application de l'art
 
 Servitudes d'utilité publique instituées en application de l'article L. 593-5 du code de l'environnement.
 
-Servitudes d'utilité publique instituées en application de l' article L. 566-12-2 du code de l'environnement.
+Servitudes d'utilité publique instituées en application de l'article L. 566-12-2 du code de l'environnement.
 
 Un arrêté du ministre chargé de l'urbanisme fixe la légende des différentes servitudes d'utilité publique figurant sur cette liste.
 
