@@ -411,38 +411,6 @@ Une personne présentant une demande ou produisant une déclaration à une admin
 
 Lorsque les informations ou données nécessaires pour traiter la demande présentée par une personne ou la déclaration transmise par celle-ci peuvent être obtenues directement auprès d'une autre administration, dans les conditions prévues aux articles L. 114-8 et L. 114-9, la personne ou son représentant atteste sur l'honneur de l'exactitude des informations déclarées.
 
-###### Article D113-14
-
-I.-Dans les cas prévus par l'article L. 113-13, les entreprises et les organismes à but non lucratif ne sont pas tenus de produire à l'appui des procédures relatives aux marchés publics, pour ce qui concerne la constitution du dossier de candidature, et aux aides publiques :
-
-1° L'attestation de régularité fiscale émanant de la direction générale des finances publiques ;
-
-2° Les déclarations de résultats soumis aux bénéfices industriels et commerciaux selon les régimes réels normal ou simplifié d'imposition et leurs annexes prévues aux articles 53 A, 302 septies A bis du code général des impôts, 38 à 38 B, 38 ter à 38 quaterdecies de l'annexe III du même code. Sont concernées pour le régime simplifié d'imposition les annexes n° 2033-A du bilan simplifié, n° 2033-B du compte de résultats simplifié, n° 2033-C relatif aux immobilisations, amortissements, plus ou moins-values, n° 2033-D portant relevé des provisions, des amortissements dérogatoires, des déficits reportables et divers, n° 2033-F sur la composition du capital social et n° 2033-G sur les filiales et participations. Sont concernées pour le régime normal les annexes n° 2050 relative à l'actif du bilan, n° 2051 sur le passif du bilan, n° 2052 et n° 2053 sur le compte de résultats, n° 2054 sur les immobilisations, n° 2055 sur les amortissements, n° 2056 sur les provisions, n° 2057 portant l'état des échéances et des dettes à la clôture de l'exercice, n° 2058-C relatif au tableau d'affectation du résultat et renseignements divers, n° 2059-F sur la composition du capital social et n° 2059-G sur les filiales et participations ;
-
-3° Les déclarations de bénéfices non commerciaux soumises au régime de la déclaration contrôlée prévues aux articles 97 du code général des impôts et 40 A et 41-O-bis de l'annexe III du même code pour ce qui concerne les annexes n° 2035-A relative au compte de résultat fiscal, n° 2035-F relative à la composition du capital social et n° 2035-G concernant les filiales et participations ;
-
-4° Les déclarations de résultats soumis aux bénéfices agricoles selon les régimes réels normal ou simplifié d'imposition et leurs annexes prévues aux articles 53 A , 74 A du code général des impôts, 38 sexdecies Q, et 38 sexdecies R de l'annexe III du même code. Sont concernées pour le régime simplifié d'imposition les annexes n° 2139-A relative au bilan simplifié, n° 2139-B relative au compte de résultat simplifié, n° 2139-C concernant la composition du capital social, n° 2139-D sur les filiales et participations et n° 2139-E portant relevé des provisions. Pour le régime réel normal, sont concernées les annexes n° 2144 relative à l'actif du bilan, n° 2145 sur le passif du bilan, n° 2146 sur le compte de résultat, n° 2147 relative aux immobilisations, n° 2148 relative aux amortissements, n° 2149 concernant les provisions inscrites au bilan, n° 2150 portant l'état des échéances, des créances et des dettes à la clôture de l'exercice, n° 2151-ter relative aux renseignements divers, n° 2153 concernant la composition du capital social et n° 2154 sur les filiales et participations ;
-
-5° Les déclarations de résultats soumis à l'impôt sur les sociétés selon les régimes réels normal ou simplifié prévues aux articles 53 A, 223,302 septies A bis du même code et 38 de l'annexe III du même code. Les annexes concernées sont les mêmes que celles prévues pour les déclarations de résultats soumis aux bénéfices industriels et commerciaux selon les régimes réels normal ou simplifié d'imposition ;
-
-6° Les déclarations prévues à l'article 223 U du même code pour les sociétés mères et les filiales de groupe. Sont concernées les annexes n° 2058-A bis concernant la détermination du résultat de la société comme si elle était imposée séparément, n° 2058-B bis portant état de suivi des déficits et affectation des moins-values à long terme comme si la société était imposée séparément et n° 2058-RG concernant la détermination du résultat fiscal et des plus-values d'ensemble ;
-
-7° L'extrait d'immatriculation au registre du commerce et des sociétés et les statuts de la personne morale ;
-
-8° Les attestations de régularité sociale et de vigilance délivrées par les organismes chargés du recouvrement des cotisations sociales ;
-
-9° La carte professionnelle d'entrepreneur de travaux publics délivrée par la fédération nationale des travaux publics ;
-
-10° Le certificat attestant la régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail délivrée par l'association de gestion du fonds de développement pour l'insertion professionnelle des handicapés.
-
-II.-Dans les cas prévus par l'article L. 113-13, les personnes physiques ne sont pas tenues de produire à l'appui de leurs démarches administratives :
-
-1° L'avis d'imposition à l'impôt sur le revenu ou l'avis de situation déclarative à l'impôt sur le revenu émanant de la direction générale des finances publiques ;
-
-2° L'attestation de droit aux prestations délivrées aux bénéficiaires par les organismes de sécurité sociale ;
-
-3° Le justificatif d'identité, lorsque le téléservice de l'administration propose le dispositif " FranceConnect " mis en œuvre par l'administration chargée du numérique et du système d'information et de communication de l'Etat sous réserve des dispositions de l'article R. 113-9 .
-
 ### Chapitre IV : Diligences de l'administration
 
 #### Article L114-1
@@ -533,105 +501,137 @@ Ce décret détermine :
 
 Un décret détermine, pour chaque type d'informations ou de données, la liste des administrations chargées de les mettre à la disposition des autres administrations.
 
-##### Article R114-9-1
+##### Article D114-9-1
 
-Lorsqu'elles portent sur des informations relatives aux entreprises et aux organismes à but non lucratif, les demandes de communication mentionnées au 2° de l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux services et organismes suivants :
+I.-Pour chaque type d'information ou de données suivants, les administrations chargées de les mettre à la disposition des autres administrations sont :
 
-1° Identité de l'entreprise ou de l'organisme à but non lucratif :
+<table border="1"><tbody>
+ <tr>
+  <th>Personnes concernées</th>
+  <th>Types d'informations ou de données</th>
+  <th>Administrations chargées de la mise à disposition</th>
+ </tr>
+ <tr>
+  <td>Particuliers</td>
+  <td>Situation du foyer fiscal</td>
+  <td>Direction générale des finances publiques</td>
+ </tr>
+ <tr>
+  <td>Particuliers</td>
+  <td>Droits sociaux, revenus et prestations ;
 
-a) Agence centrale des organismes de sécurité sociale, pour les informations relatives aux professions libérales ;
+Situation de la famille</td>
+  <td>Organismes de protection sociale et organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale, au I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 et au I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996</td>
+ </tr>
+ <tr>
+  <td>Particuliers</td>
+  <td>Situation de l'enfant au regard de l'obligation scolaire</td>
+  <td>Ministère chargé de l'éducation nationale</td>
+ </tr>
+ <tr>
+  <td>Particuliers</td>
+  <td>Inscription dans une formation de l'enseignement supérieur ;
 
-b) Institut national de la propriété industrielle, pour celles du Registre national des entreprises ainsi que les statuts et bilans ;
+Diplômes, titres et qualifications professionnelles</td>
+  <td>Ministère chargé de l'enseignement supérieur et organismes publics chargés de la délivrance ou de la reconnaissance des diplômes, titres et qualifications professionnelles</td>
+ </tr>
+ <tr>
+  <td>Particuliers</td>
+  <td>Qualité de boursier de l'enseignement supérieur</td>
+  <td>Centre national des œuvres universitaires et scolaires (CNOUS)</td>
+ </tr>
+ <tr>
+  <td>Particuliers</td>
+  <td>Situation du demandeur d'emploi</td>
+  <td>Pôle emploi ou, à Wallis-et-Futuna, le service de l'Etat chargé de la gestion des demandeurs d'emploi</td>
+ </tr>
+ <tr>
+  <td>Particuliers</td>
+  <td>Situation au regard des obligations prévues à l'article L. 111-2 du code du service national</td>
+  <td>Direction du service national et de la jeunesse</td>
+ </tr>
+ <tr>
+  <td>Particuliers</td>
+  <td>Justification de l'identité par voie électronique par l'intermédiaire du téléservice " FranceConnect "</td>
+  <td>Direction interministérielle du numérique</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Informations relatives aux professions libérales</td>
+  <td>Agence centrale des organismes de sécurité sociale</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Identité, statuts et bilans des entreprises inscrites au registre national des entreprises</td>
+  <td>Institut national de la propriété industrielle</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Identité, statuts et bilans des entreprises inscrites au répertoire des entreprises et de leurs établissements</td>
+  <td>Institut national de la statistique et des études économiques</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Identité, statuts et bilans des entreprises inscrites au répertoire du commerce et des sociétés</td>
+  <td>Greffes des tribunaux de commerce, des tribunaux de première instance statuant en matière commerciale et des tribunaux mixtes de commerce</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Statuts des organismes à but non lucratif et identité des dirigeants</td>
+  <td>Préfectures de département en métropole et préfectures, hauts commissariats ou administrations supérieures en outre-mer ;
 
-c) Institut national de la statistique et des études économiques, pour celles du répertoire des entreprises et de leurs établissements ;
+Direction de la jeunesse, de l'éducation populaire et de la vie associative</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Situation fiscale</td>
+  <td>Direction générale des finances publiques</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Situation sociale ;
 
-d) Greffes des tribunaux de commerce, pour celles du registre du commerce et des sociétés ainsi que les statuts et bilans ;
+Données relatives aux salariés et dirigeants sociaux</td>
+  <td>Organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale, au I de l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 et au I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 ;
 
-e) Préfectures de département et direction de la jeunesse, de l'éducation populaire et de la vie associative, pour celles concernant les statuts et l'identité des dirigeants des organismes à but non lucratif ;
+Direction de l'animation de la recherche, des études et des statistiques</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Accréditations ou agréments</td>
+  <td>Administrations et organismes chargés d'une mission de service public qui les délivrent</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail</td>
+  <td>Association de gestion du fonds de développement pour l'insertion professionnelle des personnes handicapées (AGEFIPH)</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Numéro d'enregistrement et d'identification uniques des opérateurs économiques dit EORI, prévu par le règlement d'exécution (UE) 2021/414 du 8 mars 2021</td>
+  <td>Direction générale des douanes et des droits indirects</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Protection liée aux marques, brevets, dessins et modèles déposés</td>
+  <td>Institut national de la propriété industrielle</td>
+ </tr>
+ <tr>
+  <td>Entreprises ou organismes à but non lucratif</td>
+  <td>Diplômes, titres et qualifications professionnelles</td>
+  <td>Organismes publics chargés de leur délivrance ou de leur reconnaissance</td>
+ </tr>
+</tbody></table>
 
-2° Situation fiscale de l'entreprise ou de l'organisme à but non lucratif, à la direction générale des finances publiques ;
+II.-En tant que de besoin, un arrêté du Premier ministre fixe les conditions de mise en œuvre de cette mise à disposition.
 
-3° Situation sociale de l'entreprise ou de l'organisme à but non lucratif et données relatives à ses salariés et dirigeants sociaux, aux organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale et à la direction de l'animation de la recherche, des études et des statistiques du ministère en charge du travail ;
+##### Article D114-9-2
 
-4° Accréditations ou agréments, à toutes les administrations et organismes chargés d'une mission de service public qui les délivrent ;
-
-5° Régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-2 à L. 5212-5 du code du travail, à l'association de gestion du fonds de développement pour l'insertion professionnelle des handicapés ;
-
-6° Détention d'un numéro EORI (Economic Operator Registration and Identification) en application du règlement (CE) n° 312/2009 du 16 avril 2009 relatif à l'attribution d'un numéro unique d'identifiant communautaire pour les opérateurs économiques devant accomplir des formalités douanières, à la direction générale des douanes et des droits indirects ;
-
-7° Protection liée aux marques, brevets, dessins et modèles déposés, à l'Institut national de la propriété industrielle ;
-
-8° Diplômes, titres et qualifications professionnelles, aux organismes publics chargés de leur délivrance ou de leur reconnaissance.
-
-##### Article R114-9-2
-
-Les demandes formulées sur le fondement de l'article R. 114-9-1 concernent les procédures qui interviennent dans les domaines suivants :
-
-1° Réglementations particulières en matière d'agriculture et de forêt, de bâtiments et de travaux publics, de culture, d'environnement, de recherche et développement, de santé, de sécurité, de transports, de tourisme ainsi que d'urbanisme ;
-
-2° Aides publiques régies par la réglementation européenne et le décret n° 2018-514 du 25 juin 2018 relatif aux subventions de l'Etat pour des projets d'investissement ;
-
-3° Création, cessation, modification, reprise et transmission d'entreprise, prévention de ses difficultés et leurs traitements ;
-
-4° Fiscalité ;
-
-5° Gestion des ressources humaines et formation professionnelle, notamment aides à l'emploi, protection sociale, recrutement et réglementation du travail ;
-
-6° Législation sur les baux commerciaux et professionnels ;
-
-7° Comptabilité, financement et assurance de l'entreprise ;
-
-8° Marchés publics, pour ce qui concerne la constitution du dossier de candidature ;
-
-9° Règlementation en matière commerciale, notamment celles relatives aux autorisations pour installation, aux commerces spécifiques, à l'import et à l'export, aux pratiques commerciales, à la publicité extérieure et aux ventes particulières.
-
-##### Article R114-9-3
-
-Lorsqu'elles portent sur des informations relatives aux particuliers, les demandes de communication mentionnées au 2° de l'article L. 114-9 sont adressées, selon la nature des informations demandées, aux services et organismes suivants :
-
-1° Situation du foyer fiscal, à la direction générale des finances publiques ;
-
-2° Justification de l'identité par voie électronique par l'intermédiaire du téléservice " FranceConnect " à la direction interministérielle du numérique et du système d'information et de communication de l'Etat ;
-
-3° Droits sociaux, revenus et prestations, aux organismes de protection sociale et aux organismes mentionnés au premier alinéa de l'article L. 133-5 du code de la sécurité sociale ;
-
-4° Situation de la personne scolarisée, au ministère de l'éducation nationale, de la jeunesse et des sports, au ministère de l'enseignement supérieur, de la recherche et de l'innovation ou aux organismes publics mentionnés au 5° ;
-
-5° Diplômes, titres et qualifications professionnelles, aux organismes publics chargés de leur délivrance ou de leur reconnaissance ;
-
-6° Situation du demandeur d'emploi, à Pôle Emploi ;
-
-7° Situation de la famille, aux organismes de protection sociale ;
-
-8° Situation au regard des obligations prévues à l'article L. 111-2 du code du service national, à la direction du service national et de la jeunesse.
-
-##### Article R114-9-4
-
-Les demandes formulées sur le fondement de l'article R. 114-9-3 concernent les procédures qui interviennent dans les domaines suivants :
-
-1° Consommation, notamment assurances, banques, surendettement, épargne ;
-
-2° Enseignement et études supérieures ;
-
-3° Emploi, chômage, formation, santé et sécurité au travail, rupture contractuelle des relations de travail ;
-
-4° Famille, notamment enfance, protection des personnes, succession, union et séparation ;
-
-5° Identité, notamment état civil, titres d'identité sous réserve des dispositions de l'article R. 113-9, élections et recensement citoyen obligatoire ;
-
-6° Impôts, taxes et droits de douane ;
-
-7° Justice, notamment aide juridictionnelle et aide à l'intervention de l'avocat dans les procédures non juridictionnelles ;
-
-8° Logement et urbanisme, notamment les procédures relatives à l'achat d'un bien et aux aides financières y afférentes, copropriété, location et protection de l'habitat ;
-
-9° Santé et solidarité, notamment aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale et soins ;
-
-10° Transport, notamment cartes de transport et permis de conduire.
+Pour les types d'informations ou de données qui ne sont pas mentionnés à l'article D. 114-9-1, ceux-ci sont mis à disposition dans les conditions prévues à l'article 1er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique.
 
 ##### Article R114-9-5
 
-Les informations relevant de la présente section sont mises à disposition sous forme électronique, par le biais de traitements automatisés assurant la traçabilité des échanges, par les services et organismes mentionnés aux articles R. 114-9-1 et R. 114-9-3 ou, à défaut, par l'intermédiaire de la direction interministérielle du numérique et des systèmes d'information et de communication de l'Etat.
+Les informations relevant de la présente section sont mises à disposition sous forme électronique, par le biais de traitements automatisés assurant la traçabilité des échanges, par les administrations désignées dans les conditions prévues au dernier alinéa de l'article L. 114-9 et, le cas échéant, par la direction interministérielle du numérique.
 
 ##### Article R114-9-6
 
@@ -639,11 +639,15 @@ Afin d'assurer la sécurité et la confidentialité des informations, les organi
 
 En fonction de la sensibilité des données échangées, ces organismes déterminent les niveaux de sécurité appropriés conformément aux dispositions du décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9,10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives. Ils mettent en œuvre notamment les fonctions d'identification de l'administration demanderesse, d'horodatage, de confidentialité et d'intégrité des informations échangées.
 
-Seuls peuvent accéder aux informations ainsi échangées les agents habilités des services administrations compétents pour mettre en œuvre les procédures mentionnées aux articles R. 114-9-2 et R. 114-9-4.
+Seuls peuvent accéder aux informations ainsi échangées les agents habilités des administrations figurant sur la liste mentionnée au dernier alinéa de l'article L. 114-8 compétents pour traiter les demandes et les déclarations transmises par le public, informer les personnes de leur doit au bénéfice éventuel d'une prestation ou d'un avantage et, le cas échéant, leur attribuer cette prestation ou cet avantage.
 
 ##### Article R114-9-7
 
 Les données relatives à la traçabilité des échanges sont conservées pendant une durée de trente-six mois, sans préjudice des obligations de conservation incombant aux administrations destinataires des informations échangées. Elles sont mises à la disposition de l'intéressé par le responsable des échanges.
+
+Les informations et données collectées en application du II de l'article L. 114-8 sont conservées en vue de l'information des personnes sur leur droit au bénéfice éventuel d'une prestation ou d'un avantage pour une durée ne pouvant excéder douze mois, sans préjudice de la durée de conservation des données du traitement mis en œuvre pour l'attribution de cette prestation ou de cet avantage.
+
+Lorsqu'une personne a exprimé, en application du deuxième alinéa du II de l'article L. 114-8, son opposition à la poursuite d'un traitement de données à caractère personnel, les informations strictement nécessaires pour assurer le respect de son droit d'opposition peuvent être conservées à cette fin exclusive pour une durée comprise entre douze et vingt-quatre mois.
 
 ##### Article L114-10
 
@@ -3463,16 +3467,8 @@ R. 112-4 et R. 112-5</td>
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-  <td>R. 114-9-1 et R. 114-9-2</td>
-  <td>Résultant du décret n° 2019-31 du 18 janvier 2019</td>
- </tr>
- <tr>
-  <td>R. 114-9-3 et R. 114-9-4</td>
-  <td>Résultant du décret n° 2021-464 du 16 avril 2021</td>
- </tr>
- <tr>
-  <td>R. 114-9-5 à R. 114-9-8</td>
-  <td>Résultant du décret n° 2019-31 du 18 janvier 2019</td>
+  <td>R. 114-9-5 à R. 114-9-7</td>
+  <td>Résultant du décret n° 2023-361 du 11 mai 2023</td>
  </tr>
  <tr>
   <td>Titre III</td>
@@ -3499,8 +3495,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <th>DANS LEUR RÉDACTION</th>
  </tr>
  <tr>
-  <td>D. 113-14</td>
-  <td>Résultant du décret n° 2019-33 du 18 janvier 2019</td>
+  <td>D. 114-9-1 et D. 114-9-2</td>
+  <td>Résultant du décret n° 2023-362 du 11 mai 2023</td>
  </tr>
  <tr>
   <td>D. 114-12 à D. 114-15</td>
@@ -4360,16 +4356,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-  <td>R. 114-9-1 et R. 114-9-2</td>
-  <td>Résultant du décret n° 2019-31 du 18 janvier 2019</td>
- </tr>
- <tr>
-  <td>R. 114-9-3 et R. 114-9-4</td>
-  <td>Résultant du décret n° 2021-464 du 16 avril 2021</td>
- </tr>
- <tr>
-  <td>R. 114-9-5 à R. 114-9-8</td>
-  <td>Résultant du décret n° 2019-31 du 18 janvier 2019</td>
+  <td>R. 114-9-5 à R. 114-9-7</td>
+  <td>Résultant du décret n° 2023-361 du 11 mai 2023</td>
  </tr>
  <tr>
   <td>Titre III</td>
@@ -4395,8 +4383,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <th>DANS LEUR RÉDACTION</th>
  </tr>
  <tr>
-  <td>D. 113-14</td>
-  <td>Résultant du décret n° 2019-33 du 18 janvier 2019</td>
+  <td>D. 114-9-1 et D. 114-9-2</td>
+  <td>Résultant du décret n° 2023-362 du 11 mai 2023</td>
  </tr>
  <tr>
   <td>D. 114-12 à D. 114-15</td>
@@ -5250,16 +5238,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td>Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-  <td>R. 114-9-1 et R. 114-9-2</td>
-  <td>Résultant du décret n° 2019-31 du 18 janvier 2019</td>
- </tr>
- <tr>
-  <td>R. 114-9-3 et R. 114-9-4</td>
-  <td>Résultant du décret n° 2021-464 du 16 avril 2021</td>
- </tr>
- <tr>
-  <td>R. 114-9-5 à R. 114-9-8</td>
-  <td>Résultant du décret n° 2019-31 du 18 janvier 2019</td>
+  <td>R. 114-9-5 à R. 114-9-7</td>
+  <td>Résultant du décret n° 2023-361 du 11 mai 2023</td>
  </tr>
  <tr>
   <td>Titre III</td>
@@ -5293,8 +5273,8 @@ Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau 
   <td align="justify">Résultant du décret n° 2015-1342</td>
  </tr>
  <tr>
-  <td align="justify">D. 113-14</td>
-  <td align="justify">Résultant du décret n° 2019-33 du 18 janvier 2019</td>
+  <td align="justify">D. 114-9-1 et D. 114-9-2</td>
+  <td align="justify">Résultant du décret n° 2023-362 du 11 mai 2023</td>
  </tr>
  <tr>
   <td align="justify">D. 114-12 à D. 114-15</td>
