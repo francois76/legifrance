@@ -140,281 +140,52 @@ VI-7.1. Documents justificatifs à joindre à l'appui d'une demande d'aide séle
 
 11° Une présentation des sociétés de production, de distribution ou ventes internationales.
 
-VI-8. Aides financières sélectives à la modernisation des industries techniques
+VI-8. Aides financières sélectives aux projets techniques
 
-VI-8.1. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'investissement dans des immobilisations
+VI-8.1. Documents justificatifs à joindre à l'appui d'une demande d'aide sélective à la faisabilité ou à la réalisation de projets (articles 632-1 et suivants et articles 633-1 et suivants)
 
-(Articles 631-6 et suivants)
+I. - Dossier entreprise :
 
-I.-Dossier Entreprise (une seule fois par an) :
+1° La présentation détaillée du l'entreprise selon le modèle fourni, y compris la description de la structure du capital identifiant les entreprises liées et les entreprises partenaires au sens de l'annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 mentionné à l'article 631-2 ;
 
-1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
+2° Les liasses fiscales des trois derniers exercices clos ;
 
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
+3° Les attestations mentionnées à l'article 122-12 ;
 
-3° Eventuellement, un document unique de sécurité de l'entreprise et de ses établissements secondaires ;
+4° Un extrait K bis (pour la première demande seulement sauf en cas de modifications) ;
 
-4° Attestations fiscales et sociales :
+II. - Dossier projet :
 
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
+1° La présentation détaillée du projet selon le modèle fourni ;
 
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
+2° Une copie des devis des fournisseurs ou prestataires.
 
-5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
+VI-8.2. Documents justificatifs à joindre à l'appui d'une demande d'aide sélective aux opérations à caractère collectif (articles 634-1 et suivants)
 
-II.-Dossier Projet :
+I. - Dossier administratif :
 
-1° Une copie des devis des fournisseurs ou prestataires ;
+1° Une présentation détaillée de la personne morale sollicitant l'aide selon le modèle fourni et une note sur le développement de ses activités, accompagnée de documents relatifs à son organisation :
 
-2° Eventuellement, des informations complémentaires sur le projet ;
+- lorsque la demande est présentée par une association, la copie des statuts, la copie du récépissé de dépôt de déclaration en préfecture, la copie de la publication au Journal officiel et, le cas échéant, la délégation de signature du président (pour la première demande seulement sauf en cas de modifications) ;
+- lorsque la demande est présentée par une société, un exemplaire de l'extrait K bis datant de moins de trois mois (pour la première demande seulement sauf en cas de modifications), la copie des statuts et, le cas échéant, la délégation de signature du représentant légal (pour la première demande seulement sauf en cas de modifications), ainsi que la description de la structure du capital identifiant les entreprises liées et les entreprises partenaires au sens de l'annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 mentionné à l'article 631-2 ;
+- lorsque la demande est présentée par un établissement public, les dispositions statutaires régissant ses missions ;
 
-3° Eventuellement, des éléments visuels permettant de mieux apprécier le projet ;
+2° Lorsque la demande est présentée par une société :
 
-4° Lorsque l'investissement s'accompagne de créations de postes, les fiches de postes correspondantes ainsi que le curriculum vitae de la personne qui a éventuellement déjà été recrutée.
+- les liasses fiscales des trois derniers exercices clos ;
+- les attestations mentionnées à l'article 122-12 ;
 
-VI-8.2. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'investissement éco-responsable
+3° Lorsque la demande est présentée par une association :
 
-(Articles 631-8 et suivants)
+- un rapport d'activité de l'année précédente ;
+- une fiche détaillée sur le personnel de la structure ;
+- les derniers comptes clôturés et le rapport du commissaire aux comptes si l'association est soumise à une certification de ses comptes ;
 
-I.-Dossier Entreprise (une seule fois par an) :
+4° Si la personne morale a bénéficié d'une subvention l'année précédente pour la même opération, le compte-rendu financier correspondant.
 
-1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
+II. - Dossier de présentation de l'opération :
 
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
+1° La présentation détaillée de l'opération selon le modèle fourni ;
 
-3° Eventuellement, un document unique de sécurité et de ses établissements secondaires ;
-
-4° Attestations fiscales et sociales :
-
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
-
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
-
-5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
-
-II.-Dossier Projet :
-
-1° Une copie des devis des fournisseurs ou prestataires relatifs à l'investissement dit de référence ;
-
-2° Une copie des devis des fournisseurs ou prestataires relatifs à l'investissement dit écologique ;
-
-3° Eventuellement, des informations complémentaires sur le projet ;
-
-4° Eventuellement, des éléments visuels permettant de mieux apprécier le projet.
-
-VI-8.3. Documents justificatifs à joindre à l'appui d'une demande d'aide à la formation liée à un investissement
-
-(Articles 631-10 et suivants)
-
-I.-Dossier Entreprise (une seule fois par an) :
-
-1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
-
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
-
-3° Eventuellement, un document unique de sécurité et de ses établissements secondaires ;
-
-4° Attestations fiscales et sociales :
-
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
-
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
-
-5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
-
-II.-Dossier Projet :
-
-1° Une copie des devis des fournisseurs ou prestataires ;
-
-2° Eventuellement, des informations complémentaires sur le projet ;
-
-3° Eventuellement, des éléments visuels permettant de mieux apprécier le projet.
-
-VI-8.4. Documents justificatifs à joindre à l'appui d'une demande d'aide à la propriété industrielle
-
-(Articles 631-12 et suivants)
-
-I.-Dossier Entreprise (une seule fois par an) :
-
-1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
-
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
-
-3° Eventuellement, un document unique de sécurité et de ses établissements secondaires ;
-
-4° Attestations fiscales et sociales :
-
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
-
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
-
-5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
-
-II.-Dossier Projet :
-
-1° Une copie des devis des fournisseurs ou prestataires ;
-
-2° Eventuellement, le ou les mémoires d'invention liés au projet ;
-
-3° Eventuellement, des informations complémentaires sur le projet ;
-
-4° Eventuellement, des éléments visuels permettant de mieux apprécier le projet.
-
-VI-8.5. Documents justificatifs à joindre à l'appui d'une demande d'aide aux prestations de conseil
-
-(Articles 631-14 et suivants)
-
-I.-Dossier Entreprise (une seule fois par an) :
-
-1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
-
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
-
-3° Eventuellement, un document unique de sécurité et de ses établissements secondaires ;
-
-4° Attestations fiscales et sociales :
-
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
-
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
-
-5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
-
-II.-Dossier Projet :
-
-1° Une copie des devis des fournisseurs ou prestataires ;
-
-2° Eventuellement, des informations complémentaires sur le projet ;
-
-3° Eventuellement, des éléments visuels permettant de mieux apprécier le projet.
-
-VI-8.6. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'amélioration des outils et services de communication
-
-(Articles 631-16 et suivants)
-
-I.-Dossier Entreprise (une seule fois par an) :
-
-1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
-
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
-
-3° Eventuellement, un document unique de sécurité et de ses établissements secondaires ;
-
-4° Attestations fiscales et sociales :
-
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
-
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
-
-5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
-
-II.-Dossier Projet :
-
-1° Une copie des devis des fournisseurs ou prestataires ;
-
-2° Eventuellement, des captations d'écran du site internet actuel ou précédent ;
-
-3° Eventuellement, des informations complémentaires sur le projet ;
-
-4° Eventuellement, des éléments visuels permettant de mieux apprécier le projet.
-
-VI-8.7. Documents justificatifs à joindre à l'appui d'une demande d'aide à la participation aux foires
-
-(Articles 631-18 et suivants)
-
-I.-Dossier Entreprise (une seule fois par an) :
-
-1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
-
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
-
-3° Eventuellement, un document unique de sécurité et de ses établissements secondaires ;
-
-4° Attestations fiscales et sociales :
-
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
-
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
-
-5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
-
-II.-Dossier Projet :
-
-1° Une copie des devis des fournisseurs ou prestataires ;
-
-2° Eventuellement, des informations complémentaires sur le projet ;
-
-3° Eventuellement, des éléments visuels permettant de mieux apprécier le projet.
-
-VI-8.8. Documents justificatifs à joindre à l'appui d'une demande d'aide à la recherche industrielle et au développement expérimental
-
-(Articles 631-20 et suivants)
-
-I.-Dossier Entreprise (une seule fois par an) :
-
-1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
-
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
-
-3° Eventuellement, un document unique de sécurité et de ses établissements secondaires ;
-
-4° Attestations fiscales et sociales :
-
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
-
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
-
-5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
-
-II.-Dossier Projet :
-
-1° Un état de l'art commercial faisant ressortir les atouts de l'entreprise et du nouveau produit ou service par rapport à la concurrence ;
-
-2° Un cahier des charges ;
-
-3° Un calendrier des tâches ;
-
-4° Eventuellement, des informations complémentaires sur le projet ;
-
-5° Eventuellement, des éléments visuels permettant de mieux apprécier le projet ;
-
-6° Lorsque la demande concerne une expérimentation technique d'un prototype lié à une œuvre donnée :
-
-a) Le devis, à destination du producteur, de la phase spécifique de recherche et développement réalisée dans le cadre de la préparation de l'œuvre ;
-
-b) Une note d'intention du producteur décrivant son intérêt pour l'utilisation du produit développé, acceptant le devis proposé et s'engageant à le régler à hauteur d'au moins 30 % dès la mise en production de l'œuvre.
-
-VI-8.9. Documents justificatifs à joindre à l'appui d'une demande d'aide à l'innovation de procédé et d'organisation
-
-(Articles 631-23 et suivants)
-
-I.-Dossier Entreprise (une seule fois par an) :
-
-1° La déclaration mentionnée au 3° du I de l'article 122-9 pour chacun des trois derniers exercices clos ;
-
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
-
-3° Eventuellement, un document unique de sécurité et de ses établissements secondaires ;
-
-4° Attestations fiscales et sociales :
-
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
-
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
-
-5° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications).
-
-II.-Dossier Projet :
-
-1° Un schéma avant/ après faisant figurer explicitement l'innovation de procédé et/ ou d'organisation au sein de l'entreprise ;
-
-2° Un calendrier des tâches ;
-
-3° Une annexe technique et/ ou commerciale complémentaire ;
-
-4° Eventuellement, des informations complémentaires sur le projet ;
-
-5° Eventuellement, des éléments visuels permettant de mieux apprécier le projet ;
-
-6° Lorsque la demande implique une modification dans la mise en relation de l'entreprise avec ses partenaires ou ses clients, un schéma avant/ après faisant figurer précisément l'évolution de la productivité de l'entreprise grâce à cette modification.
+2° Un devis détaillé de l'opération et son plan de financement, accompagné de toute pièce justificative d'un financement public ou privé.
 

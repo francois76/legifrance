@@ -1,8 +1,4 @@
 ###### Article 631-2
 
-Pour être admis au bénéfice des aides financières à la modernisation des industries techniques, les entreprises ou organismes répondent aux conditions suivantes :
-
-1° Relever des industries techniques ou, en ce qui concerne les aides à la recherche industrielle et au développement expérimental et les aides à l'innovation de procédé et d'organisation, être des entreprises ou organismes qui interviennent dans le domaine de la création, de la production ou de la diffusion des œuvres cinématographiques, audiovisuelles et multimédias ;
-
-2° Etre établis en France.
+L'attribution des aides financières aux projets techniques est soumise aux dispositions du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et les articles 17, 18, 19, 25, 28, 29 et 31 ou, le cas échéant, du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 

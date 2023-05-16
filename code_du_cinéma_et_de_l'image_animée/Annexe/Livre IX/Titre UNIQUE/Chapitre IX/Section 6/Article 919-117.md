@@ -13,3 +13,4 @@ Ce formulaire est accompagné :
 (1) La définition des œuvres audiovisuelles difficiles relève de l'autorité d'octroi et doit être définie dans l'accord intergouvernemental ou administratif instituant le dispositif d'aides.
 
 (2) La liste du Comité d'aide au développement (CAD) de l'OCDE est la liste dans laquelle figurent tous les pays et territoires pouvant bénéficier d'une aide officielle au développement.
+
