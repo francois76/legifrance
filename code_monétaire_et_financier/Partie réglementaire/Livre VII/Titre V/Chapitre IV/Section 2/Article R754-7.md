@@ -18,7 +18,15 @@ I. - Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptat
   <td>n° 2005-1007 du 2 août 2005</td>
  </tr>
  <tr>
-  <td>R. 313-4 et R. 313-10</td>
+  <td>R. 313-4</td>
+  <td>n° 2021-1887 du 29 décembre 2021</td>
+ </tr>
+ <tr>
+  <td>R. 313-5</td>
+  <td>n° 2023-369 du 11 mai 2023</td>
+ </tr>
+ <tr>
+  <td>R. 313-10</td>
   <td>n° 2021-1887 du 29 décembre 2021</td>
  </tr>
  <tr>
