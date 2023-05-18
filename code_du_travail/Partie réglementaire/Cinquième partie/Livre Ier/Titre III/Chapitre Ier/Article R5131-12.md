@@ -6,7 +6,7 @@ Il mentionne :
 
 1° Les phases du parcours, leurs objectifs et leur durée définis par le bénéficiaire et le conseiller référent ;
 
-2° Les engagements de chaque partie au contrat pour chaque phase. Parmi ces engagements figurent pour le bénéficiaire la participation active aux différentes actions prévues au sein des phases d'accompagnement ainsi que la sincérité et l'exactitude des informations communiquées, notamment au titre de l'article R. 5131-8;
+2° Les engagements de chaque partie au contrat pour chaque phase. Parmi ces engagements figurent pour le bénéficiaire la participation active aux différentes actions prévues au sein des phases d'accompagnement ainsi que la sincérité et l'exactitude des informations communiquées, notamment au titre de l'article R. 5131-8 ;
 
 3° Le cas échéant, l'attribution d'une allocation et son montant.
 

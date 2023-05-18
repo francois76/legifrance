@@ -4,7 +4,7 @@ I.-Une autorisation d'activité partielle peut être accordée pour une durée m
 
 Par dérogation à l'alinéa précédent, lorsque l'employeur place ses salariés en position d'activité partielle en application du 3° de l'article R. 5122-1, l'autorisation d'activité partielle peut être accordée pour une durée maximum de six mois. Cette autorisation peut être renouvelée dans les conditions fixées au II.
 
-II. - Lorsque l'employeur a, préalablement à sa demande, déjà placé ses salariés en activité partielle au cours des trente-six mois précédant la date de dépôt de la demande d'autorisation, celle-ci mentionne les engagements souscrits par l'employeur.
+II.-Lorsque l'employeur a, préalablement à sa demande, déjà placé ses salariés en activité partielle au cours des trente-six mois précédant la date de dépôt de la demande d'autorisation, celle-ci mentionne les engagements souscrits par l'employeur.
 
 Ces engagements peuvent notamment porter sur :
 
@@ -18,7 +18,7 @@ Ces engagements peuvent notamment porter sur :
 
 L'autorité administrative fixe ces engagements en tenant compte de la situation de l'entreprise, d'un éventuel accord collectif sur les conditions du recours à l'activité partielle ou, à défaut, des propositions figurant dans la demande d'autorisation ainsi que de la récurrence du recours à l'activité partielle dans l'établissement.
 
-III. - Les engagements sont notifiés dans la décision d'autorisation.
+III.-Les engagements sont notifiés dans la décision d'autorisation.
 
-IV. - L'autorité administrative s'assure du respect des engagements souscrits par l'employeur.
+IV.-L'autorité administrative s'assure du respect des engagements souscrits par l'employeur.
 

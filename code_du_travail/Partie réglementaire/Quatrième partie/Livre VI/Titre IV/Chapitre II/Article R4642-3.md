@@ -1,6 +1,6 @@
 ###### Article R4642-3
 
-I. - L'Agence nationale pour l'amélioration des conditions de travail est administrée par un conseil d'administration et dirigée par un directeur général.
+I.-L'Agence nationale pour l'amélioration des conditions de travail est administrée par un conseil d'administration et dirigée par un directeur général.
 
 Le conseil d'administration comprend :
 
@@ -29,7 +29,7 @@ f) Un représentant du ministre chargé de la fonction publique ;
 
 Un arrêté du ministre chargé du travail fixe la répartition des sièges mentionnés aux 1° et 2° du présent I.
 
-II. - Outre les personnalités prévues au quatrième alinéa de l'article L. 4642-2, assistent avec voix consultative aux réunions du conseil d'administration :
+II.-Outre les personnalités prévues au quatrième alinéa de l'article L. 4642-2, assistent avec voix consultative aux réunions du conseil d'administration :
 
 1° Le directeur général et l'agent comptable de l'agence ou leurs représentants ;
 
@@ -43,7 +43,7 @@ II. - Outre les personnalités prévues au quatrième alinéa de l'article L. 46
 
 En outre, le conseil d'administration peut entendre toute personne dont il estime l'audition utile à son information.
 
-III. - Le conseil d'administration élit un président parmi ses membres, à la majorité absolue. Son mandat est d'une durée de trois ans renouvelable. La limite d'âge qui lui est applicable est fixée à soixante-dix ans.
+III.-Le conseil d'administration élit un président parmi ses membres, à la majorité absolue. Son mandat est d'une durée de trois ans renouvelable. La limite d'âge qui lui est applicable est fixée à soixante-dix ans.
 
 En cas d'absence ou d'empêchement du président, le ministre chargé du travail ou son représentant exerce ses prérogatives.
 
