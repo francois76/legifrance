@@ -10,7 +10,7 @@ Sous réserve des adaptations prévues par le présent chapitre, les disposition
   <th>Dans leur rédaction résultant de</th>
  </tr>
  <tr>
-  <td align="justify">L.200-1 et L. 200-2</td>
+  <td align="justify">L. 200-1 et L. 200-2</td>
   <td align="left"/>
  </tr>
  <tr>

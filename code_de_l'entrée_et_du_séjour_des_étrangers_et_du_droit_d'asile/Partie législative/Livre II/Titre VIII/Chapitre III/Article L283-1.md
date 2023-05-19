@@ -70,7 +70,7 @@ Au titre V</td>
  <tr>
 <td align="justify">
 
-L. 251-1 à L.251-6</td>
+L. 251-1 à L. 251-6</td>
   <td align="left"/>
  </tr>
  <tr>
