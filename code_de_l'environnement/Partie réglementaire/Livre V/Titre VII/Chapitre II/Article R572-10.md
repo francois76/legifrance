@@ -1,8 +1,8 @@
 ##### Article R572-10
 
-I. - Le plan de prévention du bruit dans l'environnement est arrêté :
+I.-Le plan de prévention du bruit dans l'environnement est arrêté :
 
-1° Par le représentant de l'Etat dans le département pour les infrastructures ferroviaires et les infrastructures routières et autoroutières d'intérêt national ou européen faisant partie du domaine routier national ;
+1° Par le représentant de l'Etat dans le département pour les infrastructures ferroviaires, les aérodromes mentionnés au 3° de l'article R. 572-2 et les infrastructures routières et autoroutières d'intérêt national ou européen faisant partie du domaine routier national ;
 
 2° Par l'organe délibérant de la collectivité territoriale gestionnaire pour les infrastructures routières autres que celles mentionnées à l'alinéa précédent ;
 

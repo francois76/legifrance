@@ -1,10 +1,6 @@
 ##### Article R572-3
 
-Une carte de bruit et un plan de prévention du bruit dans l'environnement sont établis dans les conditions prévues au présent chapitre :
+Les cartes de bruit et plans de prévention du bruit dans l'environnement relatifs aux aérodromes civils mentionnés au 3° de l'article R. 572-2 sont réexaminés en cas d'évolution significative des niveaux de bruit identifiés et, en tout état de cause, au moins tous les cinq ans.
 
-1° Pour chacune des infrastructures routières et autoroutières dont le trafic annuel est supérieur à 3 millions de véhicules ;
-
-2° Pour chacune des infrastructures ferroviaires dont le trafic annuel est supérieur à 30 000 passages de train ;
-
-3° Pour les agglomérations mentionnées au 2° de l'article L. 572-2.
+Après leur réexamen et s'il y a lieu, ils sont actualisés selon la procédure prévue pour leur établissement aux articles R. 572-9 à R. 572-11.
 

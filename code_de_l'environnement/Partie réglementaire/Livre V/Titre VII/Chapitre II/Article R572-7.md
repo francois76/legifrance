@@ -1,6 +1,6 @@
 ##### Article R572-7
 
-Les cartes de bruit concernant les infrastructures mentionnées aux 1° et 2° de l'article R. 572-3 sont arrêtées et publiées par le représentant de l'Etat dans le département.
+Les cartes de bruit concernant les infrastructures mentionnées aux 1°, 2° et 3° de l'article R. 572-3 sont arrêtées et publiées par le représentant de l'Etat dans le département.
 
 Les cartes de bruit concernant les agglomérations mentionnées au 2° de l'article L. 572-2 sont arrêtées par les conseils municipaux des communes appartenant aux agglomérations ou par les organes délibérants des établissements publics de coopération intercommunale compétents en matière de lutte contre les nuisances sonores, s'il en existe.
 
