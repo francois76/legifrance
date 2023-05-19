@@ -16,7 +16,15 @@ Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adaptatio
   <td align="justify">Résultant du décret n° 2021-1887 du 29 décembre 2021</td>
  </tr>
  <tr>
-  <td align="justify">R. 5114-15 à R. 5114-24</td>
+  <td align="justify">R. 5114-15 à R. 5114-19</td>
+  <td align="justify">Résultant du décret n° 2016-1893 du 28 décembre 2016</td>
+ </tr>
+ <tr>
+  <td align="justify">R. 5114-19-1</td>
+  <td align="justify">Résultant du décret n° 2023-369 du 11 mai 2023</td>
+ </tr>
+ <tr>
+  <td align="justify">R. 5114-20 à R. 5114-24</td>
   <td align="justify">Résultant du décret n° 2016-1893 du 28 décembre 2016</td>
  </tr>
  <tr>

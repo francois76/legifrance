@@ -19,7 +19,13 @@ Sont applicables aux Terres australes et antarctiques françaises, sous réserve
   <td align="justify"/><td align="justify"/>
  </tr>
  <tr>
-<td align="justify"/><td align="justify">décret n° 2021-1887 du 29 décembre 2021R. 5114-15 à R. 5114-24Résultant du décret n° 2016-1893 du 28 décembre 2016 R. 5114-25 à R. 5114-26Résultant du décret n° 2021-1887 du 29 décembre 2021</td>
+<td align="justify"/><td align="justify"/>
+ </tr>
+ <tr>
+<td align="justify"/><td align="justify"/>
+ </tr>
+ <tr>
+<td align="justify"/><td align="justify">décret n° 2021-1887 du 29 décembre 2021R. 5114-15 à R. 5114-19Résultant du décret n° 2016-1893 du 28 décembre 2016R. 5114-19-1Résultant du décret n° 2023-369 du 11 mai 2023R. 5114-20 à R. 5114-24Résultant du décret n° 2016-1893 du 28 décembre 2016R. 5114-25 à R. 5114-26Résultant du décret n° 2021-1887 du 29 décembre 2021</td>
  </tr>
  <tr>
   <td align="justify">R. 5114-27 à R. 5114-33</td>
