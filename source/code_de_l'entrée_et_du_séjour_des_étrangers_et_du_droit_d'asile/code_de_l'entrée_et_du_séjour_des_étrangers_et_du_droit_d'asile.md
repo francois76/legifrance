@@ -1463,7 +1463,7 @@ Pour l'application du présent livre à Saint-Barthélemy :
 
 4° Le deuxième alinéa de l'article L. 233-4 est supprimé ;
 
-5°A l'article L. 264-1, les références aux articles L. 722-7, L. 732-8 et L. 754-3 à L. 754-5 sont supprimées.
+5° A l'article L. 264-1, les références aux articles L. 722-7, L. 732-8 et L. 754-3 à L. 754-5 sont supprimées.
 
 #### Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN
 
@@ -1539,7 +1539,7 @@ Au titre V</td>
  <tr>
 <td align="justify">
 
-L. 251-1 à L.251-6</td>
+L. 251-1 à L. 251-6</td>
   <td align="left"/>
  </tr>
  <tr>
@@ -1906,7 +1906,7 @@ Sous réserve des adaptations prévues par le présent chapitre, les disposition
   <th>Dans leur rédaction résultant de</th>
  </tr>
  <tr>
-  <td align="justify">L.200-1 et L. 200-2</td>
+  <td align="justify">L. 200-1 et L. 200-2</td>
   <td align="left"/>
  </tr>
  <tr>
