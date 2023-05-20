@@ -7541,6 +7541,56 @@ La direction générale des douanes et droits indirects est l'administration au 
 
 Les procès-verbaux mentionnés à l'article L. 238 sont ceux établis par la direction générale des douanes et droits indirects et la direction générale des finances publiques en ce qui concerne, pour cette dernière direction, le contrôle des obligations résultant du III de l'article 298 bis du code général des impôts et l'application de l'article 290 quater du même code.
 
+####### Article R245 A-1
+
+Tout prélèvement préalable réalisé, en application de l'article L. 245 A, par les agents de l'administration des douanes et droits indirects comporte deux échantillons.
+
+Les deux échantillons sont, autant que possible, identiques.
+
+####### Article R245 A-2
+
+Le prélèvement est réalisé en la présence soit du propriétaire, s'il est connu, soit du détenteur de la marchandise ou d'un représentant de l'un d'eux ou, à défaut, d'un témoin requis par les agents de l'administration des douanes et droits indirects et n'appartenant pas à cette administration.
+
+####### Article R245 A-3
+
+Les échantillons prélevés sont mis sous scellés et revêtus d'une étiquette d'identification portant les mentions suivantes :
+
+1° Quand le prélèvement n'est pas effectué dans les locaux de l'administration, les nom, prénom ou raison sociale et adresse de la personne chez laquelle le prélèvement est réalisé ;
+
+2° La dénomination exacte de la marchandise ayant fait l'objet du prélèvement ou celle qui paraît pouvoir lui être attribuée ;
+
+3° Le numéro d'ordre de chaque échantillon ;
+
+4° La date et l'heure du prélèvement ;
+
+5° Les nom, prénom et qualité des agents de l'administration mentionnés à l'article R. 245 A-1 ayant réalisé le prélèvement ainsi que leur signature ;
+
+6° Les nom, prénom, adresse et qualité de la personne mentionnée à l'article R. 245 A-2 ayant assisté au prélèvement, ainsi que sa signature ou la mention de son refus de signer.
+
+####### Article R245 A-4
+
+Tout prélèvement préalable réalisé en application de l'article L. 245 A donne lieu à la rédaction d'un procès-verbal qui mentionne :
+
+1° La date, l'heure et le lieu du prélèvement ;
+
+2° Les nom, prénom et qualité des agents de l'administration ayant réalisé le prélèvement et établi le procès-verbal ;
+
+3° Les nom, prénom, profession et adresse de la personne mentionnée à l'article R. 245 A-2 ayant assisté au prélèvement, ainsi que de la personne chez qui le prélèvement a été réalisé, si elle est différente. Lorsqu'il s'agit d'une personne morale, il y a lieu d'indiquer sa raison sociale, son adresse et le lieu d'établissement concerné s'il est distinct du principal établissement de ladite personne ;
+
+4° Les nom, prénom et adresse du propriétaire de l'échantillon, s'il est connu ;
+
+5° Un exposé succinct des circonstances dans lesquelles le prélèvement a été réalisé ;
+
+6° L'identification exacte des échantillons ainsi que toute indication jugée utile pour établir l'authenticité des échantillons prélevés.
+
+La personne présente lors du prélèvement peut faire insérer dans le procès-verbal toute déclaration qu'elle juge utile. Elle est invitée à le signer. En cas de refus de signature, mention en est portée audit procès-verbal.
+
+Une copie du procès-verbal lui est remise ainsi qu'au propriétaire de la marchandise, s'il est connu et s'il s'agit d'une personne différente de celle ayant assisté au prélèvement.
+
+####### Article R245 A-5
+
+Un échantillon est transmis au juge d'instruction ou au juge des libertés et de la détention. Le second est conservé par l'administration des douanes et droits indirects jusqu'au règlement définitif de l'affaire.
+
 ###### IV : Infractions aux règles de la facturation
 
 #### Chapitre III : Les remises et transactions à titre gracieux
