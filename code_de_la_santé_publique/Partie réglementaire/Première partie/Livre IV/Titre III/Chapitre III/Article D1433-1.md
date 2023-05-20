@@ -26,7 +26,7 @@ Le Conseil national de pilotage comprend en outre :
 
 11° Le directeur général de la Caisse nationale de l'assurance maladie ;
 
-12° (supprimé)
+12° Le délégué au numérique en santé ;
 
 13° Le directeur général de la Caisse centrale de la mutualité sociale agricole ;
 
