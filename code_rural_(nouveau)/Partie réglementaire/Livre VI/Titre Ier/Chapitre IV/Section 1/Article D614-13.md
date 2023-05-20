@@ -42,7 +42,7 @@ g) Un indicateur permettant de déterminer pour chaque associé s'il est chef d'
 
 h) Un indicateur permettant de déterminer pour chaque associé s'il est cotisant solidaire ;
 
-i) Un indicateur permettant de déterminer pour chaque associé d'une société mentionnée au 3° de l'article D. 614-1 du code rural et de la pêche maritime, s'il est dirigeant de la société ;
+i) Un indicateur permettant de déterminer pour chaque associé d'une société mentionnée au 3° de l'article D. 614-1 du code rural et de la pêche maritime, s'il est dirigeant de la société ou mandataire social ;
 
 j) Si l'entreprise exerce une activité agricole au sens du 1° ou du 2° de l'article L. 722-1, les dates de début et de fin d'affiliation, par chaque associé, à l'assurance contre les accidents du travail et les maladies professionnelles mentionnée au 1° du I et au II de l'article L. 752-1 pour les activités mentionnées aux 1° ou 2° de l'article L. 722-1 ;
 
@@ -50,19 +50,21 @@ k) Si l'entreprise exerce une activité agricole dans les départements du Haut-
 
 l) Si l'entreprise est un agriculteur au sens de l'article 3 du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021, a son siège en France, et si ses associés ne sont pas redevables de la cotisation due au titre de l'assurance contre les accidents du travail et les maladies professionnelles mentionnée à l'article L. 752-1, en application des dispositions du règlement (CE) n° 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, les dates de début et de fin de respect, par chaque associé, des critères spécifiques mentionnés au a du 1° de l'article D. 614-1 ;
 
-m) Pour les sociétés mentionnées au 3° de l'article D. 614-1, les dates de début et de fin d'affiliation au régime de protection des salariés des professions agricoles au titre des 8° ou 9° de l'article L. 722-20 de chaque associé dirigeant de la société.
+m) Pour les sociétés mentionnées au 3° de l'article D. 614-1, les dates de début et de fin d'affiliation au régime de protection des salariés des professions agricoles au titre des 1°, 8° ou 9° de l'article L. 722-20 de chaque associé dirigeant ou mandataire social de la société ;
+
+n) Pour les sociétés mentionnées au 7° de l'article D. 614-1, les dates de début et de fin d'affiliation au régime de protection des salariés des professions agricoles au titre du 1° de l'article L. 722-20 de chaque associé de la société.
 
 La liste des entreprises concernées, mentionnées aux 1° et 2°, est établie par l'Agence de services et de paiement puis transmise à la caisse centrale de la mutualité sociale agricole pour la production et la communication de ces informations.
 
-II.-La Caisse nationale d'assurance vieillesse adresse à l'Agence de services et de paiement, à sa demande, les données relatives à la situation des dirigeants et associés des entreprises pour lesquelles une demande d'aide, conditionnée à la qualité d'agriculteur actif ou de nouvel agriculteur, a été déposée.
+II.-La Caisse nationale d'assurance vieillesse adresse à l'Agence de services et de paiement, à sa demande, les données relatives à la situation des dirigeants, mandataires sociaux, et associés des entreprises pour lesquelles une demande d'aide, conditionnée à la qualité d'agriculteur actif ou de nouvel agriculteur, a été déposée.
 
-Cette transmission comporte, pour chacun des dirigeants et associés, les informations suivantes :
+Cette transmission comporte, pour chacun des dirigeants, mandataires sociaux, et associés, les informations suivantes :
 
 a) Le nom de famille, et, le cas échéant, le nom d'usage, les prénoms, le sexe, la date de naissance, le lieu de naissance et le numéro d'inscription au répertoire national d'identification des personnes physiques de chaque dirigeant ou associé, conformément à l'article 2 du décret n° 2019-341 du 19 avril 2019 relatif à la mise en œuvre de traitements comportant l'usage du numéro d'inscription au répertoire national d'identification des personnes physiques ou nécessitant la consultation de ce répertoire ;
 
-b) Un indicateur permettant de déterminer pour chaque dirigeant ou associé s'il a fait valoir ses droits à la retraite pour au moins un de ses régimes de pension ;
+b) Un indicateur permettant de déterminer pour chaque dirigeant, mandataire social, ou associé s'il a fait valoir ses droits à la retraite pour au moins un de ses régimes de pension ;
 
-c) Le cas échéant, les dates de liquidation des pensions de chaque dirigeant ou associé.
+c) Le cas échéant, les dates de liquidation des pensions de chaque dirigeant, mandataire social, ou associé.
 
 La liste des personnes concernées est établie par l'Agence de services et de paiement, puis transmise à la Caisse nationale d'assurance vieillesse pour la production et la communication de ces informations.
 

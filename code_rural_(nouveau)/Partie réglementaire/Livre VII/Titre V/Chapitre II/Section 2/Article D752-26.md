@@ -1,8 +1,8 @@
 ###### Article D752-26
 
-La rente prévue à l'article L. 752-6 est attribuée au chef d'exploitation ou d'entreprise agricole dès lors qu'il présente un taux d'incapacité permanente d'au moins 30 % et aux assurés mentionnés au II de l'article L. 752-1 en cas d'incapacité permanente totale.
+La rente prévue à l'article L. 752-6 est attribuée au chef d'exploitation ou d'entreprise agricole et aux autres assurés mentionnés au I de l'article L. 752-1 dès lors qu'ils présentent un taux d'incapacité permanente d'au moins 30 % et aux assurés mentionnés au II de l'article L. 752-1 en cas d'incapacité permanente totale.
 
-La rente à laquelle a droit la victime en application du sixième alinéa de l'article L. 752-6 est égale au gain forfaitaire mentionné au deuxième alinéa de l'article L. 752-5 multiplié par le taux d'incapacité préalablement réduit de moitié pour la partie de ce taux qui ne dépasse pas 50 % et augmenté de la moitié pour la partie qui excède 50 %.
+La rente à laquelle a droit la victime en application du troisième au sixième alinéa de l'article L. 752-6 est égale au gain forfaitaire mentionné au deuxième alinéa de l'article L. 752-5 multiplié par le taux d'incapacité préalablement réduit de moitié pour la partie de ce taux qui ne dépasse pas 50 % et augmenté de la moitié pour la partie qui excède 50 %.
 
 L'arrêté prévu à l'article L. 752-6, fixant le pourcentage du gain forfaitaire annuel à retenir dans le calcul de la rente due à la victime mentionnée au II de l'article L. 752-1 en cas d'incapacité permanente totale suite à un accident du travail, est pris par le ministère de l'agriculture.
 
