@@ -21760,7 +21760,7 @@ DES JEPS, spécialité " performance sportive " mention " sports équestres ", d
 Titres à finalité professionnelle délivrés par la fédération française d'équitation</td>
  </tr>
  <tr>
-  <td>Animateur d'équitation, délivré du 2 mars 2020 au 2 mars 2023.</td>
+  <td>Animateur d'équitation, délivré du 27 mars 2023 au 27 mars 2026.</td>
   <td>3</td>
   <td>Encadrement, découverte et initiation des activités équestres.</td>
   <td>Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres.</td>
@@ -22012,13 +22012,13 @@ Entraîneur de football, délivré jusqu'au 19 mai 2023.</td>
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">Entraîneur formateur de football, délivré jusqu'au 19 mai 2023.</td>
+<td align="left">Entraîneur formateur de football, délivré du 27 mars 2023 au 27 mars 2025.</td>
   <td>6</td>
   <td>Encadrement et entraînement en football dans une structure de préformation ou de formation.</td>
   <td align="left"/>
  </tr>
  <tr>
-<td align="left">Entraîneur professionnel de football, délivré jusqu'au 19 mai 2023.</td>
+<td align="left">Entraîneur professionnel de football, délivré du 27 mars 2023 au 27 mars 2025.</td>
   <td>6</td>
   <td>Encadrement et entraînement en football, dans un club professionnel.</td>
   <td align="left"/>
