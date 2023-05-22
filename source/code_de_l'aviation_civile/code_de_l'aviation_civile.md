@@ -3843,51 +3843,33 @@ III.-L'enquête publique est organisée dans les communes où le nombre ou l'alt
 
 ##### Section 3 : Restrictions d'exploitation liées au bruit des aéronefs
 
-###### Article R227-8
+###### Article R*227-8
 
-Sans préjudice de l'application des dispositions de l'article R. 221-3, des restrictions d'exploitation au sens du e de l'article 2 de la directive 2002/30/ CE du 26 mars 2002 peuvent être imposées par arrêté du ministre chargé de l'aviation civile sur les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts. Ces restrictions sont établies aérodrome par aérodrome en prenant en compte les caractéristiques propres de l'aérodrome considéré et les effets prévisibles de la réduction à la source du bruit généré par les aéronefs, des mesures d'aménagement du territoire, d'urbanisme et de construction et des procédures de navigation aérienne et de conduite de vol visant à limiter le bruit pour les riverains, ainsi que des coûts et avantages que sont susceptibles d'entraîner, outre les restrictions envisagées, ces différentes mesures.
+L'adoption de restrictions d'exploitation sur les aérodromes visés à l'article L. 6360-1 du code des transports , au sens du point 6 de l'article 2 du règlement (UE) n° 598/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif à l'établissement de règles et de procédures concernant l'introduction de restrictions d'exploitation liées au bruit dans les aéroports de l'Union dans le cadre d'une approche équilibrée et abrogeant la directive 2002/30/ CE, est précédée d'une évaluation dite “ étude d'impact selon l'approche équilibrée ” conduite conformément aux dispositions du point 2 de l'article 6 du règlement précité, sous l'autorité du préfet coordonnateur mentionné à l'article R. 571-68 du code de l'environnement .
+
+###### Article R227-8-1
+
+Lors de l'évaluation mentionnée à l'article R. * 227-8, le préfet procède à la consultation des parties intéressées relevant des catégories mentionnées au d du point 2 de l'article 6 du règlement (UE) n° 598/2014.
+
+Il rend public par voie électronique un résumé non technique de l'étude d'impact selon l'approche équilibrée ainsi que les conclusions de l'étude.
 
 ###### Article R227-9
 
-L'évaluation des caractéristiques d'un aérodrome et des différentes mesures dont il est susceptible de faire l'objet comporte les informations prévues par arrêté du ministre chargé de l'aviation civile portant notamment sur la situation de l'aérodrome, les effets sur l'environnement du transport aérien en l'absence de mesures visant à en limiter les nuisances sonores et la comparaison des mesures envisagées au regard de leurs conséquences économiques et de leur efficacité environnementale. L'évaluation et les projets de mesures qui en tirent les conséquences sont mis à la disposition de toute personne intéressée dans les services de la direction générale de l'aviation civile.
+Sans préjudice de l'application des dispositions de l'article R. 221-3, le ministre chargé de l'aviation civile et le ministre chargé de l'environnement peuvent, en se fondant sur les conclusions de l'étude d'impact selon l'approche équilibrée mentionnée à l'article R. * 227-8, imposer, par arrêté conjoint, des restrictions d'exploitation sur les aérodromes visés à l'article L. 6360-1 du code des transports.
 
-Lorsque des projets aéroportuaires font l'objet d'une étude d'impact en application de l'article L. 122-1 du code de l'environnement, celle-ci vaut évaluation au sens de l'alinéa précédent lorsqu'elle comporte les informations fixées par l'arrêté prévu à ce même alinéa.
-
-###### Article R227-10
-
-Celles des restrictions d'exploitation visées à l'article R. 227-8 qui sont définies par référence à des critères de performances se fondent sur le bruit émis par l'aéronef, déterminé par la procédure de certification menée conformément à l'annexe 16, volume 1, troisième édition (juillet 1993) de la convention relative à l'aviation civile internationale du 7 décembre 1944.
-
-###### Article R227-11
-
-Lorsqu'une mesure de retrait des aéronefs présentant une faible marge de conformité au sens du d de l'article 2 de la directive 2002/30/ CE du 26 mars 2002, sur un aérodrome entrant dans le champ d'application de la présente section, est prise conformément à l'article R. 227-8, les règles suivantes s'appliquent :
-
-- six mois après la publication de la mesure, le nombre de mouvements effectués dans l'aéroport avec des aéronefs présentant une faible marge de conformité ne peut être supérieur, pour une période donnée, à celui de la période correspondante de l'année précédente ;
-- six mois au moins après l'expiration du délai de six mois prévu à l'alinéa précédent, chaque exploitant peut être tenu de réduire le nombre de mouvements de ses aéronefs présentant une faible marge de conformité qui sont utilisés dans l'aéroport, à un rythme annuel qui ne dépasse pas 20 % du nombre annuel de ces mouvements à la date de la décision.
-
-###### Article R227-12
-
-Les dispositions de la présente section ne s'appliquent pas :
-
-- aux restrictions d'exploitation qui ont été décidées avant la date d'entrée en vigueur de la directive 2002/30/CE du 26 mars 2002 ;
-- aux modifications mineures d'ordre technique apportées aux restrictions d'exploitation partielles qui n'ont pas d'incidence significative en termes de coûts pour les entreprises de transport aérien et qui ont été introduites après l'entrée en vigueur de la directive 2002/30/CE du 26 mars 2002.
-
-###### Article R227-13
-
-Les aéronefs présentant une faible marge de conformité immatriculés sur les registres de pays en développement dont la liste est fixée par arrêté du ministre chargé de l'aviation civile sont, pendant une période de dix ans à compter du 28 mars 2002, exemptés de la mesure visée à l'article R. 227-11, à condition :
-
-- que ces aéronefs, pour lesquels a été délivré un certificat attestant qu'ils répondent aux normes acoustiques définies dans le volume 1, deuxième partie, chapitre III, de l'annexe 16 de la convention relative à l'aviation civile internationale, aient été utilisés sur l'aérodrome considéré entre le 1er janvier 1996 et le 31 décembre 2001 et ;
-- que ces aéronefs aient figuré pendant cette période sur le registre du pays en développement considéré et continuent d'être exploités par une personne établie dans ce pays.
+Le projet d'arrêté est soumis pour avis à la commission consultative de l'environnement compétente prévue à l'article L. 571-13 du code de l'environnement et mis à la disposition du public selon la procédure prévue à l'article L. 123-19-1 du même code. Il est ensuite soumis pour avis à l'Autorité de contrôle des nuisances aéroportuaires.
 
 ###### Article R227-14
 
 Le ministre chargé de l'aviation civile peut accorder des autorisations individuelles pour l'exploitation particulière d'aéronefs présentant une faible marge de conformité qui ne pourrait s'exercer sur la base d'autres dispositions de la présente section. Cette exemption est limitée :
-
 - aux aéronefs dont l'exploitation revêt un caractère exceptionnel ;
 - aux aéronefs effectuant des vols non commerciaux à des fins de modification, de réparation ou d'entretien.
 
+Le silence gardé par l'administration à l'expiration du délai de deux mois à compter de la réception de la demande vaut décision de rejet.
+
 ###### Article R227-15
 
-En ce qui concerne les aérodromes qualifiés d'aéroports coordonnés en application de l'article R. 221-12, la décision du ministre chargé de l'aviation civile prononçant une mesure de restriction d'exploitation en application de l'article R. 227-8, accompagnée de l'exposé des motifs ayant présidé à son introduction si elle procède au retrait des aéronefs présentant une faible marge de conformité, est publiée au moins deux mois avant la tenue de la conférence internationale de planification des mouvements d'aéronefs relative à la période de planification horaire pertinente.
+En ce qui concerne les aérodromes qualifiés d'aéroports coordonnés en application de l'article R. 221-12, la décision prononçant une mesure de restriction d'exploitation en application de l'article R. 227-9, accompagnée de l'exposé des motifs ayant présidé à son introduction si elle procède au retrait des aéronefs présentant une faible marge de conformité, est publiée au moins deux mois avant la tenue de la conférence internationale de planification des mouvements d'aéronefs relative à la période de planification horaire pertinente.
 
 ###### Article R227-16
 
