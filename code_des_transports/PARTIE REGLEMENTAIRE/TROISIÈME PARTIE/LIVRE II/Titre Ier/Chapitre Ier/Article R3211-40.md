@@ -1,6 +1,6 @@
 ###### Article R3211-40
 
-Pour les entreprises utilisant exclusivement des véhicules dont le poids maximum autorisé ne dépasse pas 2,5 tonnes ou, s'ils sont utilisés exclusivement pour réaliser des opérations de transport routier sur le territoire national, 3,5 tonnes, n'excédant pas un poids maximum autorisé de 3,5 tonnes, l'exigence de capacité professionnelle est satisfaite lorsque le gestionnaire de transport mentionné à l'article R. 3211-43 est titulaire d'une attestation de capacité professionnelle en transport léger.
+Pour les entreprises utilisant exclusivement des véhicules dont le poids maximum autorisé ne dépasse pas 2,5 tonnes ou, s'ils sont utilisés exclusivement pour réaliser des opérations de transport routier sur le territoire national, 3,5 tonnes, l'exigence de capacité professionnelle est satisfaite lorsque le gestionnaire de transport mentionné à l'article R. 3211-43 est titulaire d'une attestation de capacité professionnelle en transport léger.
 
 L'attestation de capacité professionnelle en transport léger est délivrée par le préfet de région aux personnes qui ont suivi une formation sanctionnée par un examen écrit obligatoire portant sur un référentiel de connaissances défini par le ministre chargé des transports.
 

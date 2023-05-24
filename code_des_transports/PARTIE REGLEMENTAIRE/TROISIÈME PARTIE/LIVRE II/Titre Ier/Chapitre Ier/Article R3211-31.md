@@ -8,5 +8,5 @@ Cette décision fixe la durée de la perte de l'honorabilité, qui ne peut être
 
 Dans le cas où la perte d'honorabilité ne serait pas prononcée en raison de son caractère disproportionné, les motifs de cette décision sont inscrits dans le registre électronique national des entreprises de transport par route.
 
-A l'expiration de la durée de la perte d'honorabilité, le préfet de région peut décider de restaurer l'honorabilité professionnelle du gestionnaire de transport, dès lors que ce dernier a réussi l'examen de capacité professionnelle mentionné à l'article R. 3113-37, postérieurement à la date de la décision de perte d'honorabilité.
+A l'expiration de la durée de la perte d'honorabilité, le préfet de région peut décider de restaurer l'honorabilité professionnelle du gestionnaire de transport, dès lors que ce dernier a réussi l'examen de capacité professionnelle mentionné à l'article R. 3211-37, postérieurement à la date de la décision de perte d'honorabilité.
 

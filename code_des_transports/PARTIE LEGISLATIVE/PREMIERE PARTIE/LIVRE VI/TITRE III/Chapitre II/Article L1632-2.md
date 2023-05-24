@@ -10,7 +10,5 @@ Lorsque la convention a pour objet de permettre la transmission des images aux s
 
 Cette convention est transmise à la commission départementale de vidéoprotection mentionnée à l' article L. 251-4 du code de la sécurité intérieure qui apprécie la pertinence des garanties prévues et en demande, le cas échéant, le renforcement au représentant de l'Etat dans le département.
 
-Ne sont pas soumis au présent article les systèmes utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
-
 Les compétences dévolues au représentant de l'Etat dans le département par le présent article sont exercées, dans les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ainsi que dans les transports en commun de voyageurs par voie ferrée de la région d'Ile-de-France, par le préfet de police et, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
