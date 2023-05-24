@@ -814,9 +814,9 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 ###### Article L211-11-1
 
-Les grands événements exposés, par leur ampleur ou leurs circonstances particulières, à un risque exceptionnel de menace terroriste sont désignés par décret. Ce décret désigne également les établissements et les installations qui accueillent ces grands événements ainsi que leur organisateur.
+Sont désignés par décret les grands événements et les grands rassemblements de personnes ayant pour objet d'assister à la retransmission d'événements exposés à un risque d'actes de terrorisme en raison de leur nature et de l'ampleur de leur fréquentation. Ce décret désigne également les établissements et les installations qui les accueillent ainsi que leur organisateur.
 
-L'accès de toute personne, à un autre titre que celui de spectateur ou de participant, à tout ou partie des établissements et installations désignés par le décret mentionné au premier alinéa est soumis à autorisation de l'organisateur pendant la durée de cet événement et de sa préparation. L'organisateur recueille au préalable l'avis de l'autorité administrative rendu à la suite d'une enquête administrative qui peut donner lieu à la consultation, selon les règles propres à chacun d'eux, de certains traitements automatisés de données à caractère personnel relevant de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. Un avis défavorable ne peut être émis que s'il ressort de l'enquête administrative que le comportement ou les agissements de la personne sont de nature à porter atteinte à la sécurité des personnes, à la sécurité publique ou à la sûreté de l'Etat.
+L'accès de toute personne, à un autre titre que celui de spectateur, à tout ou partie des établissements et des installations désignés par le décret mentionné au premier alinéa est soumis, pendant la durée de l'événement ou du rassemblement et de leur préparation, à une autorisation de l'organisateur délivrée sur avis conforme de l'autorité administrative. Cette autorité administrative rend son avis à la suite d'une enquête administrative qui peut donner lieu à la consultation, selon les règles propres à chacun d'eux, du bulletin n° 2 du casier judiciaire et de certains traitements automatisés de données à caractère personnel relevant de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. Un avis défavorable ne peut être émis que s'il ressort de l'enquête administrative que le comportement ou les agissements de la personne sont de nature à porter atteinte à la sécurité des personnes, à la sécurité publique ou à la sûreté de l'Etat.
 
 Un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés fixe les modalités d'application du présent article, notamment la liste des fichiers mentionnés au deuxième alinéa pouvant faire l'objet d'une consultation, les catégories de personnes concernées et les garanties d'information ouvertes à ces personnes.
 
@@ -940,9 +940,9 @@ Un décret en Conseil d'Etat détermine les services spécialisés de renseignem
 
 ##### Article L223-1
 
-La transmission et l'enregistrement d'images prises sur la voie publique par le moyen de la vidéoprotection peuvent être mis en œuvre par les autorités publiques compétentes aux fins de prévention d'actes de terrorisme ainsi que, pour la protection des abords immédiats de leurs bâtiments et installations, par les autres personnes morales, dans les lieux susceptibles d'être exposés à des actes de terrorisme.
+Des systèmes de vidéoprotection peuvent être mis en œuvre sur la voie publique par les autorités publiques compétentes aux fins de prévention d'actes de terrorisme ainsi que, pour la protection des abords immédiats de leurs bâtiments et installations, par les autres personnes morales, dans les lieux susceptibles d'être exposés à des actes de terrorisme.
 
-Il peut être également procédé à ces opérations dans des lieux et établissements ouverts au public aux fins d'y assurer la sécurité des personnes et des biens lorsque ces lieux et établissements sont susceptibles d'être exposés à des actes de terrorisme.
+Ces systèmes peuvent également être mis en œuvre dans des lieux et établissements ouverts au public aux fins d'y assurer la sécurité des personnes et des biens lorsque ces lieux et établissements sont susceptibles d'être exposés à des actes de terrorisme.
 
 La vidéoprotection de la voie publique ou de lieux ou établissements ouverts au public est mise en œuvre dans les conditions prévues au chapitre II du titre V du présent livre.
 
@@ -960,7 +960,7 @@ Aux fins de prévention d'actes de terrorisme, le représentant de l'Etat dans l
 
 Sauf en matière de défense nationale, la décision mentionnée à l'article L. 223-2 doit être précédée d'une consultation de la commission départementale de vidéoprotection si elle porte sur une installation de vidéoprotection filmant la voie publique ou des lieux et établissements ouverts au public.
 
-Les systèmes de vidéoprotection installés en application de l'article L. 223-2 sont soumis aux dispositions des articles L. 251-3, L. 252-1 (deuxième alinéa), L. 252-2, L. 252-4, L. 252-5, L. 253-3, L. 253-4, L. 253-5, L. 254-1, L. 255-1.
+Les systèmes de vidéoprotection installés en application de l'article L. 223-2 sont soumis aux dispositions des articles L. 251-3, L. 252-2, L. 252-4, L. 252-5, L. 253-3, L. 253-4, L. 253-5, L. 254-1, L. 255-1.
 
 ##### Article L223-4
 
@@ -1692,11 +1692,11 @@ Les modalités d'application du présent chapitre et d'utilisation des données 
 
 ##### Article L251-1
 
-Les enregistrements visuels de vidéoprotection répondant aux conditions fixées aux articles L. 251-2 et L. 251-3 sont soumis aux dispositions du présent titre, à l'exclusion de ceux qui sont utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+Les systèmes de vidéoprotection remplissant les conditions fixées à l'article L. 251-2 sont des traitements de données à caractère personnel régis par le présent titre, par le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) et par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 ##### Article L251-2
 
-La transmission et l'enregistrement d'images prises sur la voie publique par le moyen de la vidéoprotection peuvent être mis en œuvre par les autorités publiques compétentes aux fins d'assurer :
+Des systèmes de vidéoprotection peuvent être mis en œuvre sur la voie publique par les autorités publiques compétentes aux fins d'assurer :
 
 1° La protection des bâtiments et installations publics et de leurs abords ;
 
@@ -1720,7 +1720,7 @@ La transmission et l'enregistrement d'images prises sur la voie publique par le 
 
 11° La prévention et la constatation des infractions relatives à l'abandon d'ordures, de déchets, de matériaux ou d'autres objets.
 
-Il peut être également procédé à ces opérations dans des lieux et établissements ouverts au public aux fins d'y assurer la sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques d'agression ou de vol.
+Des systèmes de vidéoprotection peuvent également être mis en œuvre dans des lieux et établissements ouverts au public aux fins d'y assurer la sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques d'agression ou de vol.
 
 Après information du maire de la commune concernée et autorisation des autorités publiques compétentes, des commerçants peuvent mettre en œuvre sur la voie publique un système de vidéoprotection aux fins d'assurer la protection des abords immédiats de leurs bâtiments et installations, dans les lieux particulièrement exposés à des risques d'agression ou de vol. Les conditions de mise en œuvre et le type de bâtiments et installations concernés sont définis par décret en Conseil d'Etat.
 
@@ -1728,17 +1728,11 @@ Après information du maire de la commune concernée et autorisation des autorit
 
 Les opérations de vidéoprotection de la voie publique sont réalisées de telle sorte qu'elles ne visualisent pas les images de l'intérieur des immeubles d'habitation ni, de façon spécifique, celles de leurs entrées.
 
-Le public est informé de manière claire et permanente de l'existence du système de vidéoprotection et de l'autorité ou de la personne responsable.
-
 ##### Article L251-4
 
 Dans chaque département, une commission départementale de vidéoprotection présidée par un magistrat honoraire ou, à défaut, une personnalité qualifiée, nommée par le premier président de la cour d'appel, est chargée de donner un avis au représentant de l'Etat dans le département, ou à Paris au préfet de police, sur les demandes d'autorisation de systèmes de vidéoprotection et d'exercer un contrôle sur les conditions de fonctionnement des systèmes autorisés.
 
 La personnalité qualifiée est choisie en raison de sa compétence dans le domaine de la vidéoprotection ou des libertés individuelles.
-
-##### Article L251-7
-
-Le Gouvernement transmet chaque année à la Commission nationale de l'informatique et des libertés un rapport faisant état de l'activité des commissions départementales de vidéoprotection et des conditions d'application du présent titre.
 
 ##### Article L251-8
 
@@ -1750,11 +1744,9 @@ Les conditions dans lesquelles le représentant de l'Etat dans le département e
 
 L'installation d'un système de vidéoprotection dans le cadre du présent titre est subordonnée à une autorisation du représentant de l'Etat dans le département et, à Paris, du préfet de police donnée, sauf en matière de défense nationale, après avis de la commission départementale de vidéoprotection. Lorsque le système comporte des caméras installées sur le territoire de plusieurs départements, l'autorisation est délivrée par le représentant de l'Etat dans le département dans lequel est situé le siège social du demandeur et, lorsque ce siège est situé à Paris, par le préfet de police, après avis de la commission départementale de vidéoprotection. Les représentants de l'Etat dans les départements dans lesquels des caméras sont installées en sont informés.
 
-Les systèmes installés sur la voie publique ou dans des lieux ouverts au public dont les enregistrements sont utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, sont autorisés dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
-
 ##### Article L252-2
 
-L'autorisation préfectorale prescrit toutes les précautions utiles, en particulier quant à la qualité des personnes chargées de l'exploitation du système de vidéoprotection ou visionnant les images et aux mesures à prendre pour assurer le respect des dispositions de la loi.
+L'autorisation préfectorale prescrit toutes les précautions utiles, en particulier quant à la qualité des personnes chargées de l'exploitation du système de vidéoprotection ou visionnant les images et aux mesures à prendre pour assurer le respect des dispositions du présent titre.
 
 Dans le cas prévu au dernier alinéa de l'article L. 251-2, le visionnage des images ne peut être assuré que par des agents individuellement désignés et habilités des services de police et de gendarmerie nationales et des services de police municipale ainsi que par les agents individuellement désignés et dûment habilités mentionnés aux articles L. 531-1, L. 532-1 et L. 533-1.
 
@@ -1766,9 +1758,7 @@ L'autorisation peut prescrire que les agents individuellement désignés et dûm
 
 Les systèmes de vidéoprotection sont autorisés pour une durée de cinq ans renouvelable.
 
-Les systèmes de vidéoprotection installés doivent être conformes à des normes techniques définies par arrêté du ministre de l'intérieur à compter de l'expiration d'un délai de deux ans après la publication de l'acte définissant ces normes.
-
-Les autorisations mentionnées au présent titre et délivrées avant le 1er janvier 2000 expirent le 24 janvier 2012. Celles délivrées entre le 1er janvier 2000 et le 31 décembre 2002 expirent le 24 janvier 2013. Celles délivrées entre le 1er janvier 2003 et le 24 janvier 2006 expirent le 24 janvier 2014.
+Les systèmes de vidéoprotection installés doivent être conformes à des normes techniques définies par arrêté du ministre de l'intérieur.
 
 ##### Article L252-5
 
@@ -1788,19 +1778,15 @@ Lorsqu'il est informé de la tenue imminente d'une manifestation ou d'un rassemb
 
 Sauf dans les cas où les manifestations ou rassemblements de grande ampleur mentionnés à l'alinéa précédent ont déjà pris fin, avant l'expiration d'un délai maximal de quatre mois, le représentant de l'Etat dans le département et, à Paris, le préfet de police recueillent l'avis de la commission départementale de vidéoprotection sur la mise en œuvre du système de vidéoprotection conformément à la procédure prévue à l'article L. 252-1 et se prononcent sur son maintien.
 
-#### Chapitre III : Contrôle et droit d'accès
+#### Chapitre III : Contrôle
 
 ##### Article L253-1
 
 La commission départementale de vidéoprotection peut à tout moment exercer, sauf en matière de défense nationale, un contrôle sur les conditions de fonctionnement des systèmes de vidéoprotection répondant aux conditions fixées aux articles L. 251-2 et L. 251-3. Elle émet, le cas échéant, des recommandations et propose la suspension ou la suppression des dispositifs non autorisés, non conformes à leur autorisation ou dont il est fait un usage anormal. Elle informe le maire de la commune concernée de cette proposition.
 
-##### Article L253-2
-
-La Commission nationale de l'informatique et des libertés peut, sur demande de la commission départementale de vidéoprotection, du responsable d'un système ou de sa propre initiative, exercer un contrôle visant à s'assurer que le système est utilisé conformément à son autorisation et, selon le régime juridique dont le système relève, aux dispositions du présent titre ou à celles de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Lorsque la Commission nationale de l'informatique et des libertés constate un manquement aux dispositions du présent titre, elle peut, après avoir mis en demeure la personne responsable du système de se mettre en conformité dans un délai qu'elle fixe, demander au représentant de l'Etat dans le département ou, à Paris, au préfet de police d'ordonner la suspension ou la suppression du système de vidéoprotection. Elle informe le maire de la commune concernée de cette demande.
-
 ##### Article L253-3
 
-Les membres de la Commission nationale de l'informatique et des libertés, les agents de ses services habilités dans les conditions définies au dernier alinéa de l'article 10 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ainsi que les membres des commissions départementales de vidéoprotection ont accès de six heures à vingt et une heures, pour l'exercice de leurs missions, aux lieux, locaux, enceintes, installations ou établissements servant à la mise en œuvre d'un système de vidéoprotection, à l'exclusion des parties de ceux-ci affectées au domicile privé. Le procureur de la République territorialement compétent en est préalablement informé.
+Les membres des commissions départementales de vidéoprotection ont accès de six heures à vingt et une heures, pour l'exercice de leurs missions, aux lieux, locaux, enceintes, installations ou établissements servant à la mise en œuvre d'un système de vidéoprotection, à l'exclusion des parties de ceux-ci affectées au domicile privé. Le procureur de la République territorialement compétent en est préalablement informé.
 
 Le responsable des locaux professionnels privés est informé de son droit d'opposition à la visite. Lorsqu'il exerce ce droit, la visite ne peut se dérouler qu'après l'autorisation du juge des libertés et de la détention du tribunal judiciaire dans le ressort duquel sont situés les locaux à visiter, qui statue dans des conditions fixées par décret en Conseil d'Etat. Toutefois, lorsque l'urgence, la gravité des faits à l'origine du contrôle ou le risque de destruction ou de dissimulation de documents le justifie, la visite peut avoir lieu sans que le responsable des locaux en ait été informé, sur autorisation préalable du juge des libertés et de la détention. Dans ce cas, le responsable des lieux ne peut s'opposer à la visite.
 
@@ -1816,27 +1802,23 @@ Il est dressé contradictoirement procès-verbal des vérifications et visites m
 
 ##### Article L253-4
 
-A la demande de la commission départementale de vidéoprotection, de la Commission nationale de l'informatique et des libertés ou de sa propre initiative, le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent fermer pour une durée de trois mois, après mise en demeure non suivie d'effets dans le délai qu'elle fixe, un établissement ouvert au public dans lequel est maintenu un système de vidéoprotection sans autorisation. Lorsque, à l'issue du délai de trois mois, l'établissement n'a pas sollicité la régularisation de son système, l'autorité administrative peut lui enjoindre de démonter ledit système. S'il n'est pas donné suite à cette injonction, une nouvelle mesure de fermeture de trois mois peut être prononcée.
+A la demande de la commission départementale de vidéoprotection ou de sa propre initiative, le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent fermer pour une durée de trois mois, après mise en demeure non suivie d'effets dans le délai qu'elle fixe, un établissement ouvert au public dans lequel est maintenu un système de vidéoprotection sans autorisation. Lorsque, à l'issue du délai de trois mois, l'établissement n'a pas sollicité la régularisation de son système, l'autorité administrative peut lui enjoindre de démonter ledit système. S'il n'est pas donné suite à cette injonction, une nouvelle mesure de fermeture de trois mois peut être prononcée.
 
 ##### Article L253-5
 
-Toute personne intéressée peut s'adresser au responsable d'un système de vidéoprotection afin d'obtenir un accès aux enregistrements qui la concernent ou d'en vérifier la destruction dans le délai prévu. Cet accès est de droit. Un refus d'accès peut toutefois être opposé pour un motif tenant à la sûreté de l'Etat, à la défense, à la sécurité publique, au déroulement de procédures engagées devant les juridictions ou d'opérations préliminaires à de telles procédures ou au droit des tiers.
-
-Toute personne intéressée peut saisir la commission départementale de vidéoprotection ou la Commission nationale de l'informatique et des libertés de toute difficulté tenant au fonctionnement d'un système de vidéoprotection.
-
-Les dispositions du précédent alinéa ne font pas obstacle au droit de la personne intéressée de saisir la juridiction compétente.
+Toute personne intéressée peut saisir la commission départementale de vidéoprotection de toute difficulté tenant au fonctionnement d'un système de vidéoprotection.
 
 #### Chapitre IV : Dispositions pénales
 
 ##### Article L254-1
 
-Le fait d'installer un système de vidéoprotection ou de le maintenir sans autorisation, de procéder à des enregistrements de vidéoprotection sans autorisation, de ne pas les détruire dans le délai prévu, de les falsifier, d'entraver l'action de la commission départementale de vidéoprotection ou de la Commission nationale de l'informatique et des libertés, de faire accéder des personnes non habilitées aux images ou d'utiliser ces images à d'autres fins que celles pour lesquelles elles sont autorisées est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, sans préjudice des dispositions des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-47 du code du travail.
+Le fait d'entraver l'action de la commission départementale de vidéoprotection est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 #### Chapitre V : Dispositions communes
 
 ##### Article L255-1
 
-Un décret en Conseil d'Etat, après avis de la Commission nationale de la vidéoprotection et de la Commission nationale de l'informatique et des libertés, fixe les modalités d'application du présent titre, et notamment les conditions dans lesquelles le public est informé de l'existence d'un dispositif de vidéoprotection ainsi que de l'identité de l'autorité ou de la personne responsable. Ce décret fixe également les conditions dans lesquelles les agents mentionnés au second alinéa de l'article L. 252-2 et à l'article L. 252-3 sont habilités à accéder aux enregistrements pour les seuls besoins de leur mission, ainsi que les exigences de formation et de mise à jour régulière des connaissances en matière de protection des données à caractère personnel auxquelles ils doivent satisfaire pour être habilités. Ce même décret précise les mesures techniques mises en œuvre pour garantir la sécurité des enregistrements et assurer la traçabilité des accès aux images.
+Les modalités d'application du présent titre et d'utilisation des données collectées par les systèmes de vidéoprotection sont précisées par un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés. Ce décret fixe les conditions dans lesquelles le public est informé de l'existence d'un traitement de données à caractère personnel par un système de vidéoprotection et de la manière dont les personnes concernées peuvent exercer leurs droits au titre du règlement européen (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) et de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 ### TITRE V BIS : VIDÉOSURVEILLANCE DANS LES LIEUX DE PRIVATION DE LIBERTÉ
 
@@ -1938,8 +1920,6 @@ Lorsque la convention a pour objet de permettre la transmission des images aux s
 
 Cette convention est transmise à la commission départementale de vidéoprotection mentionnée au chapitre III du titre II et du titre V du livre II du code de la sécurité intérieure qui apprécie la pertinence des garanties prévues et en demande, le cas échéant, le renforcement au représentant de l'Etat dans le département.
 
-Ne sont pas soumis au présent article les systèmes utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
-
 ##### Article L272-3
 
 Les propriétaires ou exploitants d'immeubles à usage d'habitation ou leurs représentants, qui satisfont à l'obligation mentionnée par l'article L. 271-1 peuvent également, en cas d'occupation des espaces communs du bâti par des personnes qui entravent l'accès et la libre circulation des locataires ou empêchent le bon fonctionnement des dispositifs de sécurité et de sûreté ou nuisent à la tranquillité des lieux, faire appel à la police ou à la gendarmerie nationales ou à la police municipale pour rétablir la jouissance paisible de ces lieux.
@@ -1992,6 +1972,8 @@ Pour l'application du présent livre à Saint-Barthélemy et à Saint-Martin :
 
 3° Les références à la commission départementale de vidéoprotection sont remplacées par la référence à la commission territoriale de vidéoprotection ;
 
+3° bis La référence au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) est remplacée, à Saint-Barthélemy, par la référence aux règles en vigueur en métropole en application du même règlement ;
+
 4° Dans la première phrase du premier alinéa de l'article L. 211-2 :
 
 a) La référence à la mairie de la commune est remplacée par la référence à l'hôtel de la collectivité ;
@@ -2018,13 +2000,15 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 
 3° Les références à la commission départementale de vidéoprotection sont remplacées par la référence à la commission territoriale de vidéoprotection ;
 
+3° bis La référence au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) est remplacée par la référence aux règles en vigueur en métropole en application du même règlement ;
+
 4° Au 2° de l'article L. 223-2, les mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés.
 
 #### Chapitre V : Dispositions applicables en Polynésie française
 
 ##### Article L285-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur, les dispositions suivantes :
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 212-1-1, L. 212-1-2, L. 213-1, L. 214-1 à L. 214-4 ;
 
@@ -2054,11 +2038,13 @@ Pour l'application des dispositions énumérées à l'article L. 285-1 :
 
 4° Les montants exprimés en euros sont remplacés par leur contre-valeur en monnaie locale ;
 
+4° bis La référence au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) est remplacée par la référence aux règles en vigueur en métropole en application du même règlement ;
+
 5° Au 2° de l'article L. 223-2, les mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés ;
 
 6° et 7° (Abrogés) ;
 
-8° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail applicables localement " ;
+8° (Abrogé) ;
 
 9° Le deuxième alinéa de l'article L. 271-1 est ainsi rédigé :
 
@@ -2068,7 +2054,7 @@ Pour l'application des dispositions énumérées à l'article L. 285-1 :
 
 ##### Article L286-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur, les dispositions suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 212-1-1, L. 212-1-2, L. 213-1, L. 214-1 à L. 214-4 ;
 
@@ -2098,13 +2084,15 @@ Pour l'application des dispositions énumérées à l'article L. 286-1 :
 
 4° Les montants exprimés en euros sont remplacés par leur contre-valeur en monnaie locale ;
 
+4° bis La référence au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) est remplacée par la référence aux règles en vigueur en métropole en application du même règlement ;
+
 5° Au dernier alinéa de l'article L. 211-4, la référence à l'article L. 2215-1 du code général des collectivités territoriales est remplacée par la référence à l'article L. 131-13 du code des communes de la Nouvelle-Calédonie ;
 
 6° Au 2° de l'article L. 223-2, les mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés ;
 
 7° et 8° (Abrogés) ;
 
-9° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail applicables localement " ;
+9° (Abrogé) ;
 
 10° Le deuxième alinéa de l'article L. 271-1 est ainsi rédigé :
 
@@ -2114,7 +2102,7 @@ Pour l'application des dispositions énumérées à l'article L. 286-1 :
 
 ##### Article L287-1
 
-Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur, les dispositions suivantes :
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-9, L. 211-11, L. 211-12, L. 211-15 et L. 211-16, L. 212-1, L. 212-1-1, L. 212-1-2, L. 213-1, L. 214-1 à L. 214-4 ;
 
@@ -2144,6 +2132,8 @@ Pour l'application des dispositions énumérées à l'article L. 287-1 :
 
 4° Les montants exprimés en euros sont remplacés par leur contre-valeur en monnaie locale ;
 
+4° bis La référence au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) est remplacée par la référence aux règles en vigueur en métropole en application du même règlement ;
+
 5° Au premier alinéa de l'article L. 211-2 :
 
 a) La référence à la mairie de la commune est remplacée par la référence aux services de l'administrateur supérieur ;
@@ -2156,7 +2146,7 @@ b) Les mots : " ou aux mairies des différentes communes sur le territoire desqu
 
 8° et 9° (Abrogés) ;
 
-10° A l'article L. 254-1, les mots " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail applicables localement " ;
+10° (Abrogé) ;
 
 11° L'article L. 271-1 est ainsi modifié :
 
@@ -2170,7 +2160,7 @@ b) Le dernier alinéa est supprimé.
 
 ##### Article L288-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement, les dispositions suivantes :
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-5 à L. 211-9, L. 211-11, L. 211-12, L. 211-15, L. 211-16, L. 214-1 et L. 214-2 ;
 
@@ -2193,6 +2183,8 @@ Pour l'application des dispositions énumérées à l'article L. 288-1 :
 4° Les références au représentant de l'Etat dans le département sont remplacées par la référence à l'administrateur supérieur des Terres australes et antarctiques françaises ;
 
 5° Les références à la commission départementale de vidéoprotection sont remplacées par la référence à la commission locale de vidéoprotection ;
+
+5° bis La référence au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) est remplacée par la référence aux règles en vigueur en métropole en application du même règlement ;
 
 6° Au 2° de l'article L. 223-2, les mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés.
 
@@ -4690,9 +4682,13 @@ Les personnes physiques exerçant l'activité mentionnée au 1° de l'article L.
 
 ####### Article L613-3
 
-Pour l'accès aux enceintes dans lesquelles est organisée une manifestation sportive, récréative ou culturelle rassemblant plus de 300 spectateurs, les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1 ainsi que celles, membres du service d'ordre affecté par l'organisateur à la sécurité de la manifestation sportive, récréative ou culturelle en application des dispositions de l'article L. 211-11, titulaires d'une qualification reconnue par l'Etat et agréées par le directeur du Conseil national des activités privées de sécurité, peuvent procéder, sous le contrôle d'un officier de police judiciaire et avec le consentement exprès des personnes, à des palpations de sécurité. Dans ce cas, la palpation doit être effectuée par une personne de même sexe que la personne qui en fait l'objet.
+I. - Pour l'accès aux enceintes dans lesquelles est organisée une manifestation sportive, récréative ou culturelle rassemblant plus de 300 spectateurs, les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1 ainsi que celles, membres du service d'ordre affecté par l'organisateur à la sécurité de la manifestation sportive, récréative ou culturelle en application des dispositions de l'article L. 211-11, titulaires d'une qualification reconnue par l'Etat et agréées par le directeur du Conseil national des activités privées de sécurité, peuvent procéder, sous le contrôle d'un officier de police judiciaire et avec le consentement exprès des personnes, à des palpations de sécurité. Dans ce cas, la palpation doit être effectuée par une personne de même sexe que la personne qui en fait l'objet.
 
 Elles peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur fouille.
+
+II. - Pour faciliter et sécuriser l'accès aux lieux mentionnés au I du présent article, l'inspection des personnes peut être réalisée, avec leur consentement exprès, au moyen d'un dispositif d'imagerie utilisant des ondes millimétriques installé par le gestionnaire de l'enceinte à son initiative. La finalité de ce dispositif est de vérifier que les personnes ainsi examinées ne portent sur elles aucun objet interdit dans le lieu auquel elles souhaitent accéder. En cas de refus, la personne est soumise à un autre dispositif de contrôle dont elle a été préalablement informée par un moyen de publicité mis à disposition à l'entrée de la manifestation.
+
+L'analyse des images est effectuée par des opérateurs ne connaissant pas l'identité de la personne et ne pouvant visualiser simultanément celle-ci et son image produite par le dispositif d'imagerie utilisant des ondes millimétriques. L'image produite par le dispositif d'imagerie utilisant des ondes millimétriques doit comporter un système brouillant la visualisation du visage. Cette image utilise une forme générique du corps humain. Aucun stockage ou enregistrement des images n'est autorisé.
 
 ###### Sous-section 2 : Tenue
 
@@ -5724,7 +5720,7 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 
 ##### Article L645-1
 
-Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis et le titre III du présent livre sont applicables en Polynésie française, dans leur rédaction résultant de l'ordonnance n° 2022-448 du 30 mars 2022 relative aux modalités d'organisation, de fonctionnement et d'exercice des missions du Conseil national des activités privées de sécurité, sous réserve des adaptations suivantes :
+Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis et le titre III du présent livre sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, sous réserve des adaptations suivantes :
 
 1° La référence au département est remplacée par la référence à la Polynésie française ;
 
@@ -5788,7 +5784,7 @@ b) Au deuxième alinéa, les mots : " aux dispositions des articles 493 à 498 d
 
 ##### Article L646-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III du présent livre, sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2022-448 du 30 mars 2022 relative aux modalités d'organisation, de fonctionnement et d'exercice des missions du Conseil national des activités privées de sécurité, sous réserve des adaptations suivantes :
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III du présent livre, sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, sous réserve des adaptations suivantes :
 
 1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
 
@@ -5850,7 +5846,7 @@ b) Au deuxième alinéa, les mots : " aux dispositions des articles 493 à 498 d
 
 ##### Article L647-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III du présent livre, sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2022-448 du 30 mars 2022 relative aux modalités d'organisation, de fonctionnement et d'exercice des missions du Conseil national des activités privées de sécurité, sous réserve des adaptations suivantes :
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III du présent livre, sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, sous réserve des adaptations suivantes :
 
 1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ;
 
@@ -6348,7 +6344,9 @@ Aucun licenciement ou déclassement professionnel, aucune sanction disciplinaire
 
 ##### Article L726-1
 
-Les actions d'enseignement et de formation en matière de secourisme sont assurées par des organismes habilités parmi les services des établissements de santé dont la liste est fixée par décret et les services publics auxquels appartiennent les acteurs de la sécurité civile mentionnés aux premier et deuxième alinéas de l'article L. 721-2 ou par des associations de sécurité civile agréées au titre de l'article L. 725-1.
+Les actions d'enseignement et de formation en matière de secourisme sont assurées par des organismes habilités parmi les services des établissements de santé dont la liste est fixée par décret, les services publics auxquels appartiennent les acteurs de la sécurité civile mentionnés à l'article L. 721-2 et les associations ayant notamment pour objet la formation aux premiers secours.
+
+Un décret en Conseil d'Etat définit les conditions d'application du présent article. Il précise notamment les modalités d'habilitation des différents organismes.
 
 #### Chapitre II : Enseignement à la pratique des premiers secours
 
@@ -6818,7 +6816,7 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 
 ##### Article L765-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur, les dispositions suivantes :
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre Ier : l'article L. 711-1 ;
 
@@ -6934,7 +6932,7 @@ En cas de menace ou d'atteinte graves à la santé publique, le haut-commissaire
 
 ##### Article L766-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur, les dispositions suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre Ier : l'article L. 711-1 ;
 
@@ -7078,7 +7076,7 @@ Le commandant des opérations de secours peut, même en l'absence d'autorisation
 
 ##### Article L767-1
 
-Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur, les dispositions suivantes :
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre II : les articles L. 721-1 et L. 721-2 ;
 
