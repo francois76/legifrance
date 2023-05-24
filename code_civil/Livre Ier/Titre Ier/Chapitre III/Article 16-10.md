@@ -20,5 +20,7 @@ La communication des résultats révélés incidemment, mentionnés au 4°, est 
 
 III.-Par dérogation aux I et II, en cas d'examen des caractéristiques génétiques mentionné au I entrepris à des fins de recherche scientifique et réalisé à partir d'éléments du corps d'une personne prélevés à d'autres fins, l'article L. 1130-5 du code de la santé publique est applicable.
 
+III bis.-Par dérogation au I du présent article, l'examen des caractéristiques génétiques constitutionnelles d'une personne peut également être entrepris à des fins de lutte contre le dopage, dans les conditions prévues à l'article L. 232-12-2 du code du sport.
+
 IV.-Tout démarchage à caractère publicitaire portant sur l'examen des caractéristiques génétiques constitutionnelles d'une personne est interdit.
 

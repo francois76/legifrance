@@ -8,7 +8,9 @@ L'identification d'une personne par ses empreintes génétiques ne peut être re
 
 3° Aux fins d'établir, lorsqu'elle est inconnue, l'identité de personnes décédées ;
 
-4° Dans les conditions prévues à l'article L. 2381-1 du code de la défense.
+4° Dans les conditions prévues à l'article L. 2381-1 du code de la défense ;
+
+5° A des fins de lutte contre le dopage, dans les conditions prévues à l'article L. 232-12-2 du code du sport.
 
 En matière civile, cette identification ne peut être recherchée qu'en exécution d'une mesure d'instruction ordonnée par le juge saisi d'une action tendant soit à l'établissement ou la contestation d'un lien de filiation, soit à l'obtention ou la suppression de subsides. Le consentement de l'intéressé doit être préalablement et expressément recueilli. Sauf accord exprès de la personne manifesté de son vivant, aucune identification par empreintes génétiques ne peut être réalisée après sa mort.
 
