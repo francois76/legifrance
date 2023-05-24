@@ -174,6 +174,8 @@ La communication des résultats révélés incidemment, mentionnés au 4°, est 
 
 III.-Par dérogation aux I et II, en cas d'examen des caractéristiques génétiques mentionné au I entrepris à des fins de recherche scientifique et réalisé à partir d'éléments du corps d'une personne prélevés à d'autres fins, l'article L. 1130-5 du code de la santé publique est applicable.
 
+III bis.-Par dérogation au I du présent article, l'examen des caractéristiques génétiques constitutionnelles d'une personne peut également être entrepris à des fins de lutte contre le dopage, dans les conditions prévues à l'article L. 232-12-2 du code du sport.
+
 IV.-Tout démarchage à caractère publicitaire portant sur l'examen des caractéristiques génétiques constitutionnelles d'une personne est interdit.
 
 #### Article 16-11
@@ -186,7 +188,9 @@ L'identification d'une personne par ses empreintes génétiques ne peut être re
 
 3° Aux fins d'établir, lorsqu'elle est inconnue, l'identité de personnes décédées ;
 
-4° Dans les conditions prévues à l'article L. 2381-1 du code de la défense.
+4° Dans les conditions prévues à l'article L. 2381-1 du code de la défense ;
+
+5° A des fins de lutte contre le dopage, dans les conditions prévues à l'article L. 232-12-2 du code du sport.
 
 En matière civile, cette identification ne peut être recherchée qu'en exécution d'une mesure d'instruction ordonnée par le juge saisi d'une action tendant soit à l'établissement ou la contestation d'un lien de filiation, soit à l'obtention ou la suppression de subsides. Le consentement de l'intéressé doit être préalablement et expressément recueilli. Sauf accord exprès de la personne manifesté de son vivant, aucune identification par empreintes génétiques ne peut être réalisée après sa mort.
 
