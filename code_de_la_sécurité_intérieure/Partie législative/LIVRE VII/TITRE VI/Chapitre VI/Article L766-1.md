@@ -1,6 +1,6 @@
 ##### Article L766-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur, les dispositions suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre Ier : l'article L. 711-1 ;
 

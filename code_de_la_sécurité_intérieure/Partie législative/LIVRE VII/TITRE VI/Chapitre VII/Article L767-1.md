@@ -1,6 +1,6 @@
 ##### Article L767-1
 
-Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur, les dispositions suivantes :
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre II : les articles L. 721-1 et L. 721-2 ;
 

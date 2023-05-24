@@ -1,6 +1,6 @@
 ##### Article L288-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement, les dispositions suivantes :
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-5 à L. 211-9, L. 211-11, L. 211-12, L. 211-15, L. 211-16, L. 214-1 et L. 214-2 ;
 

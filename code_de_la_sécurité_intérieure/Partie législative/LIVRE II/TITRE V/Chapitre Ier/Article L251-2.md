@@ -1,6 +1,6 @@
 ##### Article L251-2
 
-La transmission et l'enregistrement d'images prises sur la voie publique par le moyen de la vidéoprotection peuvent être mis en œuvre par les autorités publiques compétentes aux fins d'assurer :
+Des systèmes de vidéoprotection peuvent être mis en œuvre sur la voie publique par les autorités publiques compétentes aux fins d'assurer :
 
 1° La protection des bâtiments et installations publics et de leurs abords ;
 
@@ -24,7 +24,7 @@ La transmission et l'enregistrement d'images prises sur la voie publique par le 
 
 11° La prévention et la constatation des infractions relatives à l'abandon d'ordures, de déchets, de matériaux ou d'autres objets.
 
-Il peut être également procédé à ces opérations dans des lieux et établissements ouverts au public aux fins d'y assurer la sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques d'agression ou de vol.
+Des systèmes de vidéoprotection peuvent également être mis en œuvre dans des lieux et établissements ouverts au public aux fins d'y assurer la sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques d'agression ou de vol.
 
 Après information du maire de la commune concernée et autorisation des autorités publiques compétentes, des commerçants peuvent mettre en œuvre sur la voie publique un système de vidéoprotection aux fins d'assurer la protection des abords immédiats de leurs bâtiments et installations, dans les lieux particulièrement exposés à des risques d'agression ou de vol. Les conditions de mise en œuvre et le type de bâtiments et installations concernés sont définis par décret en Conseil d'Etat.
 

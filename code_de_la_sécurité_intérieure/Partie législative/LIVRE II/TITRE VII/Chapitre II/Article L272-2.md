@@ -12,5 +12,3 @@ Lorsque la convention a pour objet de permettre la transmission des images aux s
 
 Cette convention est transmise à la commission départementale de vidéoprotection mentionnée au chapitre III du titre II et du titre V du livre II du code de la sécurité intérieure qui apprécie la pertinence des garanties prévues et en demande, le cas échéant, le renforcement au représentant de l'Etat dans le département.
 
-Ne sont pas soumis au présent article les systèmes utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
-

@@ -10,13 +10,15 @@ Pour l'application des dispositions énumérées à l'article L. 286-1 :
 
 4° Les montants exprimés en euros sont remplacés par leur contre-valeur en monnaie locale ;
 
+4° bis La référence au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) est remplacée par la référence aux règles en vigueur en métropole en application du même règlement ;
+
 5° Au dernier alinéa de l'article L. 211-4, la référence à l'article L. 2215-1 du code général des collectivités territoriales est remplacée par la référence à l'article L. 131-13 du code des communes de la Nouvelle-Calédonie ;
 
 6° Au 2° de l'article L. 223-2, les mots : " régie par l'article L. 1000-1 du code des transports " sont supprimés ;
 
 7° et 8° (Abrogés) ;
 
-9° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail applicables localement " ;
+9° (Abrogé) ;
 
 10° Le deuxième alinéa de l'article L. 271-1 est ainsi rédigé :
 

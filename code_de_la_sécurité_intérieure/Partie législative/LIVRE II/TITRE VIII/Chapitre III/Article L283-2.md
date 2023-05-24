@@ -8,6 +8,8 @@ Pour l'application du présent livre à Saint-Barthélemy et à Saint-Martin :
 
 3° Les références à la commission départementale de vidéoprotection sont remplacées par la référence à la commission territoriale de vidéoprotection ;
 
+3° bis La référence au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) est remplacée, à Saint-Barthélemy, par la référence aux règles en vigueur en métropole en application du même règlement ;
+
 4° Dans la première phrase du premier alinéa de l'article L. 211-2 :
 
 a) La référence à la mairie de la commune est remplacée par la référence à l'hôtel de la collectivité ;

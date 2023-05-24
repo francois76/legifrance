@@ -1,6 +1,6 @@
 ##### Article L647-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III du présent livre, sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2022-448 du 30 mars 2022 relative aux modalités d'organisation, de fonctionnement et d'exercice des missions du Conseil national des activités privées de sécurité, sous réserve des adaptations suivantes :
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III du présent livre, sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, sous réserve des adaptations suivantes :
 
 1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ;
 
