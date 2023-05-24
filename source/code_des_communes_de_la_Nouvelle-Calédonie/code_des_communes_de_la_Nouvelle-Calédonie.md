@@ -3954,9 +3954,9 @@ Pour l'application des dispositions de l'article L. 121-30, le président, les v
 
 ###### Article D121-23-1
 
-I.-Les articles D. 2123-22-4-A à D. 2123-22-4-C du code général des collectivités territoriales sont applicables en Nouvelle-Calédonie dans leur rédaction résultant du décret n° 2020-948 du 30 juillet 2020.
+I.-L'article D. 2123-22-4-A du code général des collectivités territoriales est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2020-948 du 30 juillet 2020.
 
-II.-Pour l'application des articles D. 2123-22-4-A à D. 2123-22-4-C du code général des collectivités territoriales :
+II.-Pour l'application de l'article D. 2123-22-4-A du code général des collectivités territoriales :
 
 1° Les mots : “ L. 2123-18-2 ” sont remplacés par les mots : “ L. 123-2-2 du code des communes de la Nouvelle-Calédonie ” ;
 
@@ -4263,6 +4263,14 @@ La prise en charge de ces frais spécifiques est assurée sur présentation d'un
 
 Le remboursement de ces frais est cumulable avec les remboursements prévus aux articles L. 123-2 et L. 123-2-1.
 
+##### Section 3 bis : Remboursement des frais de garde ou d'assistance
+
+###### Article D123-1-B
+
+I.-Pour l'application des deuxième et troisième alinéas de l'article L. 123-2-2 du présent code, le barème déterminant le montant de la compensation par l'Etat du coût pour la commune des frais mentionnés au même article est fixé dans les conditions prévues à la deuxième colonne du tableau de l'article D. 2335-1-1 du code général des collectivités territoriales.
+
+II.-La compensation est versée annuellement. Les montants en euros sont remplacés par des montants équivalents en francs CFP compte tenu de la contre-valeur de l'euro dans cette monnaie. La population prise en compte correspond à la population totale. Celle-ci est obtenue par addition de la population municipale et de la population comptée à part telle que prise en compte lors du dernier renouvellement général des conseils municipaux.
+
 ##### Section 4 : Régime de retraite des maires et adjoints
 
 ###### Article D123-1
@@ -4424,36 +4432,9 @@ Les dépenses résultant de l'organisation de la consultation par un établissem
 
 ##### Article D126-1
 
-I.-Pour l'application du deuxième alinéa de l'article L. 127-4 du présent code, le barème déterminant le montant de la compensation par l'Etat du coût pour la commune de la souscription des contrats mentionnés à l'article L. 127-4 est fixé comme suit, par commune :
+I.-Pour l'application du deuxième alinéa de l'article L. 127-4 du présent code, le barème déterminant le montant de la compensation par l'Etat du coût pour la commune de la souscription des contrats mentionnés au même article est fixé dans les conditions prévues à la troisième colonne du tableau de l'article D. 2335-1-1 du code général des collectivités territoriales.
 
-<table border="1"><tbody>
- <tr>
-  <th>POPULATION (HABITANTS)</th>
-  <th>MONTANT DE LA COMPENSATION ANNUELLE</th>
- </tr>
- <tr>
-  <td align="justify">De 1 à 99 habitants</td>
-  <td align="center">9000 CPF</td>
- </tr>
- <tr>
-  <td align="justify">De 100 à 499 habitants</td>
-  <td align="center">10000 CPF</td>
- </tr>
- <tr>
-  <td align="justify">De 500 à 1 499 habitants</td>
-  <td align="center">12000 CPF</td>
- </tr>
- <tr>
-  <td align="justify">De 1 500 à 2 499 habitants</td>
-  <td align="center">14000 CPF</td>
- </tr>
- <tr>
-  <td align="justify">De 2 500 à 3 499 habitants</td>
-  <td align="center">16000 CPF</td>
- </tr>
-</tbody></table>
-
-II.-La compensation est versée annuellement sous la forme de la dotation prévue à l'article 260 de la loi de finances n° 2019-1479 du 28 décembre 2019 de finances pour 2020. La population mentionnée à l'article 260 précité correspond à la population totale. Celle-ci est obtenue par addition de la population municipale et de la population comptée à part telle que prise en compte lors du dernier renouvellement général des conseils municipaux.
+II.-La compensation est versée annuellement. Les montants en euros sont remplacés par des montants équivalents en francs CFP compte tenu de la contre-valeur de l'euro dans cette monnaie. La population prise en compte correspond à la population totale. Celle-ci est obtenue par addition de la population municipale et de la population comptée à part telle que prise en compte lors du dernier renouvellement général des conseils municipaux.
 
 ### TITRE III : POLICE
 
