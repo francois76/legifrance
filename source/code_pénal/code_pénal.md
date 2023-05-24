@@ -4780,7 +4780,11 @@ L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans
 
 ###### Article 226-25
 
-Le fait de procéder à l'examen des caractéristiques génétiques d'une personne à des fins autres que médicales ou de recherche scientifique, ou à des fins médicales ou de recherche scientifique, sans avoir recueilli préalablement son consentement dans les conditions prévues par l'article 16-10 du code civil, est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+I.-Le fait de procéder à l'examen des caractéristiques génétiques d'une personne à des fins autres que médicales, de recherche scientifique ou de lutte contre le dopage est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+
+II.-Le fait de procéder à l'examen des caractéristiques génétiques d'une personne à des fins médicales ou de recherche scientifique sans avoir recueilli préalablement son consentement dans les conditions prévues à l'article 16-10 du code civil est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+
+III.-Le fait de procéder à l'examen des caractéristiques génétiques d'une personne à des fins de lutte contre le dopage sans l'en avoir préalablement informée dans les conditions prévues à l'article L. 232-12-2 du code du sport est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 ###### Article 226-26
 
@@ -8948,7 +8952,7 @@ Les personnes physiques coupables de la contravention prévue au présent articl
 
 ##### Article 711-1
 
-Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur rédaction résultant de la loi n° 2023-380 du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 ##### Article 711-2
 
@@ -9138,13 +9142,15 @@ Les 2° et 3° de l'article 225-3 sont rédigés comme suit :
 
 L'article 226-25 est rédigé comme suit :
 
-" Art. 226-25.-Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir préalablement recueilli son consentement par écrit est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+" Art. 226-25.-I.-Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir préalablement recueilli son consentement par écrit est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 " Les dispositions de l'alinéa précédent ne sont pas applicables :
 
 " 1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
 
 " 2° Ou lorsque, à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-ci n'est pas recueilli. "
+
+“ II.-Le fait de procéder à l'examen des caractéristiques génétiques d'une personne à des fins de lutte contre le dopage sans l'en avoir préalablement informée est puni d'un an d'emprisonnement et de 15 000 euros d'amende.”
 
 ##### Article 723-5
 
