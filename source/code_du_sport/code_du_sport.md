@@ -2193,6 +2193,34 @@ Les prélèvements biologiques mentionnés au premier alinéa de l'article L. 23
 
 Les renseignements ainsi recueillis peuvent faire l'objet, dans des conditions fixées par décret en Conseil d'Etat, d'un traitement informatisé par l'Agence française de lutte contre le dopage dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'information, aux fichiers et aux libertés.
 
+###### Article L232-12-2
+
+I.-Aux seules fins de mettre en évidence la présence dans l'échantillon d'un sportif et l'usage par ce sportif d'une substance ou d'une méthode interdites en application de l'article L. 232-9, le laboratoire accrédité par l'Agence mondiale antidopage en France peut procéder, à partir de prélèvements sanguins ou urinaires des sportifs qui lui sont transmis et dans l'hypothèse où les autres techniques disponibles ne permettent pas leur détection, à la comparaison d'empreintes génétiques et à l'examen de caractéristiques génétiques pour la recherche des cas suivants :
+
+1° Une administration de sang homologue ;
+
+2° Une substitution d'échantillons prélevés ;
+
+3° Une mutation génétique dans un ou plusieurs gènes impliqués dans la performance induisant une production endogène d'une substance interdite en application du même article L. 232-9 ;
+
+4° Une manipulation génétique pouvant modifier les caractéristiques somatiques aux fins d'augmentation de la performance.
+
+II.-La personne contrôlée est expressément informée, préalablement au prélèvement, en particulier au moment de l'inscription à la compétition sportive :
+
+1° De la possibilité que les échantillons prélevés fassent l'objet des analyses prévues au I du présent article, en précisant la nature de celles-ci et leurs finalités ;
+
+2° De l'éventualité d'une découverte incidente de caractéristiques génétiques pouvant être responsables d'une affection justifiant des mesures de prévention ou de soins pour elle-même ou au bénéfice de membres de sa famille potentiellement concernés et de ses conséquences, selon les modalités mentionnées aux 3° et 4° du II de l'article 16-10 du code civil.
+
+III.-Les analyses prévues au I du présent article sont effectuées sur des échantillons pseudonymisés et portent sur les seules parties du génome pertinentes. Les données analysées ne peuvent conduire à révéler l'identité des sportifs ni servir au profilage des sportifs ou à la sélection de sportifs à partir d'une caractéristique génétique donnée.
+
+Les analyses sont réalisées à partir de segments d'acide désoxyribonucléique non codants ou, si elles nécessitent l'examen de caractéristiques génétiques, ne peuvent conduire à donner d'autres informations que celles recherchées ni permettre d'avoir une connaissance de l'ensemble des caractéristiques génétiques de la personne.
+
+Les données génétiques analysées sont détruites sans délai lorsqu'elles ne révèlent la présence d'aucune substance ou l'utilisation d'aucune méthode interdites ou, au terme des poursuites disciplinaires ou pénales engagées, lorsqu'elles révèlent la présence d'une substance ou l'utilisation d'une méthode interdites.
+
+IV.-Le traitement des données issues de ces analyses est strictement limité aux données nécessaires à la poursuite des finalités prévues au I. Les analyses et le traitement des données qui en sont issues sont réalisés dans des conditions et selon des modalités précisées par un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés.
+
+V.-En cas de découverte incidente de caractéristiques génétiques pouvant être responsables d'une affection justifiant des mesures de prévention ou de soins pour elle-même ou au bénéfice de membres de sa famille potentiellement concernés, et sauf si elle s'y est préalablement opposée, la personne contrôlée est informée de l'existence d'une telle découverte et invitée à se rendre à une consultation chez un médecin qualifié en génétique pour une prise en charge réalisée dans les conditions fixées au chapitre Ier du titre III du livre Ier de la première partie du code de la santé publique.
+
 ###### Article L232-13
 
 Les contrôles peuvent être diligentés :
@@ -2233,7 +2261,7 @@ Lorsqu'un sportif n'est pas soumis aux obligations de localisation mentionnées 
 
 ###### Article L232-14
 
-Dans l'exercice de leur mission de contrôle, les personnes mentionnées à l'article L. 232-11 ne peuvent accéder aux lieux mentionnés à l'article L. 232-13-1 qu'entre 6 heures et 23 heures, ou à tout moment dès lors que ces lieux sont ouverts au public ou qu'une manifestation sportive ou un entraînement y préparant est en cours. Un contrôle réalisé au domicile d'un sportif ne peut avoir lieu qu'entre 6 heures et 23 heures.
+Dans l'exercice de leur mission de contrôle, les personnes mentionnées à l'article L. 232-11 ne peuvent accéder aux lieux mentionnés aux 1° à 3° de l'article L. 232-13-1 qu'entre 6 heures et 23 heures, ou à tout moment dès lors que ces lieux sont ouverts au public ou qu'une manifestation sportive ou un entraînement y préparant est en cours.
 
 Elles peuvent être assistées, à leur demande, par un délégué antidopage désigné par la fédération sportive compétente ou l'organisateur de la manifestation sportive concernée lorsque celle-ci n'est ni organisée par une fédération agréée ni autorisée par une fédération délégataire.
 
@@ -2243,13 +2271,11 @@ Seuls des médecins peuvent recueillir les informations à caractère médical, 
 
 ###### Article L232-14-1
 
-Indépendamment de l'application des dispositions des articles L. 232-13-1 et L. 232-14, les opérations de contrôles mentionnées à l'article L. 232-12 ainsi que celles relevant de la compétence des organismes sportifs internationaux signataires du code mondial antidopage peuvent avoir lieu au domicile ou au lieu d'hébergement d'un sportif entre 23 heures et 6 heures, dans le respect de sa vie privée et de son intimité et lorsque les conditions suivantes sont réunies :
+Indépendamment de l'application des dispositions des articles L. 232-13-1 et L. 232-14, les opérations de contrôles mentionnées à l'article L. 232-12 ainsi que celles relevant de la compétence des organismes sportifs internationaux signataires du code mondial antidopage peuvent avoir lieu au domicile ou au lieu d'hébergement d'un sportif entre 23 heures et 6 heures, dans le respect de sa vie privée et de son intimité, lorsque le sportif appartient à l'une des catégories mentionnées à l'article L. 232-15, fait partie du groupe cible d'un organisme sportif international ou d'une organisation nationale antidopage étrangère ou participe à une manifestation sportive internationale.
 
-1° Le sportif appartient à l'une des catégories mentionnées à l'article L. 232-15, fait partie du groupe cible d'un organisme sportif international ou d'une organisation nationale antidopage étrangère ou participe à une manifestation sportive internationale ;
+Lorsque le contrôle est effectué entre 23 heures et 5 heures, il doit en outre exister, à l'encontre du sportif, des soupçons graves et concordants qu'il a contrevenu ou va contrevenir aux dispositions du présent chapitre et un risque de disparition de preuves.
 
-2° Il existe à l'encontre du sportif des soupçons graves et concordants qu'il a contrevenu ou va contrevenir aux dispositions du présent chapitre et un risque de disparition des preuves.
-
-Les opérations de contrôles sont effectuées dans des conditions garantissant une stricte proportionnalité entre les atteintes portées aux droits du sportif et les enjeux de la lutte contre le dopage en termes de loyauté des compétitions et de protection de sa santé. Elles se limitent au prélèvement d'échantillons.
+Les opérations de contrôles sont effectuées dans des conditions garantissant une stricte proportionnalité entre les atteintes portées aux droits du sportif et les enjeux de la lutte contre le dopage en termes de loyauté des compétitions et de protection de sa santé. Elles se limitent au prélèvement d'échantillons et au recueil des observations du sportif.
 
 ###### Article L232-14-2
 
@@ -2263,25 +2289,21 @@ L'organisateur d'une manifestation sportive internationale peut également solli
 
 Les opérations de contrôle peuvent avoir lieu :
 
-1° Pendant une période de trois mois, renouvelable tacitement une fois, à compter de la réception du consentement lorsque celui-ci a été recueilli dans les conditions prévues au troisième alinéa du présent article ;
+1° Pendant la durée de l'inclusion au sein d'un groupe cible mentionné au premier alinéa de l'article L. 232-14-1 ou, à défaut, pendant une période de trois mois, renouvelable tacitement une fois, à compter de la réception du consentement lorsque celui-ci a été recueilli dans les conditions prévues au troisième alinéa du présent article ;
 
 2° Pendant la durée de la manifestation sportive lorsque le consentement a été recueilli dans les conditions prévues au quatrième alinéa du présent article.
 
 ###### Article L232-14-3
 
-Lorsque le consentement du sportif a été recueilli dans les conditions prévues à l'article L. 232-14-2, les opérations de contrôle mentionnées à l'article L. 232-14-1 peuvent être diligentées par le directeur du département des contrôles de l'Agence française de lutte contre le dopage.
-
-Le directeur du département des contrôles de l'Agence française de lutte contre le dopage veille à ce que l'opération de contrôle envisagée garantisse une stricte proportionnalité entre les atteintes portées aux droits du sportif et les enjeux de la lutte contre le dopage en termes de loyauté des compétitions et de protection de sa santé. Il motive en conséquence sa décision de diligenter un contrôle prévu à l'article L. 232-14-1.
+Lorsque le consentement du sportif a été recueilli dans les conditions prévues à l'article L. 232-14-2, les opérations de contrôle mentionnées à l'article L. 232-14-1 peuvent être diligentées sur décision motivée du directeur du département des contrôles de l'Agence française de lutte contre le dopage, au regard des critères fixés au même article L. 232-14-1.
 
 ###### Article L232-14-4
 
-Lorsque le sportif a refusé son consentement aux opérations de contrôle mentionnées à l'article L. 232-14-1, le juge des libertés et de la détention du tribunal judiciaire dans le ressort duquel s'effectue le contrôle ou le juge des libertés et de la détention du tribunal judiciaire prévu par le décret mentionné au I de l'article 706-2 du code de procédure pénale peut, à la requête du directeur du département des contrôles de l'Agence française de lutte contre le dopage, de l'organisation nationale antidopage étrangère compétente ou d'un organisme sportif international compétent, autoriser les opérations mentionnées à l'article L. 232-14-1.
+Lorsque le sportif a refusé son consentement aux opérations de contrôle mentionnées à l'article L. 232-14-1, le juge des libertés et de la détention du tribunal judiciaire dans le ressort duquel s'effectue le contrôle ou le juge des libertés et de la détention du tribunal judiciaire prévu par le décret mentionné au I de l'article 706-2 du code de procédure pénale peut, à la requête du directeur du département des contrôles de l'Agence française de lutte contre le dopage, de l'organisation nationale antidopage étrangère compétente ou d'un organisme sportif international compétent, autoriser les opérations mentionnées à l'article L. 232-14-1. Le juge des libertés et de la détention vérifie dans tous les cas qu'il existe, à l'encontre du sportif, des soupçons graves et concordants qu'il a contrevenu ou va contrevenir aux dispositions du présent chapitre et un risque de disparition de preuves.
 
 Le juge des libertés et de la détention peut également autoriser des opérations de contrôle mentionnées à l'article L. 232-14-1 sur un sportif dont le consentement n'aura pas été sollicité, selon les mêmes modalités que celles mentionnées à l'alinéa précédent, quand l'Agence française de lutte contre le dopage, l'organisation nationale antidopage étrangère compétente ou l'organisme sportif international compétent a connaissance de soupçons graves et concordants que celui-ci va contrevenir, de manière imminente, aux dispositions du présent chapitre.
 
 A peine de nullité, l'autorisation est donnée pour un prélèvement déterminé et fait l'objet d'une ordonnance écrite. Cette ordonnance, qui n'est pas susceptible d'appel, est motivée par référence aux éléments de fait et de droit justifiant que l'opération est nécessaire. Les opérations sont faites sous le contrôle du magistrat qui les a autorisées, et qui peut se déplacer sur les lieux pour veiller au respect des dispositions légales.
-
-Le procureur de la République territorialement compétent ou le procureur de la République mentionné à l'avant-dernier alinéa du I de l'article 706-2 du code de procédure pénale est, préalablement à la saisine du juge des libertés et de la détention, informé par le directeur du département des contrôles de l'Agence française de lutte contre le dopage, par l'organisation nationale antidopage étrangère compétente ou par l'organisme sportif international compétent du projet de contrôle et peut s'y opposer.
 
 Les opérations prévues ne peuvent, à peine de nullité, avoir un autre objet que le prélèvement visé dans la décision du juge des libertés et de la détention.
 
@@ -3341,6 +3363,10 @@ Le fait d'accéder en état d'ivresse à une enceinte sportive lors du déroulem
 
 Le fait d'avoir, en état d'ivresse, pénétré ou tenté de pénétrer par force ou par fraude dans une enceinte sportive lors du déroulement ou de la retransmission en public d'une manifestation sportive est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
+##### Article L332-5-1
+
+Lorsqu'il est commis en récidive, dans les conditions prévues au second alinéa de l'article 132-11 du code pénal, ou en réunion, le fait de pénétrer ou de tenter de pénétrer par force ou par fraude sans être muni d'un titre d'accès prévu à l'article L. 332-1-2 du présent code dans une enceinte lors du déroulement ou de la retransmission en public d'une manifestation sportive est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
+
 ##### Article L332-6
 
 Lors d'une manifestation sportive ou de la retransmission en public d'une telle manifestation dans une enceinte sportive, le fait de provoquer, par quelque moyen que ce soit, des spectateurs à la haine ou à la violence à l'égard de l'arbitre, d'un juge sportif, d'un joueur ou de toute autre personne ou groupe de personnes est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
@@ -3351,7 +3377,7 @@ Le fait d'introduire, de porter ou d'exhiber dans une enceinte sportive, lors du
 
 ##### Article L332-8
 
-Le fait d'introduire, de détenir ou de faire usage des fusées ou artifices de toute nature ou d'introduire sans motif légitime tous objets susceptibles de constituer une arme au sens de l'article 132-75 du code pénal dans une enceinte sportive lors du déroulement ou de la retransmission en public d'une manifestation sportive est puni de trois ans d'emprisonnement et de 15 000 euros d'amende.
+Le fait d'introduire, de détenir ou de faire usage des fusées ou artifices de toute nature dans une enceinte sportive lors du déroulement ou de la retransmission en public d'une manifestation sportive est puni de trois ans d'emprisonnement et de 15 000 euros d'amende.
 
 Par dérogation au premier alinéa, à titre expérimental et pour une durée de trois ans à compter de la promulgation de la loi n° du visant à démocratiser le sport en France, le représentant de l'Etat dans le département ou, à Paris, le préfet de police, saisi d'une demande en ce sens par l'organisateur de la manifestation sportive et le propriétaire de l'enceinte sportive qui l'accueille, peut y autoriser l'introduction, la détention et l'usage d'engins pyrotechniques lors du déroulement ou de la retransmission en public d'une manifestation sportive, dans des conditions de nature à préserver la sécurité des personnes et des biens. L'autorisation peut imposer aux organisateurs toute mesure nécessaire à la sécurité de la manifestation sportive, notamment la mise en place d'un service d'ordre ou l'aménagement des modalités d'accueil du public. La fédération délégataire à laquelle l'organisateur de la manifestation sportive est affilié ainsi que le maire de la commune sur le territoire de laquelle se situe l'enceinte accueillant la manifestation sportive sont informés de la délivrance de cette autorisation. Un décret en Conseil d'Etat fixe les conditions d'application du présent alinéa, notamment les catégories d'enceintes sportives concernées et les catégories d'engins autorisés.
 
@@ -3360,6 +3386,12 @@ La tentative du délit prévu au premier alinéa est punie des mêmes peines.
 Le tribunal peut également prononcer la confiscation de l'objet qui a servi ou était destiné à commettre l'infraction.
 
 Pour le délit prévu au même premier alinéa, y compris en cas de récidive, l'action publique peut être éteinte, dans les conditions prévues aux articles 495-17 à 495-25 du code de procédure pénale, par le versement d'une amende forfaitaire d'un montant de 500 euros. Le montant de l'amende forfaitaire minorée est de 400 euros et le montant de l'amende forfaitaire majorée est de 1 000 euros.
+
+##### Article L332-8-1
+
+Le fait d'introduire ou de tenter d'introduire, sans motif légitime, tout objet susceptible de constituer une arme au sens de l'article 132-75 du code pénal dans une enceinte sportive lors du déroulement ou de la retransmission en public d'une manifestation sportive est puni de trois ans d'emprisonnement et de 15 000 euros d'amende.
+
+Le tribunal peut également prononcer la confiscation de l'objet qui a servi ou était destiné à commettre l'infraction.
 
 ##### Article L332-9
 
@@ -3373,12 +3405,17 @@ Le fait de troubler le déroulement d'une compétition ou de porter atteinte à 
 
 Pour le délit mentionné au premier alinéa, l'action publique peut être éteinte, dans les conditions prévues aux articles 495-17 à 495-25 du code de procédure pénale, par le versement d'une amende forfaitaire d'un montant de 500 euros. Le montant de l'amende forfaitaire minorée est de 400 euros et le montant de l'amende forfaitaire majorée est de 1 000 euros.
 
+##### Article L332-10-1
+
+Lorsqu'il est commis en récidive, dans les conditions prévues au second alinéa de l'article 132-11 du code pénal, ou en réunion, le fait de pénétrer ou de se maintenir, sans motif légitime, sur l'aire de compétition d'une enceinte sportive est puni de 7 500 euros d'amende.
+
 ##### Article L332-11
 
-Les personnes coupables de l'une des infractions définies aux articles L. 332-3 à L. 332-10 et L. 332-19 du présent code encourent également la peine complémentaire d'interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se déroule une manifestation sportive, pour une durée qui ne peut excéder cinq ans. La personne condamnée à cette peine est astreinte par le tribunal à répondre, au moment des manifestations sportives, aux convocations de toute autorité ou de toute personne qualifiée que la juridiction désigne dans sa décision. Cette décision peut prévoir que l'obligation de répondre à ces convocations s'applique au moment de certaines manifestations sportives, qu'elle désigne, se déroulant sur le territoire d'un Etat étranger.
+Les personnes coupables de l'une des infractions définies à l'article L. 332-3, à la première phrase de l'article L. 332-4 et aux articles L. 332-5-1, L. 332-8, L. 332-10-1 du présent code encourent également la peine complémentaire d'interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se déroule une manifestation sportive, pour une durée qui ne peut excéder cinq ans. En tenant compte des obligations familiales, sociales et professionnelles de la personne condamnée à cette peine, la juridiction précise les manifestations sportives au cours desquelles cette personne est astreinte à répondre aux convocations de toute autorité ou de toute personne qualifiée que la juridiction désigne dans sa décision. A défaut de mention dans le jugement, la personne est astreinte à répondre aux convocations du service de police ou de gendarmerie le plus proche de son domicile lors des manifestations sportives concernant la discipline et l'une des équipes impliquées lorsque l'infraction a été commise. Cette décision peut prévoir que l'obligation de répondre à ces convocations s'applique au moment de certaines manifestations sportives, qu'elle désigne, se déroulant sur le territoire d'un Etat étranger.
 
-Cette peine complémentaire est également applicable aux personnes coupables de l'une des infractions définies aux articles 222-11 à 222-13, 322-1 à 322-4,
-322-6, 322-11 et 433-6 du code pénal lorsque cette infraction a été commise dans une enceinte où se déroule une manifestation sportive ou, à l'extérieur de l'enceinte, en relation directe avec une manifestation sportive.
+Cette peine complémentaire est également applicable aux personnes coupables de l'une des infractions définies aux articles 222-11 à 222-13, 322-1 à 322-4, 322-6, 322-11 et 433-6 du code pénal lorsque cette infraction a été commise dans une enceinte où se déroule une manifestation sportive ou, à l'extérieur de l'enceinte, en relation directe avec une manifestation sportive.
+
+Cette peine est obligatoirement prononcée à l'encontre des personnes coupables de l'une des infractions définies à la seconde phrase de l'article L. 332-4 et aux articles L. 332-5 à L. 332-7, L. 332-8-1, L. 332-9 et L. 332-10 du présent code. Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer cette peine, en considération des circonstances de l'infraction et de la personnalité de son auteur.
 
 ##### Article L332-12
 
@@ -3390,7 +3427,7 @@ Toute personne qui pénètre ou se rend, en violation de la peine d'interdiction
 
 ##### Article L332-14
 
-Lorsque la personne condamnée est de nationalité étrangère et a son domicile hors de France, le tribunal peut, si la gravité des faits commis le justifie, prononcer au lieu de la peine complémentaire définie au premier alinéa de l'article L. 332-11 celle de l'interdiction du territoire français pour une durée au plus égale à deux ans.
+Lorsque la personne condamnée est de nationalité étrangère et a son domicile hors de France, le tribunal peut, si la gravité des faits commis le justifie, prononcer au lieu de la peine complémentaire définie aux premier et dernier alinéas de l'article L. 332-11 celle de l'interdiction du territoire français pour une durée au plus égale à deux ans.
 
 ##### Article L332-15
 
@@ -3402,11 +3439,15 @@ L'identité des personnes mentionnées au premier alinéa peut également être 
 
 ##### Article L332-16
 
-Lorsque, par son comportement d'ensemble à l'occasion de manifestations sportives, par la commission d'un acte grave à l'occasion de l'une de ces manifestations, du fait de son appartenance à une association ou un groupement de fait ayant fait l'objet d'une dissolution en application de l'article L. 332-18 ou du fait de sa participation aux activités qu'une association ayant fait l'objet d'une suspension d'activité s'est vue interdire en application du même article, une personne constitue une menace pour l'ordre public, le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent, par arrêté motivé, prononcer à son encontre une mesure d'interdiction de pénétrer ou de se rendre aux abords des enceintes où de telles manifestations se déroulent ou sont retransmises en public.
+Lorsque, par ses agissements répétés portant atteinte à la sécurité des personnes ou des biens à l'occasion de manifestations sportives, par la commission d'un acte grave à l'occasion de l'une de ces manifestations, du fait de son appartenance à une association ou un groupement de fait ayant fait l'objet d'une dissolution en application de l'article L. 332-18 ou du fait de sa participation aux activités qu'une association ayant fait l'objet d'une suspension d'activité s'est vue interdire en application du même article, une personne constitue une menace grave pour l'ordre public, le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent, par arrêté motivé, prononcer à son encontre une mesure d'interdiction de pénétrer ou de se rendre aux abords des enceintes où de telles manifestations se déroulent ou sont retransmises en public.
 
-L'arrêté, valable sur le territoire national, fixe le type de manifestations sportives concernées. Il ne peut excéder une durée de vingt-quatre mois. Toutefois, cette durée peut être portée à trente-six mois si, dans les trois années précédentes, cette personne a fait l'objet d'une mesure d'interdiction.
+L'arrêté, valable sur le territoire national, fixe le type de manifestations sportives concernées. Il ne peut excéder une durée de douze mois. Toutefois, cette durée peut être portée à vingt-quatre mois si, dans les trois années précédentes, cette personne a fait l'objet d'une mesure d'interdiction.
+
+Lorsqu'une personne à l'encontre de laquelle cette mesure est prononcée a été définitivement condamnée à la peine complémentaire prévue à l'article L. 332-11 en raison des mêmes faits, elle en informe l'autorité administrative, qui met alors immédiatement fin à sa mesure au profit de cette peine complémentaire. Il en est de même lorsque la personne a bénéficié d'une décision de relaxe en raison de ces mêmes faits par une décision pénale devenue définitive au motif que les faits ne sont pas établis ou ne lui sont pas imputables.
 
 Le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent également imposer, par le même arrêté, à la personne faisant l'objet de cette mesure l'obligation de répondre, au moment des manifestations sportives objet de l'interdiction, aux convocations de toute autorité ou de toute personne qualifiée qu'il désigne. Le même arrêté peut aussi prévoir que l'obligation de répondre à ces convocations s'applique au moment de certaines manifestations sportives, qu'il désigne, se déroulant sur le territoire d'un Etat étranger. Cette obligation doit être proportionnée au regard du comportement de la personne.
+
+L'obligation prévue au troisième alinéa du présent article ne peut être imposée que s'il apparaît manifestement que son destinataire entend se soustraire à la mesure d'interdiction prévue au premier alinéa.
 
 Le fait, pour la personne, de ne pas se conformer à l'un ou à l'autre des arrêtés pris en application des alinéas précédents est puni d'un an d'emprisonnement et de 3 750 euros d'amende.
 
@@ -3438,7 +3479,7 @@ Dans le cas prévu à l'alinéa précédent, le prononcé de la peine complémen
 
 ##### Article L332-16-3
 
-Les mesures prises au titre des articles L. 332-11, L. 332-16, L. 332-16-1 et L. 332-16-2 font l'objet d'un rapport public annuel par les services du ministère de l'intérieur.
+Les mesures prises au titre des articles L. 332-11, L. 332-13, L. 332-14, L. 332-16, L. 332-16-1 et L. 332-16-2 font l'objet d'un rapport public annuel par les services du ministère de l'intérieur.
 
 ##### Article L332-17
 
@@ -3757,6 +3798,32 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles L
 ##### Article L424-1
 
 Sont applicables en Polynésie française les dispositions de l'article L. 333-9.
+
+##### Article L424-2
+
+Lorsque la réglementation localement applicable le prévoit, les enquêteurs et le secrétaire général de l'Agence française de lutte contre le dopage sont autorisés à intervenir en Polynésie française pour la recherche et la constatation des violations des règles de la lutte contre le dopage dans le cadre des procédures prévues par la réglementation localement applicable et dans les conditions prévues à la présente section.
+
+##### Article L424-3
+
+I.-Les articles L. 232-18-7, L. 232-18-9 à L. 232-20 et L. 232-20-2 sont applicables en Polynésie française.
+
+II.-Pour l'application du I :
+
+1° A l'article L. 232-18-7 :
+
+a) Les mots : “ tribunal judiciaire ” sont remplacés par les mots : “ tribunal de première instance ” ;
+
+b) A la fin de la dernière phrase du cinquième alinéa et de la première phrase de l'avant-dernier alinéa, les mots : “ mentionnés à l'article L. 232-18-5 ” sont remplacés par les mots : “ prévus par la réglementation en vigueur localement en matière de lutte contre le dopage ” ;
+
+2° Au premier alinéa de l'article L. 232-18-9 :
+
+a) Les mots : “ aux 1° et 2° du II de l'article L. 232-9 et aux 1°, 2° et 3° de l'article L. 232-10 ” et les mots : “ à l'article L. 232-9 ” sont remplacés par les mots : “ par la réglementation en vigueur localement en matière de lutte contre le dopage ” ;
+
+b) A la fin, les mots : “, le cas échéant en faisant application des dispositions de l'article L. 232-18-5 ” sont supprimés ;
+
+3° L'article L. 232-20 est ainsi rédigé :
+
+“ Art. L. 232-20.-Par dérogation à leurs obligations de secret professionnel, les agents de l'Agence française de lutte contre le dopage et les autorités judiciaires et administratives chargées de la lutte contre le dopage peuvent se communiquer réciproquement tous renseignements, y compris nominatifs, obtenus dans l'accomplissement de leur mission respective et relatifs à des faits susceptibles de constituer des violations et des infractions pénales en matière de lutte contre le dopage. ”
 
 #### Chapitre V : Dispositions relatives à la Nouvelle-Calédonie
 
@@ -8898,7 +8965,7 @@ Les conseils départementaux de la jeunesse, des sports et de la vie associative
 
 ####### Article R221-1
 
-La qualité de sportif de haut niveau s'obtient par l'inscription sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports proposition de la fédération délégataire compétente, après avis du directeur technique national.
+La qualité de sportif de haut niveau s'obtient par l'inscription sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports sur proposition de la fédération délégataire compétente, après avis du directeur technique national.
 
 ####### Article R221-1-1
 
