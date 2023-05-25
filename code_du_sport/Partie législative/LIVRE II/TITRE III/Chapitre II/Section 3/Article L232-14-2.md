@@ -10,7 +10,7 @@ L'organisateur d'une manifestation sportive internationale peut également solli
 
 Les opérations de contrôle peuvent avoir lieu :
 
-1° Pendant une période de trois mois, renouvelable tacitement une fois, à compter de la réception du consentement lorsque celui-ci a été recueilli dans les conditions prévues au troisième alinéa du présent article ;
+1° Pendant la durée de l'inclusion au sein d'un groupe cible mentionné au premier alinéa de l'article L. 232-14-1 ou, à défaut, pendant une période de trois mois, renouvelable tacitement une fois, à compter de la réception du consentement lorsque celui-ci a été recueilli dans les conditions prévues au troisième alinéa du présent article ;
 
 2° Pendant la durée de la manifestation sportive lorsque le consentement a été recueilli dans les conditions prévues au quatrième alinéa du présent article.
 

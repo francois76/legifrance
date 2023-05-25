@@ -1,6 +1,6 @@
 ###### Article L232-14
 
-Dans l'exercice de leur mission de contrôle, les personnes mentionnées à l'article L. 232-11 ne peuvent accéder aux lieux mentionnés à l'article L. 232-13-1 qu'entre 6 heures et 23 heures, ou à tout moment dès lors que ces lieux sont ouverts au public ou qu'une manifestation sportive ou un entraînement y préparant est en cours. Un contrôle réalisé au domicile d'un sportif ne peut avoir lieu qu'entre 6 heures et 23 heures.
+Dans l'exercice de leur mission de contrôle, les personnes mentionnées à l'article L. 232-11 ne peuvent accéder aux lieux mentionnés aux 1° à 3° de l'article L. 232-13-1 qu'entre 6 heures et 23 heures, ou à tout moment dès lors que ces lieux sont ouverts au public ou qu'une manifestation sportive ou un entraînement y préparant est en cours.
 
 Elles peuvent être assistées, à leur demande, par un délégué antidopage désigné par la fédération sportive compétente ou l'organisateur de la manifestation sportive concernée lorsque celle-ci n'est ni organisée par une fédération agréée ni autorisée par une fédération délégataire.
 
