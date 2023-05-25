@@ -20,3 +20,11 @@ L'infirmier ou l'infirmière peut prescrire des substituts nicotiniques, des sol
 
 Sauf en cas d'indication contraire du médecin, l'infirmier ou l'infirmière titulaire du diplôme d'Etat de puéricultrice peut prescrire des dispositifs médicaux de soutien à l'allaitement. Un arrêté des ministres chargés de la santé et de la sécurité sociale fixe la liste des dispositifs médicaux concernés.
 
+L'infirmière ou l'infirmier est autorisé à prendre en charge la prévention et le traitement de plaies ainsi qu'à prescrire des examens complémentaires et des produits de santé. Les conditions de cette prise en charge sont définies par décret en Conseil d'Etat et la liste des prescriptions des examens complémentaires et des produits de santé autorisés est définie par un arrêté, pris après avis de la Haute Autorité de santé. Les résultats des interventions de l'infirmier sont reportés dans le dossier médical et le médecin en est tenu informé. La transmission de ces informations se fait par des moyens de communication sécurisés.
+
+Sont autorisés les infirmières et les infirmiers exerçant :
+
+a) Dans le cadre des structures d'exercice coordonné mentionnées aux articles L. 1411-11-1, L. 6323-1 et L. 6323-3 ;
+
+b) Au sein d'une équipe de soins en établissement de santé, en établissement médico-social ou en hôpital des armées coordonnée par un médecin.
+

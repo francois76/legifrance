@@ -1,6 +1,8 @@
 ###### Article L4362-10
 
-La délivrance de verres correcteurs est subordonnée à l'existence d'une prescription, par un médecin ou un orthoptiste, en cours de validité.
+La délivrance de verres correcteurs est subordonnée à l'existence d'une prescription, par un médecin ou un orthoptiste, en cours de validité
+
+Les opticiens-lunetiers peuvent, lors de la première délivrance de verres correcteurs ou de lentilles de contact suivant la prescription, adapter cette prescription après accord écrit du praticien prescripteur.
 
 Les opticiens-lunetiers peuvent adapter, dans le cadre d'un renouvellement, les prescriptions initiales de verres correcteurs en cours de validité, sauf opposition du médecin ou de l'orthoptiste.
 

@@ -10,3 +10,5 @@ La régulation téléphonique est également accessible par les numéros des ass
 
 Pour l'accomplissement de la mission de service public de permanence des soins, des modalités particulières de prescription sont fixées par voie réglementaire.
 
+Les chirurgiens-dentistes, les sages-femmes et les infirmiers diplômés d'Etat mentionnés à l'article L. 162-9 du code de la sécurité sociale, dans le cadre de leur activité libérale, et aux articles L. 162-12 et L. 162-32-1 du même code ont vocation à concourir à la mission de service public de permanence des soins dans les conditions définies à l'article L. 1435-5 du présent code. Tout autre chirurgien-dentiste, sage-femme ou infirmier ayant conservé une pratique de sa profession a vocation à y concourir, selon des modalités fixées contractuellement avec l'agence régionale de santé. Les mesures d'application du présent alinéa, notamment les modalités de rémunération des professionnels de santé concernés, sont fixées par décret.
+

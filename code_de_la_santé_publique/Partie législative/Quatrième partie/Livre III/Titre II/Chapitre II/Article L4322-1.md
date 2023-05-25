@@ -8,5 +8,7 @@ Sur ordonnance et sous contrôle médical, les pédicures-podologues peuvent tra
 
 Les pédicures-podologues analysent et évaluent les troubles morphostatiques et dynamiques du pied et élaborent un diagnostic de pédicurie-podologie en tenant compte de la statique et de la dynamique du pied ainsi que de leurs interactions avec l'appareil locomoteur.
 
-Les pédicures-podologues peuvent adapter, dans le cadre d'un renouvellement, les prescriptions médicales initiales d'orthèses plantaires datant de moins de trois ans, dans des conditions fixées par décret et sauf opposition du médecin.
+Les pédicures-podologues peuvent prescrire des orthèses plantaires, sauf avis contraire du médecin traitant.
+
+Les pédicures-podologues peuvent procéder directement à la gradation du risque podologique des patients diabétiques et prescrire les séances de soins de prévention adaptées. Un compte rendu est adressé au médecin traitant du patient et reporté dans le dossier médical partagé de ce dernier.
 

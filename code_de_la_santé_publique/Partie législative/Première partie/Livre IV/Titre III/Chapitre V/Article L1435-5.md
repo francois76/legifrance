@@ -1,6 +1,6 @@
 ###### Article L1435-5
 
-I.-L'agence régionale de santé organise, dans des conditions définies par décret en Conseil d'Etat, la mission de service public de permanence des soins mentionnée par l'article L. 6314-1. Ses modalités, élaborées en association avec les représentants des professionnels de santé, dont l'ordre des médecins, et des centres de santé, sont définies après avis du représentant de l'Etat territorialement compétent.
+I.-L'agence régionale de santé organise, dans des conditions définies par décret en Conseil d'Etat, la mission de service public de permanence des soins mentionnée par l'article L. 6314-1. Ses modalités, élaborées en association avec les représentants des professionnels de santé, dont l'ordre des médecins, l'ordre des chirurgiens-dentistes, l'ordre des sages-femmes, l'ordre des infirmiers, et des centres de santé, sont définies après avis du représentant de l'Etat territorialement compétent.
 
 Les praticiens des armées peuvent participer à la permanence des soins selon des modalités élaborées en association avec le service de santé des armées, et définies par décret en Conseil d'Etat.
 

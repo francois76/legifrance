@@ -10,7 +10,7 @@ I. - Les auxiliaires médicaux relevant des titres Ier à VII du présent livre 
 
 4° En assistance d'un médecin du travail, au sein d'un service de prévention et de santé au travail.
 
-Un décret en Conseil d'Etat, pris après avis de l'Académie nationale de médecine et des représentants des professionnels de santé concernés, définit pour chaque profession d'auxiliaire médical :
+Un décret en Conseil d'Etat, pris après avis de l'Académie nationale de médecine, de la Haute Autorité de santé, des ordres des professions de santé et des représentants des professionnels de santé concernés, définit pour chaque profession d'auxiliaire médical :
 
 1° Les domaines d'intervention en pratique avancée qui peuvent comporter :
 
@@ -18,7 +18,7 @@ a) Des activités d'orientation, d'éducation, de prévention ou de dépistage ;
 
 b) Des actes d'évaluation et de conclusion clinique, des actes techniques et des actes de surveillance clinique et para-clinique ;
 
-c) Des prescriptions de produits de santé non soumis à prescription médicale obligatoire, des prescriptions d'examens complémentaires et des renouvellements ou adaptations de prescriptions médicales ;
+c) Des prescriptions de produits de santé et de prestations soumis ou non à prescription médicale obligatoire, des prescriptions d'examens complémentaires et des renouvellements ou adaptations de prescriptions médicales ;
 
 2° Les conditions et les règles de l'exercice en pratique avancée.
 
