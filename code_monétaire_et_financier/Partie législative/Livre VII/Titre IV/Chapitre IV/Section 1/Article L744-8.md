@@ -2,9 +2,7 @@
 
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-<div align="center">
-
-<table border="1">
+<table border="1"><tbody>
  <tr>
   <th>Articles applicables</th>
   <th>Dans leur rédaction résultant de</th>
@@ -30,7 +28,11 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
   <td align="justify">l'ordonnance n° 2019-698 du 3 juillet 2019</td>
  </tr>
  <tr>
-  <td align="justify">L. 214-24-33 et L. 214-24-34</td>
+  <td align="justify">L. 214-24-33</td>
+  <td align="justify">l'ordonnance n° 2023-393 du 24 mai 2023</td>
+ </tr>
+ <tr>
+  <td align="justify">L. 214-24-34</td>
   <td align="justify">la loi n° 2019-486 du 22 mai 2019</td>
  </tr>
  <tr>
@@ -217,9 +219,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
   <td align="justify">L. 214-138 à L. 214-142</td>
   <td align="justify">l'ordonnance n° 2013-676 du 25 juillet 2013</td>
  </tr>
-</table>
-
-</div>
+</tbody></table>
 
 II.-Pour l'application du I, aux articles L. 214-36 et L. 214-115, les références à l'article L. 423-1 ne sont pas applicables.
 
