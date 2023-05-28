@@ -10,5 +10,5 @@ A défaut de remboursement des créances ou de constitution des garanties ordonn
 
 L'opposition formée par un créancier n'a pas pour effet d'interdire la poursuite des opérations de fusion ou de scission.
 
-Les dispositions des articles L. 236-7, L. 236-13, L. 236-15, L. 236-18, L. 236-19 et L. 236-20 du code de commerce sont applicables respectivement aux porteurs de titres participatifs et aux créanciers obligataires mentionnés à l'article L. 523-11 du présent code.
+Les dispositions des articles L. 236-7, L. 236-14, L. 236-16, L. 236-23, L. 236-24 et L. 236-25 du code de commerce sont applicables respectivement aux porteurs de titres participatifs et aux créanciers obligataires mentionnés à l'article L. 523-11 du présent code.
 
