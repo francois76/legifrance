@@ -102,5 +102,7 @@ II.-Les contraventions de la cinquième classe pour lesquelles l'action publique
 
 1° Contraventions réprimées par les première et dernière phrases du troisième alinéa de l'article L. 3136-1 du code de la santé publique.
 
-2° Contravention d'outrage sexiste et sexuel réprimée par l'article R. 625-8-3 du code pénal.
+2° Contravention d'outrage sexiste et sexuel réprimée par l'article R. 625-8-3 du code pénal ;
+
+3° Contraventions réprimées par l'article R. 350-31 du code de l'environnement.
 
