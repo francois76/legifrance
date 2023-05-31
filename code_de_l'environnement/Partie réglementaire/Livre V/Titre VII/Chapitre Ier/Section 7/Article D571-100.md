@@ -16,7 +16,7 @@ I. – Le Conseil national du bruit comprend quarante-huit membres, nommés par 
 
 7° Deux représentants d'organisations syndicales d'employeurs les plus représentatives sur le plan national ;
 
-8° Quatre représentants d'organisations professionnelles ou d'entreprises concourant à la lutte contre les nuisances sonores ou développant des activités bruyantes ;
+8° Cinq représentants d'organisations professionnelles ou d'entreprises concourant à la lutte contre les nuisances sonores ou développant des activités bruyantes ;
 
 9° Six représentants d'associations œuvrant notamment en faveur de l'amélioration de la qualité de l'environnement sonore ;
 
