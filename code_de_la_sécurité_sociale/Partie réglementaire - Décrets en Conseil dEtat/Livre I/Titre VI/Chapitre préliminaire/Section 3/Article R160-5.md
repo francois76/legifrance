@@ -18,7 +18,7 @@ La participation de l'assuré prévue au I de l'article L. 160-13 est fixée par
 
 8° de 40 à 50 % pour les frais de produits et prestations figurant sur la liste mentionnée à l'article L. 165-1 ;
 
-9° de 30 à 40 % pour les frais de transport prévus au 2° de l'article L. 160-8 ;
+9° de 45 à 55 % pour les frais de transport prévus au 2° de l'article L. 160-8 ;
 
 10° de 30 à 40 % pour les frais de soins thermaux dispensés dans un établissement thermal ;
 

@@ -28,7 +28,9 @@ c) Les droits et obligations respectifs des professionnels mentionnés au 1°, d
 
 8° Les conditions à remplir par les sages-femmes et les chirurgiens-dentistes pour être conventionné, notamment celles relatives aux modalités de leur exercice professionnel et à leur formation, ainsi que celles relatives aux zones d'exercice définies par l'agence régionale de santé en application de l'article L. 1434-4 du code de la santé publique.
 
-9° Pour les masseurs-kinésithérapeutes, les conditions de prise en charge des actes qui résultent des renouvellements qu'ils établissent sur le fondement de l'article L. 4321-1 du code de la santé publique.
+9° Pour les masseurs-kinésithérapeutes, les conditions de prise en charge des actes qui résultent des renouvellements qu'ils établissent sur le fondement de l'article L. 4321-1 du code de la santé publique ;
+
+10° Pour les orthophonistes, les modalités d'application du sixième alinéa de l'article L. 4341-1 du code de la santé publique.
 
 Elles fixent également les modalités d'application du 3°, et notamment les conditions dans lesquelles le professionnel concerné présente ses observations.
 

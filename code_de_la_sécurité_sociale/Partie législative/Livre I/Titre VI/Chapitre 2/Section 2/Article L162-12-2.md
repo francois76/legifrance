@@ -4,7 +4,7 @@ Les rapports entre les organismes d'assurance maladie et les infirmiers sont dé
 
 Cette convention détermine notamment :
 
-1° Les obligations respectives des caisses primaires d'assurance maladie et des infirmiers ainsi que les conditions dans lesquelles sont pris en charge les actes effectués par un infirmier remplaçant un infirmier conventionné et les actes effectués par les infirmiers conventionnés dans les établissements et structures d'hébergement de toute nature ;
+1° Les obligations respectives des caisses primaires d'assurance maladie et des infirmiers ainsi que les conditions dans lesquelles sont pris en charge les actes effectués par un infirmier remplaçant un infirmier conventionné, les actes effectués par les infirmiers conventionnés dans les établissements et les structures d'hébergement de toute nature et les actes effectués, le cas échéant sans adressage préalable de la part d'un médecin, par les infirmiers en pratique avancée ;
 
 1° bis Les orientations pluriannuelles prioritaires en matière de développement professionnel continu, relevant de l'article L. 4021-2 du code de la santé publique ;
 

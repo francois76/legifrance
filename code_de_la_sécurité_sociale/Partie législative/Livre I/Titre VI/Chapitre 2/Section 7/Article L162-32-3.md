@@ -4,5 +4,5 @@ La caisse primaire d'assurance maladie peut décider de placer un centre de sant
 
 Lorsqu'un centre de santé est placé hors de la convention par la caisse primaire d'assurance maladie, les tarifs qui lui sont applicables sont ceux fixés pour chacune des professions dans les conventions prévues aux sections 1,2 et 3 du présent chapitre.
 
-Les deux derniers alinéas de l'article L. 162-15-1 sont applicables aux centres de santé adhérant à l'accord national prévu à l'article L. 162-32-1.
+Les trois derniers alinéas de l'article L. 162-15-1 sont applicables aux centres de santé adhérant à l'accord national prévu à l'article L. 162-32-1.
 
