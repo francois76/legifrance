@@ -5217,7 +5217,7 @@ Le transfert mentionné au premier alinéa est opposable aux entreprises réassu
 
 ###### Article L324-2
 
-Lorsque les opérations de fusion ou de scission mentionnées à l'article L. 236-1 du code de commerce comportent des transferts de portefeuille de contrats réalisés dans les conditions prévues à l'article L. 324-1, les dispositions des articles L. 228-65, L. 228-73, L. 236-13, L. 236-14, L. 236-15, L. 236-18 et L. 236-21 dudit code ne sont pas applicables.
+Lorsque les opérations de fusion mentionnées à l'article L. 236-1 du code de commerce ou les opérations de scission mentionnées à l'article L. 236-18 du même code comportent des transferts de portefeuille de contrats réalisés dans les conditions prévues à l'article L. 324-1, les dispositions des articles L. 228-65, L. 228-73, L. 236-14, L. 236-15, L. 236-16, L. 236-23 et L. 236-26 dudit code ne sont pas applicables.
 
 ###### Article L324-3
 
@@ -6651,6 +6651,8 @@ Les articles L. 321-1, L. 321-1-1, L. 321-11-2 et L. 321-11-3 sont applicables d
 L'article L. 322-26-2-4 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1180 du 19 juillet 2017.
 
 L'article L. 324-1 est applicable dans sa rédaction résultant de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques.
+
+L'article L. 324-2 est applicable dans sa rédaction résultant de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions apports partiels d'actifs et opérations transfrontalières des sociétés commerciales.
 
 ## Livre IV : Organisations et régimes particuliers d'assurance
 
