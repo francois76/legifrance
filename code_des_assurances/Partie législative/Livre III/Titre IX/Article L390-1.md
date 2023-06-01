@@ -16,3 +16,5 @@ L'article L. 322-26-2-4 est applicable dans sa rédaction résultant de l'ordonn
 
 L'article L. 324-1 est applicable dans sa rédaction résultant de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques.
 
+L'article L. 324-2 est applicable dans sa rédaction résultant de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions apports partiels d'actifs et opérations transfrontalières des sociétés commerciales.
+
