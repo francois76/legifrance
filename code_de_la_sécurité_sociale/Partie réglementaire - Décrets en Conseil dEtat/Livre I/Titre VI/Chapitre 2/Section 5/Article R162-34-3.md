@@ -1,20 +1,8 @@
 ###### Article R162-34-3
 
-I. – Chaque année, dans un délai de quinze jours suivant la promulgation de la loi de financement de la sécurité sociale, les ministres chargés de la santé, de la sécurité sociale et du budget arrêtent :
+I. – En cas de regroupement total ou partiel d'établissements, le montant de la dotation mentionnée au 1° de l'article L. 162-23-3 de ces établissements est transféré au nouvel établissement issu du regroupement.
 
-1° Le montant de l'objectif de dépenses mentionné au I de l'article L. 162-23 ;
+II. – En cas d'absorption d'un établissement par un autre établissement, le montant de la dotation mentionnée au 1° de l'article L. 162-23-3 de l'établissement absorbé est transféré l'établissement d'intégration.
 
-2° La part affectée aux dépenses relatives au financement de la liste des spécialités pharmaceutiques définie à l'article L. 162-23-6 ;
-
-3° La part affecté à la dotation nationale définie à l'article L. 162-23-8.
-
-II. – Le montant de l'objectif et des parts affectées mentionnés au I sont déterminés notamment en fonction de :
-
-1° L'état provisoire et l'évolution des charges d'assurance maladie au titre des soins dispensés l'année précédente ;
-
-2° L'évaluation des charges des établissements ;
-
-3° L'évaluation des gains de productivité réalisés et envisageables dans le secteur ;
-
-4° Les changements de régime juridique ou de financement de certains établissements, ou services ou activités des établissements concernés.
+III. – En cas d'attribution d'une nouvelle autorisation de soins médicaux et de réadaptation, en application de l'article R. 6122-25 du code de la santé publique, et pour les deux années suivant la mise en œuvre de cette autorisation, le montant de la dotation mentionnée au 1° de l'article L. 162-23-3 est arrêté par le directeur général de l'agence régionale de santé, en fonction notamment de l'activité prévisionnelle de l'établissement et, du niveau de dotation des établissements présentant des conditions techniques de fonctionnement équivalentes. Le montant de cette dotation est reconstitué progressivement sur la base de l'activité réalisée par l'établissement selon des modalités prévues par un arrêté des ministres chargés de la santé et de la sécurité sociale.
 

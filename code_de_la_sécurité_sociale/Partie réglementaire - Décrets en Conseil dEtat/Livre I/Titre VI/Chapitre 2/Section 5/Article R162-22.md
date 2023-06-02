@@ -8,5 +8,5 @@ Les établissements de santé autorisés en application de l'article L. 6122-1 d
 
 3° Pour les activités de médecine, de chirurgie, de gynécologie-obstétrique et d'odontologie, conformément aux dispositions de la sous-section 4 ;
 
-4° Pour les activités de soins de suite et de réadaptation, conformément aux dispositions de la sous-section 5.
+4° Pour les activités de soins médicaux et de réadaptation, conformément aux dispositions de la sous-section 5.
 
