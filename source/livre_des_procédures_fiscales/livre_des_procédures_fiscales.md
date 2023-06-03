@@ -6833,6 +6833,42 @@ Sauf dans le cas où le numéro d'identification fiscale leur a été communiqu�
 
 ####### 8° : Agence nationale de sécurité du médicament et des produits de santé
 
+####### 11° Activités forestières.
+
+######## Article R166 G-1
+
+La demande de communication mentionnée à l'article L. 166 G comporte les indications suivantes :
+
+1° Le territoire communal, départemental, régional ou national sur lequel sont situés les terrains pour lesquels la communication des données est sollicitée ;
+
+2° Le nom, l'adresse et le numéro SIRET du demandeur ;
+
+3° L'adresse électronique à laquelle doivent être adressées les données.
+
+La demande est accompagnée du justificatif attestant de la qualité du demandeur.
+
+######## Article R166 G-2
+
+I.-Les données communiquées portent sur les terrains classés au cadastre en nature de bois et forêts (groupe 5).
+
+Les données communicables sont les suivantes :
+
+1° Identification des terrains : références cadastrales, adresse, contenance cadastrale et groupe et sous-groupe des terrains du groupe 5 (bois et forêts) ;
+
+2° Identification des propriétaires : nom, prénoms, adresse, forme juridique, raison sociale, numéro de compte communal et nature des droits réels immobiliers.
+
+II.-Les données sont communiquées par l'administration fiscale par voie électronique.
+
+######## Article R166 G-3
+
+La communication des données mentionnées à l'article R. 166 G-2 est subordonnée aux conditions suivantes :
+
+1° L'acceptation par le demandeur du devis correspondant ;
+
+2° L'engagement du demandeur de respecter les règles de protection des données personnelles et de prendre toutes mesures pour assurer la protection des données et empêcher qu'elles ne soient communiquées à des personnes non autorisées ;
+
+3° L'engagement du demandeur de réaliser le traitement des données et leur hébergement sur son propre environnement de stockage ou dans un centre de données localisé sur le territoire de l'Union européenne. Ce dernier doit respecter les exigences du référentiel de l'agence nationale de la sécurité des systèmes d'information applicable aux prestataires de services d'informatique en nuage.
+
 ###### VIII : Dérogations en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme.
 
 ####### Article R*167-1
