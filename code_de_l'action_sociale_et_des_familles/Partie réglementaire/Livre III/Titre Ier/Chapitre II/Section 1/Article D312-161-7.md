@@ -2,7 +2,7 @@
 
 Les équipes pluriprofessionnelles des unités mentionnées à l'article D. 312-161-1 comprennent ou associent tout ou partie des professionnels suivants :
 
-a) Des médecins, avec, dans la mesure du possible, un médecin de soins de suite et de réadaptation et un psychiatre ;
+a) Des médecins, avec, dans la mesure du possible, un médecin de soins médicaux et de réadaptation et un psychiatre ;
 
 b) Des psychologues ;
 

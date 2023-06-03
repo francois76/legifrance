@@ -14,7 +14,7 @@ III.-Les catégories de données relatives aux résidents, enregistrées dans le
 
 4° L'unité de prise en charge du résident au sein de l'établissement ;
 
-5° Pour chaque résident, les hospitalisations supérieures à 48 heures en médecine, en chirurgie, en psychiatrie ou en soins de suite et de réadaptation, en précisant le caractère programmé ou non programmé de cette hospitalisation ;
+5° Pour chaque résident, les hospitalisations supérieures à 48 heures en médecine, en chirurgie, en psychiatrie ou en soins médicaux et de réadaptation, en précisant le caractère programmé ou non programmé de cette hospitalisation ;
 
 6° Pour chaque résident, le recours à un service d'hospitalisation à domicile et les motifs de recours ;
 
