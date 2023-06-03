@@ -18177,7 +18177,7 @@ Le silence gardé pendant plus de deux mois par la commission des droits et de l
 
 Le coût du transport collectif des enfants ou adolescents handicapés pour se rendre dans les établissements d'éducation mentionnés à l'article L. 321-1 du code de la sécurité sociale fonctionnant en externat ou semi-internat et en revenir est inclus dans les dépenses d'exploitation, quelles que soient les modalités de leur distribution, lorsque ces établissements entrent dans l'une des catégories suivantes :
 
-1° Les établissements de santé autorisés à dispenser des soins de suite et de réadaptation aux enfants et adolescents en application de l'article R. 6123-120 du code de la santé publique ;
+1° Les établissements de santé autorisés à dispenser des soins médicaux et de réadaptation aux enfants et adolescents en application de l'article R. 6123-120 du code de la santé publique ;
 
 2° Les établissements pour enfant inadaptés ;
 
@@ -24318,7 +24318,7 @@ Le projet d'insertion sociale et les éventuelles mesures d'accompagnement préc
 
 Les équipes pluriprofessionnelles des unités mentionnées à l'article D. 312-161-1 comprennent ou associent tout ou partie des professionnels suivants :
 
-a) Des médecins, avec, dans la mesure du possible, un médecin de soins de suite et de réadaptation et un psychiatre ;
+a) Des médecins, avec, dans la mesure du possible, un médecin de soins médicaux et de réadaptation et un psychiatre ;
 
 b) Des psychologues ;
 
@@ -24556,7 +24556,7 @@ A l'issue de la période de préorientation, l'établissement ou le service adre
 
 ######### Article D312-161-28
 
-Les établissements et les services de préorientation peuvent être autonomes ou rattachés à des établissements ou des services de santé autorisés au titre d'une activité de soins de suite et de réadaptation ou à des établissements de réadaptation professionnelle. Lorsque ces établissements et services ne sont pas autonomes, les dispositions de l'article R. 314-10 s'appliquent.
+Les établissements et les services de préorientation peuvent être autonomes ou rattachés à des établissements ou des services de santé autorisés au titre d'une activité de soins médicaux et de réadaptation ou à des établissements de réadaptation professionnelle. Lorsque ces établissements et services ne sont pas autonomes, les dispositions de l'article R. 314-10 s'appliquent.
 
 ######### Article D312-161-29
 
@@ -28949,7 +28949,7 @@ III.-Les catégories de données relatives aux résidents, enregistrées dans le
 
 4° L'unité de prise en charge du résident au sein de l'établissement ;
 
-5° Pour chaque résident, les hospitalisations supérieures à 48 heures en médecine, en chirurgie, en psychiatrie ou en soins de suite et de réadaptation, en précisant le caractère programmé ou non programmé de cette hospitalisation ;
+5° Pour chaque résident, les hospitalisations supérieures à 48 heures en médecine, en chirurgie, en psychiatrie ou en soins médicaux et de réadaptation, en précisant le caractère programmé ou non programmé de cette hospitalisation ;
 
 6° Pour chaque résident, le recours à un service d'hospitalisation à domicile et les motifs de recours ;
 
