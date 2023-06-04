@@ -2,7 +2,7 @@
 
 Les demandes de location amiable sont adressées au directeur départemental ou, le cas échéant, régional des finances publiques ou, à Saint-Pierre-et-Miquelon, au directeur des finances publiques qui est seul compétent pour fixer les conditions financières de la location.
 
-Elles doivent être souscrites six mois au moins avant l'expiration du bail dont le lot intéressé fait l'objet.
+Elles doivent être souscrites trois mois au moins avant l'expiration du bail dont le lot intéressé fait l'objet.
 
 Toutefois la demande peut être souscrite à tout moment pour les lots qui n'auraient pas trouvé preneur en adjudication ou qui deviendraient vacants avant le terme normal de leur location ou encore dont la location aurait été différée.
 
