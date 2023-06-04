@@ -32103,13 +32103,15 @@ Un arrêté du ministre chargé de la sécurité civile précise les modalités 
 
 ####### Article R725-1
 
-I. ― Des agréments de sécurité civile peuvent être délivrés aux associations régulièrement déclarées ou inscrites au registre des associations du tribunal judiciaire susceptibles d'apporter leur concours aux missions suivantes : 1° La participation aux opérations de secours au sens de l'article L. 1424-2 du code général des collectivités territoriales. Cet agrément est dénommé " agrément A " ;
+I. ― Des agréments de sécurité civile peuvent être délivrés aux associations régulièrement déclarées ou inscrites au registre des associations du tribunal judiciaire susceptibles d'apporter leur concours aux missions suivantes :
+
+1° La participation aux opérations de secours au sens de l'article L. 1424-2 du code général des collectivités territoriales. Cet agrément est dénommé " agrément A " ;
 
 2° La participation aux actions de soutien et d'accompagnement des populations victimes d'accidents, de sinistres ou de catastrophes. Cet agrément est dénommé " agrément B " ;
 
 3° La participation à l'encadrement des bénévoles dans le cadre des actions de soutien aux populations, afin de contribuer à coordonner l'action des bénévoles spontanés, des associations autres qu'agréées de sécurité civile et des membres des réserves communales de sécurité civile. Cet agrément est dénommé " agrément C " ;
 
-4° Les dispositifs prévisionnels de secours, dans le cadre de rassemblements de personnes. Cet agrément est dénommé " agrément D ".
+4° Les dispositifs prévisionnels de secours, dans le cadre de rassemblement de personnes, dispositifs dont le référentiel national est fixé par arrêté du ministre chargé de la sécurité civile. Cet agrément est dénommé " agrément D ".
 
 II. ― Afin de bénéficier de l'un de ces agréments, les associations doivent disposer des moyens et des compétences permettant aux pouvoirs publics de les intégrer dans les missions mentionnées aux articles L. 725-3 à L. 725-6.
 
@@ -33694,6 +33696,39 @@ L'organisation et le fonctionnement des services de recherche et de sauvetage de
 
 ### TITRE V : ÉVALUATION ET CONTRÔLE
 
+#### Chapitre unique : Missions d'évaluation et de contrôle
+
+##### Article R751-1
+
+Le préfet de département est compétent pour contrôler, en application de l'article L. 751-3, les organismes et les associations qu'il habilite ou agrée au titre des articles L. 725-3 ou L. 726-1 ainsi que, pour les seuls moyens engagés dans le département, les organismes et les associations habilités ou agréés par le ministre en charge de la sécurité civile.
+
+Il peut solliciter le concours de l'inspection générale de la sécurité civile mentionnée à l'article L. 751-2 pour contrôler les associations agréées au titre de l'article L. 725-3.
+
+Le contrôle réalisé en application du présent article a pour objet de vérifier que l'organisme ou l'association se conforme à ses obligations dans l'exercice de ses missions et continue à remplir les conditions qui ont permis son habilitation ou son agrément.
+
+##### Article R751-2
+
+Le préfet de département désigne le ou les agents chargés du contrôle prévu à l'article R. 751-1.
+
+Les agents désignés sont munis, lors des contrôles sur place, de la décision les nommant, de leur carte professionnelle ou d'une pièce d'identité et de la lettre de mission indiquant l'objet du contrôle. Ces documents sont présentés au début du contrôle.
+
+##### Article R751-3
+
+Le contrôle peut être exercé sur pièces ou sur place, dans les locaux de l'organisme ou de l'association affectés à leur usage, ou sur les lieux des missions assurées par ceux-ci, à l'exclusion de tout domicile privé. Dans les locaux de l'organisme ou de l'association, le contrôle ne peut être effectué après 21 heures et avant 6 heures.
+
+L'entité contrôlée doit fournir à l'agent désigné par le préfet de département, ou, le cas échéant, à l'inspection générale de la sécurité civile, les éléments mentionnés à l'article L. 751-3.
+
+Un arrêté du ministre chargé de la sécurité civile fixe :
+
+- la liste des documents selon les différents types d'agrément ou d'habilitation, relatifs aux personnes engagées ou formées, aux certifications, conventionnements et documents comptables, ainsi que la liste des matériels et autres moyens techniques que l'entité contrôlée doit être en mesure de produire en cas de contrôle ;
+- au sein de cette liste, ceux des documents qui, en cas de contrôle inopiné, doivent être présentés aux agents chargés du contrôle.
+
+Les agents chargés du contrôle peuvent prendre copie des documents qui leur sont présentés.
+
+##### Article R751-4
+
+Les compétences attribuées au préfet de département par les dispositions du présent chapitre sont exercées à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne par le préfet de police, qui peut déléguer celles-ci aux préfets de ces départements.
+
 ### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
 #### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion
@@ -33997,7 +34032,11 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
   <td></td>
  </tr>
  <tr>
-  <td>R. 725-1 à R. 725-7</td>
+  <td>R. 725-1</td>
+  <td>Résultant du décret n° 2023-101 du 15 février 2023.</td>
+ </tr>
+ <tr>
+  <td>R. 725-2 à R. 725-7</td>
   <td>Résultant du décret n° 2017-250 du 27 février 2017.</td>
  </tr>
  <tr>
@@ -34017,24 +34056,24 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
   <td></td>
  </tr>
  <tr>
-  <td valign="top">R. 733-3 et R. 733-4</td>
-  <td valign="top">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+  <td>R. 733-3 et R. 733-4</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
  </tr>
  <tr>
-  <td valign="top">R. 733-5</td>
-  <td valign="top">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l' article 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif de cession à l'euro symbolique</td>
+  <td>R. 733-5</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l' article 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif de cession à l'euro symbolique</td>
  </tr>
  <tr>
-  <td valign="top">R. 733-6 à R. 733-8</td>
-  <td valign="top">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+  <td>R. 733-6 à R. 733-8</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
  </tr>
  <tr>
-  <td valign="top">R. 733-9 à R. 733-11</td>
-  <td valign="top">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l'article 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif de cession à l'euro symbolique</td>
+  <td>R. 733-9 à R. 733-11</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l'article 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif de cession à l'euro symbolique</td>
  </tr>
  <tr>
-  <td valign="top">R. 733-12 à R. 733-16</td>
-  <td valign="top">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+  <td>R. 733-12 à R. 733-16</td>
+  <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
  </tr>
  <tr>
   <td>Au titre IV</td>
@@ -34047,6 +34086,10 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
  <tr>
   <td>R. 742-2, R. 742-3 et R. 742-5 à R. 742-15</td>
   <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+ </tr>
+ <tr>
+  <td>R. 751-1 à R. 751-3</td>
+  <td>Résultant du décret n° 2023-101 du 15 février 2023.</td>
  </tr>
 </tbody></table>
 
