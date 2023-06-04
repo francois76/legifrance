@@ -22,7 +22,7 @@ Le registre des intermédiaires mentionné à l'article R. 512-6 comporte les in
 
 10° Le cas échéant, le nom et les coordonnées du ou des mandants pour le ou les mandats au titre desquels l'intermédiaire exerce l'activité d'intermédiation ;
 
-11° Le cas échéant, l'adresse du site internet de l'intermédiaire ;
+11° L'adresse du site internet, s'il existe, une adresse de courrier électronique et un numéro de téléphone de l'intermédiaire ;
 
 12° Pour les personnes mentionnées à l'article L. 513-3, le nom et les coordonnées de l'association agréée par l'Autorité de contrôle prudentiel et de résolution à laquelle elles adhèrent.
 

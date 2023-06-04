@@ -46,7 +46,7 @@ c) Pour les personnes mentionnées au 3° de l'article R. 511-2, un document att
 
 12° Lorsque l'intermédiaire projette d'exercer son activité en libre établissement en application des dispositions des articles L. 515-3 et suivants, et en vue d'apprécier l'adéquation de la structure organisationnelle ou de la situation financière avec l'activité envisagée, il peut être requis des éléments complémentaires tels que les statuts à jour de la société, ses derniers comptes sociaux, les justificatifs de publicité au registre du commerce et des sociétés du lieu d'implantation, un document attestant de la nomination du responsable de la succursale, un organigramme ou toute autre information permettant de déterminer l'appartenance à un groupe ainsi que le programme d'activité en liaison avec l'activité envisagée ;
 
-13° Le cas échéant, l'adresse du site internet de l'intermédiaire ;
+13° L'adresse du site internet de l'intermédiaire, s'il existe, et une adresse de courrier électronique et un numéro de téléphone accessibles au public ;
 
 14° Pour les intermédiaires mentionnés au I de l'article L. 513-3, un document de moins de deux mois attestant de leur adhésion à une association professionnelle agréée.
 
