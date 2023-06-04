@@ -460,7 +460,7 @@ Pendant toute la durée du contrat d'assurance et par dérogation à l'article L
 
 ##### Article L113-14
 
-Lorsque l'assuré a le droit de résilier le contrat, la notification de la résiliation peut être effectuée, au choix de l'assuré :
+I.-Lorsque l'assuré a le droit de résilier le contrat, la notification de la résiliation peut être effectuée, au choix de l'assuré :
 
 1° Soit par lettre ou tout autre support durable ;
 
@@ -473,6 +473,12 @@ Lorsque l'assuré a le droit de résilier le contrat, la notification de la rés
 5° Soit par tout autre moyen prévu par le contrat.
 
 Le destinataire confirme par écrit la réception de la notification.
+
+II.-Lorsqu'un contrat d'assurance couvrant les personnes physiques en dehors de leurs activités professionnelles a été conclu par voie électronique ou a été conclu par un autre moyen et que l'assureur, au jour de la résiliation par le souscripteur, offre au souscripteur la possibilité de conclure des contrats par voie électronique, la résiliation est rendue possible selon cette même modalité.
+
+A cet effet, l'assureur met à la disposition de l'intéressé une fonctionnalité gratuite permettant d'accomplir, par voie électronique, la notification et les démarches nécessaires à la résiliation du contrat. Lorsque l'intéressé notifie la résiliation du contrat, l'assureur lui confirme la réception de la notification et l'informe, sur un support durable et dans des délais raisonnables, de la date à laquelle le contrat prend fin et des effets de la résiliation.
+
+Un décret fixe notamment les modalités techniques de nature à garantir une identification du souscripteur ainsi qu'un accès facile, direct et permanent à la fonctionnalité mentionnée au deuxième alinéa du présent II, telles que ses modalités de présentation et d'utilisation. Il détermine les informations devant être fournies par le souscripteur.
 
 ##### Article L113-15
 
@@ -8584,6 +8590,26 @@ La résiliation d'un contrat d'assurance en vertu de l'article L. 113-16 s'effec
 Cette lettre ou cet envoi indique la nature et la date de l'événement qu'elle invoque et donne toutes les précisions de nature à établir que la résiliation est en relation directe avec ledit événement.
 
 Lorsque cet événement est constitué ou constaté par une décision juridictionnelle ou lorsqu'il ne peut en être déduit d'effets juridiques qu'après une homologation ou un exequatur, la date retenue est celle à laquelle cet acte juridictionnel est passé en force de chose jugée.
+
+##### Article D113-7
+
+I.-La fonctionnalité de notification de la résiliation du contrat prévue au II de l'article L. 113-14 est présentée au souscripteur sous la mention : “ résilier votre contrat ” ou une formule analogue dénuée d'ambiguïté, affichée en caractères lisibles.
+
+Cette fonctionnalité est directement et facilement accessible à partir de l'interface en ligne mise à disposition des souscripteurs. Elle contient un rappel général des conditions de résiliation des contrats dont, le cas échéant, l'existence d'un délai de préavis et des conséquences de cette opération pour l'assuré.
+
+II.-Aux fins d'identification du souscripteur et de précision de la demande de résiliation, la fonctionnalité de résiliation susmentionnée comporte les rubriques suivantes :
+
+1° Nom et prénom du souscripteur personne physique, raison sociale ou dénomination sociale dans le cas d'une personne morale, et tout autre élément strictement nécessaire permettant d'identifier le souscripteur ainsi qu'un moyen de contact afin que l'assureur puisse lui confirmer la réception de la notification de la résiliation sur un support durable ;
+
+2° Toute référence préalablement communiquée au souscripteur pour identifier celui-ci et le contrat concerné, telle qu'un numéro de contrat et le risque couvert ;
+
+3° Le motif de la résiliation à choisir parmi une liste comportant à minima les fondements suivants : “ résiliation à échéance ” et “ autres (à renseigner par le souscripteur) ”, sous réserve des dispositions légales ou contractuelles en vigueur ;
+
+4° La date de l'événement donnant lieu à résiliation, sous réserve des dispositions légales ou contractuelles en vigueur.
+
+III.-Après avoir renseigné les rubriques prévues au II, le souscripteur accède, avant de procéder à la notification effective de sa résiliation du contrat, à une page qui présente un récapitulatif de sa demande de résiliation lui permettant de vérifier et modifier les informations fournies.
+
+Le souscripteur confirme sa notification de résiliation du contrat par l'activation d'une fonction directement accessible sur la page mentionnée au précédent alinéa sur laquelle elle est présentée avec la mention : “ confirmer ma demande de résiliation ” ou une formule analogue dénuée d'ambiguïté, affichée en caractères lisibles.
 
 ##### Article R*113-10
 
@@ -25718,7 +25744,7 @@ c) Pour les personnes mentionnées au 3° de l'article R. 511-2, un document att
 
 12° Lorsque l'intermédiaire projette d'exercer son activité en libre établissement en application des dispositions des articles L. 515-3 et suivants, et en vue d'apprécier l'adéquation de la structure organisationnelle ou de la situation financière avec l'activité envisagée, il peut être requis des éléments complémentaires tels que les statuts à jour de la société, ses derniers comptes sociaux, les justificatifs de publicité au registre du commerce et des sociétés du lieu d'implantation, un document attestant de la nomination du responsable de la succursale, un organigramme ou toute autre information permettant de déterminer l'appartenance à un groupe ainsi que le programme d'activité en liaison avec l'activité envisagée ;
 
-13° Le cas échéant, l'adresse du site internet de l'intermédiaire ;
+13° L'adresse du site internet de l'intermédiaire, s'il existe, et une adresse de courrier électronique et un numéro de téléphone accessibles au public ;
 
 14° Pour les intermédiaires mentionnés au I de l'article L. 513-3, un document de moins de deux mois attestant de leur adhésion à une association professionnelle agréée.
 
@@ -25762,7 +25788,7 @@ Le registre des intermédiaires mentionné à l'article R. 512-6 comporte les in
 
 10° Le cas échéant, le nom et les coordonnées du ou des mandants pour le ou les mandats au titre desquels l'intermédiaire exerce l'activité d'intermédiation ;
 
-11° Le cas échéant, l'adresse du site internet de l'intermédiaire ;
+11° L'adresse du site internet, s'il existe, une adresse de courrier électronique et un numéro de téléphone de l'intermédiaire ;
 
 12° Pour les personnes mentionnées à l'article L. 513-3, le nom et les coordonnées de l'association agréée par l'Autorité de contrôle prudentiel et de résolution à laquelle elles adhèrent.
 
