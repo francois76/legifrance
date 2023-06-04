@@ -156,7 +156,7 @@ Produits de l'activité hospitalière
 
 7062232 : Spécialités très coûteuses
 
-706224 : Soins de suite et de réadaptation
+706224 : Soins médicaux et de réadaptation
 
 706228 : Lutte contre les maladies mentales (produit de la tarification en hospitalisation complète)
 

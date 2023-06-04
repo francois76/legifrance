@@ -2,7 +2,7 @@
 
 Peuvent être autorisés à disposer d'une pharmacie à usage intérieur dans les conditions prévues au présent chapitre :
 
-1° Les établissements de santé, les hôpitaux des armées, l'Institution nationale des invalides et les groupements de coopération sanitaire ;
+1° Les établissements de santé, les titulaires de l'autorisation d'activité d'hospitalisation à domicile, les hôpitaux des armées, l'Institution nationale des invalides et les groupements de coopération sanitaire ;
 
 2° Les installations de chirurgie esthétique satisfaisant aux conditions prévues à l'article L. 6322-1 ;
 

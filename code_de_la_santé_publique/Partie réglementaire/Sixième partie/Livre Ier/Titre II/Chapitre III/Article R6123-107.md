@@ -1,4 +1,8 @@
 ###### Article R6123-107
 
-L'autorisation de pratiquer les activités interventionnelles par voie endovasculaire en neuroradiologie n'est pas exigée d'un établissement de santé ou d'un groupement de coopération sanitaire lorsqu'il est détenteur d'une autorisation de pratiquer l'activité de soins de chirurgie mentionnée au 2° de l'article R. 6122-25 et que les activités interventionnelles par voie endovasculaire en neuroradiologie se limitent à l'angiographie interventionnelle des vaisseaux cervicaux.
+L'activité interventionnelle sous imagerie médicale en neuroradiologie s'exerce suivant deux mentions :
+
+1° Mention A comprenant uniquement la réalisation de la thrombectomie mécanique et les actes diagnostiques associés dans le cadre de l'accident vasculaire cérébral ischémique aigu ;
+
+2° Mention B comprenant l'ensemble des activités interventionnelles en neuroradiologie.
 

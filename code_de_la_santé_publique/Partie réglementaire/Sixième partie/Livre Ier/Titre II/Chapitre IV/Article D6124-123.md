@@ -1,4 +1,12 @@
 ###### Article D6124-123
 
-La continuité des soins est assurée par un chirurgien remplissant les conditions mentionnées au 1° de l'article D. 6124-122, un anesthésiste réanimateur et un médecin ou un infirmier ou une infirmière compétent en circulation sanguine extracorporelle. Ces personnels assurent leurs fonctions sur place ou en astreinte opérationnelle exclusivement pour le site mentionné à l'article R. 6123-70. En cas d'astreinte opérationnelle, le délai d'arrivée doit être compatible avec l'urgence vitale.
+Le bloc interventionnel protégé dispose :
+
+1° D'au moins deux salles d'intervention protégées affectées à la chirurgie cardiaque, aux dimensions compatibles avec le niveau d'équipement et les conditions de fonctionnement requis, dotées chacune d'un appareil de circulation sanguine extracorporelle équipé des systèmes d'alarmes et de surveillance des paramètres et disposant d'un appareil de récupération du sang ;
+
+2° D'au moins une salle d'intervention protégée disposant d'un moyen de guidage par imagerie et permettant la pratique d'une intervention radioguidée et d'un acte chirurgical en simultané, en succession ou par conversion. Cette salle d'intervention protégée est mutualisable avec d'autres activités de soins ;
+
+3° D'un appareil d'assistance cardio-circulatoire, accessible immédiatement ;
+
+4° D'un local aseptique réservé au stockage des appareils de circulation sanguine extracorporelle.
 

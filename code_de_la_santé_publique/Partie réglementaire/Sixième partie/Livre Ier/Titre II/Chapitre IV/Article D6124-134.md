@@ -1,12 +1,14 @@
 ###### Article D6124-134
 
-Le titulaire de l'autorisation mentionnant, en application de l'article R. 6123-87, la pratique de la chimiothérapie dispose d'une équipe médicale comprenant :
+Le titulaire de l'autorisation dispose sur le site :
 
-1° Au moins un médecin qualifié spécialiste en oncologie médicale ou en oncologie radiothérapique, ou titulaire du diplôme d'études spécialisées en oncologie ;
+1° D'au moins un secteur d'hospitalisation ;
 
-2° Ou au moins un médecin qualifié compétent en cancérologie, ou titulaire du diplôme d'études spécialisées complémentaires en cancérologie ; ces médecins ne pratiquent la chimiothérapie que dans la spécialité dans laquelle ils sont inscrits au tableau de l'ordre.
+2° D'au moins un plateau technique d'administration des traitements par voie intraveineuse ;
 
-La décision de mise en oeuvre d'un traitement par chimiothérapie est prise au cours d'un entretien singulier par un médecin prescripteur, exerçant selon les titres ou qualifications mentionnés aux deux alinéas précédents.
+3° De salles de consultations médicales et paramédicales ;
 
-Lorsque le traitement concerne une hémopathie maligne, cette décision est prise dans les mêmes conditions par un médecin titulaire du diplôme d'études spécialisées en hématologie, ou titulaire du diplôme d'études spécialisées en oncologie, option onco-hématologie, ou par un médecin qualifié spécialiste en hématologie, ou qualifié compétent en maladies du sang.
+4° D'une pharmacie à usage intérieur autorisée pour la réalisation de préparations de médicaments anticancéreux au sein d'une unité centralisée de préparation de cytotoxiques qui respecte les recommandations de bonnes pratiques de l'agence nationale de sécurité du médicament et des produits de santé. Si le titulaire ne dispose pas de pharmacie à usage intérieur ou d'unité centralisée de préparation de cytotoxiques, la préparation est réalisée dans le cadre d'une convention de sous-traitance avec un autre établissement autorisé à la réalisation de préparations de médicaments anticancéreux au sein d'une unité centralisée de préparation de cytotoxiques.
+
+Pour le titulaire d'autorisation avec la mention B ou C, le secteur d'hospitalisation prévu au 1° doit comprendre des chambres individuelles équipées de dispositifs permettant la décontamination de l'air pour les hémopathies malignes ou les tumeurs solides malignes dont le traitement par chimiothérapie intensive entraîne une aplasie prévisible de plus de huit jours.
 

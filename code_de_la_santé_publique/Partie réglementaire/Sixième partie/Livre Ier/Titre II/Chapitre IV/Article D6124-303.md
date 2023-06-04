@@ -6,7 +6,7 @@ Pendant les heures d'ouverture, est requise, dans la structure pendant la durée
 
 1° D'un médecin qualifié ;
 
-2° D'un infirmier diplômé d'Etat ou, pour l'activité de soins de suite et de réadaptation, d'un infirmier diplômé d'Etat ou d'un masseur-kinésithérapeute diplômé d'Etat ;
+2° D'un infirmier diplômé d'Etat ou, pour l'activité de soins médicaux et de réadaptation, d'un infirmier diplômé d'Etat ou d'un masseur-kinésithérapeute diplômé d'Etat ;
 
 3° En sus des personnels mentionnés aux 1° et 2°, d'un médecin anesthésiste réanimateur si la structure pratique l'anesthésie ou la chirurgie ambulatoire ainsi que d'un nombre d'infirmiers diplômés d'Etat adapté à l'activité pendant la durée d'utilisation du secteur opératoire.
 

@@ -14,7 +14,7 @@ a) Etablissements de santé publics et privés, y compris les établissements me
 
 b) Hôpitaux des armées et Institution nationale des invalides ;
 
-c) Etablissements d'hospitalisation à domicile mentionnés à l'article L. 6125-2 ;
+c) Titulaires d'autorisation d'activité d'hospitalisation à domicile mentionnés à l'article L. 6125-2 ;
 
 d) Dispensaires ou centres de soins, centres et consultations de protection maternelle et infantile ;
 

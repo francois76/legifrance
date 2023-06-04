@@ -1,6 +1,8 @@
 ###### Article D6124-185
 
-Les salles d'imagerie numérisée et d'angiographie numérisée prévues aux articles R. 6123-129 et R. 6123-130 satisfont aux impératifs d'hygiène, de sécurité des soins et de protection contre les rayonnements ionisants. La traçabilité des consommables utilisés est assurée.
+I.-Sans préjudice des dispositions des articles D. 6124-91 à D. 6124-102, le titulaire de l'autorisation d'activité interventionnelle sous imagerie médicale en cardiologie met en place une organisation formalisée décrivant, selon les situations, les indications et les modalités d'intervention d'un ou plusieurs médecins spécialisés en anesthésie-réanimation en lien avec les médecins de l'équipe médicale interventionnelle, afin d'assurer la sécurité de la prise en charge.
 
-Lorsque la salle de cardiologie interventionnelle n'est pas située à proximité d'un plateau technique chirurgical, une salle de surveillance postinterventionnelle répondant aux conditions d'équipement prévues à l'article D. 6124-99 est située à proximité de cette salle. Par exception aux dispositions du dernier alinéa de l'article D. 6124-100, la capacité de cette salle ne peut être inférieure à trois postes.
+II.-Lorsque l'acte est pratiqué sur un enfant, le médecin spécialisé en anesthésie-réanimation est un médecin expérimenté dans la prise en charge des enfants.
+
+III.-Pour les cardiopathies ischémiques et structurelles de l'adulte et pour la rythmologie interventionnelle mentions B et C mentionnées à l'article R. 6123-130, un médecin spécialisé en anesthésie-réanimation ou en médecine intensive réanimation est en mesure d'intervenir à tout moment pendant la réalisation de l'acte, afin de participer à la prise en charge des complications mettant en jeu le pronostic vital qui pourraient survenir.
 

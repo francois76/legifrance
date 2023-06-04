@@ -1,10 +1,6 @@
 ###### Article D6124-31
 
-L'équipe médicale d'une unité de réanimation adulte comprend :
+I. - En complément des équipements mentionnés au II de l'article D. 6124-27-1, l'unité de soins intensifs d'hématologie comprend au moins les équipements permettant la réalisation, dans les chambres de l'unité, lorsque les conditions de prise en charge du patient le justifient, d'examens de radiologie et d'échographie.
 
-1° Un ou plusieurs médecins qualifiés compétents en réanimation ou titulaires du diplôme d'études spécialisées complémentaire de réanimation médicale lorsqu'il s'agit d'une unité à orientation médicale ou médico-chirurgicale ;
-
-2° Un ou plusieurs médecins qualifiés spécialistes ou compétents en anesthésie-réanimation ou qualifiés spécialistes en anesthésiologie-réanimation chirurgicale lorsqu'il s'agit d'une unité à orientation chirurgicale ou médico-chirurgicale ;
-
-3° Le cas échéant, un ou plusieurs médecins ayant une expérience attestée en réanimation selon des modalités précisées par arrêté du ministre chargé de la santé.
+II. - Les chambres sont équipées, le cas échéant, de flux laminaires.
 

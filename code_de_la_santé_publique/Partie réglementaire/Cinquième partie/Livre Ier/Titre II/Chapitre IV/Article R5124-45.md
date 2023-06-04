@@ -40,7 +40,9 @@ Outre leurs activités de distribution aux officines, aux pharmacies mutualistes
 
 19° Aux entreprises fabriquant ou contrôlant des dispositifs médicaux de diagnostic in vitro sur commande écrite du directeur de l'entreprise ou, à défaut, de toute personne dûment habilitée par écrit par le directeur de cette entreprise les médicaments nécessaires à leurs activités de fabrication et de contrôle ;
 
-20° aux maisons de naissance mentionnées à l'article L. 6323-4 et bénéficiant de l'autorisation mentionnée à l'article L. 6323-4-3, les produits nécessaires au suivi des grossesses et à la réalisation des accouchements par les sages-femmes.
+20° aux maisons de naissance mentionnées à l'article L. 6323-4 et bénéficiant de l'autorisation mentionnée à l'article L. 6323-4-3, les produits nécessaires au suivi des grossesses et à la réalisation des accouchements par les sages-femmes ;
+
+21° Aux centres libéraux de médecine nucléaire auxquels un radiopharmacien apporte son concours, les médicaments correspondant aux missions de ces centres, sur commande écrite du médecin responsable du service.
 
 En cas d'urgence telle que définie à l'article R. 3134-1, les établissements pharmaceutiques de l'Agence nationale de santé publique peuvent, en outre, distribuer les produits mentionnés à l'article L. 4211-1 aux grossistes-répartiteurs, aux dépositaires dans les conditions prévues au 4° de l'article R. 5124-2, aux professionnels de santé, aux collectivités territoriales et aux services ou organismes dont relèvent les sites identifiés dans les plans de réponse aux menaces sanitaires, sous réserve, dans ces deux derniers cas, qu'ils disposent de lieux spécifiquement adaptés placés sous la responsabilité d'un professionnel de santé.
 

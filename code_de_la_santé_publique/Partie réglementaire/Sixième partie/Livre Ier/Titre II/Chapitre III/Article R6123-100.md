@@ -1,6 +1,6 @@
 ###### Article R6123-100
 
-Le titulaire de l'autorisation ne peut mettre en oeuvre les ou l'une des pratiques thérapeutiques suivantes :
+Le titulaire de l'autorisation ne peut mettre en oeuvre les ou l'une des pratiques suivantes :
 
 1° Neurochirurgie fonctionnelle cérébrale ;
 

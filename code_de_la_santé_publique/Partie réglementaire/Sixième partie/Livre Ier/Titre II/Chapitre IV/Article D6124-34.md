@@ -1,10 +1,6 @@
 ###### Article D6124-34
 
-Dans toute unité de réanimation pédiatrique ou pédiatrique spécialisée, mentionnée à l'article R. 6123-38-1, la permanence médicale est assurée par au moins un médecin satisfaisant à l'une des conditions ci-dessous :
+I. - En complément des équipements mentionnés au II de l'article D. 6124-27-1, l'unité de soins intensifs d'hématologie comprend au moins les équipements permettant la réalisation, dans les chambres de l'unité, lorsque les conditions de prise en charge du patient le justifient, d'examens de radiologie et d'échographie.
 
-1° Etre qualifié spécialiste en pédiatrie ;
-
-2° Etre qualifié spécialiste ou compétent en anesthésie-réanimation ou qualifié spécialiste en réanimation médicale.
-
-Ces médecins disposent d'une expérience en néonatologie ou en réanimation pédiatrique lorsqu'ils exercent en réanimation pédiatrique, et en réanimation pédiatrique lorsqu'ils exercent en réanimation pédiatrique spécialisée.
+II. - Les chambres sont équipées, le cas échéant, de flux laminaires.
 

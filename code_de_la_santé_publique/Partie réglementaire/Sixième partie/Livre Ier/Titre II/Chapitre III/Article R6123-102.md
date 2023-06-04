@@ -6,5 +6,5 @@ Le titulaire de l'autorisation de pratiquer l'activité de soins de neurochirurg
 
 2° A une unité de neurologie comprenant une activité neurovasculaire.
 
-Lorsque la prestation est assurée en application d'une convention, elle doit l'être dans des délais compatibles avec les impératifs de sécurité.
+Lorsque la prise en charge est assurée en application d'une convention, elle doit l'être dans des délais compatibles avec les impératifs de sécurité.
 

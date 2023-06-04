@@ -1,4 +1,8 @@
 ###### Article D6124-34-3
 
-La permanence médicale en réanimation pédiatrique peut être, la nuit, le samedi après-midi, le dimanche et les jours fériés, commune aux unités de réanimation pédiatrique et de réanimation néonatale dès lors que ces deux unités sont à proximité immédiate et que le niveau d'activité le permet. Dans ce cas, un médecin couvrant l'autre spécialité est placé en astreinte opérationnelle.
+La permanence médicale de l'unité de soins intensifs pédiatriques d'hématologie de la mention 4° de l'article R. 6123-34-2 est assurée en dehors des services de jour, par :
+
+1° La présence sur site d'au moins un médecin justifiant d'une formation ou d'une expérience en soins critiques ;
+
+2° Une astreinte opérationnelle d'un médecin membre de l'équipe médicale mentionnée à l'article D. 6124-34-1.
 

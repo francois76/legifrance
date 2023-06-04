@@ -1,12 +1,6 @@
 ###### Article R6123-87
 
-L'autorisation prévue par l'article L. 6122-1 nécessaire pour exercer l'activité de soins du cancer mentionnée au 18° de l'article R. 6122-25 est accordée pour une ou plusieurs des pratiques thérapeutiques suivantes :
+La chirurgie oncologique constitue un traitement à visée curative de la tumeur cancéreuse réalisé dans un secteur interventionnel.
 
-1° Chirurgie des cancers ;
-
-2° Radiothérapie externe, curiethérapie, dont le type est précisé ;
-
-3° Utilisation thérapeutique de radioéléments en sources non scellées ;
-
-4° Chimiothérapie ou autres traitements médicaux spécifiques du cancer.
+Elle comprend la chirurgie conservatrice, le curage ganglionnaire, la chirurgie radicale, la chirurgie de résection tumorale macroscopiquement complète en cas de carcinose péritonéale, la chirurgie des métastases, les techniques de destruction tumorale non percutanée, la chirurgie de reconstruction immédiate dans le même temps opératoire que l'exérèse, ainsi que la chirurgie de la récidive.
 

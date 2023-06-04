@@ -1,8 +1,12 @@
 ###### Article R6123-38-1
 
-Les unités de réanimation pédiatrique et de réanimation pédiatrique spécialisée sont à orientation médicale et chirurgicale. Elles obéissent au régime juridique prévu aux articles R. 6123-38-2 à R. 6123-38-6.
+I.-L'autorisation de la mention 5° sous la modalité soins critiques adultes et de la mention 4° sous la modalité soins critiques pédiatriques ne peut être accordée que si le titulaire dispose sur site, d'une unité de médecine dédiée aux activités d'hématologie, adaptée à l'âge.
 
-Par dérogation, un établissement de santé autorisé pour les activités de chirurgie cardiaque ou de traitement des grands brûlés peut disposer d'une réanimation pédiatrique accueillant les seuls enfants relevant de ces activités de soins et des actes mentionnés au 2° de l'article R. 6123-128.
+II. − Le titulaire dispose, sur site ou par convention permettant la prise en charge dans des délais compatibles avec les impératifs de sécurité des soins, d'un accès à :
 
-Ces réanimations pédiatriques ne remplissent alors pas les conditions prévues aux articles R. 6123-38-2 à R. 6123-38-6.
+a) Une unité dédiée aux activités de greffe de cellules souches hématopoïétiques, adaptée à l'âge ;
+
+b) Une unité de réanimation adaptée à l'âge.
+
+III. − Le titulaire dispose, sur site ou par convention permettant la prise en charge dans des délais compatibles avec les impératifs de sécurité des soins, vingt-quatre heures sur vingt-quatre tous les jours de l'année, de l'accès à un plateau technique permettant la réalisation d'examens d'imagerie médicale par scanner et IRM.
 

@@ -1,16 +1,12 @@
 ###### Article D6124-28-1
 
-L'activité de réanimation ne peut être autorisée que si l'établissement de santé dispose sur place vingt-quatre heures sur vingt-quatre, tous les jours de l'année :
+I. - L'équipe médicale d'une unité de réanimation et d'une unité de soins intensifs polyvalents est constituée :
 
-1° Des équipements mobiles permettant de réaliser, éventuellement dans les chambres de l'unité de réanimation lorsque les conditions de prise en charge du patient le justifient, des examens de radiologie classique, d'échographie et, pour la réanimation adulte, d'endoscopie bronchique et digestive ;
+1° De médecins spécialisés en médecine intensive-réanimation ou en anesthésie-réanimation ;
 
-2° D'un secteur opératoire organisé de façon à mettre à la disposition de l'unité au moins une salle aseptique et des moyens de surveillance post-interventionnelle répondant aux conditions fixées par les articles D. 6124-97 à D. 6124-102 ;
+2° Le cas échéant, d'autres médecins spécialisés nécessaires à la prise en charge des patients et disposant d'une formation ou d'une expérience en soins critiques ;
 
-3° De moyens techniques permettant de pratiquer les examens en scanographie, angiographie et, pour la réanimation adulte, imagerie par résonance magnétique ;
+3° En tant que de besoin, de médecins spécialisés en psychiatrie, en médecine physique et de rééducation.
 
-4° D'un laboratoire en mesure de pratiquer des examens de bactériologie, hématologie, biochimie ainsi que ceux relatifs à l'hémostase et aux gaz du sang.
-
-Les établissements ne disposant pas des moyens prévus aux 2° à 4° ci-dessus peuvent passer une convention avec un établissement en disposant.
-
-Lorsque la prestation est assurée par convention, elle l'est dans des délais compatibles avec les impératifs de sécurité.
+II. - L'équipe médicale d'une unité de soins intensifs de spécialité mentionnée au VII de l'article R. 6123-34-3 est constituée de médecins spécialisés dans la discipline concernée et, en tant que de besoin, de professionnels mentionnés au I.
 

@@ -10,9 +10,9 @@ Sont soumises à l'autorisation prévue à l'article L. 6122-1 les activités de
 
 4° Psychiatrie ;
 
-5° Soins de suite et de réadaptation ;
+5° Soins médicaux et de réadaptation ;
 
-6° (Abrogé) ;
+6° Activité de médecine nucléaire ;
 
 7° Soins de longue durée ;
 
@@ -22,15 +22,15 @@ Sont soumises à l'autorisation prévue à l'article L. 6122-1 les activités de
 
 10° Chirurgie cardiaque ;
 
-11° Activités interventionnelles sous imagerie médicale, par voie endovasculaire, en cardiologie ;
+11° Activité interventionnelle sous imagerie médicale en cardiologie ;
 
 12° Neurochirurgie ;
 
-13° Activités interventionnelles par voie endovasculaire en neuroradiologie ;
+13° Activité interventionnelle sous imagerie médicale en neuroradiologie ;
 
 14° Médecine d'urgence ;
 
-15° Réanimation ;
+15° Soins critiques ;
 
 16° Traitement de l'insuffisance rénale chronique par épuration extrarénale ;
 
@@ -38,5 +38,9 @@ Sont soumises à l'autorisation prévue à l'article L. 6122-1 les activités de
 
 18° Traitement du cancer ;
 
-19° Examen des caractéristiques génétiques d'une personne ou identification d'une personne par empreintes génétiques à des fins médicales.
+19° Examen des caractéristiques génétiques d'une personne ou identification d'une personne par empreintes génétiques à des fins médicales ;
+
+20° Hospitalisation à domicile ;
+
+21° Activité de radiologie interventionnelle.
 

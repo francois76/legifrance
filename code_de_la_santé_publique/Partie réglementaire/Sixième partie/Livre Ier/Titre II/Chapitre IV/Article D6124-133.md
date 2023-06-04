@@ -1,4 +1,14 @@
 ###### Article D6124-133
 
-Le titulaire de l'autorisation mentionnant, en application de l'article R. 6123-87, la pratique de la radiothérapie, de la curiethérapie ou l'utilisation thérapeutique des radioéléments en sources non scellées prend avec les professionnels concernés les dispositions nécessaires afin que la préparation de chaque traitement soit validée par un médecin qualifié spécialiste en oncologie radiothérapique, en radiothérapie, en radiologie option radiodiagnostic et radiothérapie, ou en radiologie option radiothérapie, ou par un médecin qualifié spécialiste en médecine nucléaire, et par une personne spécialisée en radiophysique médicale prévue à l'article R. 1333-60.
+I.-Le titulaire de l'autorisation doit disposer sur le site d'une équipe qualifiée comprenant au moins les professions suivantes :
+
+1° Des médecins radiothérapeutes qualifiés spécialistes en oncologie option radiothérapie, ou en radiothérapie ou en radiologie option radiodiagnostic et radiothérapie, ou en radiologie option radiothérapie ;
+
+2° Des physiciens médicaux ;
+
+3° Des manipulateurs d'électroradiologie médicale.
+
+Au moins un membre de l'équipe doit assurer les fonctions de dosimétriste.
+
+II.-Lorsque des équipes sont communes, y compris en partie, soit à plusieurs titulaires de l'autorisation pour l'activité de soins de radiothérapie, soit à plusieurs sites de radiothérapie dépendant d'un même titulaire de cette autorisation, un protocole précise les conditions de fixation des tableaux hebdomadaires de présence de ces équipes sur ces divers sites de radiothérapie, en tenant compte de la programmation des traitements des patients.
 

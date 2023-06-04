@@ -1,6 +1,6 @@
 ###### Article D6124-136
 
-Les unités d'hospitalisation de neurochirurgie disposent de lits dédiés en nombre suffisant pour être en mesure de prendre en charge à tout moment les patients de neurochirurgie.
+Les unités d'hospitalisation à temps complet de neurochirurgie disposent de lits dédiés en nombre suffisant pour être en mesure de prendre en charge à tout moment les patients de neurochirurgie.
 
 Les unités d'hospitalisation complète, d'hospitalisation de jour et de consultation de neurochirurgie permettent l'accessibilité et la prise en charge des patients lourdement handicapés à mobilité réduite.
 

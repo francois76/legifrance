@@ -20,7 +20,7 @@ Elle est accompagnée d'un dossier comportant les renseignements suivants :
 
 8° Les effectifs de personnels, autres que pharmaciens, la description des moyens en équipements et du système d'information permettant la réalisation des missions et activités mentionnées au 2° du présent article ;
 
-9° Les modalités envisagées pour la dispensation ou le retrait des médicaments et des produits ou objets mentionnés aux articles L. 4211-1 et L. 5137-1 ainsi que des dispositifs médicaux stériles sur le ou les sites prévus au 6° ainsi qu'au domicile des patients pris en charge par un établissement d'hospitalisation à domicile ou une unité de dialyse à domicile ;
+9° Les modalités envisagées pour la dispensation ou le retrait des médicaments et des produits ou objets mentionnés aux articles L. 4211-1 et L. 5137-1 ainsi que des dispositifs médicaux stériles sur le ou les sites prévus au 6° ainsi qu'au domicile des patients pris en charge par un titulaire d'autorisation d'activité d'hospitalisation à domicile ou une unité de dialyse à domicile ;
 
 10° La convention ou le projet de convention lorsque la pharmacie à usage intérieur exerce une mission ou une activité pour le compte d'une autre pharmacie à usage intérieur ou qu'elle confie une mission ou une activité à une autre pharmacie à usage intérieur ;
 

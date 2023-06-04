@@ -1,10 +1,10 @@
 ###### Article R6123-119
 
-L'autorisation d'exercer l'activité de soins de suite et de réadaptation ne peut être accordée, en application de l'article L. 6122-1, ou renouvelée, en application de l'article L. 6122-10, que si l'établissement de santé est en mesure d'assurer :
+I.-Les actes à visée diagnostique mentionnés dans la présente section comprennent notamment les bilans fonctionnels préalables à la mise en œuvre du projet thérapeutique, l'exploration des complications et les évaluations en cours et à la fin de la mise en œuvre du projet thérapeutique.
 
-1° Les soins médicaux, la rééducation et la réadaptation afin de limiter les handicaps physiques, sensoriels, cognitifs et comportementaux, de prévenir l'apparition d'une dépendance, de favoriser l'autonomie du patient ;
+II.-Les actes à visée thérapeutique mentionnés dans la présente section comprennent notamment les actes réalisés en situation subaiguë et chronique impliquant une surveillance, des soins médicaux et infirmiers, des soins de réadaptation, l'adaptation de l'environnement et des aides techniques.
 
-2° Des actions de prévention et l'éducation thérapeutique du patient et de son entourage ;
+III.-Les actions à visée préventive et d'éducation thérapeutique mentionnées dans la présente section comprennent toutes actions permettant la diminution des récidives et complications, la réduction du recours aux soins curatifs aigus et l'amélioration de la qualité de vie des patients, associant le cas échéant l'entourage du patient.
 
-3° La préparation et l'accompagnement à la réinsertion familiale, sociale, scolaire ou professionnelle.
+IV.-Les actions à visée de réinsertion mentionnées dans la présente section sont destinées à favoriser la réinsertion familiale, sociale, scolaire et professionnelle.
 

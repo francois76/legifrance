@@ -1,4 +1,10 @@
 ###### Article D6124-34-1
 
-Le responsable d'une unité de réanimation pédiatrique ou pédiatrique spécialisée est un pédiatre ou un anesthésiste-réanimateur ayant une formation diplômante en réanimation et deux ans d'expérience en réanimation pédiatrique médico-chirurgicale, ou cinq ans d'expérience en réanimation pédiatrique médico-chirurgicale.
+L'équipe médicale d'une unité de soins intensifs pédiatriques d'hématologie comprend :
+
+1° des médecins spécialisés en pédiatrie ;
+
+2° des médecins spécialisés en hématologie ;
+
+3° en tant que de besoin, des médecins spécialistes nécessaires à la prise en charge des patients, notamment en pédopsychiatrie.
 

@@ -1,12 +1,4 @@
 ###### Article R6123-128
 
-Les activités interventionnelles sous imagerie médicale, par voie endovasculaire, en cardiologie mentionnées au 11° de l'article R. 6122-25 comprennent trois types d'actes :
-
-1° Les actes électrophysiologiques de rythmologie interventionnelle, de stimulation multisites et de défibrillation, y compris la pose de dispositifs de prévention de la mortalité liée à des troubles du rythme ;
-
-2° Les actes portant sur les cardiopathies de l'enfant y compris les éventuelles réinterventions à l'âge adulte sur les cardiopathies congénitales, à l'exclusion des actes réalisés en urgence ;
-
-3° Les actes portant sur les autres cardiopathies de l'adulte.
-
-L'autorisation mentionne les types d'actes pratiqués.
+L'activité interventionnelle sous imagerie médicale en cardiologie comprend l'ensemble des actes de cardiologie à but diagnostic ou thérapeutique réalisés par voie percutanée, transpariétale ou intra-luminale, portant sur une ou plusieurs cibles inaccessibles dans des conditions de qualité et de sécurité satisfaisantes sans utiliser un moyen de guidage par imagerie.
 

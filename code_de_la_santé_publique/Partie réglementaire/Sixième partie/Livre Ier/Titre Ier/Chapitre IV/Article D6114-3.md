@@ -16,7 +16,7 @@ Le contrat fixe, pour l'établissement de santé ou le titulaire de l'autorisati
 
 7° Les conditions de prise en charge des patients nécessitant des soins palliatifs ;
 
-8° Sa participation à la prise en charge des patients atteints de cancer dans les conditions prévues par l'article R. 6123-94 ;
+8° (Abrogé)
 
 9° Le cas échéant, les modalités de mise en œuvre des missions d'enseignement et de recherche compte tenu des objectifs du contrat quadriennal mentionné à l'article L. 711-1 du code de l'éducation ;
 

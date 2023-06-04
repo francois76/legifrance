@@ -1,8 +1,12 @@
 ###### Article D6124-34-2
 
-L'équipe paramédicale d'une unité de réanimation pédiatrique ou pédiatrique spécialisée comprend au minimum un aide-soignant ou un auxiliaire de puériculture pour quatre patients. Cette équipe est dirigée par un cadre de santé de la filière infirmière affecté, pour tout ou partie, à l'unité de réanimation pédiatrique ou pédiatrique spécialisée.
+L'équipe non médicale d'une unité de soins intensifs pédiatriques d'hématologie comprend au moins :
 
-Toute unité de réanimation pédiatrique ou pédiatrique spécialisée doit être en mesure de faire intervenir en permanence un masseur-kinésithérapeute justifiant d'une expérience attestée en réanimation.
+1° Un infirmier diplômé d'Etat pour quatre lits ouverts. L'équipe comprend au moins un infirmier diplômé d'Etat de puériculture sur quatre infirmiers diplômés d'Etat ;
 
-Elle doit par ailleurs organiser le recours à un psychiatre ou à un psychologue, un orthophoniste, un psychomotricien et un assistant social.
+2° Un aide-soignant ou auxiliaire de puériculture pour six lits ouverts ;
+
+3° En tant que de besoin, un psychologue, un assistant social et du personnel à compétence biomédicale.
+
+Les personnels mentionnés aux 1° et 2° sont placés sous la responsabilité d'un cadre de santé.
 

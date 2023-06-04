@@ -2,9 +2,9 @@
 
 L'autorisation prévue par l'article L. 6122-1 ne peut être délivrée à un établissement de santé ou à un groupement de coopération sanitaire que s'il dispose sur un même site, éventuellement par convention avec un autre établissement implanté sur ce site, dans un bâtiment commun ou à défaut dans des bâtiments voisins, des moyens suivants :
 
-1° Une unité d'hospitalisation et des salles d'opérations prenant en charge les patients de neurochirurgie ;
+1° Une unité d'hospitalisation à temps complet et des salles d'intervention protégées prenant en charge les patients de neurochirurgie ;
 
-2° Une unité de réanimation autorisée ;
+2° Une unité de réanimation autorisée au titre soit du 1° de l'article R. 6123-34-1, soit des 1° ou 2° de l'article R. 6123-34-2 ;
 
 3° Un plateau technique d'imagerie permettant de pratiquer des examens de neuroradiologie.
 

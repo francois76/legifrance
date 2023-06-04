@@ -10,7 +10,7 @@ II.-L'autorisation mentionne :
 
 1° Le ou les sites d'implantation des locaux de la pharmacie ;
 
-2° Les différents sites d'implantation des établissements, services ou organismes desservis par la pharmacie et le cas échéant, la zone géographique d'intervention des établissements d'hospitalisation à domicile ou des unités de dialyse à domicile ;
+2° Les différents sites d'implantation des établissements, services ou organismes desservis par la pharmacie et le cas échéant, la zone géographique d'intervention des titulaires d'autorisation d'activité d'hospitalisation à domicile ou des unités de dialyse à domicile ;
 
 3° Les missions et les activités mentionnées aux articles R. 5126-9 et R. 5126-10, assurées par la pharmacie à usage intérieur pour son propre compte ou pour le compte d'une autre pharmacie à usage intérieur et, le cas échéant, la forme pharmaceutique, la nature des produits ou des opérations dans le cas des activités prévues aux 2°, 3° et 7° du I de l'article R. 5126-9.
 

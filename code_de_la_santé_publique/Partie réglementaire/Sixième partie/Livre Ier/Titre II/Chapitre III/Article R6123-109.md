@@ -1,6 +1,4 @@
 ###### Article R6123-109
 
-Le titulaire de l'autorisation de pratiquer les activités interventionnelles par voie endovasculaire en neuroradiologie assure à tout moment, le cas échéant par convention avec d'autres établissements de santé ou groupements de coopération sanitaire, l'accès des patients à une unité de neurologie comprenant une activité neurovasculaire.
-
-Lorsque la prestation est assurée en application d'une convention, elle doit l'être dans des délais compatibles avec les impératifs de sécurité.
+L'autorisation ne peut être accordée que si le titulaire dispose d'une unité de soins intensifs de neurologie vasculaire mentionnée à l'article R. 6123-34-1, sur place vingt-quatre heures sur vingt-quatre, sept jours sur sept et d'une unité de réanimation sur place.
 

@@ -14,6 +14,8 @@ d) Prélèvement d'ovocytes en vue d'un don ;
 
 e) Mise en œuvre de l'accueil des embryons ;
 
+f) Prélèvement d'ovocytes en vue de leur conservation pour la réalisation ultérieure d'une assistance médicale à la procréation en application de l'article L. 2141-12.
+
 2° Les activités biologiques suivantes :
 
 a) Recueil, préparation et conservation du sperme en vue d'une insémination artificielle ;
@@ -31,7 +33,12 @@ e) Conservation à usage autologue des gamètes et préparation et conservation 
 
 f) Conservation des embryons en vue d'un projet parental ou en application du 2° du II de l'article L. 2141-4 ;
 
-g) Conservation des embryons en vue de leur accueil et mise en œuvre de celui-ci.
+g) Conservation des embryons en vue de leur accueil et mise en œuvre de celui-ci ;
+
+h) Activités relatives à la conservation des gamètes en vue de la réalisation ultérieure d'une assistance médicale à la procréation en application de l'article L. 2141-12, comprenant notamment :
+
+- le recueil, la préparation et la conservation du sperme ;
+- la préparation et la conservation des ovocytes.
 
 On entend par :
 

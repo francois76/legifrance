@@ -1,10 +1,8 @@
 ###### Article R6123-126
 
-L'établissement de santé autorisé à exercer l'activité de soins de suite et de réadaptation organise, au moyen de conventions, les coopérations avec les établissements, services ou personnes mentionnés au code de la santé publique ou au code de l'action sociale et des familles que nécessitent :
+Constitue, au sens de l'article L. 2321-2, une maison d'enfants à caractère sanitaire permanent un établissement dont l'activité, qui s'exerce pendant plus de neuf mois par an, se caractérise notamment par des prises en charge longues, qui peuvent être répétées, en dehors des périodes de scolarisation et qui nécessitent un recours à des professionnels socioéducatifs.
 
-1° La mise en œuvre de sa mission de préparation et d'accompagnement à la réinsertion prévue au 3° de l'article R. 6123-119, notamment l'admission en établissement ou en service médico-sociaux mentionnés à l'article L. 312-1 du code de l'action sociale et des familles ;
+Constitue une maison d'enfants à caractère sanitaire temporaire un établissement dont l'activité s'exerce au plus neuf mois par an et remplit les autres conditions prévues au premier alinéa.
 
-2° La coordination de la prise en charge et du suivi des patients.
-
-Ces conventions sont transmises à l'agence régionale de santé.
+La qualification de maison d'enfants à caractère sanitaire permanent ou temporaire est inscrite dans le contrat pluriannuel d'objectifs et de moyens de l'établissement.
 
