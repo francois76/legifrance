@@ -1,6 +1,6 @@
 ###### Article D331-6
 
-L'instruction de la demande de décision favorable prévue à l'article D. 331-3 est assurée par les services déconcentrés de l'Etat chargés du logement au vu d'un dossier joint à la demande et dont la composition est fixée par un arrêté conjoint des ministres chargés du logement et des finances. Ce dossier peut être fourni sous forme dématérialisée dans les conditions et par le système national d'information prévus à l'article D. 331-113. La décision favorable est prise par le représentant de l'Etat dans le département et notifiée au demandeur.
+L'instruction de la demande de décision favorable prévue à l'article D. 331-3 est assurée par les services déconcentrés de l'Etat chargés du logement au vu d'un dossier joint à la demande et dont la composition est fixée par un arrêté conjoint des ministres chargés du logement et des finances. Ce dossier est fourni sous forme dématérialisée dans les conditions prévues à l'article D. 331-113. La décision favorable est prise par le représentant de l'Etat dans le département et notifiée au demandeur.
 
 Lorsqu'une réponse du représentant de l'Etat dans le département n'est pas intervenue dans un délai maximum de quatre mois à compter de la date de la demande de décision favorable, cette demande est réputée rejetée.
 
