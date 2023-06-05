@@ -14,5 +14,7 @@ Le présent titre n'est pas applicable :
 
 a) Aux personnes qui exploitent des services de transport, lorsque la mise en relation a pour objet les services de transport qu'elles exécutent elles-mêmes ;
 
-b) Aux personnes qui organisent des services privés de transport dans les conditions prévues à l'article L. 3131-1, lorsque la mise en relation a pour objet ces services privés de transport.
+b) Aux personnes qui organisent des services privés de transport dans les conditions prévues à l'article L. 3131-1, lorsque la mise en relation a pour objet ces services privés de transport ;
+
+c) Aux activités de mise en relation par voie électronique régies par le titre V.
 
