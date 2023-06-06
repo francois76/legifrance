@@ -41,7 +41,7 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
  </tr>
  <tr>
   <td>D. 612-1-2</td>
-  <td>Résultant du décret n° 2019-231 du 26 mars 2019</td>
+  <td>Résultant du décret n° 2023-419 du 31 mai 2023</td>
  </tr>
  <tr>
   <td>D. 612-1-3 et D. 612-1-4</td>
@@ -79,7 +79,7 @@ D. 612-1-11, 1er, 2e, 3e et 5e alinéas</td>
  </tr>
  <tr>
   <td>D. 612-1-14</td>
-  <td>Résultant du décret n° 2022-924 du 22 juin 2022</td>
+  <td>Résultant du décret n° 2023-419 du 31 mai 2023</td>
  </tr>
  <tr>
   <td>D. 612-1-14-1</td>
