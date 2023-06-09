@@ -1235,7 +1235,7 @@ Les intérêts sont déduits du solde à verser au moment de la livraison du bie
 
 Les dispositions du présent chapitre ne sont pas applicables aux commandes spéciales sur devis ni aux ventes de produits dont la fabrication est entreprise sur commande spéciale de l'acheteur.
 
-#### Chapitre V : Reconduction des contrats de prestations de services
+#### Chapitre V : Reconduction et modalités de résiliation des contrats
 
 ##### Article L215-1
 
@@ -1249,9 +1249,17 @@ Les dispositions du présent article s'appliquent sans préjudice de celles qui 
 
 Par exception au premier alinéa du présent article, pour les contrats de fourniture de service de télévision au sens de l'article 2 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication et pour les contrats de fourniture de services de médias audiovisuels à la demande, le consommateur peut mettre gratuitement un terme au contrat, à tout moment à compter de la première reconduction, dès lors qu'il change de domicile ou que son foyer fiscal évolue.
 
+##### Article L215-1-1
+
+Lorsqu'un contrat a été conclu par voie électronique ou a été conclu par un autre moyen et que le professionnel, au jour de la résiliation par le consommateur, offre au consommateur la possibilité de conclure des contrats par voie électronique, la résiliation est rendue possible selon cette modalité.
+
+A cet effet, le professionnel met à la disposition du consommateur une fonctionnalité gratuite permettant d'accomplir, par voie électronique, la notification et les démarches nécessaires à la résiliation du contrat. Lorsque le consommateur notifie la résiliation du contrat, le professionnel lui confirme la réception de la notification et l'informe, sur un support durable et dans des délais raisonnables, de la date à laquelle le contrat prend fin et des effets de la résiliation.
+
+Un décret fixe notamment les modalités techniques de nature à garantir une identification du consommateur et un accès facile, direct et permanent à la fonctionnalité mentionnée au deuxième alinéa, telles que ses modalités de présentation et d'utilisation. Il détermine les informations devant être fournies par le consommateur.
+
 ##### Article L215-2
 
-Les dispositions du présent chapitre ne sont pas applicables aux exploitants des services d'eau potable et d'assainissement.
+Les dispositions du présent chapitre, à l'exception de l'article L. 215-1-1, ne sont pas applicables aux exploitants des services d'eau potable et d'assainissement.
 
 ##### Article L215-3
 
@@ -1263,11 +1271,11 @@ Les dispositions des articles L. 215-1 à L. 215-3 et L. 241-3 sont intégraleme
 
 ##### Article L215-5
 
-Les règles relatives à la tacite reconduction des contrats d'assurance sont fixées par les dispositions du chapitre III du titre Ier du livre Ier du code des assurances.
+Les règles relatives à la tacite reconduction et aux modalités de résiliation des contrats d'assurance sont fixées par les dispositions du chapitre III du titre Ier du livre Ier du code des assurances.
 
-Les règles relatives à la tacite reconduction des contrats d'adhésion proposées par des mutuelles et des unions de mutuelles sont fixées par les dispositions du chapitre Ier du titre II du livre II du code de la mutualité.
+Les règles relatives à la tacite reconduction et aux modalités de résiliation des contrats d'adhésion proposées par des mutuelles et des unions de mutuelles sont fixées par les dispositions du chapitre Ier du titre II du livre II du code de la mutualité.
 
-Les règles relatives à la tacite reconduction des contrats portant sur des opérations individuelles proposées par des institutions de prévoyance sont fixées par les dispositions du chapitre 2 du titre 3 du livre 9 du code de la sécurité sociale.
+Les règles relatives à la tacite reconduction et aux modalités de résiliation des contrats portant sur des opérations individuelles proposées par des institutions de prévoyance sont fixées par les dispositions du chapitre 2 du titre 3 du livre 9 du code de la sécurité sociale.
 
 #### Chapitre VI : Délivrance, fourniture et transfert de risque
 
@@ -11925,7 +11933,41 @@ Dans le cas contraire, le délai court à compter de la conclusion du contrat ju
 
 #### Chapitre IV : Arrhes et acomptes
 
-#### Chapitre V : Reconduction des contrats de prestations de services
+#### Chapitre V : Reconduction et modalités de résiliation des contrats
+
+##### Article D215-1
+
+La fonctionnalité de résiliation du contrat prévue à l'article L. 215-1-1 est présentée au consommateur sous la mention : “ résilier votre contrat ” ou une formule analogue dénuée d'ambiguïté, affichée en caractères lisibles.
+
+Cette fonctionnalité est directement et facilement accessible à partir de l'interface en ligne depuis laquelle le consommateur peut conclure des contrats par voie électronique.
+
+La fonctionnalité peut indiquer, de manière lisible et compréhensible, les informations portant sur les conditions de la résiliation des contrats, notamment, le cas échéant, l'existence d'un délai de préavis, d'une indemnité de rupture, ainsi que sur les conséquences de la résiliation.
+
+Le professionnel s'abstient d'imposer au consommateur, au stade de la notification de sa résiliation, la création d'un espace personnalisé pour accéder à la fonctionnalité prévue par le présent article, sans préjudice de la possibilité de lui demander d'utiliser à cette fin son espace personnalisé s'il a été créé antérieurement.
+
+##### Article D215-2
+
+I.-Aux fins d'identification du contrat à résilier, la fonctionnalité de résiliation prévue à l'article L. 215-1-1 comporte des rubriques permettant de fournir au professionnel les informations suivantes, ou d'en confirmer l'exactitude :
+
+1° Les nom et prénom du consommateur, ou si le contrat a été conclu avec une personne morale, sa raison ou dénomination sociale ;
+
+2° L'adresse électronique ou à défaut l'adresse postale permettant au professionnel de confirmer la réception de la notification de la résiliation ;
+
+3° Toute référence préalablement communiquée par le professionnel au titulaire du contrat pour identifier ce titulaire et le contrat concerné, tel que par exemple un numéro de client ou de contrat ;
+
+4° La date de résiliation souhaitée sous réserve des dispositions légales ou contractuelles en vigueur.
+
+5° Pour les services de communications électroniques, le numéro de téléphone correspondant à la ligne ou les lignes concernée (s) par la résiliation.
+
+II.-Si, compte-tenu des dispositions légales en vigueur ou des stipulations des contrats, dans le cas où les contrats sont résiliés de façon anticipée par leur titulaires, les conditions de cette résiliation dépendent de l'existence d'un motif légitime, notamment en application du dernier alinéa de l'article L. 215-1 du présent code, de l'article L. 224-37-1 de ce même code, ou de l'article 1218 du code civil, la fonctionnalité de résiliation prévue à l'article L. 215-1-1 comporte une rubrique permettant au consommateur de préciser ce motif légitime et l'informant du justificatif qu'il doit produire au titre de ce motif.
+
+La rubrique prévue à l'alinéa précédent mentionne une adresse électronique ou comporte une fonctionnalité permettant d'adresser au professionnel sous une forme dématérialisée un justificatif du motif légitime de résiliation, et mentionne également l'adresse postale à laquelle le consommateur peut lui envoyer ce justificatif.
+
+##### Article D215-3
+
+Après avoir renseigné ou confirmé les rubriques prévues à l'article D. 215-2, le consommateur accède, avant de procéder à la notification de sa résiliation, à une page qui présente un récapitulatif de sa résiliation lui permettant de vérifier et, le cas échéant, de modifier les informations fournies.
+
+Le consommateur notifie au professionnel la résiliation du contrat par l'activation d'une fonction, qui est directement accessible à partir de la page prévue au premier alinéa sur laquelle elle est présentée avec la mention : “ notification de la résiliation ” ou une formule analogue dénuée d'ambiguïté, affichée en caractères lisibles.
 
 #### Chapitre VI : Livraison et transfert de risque
 
